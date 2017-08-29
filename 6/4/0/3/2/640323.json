@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 640323,
+    "properties": {
+        "woe_id": 640323,
+        "place_id": "s03FGP6fBZz6Sfc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bornefeld, Remscheid, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549452,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/640323_20101217_0dcdac5834.tar.gz"
+        },
+        "bbox": [
+            7.2788801193237,
+            51.15266418457,
+            7.2799220085144,
+            51.153579711914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.279433,
+                        51.153515
+                    ],
+                    [
+                        7.279922,
+                        51.153358
+                    ],
+                    [
+                        7.279901,
+                        51.152996
+                    ],
+                    [
+                        7.279,
+                        51.152664
+                    ],
+                    [
+                        7.27888,
+                        51.15358
+                    ],
+                    [
+                        7.279433,
+                        51.153515
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 660530,
+    "properties": {
+        "woe_id": 660530,
+        "place_id": "eZEnhcSfB5xPTh4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hochfeld, Duisburg, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292483825,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/660530_20101216_79ee25d22e.tar.gz"
+        },
+        "bbox": [
+            6.6450109481812,
+            51.398937225342,
+            6.650505065918,
+            51.40104675293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.648702,
+                        51.399525
+                    ],
+                    [
+                        6.648445,
+                        51.399525
+                    ],
+                    [
+                        6.645011,
+                        51.399689
+                    ],
+                    [
+                        6.646621,
+                        51.401047
+                    ],
+                    [
+                        6.648616,
+                        51.399887
+                    ],
+                    [
+                        6.650505,
+                        51.398937
+                    ],
+                    [
+                        6.648702,
+                        51.399525
+                    ]
+                ]
+            ]
+        ]
+    }
+}

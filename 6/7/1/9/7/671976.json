@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 671976,
+    "properties": {
+        "woe_id": 671976,
+        "place_id": "jf6NkJefBp37xic",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lindenbergsiedlung, Braunschweig, NI, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247909655,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2539\/shapefiles\/671976_20090718_c8b7a9dbd1.tar.gz"
+        },
+        "bbox": [
+            10.555661201477,
+            52.251976013184,
+            10.558108329773,
+            52.255283355713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.557346,
+                        52.251976
+                    ],
+                    [
+                        10.55623,
+                        52.252922
+                    ],
+                    [
+                        10.555661,
+                        52.255283
+                    ],
+                    [
+                        10.558108,
+                        52.255043
+                    ],
+                    [
+                        10.557646,
+                        52.252541
+                    ],
+                    [
+                        10.557346,
+                        52.251976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

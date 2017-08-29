@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 602,
+    "properties": {
+        "woe_id": 602,
+        "place_id": "ixwr1OqfAZ4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old Greenfield Park, Old Greenfield Park, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536984,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/602_20101216_dfa5288780.tar.gz"
+        },
+        "bbox": [
+            -73.494071960449,
+            45.489589691162,
+            -73.490379333496,
+            45.492500305176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.490768,
+                        45.491184
+                    ],
+                    [
+                        -73.491241,
+                        45.48959
+                    ],
+                    [
+                        -73.492516,
+                        45.489719
+                    ],
+                    [
+                        -73.494072,
+                        45.490913
+                    ],
+                    [
+                        -73.492798,
+                        45.4925
+                    ],
+                    [
+                        -73.490379,
+                        45.491879
+                    ],
+                    [
+                        -73.490768,
+                        45.491184
+                    ]
+                ]
+            ]
+        ]
+    }
+}

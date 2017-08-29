@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 662520,
+    "properties": {
+        "woe_id": 662520,
+        "place_id": "VlUYkqmfB56fTsM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hossenhaus, Solingen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535139,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/662520_20101216_f2cedc7991.tar.gz"
+        },
+        "bbox": [
+            7.0489988327026,
+            51.143333435059,
+            7.0524997711182,
+            51.148345947266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.049166,
+                        51.143333
+                    ],
+                    [
+                        7.048999,
+                        51.144333
+                    ],
+                    [
+                        7.050615,
+                        51.148346
+                    ],
+                    [
+                        7.052166,
+                        51.145164
+                    ],
+                    [
+                        7.0525,
+                        51.144501
+                    ],
+                    [
+                        7.049333,
+                        51.143501
+                    ],
+                    [
+                        7.049166,
+                        51.143333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

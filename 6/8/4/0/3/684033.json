@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 684033,
+    "properties": {
+        "woe_id": 684033,
+        "place_id": "jaH9dD.fCZhoEFI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Overhaken, Hamburg, HH, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292409003,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/684033_20101215_cb27135cb0.tar.gz"
+        },
+        "bbox": [
+            10.110584259033,
+            53.431091308594,
+            10.114953041077,
+            53.435081481934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.114546,
+                        53.431217
+                    ],
+                    [
+                        10.110584,
+                        53.435081
+                    ],
+                    [
+                        10.114631,
+                        53.431629
+                    ],
+                    [
+                        10.114953,
+                        53.431091
+                    ],
+                    [
+                        10.114546,
+                        53.431217
+                    ]
+                ]
+            ]
+        ]
+    }
+}

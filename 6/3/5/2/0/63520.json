@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 63520,
+    "properties": {
+        "woe_id": 63520,
+        "place_id": "tZx_6vafApmNUw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Ceiba, Havana, CH, CU, Cuba"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549129,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/63520_20101217_b85caebfbc.tar.gz"
+        },
+        "bbox": [
+            -82.419700622559,
+            23.094219207764,
+            -82.414451599121,
+            23.095916748047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.419701,
+                        23.09462
+                    ],
+                    [
+                        -82.419212,
+                        23.094801
+                    ],
+                    [
+                        -82.414452,
+                        23.095917
+                    ],
+                    [
+                        -82.418983,
+                        23.094219
+                    ],
+                    [
+                        -82.41954,
+                        23.09429
+                    ],
+                    [
+                        -82.419701,
+                        23.09462
+                    ]
+                ]
+            ]
+        ]
+    }
+}

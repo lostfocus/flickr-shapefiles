@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 678358,
+    "properties": {
+        "woe_id": 678358,
+        "place_id": "UE3Cq5CfBpTL2nc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Neufechingen, Sarrebruck, SL, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550735,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/678358_20101217_d176489ac5.tar.gz"
+        },
+        "bbox": [
+            7.0295329093933,
+            49.217819213867,
+            7.0329661369324,
+            49.221912384033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.029533,
+                        49.221745
+                    ],
+                    [
+                        7.031722,
+                        49.221851
+                    ],
+                    [
+                        7.032623,
+                        49.221912
+                    ],
+                    [
+                        7.032794,
+                        49.221912
+                    ],
+                    [
+                        7.032966,
+                        49.217819
+                    ],
+                    [
+                        7.030735,
+                        49.22057
+                    ],
+                    [
+                        7.029533,
+                        49.221745
+                    ]
+                ]
+            ]
+        ]
+    }
+}

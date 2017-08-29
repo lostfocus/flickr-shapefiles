@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 669089,
+    "properties": {
+        "woe_id": 669089,
+        "place_id": "aLrmn0KfB5XS9sQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kroog, Kiel, SH, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226572086,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3175\/shapefiles\/669089_20081113_d22d2a9b3e.tar.gz"
+        },
+        "bbox": [
+            10.241230964661,
+            54.283153533936,
+            10.246917724609,
+            54.290130615234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.246424,
+                        54.290131
+                    ],
+                    [
+                        10.246918,
+                        54.288593
+                    ],
+                    [
+                        10.245308,
+                        54.283154
+                    ],
+                    [
+                        10.241231,
+                        54.283466
+                    ],
+                    [
+                        10.242744,
+                        54.288475
+                    ],
+                    [
+                        10.246424,
+                        54.290131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

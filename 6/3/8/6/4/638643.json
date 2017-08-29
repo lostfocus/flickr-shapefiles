@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 638643,
+    "properties": {
+        "woe_id": 638643,
+        "place_id": "Q0ygdgyfApTVtpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bevenrode, Braunschweig, NI, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491508,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/638643_20101216_22052aa6d8.tar.gz"
+        },
+        "bbox": [
+            10.543924331665,
+            52.347145080566,
+            10.546155929565,
+            52.347515106201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.546156,
+                        52.347267
+                    ],
+                    [
+                        10.545566,
+                        52.347145
+                    ],
+                    [
+                        10.545405,
+                        52.347183
+                    ],
+                    [
+                        10.543924,
+                        52.347515
+                    ],
+                    [
+                        10.544224,
+                        52.347515
+                    ],
+                    [
+                        10.546156,
+                        52.347267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

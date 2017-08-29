@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 648472,
+    "properties": {
+        "woe_id": 648472,
+        "place_id": "5RVCCzefBZQjtP8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Erlenstegen, Nuremberg, BY, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234712788,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3541\/shapefiles\/648472_20090215_ef828463f6.tar.gz"
+        },
+        "bbox": [
+            11.130652427673,
+            49.467769622803,
+            11.137552261353,
+            49.474102020264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.13226,
+                        49.4706
+                    ],
+                    [
+                        11.130652,
+                        49.474102
+                    ],
+                    [
+                        11.13276,
+                        49.470779
+                    ],
+                    [
+                        11.137552,
+                        49.46777
+                    ],
+                    [
+                        11.13262,
+                        49.47057
+                    ],
+                    [
+                        11.13226,
+                        49.4706
+                    ]
+                ]
+            ]
+        ]
+    }
+}

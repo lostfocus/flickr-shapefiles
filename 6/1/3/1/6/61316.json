@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 61316,
+    "properties": {
+        "woe_id": 61316,
+        "place_id": "ro_6IUCfAJ9CIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Columbia, Havana, CH, CU, Cuba"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533710,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/61316_20101216_d592d6e02b.tar.gz"
+        },
+        "bbox": [
+            -82.420288085938,
+            23.10000038147,
+            -82.41529083252,
+            23.106101989746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.415375,
+                        23.106102
+                    ],
+                    [
+                        -82.415291,
+                        23.105963
+                    ],
+                    [
+                        -82.415611,
+                        23.105051
+                    ],
+                    [
+                        -82.416702,
+                        23.1
+                    ],
+                    [
+                        -82.419952,
+                        23.101774
+                    ],
+                    [
+                        -82.420288,
+                        23.103733
+                    ],
+                    [
+                        -82.415375,
+                        23.106102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

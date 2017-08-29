@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 678227,
+    "properties": {
+        "woe_id": 678227,
+        "place_id": "4ZVH_aGfBpT0TJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Neuenkamp, Remscheid, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247715492,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2474\/shapefiles\/678227_20090716_9cf15eb7c8.tar.gz"
+        },
+        "bbox": [
+            7.1891350746155,
+            51.180061340332,
+            7.194091796875,
+            51.181293487549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.193813,
+                        51.180782
+                    ],
+                    [
+                        7.194092,
+                        51.180061
+                    ],
+                    [
+                        7.193534,
+                        51.180096
+                    ],
+                    [
+                        7.189135,
+                        51.180729
+                    ],
+                    [
+                        7.191839,
+                        51.181293
+                    ],
+                    [
+                        7.193813,
+                        51.180782
+                    ]
+                ]
+            ]
+        ]
+    }
+}

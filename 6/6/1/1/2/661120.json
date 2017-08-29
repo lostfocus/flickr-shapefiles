@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 661120,
+    "properties": {
+        "woe_id": 661120,
+        "place_id": "21Q7S.efB51anYk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hohenbudberg, Krefeld, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239622217,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3644\/shapefiles\/661120_20090413_842b7cf227.tar.gz"
+        },
+        "bbox": [
+            6.6649670600891,
+            51.370639801025,
+            6.6656541824341,
+            51.374137878418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.664967,
+                        51.374138
+                    ],
+                    [
+                        6.665654,
+                        51.373528
+                    ],
+                    [
+                        6.665602,
+                        51.37064
+                    ],
+                    [
+                        6.664988,
+                        51.373653
+                    ],
+                    [
+                        6.664967,
+                        51.374138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

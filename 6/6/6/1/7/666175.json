@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 666175,
+    "properties": {
+        "woe_id": 666175,
+        "place_id": "2rnthMyfB5oiL5Y",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Klauberg, Solingen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532128,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/666175_20101216_cce17abf4c.tar.gz"
+        },
+        "bbox": [
+            7.0850868225098,
+            51.169872283936,
+            7.0890989303589,
+            51.177238464355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.085087,
+                        51.172012
+                    ],
+                    [
+                        7.085151,
+                        51.172562
+                    ],
+                    [
+                        7.085323,
+                        51.173153
+                    ],
+                    [
+                        7.08646,
+                        51.177238
+                    ],
+                    [
+                        7.089099,
+                        51.174606
+                    ],
+                    [
+                        7.087383,
+                        51.169872
+                    ],
+                    [
+                        7.085666,
+                        51.171593
+                    ],
+                    [
+                        7.085087,
+                        51.172012
+                    ]
+                ]
+            ]
+        ]
+    }
+}

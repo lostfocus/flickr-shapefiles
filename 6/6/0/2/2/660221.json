@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 660221,
+    "properties": {
+        "woe_id": 660221,
+        "place_id": "MtRJ_S6fB5w6Rts",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hinterm Horn, Hamburg, HH, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525163,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/660221_20101216_0ec14ed4ed.tar.gz"
+        },
+        "bbox": [
+            10.13388633728,
+            53.461212158203,
+            10.136968612671,
+            53.462707519531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.135208,
+                        53.462219
+                    ],
+                    [
+                        10.133886,
+                        53.462708
+                    ],
+                    [
+                        10.13505,
+                        53.462318
+                    ],
+                    [
+                        10.135172,
+                        53.46228
+                    ],
+                    [
+                        10.136969,
+                        53.461212
+                    ],
+                    [
+                        10.135208,
+                        53.462219
+                    ]
+                ]
+            ]
+        ]
+    }
+}

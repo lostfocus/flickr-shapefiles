@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 678943,
+    "properties": {
+        "woe_id": 678943,
+        "place_id": "qZTH9MKfBpTSu48",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Neuschmidtstedt, Erfurt, TH, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292505248,
+        "alpha": 1.0e-5,
+        "points": 28,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/678943_20101216_45d5b88911.tar.gz"
+        },
+        "bbox": [
+            11.035058021545,
+            50.956771850586,
+            11.038297653198,
+            50.964874267578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.035079,
+                        50.961399
+                    ],
+                    [
+                        11.035058,
+                        50.964874
+                    ],
+                    [
+                        11.035825,
+                        50.962105
+                    ],
+                    [
+                        11.038298,
+                        50.956772
+                    ],
+                    [
+                        11.036109,
+                        50.957333
+                    ],
+                    [
+                        11.035079,
+                        50.961399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

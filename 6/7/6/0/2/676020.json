@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 676020,
+    "properties": {
+        "woe_id": 676020,
+        "place_id": "8DAAMxufBpqfouY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moorenbrunn, Nuremberg, BY, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491802,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/676020_20101216_6f957882fb.tar.gz"
+        },
+        "bbox": [
+            11.160113334656,
+            49.399097442627,
+            11.163822174072,
+            49.404605865479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.162753,
+                        49.399105
+                    ],
+                    [
+                        11.162588,
+                        49.399097
+                    ],
+                    [
+                        11.160113,
+                        49.404606
+                    ],
+                    [
+                        11.163822,
+                        49.400131
+                    ],
+                    [
+                        11.162753,
+                        49.399105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

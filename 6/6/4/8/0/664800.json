@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 664800,
+    "properties": {
+        "woe_id": 664800,
+        "place_id": "Us7WJNOfB5ib0cM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kanzlershof, Hamburg, HH, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546566,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/664800_20101217_1b0ed24035.tar.gz"
+        },
+        "bbox": [
+            9.9925575256348,
+            53.446544647217,
+            9.9975576400757,
+            53.449253082275
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.992558,
+                        53.447834
+                    ],
+                    [
+                        9.997483,
+                        53.449253
+                    ],
+                    [
+                        9.997558,
+                        53.449234
+                    ],
+                    [
+                        9.993915,
+                        53.446545
+                    ],
+                    [
+                        9.992558,
+                        53.447834
+                    ]
+                ]
+            ]
+        ]
+    }
+}
