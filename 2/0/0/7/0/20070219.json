@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20070219,
+    "properties": {
+        "woe_id": 20070219,
+        "place_id": "nuGYOlObAZxH0JGibA",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Barda, AZ, Azerbaijan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452263,
+        "alpha": 0.03,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/20070219_20101215_40844d8514.tar.gz"
+        },
+        "bbox": [
+            47.113666534424,
+            40.381660461426,
+            47.26318359375,
+            40.547199249268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        47.125423,
+                        40.38166
+                    ],
+                    [
+                        47.113667,
+                        40.390488
+                    ],
+                    [
+                        47.197266,
+                        40.547199
+                    ],
+                    [
+                        47.263184,
+                        40.430222
+                    ],
+                    [
+                        47.125423,
+                        40.38166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

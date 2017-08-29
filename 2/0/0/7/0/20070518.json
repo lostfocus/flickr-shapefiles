@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070518,
+    "properties": {
+        "woe_id": 20070518,
+        "place_id": "qGe4ZAibAZw9nxHw4w",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Ust-ordynskiy Buryatskiy Avtonomnyy Okrug, RU, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551379,
+        "alpha": 0.03,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/20070518_20101217_044348b30d.tar.gz"
+        },
+        "bbox": [
+            105.50930786133,
+            52.782829284668,
+            105.80932617188,
+            53.067626953125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        105.809326,
+                        52.855865
+                    ],
+                    [
+                        105.79834,
+                        52.782829
+                    ],
+                    [
+                        105.69397,
+                        52.839275
+                    ],
+                    [
+                        105.509308,
+                        53.044167
+                    ],
+                    [
+                        105.644531,
+                        53.067627
+                    ],
+                    [
+                        105.809326,
+                        52.855865
+                    ]
+                ]
+            ]
+        ]
+    }
+}

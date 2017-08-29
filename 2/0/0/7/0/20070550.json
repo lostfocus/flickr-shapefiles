@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070550,
+    "properties": {
+        "woe_id": 20070550,
+        "place_id": "0_Bx0A6bAZwKFOAE6w",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Montegiardino, SM, San Marino"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530949,
+        "alpha": 0.03,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/20070550_20101216_f9701e7858.tar.gz"
+        },
+        "bbox": [
+            12.472547531128,
+            43.879211425781,
+            12.504501342773,
+            43.923492431641
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.482357,
+                        43.879211
+                    ],
+                    [
+                        12.472548,
+                        43.922703
+                    ],
+                    [
+                        12.474117,
+                        43.923492
+                    ],
+                    [
+                        12.504501,
+                        43.902344
+                    ],
+                    [
+                        12.484416,
+                        43.880573
+                    ],
+                    [
+                        12.482357,
+                        43.879211
+                    ]
+                ]
+            ]
+        ]
+    }
+}

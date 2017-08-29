@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20070246,
+    "properties": {
+        "woe_id": 20070246,
+        "place_id": "AMcPoXqbAZzd16d4Bw",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Saki, AZ, Azerbaijan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248315368,
+        "alpha": 0.03,
+        "points": 40,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2590\/shapefiles\/20070246_20090723_0a74a067b1.tar.gz"
+        },
+        "bbox": [
+            47.108688354492,
+            41.106712341309,
+            47.198009490967,
+            41.248878479004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        47.198009,
+                        41.204216
+                    ],
+                    [
+                        47.177868,
+                        41.167542
+                    ],
+                    [
+                        47.119675,
+                        41.115314
+                    ],
+                    [
+                        47.108688,
+                        41.106712
+                    ],
+                    [
+                        47.120705,
+                        41.217144
+                    ],
+                    [
+                        47.192886,
+                        41.248878
+                    ],
+                    [
+                        47.198009,
+                        41.204216
+                    ]
+                ]
+            ]
+        ]
+    }
+}

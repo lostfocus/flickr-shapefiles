@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20070123,
+    "properties": {
+        "woe_id": 20070123,
+        "place_id": "8XhhPcibAZwswUMXdw",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Rezekne, LV, Latvia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547000,
+        "alpha": 0.03,
+        "points": 57,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/20070123_20101217_7484fa3dfe.tar.gz"
+        },
+        "bbox": [
+            27.298021316528,
+            56.314456939697,
+            27.514358520508,
+            56.537624359131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.313814,
+                        56.494202
+                    ],
+                    [
+                        27.298021,
+                        56.533932
+                    ],
+                    [
+                        27.313986,
+                        56.535114
+                    ],
+                    [
+                        27.342567,
+                        56.537624
+                    ],
+                    [
+                        27.450371,
+                        56.533176
+                    ],
+                    [
+                        27.514359,
+                        56.314457
+                    ],
+                    [
+                        27.33819,
+                        56.484154
+                    ],
+                    [
+                        27.313814,
+                        56.494202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

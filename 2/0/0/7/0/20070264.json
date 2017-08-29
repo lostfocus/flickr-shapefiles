@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20070264,
+    "properties": {
+        "woe_id": 20070264,
+        "place_id": "8TsgKZWbAZw60USPfw",
+        "place_type": "region",
+        "place_type_id": 8,
+        "label": "Susa, AZ, Azerbaijan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533675,
+        "alpha": 0.03,
+        "points": 26,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20070264_20101216_dd59fa07cd.tar.gz"
+        },
+        "bbox": [
+            46.675415039062,
+            39.715110778809,
+            46.831970214844,
+            39.774768829346
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        46.763134,
+                        39.757221
+                    ],
+                    [
+                        46.83197,
+                        39.727257
+                    ],
+                    [
+                        46.675415,
+                        39.715111
+                    ],
+                    [
+                        46.741333,
+                        39.774769
+                    ],
+                    [
+                        46.763134,
+                        39.757221
+                    ]
+                ]
+            ]
+        ]
+    }
+}
