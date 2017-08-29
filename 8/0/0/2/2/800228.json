@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 800228,
+    "properties": {
+        "woe_id": 800228,
+        "place_id": "FAddc52RAZyAKqo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Unho\u0161\u0165, St\u0159edo\u010desk\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292439965,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/800228_20101215_4c2480d062.tar.gz"
+        },
+        "bbox": [
+            14.115907669067,
+            50.082508087158,
+            14.133590698242,
+            50.093273162842
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.115908,
+                        50.082508
+                    ],
+                    [
+                        14.118118,
+                        50.093273
+                    ],
+                    [
+                        14.133591,
+                        50.089989
+                    ],
+                    [
+                        14.131507,
+                        50.084244
+                    ],
+                    [
+                        14.120333,
+                        50.083168
+                    ],
+                    [
+                        14.115908,
+                        50.082508
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 860442,
+    "properties": {
+        "woe_id": 860442,
+        "place_id": "Fn_Uk16RB5xagno",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kambo, Ostfold, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234619642,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3503\/shapefiles\/860442_20090214_514ba8df50.tar.gz"
+        },
+        "bbox": [
+            10.675662994385,
+            59.432113647461,
+            10.700157165527,
+            59.441787719727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.675663,
+                        59.432529
+                    ],
+                    [
+                        10.678335,
+                        59.435982
+                    ],
+                    [
+                        10.700157,
+                        59.441788
+                    ],
+                    [
+                        10.680556,
+                        59.432114
+                    ],
+                    [
+                        10.675663,
+                        59.432529
+                    ]
+                ]
+            ]
+        ]
+    }
+}

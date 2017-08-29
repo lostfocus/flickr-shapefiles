@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 80789,
+    "properties": {
+        "woe_id": 80789,
+        "place_id": "43QMaiCRAZubhg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moustique, Basse-Terre, Guadeloupe"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449928,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/80789_20101215_c775310c26.tar.gz"
+        },
+        "bbox": [
+            -61.683338165283,
+            16.327417373657,
+            -61.648578643799,
+            16.34641456604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.665573,
+                        16.335461
+                    ],
+                    [
+                        -61.683338,
+                        16.327417
+                    ],
+                    [
+                        -61.680164,
+                        16.341391
+                    ],
+                    [
+                        -61.681194,
+                        16.346415
+                    ],
+                    [
+                        -61.660336,
+                        16.344355
+                    ],
+                    [
+                        -61.648579,
+                        16.340237
+                    ],
+                    [
+                        -61.665573,
+                        16.335461
+                    ]
+                ]
+            ]
+        ]
+    }
+}

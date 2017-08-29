@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 888932,
+    "properties": {
+        "woe_id": 888932,
+        "place_id": "aBGOAzSRCZQl6OI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Emadelen, Dalarna, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536562,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/888932_20101216_ba6dffb900.tar.gz"
+        },
+        "bbox": [
+            14.718588829041,
+            61.298522949219,
+            14.731291770935,
+            61.327175140381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.731292,
+                        61.313194
+                    ],
+                    [
+                        14.718589,
+                        61.298523
+                    ],
+                    [
+                        14.719533,
+                        61.319332
+                    ],
+                    [
+                        14.719877,
+                        61.327175
+                    ],
+                    [
+                        14.729576,
+                        61.318508
+                    ],
+                    [
+                        14.730563,
+                        61.317955
+                    ],
+                    [
+                        14.731292,
+                        61.313194
+                    ]
+                ]
+            ]
+        ]
+    }
+}

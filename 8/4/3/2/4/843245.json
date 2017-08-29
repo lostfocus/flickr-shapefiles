@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 843245,
+    "properties": {
+        "woe_id": 843245,
+        "place_id": "4YUYZSaRBZ91iDQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Korvesilla, Tartu County, Estonia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551576,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/843245_20101217_6754eeb769.tar.gz"
+        },
+        "bbox": [
+            27.145149230957,
+            58.330829620361,
+            27.150737762451,
+            58.3410987854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.145149,
+                        58.334869
+                    ],
+                    [
+                        27.145334,
+                        58.341099
+                    ],
+                    [
+                        27.150738,
+                        58.33083
+                    ],
+                    [
+                        27.150106,
+                        58.331261
+                    ],
+                    [
+                        27.145149,
+                        58.334869
+                    ]
+                ]
+            ]
+        ]
+    }
+}

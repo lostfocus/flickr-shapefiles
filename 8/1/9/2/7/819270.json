@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 819270,
+    "properties": {
+        "woe_id": 819270,
+        "place_id": "CEiqHMWRAJXlCss",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Doln\u00fd Smokovec, Presovsky, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234479363,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3401\/shapefiles\/819270_20090212_bdd33d18e5.tar.gz"
+        },
+        "bbox": [
+            20.234756469727,
+            49.125949859619,
+            20.245374679565,
+            49.131858825684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        20.234756,
+                        49.131859
+                    ],
+                    [
+                        20.238619,
+                        49.12978
+                    ],
+                    [
+                        20.245375,
+                        49.12595
+                    ],
+                    [
+                        20.238791,
+                        49.12944
+                    ],
+                    [
+                        20.234756,
+                        49.131859
+                    ]
+                ]
+            ]
+        ]
+    }
+}

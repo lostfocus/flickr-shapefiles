@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 8622,
+    "properties": {
+        "woe_id": 8622,
+        "place_id": "RNfRVyaRB57t",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vauxhall, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446754,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/8622_20101215_ce5fdafe96.tar.gz"
+        },
+        "bbox": [
+            -112.11461639404,
+            50.068653106689,
+            -112.09734344482,
+            50.092170715332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.097343,
+                        50.070881
+                    ],
+                    [
+                        -112.10273,
+                        50.068653
+                    ],
+                    [
+                        -112.114616,
+                        50.072895
+                    ],
+                    [
+                        -112.105865,
+                        50.092171
+                    ],
+                    [
+                        -112.097343,
+                        50.070881
+                    ]
+                ]
+            ]
+        ]
+    }
+}

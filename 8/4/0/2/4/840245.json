@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 840245,
+    "properties": {
+        "woe_id": 840245,
+        "place_id": "fYpfOVKRBZwYs1k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tryavna, Gabrovo, Bulgaria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292501883,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/840245_20101216_349a52bf57.tar.gz"
+        },
+        "bbox": [
+            25.48828125,
+            42.860084533691,
+            25.516262054443,
+            42.884029388428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        25.499954,
+                        42.872314
+                    ],
+                    [
+                        25.516262,
+                        42.861179
+                    ],
+                    [
+                        25.499567,
+                        42.863571
+                    ],
+                    [
+                        25.488281,
+                        42.860085
+                    ],
+                    [
+                        25.495148,
+                        42.869926
+                    ],
+                    [
+                        25.496758,
+                        42.884029
+                    ],
+                    [
+                        25.499954,
+                        42.872314
+                    ]
+                ]
+            ]
+        ]
+    }
+}

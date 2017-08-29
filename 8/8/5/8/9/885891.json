@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 885891,
+    "properties": {
+        "woe_id": 885891,
+        "place_id": "YlEnRkiRCZkfD2E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "B\u00e4rby, Uppsala, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234656485,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3154\/shapefiles\/885891_20090215_dcdcf37afb.tar.gz"
+        },
+        "bbox": [
+            17.808752059937,
+            59.856346130371,
+            17.816133499146,
+            59.858577728271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.808752,
+                        59.858578
+                    ],
+                    [
+                        17.81004,
+                        59.858135
+                    ],
+                    [
+                        17.816133,
+                        59.856972
+                    ],
+                    [
+                        17.810081,
+                        59.856346
+                    ],
+                    [
+                        17.808752,
+                        59.858578
+                    ]
+                ]
+            ]
+        ]
+    }
+}

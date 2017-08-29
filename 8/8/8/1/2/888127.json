@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 888127,
+    "properties": {
+        "woe_id": 888127,
+        "place_id": "1.xJdUeRCZSA1b4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "D\u00e4desj\u00f6, Kronoberg, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524090,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/888127_20101216_8410c021cd.tar.gz"
+        },
+        "bbox": [
+            15.09693145752,
+            56.98853302002,
+            15.110491752625,
+            57.010486602783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.108046,
+                        57.010296
+                    ],
+                    [
+                        15.110492,
+                        56.993301
+                    ],
+                    [
+                        15.096931,
+                        56.988533
+                    ],
+                    [
+                        15.102767,
+                        57.009056
+                    ],
+                    [
+                        15.106954,
+                        57.010487
+                    ],
+                    [
+                        15.108046,
+                        57.010296
+                    ]
+                ]
+            ]
+        ]
+    }
+}

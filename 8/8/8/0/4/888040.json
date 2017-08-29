@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 888040,
+    "properties": {
+        "woe_id": 888040,
+        "place_id": "roEGVymRCZQzxwk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "By Kyrkby, Dalarna, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549424,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/888040_20101217_cfb4986039.tar.gz"
+        },
+        "bbox": [
+            16.472969055176,
+            60.176525115967,
+            16.482498168945,
+            60.196834564209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.482498,
+                        60.181831
+                    ],
+                    [
+                        16.481333,
+                        60.181499
+                    ],
+                    [
+                        16.472969,
+                        60.176525
+                    ],
+                    [
+                        16.479834,
+                        60.196835
+                    ],
+                    [
+                        16.482498,
+                        60.181831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

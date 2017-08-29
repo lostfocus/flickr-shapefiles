@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 80512,
+    "properties": {
+        "woe_id": 80512,
+        "place_id": "STQ3eQSRAZkLGg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beausoleil, Basse-Terre, Guadeloupe"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520629,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/80512_20101216_6401684a98.tar.gz"
+        },
+        "bbox": [
+            -61.80908203125,
+            16.266424179077,
+            -61.797409057617,
+            16.287187576294
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.803589,
+                        16.280596
+                    ],
+                    [
+                        -61.797409,
+                        16.266424
+                    ],
+                    [
+                        -61.806679,
+                        16.277466
+                    ],
+                    [
+                        -61.809082,
+                        16.278948
+                    ],
+                    [
+                        -61.800327,
+                        16.287188
+                    ],
+                    [
+                        -61.803589,
+                        16.280596
+                    ]
+                ]
+            ]
+        ]
+    }
+}

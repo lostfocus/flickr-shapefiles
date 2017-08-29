@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 8545,
+    "properties": {
+        "woe_id": 8545,
+        "place_id": "E1AwPzuRBJiP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Meeting Creek, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458120,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/8545_20101216_ae0cae0b44.tar.gz"
+        },
+        "bbox": [
+            -112.7315826416,
+            52.680988311768,
+            -112.71663665771,
+            52.683876037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.729683,
+                        52.683876
+                    ],
+                    [
+                        -112.728134,
+                        52.682938
+                    ],
+                    [
+                        -112.716637,
+                        52.680988
+                    ],
+                    [
+                        -112.727791,
+                        52.681404
+                    ],
+                    [
+                        -112.72921,
+                        52.681496
+                    ],
+                    [
+                        -112.731583,
+                        52.681961
+                    ],
+                    [
+                        -112.729683,
+                        52.683876
+                    ]
+                ]
+            ]
+        ]
+    }
+}

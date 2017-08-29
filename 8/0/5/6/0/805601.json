@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 805601,
+    "properties": {
+        "woe_id": 805601,
+        "place_id": "w7LKFW2RAZnUn_k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dorogh\u00e1za, N\u00f3gr\u00e1d, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451187,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/805601_20101215_03a360154c.tar.gz"
+        },
+        "bbox": [
+            19.895853042603,
+            47.987796783447,
+            19.903621673584,
+            47.995895385742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.898386,
+                        47.988472
+                    ],
+                    [
+                        19.897871,
+                        47.987797
+                    ],
+                    [
+                        19.895853,
+                        47.989391
+                    ],
+                    [
+                        19.899073,
+                        47.991127
+                    ],
+                    [
+                        19.903622,
+                        47.995895
+                    ],
+                    [
+                        19.898386,
+                        47.988472
+                    ]
+                ]
+            ]
+        ]
+    }
+}

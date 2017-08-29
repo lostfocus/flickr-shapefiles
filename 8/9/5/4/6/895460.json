@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 895460,
+    "properties": {
+        "woe_id": 895460,
+        "place_id": "RaYUG8SRCJlpTfA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Klippansbruk, Skane, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234768689,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3519\/shapefiles\/895460_20090216_21c6c59338.tar.gz"
+        },
+        "bbox": [
+            13.147629737854,
+            56.113403320312,
+            13.154238700867,
+            56.120914459229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.154239,
+                        56.114792
+                    ],
+                    [
+                        13.152866,
+                        56.113403
+                    ],
+                    [
+                        13.14763,
+                        56.119217
+                    ],
+                    [
+                        13.14851,
+                        56.120914
+                    ],
+                    [
+                        13.154239,
+                        56.114792
+                    ]
+                ]
+            ]
+        ]
+    }
+}

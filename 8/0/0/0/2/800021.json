@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 800021,
+    "properties": {
+        "woe_id": 800021,
+        "place_id": "CWBWhbKRAZxY48A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "T\u00fdn nad Vltavou, Jiho\u010desk\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541542,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/800021_20101216_1e01a6f2c7.tar.gz"
+        },
+        "bbox": [
+            14.408076286316,
+            49.222034454346,
+            14.42130279541,
+            49.227886199951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.421002,
+                        49.22319
+                    ],
+                    [
+                        14.421303,
+                        49.222637
+                    ],
+                    [
+                        14.42067,
+                        49.222034
+                    ],
+                    [
+                        14.408076,
+                        49.227886
+                    ],
+                    [
+                        14.420049,
+                        49.223804
+                    ],
+                    [
+                        14.421002,
+                        49.22319
+                    ]
+                ]
+            ]
+        ]
+    }
+}

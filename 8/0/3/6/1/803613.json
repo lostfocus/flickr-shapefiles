@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 803613,
+    "properties": {
+        "woe_id": 803613,
+        "place_id": "v0IRbZqRAZ88lkE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Becske, N\u00f3gr\u00e1d, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532284,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/803613_20101216_40bed5b286.tar.gz"
+        },
+        "bbox": [
+            19.373380661011,
+            47.905532836914,
+            19.402027130127,
+            47.926193237305
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.383873,
+                        47.918915
+                    ],
+                    [
+                        19.385633,
+                        47.920757
+                    ],
+                    [
+                        19.402027,
+                        47.926193
+                    ],
+                    [
+                        19.385633,
+                        47.910645
+                    ],
+                    [
+                        19.373381,
+                        47.905533
+                    ],
+                    [
+                        19.374905,
+                        47.915478
+                    ],
+                    [
+                        19.383873,
+                        47.918915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

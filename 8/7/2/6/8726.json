@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 8726,
+    "properties": {
+        "woe_id": 8726,
+        "place_id": "nn1JTGCRBp7S",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eckville, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544532,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/8726_20101217_44d7a8d0b9.tar.gz"
+        },
+        "bbox": [
+            -114.33899688721,
+            52.368991851807,
+            -114.33888244629,
+            52.369136810303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.338997,
+                        52.369003
+                    ],
+                    [
+                        -114.338882,
+                        52.369137
+                    ],
+                    [
+                        -114.338928,
+                        52.369019
+                    ],
+                    [
+                        -114.338989,
+                        52.368992
+                    ],
+                    [
+                        -114.338997,
+                        52.369003
+                    ]
+                ]
+            ]
+        ]
+    }
+}

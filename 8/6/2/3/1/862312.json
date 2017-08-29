@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 862312,
+    "properties": {
+        "woe_id": 862312,
+        "place_id": "AUuu8dKRB57LVB0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nordstr\u00f8no, Hordaland Fylke, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529066,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/862312_20101216_61c44fab01.tar.gz"
+        },
+        "bbox": [
+            5.2531127929688,
+            60.145191192627,
+            5.2566108703613,
+            60.149475097656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.256194,
+                        60.148712
+                    ],
+                    [
+                        5.256611,
+                        60.149475
+                    ],
+                    [
+                        5.256052,
+                        60.148396
+                    ],
+                    [
+                        5.255955,
+                        60.148212
+                    ],
+                    [
+                        5.253113,
+                        60.145191
+                    ],
+                    [
+                        5.256194,
+                        60.148712
+                    ]
+                ]
+            ]
+        ]
+    }
+}

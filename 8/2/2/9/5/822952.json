@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 822952,
+    "properties": {
+        "woe_id": 822952,
+        "place_id": "h61335GRA55dSYY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Janikovce, Nitriansky, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234567203,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3484\/shapefiles\/822952_20090213_9b18489e07.tar.gz"
+        },
+        "bbox": [
+            18.13362121582,
+            48.277538299561,
+            18.138717651367,
+            48.280338287354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.134855,
+                        48.277538
+                    ],
+                    [
+                        18.133621,
+                        48.277538
+                    ],
+                    [
+                        18.135134,
+                        48.279137
+                    ],
+                    [
+                        18.138718,
+                        48.280338
+                    ],
+                    [
+                        18.134855,
+                        48.277538
+                    ]
+                ]
+            ]
+        ]
+    }
+}

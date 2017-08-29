@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 870362,
+    "properties": {
+        "woe_id": 870362,
+        "place_id": "13LLlCCRBpyng0Y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Koronka, Mures, Romania"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247898126,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2545\/shapefiles\/870362_20090718_30d3fb4e5b.tar.gz"
+        },
+        "bbox": [
+            24.606285095215,
+            46.494964599609,
+            24.624137878418,
+            46.520484924316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        24.624138,
+                        46.500637
+                    ],
+                    [
+                        24.622972,
+                        46.496304
+                    ],
+                    [
+                        24.621561,
+                        46.494965
+                    ],
+                    [
+                        24.606285,
+                        46.505836
+                    ],
+                    [
+                        24.614182,
+                        46.520485
+                    ],
+                    [
+                        24.617695,
+                        46.509026
+                    ],
+                    [
+                        24.624138,
+                        46.500637
+                    ]
+                ]
+            ]
+        ]
+    }
+}

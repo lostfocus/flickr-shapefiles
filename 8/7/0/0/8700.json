@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 8700,
+    "properties": {
+        "woe_id": 8700,
+        "place_id": "c4ZuyfiRBpwi",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Breton, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453123,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/8700_20101215_66a4d116a5.tar.gz"
+        },
+        "bbox": [
+            -114.47621154785,
+            53.106029510498,
+            -114.4669418335,
+            53.113758087158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.466942,
+                        53.111942
+                    ],
+                    [
+                        -114.4729,
+                        53.10603
+                    ],
+                    [
+                        -114.474442,
+                        53.109722
+                    ],
+                    [
+                        -114.476212,
+                        53.113758
+                    ],
+                    [
+                        -114.466942,
+                        53.111942
+                    ]
+                ]
+            ]
+        ]
+    }
+}

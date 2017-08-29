@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 80660,
+    "properties": {
+        "woe_id": 80660,
+        "place_id": "ZGdrWwaRAZpNYg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grande Anse, Pointe-\u00c0-Pitre, Guadeloupe"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458213,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/80660_20101216_8c15aab782.tar.gz"
+        },
+        "bbox": [
+            -61.097717285156,
+            16.293449401855,
+            -61.087245941162,
+            16.302839279175
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.097031,
+                        16.296743
+                    ],
+                    [
+                        -61.097717,
+                        16.297403
+                    ],
+                    [
+                        -61.096001,
+                        16.300781
+                    ],
+                    [
+                        -61.09248,
+                        16.302427
+                    ],
+                    [
+                        -61.087246,
+                        16.302839
+                    ],
+                    [
+                        -61.092052,
+                        16.293449
+                    ],
+                    [
+                        -61.097031,
+                        16.296743
+                    ]
+                ]
+            ]
+        ]
+    }
+}

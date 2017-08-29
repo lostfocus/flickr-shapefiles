@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 8200,
+    "properties": {
+        "woe_id": 8200,
+        "place_id": "AOkBT0eRA5yL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gleichen, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532071,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/8200_20101216_ef6f633eb1.tar.gz"
+        },
+        "bbox": [
+            -113.0551071167,
+            50.864280700684,
+            -113.0362701416,
+            50.876392364502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.055107,
+                        50.865807
+                    ],
+                    [
+                        -113.053391,
+                        50.866539
+                    ],
+                    [
+                        -113.03627,
+                        50.876392
+                    ],
+                    [
+                        -113.051559,
+                        50.864281
+                    ],
+                    [
+                        -113.054726,
+                        50.865643
+                    ],
+                    [
+                        -113.055107,
+                        50.865807
+                    ]
+                ]
+            ]
+        ]
+    }
+}

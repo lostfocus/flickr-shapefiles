@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 8554,
+    "properties": {
+        "woe_id": 8554,
+        "place_id": "9qbBWKORBJna",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alliance, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455549,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/8554_20101215_4415247b70.tar.gz"
+        },
+        "bbox": [
+            -111.78708648682,
+            52.433242797852,
+            -111.780128479,
+            52.434875488281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.785286,
+                        52.434875
+                    ],
+                    [
+                        -111.780128,
+                        52.433243
+                    ],
+                    [
+                        -111.787086,
+                        52.434036
+                    ],
+                    [
+                        -111.786903,
+                        52.434578
+                    ],
+                    [
+                        -111.785286,
+                        52.434875
+                    ]
+                ]
+            ]
+        ]
+    }
+}

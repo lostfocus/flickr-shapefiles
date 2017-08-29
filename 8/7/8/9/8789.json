@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 8789,
+    "properties": {
+        "woe_id": 8789,
+        "place_id": "1FUWsKeRBpRE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Herronton, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544914,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/8789_20101217_c233963f8b.tar.gz"
+        },
+        "bbox": [
+            -113.41049194336,
+            50.661212921143,
+            -113.40550994873,
+            50.686016082764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.40551,
+                        50.682808
+                    ],
+                    [
+                        -113.407318,
+                        50.680416
+                    ],
+                    [
+                        -113.407059,
+                        50.661213
+                    ],
+                    [
+                        -113.410492,
+                        50.681339
+                    ],
+                    [
+                        -113.407402,
+                        50.686016
+                    ],
+                    [
+                        -113.407104,
+                        50.685543
+                    ],
+                    [
+                        -113.40551,
+                        50.682808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

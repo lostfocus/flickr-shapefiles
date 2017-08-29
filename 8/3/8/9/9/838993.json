@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 838993,
+    "properties": {
+        "woe_id": 838993,
+        "place_id": "cbo30JCRApRr4Rk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Priseltsi, Burgas, Bulgaria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456222,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/838993_20101215_dd9c227586.tar.gz"
+        },
+        "bbox": [
+            27.828798294067,
+            42.816181182861,
+            27.85894203186,
+            42.824993133545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.845552,
+                        42.818089
+                    ],
+                    [
+                        27.840557,
+                        42.819328
+                    ],
+                    [
+                        27.828798,
+                        42.816181
+                    ],
+                    [
+                        27.838411,
+                        42.823799
+                    ],
+                    [
+                        27.850857,
+                        42.824993
+                    ],
+                    [
+                        27.858942,
+                        42.823124
+                    ],
+                    [
+                        27.849224,
+                        42.817631
+                    ],
+                    [
+                        27.845552,
+                        42.818089
+                    ]
+                ]
+            ]
+        ]
+    }
+}

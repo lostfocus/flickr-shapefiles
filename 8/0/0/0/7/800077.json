@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 800077,
+    "properties": {
+        "woe_id": 800077,
+        "place_id": "kf68TL2RAZzaVQM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u00dabislavice, Kr\u00e1lov\u00e9hradeck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546616,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/800077_20101217_968c8685cf.tar.gz"
+        },
+        "bbox": [
+            15.463714599609,
+            50.496479034424,
+            15.473592758179,
+            50.50218963623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.464726,
+                        50.498623
+                    ],
+                    [
+                        15.46501,
+                        50.498646
+                    ],
+                    [
+                        15.473593,
+                        50.50219
+                    ],
+                    [
+                        15.471848,
+                        50.500401
+                    ],
+                    [
+                        15.463715,
+                        50.496479
+                    ],
+                    [
+                        15.464726,
+                        50.498623
+                    ]
+                ]
+            ]
+        ]
+    }
+}

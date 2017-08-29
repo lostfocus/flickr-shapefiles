@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 873007,
+    "properties": {
+        "woe_id": 873007,
+        "place_id": "LA9XX_SRBp9uA20",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Glina, Ilfov, Romania"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529844,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/873007_20101216_2db03a9cc0.tar.gz"
+        },
+        "bbox": [
+            26.234825134277,
+            44.391754150391,
+            26.247205734253,
+            44.406467437744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        26.235909,
+                        44.406467
+                    ],
+                    [
+                        26.247206,
+                        44.391754
+                    ],
+                    [
+                        26.237411,
+                        44.393806
+                    ],
+                    [
+                        26.234985,
+                        44.404881
+                    ],
+                    [
+                        26.234964,
+                        44.404945
+                    ],
+                    [
+                        26.234825,
+                        44.405998
+                    ],
+                    [
+                        26.235909,
+                        44.406467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

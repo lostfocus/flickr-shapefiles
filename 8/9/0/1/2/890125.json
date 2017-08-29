@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 890125,
+    "properties": {
+        "woe_id": 890125,
+        "place_id": "1QObajiRCJwPanY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Frubacka, Varmland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526308,
+        "alpha": 0.0001875,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/890125_20101216_b90d802fc2.tar.gz"
+        },
+        "bbox": [
+            13.323817253113,
+            59.362442016602,
+            13.340319633484,
+            59.373428344727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.323909,
+                        59.373405
+                    ],
+                    [
+                        13.323958,
+                        59.373428
+                    ],
+                    [
+                        13.324049,
+                        59.373383
+                    ],
+                    [
+                        13.34032,
+                        59.364738
+                    ],
+                    [
+                        13.34032,
+                        59.362442
+                    ],
+                    [
+                        13.338689,
+                        59.364037
+                    ],
+                    [
+                        13.323817,
+                        59.373341
+                    ],
+                    [
+                        13.323909,
+                        59.373405
+                    ]
+                ]
+            ]
+        ]
+    }
+}

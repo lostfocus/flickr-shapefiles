@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 8822,
+    "properties": {
+        "woe_id": 8822,
+        "place_id": "WPHKI2yRCZ4h",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Conrad, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438117,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/8822_20101215_6008232dc7.tar.gz"
+        },
+        "bbox": [
+            -111.92153930664,
+            49.524120330811,
+            -111.92129516602,
+            49.525100708008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.921539,
+                        49.52412
+                    ],
+                    [
+                        -111.921532,
+                        49.524181
+                    ],
+                    [
+                        -111.921478,
+                        49.524578
+                    ],
+                    [
+                        -111.921318,
+                        49.52507
+                    ],
+                    [
+                        -111.921295,
+                        49.525101
+                    ],
+                    [
+                        -111.921448,
+                        49.524208
+                    ],
+                    [
+                        -111.921539,
+                        49.52412
+                    ]
+                ]
+            ]
+        ]
+    }
+}

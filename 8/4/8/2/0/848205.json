@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 848205,
+    "properties": {
+        "woe_id": 848205,
+        "place_id": "lphZmWqRBZRW9BY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jabukovac, Sisa\u010dko-moslava\u010dka, Croatia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292476090,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/848205_20101216_e3258c813f.tar.gz"
+        },
+        "bbox": [
+            16.284656524658,
+            45.310089111328,
+            16.285343170166,
+            45.311416625977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.285343,
+                        45.310783
+                    ],
+                    [
+                        16.285343,
+                        45.310631
+                    ],
+                    [
+                        16.284657,
+                        45.310089
+                    ],
+                    [
+                        16.284742,
+                        45.310753
+                    ],
+                    [
+                        16.284828,
+                        45.311417
+                    ],
+                    [
+                        16.285343,
+                        45.310783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

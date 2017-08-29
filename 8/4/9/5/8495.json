@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 8495,
+    "properties": {
+        "woe_id": 8495,
+        "place_id": "fA02RSORBZVg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Elk Point, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546169,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/8495_20101217_f4131cb25a.tar.gz"
+        },
+        "bbox": [
+            -110.91067504883,
+            53.897941589355,
+            -110.89608001709,
+            53.90580368042
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.897026,
+                        53.903831
+                    ],
+                    [
+                        -110.89608,
+                        53.897942
+                    ],
+                    [
+                        -110.909729,
+                        53.900509
+                    ],
+                    [
+                        -110.910675,
+                        53.900604
+                    ],
+                    [
+                        -110.902977,
+                        53.902737
+                    ],
+                    [
+                        -110.897972,
+                        53.905804
+                    ],
+                    [
+                        -110.897026,
+                        53.903831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

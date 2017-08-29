@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 800285,
+    "properties": {
+        "woe_id": 800285,
+        "place_id": "wW1p9CSRAZxUhxA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u00davaly, St\u0159edo\u010desk\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529007,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/800285_20101216_409279620b.tar.gz"
+        },
+        "bbox": [
+            14.727473258972,
+            50.065113067627,
+            14.736528396606,
+            50.080497741699
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.727473,
+                        50.065113
+                    ],
+                    [
+                        14.727644,
+                        50.076504
+                    ],
+                    [
+                        14.727859,
+                        50.080498
+                    ],
+                    [
+                        14.736528,
+                        50.078182
+                    ],
+                    [
+                        14.733438,
+                        50.066505
+                    ],
+                    [
+                        14.727473,
+                        50.065113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

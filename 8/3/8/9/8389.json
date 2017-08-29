@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 8389,
+    "properties": {
+        "woe_id": 8389,
+        "place_id": "KCPBTq6RApQQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Peace Point, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543471,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/8389_20101216_44acc2f207.tar.gz"
+        },
+        "bbox": [
+            -112.47647857666,
+            59.118309020996,
+            -112.44197845459,
+            59.131832122803
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.441978,
+                        59.118309
+                    ],
+                    [
+                        -112.457085,
+                        59.12038
+                    ],
+                    [
+                        -112.458458,
+                        59.125225
+                    ],
+                    [
+                        -112.476479,
+                        59.131832
+                    ],
+                    [
+                        -112.458626,
+                        59.129807
+                    ],
+                    [
+                        -112.447296,
+                        59.123817
+                    ],
+                    [
+                        -112.441978,
+                        59.118309
+                    ]
+                ]
+            ]
+        ]
+    }
+}

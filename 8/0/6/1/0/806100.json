@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 806100,
+    "properties": {
+        "woe_id": 806100,
+        "place_id": "NsyjQtCRAZqUDTQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Far\u00e1d, Gy\u0151r-Moson-Sopron, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447668,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/806100_20101215_c4421d1911.tar.gz"
+        },
+        "bbox": [
+            17.195211410522,
+            47.595695495605,
+            17.198656082153,
+            47.595893859863
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.197819,
+                        47.595894
+                    ],
+                    [
+                        17.198088,
+                        47.595867
+                    ],
+                    [
+                        17.198656,
+                        47.595695
+                    ],
+                    [
+                        17.196661,
+                        47.595806
+                    ],
+                    [
+                        17.195211,
+                        47.59586
+                    ],
+                    [
+                        17.197819,
+                        47.595894
+                    ]
+                ]
+            ]
+        ]
+    }
+}
