@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974289,
+    "properties": {
+        "woe_id": 55974289,
+        "place_id": "mroGcqmcBJXbh6CVcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aspen Ridge, Steamboat Springs, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530291,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1398\/shapefiles\/55974289_20101216_fe910b945d.tar.gz"
+        },
+        "bbox": [
+            -106.85046386719,
+            40.55933380127,
+            -106.84964752197,
+            40.559997558594
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.849648,
+                        40.559731
+                    ],
+                    [
+                        -106.849831,
+                        40.559334
+                    ],
+                    [
+                        -106.850464,
+                        40.559467
+                    ],
+                    [
+                        -106.850334,
+                        40.559834
+                    ],
+                    [
+                        -106.850166,
+                        40.559998
+                    ],
+                    [
+                        -106.849648,
+                        40.559731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

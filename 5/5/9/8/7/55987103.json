@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987103,
+    "properties": {
+        "woe_id": 55987103,
+        "place_id": "74Z9.MecBJXCH._qiw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chalmers, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455437,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55987103_20101215_ff8be27793.tar.gz"
+        },
+        "bbox": [
+            -83.689781188965,
+            42.254600524902,
+            -83.687225341797,
+            42.257591247559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.689667,
+                        42.255833
+                    ],
+                    [
+                        -83.689781,
+                        42.257069
+                    ],
+                    [
+                        -83.688789,
+                        42.257591
+                    ],
+                    [
+                        -83.687698,
+                        42.255825
+                    ],
+                    [
+                        -83.687225,
+                        42.254601
+                    ],
+                    [
+                        -83.689667,
+                        42.255833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

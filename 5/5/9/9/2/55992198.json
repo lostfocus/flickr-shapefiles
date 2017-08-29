@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992198,
+    "properties": {
+        "woe_id": 55992198,
+        "place_id": "e9ieyHecBJVefGVesg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Brighton, New York, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525068,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55992198_20101216_b129b8ca15.tar.gz"
+        },
+        "bbox": [
+            -74.115356445312,
+            40.625965118408,
+            -74.112022399902,
+            40.629898071289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.113594,
+                        40.626656
+                    ],
+                    [
+                        -74.115356,
+                        40.625965
+                    ],
+                    [
+                        -74.11499,
+                        40.626354
+                    ],
+                    [
+                        -74.112679,
+                        40.629757
+                    ],
+                    [
+                        -74.112022,
+                        40.629898
+                    ],
+                    [
+                        -74.113594,
+                        40.626656
+                    ]
+                ]
+            ]
+        ]
+    }
+}

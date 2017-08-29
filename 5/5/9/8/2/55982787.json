@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982787,
+    "properties": {
+        "woe_id": 55982787,
+        "place_id": "6dqWXRicBJWyrL83AQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Menendez Landings, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533567,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55982787_20101216_565eca1535.tar.gz"
+        },
+        "bbox": [
+            -82.497207641602,
+            28.056373596191,
+            -82.49666595459,
+            28.057193756104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.497208,
+                        28.056898
+                    ],
+                    [
+                        -82.496666,
+                        28.057194
+                    ],
+                    [
+                        -82.496666,
+                        28.057192
+                    ],
+                    [
+                        -82.49704,
+                        28.056374
+                    ],
+                    [
+                        -82.497147,
+                        28.056648
+                    ],
+                    [
+                        -82.497208,
+                        28.056898
+                    ]
+                ]
+            ]
+        ]
+    }
+}

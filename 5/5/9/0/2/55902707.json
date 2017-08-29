@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55902707,
+    "properties": {
+        "woe_id": 55902707,
+        "place_id": "IX6yLt6cBJUiADMzBw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio Oxtopulco, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490182,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55902707_20101216_181b258844.tar.gz"
+        },
+        "bbox": [
+            -99.184181213379,
+            19.344179153442,
+            -99.181938171387,
+            19.347032546997
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.182373,
+                        19.347033
+                    ],
+                    [
+                        -99.181938,
+                        19.346365
+                    ],
+                    [
+                        -99.182014,
+                        19.344179
+                    ],
+                    [
+                        -99.183853,
+                        19.345407
+                    ],
+                    [
+                        -99.184181,
+                        19.345579
+                    ],
+                    [
+                        -99.182373,
+                        19.347033
+                    ]
+                ]
+            ]
+        ]
+    }
+}

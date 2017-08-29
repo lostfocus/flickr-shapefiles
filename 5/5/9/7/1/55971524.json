@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971524,
+    "properties": {
+        "woe_id": 55971524,
+        "place_id": "6DrL9cucBJWlHpenwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sun Valley, San Rafael, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490368,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/55971524_20101216_4fd75e59aa.tar.gz"
+        },
+        "bbox": [
+            -122.55075073242,
+            37.979114532471,
+            -122.5447845459,
+            37.982624053955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.548515,
+                        37.979153
+                    ],
+                    [
+                        -122.548599,
+                        37.979378
+                    ],
+                    [
+                        -122.550751,
+                        37.981747
+                    ],
+                    [
+                        -122.544785,
+                        37.982624
+                    ],
+                    [
+                        -122.54847,
+                        37.979115
+                    ],
+                    [
+                        -122.548515,
+                        37.979153
+                    ]
+                ]
+            ]
+        ]
+    }
+}

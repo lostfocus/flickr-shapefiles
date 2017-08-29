@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980686,
+    "properties": {
+        "woe_id": 55980686,
+        "place_id": "QVyNeOGcBJWscw.u5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Highway Heights, Plant City, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538580,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/55980686_20101216_de77ce505e.tar.gz"
+        },
+        "bbox": [
+            -82.145164489746,
+            28.015073776245,
+            -82.144004821777,
+            28.016983032227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.144577,
+                        28.015074
+                    ],
+                    [
+                        -82.145164,
+                        28.015436
+                    ],
+                    [
+                        -82.1446,
+                        28.016169
+                    ],
+                    [
+                        -82.144089,
+                        28.016983
+                    ],
+                    [
+                        -82.144005,
+                        28.01576
+                    ],
+                    [
+                        -82.144577,
+                        28.015074
+                    ]
+                ]
+            ]
+        ]
+    }
+}

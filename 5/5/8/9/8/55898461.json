@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55898461,
+    "properties": {
+        "woe_id": 55898461,
+        "place_id": "N7uYkJGcBJQAHtDpqw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "24 de Abril, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528756,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55898461_20101216_1312d98354.tar.gz"
+        },
+        "bbox": [
+            -99.119445800781,
+            19.41410446167,
+            -99.112449645996,
+            19.419244766235
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.11245,
+                        19.415155
+                    ],
+                    [
+                        -99.113075,
+                        19.414104
+                    ],
+                    [
+                        -99.116455,
+                        19.414337
+                    ],
+                    [
+                        -99.119446,
+                        19.415833
+                    ],
+                    [
+                        -99.1185,
+                        19.416332
+                    ],
+                    [
+                        -99.114685,
+                        19.419245
+                    ],
+                    [
+                        -99.11245,
+                        19.415155
+                    ]
+                ]
+            ]
+        ]
+    }
+}

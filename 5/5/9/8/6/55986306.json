@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986306,
+    "properties": {
+        "woe_id": 55986306,
+        "place_id": "Ik6UX_GcBJUI0qb4mQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Navajo Hills, Palos Heights, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450165,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55986306_20101215_6b48048490.tar.gz"
+        },
+        "bbox": [
+            -87.780075073242,
+            41.669761657715,
+            -87.776245117188,
+            41.67391204834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.776245,
+                        41.670094
+                    ],
+                    [
+                        -87.776863,
+                        41.669796
+                    ],
+                    [
+                        -87.777519,
+                        41.669762
+                    ],
+                    [
+                        -87.780075,
+                        41.673912
+                    ],
+                    [
+                        -87.776543,
+                        41.670296
+                    ],
+                    [
+                        -87.776245,
+                        41.670094
+                    ]
+                ]
+            ]
+        ]
+    }
+}

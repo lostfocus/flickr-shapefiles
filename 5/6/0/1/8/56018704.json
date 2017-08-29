@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56018704,
+    "properties": {
+        "woe_id": 56018704,
+        "place_id": "8y_r2uCcB5wARWGfNA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lexington, Lowell, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521629,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/56018704_20101216_5ab7017442.tar.gz"
+        },
+        "bbox": [
+            -94.169929504395,
+            36.266410827637,
+            -94.166137695312,
+            36.270076751709
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.169296,
+                        36.266411
+                    ],
+                    [
+                        -94.16993,
+                        36.267212
+                    ],
+                    [
+                        -94.166832,
+                        36.270077
+                    ],
+                    [
+                        -94.166176,
+                        36.267857
+                    ],
+                    [
+                        -94.166138,
+                        36.266632
+                    ],
+                    [
+                        -94.169296,
+                        36.266411
+                    ]
+                ]
+            ]
+        ]
+    }
+}

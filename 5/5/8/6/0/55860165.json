@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55860165,
+    "properties": {
+        "woe_id": 55860165,
+        "place_id": "caGyTDacBJT2O0mHbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Baltimore, Mobile, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239680772,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3570\/shapefiles\/55860165_20090414_7e390eff20.tar.gz"
+        },
+        "bbox": [
+            -88.06632232666,
+            30.670335769653,
+            -88.061370849609,
+            30.673168182373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.066177,
+                        30.670336
+                    ],
+                    [
+                        -88.066322,
+                        30.673168
+                    ],
+                    [
+                        -88.061371,
+                        30.671572
+                    ],
+                    [
+                        -88.061546,
+                        30.670782
+                    ],
+                    [
+                        -88.066177,
+                        30.670336
+                    ]
+                ]
+            ]
+        ]
+    }
+}

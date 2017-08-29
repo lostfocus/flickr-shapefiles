@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55974782,
+    "properties": {
+        "woe_id": 55974782,
+        "place_id": "9q2bvzGcBJXEOu0ocA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mustique Bay, Apollo Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473447,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55974782_20101216_9267cd76ea.tar.gz"
+        },
+        "bbox": [
+            -82.419403076172,
+            27.792018890381,
+            -82.41438293457,
+            27.792806625366
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.418915,
+                        27.792807
+                    ],
+                    [
+                        -82.414383,
+                        27.792095
+                    ],
+                    [
+                        -82.418854,
+                        27.792587
+                    ],
+                    [
+                        -82.419403,
+                        27.792019
+                    ],
+                    [
+                        -82.418915,
+                        27.792807
+                    ]
+                ]
+            ]
+        ]
+    }
+}

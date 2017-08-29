@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994156,
+    "properties": {
+        "woe_id": 55994156,
+        "place_id": "C9K8V3ecBJXsxVQUDA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oak Ridge, Mesquite, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527888,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55994156_20101216_d808176f81.tar.gz"
+        },
+        "bbox": [
+            -96.637397766113,
+            32.751640319824,
+            -96.636024475098,
+            32.752197265625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.63707,
+                        32.75164
+                    ],
+                    [
+                        -96.637398,
+                        32.751846
+                    ],
+                    [
+                        -96.636978,
+                        32.752163
+                    ],
+                    [
+                        -96.636024,
+                        32.752197
+                    ],
+                    [
+                        -96.636223,
+                        32.751919
+                    ],
+                    [
+                        -96.63707,
+                        32.75164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

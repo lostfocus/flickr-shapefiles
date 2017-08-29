@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970606,
+    "properties": {
+        "woe_id": 55970606,
+        "place_id": "L_qws_acBJWC.LbFIw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eureka Centre, Roseville, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458073,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55970606_20101216_46089a40aa.tar.gz"
+        },
+        "bbox": [
+            -121.24787902832,
+            38.74488067627,
+            -121.24636077881,
+            38.748653411865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.247879,
+                        38.748596
+                    ],
+                    [
+                        -121.247566,
+                        38.748653
+                    ],
+                    [
+                        -121.247261,
+                        38.74836
+                    ],
+                    [
+                        -121.246361,
+                        38.747223
+                    ],
+                    [
+                        -121.247498,
+                        38.744881
+                    ],
+                    [
+                        -121.247879,
+                        38.748596
+                    ]
+                ]
+            ]
+        ]
+    }
+}

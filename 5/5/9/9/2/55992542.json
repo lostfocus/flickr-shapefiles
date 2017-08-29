@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55992542,
+    "properties": {
+        "woe_id": 55992542,
+        "place_id": "X8NQQEicBJUgzDybgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Castor, Philadelphia, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547607,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55992542_20101217_9b224e34f7.tar.gz"
+        },
+        "bbox": [
+            -75.061347961426,
+            40.04358291626,
+            -75.057662963867,
+            40.048854827881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.059944,
+                        40.043583
+                    ],
+                    [
+                        -75.060837,
+                        40.045502
+                    ],
+                    [
+                        -75.061348,
+                        40.048283
+                    ],
+                    [
+                        -75.060585,
+                        40.048241
+                    ],
+                    [
+                        -75.057663,
+                        40.048855
+                    ],
+                    [
+                        -75.060692,
+                        40.045471
+                    ],
+                    [
+                        -75.059944,
+                        40.043583
+                    ]
+                ]
+            ]
+        ]
+    }
+}

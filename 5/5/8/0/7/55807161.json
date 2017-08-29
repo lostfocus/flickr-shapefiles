@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55807161,
+    "properties": {
+        "woe_id": 55807161,
+        "place_id": "61Fscv6cBJRZNtbuVg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bear Valley, Anchorage, AK, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518023,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55807161_20101216_874d13b0ab.tar.gz"
+        },
+        "bbox": [
+            -149.72674560547,
+            61.069412231445,
+            -149.71890258789,
+            61.073318481445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -149.721207,
+                        61.070702
+                    ],
+                    [
+                        -149.726746,
+                        61.069412
+                    ],
+                    [
+                        -149.722534,
+                        61.073318
+                    ],
+                    [
+                        -149.718903,
+                        61.070499
+                    ],
+                    [
+                        -149.721207,
+                        61.070702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

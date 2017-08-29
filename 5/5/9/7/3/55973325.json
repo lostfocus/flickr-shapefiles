@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55973325,
+    "properties": {
+        "woe_id": 55973325,
+        "place_id": "MTsnF1ycBJW8nVcbMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riverside, Durango, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542757,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55973325_20101216_1a3cf0c537.tar.gz"
+        },
+        "bbox": [
+            -107.83891296387,
+            37.316173553467,
+            -107.83673095703,
+            37.317840576172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.83709,
+                        37.317665
+                    ],
+                    [
+                        -107.836731,
+                        37.316174
+                    ],
+                    [
+                        -107.837364,
+                        37.316761
+                    ],
+                    [
+                        -107.838913,
+                        37.317436
+                    ],
+                    [
+                        -107.838173,
+                        37.317841
+                    ],
+                    [
+                        -107.83709,
+                        37.317665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

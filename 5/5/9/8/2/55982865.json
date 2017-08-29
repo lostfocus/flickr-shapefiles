@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982865,
+    "properties": {
+        "woe_id": 55982865,
+        "place_id": "TL9VK0ScBJUJbgLmMg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northgate Shopping Center, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453042,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55982865_20101215_8a5aaca7d3.tar.gz"
+        },
+        "bbox": [
+            -82.459922790527,
+            28.030555725098,
+            -82.459121704102,
+            28.032836914062
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.459663,
+                        28.030666
+                    ],
+                    [
+                        -82.459923,
+                        28.030849
+                    ],
+                    [
+                        -82.459496,
+                        28.032543
+                    ],
+                    [
+                        -82.45919,
+                        28.032837
+                    ],
+                    [
+                        -82.459122,
+                        28.030556
+                    ],
+                    [
+                        -82.459663,
+                        28.030666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

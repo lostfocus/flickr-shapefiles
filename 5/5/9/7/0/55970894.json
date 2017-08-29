@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970894,
+    "properties": {
+        "woe_id": 55970894,
+        "place_id": "a87bY0ycBJXGVjieIA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shaw Property, San Diego, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519319,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55970894_20101216_e13155c91d.tar.gz"
+        },
+        "bbox": [
+            -117.16049957275,
+            32.962062835693,
+            -117.15776062012,
+            32.963333129883
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.158165,
+                        32.962502
+                    ],
+                    [
+                        -117.159462,
+                        32.962063
+                    ],
+                    [
+                        -117.1605,
+                        32.962502
+                    ],
+                    [
+                        -117.160004,
+                        32.963333
+                    ],
+                    [
+                        -117.158333,
+                        32.962833
+                    ],
+                    [
+                        -117.157761,
+                        32.962738
+                    ],
+                    [
+                        -117.158165,
+                        32.962502
+                    ]
+                ]
+            ]
+        ]
+    }
+}

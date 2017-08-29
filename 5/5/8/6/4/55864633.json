@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55864633,
+    "properties": {
+        "woe_id": 55864633,
+        "place_id": "D3lPKMScBJRiyzBQ.g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Dallas, Dallas, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549637,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55864633_20101217_76cd470e0a.tar.gz"
+        },
+        "bbox": [
+            -96.836921691895,
+            32.769187927246,
+            -96.834785461426,
+            32.770751953125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.836792,
+                        32.76965
+                    ],
+                    [
+                        -96.836922,
+                        32.770702
+                    ],
+                    [
+                        -96.834785,
+                        32.770752
+                    ],
+                    [
+                        -96.83493,
+                        32.770683
+                    ],
+                    [
+                        -96.836586,
+                        32.769188
+                    ],
+                    [
+                        -96.836792,
+                        32.769302
+                    ],
+                    [
+                        -96.836792,
+                        32.76965
+                    ]
+                ]
+            ]
+        ]
+    }
+}

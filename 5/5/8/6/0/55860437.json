@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860437,
+    "properties": {
+        "woe_id": 55860437,
+        "place_id": "nMFWNNicBJR72YvWYw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huntington Hill, Naperville, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550320,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55860437_20101217_e0c1b281cb.tar.gz"
+        },
+        "bbox": [
+            -88.119255065918,
+            41.763134002686,
+            -88.11238861084,
+            41.768970489502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.118568,
+                        41.76693
+                    ],
+                    [
+                        -88.115784,
+                        41.76897
+                    ],
+                    [
+                        -88.112389,
+                        41.765247
+                    ],
+                    [
+                        -88.116425,
+                        41.763134
+                    ],
+                    [
+                        -88.119255,
+                        41.765461
+                    ],
+                    [
+                        -88.118568,
+                        41.76693
+                    ]
+                ]
+            ]
+        ]
+    }
+}

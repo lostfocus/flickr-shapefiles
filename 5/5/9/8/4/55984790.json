@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55984790,
+    "properties": {
+        "woe_id": 55984790,
+        "place_id": "OEnwpMycBJWBU96OEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Little Lake Sawyer, Windermere, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515205,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55984790_20101216_bb4debbdc6.tar.gz"
+        },
+        "bbox": [
+            -81.569969177246,
+            28.475191116333,
+            -81.568740844727,
+            28.477668762207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.569939,
+                        28.475191
+                    ],
+                    [
+                        -81.569969,
+                        28.475277
+                    ],
+                    [
+                        -81.569099,
+                        28.476673
+                    ],
+                    [
+                        -81.568741,
+                        28.477669
+                    ],
+                    [
+                        -81.569023,
+                        28.476236
+                    ],
+                    [
+                        -81.569939,
+                        28.475191
+                    ]
+                ]
+            ]
+        ]
+    }
+}

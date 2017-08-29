@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858501,
+    "properties": {
+        "woe_id": 55858501,
+        "place_id": "OJI3znOcBJQHRklDdA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "H Street Corridor District, Chula Vista, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529608,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55858501_20101216_4e690a8566.tar.gz"
+        },
+        "bbox": [
+            -117.08361053467,
+            32.631496429443,
+            -117.08128356934,
+            32.636150360107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.082741,
+                        32.632713
+                    ],
+                    [
+                        -117.083611,
+                        32.634277
+                    ],
+                    [
+                        -117.082542,
+                        32.63615
+                    ],
+                    [
+                        -117.081284,
+                        32.633789
+                    ],
+                    [
+                        -117.081429,
+                        32.631496
+                    ],
+                    [
+                        -117.082741,
+                        32.632713
+                    ]
+                ]
+            ]
+        ]
+    }
+}

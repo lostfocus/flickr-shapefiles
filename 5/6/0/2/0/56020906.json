@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020906,
+    "properties": {
+        "woe_id": 56020906,
+        "place_id": "0Hx0gL6cB5xW0QN1uw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Edgewater, Coralville, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528785,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/56020906_20101216_5c5ed1bdb1.tar.gz"
+        },
+        "bbox": [
+            -91.561157226562,
+            41.680667877197,
+            -91.556793212891,
+            41.681713104248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.559113,
+                        41.680668
+                    ],
+                    [
+                        -91.560104,
+                        41.680672
+                    ],
+                    [
+                        -91.561157,
+                        41.681713
+                    ],
+                    [
+                        -91.558601,
+                        41.681244
+                    ],
+                    [
+                        -91.556793,
+                        41.681213
+                    ],
+                    [
+                        -91.559113,
+                        41.680668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

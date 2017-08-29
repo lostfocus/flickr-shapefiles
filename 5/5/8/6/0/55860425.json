@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860425,
+    "properties": {
+        "woe_id": 55860425,
+        "place_id": "N660C62cBJTH5ZQqNg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fontenaix, Naperville, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518017,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55860425_20101216_7711f016f9.tar.gz"
+        },
+        "bbox": [
+            -88.139152526855,
+            41.778461456299,
+            -88.134231567383,
+            41.78059387207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.137688,
+                        41.780594
+                    ],
+                    [
+                        -88.134232,
+                        41.780293
+                    ],
+                    [
+                        -88.135445,
+                        41.778461
+                    ],
+                    [
+                        -88.138115,
+                        41.778576
+                    ],
+                    [
+                        -88.139153,
+                        41.780563
+                    ],
+                    [
+                        -88.137688,
+                        41.780594
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55862524,
+    "properties": {
+        "woe_id": 55862524,
+        "place_id": "Kw_SN.acBJSlGXIeOQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eden Isle, St. Petersburg, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489949,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55862524_20101216_694cb25a63.tar.gz"
+        },
+        "bbox": [
+            -82.617446899414,
+            27.801765441895,
+            -82.612884521484,
+            27.807231903076
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.613327,
+                        27.804953
+                    ],
+                    [
+                        -82.613274,
+                        27.804918
+                    ],
+                    [
+                        -82.612885,
+                        27.804193
+                    ],
+                    [
+                        -82.613365,
+                        27.801765
+                    ],
+                    [
+                        -82.613968,
+                        27.803064
+                    ],
+                    [
+                        -82.617447,
+                        27.807232
+                    ],
+                    [
+                        -82.613327,
+                        27.804953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

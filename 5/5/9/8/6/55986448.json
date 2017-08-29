@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986448,
+    "properties": {
+        "woe_id": 55986448,
+        "place_id": "vI3pEwmcBJUhN3mvEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Farnham, Wheaton, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450121,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55986448_20101215_6df4eb7cee.tar.gz"
+        },
+        "bbox": [
+            -88.103881835938,
+            41.8440284729,
+            -88.101516723633,
+            41.849662780762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.10157,
+                        41.844028
+                    ],
+                    [
+                        -88.102936,
+                        41.846424
+                    ],
+                    [
+                        -88.103882,
+                        41.847027
+                    ],
+                    [
+                        -88.101517,
+                        41.849663
+                    ],
+                    [
+                        -88.101616,
+                        41.846287
+                    ],
+                    [
+                        -88.10157,
+                        41.844028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858330,
+    "properties": {
+        "woe_id": 55858330,
+        "place_id": "QHFE3G.cBJTjeoj76Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkway Circle, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535624,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/55858330_20101216_33379c1434.tar.gz"
+        },
+        "bbox": [
+            -105.14209747314,
+            39.93994140625,
+            -105.13898468018,
+            39.942012786865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.140991,
+                        39.939941
+                    ],
+                    [
+                        -105.141541,
+                        39.940491
+                    ],
+                    [
+                        -105.142097,
+                        39.941044
+                    ],
+                    [
+                        -105.141167,
+                        39.942001
+                    ],
+                    [
+                        -105.138985,
+                        39.942013
+                    ],
+                    [
+                        -105.140991,
+                        39.939941
+                    ]
+                ]
+            ]
+        ]
+    }
+}

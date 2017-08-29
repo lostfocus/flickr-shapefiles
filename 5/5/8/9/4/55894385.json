@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55894385,
+    "properties": {
+        "woe_id": 55894385,
+        "place_id": "24Cq2aacBJQiGxl9hw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valle Del sur, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437024,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55894385_20101215_27b4fa5199.tar.gz"
+        },
+        "bbox": [
+            -117.02439117432,
+            32.463932037354,
+            -117.0219039917,
+            32.465850830078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.023102,
+                        32.465527
+                    ],
+                    [
+                        -117.021904,
+                        32.465851
+                    ],
+                    [
+                        -117.022331,
+                        32.465454
+                    ],
+                    [
+                        -117.023445,
+                        32.463932
+                    ],
+                    [
+                        -117.024391,
+                        32.465488
+                    ],
+                    [
+                        -117.023102,
+                        32.465527
+                    ]
+                ]
+            ]
+        ]
+    }
+}

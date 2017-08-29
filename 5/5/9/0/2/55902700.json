@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55902700,
+    "properties": {
+        "woe_id": 55902700,
+        "place_id": "1AcKG6OcBJW8.nUAKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parque San Andres, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450019,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55902700_20101215_830d117ed9.tar.gz"
+        },
+        "bbox": [
+            -99.147811889648,
+            19.343950271606,
+            -99.142402648926,
+            19.347627639771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.142403,
+                        19.344551
+                    ],
+                    [
+                        -99.143608,
+                        19.34395
+                    ],
+                    [
+                        -99.146744,
+                        19.344049
+                    ],
+                    [
+                        -99.147812,
+                        19.347628
+                    ],
+                    [
+                        -99.146973,
+                        19.347589
+                    ],
+                    [
+                        -99.144768,
+                        19.345242
+                    ],
+                    [
+                        -99.142403,
+                        19.344551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

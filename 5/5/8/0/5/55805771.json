@@ -1,0 +1,78 @@
+{
+    "type": "Feature",
+    "id": 55805771,
+    "properties": {
+        "woe_id": 55805771,
+        "place_id": "mhVXCgOcBJTXwZkJyA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Beverly Hills, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524810,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 11,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55805771_20101216_8de4804caa.tar.gz"
+        },
+        "bbox": [
+            -97.41463470459,
+            32.791942596436,
+            -97.402038574219,
+            32.799144744873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.407166,
+                        32.793514
+                    ],
+                    [
+                        -97.410492,
+                        32.792309
+                    ],
+                    [
+                        -97.412598,
+                        32.791943
+                    ],
+                    [
+                        -97.414635,
+                        32.794979
+                    ],
+                    [
+                        -97.412361,
+                        32.79401
+                    ],
+                    [
+                        -97.409721,
+                        32.79493
+                    ],
+                    [
+                        -97.406708,
+                        32.793751
+                    ],
+                    [
+                        -97.404602,
+                        32.799145
+                    ],
+                    [
+                        -97.402039,
+                        32.797268
+                    ],
+                    [
+                        -97.403496,
+                        32.792614
+                    ],
+                    [
+                        -97.407166,
+                        32.793514
+                    ]
+                ]
+            ]
+        ]
+    }
+}

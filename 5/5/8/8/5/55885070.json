@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55885070,
+    "properties": {
+        "woe_id": 55885070,
+        "place_id": "zk2_onqcBJQw0Xe1Sw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zona Pronaf, Ciudad Juarez, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449932,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55885070_20101215_3c6727abff.tar.gz"
+        },
+        "bbox": [
+            -106.45433044434,
+            31.737657546997,
+            -106.45016479492,
+            31.739665985107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.452286,
+                        31.739546
+                    ],
+                    [
+                        -106.450165,
+                        31.737833
+                    ],
+                    [
+                        -106.45108,
+                        31.73793
+                    ],
+                    [
+                        -106.452286,
+                        31.737658
+                    ],
+                    [
+                        -106.453354,
+                        31.737858
+                    ],
+                    [
+                        -106.45433,
+                        31.739666
+                    ],
+                    [
+                        -106.452423,
+                        31.739641
+                    ],
+                    [
+                        -106.452286,
+                        31.739546
+                    ]
+                ]
+            ]
+        ]
+    }
+}

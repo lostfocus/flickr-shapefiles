@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020318,
+    "properties": {
+        "woe_id": 56020318,
+        "place_id": "0er_8bGcB5yAwUTvZA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Middlebrooke, Canton, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473626,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/56020318_20101216_6fcf8e6320.tar.gz"
+        },
+        "bbox": [
+            -84.442481994629,
+            34.179168701172,
+            -84.442108154297,
+            34.179660797119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.442261,
+                        34.179596
+                    ],
+                    [
+                        -84.442207,
+                        34.17952
+                    ],
+                    [
+                        -84.442108,
+                        34.179169
+                    ],
+                    [
+                        -84.442467,
+                        34.179501
+                    ],
+                    [
+                        -84.442482,
+                        34.179661
+                    ],
+                    [
+                        -84.442261,
+                        34.179596
+                    ]
+                ]
+            ]
+        ]
+    }
+}

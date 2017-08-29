@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55903988,
+    "properties": {
+        "woe_id": 55903988,
+        "place_id": "PRHE4nOcBJVsK_CDOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centro de Tlalpan, Tlalpan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497091,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55903988_20101216_b08e4a5309.tar.gz"
+        },
+        "bbox": [
+            -99.175430297852,
+            19.281938552856,
+            -99.173370361328,
+            19.286325454712
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.174355,
+                        19.281939
+                    ],
+                    [
+                        -99.174614,
+                        19.282061
+                    ],
+                    [
+                        -99.17543,
+                        19.284
+                    ],
+                    [
+                        -99.174721,
+                        19.285789
+                    ],
+                    [
+                        -99.174507,
+                        19.286325
+                    ],
+                    [
+                        -99.174004,
+                        19.284332
+                    ],
+                    [
+                        -99.17337,
+                        19.282238
+                    ],
+                    [
+                        -99.174355,
+                        19.281939
+                    ]
+                ]
+            ]
+        ]
+    }
+}

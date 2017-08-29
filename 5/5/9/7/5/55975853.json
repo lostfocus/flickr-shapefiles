@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55975853,
+    "properties": {
+        "woe_id": 55975853,
+        "place_id": "bYvpXhWcBJWPMSMrEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Imperial Cove, Clearwater, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497322,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55975853_20101216_aca68f8bdf.tar.gz"
+        },
+        "bbox": [
+            -82.727333068848,
+            27.944709777832,
+            -82.721900939941,
+            27.949333190918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.725166,
+                        27.948334
+                    ],
+                    [
+                        -82.721901,
+                        27.94471
+                    ],
+                    [
+                        -82.726837,
+                        27.946667
+                    ],
+                    [
+                        -82.727333,
+                        27.949007
+                    ],
+                    [
+                        -82.727165,
+                        27.949333
+                    ],
+                    [
+                        -82.725166,
+                        27.948334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

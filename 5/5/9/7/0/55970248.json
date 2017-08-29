@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970248,
+    "properties": {
+        "woe_id": 55970248,
+        "place_id": "GzQAIEicBJVS5nxR_g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monte Vista Ridge, Orinda, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473444,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55970248_20101216_db9dfff9c2.tar.gz"
+        },
+        "bbox": [
+            -122.21083831787,
+            37.888244628906,
+            -122.20749664307,
+            37.889167785645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.209831,
+                        37.888668
+                    ],
+                    [
+                        -122.209404,
+                        37.888645
+                    ],
+                    [
+                        -122.207497,
+                        37.889168
+                    ],
+                    [
+                        -122.209572,
+                        37.888245
+                    ],
+                    [
+                        -122.210838,
+                        37.888493
+                    ],
+                    [
+                        -122.209831,
+                        37.888668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

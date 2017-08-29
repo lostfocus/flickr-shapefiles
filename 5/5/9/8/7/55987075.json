@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987075,
+    "properties": {
+        "woe_id": 55987075,
+        "place_id": "rhTZjlicBJUK6jQSXg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "International Corridor, Hyattsville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529936,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55987075_20101216_ac60b9bbed.tar.gz"
+        },
+        "bbox": [
+            -76.989891052246,
+            38.979251861572,
+            -76.985580444336,
+            38.983032226562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.98558,
+                        38.981915
+                    ],
+                    [
+                        -76.985901,
+                        38.97963
+                    ],
+                    [
+                        -76.989891,
+                        38.979252
+                    ],
+                    [
+                        -76.988884,
+                        38.981331
+                    ],
+                    [
+                        -76.988594,
+                        38.983032
+                    ],
+                    [
+                        -76.98558,
+                        38.981915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

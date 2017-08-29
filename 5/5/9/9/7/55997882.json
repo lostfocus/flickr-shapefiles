@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997882,
+    "properties": {
+        "woe_id": 55997882,
+        "place_id": "OOVp.HWcBJWs_t_2XQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wild Dogwood, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453186,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55997882_20101215_90afb8e78c.tar.gz"
+        },
+        "bbox": [
+            -122.62773895264,
+            45.706550598145,
+            -122.62759399414,
+            45.706619262695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.627594,
+                        45.706619
+                    ],
+                    [
+                        -122.627594,
+                        45.706551
+                    ],
+                    [
+                        -122.627739,
+                        45.706593
+                    ],
+                    [
+                        -122.627686,
+                        45.706615
+                    ],
+                    [
+                        -122.627602,
+                        45.706619
+                    ],
+                    [
+                        -122.627594,
+                        45.706619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

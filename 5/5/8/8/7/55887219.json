@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55887219,
+    "properties": {
+        "woe_id": 55887219,
+        "place_id": "S1y30KicBJSo76Lrrw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Calafia, Mexicali, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523787,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55887219_20101216_cd1841443a.tar.gz"
+        },
+        "bbox": [
+            -115.45592498779,
+            32.629688262939,
+            -115.45446014404,
+            32.632732391357
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.455925,
+                        32.630573
+                    ],
+                    [
+                        -115.455505,
+                        32.631489
+                    ],
+                    [
+                        -115.455315,
+                        32.632732
+                    ],
+                    [
+                        -115.454803,
+                        32.630123
+                    ],
+                    [
+                        -115.45446,
+                        32.629688
+                    ],
+                    [
+                        -115.455925,
+                        32.630573
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55886515,
+    "properties": {
+        "woe_id": 55886515,
+        "place_id": "5rpN.dCcBJTwPzKjjw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Obrera, Poza Rica de Hidalgo, VE, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464502,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55886515_20101216_1218088260.tar.gz"
+        },
+        "bbox": [
+            -97.462547302246,
+            20.52600479126,
+            -97.461479187012,
+            20.528787612915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.462379,
+                        20.528788
+                    ],
+                    [
+                        -97.461479,
+                        20.528606
+                    ],
+                    [
+                        -97.46154,
+                        20.526005
+                    ],
+                    [
+                        -97.462547,
+                        20.526196
+                    ],
+                    [
+                        -97.46241,
+                        20.528788
+                    ],
+                    [
+                        -97.462379,
+                        20.528788
+                    ]
+                ]
+            ]
+        ]
+    }
+}

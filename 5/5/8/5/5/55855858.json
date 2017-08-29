@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55855858,
+    "properties": {
+        "woe_id": 55855858,
+        "place_id": "fZjNt22cBJRpwQdj2w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dovecourt Park, Toronto, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455360,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55855858_20101215_a142c89e37.tar.gz"
+        },
+        "bbox": [
+            -79.432189941406,
+            43.664878845215,
+            -79.432113647461,
+            43.664920806885
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.432137,
+                        43.664921
+                    ],
+                    [
+                        -79.432121,
+                        43.664913
+                    ],
+                    [
+                        -79.432114,
+                        43.664883
+                    ],
+                    [
+                        -79.432152,
+                        43.664879
+                    ],
+                    [
+                        -79.43219,
+                        43.664906
+                    ],
+                    [
+                        -79.432137,
+                        43.664921
+                    ]
+                ]
+            ]
+        ]
+    }
+}

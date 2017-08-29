@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970163,
+    "properties": {
+        "woe_id": 55970163,
+        "place_id": "HIqW.g2cBJVuWV5NmQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Paradise Walk, National City, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515142,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55970163_20101216_4d9b946f2f.tar.gz"
+        },
+        "bbox": [
+            -117.08252716064,
+            32.683334350586,
+            -117.08010101318,
+            32.687587738037
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.082069,
+                        32.685944
+                    ],
+                    [
+                        -117.080231,
+                        32.687588
+                    ],
+                    [
+                        -117.080101,
+                        32.686275
+                    ],
+                    [
+                        -117.080849,
+                        32.683334
+                    ],
+                    [
+                        -117.082527,
+                        32.684822
+                    ],
+                    [
+                        -117.082069,
+                        32.685944
+                    ]
+                ]
+            ]
+        ]
+    }
+}

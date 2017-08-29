@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55862472,
+    "properties": {
+        "woe_id": 55862472,
+        "place_id": "dMtuEqmcBJSMtH4FYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Watkins Street, Winston-Salem, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446325,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55862472_20101215_c13a7629e6.tar.gz"
+        },
+        "bbox": [
+            -80.256019592285,
+            36.090984344482,
+            -80.251190185547,
+            36.094158172607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.255981,
+                        36.093033
+                    ],
+                    [
+                        -80.253113,
+                        36.094158
+                    ],
+                    [
+                        -80.25119,
+                        36.092598
+                    ],
+                    [
+                        -80.251823,
+                        36.09206
+                    ],
+                    [
+                        -80.252495,
+                        36.091553
+                    ],
+                    [
+                        -80.254311,
+                        36.090984
+                    ],
+                    [
+                        -80.25602,
+                        36.09153
+                    ],
+                    [
+                        -80.255981,
+                        36.093033
+                    ]
+                ]
+            ]
+        ]
+    }
+}

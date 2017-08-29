@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021247,
+    "properties": {
+        "woe_id": 56021247,
+        "place_id": "1mSZd3KcB5x1QMFbtA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vernon Heights, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531192,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/56021247_20101216_15652cefdb.tar.gz"
+        },
+        "bbox": [
+            -93.682670593262,
+            41.59130859375,
+            -93.677993774414,
+            41.594795227051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.680519,
+                        41.591499
+                    ],
+                    [
+                        -93.682671,
+                        41.594795
+                    ],
+                    [
+                        -93.677994,
+                        41.592651
+                    ],
+                    [
+                        -93.678619,
+                        41.591553
+                    ],
+                    [
+                        -93.678818,
+                        41.591309
+                    ],
+                    [
+                        -93.680519,
+                        41.591499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55999708,
+    "properties": {
+        "woe_id": 55999708,
+        "place_id": "7xzndxGcBJWo.iiytQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centre Ville, Vaudreuil-Dorion, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520462,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55999708_20101216_39699b053d.tar.gz"
+        },
+        "bbox": [
+            -73.983627319336,
+            45.344787597656,
+            -73.98112487793,
+            45.346298217773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.982445,
+                        45.345993
+                    ],
+                    [
+                        -73.981125,
+                        45.344788
+                    ],
+                    [
+                        -73.982521,
+                        45.345631
+                    ],
+                    [
+                        -73.983627,
+                        45.346298
+                    ],
+                    [
+                        -73.982445,
+                        45.345993
+                    ]
+                ]
+            ]
+        ]
+    }
+}

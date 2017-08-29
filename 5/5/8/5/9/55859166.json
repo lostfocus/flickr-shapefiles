@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55859166,
+    "properties": {
+        "woe_id": 55859166,
+        "place_id": "3qEkQlKcBJTlX47t6w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pleasant Street District, Gainesville, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526033,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55859166_20101216_87a9e80925.tar.gz"
+        },
+        "bbox": [
+            -82.33065032959,
+            29.651523590088,
+            -82.323944091797,
+            29.659481048584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.325279,
+                        29.658745
+                    ],
+                    [
+                        -82.323959,
+                        29.656757
+                    ],
+                    [
+                        -82.323944,
+                        29.65593
+                    ],
+                    [
+                        -82.323944,
+                        29.655518
+                    ],
+                    [
+                        -82.326607,
+                        29.651524
+                    ],
+                    [
+                        -82.325386,
+                        29.655807
+                    ],
+                    [
+                        -82.326607,
+                        29.657162
+                    ],
+                    [
+                        -82.33065,
+                        29.657587
+                    ],
+                    [
+                        -82.330429,
+                        29.659481
+                    ],
+                    [
+                        -82.325279,
+                        29.658745
+                    ]
+                ]
+            ]
+        ]
+    }
+}

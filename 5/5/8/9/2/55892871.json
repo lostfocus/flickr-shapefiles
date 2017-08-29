@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55892871,
+    "properties": {
+        "woe_id": 55892871,
+        "place_id": "u0mpt5ScBJQL5wDq9g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Santa Clara, Mexicali, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522629,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/55892871_20101216_f6a45f17d5.tar.gz"
+        },
+        "bbox": [
+            -115.51133728027,
+            32.670886993408,
+            -115.50769805908,
+            32.67516708374
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.511337,
+                        32.675167
+                    ],
+                    [
+                        -115.507698,
+                        32.673309
+                    ],
+                    [
+                        -115.508369,
+                        32.671768
+                    ],
+                    [
+                        -115.508385,
+                        32.671734
+                    ],
+                    [
+                        -115.508583,
+                        32.671165
+                    ],
+                    [
+                        -115.508682,
+                        32.670887
+                    ],
+                    [
+                        -115.511337,
+                        32.675167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

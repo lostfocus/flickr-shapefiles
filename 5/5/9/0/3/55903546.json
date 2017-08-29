@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55903546,
+    "properties": {
+        "woe_id": 55903546,
+        "place_id": "DInZLKqcBJUjgX75Mg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alte\u00f1a 3ra, Naucalpan de Ju\u00e1rez, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535348,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55903546_20101216_0ee3985998.tar.gz"
+        },
+        "bbox": [
+            -99.262939453125,
+            19.506118774414,
+            -99.258514404297,
+            19.508546829224
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.261391,
+                        19.506845
+                    ],
+                    [
+                        -99.262939,
+                        19.507561
+                    ],
+                    [
+                        -99.258514,
+                        19.508547
+                    ],
+                    [
+                        -99.259583,
+                        19.506119
+                    ],
+                    [
+                        -99.261391,
+                        19.506845
+                    ]
+                ]
+            ]
+        ]
+    }
+}

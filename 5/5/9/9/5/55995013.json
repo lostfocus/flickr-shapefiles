@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55995013,
+    "properties": {
+        "woe_id": 55995013,
+        "place_id": "9_anEsecBJVqHXnD1w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Commons, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521623,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55995013_20101216_03441dd149.tar.gz"
+        },
+        "bbox": [
+            -97.690849304199,
+            30.510927200317,
+            -97.689407348633,
+            30.51252746582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.689407,
+                        30.511486
+                    ],
+                    [
+                        -97.689445,
+                        30.511244
+                    ],
+                    [
+                        -97.689957,
+                        30.510927
+                    ],
+                    [
+                        -97.690849,
+                        30.511251
+                    ],
+                    [
+                        -97.68943,
+                        30.512527
+                    ],
+                    [
+                        -97.689407,
+                        30.511486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

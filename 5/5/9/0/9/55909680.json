@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55909680,
+    "properties": {
+        "woe_id": 55909680,
+        "place_id": "h4N97EGcBJWDx7wSag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Pinos, Zapopan, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442727,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55909680_20101215_4927345c60.tar.gz"
+        },
+        "bbox": [
+            -103.40774536133,
+            20.677759170532,
+            -103.40675354004,
+            20.681072235107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.407745,
+                        20.680454
+                    ],
+                    [
+                        -103.407394,
+                        20.681072
+                    ],
+                    [
+                        -103.407356,
+                        20.680941
+                    ],
+                    [
+                        -103.406754,
+                        20.677759
+                    ],
+                    [
+                        -103.407097,
+                        20.677839
+                    ],
+                    [
+                        -103.407745,
+                        20.680454
+                    ]
+                ]
+            ]
+        ]
+    }
+}

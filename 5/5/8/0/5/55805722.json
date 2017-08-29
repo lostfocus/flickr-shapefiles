@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55805722,
+    "properties": {
+        "woe_id": 55805722,
+        "place_id": "4eiZudOcBJTq1fMbXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westcliff West, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532956,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55805722_20101216_7632b618f1.tar.gz"
+        },
+        "bbox": [
+            -97.375389099121,
+            32.685619354248,
+            -97.368186950684,
+            32.691192626953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.373596,
+                        32.685619
+                    ],
+                    [
+                        -97.375389,
+                        32.68721
+                    ],
+                    [
+                        -97.374001,
+                        32.690998
+                    ],
+                    [
+                        -97.368187,
+                        32.691193
+                    ],
+                    [
+                        -97.371399,
+                        32.68721
+                    ],
+                    [
+                        -97.373596,
+                        32.685619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

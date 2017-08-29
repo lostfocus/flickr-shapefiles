@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859028,
+    "properties": {
+        "woe_id": 55859028,
+        "place_id": "YlDsMlmcBJRc6w2SeQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shields, Fort Collins, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535678,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55859028_20101216_133f66f12b.tar.gz"
+        },
+        "bbox": [
+            -105.09816741943,
+            40.566829681396,
+            -105.09297943115,
+            40.569442749023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.098167,
+                        40.568165
+                    ],
+                    [
+                        -105.096588,
+                        40.569443
+                    ],
+                    [
+                        -105.092979,
+                        40.568523
+                    ],
+                    [
+                        -105.093498,
+                        40.568165
+                    ],
+                    [
+                        -105.097015,
+                        40.56683
+                    ],
+                    [
+                        -105.098167,
+                        40.568165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

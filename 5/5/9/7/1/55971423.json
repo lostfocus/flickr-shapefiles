@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971423,
+    "properties": {
+        "woe_id": 55971423,
+        "place_id": "BfJ_6OWcBJXUPDsZYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North San Leandro, San Leandro, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525074,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55971423_20101216_287b6f61c4.tar.gz"
+        },
+        "bbox": [
+            -122.16577148438,
+            37.732540130615,
+            -122.16542816162,
+            37.732879638672
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.165565,
+                        37.732845
+                    ],
+                    [
+                        -122.165428,
+                        37.732758
+                    ],
+                    [
+                        -122.165695,
+                        37.73254
+                    ],
+                    [
+                        -122.165771,
+                        37.732796
+                    ],
+                    [
+                        -122.165634,
+                        37.73288
+                    ],
+                    [
+                        -122.165565,
+                        37.732845
+                    ]
+                ]
+            ]
+        ]
+    }
+}

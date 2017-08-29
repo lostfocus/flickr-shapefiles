@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55862338,
+    "properties": {
+        "woe_id": 55862338,
+        "place_id": "ZNW_j3icBJTI6AxujA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Countryside Woods, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541331,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55862338_20101216_09d01e596b.tar.gz"
+        },
+        "bbox": [
+            -122.5082244873,
+            45.627620697021,
+            -122.50007629395,
+            45.632923126221
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.500076,
+                        45.632706
+                    ],
+                    [
+                        -122.500168,
+                        45.632668
+                    ],
+                    [
+                        -122.504936,
+                        45.632435
+                    ],
+                    [
+                        -122.505989,
+                        45.627621
+                    ],
+                    [
+                        -122.508224,
+                        45.632923
+                    ],
+                    [
+                        -122.508156,
+                        45.632923
+                    ],
+                    [
+                        -122.504936,
+                        45.632435
+                    ],
+                    [
+                        -122.500389,
+                        45.632057
+                    ],
+                    [
+                        -122.500076,
+                        45.632702
+                    ],
+                    [
+                        -122.500076,
+                        45.632706
+                    ]
+                ]
+            ]
+        ]
+    }
+}

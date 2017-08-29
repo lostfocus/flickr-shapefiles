@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022110,
+    "properties": {
+        "woe_id": 56022110,
+        "place_id": "Q4wezwycB5xAtfAVlQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nautical Mile, St. Clair Shores, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532967,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/56022110_20101216_a525c4403d.tar.gz"
+        },
+        "bbox": [
+            -82.884353637695,
+            42.468631744385,
+            -82.875648498535,
+            42.472831726074
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.87915,
+                        42.472832
+                    ],
+                    [
+                        -82.875946,
+                        42.469135
+                    ],
+                    [
+                        -82.875648,
+                        42.468632
+                    ],
+                    [
+                        -82.879654,
+                        42.469627
+                    ],
+                    [
+                        -82.884354,
+                        42.471462
+                    ],
+                    [
+                        -82.87915,
+                        42.472832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

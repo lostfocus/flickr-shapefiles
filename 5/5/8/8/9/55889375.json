@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55889375,
+    "properties": {
+        "woe_id": 55889375,
+        "place_id": "eysoYpycBJReVqJ9Vw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Plaza Del Condado, Atizap\u00e1n de Zaragoza, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526896,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55889375_20101216_4fdcc6d48b.tar.gz"
+        },
+        "bbox": [
+            -99.298667907715,
+            19.557975769043,
+            -99.295753479004,
+            19.563167572021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.295753,
+                        19.558727
+                    ],
+                    [
+                        -99.295807,
+                        19.557976
+                    ],
+                    [
+                        -99.296516,
+                        19.558344
+                    ],
+                    [
+                        -99.298668,
+                        19.562834
+                    ],
+                    [
+                        -99.297668,
+                        19.563168
+                    ],
+                    [
+                        -99.295753,
+                        19.558727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

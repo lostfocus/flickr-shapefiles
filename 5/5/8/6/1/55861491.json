@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55861491,
+    "properties": {
+        "woe_id": 55861491,
+        "place_id": "EwNv.hOcBJSet8Taww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248045023,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2594\/shapefiles\/55861491_20090719_b0a074b9ab.tar.gz"
+        },
+        "bbox": [
+            -89.09016418457,
+            42.267181396484,
+            -89.086921691895,
+            42.271244049072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.086922,
+                        42.2673
+                    ],
+                    [
+                        -89.086975,
+                        42.267181
+                    ],
+                    [
+                        -89.090164,
+                        42.267666
+                    ],
+                    [
+                        -89.090088,
+                        42.268715
+                    ],
+                    [
+                        -89.088837,
+                        42.271244
+                    ],
+                    [
+                        -89.088234,
+                        42.270695
+                    ],
+                    [
+                        -89.086922,
+                        42.2673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

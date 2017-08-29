@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55983480,
+    "properties": {
+        "woe_id": 55983480,
+        "place_id": "aRDB54mcBJU4MOLUlQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westwego, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452995,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55983480_20101215_2f15a0a3f2.tar.gz"
+        },
+        "bbox": [
+            -82.507133483887,
+            27.942499160767,
+            -82.505165100098,
+            27.945335388184
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.505669,
+                        27.942665
+                    ],
+                    [
+                        -82.507133,
+                        27.944645
+                    ],
+                    [
+                        -82.506081,
+                        27.945335
+                    ],
+                    [
+                        -82.505417,
+                        27.944891
+                    ],
+                    [
+                        -82.505165,
+                        27.942499
+                    ],
+                    [
+                        -82.505333,
+                        27.942499
+                    ],
+                    [
+                        -82.505402,
+                        27.942507
+                    ],
+                    [
+                        -82.505669,
+                        27.942665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

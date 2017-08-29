@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 55807005,
+    "properties": {
+        "woe_id": 55807005,
+        "place_id": "dWEN9MGcBJRAbmx5CA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Point, Lexington, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548417,
+        "alpha": 1.0e-5,
+        "points": 27,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55807005_20101217_647b695df4.tar.gz"
+        },
+        "bbox": [
+            -84.523002624512,
+            37.959808349609,
+            -84.520385742188,
+            37.960887908936
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.522499,
+                        37.960857
+                    ],
+                    [
+                        -84.521156,
+                        37.960888
+                    ],
+                    [
+                        -84.520844,
+                        37.960651
+                    ],
+                    [
+                        -84.520622,
+                        37.960491
+                    ],
+                    [
+                        -84.520386,
+                        37.960285
+                    ],
+                    [
+                        -84.522095,
+                        37.959854
+                    ],
+                    [
+                        -84.522362,
+                        37.959808
+                    ],
+                    [
+                        -84.523003,
+                        37.960552
+                    ],
+                    [
+                        -84.522499,
+                        37.960857
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55899043,
+    "properties": {
+        "woe_id": 55899043,
+        "place_id": "3iP8lRKcBJSf1b0Z0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio la Fama, Tlalpan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547652,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55899043_20101217_95da1a1159.tar.gz"
+        },
+        "bbox": [
+            -99.177993774414,
+            19.291376113892,
+            -99.173957824707,
+            19.293144226074
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.176331,
+                        19.291376
+                    ],
+                    [
+                        -99.177101,
+                        19.292452
+                    ],
+                    [
+                        -99.177994,
+                        19.293144
+                    ],
+                    [
+                        -99.176498,
+                        19.292753
+                    ],
+                    [
+                        -99.173958,
+                        19.292482
+                    ],
+                    [
+                        -99.175728,
+                        19.291376
+                    ],
+                    [
+                        -99.176331,
+                        19.291376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55855671,
+    "properties": {
+        "woe_id": 55855671,
+        "place_id": "wouUFT.cBJSfbpxgpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Side, St. John, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490064,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55855671_20101216_eb22ee60f0.tar.gz"
+        },
+        "bbox": [
+            -66.078125,
+            45.255912780762,
+            -66.074371337891,
+            45.257804870605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.074455,
+                        45.257805
+                    ],
+                    [
+                        -66.074371,
+                        45.255913
+                    ],
+                    [
+                        -66.075905,
+                        45.256508
+                    ],
+                    [
+                        -66.078125,
+                        45.25684
+                    ],
+                    [
+                        -66.077805,
+                        45.257389
+                    ],
+                    [
+                        -66.074455,
+                        45.257805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

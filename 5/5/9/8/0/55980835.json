@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980835,
+    "properties": {
+        "woe_id": 55980835,
+        "place_id": "52pie5ucBJWrB3yfgg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Poinsettia Place, Plant City, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446573,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55980835_20101215_87e631d5b8.tar.gz"
+        },
+        "bbox": [
+            -82.137306213379,
+            28.016244888306,
+            -82.135749816895,
+            28.016870498657
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.136322,
+                        28.016245
+                    ],
+                    [
+                        -82.137306,
+                        28.01687
+                    ],
+                    [
+                        -82.135925,
+                        28.016525
+                    ],
+                    [
+                        -82.135834,
+                        28.016449
+                    ],
+                    [
+                        -82.13575,
+                        28.016373
+                    ],
+                    [
+                        -82.136322,
+                        28.016245
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982106,
+    "properties": {
+        "woe_id": 55982106,
+        "place_id": "nsR7qHqcBJVv3j_YUw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brownstones of Soho, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530325,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55982106_20101216_573941f724.tar.gz"
+        },
+        "bbox": [
+            -82.483551025391,
+            27.9339427948,
+            -82.482215881348,
+            27.936218261719
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.483551,
+                        27.935858
+                    ],
+                    [
+                        -82.483246,
+                        27.936218
+                    ],
+                    [
+                        -82.483192,
+                        27.935743
+                    ],
+                    [
+                        -82.482216,
+                        27.933943
+                    ],
+                    [
+                        -82.483002,
+                        27.934834
+                    ],
+                    [
+                        -82.483551,
+                        27.935858
+                    ]
+                ]
+            ]
+        ]
+    }
+}

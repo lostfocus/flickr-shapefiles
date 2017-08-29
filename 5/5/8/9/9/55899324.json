@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55899324,
+    "properties": {
+        "woe_id": 55899324,
+        "place_id": "OW5NMrKcBJRh8CgQ1g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Agricultura, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490125,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55899324_20101216_c2271822d7.tar.gz"
+        },
+        "bbox": [
+            -99.165817260742,
+            19.446783065796,
+            -99.160919189453,
+            19.45291519165
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.165817,
+                        19.448366
+                    ],
+                    [
+                        -99.165474,
+                        19.450628
+                    ],
+                    [
+                        -99.164314,
+                        19.452915
+                    ],
+                    [
+                        -99.164642,
+                        19.449133
+                    ],
+                    [
+                        -99.160919,
+                        19.446783
+                    ],
+                    [
+                        -99.164482,
+                        19.447237
+                    ],
+                    [
+                        -99.165817,
+                        19.448366
+                    ]
+                ]
+            ]
+        ]
+    }
+}

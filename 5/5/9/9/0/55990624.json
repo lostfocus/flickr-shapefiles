@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990624,
+    "properties": {
+        "woe_id": 55990624,
+        "place_id": "tKd5IP6cBJVSgzFoxA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Six Forks, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540801,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55990624_20101216_98dd6d7b99.tar.gz"
+        },
+        "bbox": [
+            -78.657890319824,
+            35.863971710205,
+            -78.654922485352,
+            35.866821289062
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.655884,
+                        35.863995
+                    ],
+                    [
+                        -78.656197,
+                        35.863972
+                    ],
+                    [
+                        -78.65789,
+                        35.866455
+                    ],
+                    [
+                        -78.654922,
+                        35.866821
+                    ],
+                    [
+                        -78.655502,
+                        35.864666
+                    ],
+                    [
+                        -78.655884,
+                        35.863995
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55991436,
+    "properties": {
+        "woe_id": 55991436,
+        "place_id": "qHVtwtacBJXv6oJckQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tri-Court, Lincoln, NE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531169,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55991436_20101216_539d69a713.tar.gz"
+        },
+        "bbox": [
+            -96.710830688477,
+            40.838665008545,
+            -96.708000183105,
+            40.841003417969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.710365,
+                        40.839066
+                    ],
+                    [
+                        -96.710831,
+                        40.839001
+                    ],
+                    [
+                        -96.709984,
+                        40.841003
+                    ],
+                    [
+                        -96.708,
+                        40.838665
+                    ],
+                    [
+                        -96.710365,
+                        40.839066
+                    ]
+                ]
+            ]
+        ]
+    }
+}

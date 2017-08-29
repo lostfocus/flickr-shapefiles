@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861498,
+    "properties": {
+        "woe_id": 55861498,
+        "place_id": "2WmlOcGcBJRcxoYIDg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mulberry Forest, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525983,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55861498_20101216_ce2da37284.tar.gz"
+        },
+        "bbox": [
+            -89.106086730957,
+            42.272457122803,
+            -89.104095458984,
+            42.276065826416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.104095,
+                        42.275352
+                    ],
+                    [
+                        -89.105019,
+                        42.272457
+                    ],
+                    [
+                        -89.106087,
+                        42.276066
+                    ],
+                    [
+                        -89.105431,
+                        42.275944
+                    ],
+                    [
+                        -89.104256,
+                        42.27578
+                    ],
+                    [
+                        -89.104095,
+                        42.275352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

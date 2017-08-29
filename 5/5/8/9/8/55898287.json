@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898287,
+    "properties": {
+        "woe_id": 55898287,
+        "place_id": "ZChtXECcBJShu8CYVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Res Miramontes, Tlalpan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527878,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55898287_20101216_e653fe3429.tar.gz"
+        },
+        "bbox": [
+            -99.12523651123,
+            19.301473617554,
+            -99.123382568359,
+            19.302743911743
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.124641,
+                        19.301474
+                    ],
+                    [
+                        -99.125237,
+                        19.301523
+                    ],
+                    [
+                        -99.125015,
+                        19.302202
+                    ],
+                    [
+                        -99.124496,
+                        19.3025
+                    ],
+                    [
+                        -99.123383,
+                        19.302744
+                    ],
+                    [
+                        -99.124641,
+                        19.301474
+                    ]
+                ]
+            ]
+        ]
+    }
+}

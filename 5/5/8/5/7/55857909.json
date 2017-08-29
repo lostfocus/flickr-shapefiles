@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55857909,
+    "properties": {
+        "woe_id": 55857909,
+        "place_id": "ckkzzyCcBJQQIbWAfw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Garden City, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449894,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55857909_20101215_fb6cd7db68.tar.gz"
+        },
+        "bbox": [
+            -91.169700622559,
+            30.491418838501,
+            -91.16446685791,
+            30.493196487427
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.169701,
+                        30.491468
+                    ],
+                    [
+                        -91.16967,
+                        30.492666
+                    ],
+                    [
+                        -91.16964,
+                        30.493196
+                    ],
+                    [
+                        -91.164467,
+                        30.491419
+                    ],
+                    [
+                        -91.169334,
+                        30.491894
+                    ],
+                    [
+                        -91.169701,
+                        30.491468
+                    ]
+                ]
+            ]
+        ]
+    }
+}

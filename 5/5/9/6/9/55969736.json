@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55969736,
+    "properties": {
+        "woe_id": 55969736,
+        "place_id": "SvKBVU.cBJXMxvBnCQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alta Vista, Laguna Beach, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527903,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55969736_20101216_9e89179997.tar.gz"
+        },
+        "bbox": [
+            -117.76789855957,
+            33.522647857666,
+            -117.76358795166,
+            33.525547027588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.764488,
+                        33.524689
+                    ],
+                    [
+                        -117.764854,
+                        33.524223
+                    ],
+                    [
+                        -117.766739,
+                        33.522648
+                    ],
+                    [
+                        -117.767899,
+                        33.524761
+                    ],
+                    [
+                        -117.767044,
+                        33.524689
+                    ],
+                    [
+                        -117.763588,
+                        33.525547
+                    ],
+                    [
+                        -117.764488,
+                        33.524689
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55862309,
+    "properties": {
+        "woe_id": 55862309,
+        "place_id": "ICgznZGcBJSj0QqiZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Morningside Addition, Vallejo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542388,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55862309_20101216_fc05aaef5c.tar.gz"
+        },
+        "bbox": [
+            -122.24641418457,
+            38.103538513184,
+            -122.23750305176,
+            38.110130310059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.244186,
+                        38.106789
+                    ],
+                    [
+                        -122.246414,
+                        38.11013
+                    ],
+                    [
+                        -122.243233,
+                        38.108814
+                    ],
+                    [
+                        -122.239098,
+                        38.109844
+                    ],
+                    [
+                        -122.237503,
+                        38.108501
+                    ],
+                    [
+                        -122.24292,
+                        38.108414
+                    ],
+                    [
+                        -122.242279,
+                        38.103539
+                    ],
+                    [
+                        -122.244873,
+                        38.104813
+                    ],
+                    [
+                        -122.244934,
+                        38.104988
+                    ],
+                    [
+                        -122.244186,
+                        38.106789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

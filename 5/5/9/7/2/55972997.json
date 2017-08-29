@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55972997,
+    "properties": {
+        "woe_id": 55972997,
+        "place_id": "NLzi9nucBJW1zB9xKw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lowell, Denver, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453055,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/55972997_20101215_abde2d0f56.tar.gz"
+        },
+        "bbox": [
+            -105.03943634033,
+            39.795742034912,
+            -105.03444671631,
+            39.799034118652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.036026,
+                        39.796486
+                    ],
+                    [
+                        -105.038506,
+                        39.795742
+                    ],
+                    [
+                        -105.039436,
+                        39.796345
+                    ],
+                    [
+                        -105.036079,
+                        39.799034
+                    ],
+                    [
+                        -105.034447,
+                        39.797359
+                    ],
+                    [
+                        -105.036026,
+                        39.796486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

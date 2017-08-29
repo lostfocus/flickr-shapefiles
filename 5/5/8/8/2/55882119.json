@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882119,
+    "properties": {
+        "woe_id": 55882119,
+        "place_id": "UPQphKWcBJQEPHbpHA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Madero, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545090,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55882119_20101217_631a42369e.tar.gz"
+        },
+        "bbox": [
+            -117.02911376953,
+            32.519802093506,
+            -117.02589416504,
+            32.522808074951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.028252,
+                        32.522789
+                    ],
+                    [
+                        -117.02755,
+                        32.522808
+                    ],
+                    [
+                        -117.026711,
+                        32.521847
+                    ],
+                    [
+                        -117.025894,
+                        32.519802
+                    ],
+                    [
+                        -117.029114,
+                        32.520401
+                    ],
+                    [
+                        -117.028252,
+                        32.522789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

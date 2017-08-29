@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55985214,
+    "properties": {
+        "woe_id": 55985214,
+        "place_id": "xR_MUZicBJX0AV0okg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Breakwater, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456002,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55985214_20101215_8cd6725c3a.tar.gz"
+        },
+        "bbox": [
+            -84.406326293945,
+            33.93928527832,
+            -84.403793334961,
+            33.945316314697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.405922,
+                        33.945263
+                    ],
+                    [
+                        -84.403793,
+                        33.942818
+                    ],
+                    [
+                        -84.405174,
+                        33.939285
+                    ],
+                    [
+                        -84.406326,
+                        33.940937
+                    ],
+                    [
+                        -84.406189,
+                        33.945076
+                    ],
+                    [
+                        -84.405983,
+                        33.945316
+                    ],
+                    [
+                        -84.405922,
+                        33.945263
+                    ]
+                ]
+            ]
+        ]
+    }
+}

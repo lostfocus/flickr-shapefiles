@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55995965,
+    "properties": {
+        "woe_id": 55995965,
+        "place_id": "ezX4t4OcBJU41M0UDQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Battle Ground, Battle Ground, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446626,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55995965_20101215_c57e3499ee.tar.gz"
+        },
+        "bbox": [
+            -122.53617858887,
+            45.779041290283,
+            -122.53154754639,
+            45.782428741455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.533386,
+                        45.781265
+                    ],
+                    [
+                        -122.531548,
+                        45.780972
+                    ],
+                    [
+                        -122.534988,
+                        45.779041
+                    ],
+                    [
+                        -122.5355,
+                        45.781166
+                    ],
+                    [
+                        -122.536179,
+                        45.782429
+                    ],
+                    [
+                        -122.533386,
+                        45.781265
+                    ]
+                ]
+            ]
+        ]
+    }
+}

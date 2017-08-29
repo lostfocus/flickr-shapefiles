@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 55904049,
+    "properties": {
+        "woe_id": 55904049,
+        "place_id": "43b2NBucBJXMAWa3gw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio la Concepcion, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247954166,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2429\/shapefiles\/55904049_20090718_2957e58090.tar.gz"
+        },
+        "bbox": [
+            -99.161041259766,
+            19.346218109131,
+            -99.158210754395,
+            19.349977493286
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.158829,
+                        19.347094
+                    ],
+                    [
+                        -99.158211,
+                        19.346218
+                    ],
+                    [
+                        -99.158401,
+                        19.346218
+                    ],
+                    [
+                        -99.159225,
+                        19.347012
+                    ],
+                    [
+                        -99.159454,
+                        19.347231
+                    ],
+                    [
+                        -99.160751,
+                        19.348722
+                    ],
+                    [
+                        -99.161041,
+                        19.348898
+                    ],
+                    [
+                        -99.159035,
+                        19.349977
+                    ],
+                    [
+                        -99.158829,
+                        19.347094
+                    ]
+                ]
+            ]
+        ]
+    }
+}

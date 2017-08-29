@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55882000,
+    "properties": {
+        "woe_id": 55882000,
+        "place_id": "TdAXijOcBJRoBwobiw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unidad Nacional, Ciudad Madero, TM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473324,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55882000_20101216_d6fb801fd1.tar.gz"
+        },
+        "bbox": [
+            -97.852691650391,
+            22.265745162964,
+            -97.848022460938,
+            22.273225784302
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.848312,
+                        22.267969
+                    ],
+                    [
+                        -97.850372,
+                        22.267948
+                    ],
+                    [
+                        -97.852692,
+                        22.265745
+                    ],
+                    [
+                        -97.851044,
+                        22.270491
+                    ],
+                    [
+                        -97.850204,
+                        22.273226
+                    ],
+                    [
+                        -97.848022,
+                        22.272232
+                    ],
+                    [
+                        -97.848312,
+                        22.267969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

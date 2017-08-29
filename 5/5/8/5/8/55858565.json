@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858565,
+    "properties": {
+        "woe_id": 55858565,
+        "place_id": "F.SUcNKcBJTlPaLQgw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crossings, Pompano Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543997,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55858565_20101216_1f76a6e384.tar.gz"
+        },
+        "bbox": [
+            -80.226142883301,
+            26.27250289917,
+            -80.221603393555,
+            26.278324127197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.223412,
+                        26.274868
+                    ],
+                    [
+                        -80.226143,
+                        26.278324
+                    ],
+                    [
+                        -80.221992,
+                        26.275253
+                    ],
+                    [
+                        -80.221603,
+                        26.272503
+                    ],
+                    [
+                        -80.223564,
+                        26.273954
+                    ],
+                    [
+                        -80.223412,
+                        26.274868
+                    ]
+                ]
+            ]
+        ]
+    }
+}

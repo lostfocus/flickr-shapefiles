@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55895115,
+    "properties": {
+        "woe_id": 55895115,
+        "place_id": "QwmoLyacBJSi9PfgSg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Venados, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497142,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55895115_20101216_32ba465fbf.tar.gz"
+        },
+        "bbox": [
+            -116.92553710938,
+            32.461261749268,
+            -116.92060089111,
+            32.464805603027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.922539,
+                        32.464806
+                    ],
+                    [
+                        -116.920601,
+                        32.461262
+                    ],
+                    [
+                        -116.925529,
+                        32.46172
+                    ],
+                    [
+                        -116.925537,
+                        32.461906
+                    ],
+                    [
+                        -116.923759,
+                        32.464611
+                    ],
+                    [
+                        -116.922539,
+                        32.464806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

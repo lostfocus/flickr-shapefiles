@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55970102,
+    "properties": {
+        "woe_id": 55970102,
+        "place_id": "W6jpsNWcBJXoET8qEQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Seville, Mission Viejo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490186,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55970102_20101216_699b8c0f44.tar.gz"
+        },
+        "bbox": [
+            -117.67088317871,
+            33.639301300049,
+            -117.66751098633,
+            33.640983581543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.667656,
+                        33.639675
+                    ],
+                    [
+                        -117.667511,
+                        33.639427
+                    ],
+                    [
+                        -117.668297,
+                        33.639301
+                    ],
+                    [
+                        -117.670883,
+                        33.640984
+                    ],
+                    [
+                        -117.667656,
+                        33.639675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

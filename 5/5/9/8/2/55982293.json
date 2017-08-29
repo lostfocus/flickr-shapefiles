@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55982293,
+    "properties": {
+        "woe_id": 55982293,
+        "place_id": "j1aLtgCcBJV06FfsSg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Druid Hills, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538825,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55982293_20101216_8e1a0f04f5.tar.gz"
+        },
+        "bbox": [
+            -82.415138244629,
+            28.032440185547,
+            -82.410850524902,
+            28.033803939819
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.413193,
+                        28.03244
+                    ],
+                    [
+                        -82.415138,
+                        28.03244
+                    ],
+                    [
+                        -82.413277,
+                        28.032576
+                    ],
+                    [
+                        -82.412407,
+                        28.033079
+                    ],
+                    [
+                        -82.410851,
+                        28.033804
+                    ],
+                    [
+                        -82.411385,
+                        28.033188
+                    ],
+                    [
+                        -82.413193,
+                        28.03244
+                    ]
+                ]
+            ]
+        ]
+    }
+}

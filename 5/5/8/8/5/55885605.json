@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55885605,
+    "properties": {
+        "woe_id": 55885605,
+        "place_id": "4TClU9icBJREquNBPQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cucurpe, Hermosillo, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538603,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55885605_20101216_70c4053ed6.tar.gz"
+        },
+        "bbox": [
+            -110.95858764648,
+            29.137018203735,
+            -110.9539642334,
+            29.143867492676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.953964,
+                        29.139961
+                    ],
+                    [
+                        -110.954193,
+                        29.139725
+                    ],
+                    [
+                        -110.955475,
+                        29.137018
+                    ],
+                    [
+                        -110.957275,
+                        29.137018
+                    ],
+                    [
+                        -110.958588,
+                        29.141117
+                    ],
+                    [
+                        -110.955338,
+                        29.143867
+                    ],
+                    [
+                        -110.955132,
+                        29.142162
+                    ],
+                    [
+                        -110.953964,
+                        29.139961
+                    ]
+                ]
+            ]
+        ]
+    }
+}

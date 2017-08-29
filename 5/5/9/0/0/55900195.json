@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55900195,
+    "properties": {
+        "woe_id": 55900195,
+        "place_id": "5LISWvCcBJXdXHbpdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ejido Chapultepec, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522464,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55900195_20101216_be27195663.tar.gz"
+        },
+        "bbox": [
+            -116.61884307861,
+            31.773208618164,
+            -116.61399841309,
+            31.776832580566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.616165,
+                        31.776333
+                    ],
+                    [
+                        -116.615997,
+                        31.776833
+                    ],
+                    [
+                        -116.613998,
+                        31.775999
+                    ],
+                    [
+                        -116.615334,
+                        31.775166
+                    ],
+                    [
+                        -116.615669,
+                        31.775
+                    ],
+                    [
+                        -116.618843,
+                        31.773209
+                    ],
+                    [
+                        -116.616165,
+                        31.776333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

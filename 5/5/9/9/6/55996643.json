@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996643,
+    "properties": {
+        "woe_id": 55996643,
+        "place_id": "BnT5UKKcBJXG8Ri39A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cold Creek Heights, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490301,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55996643_20101216_125ee9beea.tar.gz"
+        },
+        "bbox": [
+            -122.61849212646,
+            45.672611236572,
+            -122.61827087402,
+            45.672714233398
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.618431,
+                        45.67271
+                    ],
+                    [
+                        -122.618317,
+                        45.672714
+                    ],
+                    [
+                        -122.618271,
+                        45.672653
+                    ],
+                    [
+                        -122.618454,
+                        45.672611
+                    ],
+                    [
+                        -122.618492,
+                        45.672665
+                    ],
+                    [
+                        -122.618431,
+                        45.67271
+                    ]
+                ]
+            ]
+        ]
+    }
+}

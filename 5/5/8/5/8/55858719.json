@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858719,
+    "properties": {
+        "woe_id": 55858719,
+        "place_id": "0xAlw6ycBJQQ9FIzvw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Douglas Acres, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545942,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/55858719_20101217_f3673c0856.tar.gz"
+        },
+        "bbox": [
+            -93.575874328613,
+            41.631759643555,
+            -93.570510864258,
+            41.63655090332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.575874,
+                        41.636551
+                    ],
+                    [
+                        -93.575645,
+                        41.634953
+                    ],
+                    [
+                        -93.570511,
+                        41.63287
+                    ],
+                    [
+                        -93.570534,
+                        41.63176
+                    ],
+                    [
+                        -93.57579,
+                        41.634594
+                    ],
+                    [
+                        -93.575874,
+                        41.636551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

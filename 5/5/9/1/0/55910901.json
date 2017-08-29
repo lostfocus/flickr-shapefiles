@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55910901,
+    "properties": {
+        "woe_id": 55910901,
+        "place_id": "JAyR4JWcBJXeJwKW_g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vista Hermosa, Temapache, VE, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535030,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55910901_20101216_54755fc4b3.tar.gz"
+        },
+        "bbox": [
+            -97.676773071289,
+            20.912900924683,
+            -97.674842834473,
+            20.91689491272
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.676773,
+                        20.914198
+                    ],
+                    [
+                        -97.676109,
+                        20.916895
+                    ],
+                    [
+                        -97.675728,
+                        20.916859
+                    ],
+                    [
+                        -97.674843,
+                        20.915842
+                    ],
+                    [
+                        -97.675728,
+                        20.912901
+                    ],
+                    [
+                        -97.676361,
+                        20.913025
+                    ],
+                    [
+                        -97.676773,
+                        20.914198
+                    ]
+                ]
+            ]
+        ]
+    }
+}

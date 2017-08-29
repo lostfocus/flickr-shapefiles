@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55891141,
+    "properties": {
+        "woe_id": 55891141,
+        "place_id": "WA5kbyOcBJRvt30cRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parque de la Amistad, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452965,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55891141_20101215_c346231bdf.tar.gz"
+        },
+        "bbox": [
+            -116.94284057617,
+            32.53515625,
+            -116.93950653076,
+            32.538917541504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.940704,
+                        32.537964
+                    ],
+                    [
+                        -116.939644,
+                        32.537247
+                    ],
+                    [
+                        -116.939507,
+                        32.535671
+                    ],
+                    [
+                        -116.941711,
+                        32.535156
+                    ],
+                    [
+                        -116.942841,
+                        32.538918
+                    ],
+                    [
+                        -116.940704,
+                        32.537964
+                    ]
+                ]
+            ]
+        ]
+    }
+}

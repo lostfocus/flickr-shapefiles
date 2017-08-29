@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997502,
+    "properties": {
+        "woe_id": 55997502,
+        "place_id": "ULj1b16cBJXeuBvvCw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Renaissance, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473687,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55997502_20101216_b5f2ddb20d.tar.gz"
+        },
+        "bbox": [
+            -122.53690338135,
+            45.617832183838,
+            -122.53282928467,
+            45.620601654053
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.533669,
+                        45.617832
+                    ],
+                    [
+                        -122.536118,
+                        45.617962
+                    ],
+                    [
+                        -122.536903,
+                        45.618565
+                    ],
+                    [
+                        -122.536476,
+                        45.620602
+                    ],
+                    [
+                        -122.532829,
+                        45.618832
+                    ],
+                    [
+                        -122.533669,
+                        45.617832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987021,
+    "properties": {
+        "woe_id": 55987021,
+        "place_id": "Ae7ZdwKcBJVijqNP1A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glenham-Belford, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465044,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55987021_20101216_1ce73d24c9.tar.gz"
+        },
+        "bbox": [
+            -76.552604675293,
+            39.344604492188,
+            -76.548217773438,
+            39.349880218506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.552559,
+                        39.347389
+                    ],
+                    [
+                        -76.552605,
+                        39.347488
+                    ],
+                    [
+                        -76.550392,
+                        39.34988
+                    ],
+                    [
+                        -76.548218,
+                        39.348736
+                    ],
+                    [
+                        -76.550339,
+                        39.344604
+                    ],
+                    [
+                        -76.552559,
+                        39.347389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987431,
+    "properties": {
+        "woe_id": 55987431,
+        "place_id": "GwWmPg6cBJVZtRe_jA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley Of Flowers, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482507,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55987431_20101216_89ff498e05.tar.gz"
+        },
+        "bbox": [
+            -111.05012512207,
+            45.677349090576,
+            -111.04806518555,
+            45.679088592529
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.049454,
+                        45.679058
+                    ],
+                    [
+                        -111.048065,
+                        45.677349
+                    ],
+                    [
+                        -111.049667,
+                        45.678501
+                    ],
+                    [
+                        -111.049835,
+                        45.678665
+                    ],
+                    [
+                        -111.050125,
+                        45.679089
+                    ],
+                    [
+                        -111.049454,
+                        45.679058
+                    ]
+                ]
+            ]
+        ]
+    }
+}

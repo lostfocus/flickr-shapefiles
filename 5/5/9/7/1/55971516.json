@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971516,
+    "properties": {
+        "woe_id": 55971516,
+        "place_id": "WM3FOBScBJVkDnY3Lg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glenwood, San Rafael, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522625,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55971516_20101216_9abc2451df.tar.gz"
+        },
+        "bbox": [
+            -122.47728729248,
+            37.985969543457,
+            -122.47673797607,
+            37.986087799072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.476921,
+                        37.986046
+                    ],
+                    [
+                        -122.476738,
+                        37.986088
+                    ],
+                    [
+                        -122.476784,
+                        37.986012
+                    ],
+                    [
+                        -122.47728,
+                        37.98597
+                    ],
+                    [
+                        -122.477287,
+                        37.985977
+                    ],
+                    [
+                        -122.476921,
+                        37.986046
+                    ]
+                ]
+            ]
+        ]
+    }
+}

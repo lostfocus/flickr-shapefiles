@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021509,
+    "properties": {
+        "woe_id": 56021509,
+        "place_id": "OdK1tV.cB5x3c4okJw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Quail Ridge, North Liberty, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292501957,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/56021509_20101216_a8beea4da6.tar.gz"
+        },
+        "bbox": [
+            -91.613670349121,
+            41.741500854492,
+            -91.612831115723,
+            41.742000579834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.612999,
+                        41.741833
+                    ],
+                    [
+                        -91.612831,
+                        41.741501
+                    ],
+                    [
+                        -91.61367,
+                        41.742001
+                    ],
+                    [
+                        -91.613503,
+                        41.742001
+                    ],
+                    [
+                        -91.613335,
+                        41.742001
+                    ],
+                    [
+                        -91.612999,
+                        41.741833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55984432,
+    "properties": {
+        "woe_id": 55984432,
+        "place_id": "fzfudNScBJWBtwEizw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pointe West, Vero Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446623,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/55984432_20101215_c21ff1c23b.tar.gz"
+        },
+        "bbox": [
+            -80.484466552734,
+            27.626934051514,
+            -80.479057312012,
+            27.629592895508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.484467,
+                        27.629093
+                    ],
+                    [
+                        -80.484291,
+                        27.629169
+                    ],
+                    [
+                        -80.484039,
+                        27.629131
+                    ],
+                    [
+                        -80.479057,
+                        27.629593
+                    ],
+                    [
+                        -80.482574,
+                        27.626934
+                    ],
+                    [
+                        -80.484467,
+                        27.629093
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882062,
+    "properties": {
+        "woe_id": 55882062,
+        "place_id": "Tx3RdpWcBJSQOUDIcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Playas de Tijuana Secc Costa Azul, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292475497,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55882062_20101216_fd4c314566.tar.gz"
+        },
+        "bbox": [
+            -117.12387084961,
+            32.496585845947,
+            -117.12215423584,
+            32.501075744629
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.122719,
+                        32.498371
+                    ],
+                    [
+                        -117.122154,
+                        32.496586
+                    ],
+                    [
+                        -117.122787,
+                        32.497456
+                    ],
+                    [
+                        -117.123283,
+                        32.498959
+                    ],
+                    [
+                        -117.123871,
+                        32.501076
+                    ],
+                    [
+                        -117.122719,
+                        32.498371
+                    ]
+                ]
+            ]
+        ]
+    }
+}

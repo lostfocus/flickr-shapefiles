@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997289,
+    "properties": {
+        "woe_id": 55997289,
+        "place_id": "Y3vVe12cBJU59c.9fg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mill Crest, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450163,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55997289_20101215_a456092691.tar.gz"
+        },
+        "bbox": [
+            -122.48999786377,
+            45.621383666992,
+            -122.48833465576,
+            45.62183380127
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.489166,
+                        45.621834
+                    ],
+                    [
+                        -122.488335,
+                        45.621666
+                    ],
+                    [
+                        -122.489136,
+                        45.621384
+                    ],
+                    [
+                        -122.489998,
+                        45.621498
+                    ],
+                    [
+                        -122.489807,
+                        45.621693
+                    ],
+                    [
+                        -122.489166,
+                        45.621834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

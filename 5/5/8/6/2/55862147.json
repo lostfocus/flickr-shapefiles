@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55862147,
+    "properties": {
+        "woe_id": 55862147,
+        "place_id": "PbJH23CcBJSPDldtxA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shalimar, Tempe, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509754,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55862147_20101216_bf4fb7db1c.tar.gz"
+        },
+        "bbox": [
+            -111.89408111572,
+            33.39270401001,
+            -111.89202880859,
+            33.399471282959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.893417,
+                        33.393513
+                    ],
+                    [
+                        -111.892029,
+                        33.392704
+                    ],
+                    [
+                        -111.894081,
+                        33.393452
+                    ],
+                    [
+                        -111.893883,
+                        33.393661
+                    ],
+                    [
+                        -111.893051,
+                        33.399471
+                    ],
+                    [
+                        -111.893417,
+                        33.393513
+                    ]
+                ]
+            ]
+        ]
+    }
+}

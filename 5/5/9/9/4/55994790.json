@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994790,
+    "properties": {
+        "woe_id": 55994790,
+        "place_id": "r3ir7L.cBJWqlpDjyw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chisholm Valley, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458084,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55994790_20101216_6fa8d158f6.tar.gz"
+        },
+        "bbox": [
+            -97.683403015137,
+            30.493333816528,
+            -97.681503295898,
+            30.496744155884
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.683403,
+                        30.496559
+                    ],
+                    [
+                        -97.682945,
+                        30.496744
+                    ],
+                    [
+                        -97.682648,
+                        30.496618
+                    ],
+                    [
+                        -97.681503,
+                        30.493334
+                    ],
+                    [
+                        -97.682846,
+                        30.495205
+                    ],
+                    [
+                        -97.683403,
+                        30.496559
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55969183,
+    "properties": {
+        "woe_id": 55969183,
+        "place_id": "EX55SuKcBJUzxIIOyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spanish Hills, Camarillo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548102,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55969183_20101217_2d67b40abc.tar.gz"
+        },
+        "bbox": [
+            -119.10116577148,
+            34.230403900146,
+            -119.09736633301,
+            34.231998443604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.100502,
+                        34.231499
+                    ],
+                    [
+                        -119.097366,
+                        34.230404
+                    ],
+                    [
+                        -119.101151,
+                        34.230785
+                    ],
+                    [
+                        -119.101166,
+                        34.231499
+                    ],
+                    [
+                        -119.101166,
+                        34.231998
+                    ],
+                    [
+                        -119.10067,
+                        34.231667
+                    ],
+                    [
+                        -119.100502,
+                        34.231499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

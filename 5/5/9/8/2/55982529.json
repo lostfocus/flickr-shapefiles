@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982529,
+    "properties": {
+        "woe_id": 55982529,
+        "place_id": "ptc8AHqcBJVJUxoKYw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Henderson's Tampa Heights, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519332,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55982529_20101216_4cf0a6d347.tar.gz"
+        },
+        "bbox": [
+            -82.460487365723,
+            27.957485198975,
+            -82.458526611328,
+            27.959630966187
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.46003,
+                        27.959419
+                    ],
+                    [
+                        -82.458527,
+                        27.959631
+                    ],
+                    [
+                        -82.459602,
+                        27.958044
+                    ],
+                    [
+                        -82.460114,
+                        27.957485
+                    ],
+                    [
+                        -82.460487,
+                        27.958794
+                    ],
+                    [
+                        -82.46003,
+                        27.959419
+                    ]
+                ]
+            ]
+        ]
+    }
+}

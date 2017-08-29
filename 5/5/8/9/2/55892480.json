@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55892480,
+    "properties": {
+        "woe_id": 55892480,
+        "place_id": "MBjQYjKcBJSUBzfyUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Emilio Carranza, Ciudad Madero, TM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522617,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55892480_20101216_30d4e1a80e.tar.gz"
+        },
+        "bbox": [
+            -97.787506103516,
+            22.264265060425,
+            -97.781196594238,
+            22.265825271606
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.785507,
+                        22.264376
+                    ],
+                    [
+                        -97.786301,
+                        22.264265
+                    ],
+                    [
+                        -97.787506,
+                        22.265825
+                    ],
+                    [
+                        -97.785645,
+                        22.265163
+                    ],
+                    [
+                        -97.781197,
+                        22.264996
+                    ],
+                    [
+                        -97.785507,
+                        22.264376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

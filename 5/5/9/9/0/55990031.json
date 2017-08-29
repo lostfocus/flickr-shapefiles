@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990031,
+    "properties": {
+        "woe_id": 55990031,
+        "place_id": "eHOEo7GcBJUAXtcYRQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Edgewood, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455531,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55990031_20101215_974b8f3839.tar.gz"
+        },
+        "bbox": [
+            -78.544166564941,
+            35.964500427246,
+            -78.54280090332,
+            35.967498779297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.543671,
+                        35.967499
+                    ],
+                    [
+                        -78.542801,
+                        35.966877
+                    ],
+                    [
+                        -78.542831,
+                        35.966831
+                    ],
+                    [
+                        -78.544167,
+                        35.9645
+                    ],
+                    [
+                        -78.543671,
+                        35.967335
+                    ],
+                    [
+                        -78.543671,
+                        35.967499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

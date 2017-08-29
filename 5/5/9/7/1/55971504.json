@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971504,
+    "properties": {
+        "woe_id": 55971504,
+        "place_id": "DFWUm06cBJVj1NOCUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bayside Acres, San Rafael, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455529,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55971504_20101215_7a83b5a0c2.tar.gz"
+        },
+        "bbox": [
+            -122.47944641113,
+            37.97314453125,
+            -122.47352600098,
+            37.977256774902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.477882,
+                        37.973145
+                    ],
+                    [
+                        -122.47934,
+                        37.974445
+                    ],
+                    [
+                        -122.479446,
+                        37.974926
+                    ],
+                    [
+                        -122.475327,
+                        37.977257
+                    ],
+                    [
+                        -122.473526,
+                        37.975529
+                    ],
+                    [
+                        -122.477882,
+                        37.973145
+                    ]
+                ]
+            ]
+        ]
+    }
+}

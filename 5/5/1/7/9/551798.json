@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 551798,
+    "properties": {
+        "woe_id": 551798,
+        "place_id": "dWaKIvicBJ2rouQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Weidlingau, Vienna, Vienna, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247903656,
+        "alpha": 1.0e-5,
+        "points": 36,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3467\/shapefiles\/551798_20090718_ce4108bb2c.tar.gz"
+        },
+        "bbox": [
+            16.212043762207,
+            48.193328857422,
+            16.213716506958,
+            48.19580078125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.213459,
+                        48.19566
+                    ],
+                    [
+                        16.213717,
+                        48.195801
+                    ],
+                    [
+                        16.213675,
+                        48.195618
+                    ],
+                    [
+                        16.212044,
+                        48.193329
+                    ],
+                    [
+                        16.212944,
+                        48.195129
+                    ],
+                    [
+                        16.213459,
+                        48.19566
+                    ]
+                ]
+            ]
+        ]
+    }
+}

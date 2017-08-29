@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55971515,
+    "properties": {
+        "woe_id": 55971515,
+        "place_id": "Z8xWq.icBJW1mV6fRQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Francisco Boulevard West, San Rafael, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528744,
+        "alpha": 1.953125e-5,
+        "points": 12,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55971515_20101216_e9bf66ce8b.tar.gz"
+        },
+        "bbox": [
+            -122.52212524414,
+            37.960941314697,
+            -122.5094909668,
+            37.967781066895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.509491,
+                        37.961979
+                    ],
+                    [
+                        -122.510765,
+                        37.960964
+                    ],
+                    [
+                        -122.512535,
+                        37.960941
+                    ],
+                    [
+                        -122.520805,
+                        37.961586
+                    ],
+                    [
+                        -122.522003,
+                        37.965473
+                    ],
+                    [
+                        -122.522125,
+                        37.967781
+                    ],
+                    [
+                        -122.519112,
+                        37.967556
+                    ],
+                    [
+                        -122.515778,
+                        37.965752
+                    ],
+                    [
+                        -122.512749,
+                        37.963181
+                    ],
+                    [
+                        -122.509491,
+                        37.961979
+                    ]
+                ]
+            ]
+        ]
+    }
+}

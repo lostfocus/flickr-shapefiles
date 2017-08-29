@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985313,
+    "properties": {
+        "woe_id": 55985313,
+        "place_id": "RENJ.x2cBJU1wJ9xRw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Underwood Hills, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515207,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55985313_20101216_2df844c9a4.tar.gz"
+        },
+        "bbox": [
+            -84.408172607422,
+            33.916332244873,
+            -84.40355682373,
+            33.922813415527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.405334,
+                        33.916332
+                    ],
+                    [
+                        -84.405106,
+                        33.917995
+                    ],
+                    [
+                        -84.408173,
+                        33.922813
+                    ],
+                    [
+                        -84.403557,
+                        33.918648
+                    ],
+                    [
+                        -84.404846,
+                        33.917183
+                    ],
+                    [
+                        -84.405334,
+                        33.916332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

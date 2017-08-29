@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55857957,
+    "properties": {
+        "woe_id": 55857957,
+        "place_id": "uYz4cqucBJQl1Y3ilQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Horizon Crest, Bellevue, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449925,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55857957_20101215_925f2fbf5d.tar.gz"
+        },
+        "bbox": [
+            -122.13870239258,
+            47.555183410645,
+            -122.13303375244,
+            47.558109283447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.133354,
+                        47.558109
+                    ],
+                    [
+                        -122.133034,
+                        47.555183
+                    ],
+                    [
+                        -122.133354,
+                        47.555206
+                    ],
+                    [
+                        -122.138443,
+                        47.556053
+                    ],
+                    [
+                        -122.138702,
+                        47.556892
+                    ],
+                    [
+                        -122.133354,
+                        47.558109
+                    ]
+                ]
+            ]
+        ]
+    }
+}

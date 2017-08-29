@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55865200,
+    "properties": {
+        "woe_id": 55865200,
+        "place_id": "hlnYrlucBJQUjlD7dg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harbiye, G\u00f6lba\u015f\u0131, Ankara, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489943,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55865200_20101216_1e1e9e5da1.tar.gz"
+        },
+        "bbox": [
+            32.841804504395,
+            39.894046783447,
+            32.844913482666,
+            39.895778656006
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        32.844013,
+                        39.895779
+                    ],
+                    [
+                        32.844913,
+                        39.895504
+                    ],
+                    [
+                        32.8438,
+                        39.894047
+                    ],
+                    [
+                        32.841805,
+                        39.894806
+                    ],
+                    [
+                        32.842575,
+                        39.895355
+                    ],
+                    [
+                        32.844013,
+                        39.895779
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55885080,
+    "properties": {
+        "woe_id": 55885080,
+        "place_id": "7HO.e2WcBJQ9GIq26Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Las Aguilas, Chihuahua, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527265,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55885080_20101216_ceeec72787.tar.gz"
+        },
+        "bbox": [
+            -106.11745452881,
+            28.624496459961,
+            -106.1139831543,
+            28.628677368164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.117287,
+                        28.626644
+                    ],
+                    [
+                        -106.117455,
+                        28.628677
+                    ],
+                    [
+                        -106.11541,
+                        28.628019
+                    ],
+                    [
+                        -106.113983,
+                        28.62542
+                    ],
+                    [
+                        -106.114983,
+                        28.624496
+                    ],
+                    [
+                        -106.117287,
+                        28.626644
+                    ]
+                ]
+            ]
+        ]
+    }
+}

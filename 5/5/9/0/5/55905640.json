@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55905640,
+    "properties": {
+        "woe_id": 55905640,
+        "place_id": "wxsBtDWcBJUj5rFwUQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio San Juan, Atlautla, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449989,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55905640_20101215_6b03b16d0d.tar.gz"
+        },
+        "bbox": [
+            -98.774108886719,
+            19.122375488281,
+            -98.766746520996,
+            19.126852035522
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.773735,
+                        19.126101
+                    ],
+                    [
+                        -98.770866,
+                        19.126112
+                    ],
+                    [
+                        -98.768013,
+                        19.126451
+                    ],
+                    [
+                        -98.766747,
+                        19.122375
+                    ],
+                    [
+                        -98.770866,
+                        19.126112
+                    ],
+                    [
+                        -98.774109,
+                        19.126852
+                    ],
+                    [
+                        -98.773735,
+                        19.126101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

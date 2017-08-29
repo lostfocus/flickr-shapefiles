@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55895258,
+    "properties": {
+        "woe_id": 55895258,
+        "place_id": "wtcqtGKcBJS1sKbyfA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Campo Reynoso, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457909,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55895258_20101216_d8f79539cd.tar.gz"
+        },
+        "bbox": [
+            -116.93491363525,
+            32.242324829102,
+            -116.93367004395,
+            32.242664337158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.934166,
+                        32.242664
+                    ],
+                    [
+                        -116.93367,
+                        32.2425
+                    ],
+                    [
+                        -116.93383,
+                        32.2425
+                    ],
+                    [
+                        -116.934914,
+                        32.242325
+                    ],
+                    [
+                        -116.934166,
+                        32.242664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

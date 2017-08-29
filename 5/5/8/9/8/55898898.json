@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898898,
+    "properties": {
+        "woe_id": 55898898,
+        "place_id": "Poeh_jScBJRt97hsLg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nueva Morelos, Monterrey, NL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518118,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55898898_20101216_45d21e91a4.tar.gz"
+        },
+        "bbox": [
+            -100.34700775146,
+            25.716558456421,
+            -100.34254455566,
+            25.718685150146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.346832,
+                        25.718618
+                    ],
+                    [
+                        -100.34584,
+                        25.718578
+                    ],
+                    [
+                        -100.342545,
+                        25.718685
+                    ],
+                    [
+                        -100.346886,
+                        25.716558
+                    ],
+                    [
+                        -100.347008,
+                        25.718515
+                    ],
+                    [
+                        -100.346832,
+                        25.718618
+                    ]
+                ]
+            ]
+        ]
+    }
+}

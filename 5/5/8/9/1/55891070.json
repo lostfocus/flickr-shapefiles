@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55891070,
+    "properties": {
+        "woe_id": 55891070,
+        "place_id": "x02q2aOcBJRY1CdXqw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parque Espa\u00f1a, S. Luis Potosi, SL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539445,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55891070_20101216_9c469c8020.tar.gz"
+        },
+        "bbox": [
+            -101.00270080566,
+            22.15012550354,
+            -100.99939727783,
+            22.151031494141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.999718,
+                        22.151031
+                    ],
+                    [
+                        -100.999397,
+                        22.150518
+                    ],
+                    [
+                        -101.001518,
+                        22.150126
+                    ],
+                    [
+                        -101.002701,
+                        22.150482
+                    ],
+                    [
+                        -101.002594,
+                        22.150482
+                    ],
+                    [
+                        -101.00045,
+                        22.150732
+                    ],
+                    [
+                        -100.999718,
+                        22.151031
+                    ]
+                ]
+            ]
+        ]
+    }
+}

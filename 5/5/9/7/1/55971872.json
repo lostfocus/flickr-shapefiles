@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971872,
+    "properties": {
+        "woe_id": 55971872,
+        "place_id": "BMHrxrqcBJVDq4mkcw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Walnut, Walnut, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292516047,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55971872_20101216_60e8c53371.tar.gz"
+        },
+        "bbox": [
+            -117.87538909912,
+            34.022632598877,
+            -117.87359619141,
+            34.023582458496
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.875389,
+                        34.022675
+                    ],
+                    [
+                        -117.875351,
+                        34.022831
+                    ],
+                    [
+                        -117.873596,
+                        34.023582
+                    ],
+                    [
+                        -117.873856,
+                        34.02327
+                    ],
+                    [
+                        -117.875366,
+                        34.022633
+                    ],
+                    [
+                        -117.875389,
+                        34.022675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882652,
+    "properties": {
+        "woe_id": 55882652,
+        "place_id": "wtUg0hGcBJRwz5V.2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Morelos, Ciudad Victoria, TM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452913,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55882652_20101215_f6ee39f5df.tar.gz"
+        },
+        "bbox": [
+            -99.144744873047,
+            23.731105804443,
+            -99.142707824707,
+            23.732278823853
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.144119,
+                        23.731228
+                    ],
+                    [
+                        -99.144745,
+                        23.732279
+                    ],
+                    [
+                        -99.143723,
+                        23.731621
+                    ],
+                    [
+                        -99.142845,
+                        23.731409
+                    ],
+                    [
+                        -99.142708,
+                        23.731106
+                    ],
+                    [
+                        -99.144119,
+                        23.731228
+                    ]
+                ]
+            ]
+        ]
+    }
+}

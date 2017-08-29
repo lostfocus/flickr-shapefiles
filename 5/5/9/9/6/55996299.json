@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55996299,
+    "properties": {
+        "woe_id": 55996299,
+        "place_id": "WUz8PXucBJUqA9.oeA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jefferson, Port Angeles, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465048,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55996299_20101216_7103ca7316.tar.gz"
+        },
+        "bbox": [
+            -123.44083404541,
+            48.105567932129,
+            -123.4330291748,
+            48.112014770508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.433517,
+                        48.111504
+                    ],
+                    [
+                        -123.433029,
+                        48.110641
+                    ],
+                    [
+                        -123.434059,
+                        48.105568
+                    ],
+                    [
+                        -123.438324,
+                        48.108105
+                    ],
+                    [
+                        -123.440834,
+                        48.109409
+                    ],
+                    [
+                        -123.436462,
+                        48.112015
+                    ],
+                    [
+                        -123.433517,
+                        48.111504
+                    ]
+                ]
+            ]
+        ]
+    }
+}

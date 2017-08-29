@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55977654,
+    "properties": {
+        "woe_id": 55977654,
+        "place_id": "mWOdZRecBJVwob0KwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Ridge, High Springs, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551683,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55977654_20101217_734334a6a0.tar.gz"
+        },
+        "bbox": [
+            -82.699935913086,
+            29.834371566772,
+            -82.695892333984,
+            29.836353302002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.696709,
+                        29.835487
+                    ],
+                    [
+                        -82.696526,
+                        29.835371
+                    ],
+                    [
+                        -82.695892,
+                        29.834372
+                    ],
+                    [
+                        -82.696884,
+                        29.835278
+                    ],
+                    [
+                        -82.699936,
+                        29.836353
+                    ],
+                    [
+                        -82.696709,
+                        29.835487
+                    ]
+                ]
+            ]
+        ]
+    }
+}

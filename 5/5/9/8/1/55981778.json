@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55981778,
+    "properties": {
+        "woe_id": 55981778,
+        "place_id": "XqryQMScBJVBoTPX7g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nature Coast Commons, Spring Hill, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522578,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55981778_20101216_0759103806.tar.gz"
+        },
+        "bbox": [
+            -82.632171630859,
+            28.45337677002,
+            -82.629989624023,
+            28.455738067627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.62999,
+                        28.454613
+                    ],
+                    [
+                        -82.630478,
+                        28.453377
+                    ],
+                    [
+                        -82.632172,
+                        28.453869
+                    ],
+                    [
+                        -82.631294,
+                        28.455692
+                    ],
+                    [
+                        -82.630249,
+                        28.455738
+                    ],
+                    [
+                        -82.62999,
+                        28.454613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

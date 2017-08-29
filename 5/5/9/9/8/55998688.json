@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55998688,
+    "properties": {
+        "woe_id": 55998688,
+        "place_id": "SV2qVducBJVINEnDRw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Le Village de la Gare, Mont-St.-Hilaire, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545931,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55998688_20101217_6657554111.tar.gz"
+        },
+        "bbox": [
+            -73.181335449219,
+            45.573234558105,
+            -73.177680969238,
+            45.577259063721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.181335,
+                        45.573502
+                    ],
+                    [
+                        -73.181168,
+                        45.573833
+                    ],
+                    [
+                        -73.177681,
+                        45.577259
+                    ],
+                    [
+                        -73.180832,
+                        45.573666
+                    ],
+                    [
+                        -73.180954,
+                        45.573235
+                    ],
+                    [
+                        -73.181335,
+                        45.573502
+                    ]
+                ]
+            ]
+        ]
+    }
+}

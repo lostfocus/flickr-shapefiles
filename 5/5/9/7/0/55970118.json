@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970118,
+    "properties": {
+        "woe_id": 55970118,
+        "place_id": "3tw8sqScBJULco3tdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Linwood Court, Monrovia, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497327,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55970118_20101216_6bd4a3a318.tar.gz"
+        },
+        "bbox": [
+            -118.01127624512,
+            34.147308349609,
+            -118.00594329834,
+            34.151508331299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.010246,
+                        34.150135
+                    ],
+                    [
+                        -118.007523,
+                        34.151508
+                    ],
+                    [
+                        -118.005943,
+                        34.151299
+                    ],
+                    [
+                        -118.010246,
+                        34.148926
+                    ],
+                    [
+                        -118.011276,
+                        34.147308
+                    ],
+                    [
+                        -118.010498,
+                        34.150063
+                    ],
+                    [
+                        -118.010246,
+                        34.150135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

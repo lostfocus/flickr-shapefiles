@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55889114,
+    "properties": {
+        "woe_id": 55889114,
+        "place_id": "nAiMTnGcBJS5KkFAVg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Las Campanas, Queretaro, QT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457909,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55889114_20101216_b455314dc5.tar.gz"
+        },
+        "bbox": [
+            -100.41234588623,
+            20.586153030396,
+            -100.40849304199,
+            20.590145111084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.408493,
+                        20.589334
+                    ],
+                    [
+                        -100.408501,
+                        20.589333
+                    ],
+                    [
+                        -100.411522,
+                        20.58621
+                    ],
+                    [
+                        -100.412346,
+                        20.586153
+                    ],
+                    [
+                        -100.410507,
+                        20.590055
+                    ],
+                    [
+                        -100.410271,
+                        20.590145
+                    ],
+                    [
+                        -100.408493,
+                        20.589334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

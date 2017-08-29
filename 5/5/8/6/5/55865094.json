@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55865094,
+    "properties": {
+        "woe_id": 55865094,
+        "place_id": "A.Bd7SWcBJSvMIoddA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barbaros, G\u00f6lba\u015f\u0131, Ankara, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247907123,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3475\/shapefiles\/55865094_20090718_0186dcef39.tar.gz"
+        },
+        "bbox": [
+            32.860076904297,
+            39.900501251221,
+            32.861736297607,
+            39.904747009277
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        32.861244,
+                        39.902794
+                    ],
+                    [
+                        32.861736,
+                        39.900501
+                    ],
+                    [
+                        32.860077,
+                        39.901833
+                    ],
+                    [
+                        32.860516,
+                        39.902725
+                    ],
+                    [
+                        32.860641,
+                        39.904747
+                    ],
+                    [
+                        32.861244,
+                        39.902794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

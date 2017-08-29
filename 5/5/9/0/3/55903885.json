@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55903885,
+    "properties": {
+        "woe_id": 55903885,
+        "place_id": "plsA_kqcBJXNVFAEtA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "3a Secc Del Bosque de Chapultepec, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545872,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55903885_20101217_2152dd2834.tar.gz"
+        },
+        "bbox": [
+            -99.218124389648,
+            19.397832870483,
+            -99.214996337891,
+            19.400705337524
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.217667,
+                        19.397833
+                    ],
+                    [
+                        -99.217949,
+                        19.399168
+                    ],
+                    [
+                        -99.218124,
+                        19.400705
+                    ],
+                    [
+                        -99.21611,
+                        19.399815
+                    ],
+                    [
+                        -99.214996,
+                        19.398333
+                    ],
+                    [
+                        -99.217667,
+                        19.397833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

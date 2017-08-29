@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55856090,
+    "properties": {
+        "woe_id": 55856090,
+        "place_id": "1bpRsEqcBJQSKvx6pA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brockville, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538795,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55856090_20101216_0ee9f803e4.tar.gz"
+        },
+        "bbox": [
+            -97.19361114502,
+            49.845767974854,
+            -97.184440612793,
+            49.848857879639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.191025,
+                        49.848858
+                    ],
+                    [
+                        -97.190926,
+                        49.848831
+                    ],
+                    [
+                        -97.188042,
+                        49.847736
+                    ],
+                    [
+                        -97.184441,
+                        49.845886
+                    ],
+                    [
+                        -97.184547,
+                        49.845768
+                    ],
+                    [
+                        -97.189262,
+                        49.846313
+                    ],
+                    [
+                        -97.193611,
+                        49.846943
+                    ],
+                    [
+                        -97.191025,
+                        49.848858
+                    ]
+                ]
+            ]
+        ]
+    }
+}

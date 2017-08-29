@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861318,
+    "properties": {
+        "woe_id": 55861318,
+        "place_id": "8SsV9qycBJQYNOUtbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunset, Provo, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503744,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55861318_20101216_228e047f8c.tar.gz"
+        },
+        "bbox": [
+            -111.6852722168,
+            40.215175628662,
+            -111.67847442627,
+            40.219306945801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.682098,
+                        40.219307
+                    ],
+                    [
+                        -111.681122,
+                        40.219044
+                    ],
+                    [
+                        -111.678474,
+                        40.218487
+                    ],
+                    [
+                        -111.681671,
+                        40.216854
+                    ],
+                    [
+                        -111.685272,
+                        40.215176
+                    ],
+                    [
+                        -111.682098,
+                        40.219307
+                    ]
+                ]
+            ]
+        ]
+    }
+}

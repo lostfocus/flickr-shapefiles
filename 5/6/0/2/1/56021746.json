@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021746,
+    "properties": {
+        "woe_id": 56021746,
+        "place_id": "uKRl.D2cB5xuPxSmkw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shadow Lakes, Carmel, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519341,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/56021746_20101216_c9e75f8793.tar.gz"
+        },
+        "bbox": [
+            -86.134498596191,
+            39.996334075928,
+            -86.12866973877,
+            40.001167297363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.12867,
+                        39.996571
+                    ],
+                    [
+                        -86.128838,
+                        39.996334
+                    ],
+                    [
+                        -86.130432,
+                        39.996426
+                    ],
+                    [
+                        -86.134499,
+                        39.999832
+                    ],
+                    [
+                        -86.129501,
+                        40.001167
+                    ],
+                    [
+                        -86.12867,
+                        39.996571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

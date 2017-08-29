@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986782,
+    "properties": {
+        "woe_id": 55986782,
+        "place_id": "8z_mys2cBJXe3OxPyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fields Corner West, Boston, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442893,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55986782_20101215_e09cb36dc7.tar.gz"
+        },
+        "bbox": [
+            -71.066864013672,
+            42.296768188477,
+            -71.062774658203,
+            42.300846099854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.063728,
+                        42.300045
+                    ],
+                    [
+                        -71.062775,
+                        42.297775
+                    ],
+                    [
+                        -71.065903,
+                        42.296768
+                    ],
+                    [
+                        -71.066864,
+                        42.300846
+                    ],
+                    [
+                        -71.066589,
+                        42.300732
+                    ],
+                    [
+                        -71.063728,
+                        42.300045
+                    ]
+                ]
+            ]
+        ]
+    }
+}

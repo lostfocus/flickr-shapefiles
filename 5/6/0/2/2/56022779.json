@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022779,
+    "properties": {
+        "woe_id": 56022779,
+        "place_id": "ik_bQpWcB5zhgj39Lg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sturgeon Creek, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510048,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/56022779_20101216_c05bb570e1.tar.gz"
+        },
+        "bbox": [
+            -97.288032531738,
+            49.88000869751,
+            -97.284065246582,
+            49.88468170166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.28582,
+                        49.880009
+                    ],
+                    [
+                        -97.288033,
+                        49.88063
+                    ],
+                    [
+                        -97.284065,
+                        49.884682
+                    ],
+                    [
+                        -97.285362,
+                        49.880337
+                    ],
+                    [
+                        -97.285316,
+                        49.880199
+                    ],
+                    [
+                        -97.28582,
+                        49.880009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

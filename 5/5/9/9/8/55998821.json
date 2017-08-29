@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55998821,
+    "properties": {
+        "woe_id": 55998821,
+        "place_id": "4mQevxGcBJVrxZQG.A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodwards, Richmond, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549651,
+        "alpha": 1.0e-5,
+        "points": 30,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/55998821_20101217_1ca561a829.tar.gz"
+        },
+        "bbox": [
+            -123.14755249023,
+            49.144660949707,
+            -123.14337158203,
+            49.153907775879
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.147507,
+                        49.148567
+                    ],
+                    [
+                        -123.147552,
+                        49.148766
+                    ],
+                    [
+                        -123.144318,
+                        49.153908
+                    ],
+                    [
+                        -123.146805,
+                        49.148254
+                    ],
+                    [
+                        -123.143372,
+                        49.146988
+                    ],
+                    [
+                        -123.145409,
+                        49.144661
+                    ],
+                    [
+                        -123.147423,
+                        49.148262
+                    ],
+                    [
+                        -123.147507,
+                        49.148567
+                    ]
+                ]
+            ]
+        ]
+    }
+}

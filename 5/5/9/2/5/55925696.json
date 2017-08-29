@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55925696,
+    "properties": {
+        "woe_id": 55925696,
+        "place_id": "l4tm7wacBJXiAB3ITg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Esplanade, Chennai, TN, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446529,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1421\/shapefiles\/55925696_20101215_91069857b3.tar.gz"
+        },
+        "bbox": [
+            80.282722473145,
+            13.082863807678,
+            80.287818908691,
+            13.088736534119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        80.283867,
+                        13.088352
+                    ],
+                    [
+                        80.283951,
+                        13.088547
+                    ],
+                    [
+                        80.285332,
+                        13.088675
+                    ],
+                    [
+                        80.287819,
+                        13.088737
+                    ],
+                    [
+                        80.285469,
+                        13.088298
+                    ],
+                    [
+                        80.282722,
+                        13.082864
+                    ],
+                    [
+                        80.283867,
+                        13.088352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55860841,
+    "properties": {
+        "woe_id": 55860841,
+        "place_id": "erjk_MCcBJRnTyiTng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Louisburg Square, Overland Park, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462049,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55860841_20101216_8fe55a8f30.tar.gz"
+        },
+        "bbox": [
+            -94.69994354248,
+            38.963886260986,
+            -94.695541381836,
+            38.971199035645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.699509,
+                        38.965794
+                    ],
+                    [
+                        -94.699509,
+                        38.965942
+                    ],
+                    [
+                        -94.699944,
+                        38.971142
+                    ],
+                    [
+                        -94.699203,
+                        38.971199
+                    ],
+                    [
+                        -94.695541,
+                        38.967335
+                    ],
+                    [
+                        -94.698219,
+                        38.965923
+                    ],
+                    [
+                        -94.699165,
+                        38.963886
+                    ],
+                    [
+                        -94.699509,
+                        38.965794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55980368,
+    "properties": {
+        "woe_id": 55980368,
+        "place_id": "2q5mdOicBJV1GQ6IUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River Oaks, Ormond Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450066,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/55980368_20101215_3dd0222891.tar.gz"
+        },
+        "bbox": [
+            -81.100173950195,
+            29.269908905029,
+            -81.099510192871,
+            29.27011680603
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.100159,
+                        29.269974
+                    ],
+                    [
+                        -81.09951,
+                        29.270117
+                    ],
+                    [
+                        -81.100143,
+                        29.269909
+                    ],
+                    [
+                        -81.100174,
+                        29.269918
+                    ],
+                    [
+                        -81.100159,
+                        29.269974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022772,
+    "properties": {
+        "woe_id": 56022772,
+        "place_id": "_nqvB_acB5zrPyZH9A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Birchwood, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545937,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/56022772_20101217_62e71fc3a2.tar.gz"
+        },
+        "bbox": [
+            -97.245628356934,
+            49.873950958252,
+            -97.24242401123,
+            49.876304626465
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.24556,
+                        49.875832
+                    ],
+                    [
+                        -97.245628,
+                        49.876305
+                    ],
+                    [
+                        -97.242424,
+                        49.874428
+                    ],
+                    [
+                        -97.24411,
+                        49.873951
+                    ],
+                    [
+                        -97.24556,
+                        49.875832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

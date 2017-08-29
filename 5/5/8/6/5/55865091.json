@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55865091,
+    "properties": {
+        "woe_id": 55865091,
+        "place_id": "I7Tr1vecBJQQ8dHG4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bozkurt, Ankara, Ankara, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543443,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/55865091_20101216_0955fe33eb.tar.gz"
+        },
+        "bbox": [
+            32.85311126709,
+            39.946166992188,
+            32.854335784912,
+            39.947319030762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        32.854324,
+                        39.946571
+                    ],
+                    [
+                        32.854336,
+                        39.946487
+                    ],
+                    [
+                        32.854076,
+                        39.946167
+                    ],
+                    [
+                        32.85323,
+                        39.946728
+                    ],
+                    [
+                        32.853111,
+                        39.947319
+                    ],
+                    [
+                        32.854324,
+                        39.946571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

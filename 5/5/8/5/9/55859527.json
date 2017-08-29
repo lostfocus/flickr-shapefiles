@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55859527,
+    "properties": {
+        "woe_id": 55859527,
+        "place_id": "GLVZ2nmcBJTgNLPHpA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harbor, Greensboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545088,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/55859527_20101217_fc39af4d3f.tar.gz"
+        },
+        "bbox": [
+            -79.840217590332,
+            36.16588973999,
+            -79.837562561035,
+            36.172916412354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.840218,
+                        36.16629
+                    ],
+                    [
+                        -79.838898,
+                        36.167324
+                    ],
+                    [
+                        -79.837814,
+                        36.16951
+                    ],
+                    [
+                        -79.837563,
+                        36.170654
+                    ],
+                    [
+                        -79.838722,
+                        36.172916
+                    ],
+                    [
+                        -79.837814,
+                        36.16951
+                    ],
+                    [
+                        -79.838013,
+                        36.168049
+                    ],
+                    [
+                        -79.838158,
+                        36.16589
+                    ],
+                    [
+                        -79.839661,
+                        36.165951
+                    ],
+                    [
+                        -79.840218,
+                        36.16629
+                    ]
+                ]
+            ]
+        ]
+    }
+}

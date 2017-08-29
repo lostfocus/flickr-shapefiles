@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56019748,
+    "properties": {
+        "woe_id": 56019748,
+        "place_id": "gD61Zn6cB5zrslPU5A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Tree, Longmont, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443025,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/56019748_20101215_eb3d3e7cc0.tar.gz"
+        },
+        "bbox": [
+            -105.20709228516,
+            40.11030960083,
+            -105.20533752441,
+            40.113918304443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.205338,
+                        40.113068
+                    ],
+                    [
+                        -105.205849,
+                        40.11031
+                    ],
+                    [
+                        -105.207092,
+                        40.1119
+                    ],
+                    [
+                        -105.205681,
+                        40.113918
+                    ],
+                    [
+                        -105.205338,
+                        40.113068
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55981756,
+    "properties": {
+        "woe_id": 55981756,
+        "place_id": "0cDqeZ.cBJXpjnIi4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hernando Park Place, Spring Hill, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529601,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55981756_20101216_a779cf725f.tar.gz"
+        },
+        "bbox": [
+            -82.578002929688,
+            28.511833190918,
+            -82.573539733887,
+            28.516704559326
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.57354,
+                        28.515823
+                    ],
+                    [
+                        -82.573753,
+                        28.515598
+                    ],
+                    [
+                        -82.575218,
+                        28.515385
+                    ],
+                    [
+                        -82.578003,
+                        28.511833
+                    ],
+                    [
+                        -82.575729,
+                        28.516705
+                    ],
+                    [
+                        -82.57383,
+                        28.516333
+                    ],
+                    [
+                        -82.57354,
+                        28.515823
+                    ]
+                ]
+            ]
+        ]
+    }
+}

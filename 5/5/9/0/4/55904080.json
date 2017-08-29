@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55904080,
+    "properties": {
+        "woe_id": 55904080,
+        "place_id": "IyBzdxScBJV4Fcqeeg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ampl Panamericana, Villa Gustavo A. Madero, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449983,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55904080_20101215_905ed01a9d.tar.gz"
+        },
+        "bbox": [
+            -99.142677307129,
+            19.475229263306,
+            -99.138999938965,
+            19.480283737183
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.139313,
+                        19.478851
+                    ],
+                    [
+                        -99.139,
+                        19.478167
+                    ],
+                    [
+                        -99.142677,
+                        19.475229
+                    ],
+                    [
+                        -99.140152,
+                        19.478912
+                    ],
+                    [
+                        -99.140198,
+                        19.480284
+                    ],
+                    [
+                        -99.139313,
+                        19.478851
+                    ]
+                ]
+            ]
+        ]
+    }
+}

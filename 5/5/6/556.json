@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 556,
+    "properties": {
+        "woe_id": 556,
+        "place_id": "WTwkoYqcBJo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Garson, Garson, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248077047,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2486\/shapefiles\/556_20090720_3927714053.tar.gz"
+        },
+        "bbox": [
+            -80.870948791504,
+            46.548915863037,
+            -80.86547088623,
+            46.551208496094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.865471,
+                        46.548916
+                    ],
+                    [
+                        -80.868317,
+                        46.549599
+                    ],
+                    [
+                        -80.870949,
+                        46.551208
+                    ],
+                    [
+                        -80.868073,
+                        46.5499
+                    ],
+                    [
+                        -80.865471,
+                        46.548916
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55981449,
+    "properties": {
+        "woe_id": 55981449,
+        "place_id": "vdG7joucBJUiHR9NvQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkside Villas, St. Petersburg, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455442,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55981449_20101215_bde58104f3.tar.gz"
+        },
+        "bbox": [
+            -82.727439880371,
+            27.819814682007,
+            -82.725738525391,
+            27.821365356445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.725739,
+                        27.821365
+                    ],
+                    [
+                        -82.725945,
+                        27.819815
+                    ],
+                    [
+                        -82.72744,
+                        27.82086
+                    ],
+                    [
+                        -82.726921,
+                        27.821123
+                    ],
+                    [
+                        -82.725739,
+                        27.821365
+                    ]
+                ]
+            ]
+        ]
+    }
+}

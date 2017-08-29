@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994843,
+    "properties": {
+        "woe_id": 55994843,
+        "place_id": "5uEIGyicBJUZyCcYYA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greenhill, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549603,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55994843_20101217_6226d2f73f.tar.gz"
+        },
+        "bbox": [
+            -97.683334350586,
+            30.527200698853,
+            -97.678680419922,
+            30.528165817261
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.678864,
+                        30.527267
+                    ],
+                    [
+                        -97.678719,
+                        30.527216
+                    ],
+                    [
+                        -97.67868,
+                        30.527201
+                    ],
+                    [
+                        -97.678864,
+                        30.527266
+                    ],
+                    [
+                        -97.683334,
+                        30.528166
+                    ],
+                    [
+                        -97.678864,
+                        30.527267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

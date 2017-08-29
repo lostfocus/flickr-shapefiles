@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999325,
+    "properties": {
+        "woe_id": 55999325,
+        "place_id": "u8V3dEKcBJUrDmlGwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Headford, Richmond Hill, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465526,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55999325_20101216_43abd5b9f4.tar.gz"
+        },
+        "bbox": [
+            -79.395080566406,
+            43.87850189209,
+            -79.391319274902,
+            43.88094329834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.391495,
+                        43.880531
+                    ],
+                    [
+                        -79.391319,
+                        43.880386
+                    ],
+                    [
+                        -79.391335,
+                        43.878502
+                    ],
+                    [
+                        -79.395081,
+                        43.880016
+                    ],
+                    [
+                        -79.392181,
+                        43.880943
+                    ],
+                    [
+                        -79.391495,
+                        43.880531
+                    ]
+                ]
+            ]
+        ]
+    }
+}

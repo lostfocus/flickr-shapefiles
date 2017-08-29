@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999164,
+    "properties": {
+        "woe_id": 55999164,
+        "place_id": "IQb3jIecBJXCrFdCjA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Acton, Acton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533054,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55999164_20101216_477480a5c1.tar.gz"
+        },
+        "bbox": [
+            -80.043746948242,
+            43.629703521729,
+            -80.039520263672,
+            43.637683868408
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.03952,
+                        43.635082
+                    ],
+                    [
+                        -80.041481,
+                        43.629704
+                    ],
+                    [
+                        -80.043747,
+                        43.631851
+                    ],
+                    [
+                        -80.042747,
+                        43.637409
+                    ],
+                    [
+                        -80.042038,
+                        43.637638
+                    ],
+                    [
+                        -80.041786,
+                        43.637684
+                    ],
+                    [
+                        -80.03952,
+                        43.635082
+                    ]
+                ]
+            ]
+        ]
+    }
+}

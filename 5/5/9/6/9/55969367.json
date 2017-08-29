@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55969367,
+    "properties": {
+        "woe_id": 55969367,
+        "place_id": "8VvTc46cBJXs030Q0g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oak Avenue Place, Davis, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532063,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55969367_20101216_ced1b1d759.tar.gz"
+        },
+        "bbox": [
+            -121.75261688232,
+            38.557193756104,
+            -121.75001525879,
+            38.559825897217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.751938,
+                        38.558933
+                    ],
+                    [
+                        -121.752617,
+                        38.559826
+                    ],
+                    [
+                        -121.750511,
+                        38.559204
+                    ],
+                    [
+                        -121.750015,
+                        38.557194
+                    ],
+                    [
+                        -121.751938,
+                        38.558933
+                    ]
+                ]
+            ]
+        ]
+    }
+}

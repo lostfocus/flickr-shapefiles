@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55903716,
+    "properties": {
+        "woe_id": 55903716,
+        "place_id": "jCATpdycBJVkeJ1iHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Agustin Mixquic, Tlahuac, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548847,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55903716_20101217_757e84a3f4.tar.gz"
+        },
+        "bbox": [
+            -98.966171264648,
+            19.224266052246,
+            -98.964485168457,
+            19.226358413696
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.964485,
+                        19.225395
+                    ],
+                    [
+                        -98.964653,
+                        19.224859
+                    ],
+                    [
+                        -98.965591,
+                        19.224266
+                    ],
+                    [
+                        -98.966171,
+                        19.225897
+                    ],
+                    [
+                        -98.965446,
+                        19.226358
+                    ],
+                    [
+                        -98.964485,
+                        19.225395
+                    ]
+                ]
+            ]
+        ]
+    }
+}

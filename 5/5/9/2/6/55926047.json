@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55926047,
+    "properties": {
+        "woe_id": 55926047,
+        "place_id": "9Ilf.KucBJWu1COkwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chandni Chowk Area, Kolkata, WB, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526237,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55926047_20101216_910bb37819.tar.gz"
+        },
+        "bbox": [
+            88.359214782715,
+            22.563293457031,
+            88.363548278809,
+            22.566463470459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        88.35939,
+                        22.563293
+                    ],
+                    [
+                        88.359215,
+                        22.565313
+                    ],
+                    [
+                        88.361404,
+                        22.566463
+                    ],
+                    [
+                        88.363548,
+                        22.565592
+                    ],
+                    [
+                        88.362518,
+                        22.563452
+                    ],
+                    [
+                        88.35939,
+                        22.563293
+                    ]
+                ]
+            ]
+        ]
+    }
+}

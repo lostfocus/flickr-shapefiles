@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997125,
+    "properties": {
+        "woe_id": 55997125,
+        "place_id": "tfslZhecBJVXYvg1Kw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake View Terrace, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446651,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/55997125_20101215_feef0b9687.tar.gz"
+        },
+        "bbox": [
+            -122.68621063232,
+            45.650001525879,
+            -122.68433380127,
+            45.652542114258
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.685501,
+                        45.650166
+                    ],
+                    [
+                        -122.686211,
+                        45.650303
+                    ],
+                    [
+                        -122.685135,
+                        45.652542
+                    ],
+                    [
+                        -122.685066,
+                        45.652512
+                    ],
+                    [
+                        -122.684334,
+                        45.650002
+                    ],
+                    [
+                        -122.685501,
+                        45.650166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55987099,
+    "properties": {
+        "woe_id": 55987099,
+        "place_id": "iIHtcLmcBJUaY2111A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bromley, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528823,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55987099_20101216_224abfebdc.tar.gz"
+        },
+        "bbox": [
+            -83.703315734863,
+            42.303230285645,
+            -83.698234558105,
+            42.309593200684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.702995,
+                        42.308632
+                    ],
+                    [
+                        -83.702904,
+                        42.309593
+                    ],
+                    [
+                        -83.701805,
+                        42.308521
+                    ],
+                    [
+                        -83.700027,
+                        42.305161
+                    ],
+                    [
+                        -83.698235,
+                        42.30323
+                    ],
+                    [
+                        -83.703316,
+                        42.303795
+                    ],
+                    [
+                        -83.702385,
+                        42.307404
+                    ],
+                    [
+                        -83.702995,
+                        42.308632
+                    ]
+                ]
+            ]
+        ]
+    }
+}

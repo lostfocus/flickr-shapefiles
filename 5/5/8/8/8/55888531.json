@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888531,
+    "properties": {
+        "woe_id": 55888531,
+        "place_id": "hJLv6UOcBJQDKIDnxw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Estrella de Oriente, S. Luis Potosi, SL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449936,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55888531_20101215_aa46804012.tar.gz"
+        },
+        "bbox": [
+            -100.93536376953,
+            22.135906219482,
+            -100.93022918701,
+            22.137912750244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.935364,
+                        22.136669
+                    ],
+                    [
+                        -100.934937,
+                        22.137913
+                    ],
+                    [
+                        -100.932167,
+                        22.137774
+                    ],
+                    [
+                        -100.930229,
+                        22.136749
+                    ],
+                    [
+                        -100.933212,
+                        22.135906
+                    ],
+                    [
+                        -100.935364,
+                        22.136669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

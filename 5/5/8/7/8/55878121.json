@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55878121,
+    "properties": {
+        "woe_id": 55878121,
+        "place_id": "D8ptaD6cBJTWSvWm4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rooihuiskraal North, Pretoria, Gauteng, ZA, South Africa"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533610,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55878121_20101216_5eb017426f.tar.gz"
+        },
+        "bbox": [
+            28.156833648682,
+            -25.872121810913,
+            28.162292480469,
+            -25.870134353638
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        28.157196,
+                        -25.870134
+                    ],
+                    [
+                        28.162292,
+                        -25.872122
+                    ],
+                    [
+                        28.156981,
+                        -25.870535
+                    ],
+                    [
+                        28.156939,
+                        -25.870529
+                    ],
+                    [
+                        28.156834,
+                        -25.870501
+                    ],
+                    [
+                        28.157196,
+                        -25.870134
+                    ]
+                ]
+            ]
+        ]
+    }
+}

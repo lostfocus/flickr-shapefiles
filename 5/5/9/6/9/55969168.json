@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55969168,
+    "properties": {
+        "woe_id": 55969168,
+        "place_id": "GHlpBnKcBJUGNINV0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Homeplace, Burlingame, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535608,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55969168_20101216_d3965bef18.tar.gz"
+        },
+        "bbox": [
+            -122.36566925049,
+            37.564685821533,
+            -122.35653686523,
+            37.568668365479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.361168,
+                        37.568668
+                    ],
+                    [
+                        -122.361107,
+                        37.568314
+                    ],
+                    [
+                        -122.356537,
+                        37.564686
+                    ],
+                    [
+                        -122.362,
+                        37.566166
+                    ],
+                    [
+                        -122.365669,
+                        37.568169
+                    ],
+                    [
+                        -122.365501,
+                        37.568501
+                    ],
+                    [
+                        -122.361168,
+                        37.568668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

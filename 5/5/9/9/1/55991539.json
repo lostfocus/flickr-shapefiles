@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991539,
+    "properties": {
+        "woe_id": 55991539,
+        "place_id": "01qE8DacBJU24SOH4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Willow Brook, Manchester, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539502,
+        "alpha": 1.0e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55991539_20101216_f340715264.tar.gz"
+        },
+        "bbox": [
+            -71.414192199707,
+            42.934982299805,
+            -71.413909912109,
+            42.937355041504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.41391,
+                        42.937344
+                    ],
+                    [
+                        -71.414192,
+                        42.934982
+                    ],
+                    [
+                        -71.414124,
+                        42.937134
+                    ],
+                    [
+                        -71.414032,
+                        42.937279
+                    ],
+                    [
+                        -71.41391,
+                        42.937355
+                    ],
+                    [
+                        -71.41391,
+                        42.937344
+                    ]
+                ]
+            ]
+        ]
+    }
+}

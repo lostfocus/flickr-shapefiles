@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996389,
+    "properties": {
+        "woe_id": 55996389,
+        "place_id": "nK3Odx6cBJUDX3_F3g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Evergreen, Tacoma, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547218,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55996389_20101217_bf663f17be.tar.gz"
+        },
+        "bbox": [
+            -122.57749938965,
+            47.10493850708,
+            -122.57126617432,
+            47.106998443604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.57196,
+                        47.104984
+                    ],
+                    [
+                        -122.577499,
+                        47.106998
+                    ],
+                    [
+                        -122.571945,
+                        47.105389
+                    ],
+                    [
+                        -122.571381,
+                        47.106228
+                    ],
+                    [
+                        -122.571266,
+                        47.104939
+                    ],
+                    [
+                        -122.57196,
+                        47.104984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

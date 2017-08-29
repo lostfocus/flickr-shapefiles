@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970596,
+    "properties": {
+        "woe_id": 55970596,
+        "place_id": "xb7HZaWcBJX2D9gybw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Diamond Oaks East, Roseville, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546530,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55970596_20101217_202c4ca1f6.tar.gz"
+        },
+        "bbox": [
+            -121.27716827393,
+            38.768901824951,
+            -121.2713470459,
+            38.771556854248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.271347,
+                        38.769672
+                    ],
+                    [
+                        -121.271744,
+                        38.768902
+                    ],
+                    [
+                        -121.27417,
+                        38.769501
+                    ],
+                    [
+                        -121.277168,
+                        38.769833
+                    ],
+                    [
+                        -121.274986,
+                        38.771557
+                    ],
+                    [
+                        -121.271347,
+                        38.769672
+                    ]
+                ]
+            ]
+        ]
+    }
+}

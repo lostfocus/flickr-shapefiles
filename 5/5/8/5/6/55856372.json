@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856372,
+    "properties": {
+        "woe_id": 55856372,
+        "place_id": "cr2.d.6cBJTdUNtRww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Erindale, Saskatoon, SK, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464335,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55856372_20101216_ae1871c66b.tar.gz"
+        },
+        "bbox": [
+            -106.57783508301,
+            52.14049911499,
+            -106.57396697998,
+            52.143501281738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.574387,
+                        52.140499
+                    ],
+                    [
+                        -106.574852,
+                        52.140842
+                    ],
+                    [
+                        -106.577835,
+                        52.143501
+                    ],
+                    [
+                        -106.574593,
+                        52.140869
+                    ],
+                    [
+                        -106.573967,
+                        52.140598
+                    ],
+                    [
+                        -106.574387,
+                        52.140499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55988067,
+    "properties": {
+        "woe_id": 55988067,
+        "place_id": "_mAoP1WcBJUy43Uatw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pink Acres, Cary, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455442,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55988067_20101215_c1b0d9bd69.tar.gz"
+        },
+        "bbox": [
+            -78.751983642578,
+            35.747451782227,
+            -78.751068115234,
+            35.747821807861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.751274,
+                        35.747452
+                    ],
+                    [
+                        -78.751984,
+                        35.747822
+                    ],
+                    [
+                        -78.751083,
+                        35.747601
+                    ],
+                    [
+                        -78.751068,
+                        35.747547
+                    ],
+                    [
+                        -78.75116,
+                        35.747494
+                    ],
+                    [
+                        -78.751274,
+                        35.747452
+                    ]
+                ]
+            ]
+        ]
+    }
+}

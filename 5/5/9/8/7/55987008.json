@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55987008,
+    "properties": {
+        "woe_id": 55987008,
+        "place_id": "Sk_LYhGcBJUpVTBHRQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Baltimore-Linwood, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550731,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55987008_20101217_2e5af42142.tar.gz"
+        },
+        "bbox": [
+            -76.575836181641,
+            39.292545318604,
+            -76.570213317871,
+            39.295665740967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.575836,
+                        39.295666
+                    ],
+                    [
+                        -76.574997,
+                        39.295277
+                    ],
+                    [
+                        -76.573929,
+                        39.293903
+                    ],
+                    [
+                        -76.570213,
+                        39.29258
+                    ],
+                    [
+                        -76.574104,
+                        39.292545
+                    ],
+                    [
+                        -76.575554,
+                        39.295277
+                    ],
+                    [
+                        -76.575836,
+                        39.295666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

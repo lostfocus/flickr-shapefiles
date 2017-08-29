@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55972096,
+    "properties": {
+        "woe_id": 55972096,
+        "place_id": "dbojyxicBJU_DIVioA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Envirotest Station, Aurora, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442843,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55972096_20101215_e3b95d5d56.tar.gz"
+        },
+        "bbox": [
+            -104.8531036377,
+            39.756267547607,
+            -104.84664916992,
+            39.758800506592
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.846649,
+                        39.757813
+                    ],
+                    [
+                        -104.848152,
+                        39.756268
+                    ],
+                    [
+                        -104.850327,
+                        39.756981
+                    ],
+                    [
+                        -104.853104,
+                        39.758163
+                    ],
+                    [
+                        -104.851997,
+                        39.758801
+                    ],
+                    [
+                        -104.846649,
+                        39.757813
+                    ]
+                ]
+            ]
+        ]
+    }
+}

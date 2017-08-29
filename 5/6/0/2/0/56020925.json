@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020925,
+    "properties": {
+        "woe_id": 56020925,
+        "place_id": "f3ZQnOycB5wUXUoZYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ollinger Heights, Coralville, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537777,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/56020925_20101216_40a2bebaca.tar.gz"
+        },
+        "bbox": [
+            -91.588897705078,
+            41.715362548828,
+            -91.58837890625,
+            41.7158203125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.588669,
+                        41.715385
+                    ],
+                    [
+                        -91.588737,
+                        41.715363
+                    ],
+                    [
+                        -91.588768,
+                        41.715446
+                    ],
+                    [
+                        -91.588898,
+                        41.71582
+                    ],
+                    [
+                        -91.588379,
+                        41.715691
+                    ],
+                    [
+                        -91.588669,
+                        41.715385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

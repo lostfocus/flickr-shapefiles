@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55998854,
+    "properties": {
+        "woe_id": 55998854,
+        "place_id": "PA3S.t.cBJWGIR6xAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Ridge, Pitt Meadows, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509926,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55998854_20101216_631d7f6b38.tar.gz"
+        },
+        "bbox": [
+            -122.65110778809,
+            49.249927520752,
+            -122.64566040039,
+            49.257190704346
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.64682,
+                        49.25576
+                    ],
+                    [
+                        -122.64566,
+                        49.249928
+                    ],
+                    [
+                        -122.648544,
+                        49.251724
+                    ],
+                    [
+                        -122.651108,
+                        49.257191
+                    ],
+                    [
+                        -122.64682,
+                        49.25576
+                    ]
+                ]
+            ]
+        ]
+    }
+}

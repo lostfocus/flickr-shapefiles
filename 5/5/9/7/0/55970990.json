@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970990,
+    "properties": {
+        "woe_id": 55970990,
+        "place_id": "WTki2LicBJVfLcjNKw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alma, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518429,
+        "alpha": 1.25e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55970990_20101216_930f50bfe6.tar.gz"
+        },
+        "bbox": [
+            -121.87869262695,
+            37.309097290039,
+            -121.87200164795,
+            37.313182830811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.872215,
+                        37.311199
+                    ],
+                    [
+                        -121.872002,
+                        37.310501
+                    ],
+                    [
+                        -121.873741,
+                        37.310104
+                    ],
+                    [
+                        -121.877411,
+                        37.309097
+                    ],
+                    [
+                        -121.878693,
+                        37.313183
+                    ],
+                    [
+                        -121.872398,
+                        37.311153
+                    ],
+                    [
+                        -121.872215,
+                        37.311199
+                    ]
+                ]
+            ]
+        ]
+    }
+}

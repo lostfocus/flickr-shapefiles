@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55976016,
+    "properties": {
+        "woe_id": 55976016,
+        "place_id": "ZF8KJ2WcBJXTIpiPVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hiawatha Shores, Clermont, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458074,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55976016_20101216_db2ac59f44.tar.gz"
+        },
+        "bbox": [
+            -81.775444030762,
+            28.557384490967,
+            -81.771408081055,
+            28.560438156128
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.771751,
+                        28.557535
+                    ],
+                    [
+                        -81.772438,
+                        28.557762
+                    ],
+                    [
+                        -81.775444,
+                        28.560438
+                    ],
+                    [
+                        -81.771751,
+                        28.558817
+                    ],
+                    [
+                        -81.771408,
+                        28.557384
+                    ],
+                    [
+                        -81.771751,
+                        28.557535
+                    ]
+                ]
+            ]
+        ]
+    }
+}

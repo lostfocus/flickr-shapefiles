@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55861579,
+    "properties": {
+        "woe_id": 55861579,
+        "place_id": "iHwJtqScBJT8QBKD4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Euclid, St. Petersburg, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528731,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/55861579_20101216_d96a71ca64.tar.gz"
+        },
+        "bbox": [
+            -82.66104888916,
+            27.792165756226,
+            -82.65650177002,
+            27.794166564941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.660667,
+                        27.792166
+                    ],
+                    [
+                        -82.660835,
+                        27.792166
+                    ],
+                    [
+                        -82.661049,
+                        27.79217
+                    ],
+                    [
+                        -82.660049,
+                        27.793068
+                    ],
+                    [
+                        -82.656502,
+                        27.794167
+                    ],
+                    [
+                        -82.656837,
+                        27.792999
+                    ],
+                    [
+                        -82.660667,
+                        27.792166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

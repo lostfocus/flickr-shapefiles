@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55979571,
+    "properties": {
+        "woe_id": 55979571,
+        "place_id": "vcBIYMicBJUCa1CyzA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Long Ridge, Montverde, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490244,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55979571_20101216_e65456b9bb.tar.gz"
+        },
+        "bbox": [
+            -81.677833557129,
+            28.59366607666,
+            -81.676834106445,
+            28.595333099365
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.677834,
+                        28.593666
+                    ],
+                    [
+                        -81.677834,
+                        28.593834
+                    ],
+                    [
+                        -81.67717,
+                        28.594666
+                    ],
+                    [
+                        -81.676834,
+                        28.595333
+                    ],
+                    [
+                        -81.677002,
+                        28.593834
+                    ],
+                    [
+                        -81.677834,
+                        28.593666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

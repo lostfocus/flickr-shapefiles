@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860691,
+    "properties": {
+        "woe_id": 55860691,
+        "place_id": "SygyQeecBJR0B2kZuA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holiday Hills, Olympia, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524574,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55860691_20101216_46675a1f1d.tar.gz"
+        },
+        "bbox": [
+            -122.89130401611,
+            46.994010925293,
+            -122.88242340088,
+            46.997127532959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.882423,
+                        46.995533
+                    ],
+                    [
+                        -122.886627,
+                        46.994011
+                    ],
+                    [
+                        -122.891304,
+                        46.996529
+                    ],
+                    [
+                        -122.885468,
+                        46.995766
+                    ],
+                    [
+                        -122.883713,
+                        46.997128
+                    ],
+                    [
+                        -122.882423,
+                        46.995533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

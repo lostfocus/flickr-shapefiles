@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993526,
+    "properties": {
+        "woe_id": 55993526,
+        "place_id": "7DBfOLGcBJVEG0qBuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bryden, Denton, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550837,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55993526_20101217_79d0bd8db5.tar.gz"
+        },
+        "bbox": [
+            -97.078987121582,
+            33.179752349854,
+            -97.078742980957,
+            33.179943084717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.078987,
+                        33.179829
+                    ],
+                    [
+                        -97.078987,
+                        33.179832
+                    ],
+                    [
+                        -97.078903,
+                        33.179901
+                    ],
+                    [
+                        -97.078743,
+                        33.179943
+                    ],
+                    [
+                        -97.07888,
+                        33.179752
+                    ],
+                    [
+                        -97.078987,
+                        33.179829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

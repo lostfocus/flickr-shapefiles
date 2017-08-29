@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56019493,
+    "properties": {
+        "woe_id": 56019493,
+        "place_id": "0PqUxLacB5zW9oydHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rustic Knolls, Boulder, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526046,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/56019493_20101216_f26bd2ddef.tar.gz"
+        },
+        "bbox": [
+            -105.22721862793,
+            40.039279937744,
+            -105.22483825684,
+            40.040103912354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.227219,
+                        40.039886
+                    ],
+                    [
+                        -105.227097,
+                        40.040104
+                    ],
+                    [
+                        -105.224838,
+                        40.039822
+                    ],
+                    [
+                        -105.225464,
+                        40.03928
+                    ],
+                    [
+                        -105.227135,
+                        40.039871
+                    ],
+                    [
+                        -105.227219,
+                        40.039886
+                    ]
+                ]
+            ]
+        ]
+    }
+}

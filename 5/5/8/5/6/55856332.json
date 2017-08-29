@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55856332,
+    "properties": {
+        "woe_id": 55856332,
+        "place_id": "fSItZficBJTLzVrRPg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Walker Farm, Windsor, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549139,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55856332_20101217_af0359a590.tar.gz"
+        },
+        "bbox": [
+            -82.973640441895,
+            42.284103393555,
+            -82.962310791016,
+            42.28849029541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.965576,
+                        42.284229
+                    ],
+                    [
+                        -82.966347,
+                        42.284103
+                    ],
+                    [
+                        -82.96978,
+                        42.286198
+                    ],
+                    [
+                        -82.97364,
+                        42.286579
+                    ],
+                    [
+                        -82.968956,
+                        42.287537
+                    ],
+                    [
+                        -82.96286,
+                        42.28849
+                    ],
+                    [
+                        -82.962311,
+                        42.285309
+                    ],
+                    [
+                        -82.965576,
+                        42.284229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

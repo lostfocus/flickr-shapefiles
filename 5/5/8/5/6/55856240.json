@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55856240,
+    "properties": {
+        "woe_id": 55856240,
+        "place_id": "sl2mWiCcBJTxGdzBIA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodhull, London, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526503,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55856240_20101216_ab3a4ebbc7.tar.gz"
+        },
+        "bbox": [
+            -81.372253417969,
+            42.94575881958,
+            -81.363540649414,
+            42.947986602783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.369034,
+                        42.947407
+                    ],
+                    [
+                        -81.366592,
+                        42.947987
+                    ],
+                    [
+                        -81.363541,
+                        42.947815
+                    ],
+                    [
+                        -81.36702,
+                        42.946796
+                    ],
+                    [
+                        -81.369255,
+                        42.945759
+                    ],
+                    [
+                        -81.372253,
+                        42.947437
+                    ],
+                    [
+                        -81.369034,
+                        42.947407
+                    ]
+                ]
+            ]
+        ]
+    }
+}

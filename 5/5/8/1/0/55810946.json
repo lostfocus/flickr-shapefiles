@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55810946,
+    "properties": {
+        "woe_id": 55810946,
+        "place_id": "sHOYXiycBJTna2dtkA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kamijima 4 Chome, Hamamatsu-shi, Shizuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532024,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55810946_20101216_d2d8170c70.tar.gz"
+        },
+        "bbox": [
+            137.76133728027,
+            34.739498138428,
+            137.76350402832,
+            34.74100112915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.76297,
+                        34.740166
+                    ],
+                    [
+                        137.763504,
+                        34.739666
+                    ],
+                    [
+                        137.762833,
+                        34.739498
+                    ],
+                    [
+                        137.761337,
+                        34.740833
+                    ],
+                    [
+                        137.761673,
+                        34.741001
+                    ],
+                    [
+                        137.76297,
+                        34.740166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

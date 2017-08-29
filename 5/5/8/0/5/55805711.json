@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55805711,
+    "properties": {
+        "woe_id": 55805711,
+        "place_id": "cZX69_WcBJQ0oSXHxg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scenic Bluff, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509629,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55805711_20101216_2d9b02651c.tar.gz"
+        },
+        "bbox": [
+            -97.315689086914,
+            32.767333984375,
+            -97.312774658203,
+            32.77384185791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.313568,
+                        32.771973
+                    ],
+                    [
+                        -97.313164,
+                        32.767334
+                    ],
+                    [
+                        -97.315346,
+                        32.769161
+                    ],
+                    [
+                        -97.315689,
+                        32.772121
+                    ],
+                    [
+                        -97.315094,
+                        32.773842
+                    ],
+                    [
+                        -97.312775,
+                        32.772968
+                    ],
+                    [
+                        -97.313568,
+                        32.771973
+                    ]
+                ]
+            ]
+        ]
+    }
+}

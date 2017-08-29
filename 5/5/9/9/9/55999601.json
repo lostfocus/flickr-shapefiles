@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55999601,
+    "properties": {
+        "woe_id": 55999601,
+        "place_id": "cGPTu5.cBJUOvp3rYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gormley, Richmond Hill, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515450,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/55999601_20101216_ef968b1bb0.tar.gz"
+        },
+        "bbox": [
+            -79.39973449707,
+            43.921821594238,
+            -79.39510345459,
+            43.924194335938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.398689,
+                        43.92384
+                    ],
+                    [
+                        -79.398117,
+                        43.924068
+                    ],
+                    [
+                        -79.396957,
+                        43.924194
+                    ],
+                    [
+                        -79.395737,
+                        43.923519
+                    ],
+                    [
+                        -79.395103,
+                        43.922935
+                    ],
+                    [
+                        -79.399734,
+                        43.921822
+                    ],
+                    [
+                        -79.399277,
+                        43.922852
+                    ],
+                    [
+                        -79.398689,
+                        43.92384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

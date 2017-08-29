@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55806953,
+    "properties": {
+        "woe_id": 55806953,
+        "place_id": "PqYWVkicBJRGjzFtcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "King Charles, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535006,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55806953_20101216_e43d3cb0d9.tar.gz"
+        },
+        "bbox": [
+            -78.603874206543,
+            35.784896850586,
+            -78.594100952148,
+            35.788066864014
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.598648,
+                        35.787998
+                    ],
+                    [
+                        -78.594101,
+                        35.785072
+                    ],
+                    [
+                        -78.598465,
+                        35.786404
+                    ],
+                    [
+                        -78.603874,
+                        35.784897
+                    ],
+                    [
+                        -78.601944,
+                        35.788067
+                    ],
+                    [
+                        -78.601662,
+                        35.787933
+                    ],
+                    [
+                        -78.598648,
+                        35.787998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

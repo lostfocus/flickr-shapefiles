@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55980521,
+    "properties": {
+        "woe_id": 55980521,
+        "place_id": "roRMWV2cBJUrS5t86g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lexington, Parrish, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458078,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55980521_20101216_3196189568.tar.gz"
+        },
+        "bbox": [
+            -82.449478149414,
+            27.562795639038,
+            -82.447174072266,
+            27.563425064087
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.449478,
+                        27.563362
+                    ],
+                    [
+                        -82.449295,
+                        27.563425
+                    ],
+                    [
+                        -82.447174,
+                        27.562796
+                    ],
+                    [
+                        -82.448875,
+                        27.562918
+                    ],
+                    [
+                        -82.449478,
+                        27.563362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999261,
+    "properties": {
+        "woe_id": 55999261,
+        "place_id": "Ag6A4EOcBJUNdSdZNQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northwest Aurora, Aurora, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522662,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55999261_20101216_7f4c8c533b.tar.gz"
+        },
+        "bbox": [
+            -79.47331237793,
+            44.013343811035,
+            -79.467842102051,
+            44.017486572266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.467842,
+                        44.015495
+                    ],
+                    [
+                        -79.468803,
+                        44.0149
+                    ],
+                    [
+                        -79.470139,
+                        44.014423
+                    ],
+                    [
+                        -79.473312,
+                        44.013344
+                    ],
+                    [
+                        -79.471039,
+                        44.0172
+                    ],
+                    [
+                        -79.471077,
+                        44.017487
+                    ],
+                    [
+                        -79.467842,
+                        44.015495
+                    ]
+                ]
+            ]
+        ]
+    }
+}

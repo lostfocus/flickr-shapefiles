@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858272,
+    "properties": {
+        "woe_id": 55858272,
+        "place_id": "DnMV8YCcBJTtUNS9kw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Depot Hill, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503568,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/55858272_20101216_9be4fdfc83.tar.gz"
+        },
+        "bbox": [
+            -105.09540557861,
+            39.92724609375,
+            -105.09126281738,
+            39.931022644043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.093666,
+                        39.927246
+                    ],
+                    [
+                        -105.095406,
+                        39.928947
+                    ],
+                    [
+                        -105.094353,
+                        39.930202
+                    ],
+                    [
+                        -105.091263,
+                        39.931023
+                    ],
+                    [
+                        -105.091301,
+                        39.929428
+                    ],
+                    [
+                        -105.093666,
+                        39.927246
+                    ]
+                ]
+            ]
+        ]
+    }
+}

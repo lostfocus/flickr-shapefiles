@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888868,
+    "properties": {
+        "woe_id": 55888868,
+        "place_id": "dlKxMg6cBJRNDIxl9w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Santa Rita, Chihuahua, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522630,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55888868_20101216_57316bccb9.tar.gz"
+        },
+        "bbox": [
+            -106.07970428467,
+            28.628198623657,
+            -106.07542419434,
+            28.630617141724
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.079048,
+                        28.628199
+                    ],
+                    [
+                        -106.079704,
+                        28.629513
+                    ],
+                    [
+                        -106.077744,
+                        28.630184
+                    ],
+                    [
+                        -106.077225,
+                        28.630617
+                    ],
+                    [
+                        -106.075424,
+                        28.629536
+                    ],
+                    [
+                        -106.079048,
+                        28.628199
+                    ]
+                ]
+            ]
+        ]
+    }
+}

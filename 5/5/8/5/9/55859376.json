@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859376,
+    "properties": {
+        "woe_id": 55859376,
+        "place_id": "8AtB0V2cBJRLhFSc9Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roadrunner Estates West, Glendale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436665,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55859376_20101215_820e913c41.tar.gz"
+        },
+        "bbox": [
+            -112.18671417236,
+            33.572971343994,
+            -112.18126678467,
+            33.57515335083
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.186714,
+                        33.575153
+                    ],
+                    [
+                        -112.186211,
+                        33.574841
+                    ],
+                    [
+                        -112.181267,
+                        33.572971
+                    ],
+                    [
+                        -112.185364,
+                        33.573044
+                    ],
+                    [
+                        -112.186249,
+                        33.574718
+                    ],
+                    [
+                        -112.186714,
+                        33.575153
+                    ]
+                ]
+            ]
+        ]
+    }
+}

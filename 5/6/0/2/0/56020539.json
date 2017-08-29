@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56020539,
+    "properties": {
+        "woe_id": 56020539,
+        "place_id": "n7G6XL6cB5z9KSZvXQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mirramont, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482449,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/56020539_20101216_46e1442211.tar.gz"
+        },
+        "bbox": [
+            -84.580230712891,
+            34.120388031006,
+            -84.580116271973,
+            34.120998382568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.580116,
+                        34.120892
+                    ],
+                    [
+                        -84.580177,
+                        34.120388
+                    ],
+                    [
+                        -84.580231,
+                        34.12096
+                    ],
+                    [
+                        -84.580231,
+                        34.120998
+                    ],
+                    [
+                        -84.580116,
+                        34.120892
+                    ]
+                ]
+            ]
+        ]
+    }
+}

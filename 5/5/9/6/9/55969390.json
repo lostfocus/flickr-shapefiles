@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969390,
+    "properties": {
+        "woe_id": 55969390,
+        "place_id": "iiMd9FmcBJWeZRuHlw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stockseth Acres, Davis, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547602,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55969390_20101217_af1ba7bbbb.tar.gz"
+        },
+        "bbox": [
+            -121.72949981689,
+            38.54666519165,
+            -121.72727203369,
+            38.553451538086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.729065,
+                        38.550636
+                    ],
+                    [
+                        -121.72905,
+                        38.550766
+                    ],
+                    [
+                        -121.727272,
+                        38.553452
+                    ],
+                    [
+                        -121.727486,
+                        38.54924
+                    ],
+                    [
+                        -121.7295,
+                        38.546665
+                    ],
+                    [
+                        -121.729065,
+                        38.550636
+                    ]
+                ]
+            ]
+        ]
+    }
+}

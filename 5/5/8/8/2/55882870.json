@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55882870,
+    "properties": {
+        "woe_id": 55882870,
+        "place_id": "VkNPZqmcBJTUvBlaZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio de San Francisco, Campeche, CM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473321,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55882870_20101216_0013de4aa5.tar.gz"
+        },
+        "bbox": [
+            -90.526657104492,
+            19.848779678345,
+            -90.523391723633,
+            19.852573394775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.525169,
+                        19.852573
+                    ],
+                    [
+                        -90.523392,
+                        19.85125
+                    ],
+                    [
+                        -90.523811,
+                        19.850756
+                    ],
+                    [
+                        -90.525253,
+                        19.84878
+                    ],
+                    [
+                        -90.52623,
+                        19.849131
+                    ],
+                    [
+                        -90.526657,
+                        19.850603
+                    ],
+                    [
+                        -90.525169,
+                        19.852573
+                    ]
+                ]
+            ]
+        ]
+    }
+}

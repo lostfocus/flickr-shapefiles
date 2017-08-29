@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999438,
+    "properties": {
+        "woe_id": 55999438,
+        "place_id": "sb0ePNKcBJUbQyFc4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Settler's Creek, Orangeville, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522633,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/55999438_20101216_6c600500dd.tar.gz"
+        },
+        "bbox": [
+            -80.127021789551,
+            43.901168823242,
+            -80.119575500488,
+            43.906425476074
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.127022,
+                        43.903519
+                    ],
+                    [
+                        -80.124084,
+                        43.906425
+                    ],
+                    [
+                        -80.119576,
+                        43.902065
+                    ],
+                    [
+                        -80.122864,
+                        43.901169
+                    ],
+                    [
+                        -80.123032,
+                        43.901199
+                    ],
+                    [
+                        -80.127022,
+                        43.903519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

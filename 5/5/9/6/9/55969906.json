@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969906,
+    "properties": {
+        "woe_id": 55969906,
+        "place_id": "mdVRNImcBJWy6DKECg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lomita Boulevard, Lomita, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523843,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55969906_20101216_3cb8840858.tar.gz"
+        },
+        "bbox": [
+            -118.31426239014,
+            33.798240661621,
+            -118.31088256836,
+            33.802940368652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.310913,
+                        33.798244
+                    ],
+                    [
+                        -118.310944,
+                        33.798241
+                    ],
+                    [
+                        -118.314262,
+                        33.80294
+                    ],
+                    [
+                        -118.310928,
+                        33.798256
+                    ],
+                    [
+                        -118.310883,
+                        33.798248
+                    ],
+                    [
+                        -118.310913,
+                        33.798244
+                    ]
+                ]
+            ]
+        ]
+    }
+}

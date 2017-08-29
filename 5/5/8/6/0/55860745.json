@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55860745,
+    "properties": {
+        "woe_id": 55860745,
+        "place_id": "FMr_432cBJRBK5XC2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dover Shores West, Orlando, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537675,
+        "alpha": 1.25e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55860745_20101216_b006e77df1.tar.gz"
+        },
+        "bbox": [
+            -81.337417602539,
+            28.5218334198,
+            -81.331069946289,
+            28.524396896362
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.331268,
+                        28.524397
+                    ],
+                    [
+                        -81.33107,
+                        28.524075
+                    ],
+                    [
+                        -81.332832,
+                        28.523333
+                    ],
+                    [
+                        -81.335335,
+                        28.521833
+                    ],
+                    [
+                        -81.337418,
+                        28.524235
+                    ],
+                    [
+                        -81.332031,
+                        28.524115
+                    ],
+                    [
+                        -81.331268,
+                        28.524397
+                    ]
+                ]
+            ]
+        ]
+    }
+}

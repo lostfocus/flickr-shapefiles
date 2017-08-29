@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969333,
+    "properties": {
+        "woe_id": 55969333,
+        "place_id": "nGRRvGCcBJXkOiBzEw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Covell Health Center, Davis, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547280,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55969333_20101217_300d106943.tar.gz"
+        },
+        "bbox": [
+            -121.76149749756,
+            38.560405731201,
+            -121.75769805908,
+            38.562309265137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.758385,
+                        38.560749
+                    ],
+                    [
+                        -121.761497,
+                        38.560406
+                    ],
+                    [
+                        -121.759819,
+                        38.561855
+                    ],
+                    [
+                        -121.758682,
+                        38.562309
+                    ],
+                    [
+                        -121.757698,
+                        38.562126
+                    ],
+                    [
+                        -121.758385,
+                        38.560749
+                    ]
+                ]
+            ]
+        ]
+    }
+}

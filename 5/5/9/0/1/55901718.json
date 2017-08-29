@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55901718,
+    "properties": {
+        "woe_id": 55901718,
+        "place_id": "3GWfZBycBJUhZ_C7zA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bufa, Guanajuato, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292504102,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/55901718_20101216_4a82684fd9.tar.gz"
+        },
+        "bbox": [
+            -101.25066375732,
+            21.000137329102,
+            -101.24671173096,
+            21.00513458252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.247299,
+                        21.004826
+                    ],
+                    [
+                        -101.246712,
+                        21.004395
+                    ],
+                    [
+                        -101.247711,
+                        21.00437
+                    ],
+                    [
+                        -101.250404,
+                        21.000137
+                    ],
+                    [
+                        -101.250664,
+                        21.000828
+                    ],
+                    [
+                        -101.248352,
+                        21.005135
+                    ],
+                    [
+                        -101.247299,
+                        21.004826
+                    ]
+                ]
+            ]
+        ]
+    }
+}

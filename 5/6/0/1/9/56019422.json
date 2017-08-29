@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 56019422,
+    "properties": {
+        "woe_id": 56019422,
+        "place_id": "N8GwlcWcB5zL18dDCg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hewes Kirkwood, Allenspark, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528947,
+        "alpha": 1.0e-5,
+        "points": 36,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/56019422_20101216_5afd5bc725.tar.gz"
+        },
+        "bbox": [
+            -105.53604125977,
+            40.243885040283,
+            -105.53492736816,
+            40.250053405762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.535042,
+                        40.246803
+                    ],
+                    [
+                        -105.534927,
+                        40.246006
+                    ],
+                    [
+                        -105.535355,
+                        40.244812
+                    ],
+                    [
+                        -105.536041,
+                        40.243885
+                    ],
+                    [
+                        -105.536034,
+                        40.247429
+                    ],
+                    [
+                        -105.535957,
+                        40.250053
+                    ],
+                    [
+                        -105.535164,
+                        40.247334
+                    ],
+                    [
+                        -105.535042,
+                        40.246803
+                    ]
+                ]
+            ]
+        ]
+    }
+}

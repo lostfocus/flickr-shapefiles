@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986365,
+    "properties": {
+        "woe_id": 55986365,
+        "place_id": "RlUFy2.cBJWBFJcmJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Vernon Hills, Vernon Hills, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543331,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55986365_20101216_a748df9ef6.tar.gz"
+        },
+        "bbox": [
+            -87.963859558105,
+            42.249168395996,
+            -87.957374572754,
+            42.252899169922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.959999,
+                        42.251835
+                    ],
+                    [
+                        -87.958298,
+                        42.252609
+                    ],
+                    [
+                        -87.957375,
+                        42.250698
+                    ],
+                    [
+                        -87.96138,
+                        42.249168
+                    ],
+                    [
+                        -87.96386,
+                        42.252899
+                    ],
+                    [
+                        -87.959999,
+                        42.251835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

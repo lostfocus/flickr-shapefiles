@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55883051,
+    "properties": {
+        "woe_id": 55883051,
+        "place_id": "ntZ0WRKcBJTVGBdsig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aurora, San Miguel de Allende, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523787,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55883051_20101216_63bb576107.tar.gz"
+        },
+        "bbox": [
+            -100.74317169189,
+            20.921539306641,
+            -100.74044799805,
+            20.924705505371
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.740448,
+                        20.922892
+                    ],
+                    [
+                        -100.741859,
+                        20.921539
+                    ],
+                    [
+                        -100.742065,
+                        20.921709
+                    ],
+                    [
+                        -100.743172,
+                        20.923243
+                    ],
+                    [
+                        -100.740982,
+                        20.924706
+                    ],
+                    [
+                        -100.740456,
+                        20.923355
+                    ],
+                    [
+                        -100.740448,
+                        20.922892
+                    ]
+                ]
+            ]
+        ]
+    }
+}

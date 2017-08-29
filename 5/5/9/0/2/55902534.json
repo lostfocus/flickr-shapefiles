@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55902534,
+    "properties": {
+        "woe_id": 55902534,
+        "place_id": "1Mew5JecBJUoyU9Hbw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Las Palmas, Manzanillo, CL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247963406,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2517\/shapefiles\/55902534_20090719_150057c45e.tar.gz"
+        },
+        "bbox": [
+            -104.32857513428,
+            19.102643966675,
+            -104.31871795654,
+            19.105968475342
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.326401,
+                        19.102644
+                    ],
+                    [
+                        -104.328575,
+                        19.103403
+                    ],
+                    [
+                        -104.326469,
+                        19.103521
+                    ],
+                    [
+                        -104.323883,
+                        19.105968
+                    ],
+                    [
+                        -104.318718,
+                        19.104445
+                    ],
+                    [
+                        -104.323921,
+                        19.105644
+                    ],
+                    [
+                        -104.326401,
+                        19.102644
+                    ]
+                ]
+            ]
+        ]
+    }
+}

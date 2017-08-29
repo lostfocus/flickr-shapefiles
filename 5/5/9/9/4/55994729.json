@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55994729,
+    "properties": {
+        "woe_id": 55994729,
+        "place_id": "AyeF0NScBJULfTjdHQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Park At Blackhawk, Pflugerville, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526262,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55994729_20101216_0e428cbc67.tar.gz"
+        },
+        "bbox": [
+            -97.570419311523,
+            30.477531433105,
+            -97.563743591309,
+            30.483318328857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.569229,
+                        30.479847
+                    ],
+                    [
+                        -97.570419,
+                        30.483318
+                    ],
+                    [
+                        -97.568665,
+                        30.482166
+                    ],
+                    [
+                        -97.563744,
+                        30.482113
+                    ],
+                    [
+                        -97.565598,
+                        30.477531
+                    ],
+                    [
+                        -97.568214,
+                        30.478971
+                    ],
+                    [
+                        -97.569229,
+                        30.479847
+                    ]
+                ]
+            ]
+        ]
+    }
+}

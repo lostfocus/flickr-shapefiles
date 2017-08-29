@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55905039,
+    "properties": {
+        "woe_id": 55905039,
+        "place_id": "e.W1beacBJX46cBOrw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Alpes, Tlaola, PU, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523955,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55905039_20101216_b47993e735.tar.gz"
+        },
+        "bbox": [
+            -98.031517028809,
+            20.205116271973,
+            -98.027778625488,
+            20.208078384399
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.031517,
+                        20.207676
+                    ],
+                    [
+                        -98.031517,
+                        20.207998
+                    ],
+                    [
+                        -98.031349,
+                        20.208078
+                    ],
+                    [
+                        -98.027779,
+                        20.205116
+                    ],
+                    [
+                        -98.031517,
+                        20.207596
+                    ],
+                    [
+                        -98.031517,
+                        20.207676
+                    ]
+                ]
+            ]
+        ]
+    }
+}

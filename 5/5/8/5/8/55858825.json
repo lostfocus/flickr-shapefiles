@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858825,
+    "properties": {
+        "woe_id": 55858825,
+        "place_id": "zqXPmdOcBJRaTcgN5g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Columbian Playground, East Orange, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292396642,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/55858825_20101215_e1747a426e.tar.gz"
+        },
+        "bbox": [
+            -74.204864501953,
+            40.766502380371,
+            -74.203201293945,
+            40.773128509521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.204865,
+                        40.767323
+                    ],
+                    [
+                        -74.204498,
+                        40.768665
+                    ],
+                    [
+                        -74.203201,
+                        40.773129
+                    ],
+                    [
+                        -74.204277,
+                        40.768692
+                    ],
+                    [
+                        -74.203201,
+                        40.766502
+                    ],
+                    [
+                        -74.204865,
+                        40.767323
+                    ]
+                ]
+            ]
+        ]
+    }
+}

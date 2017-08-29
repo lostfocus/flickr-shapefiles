@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55806678,
+    "properties": {
+        "woe_id": 55806678,
+        "place_id": "oWMX6p6cBJRE6UxCNg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stone Creek, Lexington, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550011,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55806678_20101217_5e8da5a447.tar.gz"
+        },
+        "bbox": [
+            -84.555770874023,
+            37.981262207031,
+            -84.551132202148,
+            37.982856750488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.551285,
+                        37.981407
+                    ],
+                    [
+                        -84.551132,
+                        37.981415
+                    ],
+                    [
+                        -84.551216,
+                        37.981327
+                    ],
+                    [
+                        -84.555542,
+                        37.981262
+                    ],
+                    [
+                        -84.555771,
+                        37.982857
+                    ],
+                    [
+                        -84.551285,
+                        37.981407
+                    ]
+                ]
+            ]
+        ]
+    }
+}

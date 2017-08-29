@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970049,
+    "properties": {
+        "woe_id": 55970049,
+        "place_id": "Xjkh.5WcBJXXDqAyPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Copperstone, Mission Viejo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464742,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55970049_20101216_849dfd89e5.tar.gz"
+        },
+        "bbox": [
+            -117.6287689209,
+            33.660663604736,
+            -117.62615966797,
+            33.668842315674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.628754,
+                        33.665691
+                    ],
+                    [
+                        -117.627449,
+                        33.668842
+                    ],
+                    [
+                        -117.62616,
+                        33.665134
+                    ],
+                    [
+                        -117.62748,
+                        33.660664
+                    ],
+                    [
+                        -117.628769,
+                        33.665478
+                    ],
+                    [
+                        -117.628754,
+                        33.665691
+                    ]
+                ]
+            ]
+        ]
+    }
+}

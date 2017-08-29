@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55898924,
+    "properties": {
+        "woe_id": 55898924,
+        "place_id": "qdQBmY6cBJS7y4iFPg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alvaro Obregon, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462467,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55898924_20101216_7905a7899c.tar.gz"
+        },
+        "bbox": [
+            -99.118263244629,
+            19.406274795532,
+            -99.109802246094,
+            19.410358428955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.113327,
+                        19.408417
+                    ],
+                    [
+                        -99.113586,
+                        19.406275
+                    ],
+                    [
+                        -99.115044,
+                        19.407467
+                    ],
+                    [
+                        -99.118263,
+                        19.407507
+                    ],
+                    [
+                        -99.117104,
+                        19.410177
+                    ],
+                    [
+                        -99.113564,
+                        19.409164
+                    ],
+                    [
+                        -99.109802,
+                        19.410358
+                    ],
+                    [
+                        -99.113327,
+                        19.408417
+                    ]
+                ]
+            ]
+        ]
+    }
+}

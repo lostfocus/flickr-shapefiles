@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858653,
+    "properties": {
+        "woe_id": 55858653,
+        "place_id": "m8t9Q_mcBJSLUARauA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Willowbank, Davis, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456668,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55858653_20101215_88d3b295cf.tar.gz"
+        },
+        "bbox": [
+            -121.69744110107,
+            38.531818389893,
+            -121.6890335083,
+            38.537826538086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.694168,
+                        38.533165
+                    ],
+                    [
+                        -121.697441,
+                        38.537827
+                    ],
+                    [
+                        -121.693069,
+                        38.535618
+                    ],
+                    [
+                        -121.689034,
+                        38.531818
+                    ],
+                    [
+                        -121.692093,
+                        38.532303
+                    ],
+                    [
+                        -121.694168,
+                        38.533165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

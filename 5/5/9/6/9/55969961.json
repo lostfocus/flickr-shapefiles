@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55969961,
+    "properties": {
+        "woe_id": 55969961,
+        "place_id": "rSGyafCcBJX8Rx2YEg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Banburry Loop, Martinez, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537013,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55969961_20101216_44c822819c.tar.gz"
+        },
+        "bbox": [
+            -122.08866119385,
+            37.993881225586,
+            -122.08434295654,
+            37.998199462891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.086494,
+                        37.993881
+                    ],
+                    [
+                        -122.088661,
+                        37.995037
+                    ],
+                    [
+                        -122.085968,
+                        37.998199
+                    ],
+                    [
+                        -122.084343,
+                        37.996216
+                    ],
+                    [
+                        -122.086494,
+                        37.993881
+                    ]
+                ]
+            ]
+        ]
+    }
+}

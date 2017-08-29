@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55998741,
+    "properties": {
+        "woe_id": 55998741,
+        "place_id": "izoJmYacBJWW3aiPfg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maple Woods, Maple Ridge, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551334,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55998741_20101217_4caa93b7dd.tar.gz"
+        },
+        "bbox": [
+            -122.56353759766,
+            49.19705581665,
+            -122.56318664551,
+            49.197402954102
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.563187,
+                        49.197189
+                    ],
+                    [
+                        -122.563232,
+                        49.197121
+                    ],
+                    [
+                        -122.563248,
+                        49.197113
+                    ],
+                    [
+                        -122.563538,
+                        49.197056
+                    ],
+                    [
+                        -122.563278,
+                        49.197403
+                    ],
+                    [
+                        -122.563187,
+                        49.197189
+                    ]
+                ]
+            ]
+        ]
+    }
+}

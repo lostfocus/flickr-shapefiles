@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55891105,
+    "properties": {
+        "woe_id": 55891105,
+        "place_id": "w_mX7ZOcBJQCkSCbvA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Res Cumbres, Hermosillo, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522613,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55891105_20101216_85cc900957.tar.gz"
+        },
+        "bbox": [
+            -110.95275878906,
+            29.13917350769,
+            -110.94667816162,
+            29.143304824829
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.949188,
+                        29.140505
+                    ],
+                    [
+                        -110.947083,
+                        29.139784
+                    ],
+                    [
+                        -110.946678,
+                        29.139305
+                    ],
+                    [
+                        -110.950005,
+                        29.139219
+                    ],
+                    [
+                        -110.950264,
+                        29.139174
+                    ],
+                    [
+                        -110.952759,
+                        29.143305
+                    ],
+                    [
+                        -110.949188,
+                        29.140505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

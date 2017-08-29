@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55806571,
+    "properties": {
+        "woe_id": 55806571,
+        "place_id": "Pr3Z1_ScBJR36TjyXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Triangle, Buffalo, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522632,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55806571_20101216_7596d5dd80.tar.gz"
+        },
+        "bbox": [
+            -78.832336425781,
+            42.847019195557,
+            -78.824417114258,
+            42.849319458008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.824417,
+                        42.847244
+                    ],
+                    [
+                        -78.825035,
+                        42.847179
+                    ],
+                    [
+                        -78.829552,
+                        42.847019
+                    ],
+                    [
+                        -78.832336,
+                        42.848
+                    ],
+                    [
+                        -78.829781,
+                        42.849319
+                    ],
+                    [
+                        -78.824928,
+                        42.847668
+                    ],
+                    [
+                        -78.824417,
+                        42.847244
+                    ]
+                ]
+            ]
+        ]
+    }
+}

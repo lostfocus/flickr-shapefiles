@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55806785,
+    "properties": {
+        "woe_id": 55806785,
+        "place_id": "xRigcHGcBJTBATUrTw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belmar Shore, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514904,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55806785_20101216_9295a01a66.tar.gz"
+        },
+        "bbox": [
+            -82.530517578125,
+            27.909618377686,
+            -82.526718139648,
+            27.915060043335
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.526756,
+                        27.911751
+                    ],
+                    [
+                        -82.526718,
+                        27.911415
+                    ],
+                    [
+                        -82.527153,
+                        27.909618
+                    ],
+                    [
+                        -82.526871,
+                        27.911192
+                    ],
+                    [
+                        -82.530518,
+                        27.91506
+                    ],
+                    [
+                        -82.526756,
+                        27.911751
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55859280,
+    "properties": {
+        "woe_id": 55859280,
+        "place_id": "Ja8R7nScBJSkTVgguw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cactus District, Glendale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539746,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/55859280_20101216_e60005034c.tar.gz"
+        },
+        "bbox": [
+            -112.17015075684,
+            33.538299560547,
+            -112.16220092773,
+            33.546798706055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.162201,
+                        33.546619
+                    ],
+                    [
+                        -112.162483,
+                        33.546799
+                    ],
+                    [
+                        -112.16478,
+                        33.542423
+                    ],
+                    [
+                        -112.165688,
+                        33.5383
+                    ],
+                    [
+                        -112.170151,
+                        33.539391
+                    ],
+                    [
+                        -112.16478,
+                        33.542423
+                    ],
+                    [
+                        -112.162201,
+                        33.546619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

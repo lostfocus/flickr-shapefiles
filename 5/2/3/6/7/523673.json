@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 523673,
+    "properties": {
+        "woe_id": 523673,
+        "place_id": "34T3HlecA5.X9O4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Utrata, Warsaw, Masovian, PL, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438400,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/523673_20101215_10f755fd88.tar.gz"
+        },
+        "bbox": [
+            21.082334518433,
+            52.260986328125,
+            21.084688186646,
+            52.262252807617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        21.082764,
+                        52.260986
+                    ],
+                    [
+                        21.082335,
+                        52.262115
+                    ],
+                    [
+                        21.084005,
+                        52.262253
+                    ],
+                    [
+                        21.084688,
+                        52.261158
+                    ],
+                    [
+                        21.082764,
+                        52.260986
+                    ]
+                ]
+            ]
+        ]
+    }
+}

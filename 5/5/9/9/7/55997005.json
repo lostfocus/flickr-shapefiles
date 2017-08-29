@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55997005,
+    "properties": {
+        "woe_id": 55997005,
+        "place_id": "UKnCttecBJWdoVj1LQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hidden View, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521638,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55997005_20101216_8525478054.tar.gz"
+        },
+        "bbox": [
+            -122.68863677979,
+            45.639713287354,
+            -122.68394470215,
+            45.643337249756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.684319,
+                        45.643337
+                    ],
+                    [
+                        -122.683945,
+                        45.642879
+                    ],
+                    [
+                        -122.683983,
+                        45.642712
+                    ],
+                    [
+                        -122.686989,
+                        45.640476
+                    ],
+                    [
+                        -122.688637,
+                        45.639713
+                    ],
+                    [
+                        -122.6875,
+                        45.642906
+                    ],
+                    [
+                        -122.684319,
+                        45.643337
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980147,
+    "properties": {
+        "woe_id": 55980147,
+        "place_id": "76rHbrqcBJVmsVgZ.Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "King's Bay, Okeechobee, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530288,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55980147_20101216_02ff08fff5.tar.gz"
+        },
+        "bbox": [
+            -80.789596557617,
+            27.211008071899,
+            -80.788475036621,
+            27.211420059204
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.789406,
+                        27.211258
+                    ],
+                    [
+                        -80.788933,
+                        27.21142
+                    ],
+                    [
+                        -80.788475,
+                        27.211296
+                    ],
+                    [
+                        -80.789063,
+                        27.211008
+                    ],
+                    [
+                        -80.789597,
+                        27.21102
+                    ],
+                    [
+                        -80.789406,
+                        27.211258
+                    ]
+                ]
+            ]
+        ]
+    }
+}

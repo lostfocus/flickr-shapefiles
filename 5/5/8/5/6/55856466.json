@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856466,
+    "properties": {
+        "woe_id": 55856466,
+        "place_id": "_L18HDWcBJQBM1crVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Babich, Abbotsford, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528706,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55856466_20101216_6726799b68.tar.gz"
+        },
+        "bbox": [
+            -122.29341125488,
+            49.049091339111,
+            -122.28942871094,
+            49.0500831604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.289429,
+                        49.049221
+                    ],
+                    [
+                        -122.289764,
+                        49.049149
+                    ],
+                    [
+                        -122.293411,
+                        49.049091
+                    ],
+                    [
+                        -122.291901,
+                        49.050083
+                    ],
+                    [
+                        -122.290276,
+                        49.049965
+                    ],
+                    [
+                        -122.289429,
+                        49.049221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

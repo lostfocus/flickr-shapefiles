@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985348,
+    "properties": {
+        "woe_id": 55985348,
+        "place_id": "gb4cv7.cBJXkHV.WnA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wilksmoor, Peachtree City, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524865,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55985348_20101216_b8c3c3a338.tar.gz"
+        },
+        "bbox": [
+            -84.608909606934,
+            33.392467498779,
+            -84.60425567627,
+            33.395118713379
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.606773,
+                        33.392467
+                    ],
+                    [
+                        -84.60891,
+                        33.393379
+                    ],
+                    [
+                        -84.60537,
+                        33.394222
+                    ],
+                    [
+                        -84.604256,
+                        33.395119
+                    ],
+                    [
+                        -84.605904,
+                        33.392986
+                    ],
+                    [
+                        -84.606773,
+                        33.392467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

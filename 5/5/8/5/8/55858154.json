@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55858154,
+    "properties": {
+        "woe_id": 55858154,
+        "place_id": "BAKVJHKcBJTad31how",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Norwood, Boulder, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455356,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55858154_20101215_e45f9463a7.tar.gz"
+        },
+        "bbox": [
+            -105.28105163574,
+            40.047332763672,
+            -105.27791595459,
+            40.048149108887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.280998,
+                        40.047333
+                    ],
+                    [
+                        -105.281052,
+                        40.047459
+                    ],
+                    [
+                        -105.280708,
+                        40.047813
+                    ],
+                    [
+                        -105.277916,
+                        40.048149
+                    ],
+                    [
+                        -105.279915,
+                        40.047626
+                    ],
+                    [
+                        -105.280365,
+                        40.047337
+                    ],
+                    [
+                        -105.280998,
+                        40.047333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

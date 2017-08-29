@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861188,
+    "properties": {
+        "woe_id": 55861188,
+        "place_id": "gvPmutOcBJSBDTehZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pioneer Place, Plano, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548099,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55861188_20101217_0e0e223f98.tar.gz"
+        },
+        "bbox": [
+            -96.699989318848,
+            33.030498504639,
+            -96.696380615234,
+            33.031494140625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.699188,
+                        33.030499
+                    ],
+                    [
+                        -96.699989,
+                        33.031494
+                    ],
+                    [
+                        -96.696892,
+                        33.031338
+                    ],
+                    [
+                        -96.696381,
+                        33.031063
+                    ],
+                    [
+                        -96.69873,
+                        33.030743
+                    ],
+                    [
+                        -96.699188,
+                        33.030499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

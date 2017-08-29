@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856071,
+    "properties": {
+        "woe_id": 55856071,
+        "place_id": "nP3lgNecBJSkNfg7mQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Vital North, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518043,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55856071_20101216_420b99358d.tar.gz"
+        },
+        "bbox": [
+            -97.114501953125,
+            49.851917266846,
+            -97.109870910645,
+            49.854888916016
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.114502,
+                        49.854588
+                    ],
+                    [
+                        -97.113518,
+                        49.854889
+                    ],
+                    [
+                        -97.109871,
+                        49.852669
+                    ],
+                    [
+                        -97.11335,
+                        49.851917
+                    ],
+                    [
+                        -97.114426,
+                        49.85257
+                    ],
+                    [
+                        -97.114502,
+                        49.854588
+                    ]
+                ]
+            ]
+        ]
+    }
+}

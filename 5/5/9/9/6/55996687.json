@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996687,
+    "properties": {
+        "woe_id": 55996687,
+        "place_id": "Qo8R0QecBJVM_xuxcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Country Meadows, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455504,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55996687_20101215_4b4ab0fe19.tar.gz"
+        },
+        "bbox": [
+            -122.55913543701,
+            45.691524505615,
+            -122.5581741333,
+            45.692092895508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.558228,
+                        45.691647
+                    ],
+                    [
+                        -122.558174,
+                        45.691525
+                    ],
+                    [
+                        -122.558311,
+                        45.691608
+                    ],
+                    [
+                        -122.559135,
+                        45.692093
+                    ],
+                    [
+                        -122.558357,
+                        45.69173
+                    ],
+                    [
+                        -122.558228,
+                        45.691647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

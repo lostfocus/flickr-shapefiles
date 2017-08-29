@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55987019,
+    "properties": {
+        "woe_id": 55987019,
+        "place_id": "PdSDrYmcBJWxOHxPUw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dunbar-Broadway, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527065,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55987019_20101216_0ecd65736e.tar.gz"
+        },
+        "bbox": [
+            -76.594955444336,
+            39.291530609131,
+            -76.59294128418,
+            39.297500610352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.593941,
+                        39.291836
+                    ],
+                    [
+                        -76.594299,
+                        39.291531
+                    ],
+                    [
+                        -76.594406,
+                        39.292728
+                    ],
+                    [
+                        -76.594231,
+                        39.294056
+                    ],
+                    [
+                        -76.594955,
+                        39.297298
+                    ],
+                    [
+                        -76.5942,
+                        39.297501
+                    ],
+                    [
+                        -76.593956,
+                        39.297241
+                    ],
+                    [
+                        -76.593636,
+                        39.296024
+                    ],
+                    [
+                        -76.592941,
+                        39.292679
+                    ],
+                    [
+                        -76.593941,
+                        39.291836
+                    ]
+                ]
+            ]
+        ]
+    }
+}

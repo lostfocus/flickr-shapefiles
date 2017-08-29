@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020789,
+    "properties": {
+        "woe_id": 56020789,
+        "place_id": "2NidN1mcB5yfseWEPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Prairie Lakes, Ankeny, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537712,
+        "alpha": 1.0e-5,
+        "points": 27,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/56020789_20101216_9e303cfb32.tar.gz"
+        },
+        "bbox": [
+            -93.630409240723,
+            41.742095947266,
+            -93.627136230469,
+            41.745666503906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.630241,
+                        41.743263
+                    ],
+                    [
+                        -93.630409,
+                        41.743343
+                    ],
+                    [
+                        -93.628998,
+                        41.745667
+                    ],
+                    [
+                        -93.627136,
+                        41.742096
+                    ],
+                    [
+                        -93.630058,
+                        41.743267
+                    ],
+                    [
+                        -93.630241,
+                        41.743263
+                    ]
+                ]
+            ]
+        ]
+    }
+}

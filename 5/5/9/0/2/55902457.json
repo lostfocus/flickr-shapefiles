@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55902457,
+    "properties": {
+        "woe_id": 55902457,
+        "place_id": "y9rzFMOcBJX4wcsNKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Catalan, Ciudad Juarez, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446523,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55902457_20101215_5e2cc3f3b9.tar.gz"
+        },
+        "bbox": [
+            -106.46389007568,
+            31.746917724609,
+            -106.46050262451,
+            31.751251220703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.460503,
+                        31.747482
+                    ],
+                    [
+                        -106.46138,
+                        31.746918
+                    ],
+                    [
+                        -106.46138,
+                        31.747629
+                    ],
+                    [
+                        -106.46389,
+                        31.751251
+                    ],
+                    [
+                        -106.460999,
+                        31.748888
+                    ],
+                    [
+                        -106.460503,
+                        31.747482
+                    ]
+                ]
+            ]
+        ]
+    }
+}

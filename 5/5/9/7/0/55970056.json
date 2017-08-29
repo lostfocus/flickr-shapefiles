@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970056,
+    "properties": {
+        "woe_id": 55970056,
+        "place_id": "desaZCucBJWt9dS7Kg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Deane, Mission Viejo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537018,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/55970056_20101216_2fc96bc62d.tar.gz"
+        },
+        "bbox": [
+            -117.67226409912,
+            33.601413726807,
+            -117.66999816895,
+            33.603054046631
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.67028,
+                        33.602776
+                    ],
+                    [
+                        -117.670555,
+                        33.602501
+                    ],
+                    [
+                        -117.672264,
+                        33.601414
+                    ],
+                    [
+                        -117.670555,
+                        33.603054
+                    ],
+                    [
+                        -117.67028,
+                        33.603054
+                    ],
+                    [
+                        -117.669998,
+                        33.603054
+                    ],
+                    [
+                        -117.67028,
+                        33.602776
+                    ]
+                ]
+            ]
+        ]
+    }
+}

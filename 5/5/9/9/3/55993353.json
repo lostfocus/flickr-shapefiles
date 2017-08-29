@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993353,
+    "properties": {
+        "woe_id": 55993353,
+        "place_id": "nxCS4MmcBJWcSpmCoA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pin Oak Creek, Bryan, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548869,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55993353_20101217_6de253db2a.tar.gz"
+        },
+        "bbox": [
+            -96.326835632324,
+            30.633993148804,
+            -96.325248718262,
+            30.636028289795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.326836,
+                        30.635563
+                    ],
+                    [
+                        -96.326752,
+                        30.636028
+                    ],
+                    [
+                        -96.325874,
+                        30.635502
+                    ],
+                    [
+                        -96.325249,
+                        30.634127
+                    ],
+                    [
+                        -96.326019,
+                        30.633993
+                    ],
+                    [
+                        -96.326836,
+                        30.635563
+                    ]
+                ]
+            ]
+        ]
+    }
+}

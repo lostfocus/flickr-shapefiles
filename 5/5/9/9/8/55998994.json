@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55998994,
+    "properties": {
+        "woe_id": 55998994,
+        "place_id": "ZcIE5nWcBJXKY_NWZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "De La Salle Beach, Georgina, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482322,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/55998994_20101216_432439b0f6.tar.gz"
+        },
+        "bbox": [
+            -79.370895385742,
+            44.322681427002,
+            -79.367134094238,
+            44.329147338867
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.368668,
+                        44.329006
+                    ],
+                    [
+                        -79.369019,
+                        44.329147
+                    ],
+                    [
+                        -79.369011,
+                        44.327469
+                    ],
+                    [
+                        -79.369057,
+                        44.323395
+                    ],
+                    [
+                        -79.370895,
+                        44.322681
+                    ],
+                    [
+                        -79.369011,
+                        44.327469
+                    ],
+                    [
+                        -79.367134,
+                        44.328716
+                    ],
+                    [
+                        -79.368668,
+                        44.329006
+                    ]
+                ]
+            ]
+        ]
+    }
+}

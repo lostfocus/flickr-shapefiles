@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969824,
+    "properties": {
+        "woe_id": 55969824,
+        "place_id": "lCvxWvGcBJW3JwQT5g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marina Hills, Laguna Niguel, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510224,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55969824_20101216_4903d3fb0e.tar.gz"
+        },
+        "bbox": [
+            -117.68709564209,
+            33.515556335449,
+            -117.68614196777,
+            33.516998291016
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.687019,
+                        33.516998
+                    ],
+                    [
+                        -117.686958,
+                        33.516815
+                    ],
+                    [
+                        -117.686142,
+                        33.515556
+                    ],
+                    [
+                        -117.687096,
+                        33.516434
+                    ],
+                    [
+                        -117.687088,
+                        33.51688
+                    ],
+                    [
+                        -117.687019,
+                        33.516998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

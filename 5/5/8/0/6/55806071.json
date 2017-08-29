@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55806071,
+    "properties": {
+        "woe_id": 55806071,
+        "place_id": "mIEQ.3ecBJQ77lkOJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greenbriar, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503561,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55806071_20101216_f3479f884c.tar.gz"
+        },
+        "bbox": [
+            -84.492469787598,
+            33.689018249512,
+            -84.49080657959,
+            33.693172454834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.49247,
+                        33.693172
+                    ],
+                    [
+                        -84.491417,
+                        33.692928
+                    ],
+                    [
+                        -84.490807,
+                        33.689018
+                    ],
+                    [
+                        -84.492439,
+                        33.692799
+                    ],
+                    [
+                        -84.49247,
+                        33.693172
+                    ]
+                ]
+            ]
+        ]
+    }
+}

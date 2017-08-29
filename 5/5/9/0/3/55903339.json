@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55903339,
+    "properties": {
+        "woe_id": 55903339,
+        "place_id": "DjrOk6ecBJWvCPZrJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centro Ote, Texcoco, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529583,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55903339_20101216_194d3d3147.tar.gz"
+        },
+        "bbox": [
+            -98.884262084961,
+            19.513500213623,
+            -98.882400512695,
+            19.514678955078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.883804,
+                        19.514679
+                    ],
+                    [
+                        -98.883102,
+                        19.514627
+                    ],
+                    [
+                        -98.882401,
+                        19.514563
+                    ],
+                    [
+                        -98.883499,
+                        19.5135
+                    ],
+                    [
+                        -98.884262,
+                        19.514137
+                    ],
+                    [
+                        -98.883804,
+                        19.514679
+                    ]
+                ]
+            ]
+        ]
+    }
+}

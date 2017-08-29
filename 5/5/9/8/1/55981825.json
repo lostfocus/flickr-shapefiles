@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55981825,
+    "properties": {
+        "woe_id": 55981825,
+        "place_id": "ggy1q2.cBJU71TTsuQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "US 19 Berkeley Manor, Spring Hill, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292399763,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55981825_20101215_c348645c5c.tar.gz"
+        },
+        "bbox": [
+            -82.594497680664,
+            28.49683380127,
+            -82.592330932617,
+            28.499332427979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.593964,
+                        28.498112
+                    ],
+                    [
+                        -82.593903,
+                        28.498199
+                    ],
+                    [
+                        -82.592331,
+                        28.499332
+                    ],
+                    [
+                        -82.593925,
+                        28.498158
+                    ],
+                    [
+                        -82.594498,
+                        28.496834
+                    ],
+                    [
+                        -82.593964,
+                        28.498112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

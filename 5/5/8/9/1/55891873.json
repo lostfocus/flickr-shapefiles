@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55891873,
+    "properties": {
+        "woe_id": 55891873,
+        "place_id": "am3S2IqcBJTEPDCJTQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allende, San Miguel de Allende, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523799,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55891873_20101216_f1814b4664.tar.gz"
+        },
+        "bbox": [
+            -100.74891662598,
+            20.897945404053,
+            -100.74462890625,
+            20.902275085449
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.748917,
+                        20.89963
+                    ],
+                    [
+                        -100.748917,
+                        20.901314
+                    ],
+                    [
+                        -100.748749,
+                        20.902275
+                    ],
+                    [
+                        -100.744629,
+                        20.898989
+                    ],
+                    [
+                        -100.746513,
+                        20.897945
+                    ],
+                    [
+                        -100.748917,
+                        20.89963
+                    ]
+                ]
+            ]
+        ]
+    }
+}

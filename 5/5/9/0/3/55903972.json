@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55903972,
+    "properties": {
+        "woe_id": 55903972,
+        "place_id": "31x_aeucBJXAo18VhQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Francisco Tetecala, Azcapotzalco, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455378,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55903972_20101215_d87a16f13e.tar.gz"
+        },
+        "bbox": [
+            -99.191482543945,
+            19.478471755981,
+            -99.186988830566,
+            19.479579925537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.189293,
+                        19.47958
+                    ],
+                    [
+                        -99.186989,
+                        19.478472
+                    ],
+                    [
+                        -99.190071,
+                        19.478573
+                    ],
+                    [
+                        -99.191483,
+                        19.478487
+                    ],
+                    [
+                        -99.190247,
+                        19.479038
+                    ],
+                    [
+                        -99.189293,
+                        19.47958
+                    ]
+                ]
+            ]
+        ]
+    }
+}

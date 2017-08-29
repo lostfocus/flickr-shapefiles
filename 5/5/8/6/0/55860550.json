@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55860550,
+    "properties": {
+        "woe_id": 55860550,
+        "place_id": "RB0yP6qcBJQfphp2Eg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Warwick Landing, Newport News, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540875,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55860550_20101216_a27ef537fe.tar.gz"
+        },
+        "bbox": [
+            -76.55933380127,
+            37.155178070068,
+            -76.555686950684,
+            37.160911560059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.559052,
+                        37.159519
+                    ],
+                    [
+                        -76.558952,
+                        37.160912
+                    ],
+                    [
+                        -76.556564,
+                        37.160786
+                    ],
+                    [
+                        -76.556442,
+                        37.158829
+                    ],
+                    [
+                        -76.556168,
+                        37.158241
+                    ],
+                    [
+                        -76.555687,
+                        37.156693
+                    ],
+                    [
+                        -76.555908,
+                        37.155178
+                    ],
+                    [
+                        -76.55603,
+                        37.155197
+                    ],
+                    [
+                        -76.559334,
+                        37.155449
+                    ],
+                    [
+                        -76.559052,
+                        37.159519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

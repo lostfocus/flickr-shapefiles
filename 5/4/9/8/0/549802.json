@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 549802,
+    "properties": {
+        "woe_id": 549802,
+        "place_id": "O9pmwgecBZX9XVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Martin, Strassgang, STM, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479742,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/549802_20101216_3ab0edc84e.tar.gz"
+        },
+        "bbox": [
+            15.414321899414,
+            47.033027648926,
+            15.417852401733,
+            47.039039611816
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.415841,
+                        47.033409
+                    ],
+                    [
+                        15.414322,
+                        47.036133
+                    ],
+                    [
+                        15.415985,
+                        47.03904
+                    ],
+                    [
+                        15.416978,
+                        47.035404
+                    ],
+                    [
+                        15.417852,
+                        47.034332
+                    ],
+                    [
+                        15.417497,
+                        47.033737
+                    ],
+                    [
+                        15.416983,
+                        47.033028
+                    ],
+                    [
+                        15.415841,
+                        47.033409
+                    ]
+                ]
+            ]
+        ]
+    }
+}

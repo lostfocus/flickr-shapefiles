@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55862278,
+    "properties": {
+        "woe_id": 55862278,
+        "place_id": "2k9O84GcBJSR42H_wg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Potwin, Topeka, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531873,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55862278_20101216_352a6e21c7.tar.gz"
+        },
+        "bbox": [
+            -95.695724487305,
+            39.056518554688,
+            -95.691581726074,
+            39.060321807861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.691582,
+                        39.059799
+                    ],
+                    [
+                        -95.692894,
+                        39.057949
+                    ],
+                    [
+                        -95.695724,
+                        39.056519
+                    ],
+                    [
+                        -95.695313,
+                        39.058983
+                    ],
+                    [
+                        -95.693138,
+                        39.060322
+                    ],
+                    [
+                        -95.691582,
+                        39.059799
+                    ]
+                ]
+            ]
+        ]
+    }
+}

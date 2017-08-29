@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987289,
+    "properties": {
+        "woe_id": 55987289,
+        "place_id": "YmmpenicBJXrTYGpiQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Durstons Second, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438003,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55987289_20101215_af8be62a17.tar.gz"
+        },
+        "bbox": [
+            -111.04817199707,
+            45.6875,
+            -111.04555511475,
+            45.689483642578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.045555,
+                        45.688675
+                    ],
+                    [
+                        -111.046326,
+                        45.687611
+                    ],
+                    [
+                        -111.046501,
+                        45.6875
+                    ],
+                    [
+                        -111.048172,
+                        45.689484
+                    ],
+                    [
+                        -111.046158,
+                        45.688854
+                    ],
+                    [
+                        -111.045555,
+                        45.688675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

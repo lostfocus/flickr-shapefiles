@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55883171,
+    "properties": {
+        "woe_id": 55883171,
+        "place_id": "IppEKDacBJQr01YqXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valle Verde, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455371,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55883171_20101215_1f836303a7.tar.gz"
+        },
+        "bbox": [
+            -116.86586761475,
+            32.518611907959,
+            -116.86515808105,
+            32.519172668457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.865158,
+                        32.518929
+                    ],
+                    [
+                        -116.86528,
+                        32.518612
+                    ],
+                    [
+                        -116.865868,
+                        32.518852
+                    ],
+                    [
+                        -116.865517,
+                        32.519173
+                    ],
+                    [
+                        -116.865158,
+                        32.518929
+                    ]
+                ]
+            ]
+        ]
+    }
+}

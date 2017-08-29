@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858328,
+    "properties": {
+        "woe_id": 55858328,
+        "place_id": "RGoZA0CcBJTrAwlgyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park Plaza Commons, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292396283,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55858328_20101215_fbedba9199.tar.gz"
+        },
+        "bbox": [
+            -105.09490203857,
+            39.924842834473,
+            -105.09113311768,
+            39.926002502441
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.094559,
+                        39.925072
+                    ],
+                    [
+                        -105.094902,
+                        39.925652
+                    ],
+                    [
+                        -105.094482,
+                        39.9259
+                    ],
+                    [
+                        -105.091133,
+                        39.926003
+                    ],
+                    [
+                        -105.091911,
+                        39.924843
+                    ],
+                    [
+                        -105.094559,
+                        39.925072
+                    ]
+                ]
+            ]
+        ]
+    }
+}

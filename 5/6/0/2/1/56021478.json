@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56021478,
+    "properties": {
+        "woe_id": 56021478,
+        "place_id": "jPB43QecB5xGOO0htw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southtown Heights, Mitchellville, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473746,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/56021478_20101216_950ded34a8.tar.gz"
+        },
+        "bbox": [
+            -93.359848022461,
+            41.666759490967,
+            -93.357002258301,
+            41.673057556152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.357391,
+                        41.668541
+                    ],
+                    [
+                        -93.357002,
+                        41.666801
+                    ],
+                    [
+                        -93.357986,
+                        41.666759
+                    ],
+                    [
+                        -93.359848,
+                        41.671299
+                    ],
+                    [
+                        -93.358986,
+                        41.672848
+                    ],
+                    [
+                        -93.358551,
+                        41.673058
+                    ],
+                    [
+                        -93.357391,
+                        41.668541
+                    ]
+                ]
+            ]
+        ]
+    }
+}

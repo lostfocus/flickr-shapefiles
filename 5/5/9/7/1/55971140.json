@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971140,
+    "properties": {
+        "woe_id": 55971140,
+        "place_id": "kWNIwpucBJVuiywB.g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Florence Court, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520455,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/55971140_20101216_e872f87408.tar.gz"
+        },
+        "bbox": [
+            -121.82366943359,
+            37.365165710449,
+            -121.82316589355,
+            37.365501403809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.823669,
+                        37.365166
+                    ],
+                    [
+                        -121.823669,
+                        37.365334
+                    ],
+                    [
+                        -121.823502,
+                        37.365501
+                    ],
+                    [
+                        -121.823166,
+                        37.365334
+                    ],
+                    [
+                        -121.823502,
+                        37.365166
+                    ],
+                    [
+                        -121.823669,
+                        37.365166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

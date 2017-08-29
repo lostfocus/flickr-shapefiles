@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55862058,
+    "properties": {
+        "woe_id": 55862058,
+        "place_id": "2PcqHqOcBJTEeIjTjg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Washington Square, Syracuse, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458245,
+        "alpha": 1.0e-5,
+        "points": 34,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55862058_20101216_53559c241d.tar.gz"
+        },
+        "bbox": [
+            -76.166130065918,
+            43.076648712158,
+            -76.158683776855,
+            43.079708099365
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.165565,
+                        43.079708
+                    ],
+                    [
+                        -76.163704,
+                        43.078831
+                    ],
+                    [
+                        -76.158684,
+                        43.077789
+                    ],
+                    [
+                        -76.164063,
+                        43.078079
+                    ],
+                    [
+                        -76.165077,
+                        43.076649
+                    ],
+                    [
+                        -76.16613,
+                        43.07914
+                    ],
+                    [
+                        -76.166,
+                        43.079498
+                    ],
+                    [
+                        -76.165565,
+                        43.079708
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55904203,
+    "properties": {
+        "woe_id": 55904203,
+        "place_id": "9wMzar.cBJUrf.gtOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Del sur, Guadalajara, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446521,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55904203_20101215_ec03f6ae9a.tar.gz"
+        },
+        "bbox": [
+            -103.36952209473,
+            20.646598815918,
+            -103.36569213867,
+            20.652778625488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.365692,
+                        20.646976
+                    ],
+                    [
+                        -103.365723,
+                        20.646599
+                    ],
+                    [
+                        -103.369522,
+                        20.647242
+                    ],
+                    [
+                        -103.368912,
+                        20.648214
+                    ],
+                    [
+                        -103.366859,
+                        20.652779
+                    ],
+                    [
+                        -103.365692,
+                        20.646976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

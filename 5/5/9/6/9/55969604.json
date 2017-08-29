@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969604,
+    "properties": {
+        "woe_id": 55969604,
+        "place_id": "g.bfMf2cBJUdYheYdg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Central Waterfront, Hercules, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518037,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/55969604_20101216_32b3e5cb5e.tar.gz"
+        },
+        "bbox": [
+            -122.29182434082,
+            38.016044616699,
+            -122.2868347168,
+            38.018333435059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.291824,
+                        38.016045
+                    ],
+                    [
+                        -122.290833,
+                        38.017502
+                    ],
+                    [
+                        -122.287498,
+                        38.018333
+                    ],
+                    [
+                        -122.286835,
+                        38.016167
+                    ],
+                    [
+                        -122.289726,
+                        38.016388
+                    ],
+                    [
+                        -122.291824,
+                        38.016045
+                    ]
+                ]
+            ]
+        ]
+    }
+}

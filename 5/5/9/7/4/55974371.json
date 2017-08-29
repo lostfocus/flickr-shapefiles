@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974371,
+    "properties": {
+        "woe_id": 55974371,
+        "place_id": "pWeVMrucBJX__L_G7w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "First Financial Center, Steamboat Springs, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535578,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55974371_20101216_4e9d030b04.tar.gz"
+        },
+        "bbox": [
+            -106.82350158691,
+            40.457927703857,
+            -106.81674194336,
+            40.459869384766
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.823395,
+                        40.458515
+                    ],
+                    [
+                        -106.823502,
+                        40.458668
+                    ],
+                    [
+                        -106.820045,
+                        40.459869
+                    ],
+                    [
+                        -106.816742,
+                        40.457928
+                    ],
+                    [
+                        -106.820068,
+                        40.458279
+                    ],
+                    [
+                        -106.823395,
+                        40.458515
+                    ]
+                ]
+            ]
+        ]
+    }
+}

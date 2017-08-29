@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55892491,
+    "properties": {
+        "woe_id": 55892491,
+        "place_id": "EPMCJjacBJSB0SQO5Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alfa Panamericano, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520458,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55892491_20101216_6a55cf4f7e.tar.gz"
+        },
+        "bbox": [
+            -117.00553894043,
+            32.462684631348,
+            -117.00514221191,
+            32.466457366943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.005539,
+                        32.462879
+                    ],
+                    [
+                        -117.005524,
+                        32.463112
+                    ],
+                    [
+                        -117.005142,
+                        32.466457
+                    ],
+                    [
+                        -117.005318,
+                        32.463161
+                    ],
+                    [
+                        -117.005234,
+                        32.462837
+                    ],
+                    [
+                        -117.005478,
+                        32.462685
+                    ],
+                    [
+                        -117.005539,
+                        32.462879
+                    ]
+                ]
+            ]
+        ]
+    }
+}

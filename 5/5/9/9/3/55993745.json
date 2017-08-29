@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55993745,
+    "properties": {
+        "woe_id": 55993745,
+        "place_id": "FSFz5tacBJWL1Ps.jA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meadowlands, Flower Mound, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541347,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55993745_20101216_ca0e5b63ca.tar.gz"
+        },
+        "bbox": [
+            -97.082748413086,
+            33.040985107422,
+            -97.081771850586,
+            33.045291900635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.082024,
+                        33.041309
+                    ],
+                    [
+                        -97.082748,
+                        33.045292
+                    ],
+                    [
+                        -97.081856,
+                        33.041435
+                    ],
+                    [
+                        -97.081848,
+                        33.041401
+                    ],
+                    [
+                        -97.081818,
+                        33.041225
+                    ],
+                    [
+                        -97.081772,
+                        33.040985
+                    ],
+                    [
+                        -97.082024,
+                        33.041309
+                    ]
+                ]
+            ]
+        ]
+    }
+}

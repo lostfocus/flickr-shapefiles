@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56019379,
+    "properties": {
+        "woe_id": 56019379,
+        "place_id": "vniH22KcB5xYwMcbeg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bear Creek District, Stockton, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541350,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/56019379_20101216_cb2e6b5a8f.tar.gz"
+        },
+        "bbox": [
+            -121.35746765137,
+            38.043224334717,
+            -121.35522460938,
+            38.046798706055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.355225,
+                        38.045658
+                    ],
+                    [
+                        -121.355278,
+                        38.045525
+                    ],
+                    [
+                        -121.357468,
+                        38.043224
+                    ],
+                    [
+                        -121.356133,
+                        38.046799
+                    ],
+                    [
+                        -121.355331,
+                        38.046326
+                    ],
+                    [
+                        -121.355225,
+                        38.045658
+                    ]
+                ]
+            ]
+        ]
+    }
+}

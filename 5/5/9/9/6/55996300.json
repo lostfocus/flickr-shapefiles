@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996300,
+    "properties": {
+        "woe_id": 55996300,
+        "place_id": "fnpznbicBJXjLlTtLg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lauridsen, Port Angeles, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529623,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55996300_20101216_e3c872b436.tar.gz"
+        },
+        "bbox": [
+            -123.44964599609,
+            48.106372833252,
+            -123.44538879395,
+            48.106834411621
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.449631,
+                        48.106831
+                    ],
+                    [
+                        -123.4496,
+                        48.106834
+                    ],
+                    [
+                        -123.445389,
+                        48.106373
+                    ],
+                    [
+                        -123.449585,
+                        48.106789
+                    ],
+                    [
+                        -123.449646,
+                        48.106819
+                    ],
+                    [
+                        -123.449631,
+                        48.106831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

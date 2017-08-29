@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55914880,
+    "properties": {
+        "woe_id": 55914880,
+        "place_id": "m3iAQiCcBJVlffjbWg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio Chepinque, Cedral, SL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458027,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55914880_20101216_2766f6d442.tar.gz"
+        },
+        "bbox": [
+            -101.11326599121,
+            23.126197814941,
+            -101.11172485352,
+            23.128154754639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.111725,
+                        23.128155
+                    ],
+                    [
+                        -101.11274,
+                        23.126596
+                    ],
+                    [
+                        -101.113266,
+                        23.126198
+                    ],
+                    [
+                        -101.112625,
+                        23.127178
+                    ],
+                    [
+                        -101.112389,
+                        23.127913
+                    ],
+                    [
+                        -101.111725,
+                        23.128155
+                    ]
+                ]
+            ]
+        ]
+    }
+}

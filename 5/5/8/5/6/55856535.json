@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856535,
+    "properties": {
+        "woe_id": 55856535,
+        "place_id": "3THJw0KcBJTDNJrQVQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "McIntyre, Thunder Bay, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520391,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55856535_20101216_c15699a7d4.tar.gz"
+        },
+        "bbox": [
+            -89.28783416748,
+            48.418167114258,
+            -89.287498474121,
+            48.41833114624
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.287666,
+                        48.418167
+                    ],
+                    [
+                        -89.287834,
+                        48.418167
+                    ],
+                    [
+                        -89.287834,
+                        48.418331
+                    ],
+                    [
+                        -89.287666,
+                        48.418331
+                    ],
+                    [
+                        -89.287498,
+                        48.418331
+                    ],
+                    [
+                        -89.287666,
+                        48.418167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

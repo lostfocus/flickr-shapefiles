@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55858389,
+    "properties": {
+        "woe_id": 55858389,
+        "place_id": "ZtLnTgacBJTZo9.yxQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arizona Reflections, Chandler, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547205,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55858389_20101217_e872cba2b1.tar.gz"
+        },
+        "bbox": [
+            -111.84194946289,
+            33.287498474121,
+            -111.83794403076,
+            33.292152404785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.838837,
+                        33.289665
+                    ],
+                    [
+                        -111.838837,
+                        33.289165
+                    ],
+                    [
+                        -111.838669,
+                        33.287498
+                    ],
+                    [
+                        -111.840477,
+                        33.290592
+                    ],
+                    [
+                        -111.841949,
+                        33.291264
+                    ],
+                    [
+                        -111.837944,
+                        33.292152
+                    ],
+                    [
+                        -111.838837,
+                        33.289665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55983555,
+    "properties": {
+        "woe_id": 55983555,
+        "place_id": "zCxmBhScBJWgTbjytA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Ridge at Lake Tarpon Village I, Tarpon Springs, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548113,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55983555_20101217_bb7aafeae6.tar.gz"
+        },
+        "bbox": [
+            -82.700332641602,
+            28.126209259033,
+            -82.694778442383,
+            28.128992080688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.694778,
+                        28.128311
+                    ],
+                    [
+                        -82.694778,
+                        28.127628
+                    ],
+                    [
+                        -82.700333,
+                        28.126209
+                    ],
+                    [
+                        -82.695122,
+                        28.128386
+                    ],
+                    [
+                        -82.695122,
+                        28.128992
+                    ],
+                    [
+                        -82.694778,
+                        28.128311
+                    ]
+                ]
+            ]
+        ]
+    }
+}

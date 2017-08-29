@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55972056,
+    "properties": {
+        "woe_id": 55972056,
+        "place_id": "PFbU_qucBJUrA7lt0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northridge, Arvada, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550846,
+        "alpha": 1.0e-5,
+        "points": 48,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55972056_20101217_40a2d20291.tar.gz"
+        },
+        "bbox": [
+            -105.05043792725,
+            39.816619873047,
+            -105.05001068115,
+            39.817306518555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.050323,
+                        39.817307
+                    ],
+                    [
+                        -105.050011,
+                        39.817284
+                    ],
+                    [
+                        -105.050186,
+                        39.81662
+                    ],
+                    [
+                        -105.050407,
+                        39.816929
+                    ],
+                    [
+                        -105.050438,
+                        39.817188
+                    ],
+                    [
+                        -105.050323,
+                        39.817307
+                    ]
+                ]
+            ]
+        ]
+    }
+}

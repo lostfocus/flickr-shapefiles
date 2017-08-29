@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55870753,
+    "properties": {
+        "woe_id": 55870753,
+        "place_id": "RbyLhwycBJR05gIlIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kirazlitepe, Umraniye, Istanbul, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538335,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/55870753_20101216_f68c2b7756.tar.gz"
+        },
+        "bbox": [
+            29.064931869507,
+            41.032783508301,
+            29.068965911865,
+            41.037994384766
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.066648,
+                        41.033722
+                    ],
+                    [
+                        29.064932,
+                        41.037994
+                    ],
+                    [
+                        29.067764,
+                        41.035599
+                    ],
+                    [
+                        29.068966,
+                        41.0345
+                    ],
+                    [
+                        29.067549,
+                        41.032784
+                    ],
+                    [
+                        29.066648,
+                        41.033722
+                    ]
+                ]
+            ]
+        ]
+    }
+}

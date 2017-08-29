@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 56022001,
+    "properties": {
+        "woe_id": 56022001,
+        "place_id": "AVLHhiKcB5zh2xJpDg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "9 Mile-Greenfield, Oak Park, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547786,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/56022001_20101217_60477bdf80.tar.gz"
+        },
+        "bbox": [
+            -83.205665588379,
+            42.451484680176,
+            -83.205497741699,
+            42.458332061768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.205498,
+                        42.457832
+                    ],
+                    [
+                        -83.205498,
+                        42.4575
+                    ],
+                    [
+                        -83.205513,
+                        42.451485
+                    ],
+                    [
+                        -83.205666,
+                        42.4575
+                    ],
+                    [
+                        -83.205666,
+                        42.458332
+                    ],
+                    [
+                        -83.205498,
+                        42.458332
+                    ],
+                    [
+                        -83.205498,
+                        42.458
+                    ],
+                    [
+                        -83.205498,
+                        42.457832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

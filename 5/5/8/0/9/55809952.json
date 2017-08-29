@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55809952,
+    "properties": {
+        "woe_id": 55809952,
+        "place_id": "YPuH0YucBJRl5_lFqg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nigorikawa 1 Chome, Niigata-shi, Niigata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520424,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55809952_20101216_c20fb03557.tar.gz"
+        },
+        "bbox": [
+            139.14651489258,
+            37.931983947754,
+            139.1509552002,
+            37.933975219727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.150558,
+                        37.932613
+                    ],
+                    [
+                        139.150879,
+                        37.932495
+                    ],
+                    [
+                        139.150955,
+                        37.931984
+                    ],
+                    [
+                        139.15065,
+                        37.932243
+                    ],
+                    [
+                        139.146515,
+                        37.933975
+                    ],
+                    [
+                        139.150558,
+                        37.932613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

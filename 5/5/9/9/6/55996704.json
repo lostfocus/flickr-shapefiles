@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996704,
+    "properties": {
+        "woe_id": 55996704,
+        "place_id": "FSDbQz.cBJXeTKdnZQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crestwood, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450161,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55996704_20101215_18d113c6d5.tar.gz"
+        },
+        "bbox": [
+            -122.5565032959,
+            45.621509552002,
+            -122.55332946777,
+            45.622005462646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.556503,
+                        45.621666
+                    ],
+                    [
+                        -122.556,
+                        45.621834
+                    ],
+                    [
+                        -122.55471,
+                        45.622005
+                    ],
+                    [
+                        -122.553329,
+                        45.62151
+                    ],
+                    [
+                        -122.555496,
+                        45.621666
+                    ],
+                    [
+                        -122.556503,
+                        45.621666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

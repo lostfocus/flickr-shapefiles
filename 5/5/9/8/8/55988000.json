@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55988000,
+    "properties": {
+        "woe_id": 55988000,
+        "place_id": "ORMYDvScBJWiSKvU0Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Iron Gate, Cary, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529692,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/55988000_20101216_0988de818a.tar.gz"
+        },
+        "bbox": [
+            -78.766578674316,
+            35.786911010742,
+            -78.763534545898,
+            35.788795471191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.764275,
+                        35.788795
+                    ],
+                    [
+                        -78.763535,
+                        35.786911
+                    ],
+                    [
+                        -78.764816,
+                        35.787109
+                    ],
+                    [
+                        -78.766579,
+                        35.787209
+                    ],
+                    [
+                        -78.764275,
+                        35.788795
+                    ]
+                ]
+            ]
+        ]
+    }
+}

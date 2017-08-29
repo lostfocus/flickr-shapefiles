@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55856155,
+    "properties": {
+        "woe_id": 55856155,
+        "place_id": "Gmk04wicBJSEoKIGMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yeoville, Hamilton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551666,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55856155_20101217_118be8c180.tar.gz"
+        },
+        "bbox": [
+            -79.889656066895,
+            43.220283508301,
+            -79.884414672852,
+            43.226169586182
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.884666,
+                        43.221069
+                    ],
+                    [
+                        -79.886002,
+                        43.220284
+                    ],
+                    [
+                        -79.889656,
+                        43.220314
+                    ],
+                    [
+                        -79.887512,
+                        43.224472
+                    ],
+                    [
+                        -79.886856,
+                        43.22617
+                    ],
+                    [
+                        -79.884415,
+                        43.223522
+                    ],
+                    [
+                        -79.884666,
+                        43.221069
+                    ]
+                ]
+            ]
+        ]
+    }
+}

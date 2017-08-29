@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985700,
+    "properties": {
+        "woe_id": 55985700,
+        "place_id": "rw1XXIicBJW_HA37NA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wahiawa Ahupua`a, Kalaheo, HI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464807,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55985700_20101216_60e02cd76d.tar.gz"
+        },
+        "bbox": [
+            -159.52861022949,
+            21.987455368042,
+            -159.52116394043,
+            21.991926193237
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -159.52861,
+                        21.991388
+                    ],
+                    [
+                        -159.525513,
+                        21.991926
+                    ],
+                    [
+                        -159.521164,
+                        21.991165
+                    ],
+                    [
+                        -159.525772,
+                        21.988258
+                    ],
+                    [
+                        -159.528473,
+                        21.987455
+                    ],
+                    [
+                        -159.52861,
+                        21.991388
+                    ]
+                ]
+            ]
+        ]
+    }
+}

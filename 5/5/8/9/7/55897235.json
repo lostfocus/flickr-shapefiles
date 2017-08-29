@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55897235,
+    "properties": {
+        "woe_id": 55897235,
+        "place_id": "vpWISNOcBJS0.wmVNA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centro, San Juan de los Lagos, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526900,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55897235_20101216_fcb656dd92.tar.gz"
+        },
+        "bbox": [
+            -102.33497619629,
+            21.243242263794,
+            -102.33043670654,
+            21.250301361084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.334976,
+                        21.24507
+                    ],
+                    [
+                        -102.334526,
+                        21.246017
+                    ],
+                    [
+                        -102.330437,
+                        21.250301
+                    ],
+                    [
+                        -102.331215,
+                        21.245157
+                    ],
+                    [
+                        -102.331512,
+                        21.243492
+                    ],
+                    [
+                        -102.333527,
+                        21.243242
+                    ],
+                    [
+                        -102.334976,
+                        21.24507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

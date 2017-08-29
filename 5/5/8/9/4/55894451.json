@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55894451,
+    "properties": {
+        "woe_id": 55894451,
+        "place_id": "hzW4Z3CcBJSr8aBsCA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Granja, Queretaro, QT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442664,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55894451_20101215_d260b0ebdd.tar.gz"
+        },
+        "bbox": [
+            -100.40836334229,
+            20.571447372437,
+            -100.40685272217,
+            20.573505401611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.408272,
+                        20.571934
+                    ],
+                    [
+                        -100.408363,
+                        20.572138
+                    ],
+                    [
+                        -100.406853,
+                        20.573505
+                    ],
+                    [
+                        -100.406898,
+                        20.573318
+                    ],
+                    [
+                        -100.407005,
+                        20.571447
+                    ],
+                    [
+                        -100.408272,
+                        20.571934
+                    ]
+                ]
+            ]
+        ]
+    }
+}

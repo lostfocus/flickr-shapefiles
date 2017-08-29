@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861960,
+    "properties": {
+        "woe_id": 55861960,
+        "place_id": "WyCzVACcBJTtHvLjyA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Whitman, Spokane, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548948,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55861960_20101217_acfe1d1199.tar.gz"
+        },
+        "bbox": [
+            -117.38995361328,
+            47.700286865234,
+            -117.38556671143,
+            47.7014503479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.38575,
+                        47.700825
+                    ],
+                    [
+                        -117.385567,
+                        47.700874
+                    ],
+                    [
+                        -117.385567,
+                        47.700752
+                    ],
+                    [
+                        -117.386169,
+                        47.700287
+                    ],
+                    [
+                        -117.389954,
+                        47.70145
+                    ],
+                    [
+                        -117.38575,
+                        47.700825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

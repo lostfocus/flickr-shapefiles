@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55975671,
+    "properties": {
+        "woe_id": 55975671,
+        "place_id": "OYTo6.WcBJWfbuagew",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkview Courts, Brooksville, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520515,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55975671_20101216_beb648f10a.tar.gz"
+        },
+        "bbox": [
+            -82.386184692383,
+            28.557178497314,
+            -82.385063171387,
+            28.558338165283
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.386185,
+                        28.557178
+                    ],
+                    [
+                        -82.386185,
+                        28.55831
+                    ],
+                    [
+                        -82.386002,
+                        28.558315
+                    ],
+                    [
+                        -82.385452,
+                        28.558329
+                    ],
+                    [
+                        -82.385063,
+                        28.558338
+                    ],
+                    [
+                        -82.386185,
+                        28.557178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

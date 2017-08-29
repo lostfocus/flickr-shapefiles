@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 56022117,
+    "properties": {
+        "woe_id": 56022117,
+        "place_id": "bNHPOSacB5z02Vrupg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Trenton, Trenton, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549142,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/56022117_20101217_b4f7c08624.tar.gz"
+        },
+        "bbox": [
+            -83.182250976562,
+            42.131542205811,
+            -83.176094055176,
+            42.137630462646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.178055,
+                        42.131542
+                    ],
+                    [
+                        -83.178688,
+                        42.13184
+                    ],
+                    [
+                        -83.180321,
+                        42.132538
+                    ],
+                    [
+                        -83.181953,
+                        42.13343
+                    ],
+                    [
+                        -83.182076,
+                        42.133694
+                    ],
+                    [
+                        -83.182251,
+                        42.134544
+                    ],
+                    [
+                        -83.179718,
+                        42.13763
+                    ],
+                    [
+                        -83.176376,
+                        42.134998
+                    ],
+                    [
+                        -83.176094,
+                        42.131687
+                    ],
+                    [
+                        -83.178055,
+                        42.131542
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55976255,
+    "properties": {
+        "woe_id": 55976255,
+        "place_id": "aG5Rk.icBJUsQb9qSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Jovita, Dade City, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539766,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55976255_20101216_54918a2136.tar.gz"
+        },
+        "bbox": [
+            -82.260215759277,
+            28.335718154907,
+            -82.256996154785,
+            28.340297698975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.259987,
+                        28.337444
+                    ],
+                    [
+                        -82.257988,
+                        28.340298
+                    ],
+                    [
+                        -82.256996,
+                        28.335718
+                    ],
+                    [
+                        -82.259689,
+                        28.336418
+                    ],
+                    [
+                        -82.260216,
+                        28.337055
+                    ],
+                    [
+                        -82.259987,
+                        28.337444
+                    ]
+                ]
+            ]
+        ]
+    }
+}

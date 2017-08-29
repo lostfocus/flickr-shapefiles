@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999606,
+    "properties": {
+        "woe_id": 55999606,
+        "place_id": "8508IhacBJVCxfpmsA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uplands, Thornhill, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519449,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55999606_20101216_11486973ca.tar.gz"
+        },
+        "bbox": [
+            -79.441009521484,
+            43.822940826416,
+            -79.43701171875,
+            43.825523376465
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.440338,
+                        43.824989
+                    ],
+                    [
+                        -79.439598,
+                        43.82534
+                    ],
+                    [
+                        -79.439339,
+                        43.825523
+                    ],
+                    [
+                        -79.437012,
+                        43.822941
+                    ],
+                    [
+                        -79.44101,
+                        43.824329
+                    ],
+                    [
+                        -79.440338,
+                        43.824989
+                    ]
+                ]
+            ]
+        ]
+    }
+}

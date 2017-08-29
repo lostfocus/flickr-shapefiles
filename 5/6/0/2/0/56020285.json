@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020285,
+    "properties": {
+        "woe_id": 56020285,
+        "place_id": "4.Oi0LKcB5x5fTf2Ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holly Mill, Canton, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490609,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/56020285_20101216_6d5ea28f94.tar.gz"
+        },
+        "bbox": [
+            -84.527206420898,
+            34.175594329834,
+            -84.522109985352,
+            34.178615570068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.526215,
+                        34.176186
+                    ],
+                    [
+                        -84.527206,
+                        34.178616
+                    ],
+                    [
+                        -84.525314,
+                        34.17701
+                    ],
+                    [
+                        -84.522331,
+                        34.175999
+                    ],
+                    [
+                        -84.52211,
+                        34.175594
+                    ],
+                    [
+                        -84.526215,
+                        34.176186
+                    ]
+                ]
+            ]
+        ]
+    }
+}

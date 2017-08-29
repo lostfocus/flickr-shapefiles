@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021809,
+    "properties": {
+        "woe_id": 56021809,
+        "place_id": "lSj.z8CcB5z9QLTUPg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southfield, Birmingham, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529612,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/56021809_20101216_03f35fa67d.tar.gz"
+        },
+        "bbox": [
+            -83.22599029541,
+            42.537246704102,
+            -83.225212097168,
+            42.537662506104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.225868,
+                        42.537663
+                    ],
+                    [
+                        -83.225212,
+                        42.537643
+                    ],
+                    [
+                        -83.22538,
+                        42.53743
+                    ],
+                    [
+                        -83.225883,
+                        42.537247
+                    ],
+                    [
+                        -83.22599,
+                        42.537651
+                    ],
+                    [
+                        -83.225868,
+                        42.537663
+                    ]
+                ]
+            ]
+        ]
+    }
+}

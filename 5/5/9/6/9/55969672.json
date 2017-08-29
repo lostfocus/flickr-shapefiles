@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969672,
+    "properties": {
+        "woe_id": 55969672,
+        "place_id": "2st4f5.cBJWBa.Tf1A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Inglewood, Inglewood, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530327,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55969672_20101216_8998c46c86.tar.gz"
+        },
+        "bbox": [
+            -118.3625793457,
+            33.944332122803,
+            -118.35633087158,
+            33.9460105896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.359123,
+                        33.946011
+                    ],
+                    [
+                        -118.358032,
+                        33.945957
+                    ],
+                    [
+                        -118.356331,
+                        33.945499
+                    ],
+                    [
+                        -118.358833,
+                        33.944332
+                    ],
+                    [
+                        -118.362579,
+                        33.94521
+                    ],
+                    [
+                        -118.359123,
+                        33.946011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

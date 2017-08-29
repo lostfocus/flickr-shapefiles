@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022003,
+    "properties": {
+        "woe_id": 56022003,
+        "place_id": "f5Y3j_WcB5yEBNXvoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Etkin, Oak Park, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464573,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/56022003_20101216_cafb3876d5.tar.gz"
+        },
+        "bbox": [
+            -83.190620422363,
+            42.464706420898,
+            -83.18643951416,
+            42.468765258789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.18644,
+                        42.464706
+                    ],
+                    [
+                        -83.188332,
+                        42.46611
+                    ],
+                    [
+                        -83.19062,
+                        42.468765
+                    ],
+                    [
+                        -83.188858,
+                        42.468555
+                    ],
+                    [
+                        -83.187958,
+                        42.467133
+                    ],
+                    [
+                        -83.18644,
+                        42.464706
+                    ]
+                ]
+            ]
+        ]
+    }
+}

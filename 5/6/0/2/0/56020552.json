@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56020552,
+    "properties": {
+        "woe_id": 56020552,
+        "place_id": "giDXg9ecB5yBkF0r.w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Providence Place, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519334,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/56020552_20101216_6f7abfc37d.tar.gz"
+        },
+        "bbox": [
+            -84.553665161133,
+            34.105522155762,
+            -84.548843383789,
+            34.108131408691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.55217,
+                        34.108131
+                    ],
+                    [
+                        -84.548843,
+                        34.106525
+                    ],
+                    [
+                        -84.549522,
+                        34.106216
+                    ],
+                    [
+                        -84.550346,
+                        34.105522
+                    ],
+                    [
+                        -84.553665,
+                        34.107666
+                    ],
+                    [
+                        -84.552864,
+                        34.107899
+                    ],
+                    [
+                        -84.55217,
+                        34.108131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

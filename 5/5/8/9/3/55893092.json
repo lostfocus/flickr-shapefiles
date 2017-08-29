@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55893092,
+    "properties": {
+        "woe_id": 55893092,
+        "place_id": "2MWIe8mcBJSXViz9TQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Samaniego, Guaymas, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452971,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55893092_20101215_1b01f31d3b.tar.gz"
+        },
+        "bbox": [
+            -110.91268157959,
+            27.899604797363,
+            -110.90863037109,
+            27.90415763855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.912582,
+                        27.901028
+                    ],
+                    [
+                        -110.912682,
+                        27.901318
+                    ],
+                    [
+                        -110.909966,
+                        27.904158
+                    ],
+                    [
+                        -110.909966,
+                        27.904114
+                    ],
+                    [
+                        -110.90863,
+                        27.899605
+                    ],
+                    [
+                        -110.912582,
+                        27.901028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

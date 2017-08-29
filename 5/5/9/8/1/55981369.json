@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55981369,
+    "properties": {
+        "woe_id": 55981369,
+        "place_id": "Ia5ukqGcBJXonHTz4g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huntington, Safety Harbor, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455436,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55981369_20101215_b992decbca.tar.gz"
+        },
+        "bbox": [
+            -82.709495544434,
+            28.011716842651,
+            -82.707481384277,
+            28.014312744141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.708954,
+                        28.012556
+                    ],
+                    [
+                        -82.709496,
+                        28.014313
+                    ],
+                    [
+                        -82.707481,
+                        28.012079
+                    ],
+                    [
+                        -82.708107,
+                        28.01177
+                    ],
+                    [
+                        -82.708336,
+                        28.011717
+                    ],
+                    [
+                        -82.708954,
+                        28.012556
+                    ]
+                ]
+            ]
+        ]
+    }
+}

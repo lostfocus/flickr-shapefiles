@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987239,
+    "properties": {
+        "woe_id": 55987239,
+        "place_id": "60.fo8qcBJVuFjT5qg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bear Canyon Tracts, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542974,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55987239_20101216_b6f0edfef6.tar.gz"
+        },
+        "bbox": [
+            -110.9249420166,
+            45.626487731934,
+            -110.92306518555,
+            45.631145477295
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.923065,
+                        45.62661
+                    ],
+                    [
+                        -110.923409,
+                        45.626488
+                    ],
+                    [
+                        -110.924088,
+                        45.626583
+                    ],
+                    [
+                        -110.924942,
+                        45.631145
+                    ],
+                    [
+                        -110.923508,
+                        45.626923
+                    ],
+                    [
+                        -110.923065,
+                        45.62661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

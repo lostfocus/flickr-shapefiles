@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55988450,
+    "properties": {
+        "woe_id": 55988450,
+        "place_id": "6E4ArAGcBJVIdluIXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "King's Crossing, Concord, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450112,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55988450_20101215_fb006cc025.tar.gz"
+        },
+        "bbox": [
+            -80.676002502441,
+            35.410858154297,
+            -80.672996520996,
+            35.413257598877
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.675774,
+                        35.412048
+                    ],
+                    [
+                        -80.676003,
+                        35.412666
+                    ],
+                    [
+                        -80.675957,
+                        35.413258
+                    ],
+                    [
+                        -80.672997,
+                        35.410858
+                    ],
+                    [
+                        -80.675774,
+                        35.412048
+                    ]
+                ]
+            ]
+        ]
+    }
+}

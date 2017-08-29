@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856156,
+    "properties": {
+        "woe_id": 55856156,
+        "place_id": "pNVMComcBJRQzm6RJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greeningdon, Hamilton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445439,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/55856156_20101215_8ed658396a.tar.gz"
+        },
+        "bbox": [
+            -79.882232666016,
+            43.224361419678,
+            -79.876922607422,
+            43.226833343506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.882057,
+                        43.224808
+                    ],
+                    [
+                        -79.881165,
+                        43.226833
+                    ],
+                    [
+                        -79.876923,
+                        43.224819
+                    ],
+                    [
+                        -79.880379,
+                        43.224361
+                    ],
+                    [
+                        -79.882233,
+                        43.224503
+                    ],
+                    [
+                        -79.882057,
+                        43.224808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

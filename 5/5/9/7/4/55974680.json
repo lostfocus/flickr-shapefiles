@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974680,
+    "properties": {
+        "woe_id": 55974680,
+        "place_id": "8xPVAdycBJXog3m6Jw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Summit Square Shopping Center, Westminster, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442844,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55974680_20101215_e4092202ff.tar.gz"
+        },
+        "bbox": [
+            -105.02967834473,
+            39.848178863525,
+            -105.02449035645,
+            39.851779937744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.027168,
+                        39.848179
+                    ],
+                    [
+                        -105.029678,
+                        39.848881
+                    ],
+                    [
+                        -105.027061,
+                        39.848972
+                    ],
+                    [
+                        -105.024734,
+                        39.85178
+                    ],
+                    [
+                        -105.02449,
+                        39.848858
+                    ],
+                    [
+                        -105.027168,
+                        39.848179
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55998516,
+    "properties": {
+        "woe_id": 55998516,
+        "place_id": "MDq7asWcBJVIeik65w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old Town Stony Plain, Stony Plain, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549598,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55998516_20101217_5580604517.tar.gz"
+        },
+        "bbox": [
+            -114.00555419922,
+            53.523998260498,
+            -114.0030670166,
+            53.527912139893
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.004501,
+                        53.523998
+                    ],
+                    [
+                        -114.005203,
+                        53.525162
+                    ],
+                    [
+                        -114.005554,
+                        53.525799
+                    ],
+                    [
+                        -114.003067,
+                        53.527912
+                    ],
+                    [
+                        -114.004333,
+                        53.523998
+                    ],
+                    [
+                        -114.004501,
+                        53.523998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

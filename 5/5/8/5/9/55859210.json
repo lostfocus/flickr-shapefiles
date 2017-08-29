@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859210,
+    "properties": {
+        "woe_id": 55859210,
+        "place_id": "QodgoXKcBJQUNpnoJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakridge, Garland, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539383,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55859210_20101216_55368cae09.tar.gz"
+        },
+        "bbox": [
+            -96.685012817383,
+            32.936595916748,
+            -96.68399810791,
+            32.943576812744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.684166,
+                        32.940334
+                    ],
+                    [
+                        -96.683998,
+                        32.940166
+                    ],
+                    [
+                        -96.684341,
+                        32.936596
+                    ],
+                    [
+                        -96.684334,
+                        32.939999
+                    ],
+                    [
+                        -96.685013,
+                        32.943577
+                    ],
+                    [
+                        -96.684166,
+                        32.940334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55861501,
+    "properties": {
+        "woe_id": 55861501,
+        "place_id": "bCX8dUWcBJTaCS9gtA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Rockford, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533227,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55861501_20101216_8eb78104fd.tar.gz"
+        },
+        "bbox": [
+            -89.071334838867,
+            42.314281463623,
+            -89.068519592285,
+            42.314544677734
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.071266,
+                        42.314384
+                    ],
+                    [
+                        -89.071083,
+                        42.314545
+                    ],
+                    [
+                        -89.06852,
+                        42.31448
+                    ],
+                    [
+                        -89.071335,
+                        42.314281
+                    ],
+                    [
+                        -89.071266,
+                        42.314384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

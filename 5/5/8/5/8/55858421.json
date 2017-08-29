@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858421,
+    "properties": {
+        "woe_id": 55858421,
+        "place_id": "SzGQKR6cBJSXHThUxg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Lake, Chandler, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515145,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55858421_20101216_b914373ed8.tar.gz"
+        },
+        "bbox": [
+            -111.83659362793,
+            33.238658905029,
+            -111.83364105225,
+            33.242343902588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.835876,
+                        33.241798
+                    ],
+                    [
+                        -111.836441,
+                        33.241932
+                    ],
+                    [
+                        -111.836594,
+                        33.242172
+                    ],
+                    [
+                        -111.835732,
+                        33.242344
+                    ],
+                    [
+                        -111.833641,
+                        33.238659
+                    ],
+                    [
+                        -111.835876,
+                        33.241798
+                    ]
+                ]
+            ]
+        ]
+    }
+}

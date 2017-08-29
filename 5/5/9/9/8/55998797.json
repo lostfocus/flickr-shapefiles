@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55998797,
+    "properties": {
+        "woe_id": 55998797,
+        "place_id": "FLRa1V2cBJVyoOdmNA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Windrose, Leduc, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442964,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55998797_20101215_fd6239c6db.tar.gz"
+        },
+        "bbox": [
+            -113.5714263916,
+            53.258544921875,
+            -113.56797027588,
+            53.262233734131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.569008,
+                        53.258545
+                    ],
+                    [
+                        -113.569504,
+                        53.259464
+                    ],
+                    [
+                        -113.571426,
+                        53.262234
+                    ],
+                    [
+                        -113.56797,
+                        53.259384
+                    ],
+                    [
+                        -113.569008,
+                        53.258545
+                    ]
+                ]
+            ]
+        ]
+    }
+}

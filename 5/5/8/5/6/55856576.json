@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55856576,
+    "properties": {
+        "woe_id": 55856576,
+        "place_id": "12lM6VCcBJSLW4L0Ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stirling, Moncton, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523746,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55856576_20101216_4f1e2d10fa.tar.gz"
+        },
+        "bbox": [
+            -64.80362701416,
+            46.095607757568,
+            -64.797180175781,
+            46.099781036377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.800301,
+                        46.099232
+                    ],
+                    [
+                        -64.7994,
+                        46.098412
+                    ],
+                    [
+                        -64.79718,
+                        46.096287
+                    ],
+                    [
+                        -64.79998,
+                        46.095608
+                    ],
+                    [
+                        -64.803329,
+                        46.095867
+                    ],
+                    [
+                        -64.803627,
+                        46.099781
+                    ],
+                    [
+                        -64.800301,
+                        46.099232
+                    ]
+                ]
+            ]
+        ]
+    }
+}

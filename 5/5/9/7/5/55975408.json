@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55975408,
+    "properties": {
+        "woe_id": 55975408,
+        "place_id": "GQBLBEmcBJWBsUYnOw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Brandon, Brandon, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473444,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/55975408_20101216_a8e93cc0ec.tar.gz"
+        },
+        "bbox": [
+            -82.331665039062,
+            27.921236038208,
+            -82.326194763184,
+            27.923885345459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.330933,
+                        27.921492
+                    ],
+                    [
+                        -82.331665,
+                        27.923166
+                    ],
+                    [
+                        -82.330284,
+                        27.922989
+                    ],
+                    [
+                        -82.328171,
+                        27.923166
+                    ],
+                    [
+                        -82.326523,
+                        27.923885
+                    ],
+                    [
+                        -82.326195,
+                        27.921236
+                    ],
+                    [
+                        -82.330933,
+                        27.921492
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55983766,
+    "properties": {
+        "woe_id": 55983766,
+        "place_id": "kUUuyW2cBJV4l9Uftg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Piedmont, Trenton, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543700,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/55983766_20101216_2ce2514667.tar.gz"
+        },
+        "bbox": [
+            -82.818969726562,
+            29.613031387329,
+            -82.817031860352,
+            29.616325378418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.81897,
+                        29.615805
+                    ],
+                    [
+                        -82.818939,
+                        29.615837
+                    ],
+                    [
+                        -82.818558,
+                        29.616325
+                    ],
+                    [
+                        -82.817032,
+                        29.615377
+                    ],
+                    [
+                        -82.817688,
+                        29.613031
+                    ],
+                    [
+                        -82.81897,
+                        29.615805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

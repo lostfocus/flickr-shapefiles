@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55870762,
+    "properties": {
+        "woe_id": 55870762,
+        "place_id": "q_U5a76cBJQLg6EkYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Poligon, Sar\u0131yer, Istanbul, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532931,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55870762_20101216_3ba15efe69.tar.gz"
+        },
+        "bbox": [
+            29.046993255615,
+            41.12052154541,
+            29.049396514893,
+            41.121585845947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.046993,
+                        41.121101
+                    ],
+                    [
+                        29.049397,
+                        41.121586
+                    ],
+                    [
+                        29.04755,
+                        41.120522
+                    ],
+                    [
+                        29.04747,
+                        41.120571
+                    ],
+                    [
+                        29.047144,
+                        41.120815
+                    ],
+                    [
+                        29.046993,
+                        41.121101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

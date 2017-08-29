@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974729,
+    "properties": {
+        "woe_id": 55974729,
+        "place_id": "MQhP4mGcBJUBPyunrg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Naval Observatory, Washington, DC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541366,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55974729_20101216_f0991386cf.tar.gz"
+        },
+        "bbox": [
+            -77.066902160645,
+            38.920970916748,
+            -77.063247680664,
+            38.922859191895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.066551,
+                        38.921383
+                    ],
+                    [
+                        -77.066902,
+                        38.921501
+                    ],
+                    [
+                        -77.065231,
+                        38.922859
+                    ],
+                    [
+                        -77.063248,
+                        38.920971
+                    ],
+                    [
+                        -77.065346,
+                        38.920994
+                    ],
+                    [
+                        -77.066551,
+                        38.921383
+                    ]
+                ]
+            ]
+        ]
+    }
+}

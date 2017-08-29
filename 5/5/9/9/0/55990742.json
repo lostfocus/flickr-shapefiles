@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55990742,
+    "properties": {
+        "woe_id": 55990742,
+        "place_id": "TZNURKecBJUAByyeaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Views, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473504,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55990742_20101216_34a6381328.tar.gz"
+        },
+        "bbox": [
+            -78.736442565918,
+            35.889625549316,
+            -78.732612609863,
+            35.890533447266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.732635,
+                        35.889652
+                    ],
+                    [
+                        -78.732613,
+                        35.889626
+                    ],
+                    [
+                        -78.736443,
+                        35.889709
+                    ],
+                    [
+                        -78.733391,
+                        35.890533
+                    ],
+                    [
+                        -78.732635,
+                        35.889652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

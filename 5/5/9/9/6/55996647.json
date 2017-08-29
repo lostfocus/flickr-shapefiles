@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55996647,
+    "properties": {
+        "woe_id": 55996647,
+        "place_id": "ca3bn_ycBJVQqGYeHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Columbia Crest, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541384,
+        "alpha": 1.0e-5,
+        "points": 34,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55996647_20101216_055431092d.tar.gz"
+        },
+        "bbox": [
+            -122.69343566895,
+            45.643783569336,
+            -122.69086456299,
+            45.647308349609
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.69117,
+                        45.645935
+                    ],
+                    [
+                        -122.690865,
+                        45.645363
+                    ],
+                    [
+                        -122.693436,
+                        45.643784
+                    ],
+                    [
+                        -122.693253,
+                        45.645927
+                    ],
+                    [
+                        -122.692436,
+                        45.647308
+                    ],
+                    [
+                        -122.691559,
+                        45.647163
+                    ],
+                    [
+                        -122.69117,
+                        45.645935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

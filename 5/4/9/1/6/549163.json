@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 549163,
+    "properties": {
+        "woe_id": 549163,
+        "place_id": "kRJBCuWcBZWYYoY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Messendorf, Sankt Peter bei Graz, STM, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248295944,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2634\/shapefiles\/549163_20090722_a880bcd4fc.tar.gz"
+        },
+        "bbox": [
+            15.513875961304,
+            47.050247192383,
+            15.515972137451,
+            47.050914764404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.515699,
+                        47.050915
+                    ],
+                    [
+                        15.515972,
+                        47.050304
+                    ],
+                    [
+                        15.515797,
+                        47.050301
+                    ],
+                    [
+                        15.515785,
+                        47.050301
+                    ],
+                    [
+                        15.515784,
+                        47.050301
+                    ],
+                    [
+                        15.513876,
+                        47.050247
+                    ],
+                    [
+                        15.515699,
+                        47.050915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

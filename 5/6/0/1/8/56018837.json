@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56018837,
+    "properties": {
+        "woe_id": 56018837,
+        "place_id": "DGUe1U.cB5xv7lVp8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Simmons Place, Rogers, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437969,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/56018837_20101215_faa9c06edb.tar.gz"
+        },
+        "bbox": [
+            -94.186470031738,
+            36.314666748047,
+            -94.183944702148,
+            36.318946838379
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.18647,
+                        36.314999
+                    ],
+                    [
+                        -94.186333,
+                        36.315334
+                    ],
+                    [
+                        -94.183945,
+                        36.318947
+                    ],
+                    [
+                        -94.184166,
+                        36.316502
+                    ],
+                    [
+                        -94.184334,
+                        36.314667
+                    ],
+                    [
+                        -94.18647,
+                        36.314999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

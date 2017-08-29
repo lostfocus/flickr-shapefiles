@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55998949,
+    "properties": {
+        "woe_id": 55998949,
+        "place_id": "uBjrOFScBJURPULivA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westridge, Burnaby, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545510,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55998949_20101217_5c70834dff.tar.gz"
+        },
+        "bbox": [
+            -122.95950317383,
+            49.280166625977,
+            -122.9522857666,
+            49.288410186768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.954437,
+                        49.282272
+                    ],
+                    [
+                        -122.959503,
+                        49.280167
+                    ],
+                    [
+                        -122.958405,
+                        49.284744
+                    ],
+                    [
+                        -122.954002,
+                        49.28606
+                    ],
+                    [
+                        -122.952286,
+                        49.28841
+                    ],
+                    [
+                        -122.952629,
+                        49.283646
+                    ],
+                    [
+                        -122.953728,
+                        49.282421
+                    ],
+                    [
+                        -122.954437,
+                        49.282272
+                    ]
+                ]
+            ]
+        ]
+    }
+}

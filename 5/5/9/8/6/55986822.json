@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55986822,
+    "properties": {
+        "woe_id": 55986822,
+        "place_id": "AgFwtKecBJWkO97WGg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Side, Fitchburg, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503925,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55986822_20101216_fa0ac819dc.tar.gz"
+        },
+        "bbox": [
+            -71.772338867188,
+            42.595985412598,
+            -71.771873474121,
+            42.596069335938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.772324,
+                        42.596027
+                    ],
+                    [
+                        -71.771873,
+                        42.596069
+                    ],
+                    [
+                        -71.772148,
+                        42.596016
+                    ],
+                    [
+                        -71.772339,
+                        42.595985
+                    ],
+                    [
+                        -71.772324,
+                        42.596027
+                    ]
+                ]
+            ]
+        ]
+    }
+}

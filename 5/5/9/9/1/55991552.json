@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55991552,
+    "properties": {
+        "woe_id": 55991552,
+        "place_id": "zqQDVWqcBJW9XnCIIg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haymarket Square, Portsmouth, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515205,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55991552_20101216_27ecc1dc74.tar.gz"
+        },
+        "bbox": [
+            -70.758605957031,
+            43.071739196777,
+            -70.75577545166,
+            43.075782775879
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.755775,
+                        43.072899
+                    ],
+                    [
+                        -70.757294,
+                        43.071743
+                    ],
+                    [
+                        -70.758606,
+                        43.071739
+                    ],
+                    [
+                        -70.758476,
+                        43.072067
+                    ],
+                    [
+                        -70.757774,
+                        43.075695
+                    ],
+                    [
+                        -70.757553,
+                        43.075783
+                    ],
+                    [
+                        -70.757263,
+                        43.075722
+                    ],
+                    [
+                        -70.757126,
+                        43.075642
+                    ],
+                    [
+                        -70.755859,
+                        43.072994
+                    ],
+                    [
+                        -70.755775,
+                        43.072899
+                    ]
+                ]
+            ]
+        ]
+    }
+}

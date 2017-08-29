@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55973215,
+    "properties": {
+        "woe_id": 55973215,
+        "place_id": "UR4T.3qcBJX2GDsAjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cliffside, Durango, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522628,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55973215_20101216_79450ae642.tar.gz"
+        },
+        "bbox": [
+            -107.80738067627,
+            37.485481262207,
+            -107.80200195312,
+            37.491130828857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.80442,
+                        37.485863
+                    ],
+                    [
+                        -107.805016,
+                        37.485687
+                    ],
+                    [
+                        -107.807381,
+                        37.485481
+                    ],
+                    [
+                        -107.805275,
+                        37.488228
+                    ],
+                    [
+                        -107.802208,
+                        37.491131
+                    ],
+                    [
+                        -107.802002,
+                        37.491001
+                    ],
+                    [
+                        -107.80442,
+                        37.485863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

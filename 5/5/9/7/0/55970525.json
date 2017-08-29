@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970525,
+    "properties": {
+        "woe_id": 55970525,
+        "place_id": "rJvPHOicBJXWBgKYDw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Rialto, Rialto, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551678,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55970525_20101217_0d176abb98.tar.gz"
+        },
+        "bbox": [
+            -117.39700317383,
+            34.1438331604,
+            -117.39282989502,
+            34.149444580078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.393669,
+                        34.145
+                    ],
+                    [
+                        -117.39283,
+                        34.144333
+                    ],
+                    [
+                        -117.393829,
+                        34.144669
+                    ],
+                    [
+                        -117.397003,
+                        34.143833
+                    ],
+                    [
+                        -117.393829,
+                        34.145
+                    ],
+                    [
+                        -117.39389,
+                        34.149445
+                    ],
+                    [
+                        -117.393669,
+                        34.145
+                    ]
+                ]
+            ]
+        ]
+    }
+}

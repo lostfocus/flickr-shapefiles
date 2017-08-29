@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982218,
+    "properties": {
+        "woe_id": 55982218,
+        "place_id": "w.UXW6ycBJVmc1aZwA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clubview, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455439,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55982218_20101215_06219cf151.tar.gz"
+        },
+        "bbox": [
+            -82.353614807129,
+            28.15916633606,
+            -82.352676391602,
+            28.163274765015
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.353157,
+                        28.161713
+                    ],
+                    [
+                        -82.353203,
+                        28.163275
+                    ],
+                    [
+                        -82.352676,
+                        28.161701
+                    ],
+                    [
+                        -82.352676,
+                        28.161697
+                    ],
+                    [
+                        -82.353615,
+                        28.159166
+                    ],
+                    [
+                        -82.353157,
+                        28.161713
+                    ]
+                ]
+            ]
+        ]
+    }
+}

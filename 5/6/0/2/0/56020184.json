@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020184,
+    "properties": {
+        "woe_id": 56020184,
+        "place_id": "nthrDH.cB5zl7bVCjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allatoona Landing, Canton, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532951,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/56020184_20101216_903b7807d6.tar.gz"
+        },
+        "bbox": [
+            -84.560501098633,
+            34.201831817627,
+            -84.559669494629,
+            34.20316696167
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.560333,
+                        34.202999
+                    ],
+                    [
+                        -84.560333,
+                        34.203167
+                    ],
+                    [
+                        -84.559669,
+                        34.202
+                    ],
+                    [
+                        -84.560501,
+                        34.201832
+                    ],
+                    [
+                        -84.560501,
+                        34.202
+                    ],
+                    [
+                        -84.560333,
+                        34.202999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

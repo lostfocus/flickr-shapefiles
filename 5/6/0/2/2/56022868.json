@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022868,
+    "properties": {
+        "woe_id": 56022868,
+        "place_id": "GQS8x0WcB5yro3OAEw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Place Newman, Lasalle, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523850,
+        "alpha": 1.5625e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/56022868_20101216_19dfce0371.tar.gz"
+        },
+        "bbox": [
+            -73.642097473145,
+            45.431167602539,
+            -73.633163452148,
+            45.435668945312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.639336,
+                        45.431831
+                    ],
+                    [
+                        -73.642097,
+                        45.432144
+                    ],
+                    [
+                        -73.639297,
+                        45.435669
+                    ],
+                    [
+                        -73.633163,
+                        45.431168
+                    ],
+                    [
+                        -73.639091,
+                        45.431953
+                    ],
+                    [
+                        -73.639336,
+                        45.431831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

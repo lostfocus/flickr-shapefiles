@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55807013,
+    "properties": {
+        "woe_id": 55807013,
+        "place_id": "AYyIBDScBJSrDO5V2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dogwood Trace, Lexington, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495652,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55807013_20101216_ed72ea2023.tar.gz"
+        },
+        "bbox": [
+            -84.592529296875,
+            37.983158111572,
+            -84.582702636719,
+            37.989437103271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.592529,
+                        37.985458
+                    ],
+                    [
+                        -84.591827,
+                        37.987606
+                    ],
+                    [
+                        -84.586952,
+                        37.988071
+                    ],
+                    [
+                        -84.582703,
+                        37.989437
+                    ],
+                    [
+                        -84.586891,
+                        37.98801
+                    ],
+                    [
+                        -84.590637,
+                        37.983158
+                    ],
+                    [
+                        -84.592529,
+                        37.985458
+                    ]
+                ]
+            ]
+        ]
+    }
+}

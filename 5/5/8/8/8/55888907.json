@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888907,
+    "properties": {
+        "woe_id": 55888907,
+        "place_id": "uo17hsycBJSpcjj79g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Igualados, Hermosillo, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473327,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55888907_20101216_b1ddbe5298.tar.gz"
+        },
+        "bbox": [
+            -110.9430770874,
+            29.096038818359,
+            -110.9407043457,
+            29.097726821899
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.941742,
+                        29.097727
+                    ],
+                    [
+                        -110.940704,
+                        29.097113
+                    ],
+                    [
+                        -110.943077,
+                        29.096039
+                    ],
+                    [
+                        -110.942856,
+                        29.096601
+                    ],
+                    [
+                        -110.942772,
+                        29.096807
+                    ],
+                    [
+                        -110.941742,
+                        29.097727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

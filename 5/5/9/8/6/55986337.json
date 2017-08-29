@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986337,
+    "properties": {
+        "woe_id": 55986337,
+        "place_id": "MXrod1ycBJVqSCndGA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Volbrecht, South Holland, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482267,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55986337_20101216_23d1f57696.tar.gz"
+        },
+        "bbox": [
+            -87.592849731445,
+            41.574169158936,
+            -87.588424682617,
+            41.580493927002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.589935,
+                        41.574482
+                    ],
+                    [
+                        -87.590714,
+                        41.574169
+                    ],
+                    [
+                        -87.59285,
+                        41.577679
+                    ],
+                    [
+                        -87.588425,
+                        41.580494
+                    ],
+                    [
+                        -87.589127,
+                        41.576786
+                    ],
+                    [
+                        -87.589935,
+                        41.574482
+                    ]
+                ]
+            ]
+        ]
+    }
+}

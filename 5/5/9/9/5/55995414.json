@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55995414,
+    "properties": {
+        "woe_id": 55995414,
+        "place_id": "FzTW4kmcBJXqFbKucw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Grays Steven Tract, Stafford, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450105,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55995414_20101215_422bd4070e.tar.gz"
+        },
+        "bbox": [
+            -77.421295166016,
+            38.404636383057,
+            -77.421081542969,
+            38.404876708984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.421295,
+                        38.404877
+                    ],
+                    [
+                        -77.421082,
+                        38.404774
+                    ],
+                    [
+                        -77.421082,
+                        38.404709
+                    ],
+                    [
+                        -77.421082,
+                        38.404675
+                    ],
+                    [
+                        -77.421165,
+                        38.404636
+                    ],
+                    [
+                        -77.421257,
+                        38.404636
+                    ],
+                    [
+                        -77.421295,
+                        38.404877
+                    ]
+                ]
+            ]
+        ]
+    }
+}

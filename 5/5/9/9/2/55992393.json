@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992393,
+    "properties": {
+        "woe_id": 55992393,
+        "place_id": "QXENpU.cBJWhx8jYFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Outer Southeast, Portland, OR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518050,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55992393_20101216_69e7c248d7.tar.gz"
+        },
+        "bbox": [
+            -122.50253295898,
+            45.48461151123,
+            -122.50030517578,
+            45.48709487915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.501938,
+                        45.486374
+                    ],
+                    [
+                        -122.501503,
+                        45.486794
+                    ],
+                    [
+                        -122.500305,
+                        45.487095
+                    ],
+                    [
+                        -122.502518,
+                        45.484612
+                    ],
+                    [
+                        -122.502533,
+                        45.485889
+                    ],
+                    [
+                        -122.501938,
+                        45.486374
+                    ]
+                ]
+            ]
+        ]
+    }
+}

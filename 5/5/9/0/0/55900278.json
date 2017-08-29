@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55900278,
+    "properties": {
+        "woe_id": 55900278,
+        "place_id": "zXiHDqWcBJWHU9vxqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Granados, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534303,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55900278_20101216_196e1c1ef6.tar.gz"
+        },
+        "bbox": [
+            -116.60888671875,
+            31.855833053589,
+            -116.60516357422,
+            31.860147476196
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.605164,
+                        31.857166
+                    ],
+                    [
+                        -116.605835,
+                        31.857
+                    ],
+                    [
+                        -116.607834,
+                        31.855833
+                    ],
+                    [
+                        -116.608887,
+                        31.858896
+                    ],
+                    [
+                        -116.606438,
+                        31.860147
+                    ],
+                    [
+                        -116.605164,
+                        31.857166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

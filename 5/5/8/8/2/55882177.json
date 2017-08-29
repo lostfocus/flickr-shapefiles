@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882177,
+    "properties": {
+        "woe_id": 55882177,
+        "place_id": "22nz2z6cBJSKB8pGvg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Santa Lucia, Mexicali, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455425,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/55882177_20101215_25b20ff7a4.tar.gz"
+        },
+        "bbox": [
+            -115.39870452881,
+            32.619689941406,
+            -115.3949508667,
+            32.621753692627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.398705,
+                        32.620102
+                    ],
+                    [
+                        -115.398674,
+                        32.620869
+                    ],
+                    [
+                        -115.396721,
+                        32.621754
+                    ],
+                    [
+                        -115.394951,
+                        32.620827
+                    ],
+                    [
+                        -115.397758,
+                        32.61969
+                    ],
+                    [
+                        -115.398705,
+                        32.620102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

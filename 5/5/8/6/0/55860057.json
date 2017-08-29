@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860057,
+    "properties": {
+        "woe_id": 55860057,
+        "place_id": "GgGNdE6cBJQiwOV1GA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lubbock Lake, Lubbock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490189,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55860057_20101216_1e40472f64.tar.gz"
+        },
+        "bbox": [
+            -101.89098358154,
+            33.622169494629,
+            -101.88784790039,
+            33.625667572021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.888885,
+                        33.622169
+                    ],
+                    [
+                        -101.890984,
+                        33.623947
+                    ],
+                    [
+                        -101.888168,
+                        33.625668
+                    ],
+                    [
+                        -101.888168,
+                        33.625332
+                    ],
+                    [
+                        -101.887848,
+                        33.622982
+                    ],
+                    [
+                        -101.888885,
+                        33.622169
+                    ]
+                ]
+            ]
+        ]
+    }
+}

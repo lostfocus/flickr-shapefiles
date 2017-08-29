@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858911,
+    "properties": {
+        "woe_id": 55858911,
+        "place_id": "IKGtBwOcBJT2I4x1qA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley Downs, Evansville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247894295,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3516\/shapefiles\/55858911_20090718_2062b73389.tar.gz"
+        },
+        "bbox": [
+            -87.5,
+            38.007667541504,
+            -87.495277404785,
+            38.008499145508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.495499,
+                        38.008499
+                    ],
+                    [
+                        -87.495277,
+                        38.008423
+                    ],
+                    [
+                        -87.49543,
+                        38.008404
+                    ],
+                    [
+                        -87.5,
+                        38.007668
+                    ],
+                    [
+                        -87.499931,
+                        38.008362
+                    ],
+                    [
+                        -87.495499,
+                        38.008499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

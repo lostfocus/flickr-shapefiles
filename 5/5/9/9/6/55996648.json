@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996648,
+    "properties": {
+        "woe_id": 55996648,
+        "place_id": "h1JvhICcBJXa3mS4JA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Columbia Crossing at Columbia Tech Center, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490305,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55996648_20101216_03f4039cd5.tar.gz"
+        },
+        "bbox": [
+            -122.50545501709,
+            45.613998413086,
+            -122.50233459473,
+            45.618495941162
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.504166,
+                        45.613998
+                    ],
+                    [
+                        -122.505455,
+                        45.614845
+                    ],
+                    [
+                        -122.504936,
+                        45.615105
+                    ],
+                    [
+                        -122.502708,
+                        45.618496
+                    ],
+                    [
+                        -122.502335,
+                        45.614666
+                    ],
+                    [
+                        -122.504166,
+                        45.613998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

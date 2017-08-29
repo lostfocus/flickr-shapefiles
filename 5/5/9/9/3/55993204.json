@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993204,
+    "properties": {
+        "woe_id": 55993204,
+        "place_id": "wXkTJ8qcBJUkUwg5YA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Deer Trail, Bryan, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542607,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55993204_20101216_5ae92dbea7.tar.gz"
+        },
+        "bbox": [
+            -96.46802520752,
+            30.705966949463,
+            -96.464340209961,
+            30.711437225342
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.46785,
+                        30.708961
+                    ],
+                    [
+                        -96.468025,
+                        30.710403
+                    ],
+                    [
+                        -96.466484,
+                        30.711437
+                    ],
+                    [
+                        -96.46434,
+                        30.707533
+                    ],
+                    [
+                        -96.466354,
+                        30.705967
+                    ],
+                    [
+                        -96.46785,
+                        30.708961
+                    ]
+                ]
+            ]
+        ]
+    }
+}

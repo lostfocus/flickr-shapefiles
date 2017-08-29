@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56019919,
+    "properties": {
+        "woe_id": 56019919,
+        "place_id": "zCrSLvScB5zoRtjlyg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coconut Grove Park, Miami, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453047,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/56019919_20101215_cc66b0f9c5.tar.gz"
+        },
+        "bbox": [
+            -80.240760803223,
+            25.724901199341,
+            -80.239486694336,
+            25.726718902588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.239708,
+                        25.724901
+                    ],
+                    [
+                        -80.239861,
+                        25.724989
+                    ],
+                    [
+                        -80.240181,
+                        25.725412
+                    ],
+                    [
+                        -80.240761,
+                        25.726719
+                    ],
+                    [
+                        -80.239487,
+                        25.725588
+                    ],
+                    [
+                        -80.239563,
+                        25.724911
+                    ],
+                    [
+                        -80.239708,
+                        25.724901
+                    ]
+                ]
+            ]
+        ]
+    }
+}

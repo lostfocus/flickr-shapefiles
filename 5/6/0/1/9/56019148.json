@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56019148,
+    "properties": {
+        "woe_id": 56019148,
+        "place_id": "X7KsHGmcB5yzgGrfcw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Casa De Encanto, Yuma, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292400483,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/56019148_20101215_576e16b642.tar.gz"
+        },
+        "bbox": [
+            -114.60381317139,
+            32.671821594238,
+            -114.60010528564,
+            32.674335479736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.603813,
+                        32.674232
+                    ],
+                    [
+                        -114.603493,
+                        32.674335
+                    ],
+                    [
+                        -114.600105,
+                        32.671822
+                    ],
+                    [
+                        -114.603523,
+                        32.674236
+                    ],
+                    [
+                        -114.603813,
+                        32.674232
+                    ]
+                ]
+            ]
+        ]
+    }
+}

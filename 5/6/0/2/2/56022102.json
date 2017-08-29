@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022102,
+    "properties": {
+        "woe_id": 56022102,
+        "place_id": "TtC4blecB5xZJdGE2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dalby, St. Clair Shores, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450162,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/56022102_20101215_67ef60f686.tar.gz"
+        },
+        "bbox": [
+            -82.933601379395,
+            42.450187683105,
+            -82.928611755371,
+            42.45072555542
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.928612,
+                        42.450668
+                    ],
+                    [
+                        -82.928711,
+                        42.450691
+                    ],
+                    [
+                        -82.933601,
+                        42.450188
+                    ],
+                    [
+                        -82.928719,
+                        42.450726
+                    ],
+                    [
+                        -82.928612,
+                        42.450668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

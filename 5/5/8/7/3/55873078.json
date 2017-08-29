@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55873078,
+    "properties": {
+        "woe_id": 55873078,
+        "place_id": "6pKYHNicBJRy3nthmg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marjshk, Sharjah, Sharjah, AE, United Arab Emirates"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545900,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55873078_20101217_1420bfa793.tar.gz"
+        },
+        "bbox": [
+            55.383110046387,
+            25.356590270996,
+            55.386714935303,
+            25.359315872192
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        55.38311,
+                        25.358065
+                    ],
+                    [
+                        55.383205,
+                        25.359316
+                    ],
+                    [
+                        55.384567,
+                        25.358259
+                    ],
+                    [
+                        55.386715,
+                        25.35659
+                    ],
+                    [
+                        55.384785,
+                        25.357521
+                    ],
+                    [
+                        55.38311,
+                        25.358065
+                    ]
+                ]
+            ]
+        ]
+    }
+}

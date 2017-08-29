@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55890572,
+    "properties": {
+        "woe_id": 55890572,
+        "place_id": "p_iF6aScBJR1yggjSA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Framboyanes, Tampico, TM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510168,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55890572_20101216_1eba443b6b.tar.gz"
+        },
+        "bbox": [
+            -97.874557495117,
+            22.273002624512,
+            -97.870994567871,
+            22.276586532593
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.872177,
+                        22.276587
+                    ],
+                    [
+                        -97.870995,
+                        22.274851
+                    ],
+                    [
+                        -97.873077,
+                        22.273003
+                    ],
+                    [
+                        -97.874557,
+                        22.273668
+                    ],
+                    [
+                        -97.873032,
+                        22.276091
+                    ],
+                    [
+                        -97.872177,
+                        22.276587
+                    ]
+                ]
+            ]
+        ]
+    }
+}

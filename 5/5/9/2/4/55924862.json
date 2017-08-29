@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55924862,
+    "properties": {
+        "woe_id": 55924862,
+        "place_id": "hL11EsqcBJU99XGNAA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "VV Nagar, Bangalore, KRN, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464628,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55924862_20101216_dc073898df.tar.gz"
+        },
+        "bbox": [
+            77.549957275391,
+            12.886329650879,
+            77.553596496582,
+            12.892646789551
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        77.550697,
+                        12.88633
+                    ],
+                    [
+                        77.549957,
+                        12.886654
+                    ],
+                    [
+                        77.551941,
+                        12.888611
+                    ],
+                    [
+                        77.553596,
+                        12.892647
+                    ],
+                    [
+                        77.553406,
+                        12.887945
+                    ],
+                    [
+                        77.550697,
+                        12.88633
+                    ]
+                ]
+            ]
+        ]
+    }
+}

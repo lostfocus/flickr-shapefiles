@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55968380,
+    "properties": {
+        "woe_id": 55968380,
+        "place_id": "JFVVwSycBJXQ.FDTdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Green Acres, Fayetteville, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550387,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55968380_20101217_d9b24b6930.tar.gz"
+        },
+        "bbox": [
+            -94.159492492676,
+            36.089679718018,
+            -94.154731750488,
+            36.090644836426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.154732,
+                        36.089703
+                    ],
+                    [
+                        -94.154739,
+                        36.08968
+                    ],
+                    [
+                        -94.158646,
+                        36.090645
+                    ],
+                    [
+                        -94.159492,
+                        36.09016
+                    ],
+                    [
+                        -94.159325,
+                        36.090611
+                    ],
+                    [
+                        -94.158646,
+                        36.090645
+                    ],
+                    [
+                        -94.154739,
+                        36.08968
+                    ],
+                    [
+                        -94.154732,
+                        36.089703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

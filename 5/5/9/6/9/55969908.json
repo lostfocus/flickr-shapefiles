@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969908,
+    "properties": {
+        "woe_id": 55969908,
+        "place_id": "ZgY4_5acBJUn6JIjWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Narbonne Avenue, Lomita, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546334,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55969908_20101217_4a15027124.tar.gz"
+        },
+        "bbox": [
+            -118.32429504395,
+            33.792469024658,
+            -118.32140350342,
+            33.795299530029
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.322334,
+                        33.794498
+                    ],
+                    [
+                        -118.322166,
+                        33.794334
+                    ],
+                    [
+                        -118.321404,
+                        33.792469
+                    ],
+                    [
+                        -118.324066,
+                        33.793964
+                    ],
+                    [
+                        -118.324295,
+                        33.7953
+                    ],
+                    [
+                        -118.322334,
+                        33.794498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

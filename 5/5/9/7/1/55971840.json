@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971840,
+    "properties": {
+        "woe_id": 55971840,
+        "place_id": "7nvJ.UKcBJWWoTLcLg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Desert Heights, Twentynine Palms, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546907,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55971840_20101217_796a49a3fe.tar.gz"
+        },
+        "bbox": [
+            -116.24591064453,
+            34.204849243164,
+            -116.2427444458,
+            34.209171295166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.244278,
+                        34.205128
+                    ],
+                    [
+                        -116.245857,
+                        34.204849
+                    ],
+                    [
+                        -116.245911,
+                        34.209171
+                    ],
+                    [
+                        -116.243721,
+                        34.206608
+                    ],
+                    [
+                        -116.242744,
+                        34.205505
+                    ],
+                    [
+                        -116.244278,
+                        34.205128
+                    ]
+                ]
+            ]
+        ]
+    }
+}

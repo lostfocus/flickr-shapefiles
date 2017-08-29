@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55855993,
+    "properties": {
+        "woe_id": 55855993,
+        "place_id": "7BBFR3OcBJR7s0983g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ogden Shops, Calgary, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541846,
+        "alpha": 1.953125e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55855993_20101216_01d9ecb9ec.tar.gz"
+        },
+        "bbox": [
+            -114.00099945068,
+            50.986583709717,
+            -113.99594116211,
+            50.991752624512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.000977,
+                        50.991753
+                    ],
+                    [
+                        -113.999161,
+                        50.991367
+                    ],
+                    [
+                        -113.995941,
+                        50.986584
+                    ],
+                    [
+                        -114.000404,
+                        50.98798
+                    ],
+                    [
+                        -114.000999,
+                        50.991432
+                    ],
+                    [
+                        -114.000977,
+                        50.991753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

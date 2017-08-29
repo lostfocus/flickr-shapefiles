@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55806307,
+    "properties": {
+        "woe_id": 55806307,
+        "place_id": "GVrh2CucBJSYpGP6Ew",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hacienda, Oakland, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531947,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55806307_20101216_4789a19ef8.tar.gz"
+        },
+        "bbox": [
+            -122.22151184082,
+            37.783290863037,
+            -122.21183776855,
+            37.787166595459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.219345,
+                        37.78669
+                    ],
+                    [
+                        -122.217484,
+                        37.786682
+                    ],
+                    [
+                        -122.211838,
+                        37.787167
+                    ],
+                    [
+                        -122.216499,
+                        37.784332
+                    ],
+                    [
+                        -122.221512,
+                        37.783291
+                    ],
+                    [
+                        -122.219345,
+                        37.78669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

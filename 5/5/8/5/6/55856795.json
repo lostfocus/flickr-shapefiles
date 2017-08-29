@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55856795,
+    "properties": {
+        "woe_id": 55856795,
+        "place_id": "SC40bcKcBJScQaIo3g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Du Boise, De la Broquerie, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247987642,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3439\/shapefiles\/55856795_20090719_782f3e1268.tar.gz"
+        },
+        "bbox": [
+            -73.411407470703,
+            45.592079162598,
+            -73.408554077148,
+            45.593940734863
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.410988,
+                        45.592461
+                    ],
+                    [
+                        -73.411407,
+                        45.592079
+                    ],
+                    [
+                        -73.410751,
+                        45.592594
+                    ],
+                    [
+                        -73.408691,
+                        45.593937
+                    ],
+                    [
+                        -73.408554,
+                        45.593941
+                    ],
+                    [
+                        -73.410751,
+                        45.592594
+                    ],
+                    [
+                        -73.411407,
+                        45.592079
+                    ],
+                    [
+                        -73.410988,
+                        45.592461
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55982960,
+    "properties": {
+        "woe_id": 55982960,
+        "place_id": "lYfQAuGcBJUVBP31aA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park West, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539451,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/55982960_20101216_aa4be94e05.tar.gz"
+        },
+        "bbox": [
+            -82.508224487305,
+            27.962024688721,
+            -82.504112243652,
+            27.969018936157
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.505074,
+                        27.96266
+                    ],
+                    [
+                        -82.505241,
+                        27.962025
+                    ],
+                    [
+                        -82.508224,
+                        27.963968
+                    ],
+                    [
+                        -82.507538,
+                        27.969019
+                    ],
+                    [
+                        -82.50576,
+                        27.966682
+                    ],
+                    [
+                        -82.504112,
+                        27.965376
+                    ],
+                    [
+                        -82.505074,
+                        27.96266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

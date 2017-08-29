@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55977620,
+    "properties": {
+        "woe_id": 55977620,
+        "place_id": "jAalFSKcBJXkGwyF8Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Original Havana, Havana, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524974,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55977620_20101216_d7b24ab330.tar.gz"
+        },
+        "bbox": [
+            -84.416664123535,
+            30.624166488647,
+            -84.415504455566,
+            30.625999450684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.415504,
+                        30.625834
+                    ],
+                    [
+                        -84.415504,
+                        30.625166
+                    ],
+                    [
+                        -84.415504,
+                        30.624166
+                    ],
+                    [
+                        -84.416664,
+                        30.625
+                    ],
+                    [
+                        -84.416306,
+                        30.625267
+                    ],
+                    [
+                        -84.415504,
+                        30.625999
+                    ],
+                    [
+                        -84.415504,
+                        30.625834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

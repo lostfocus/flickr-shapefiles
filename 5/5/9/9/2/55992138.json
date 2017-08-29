@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992138,
+    "properties": {
+        "woe_id": 55992138,
+        "place_id": "ZKvp_TKcBJUe_s_s8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arista, Huntington Station, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535824,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/55992138_20101216_a35d86ec7b.tar.gz"
+        },
+        "bbox": [
+            -73.372192382812,
+            40.833335876465,
+            -73.367530822754,
+            40.834762573242
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.367531,
+                        40.833424
+                    ],
+                    [
+                        -73.367538,
+                        40.833405
+                    ],
+                    [
+                        -73.367661,
+                        40.833336
+                    ],
+                    [
+                        -73.372192,
+                        40.834236
+                    ],
+                    [
+                        -73.367729,
+                        40.834763
+                    ],
+                    [
+                        -73.367531,
+                        40.833424
+                    ]
+                ]
+            ]
+        ]
+    }
+}

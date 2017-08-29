@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970820,
+    "properties": {
+        "woe_id": 55970820,
+        "place_id": "BPDcRCOcBJVwhd7NNw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glenridge, San Diego, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458024,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55970820_20101216_7509d875a8.tar.gz"
+        },
+        "bbox": [
+            -117.07221984863,
+            32.759071350098,
+            -117.06857299805,
+            32.760055541992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.07132,
+                        32.759113
+                    ],
+                    [
+                        -117.07222,
+                        32.760056
+                    ],
+                    [
+                        -117.070541,
+                        32.75988
+                    ],
+                    [
+                        -117.068573,
+                        32.759415
+                    ],
+                    [
+                        -117.069511,
+                        32.759071
+                    ],
+                    [
+                        -117.07132,
+                        32.759113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

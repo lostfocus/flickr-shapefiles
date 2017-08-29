@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55857924,
+    "properties": {
+        "woe_id": 55857924,
+        "place_id": "asULKPacBJT.qCykqQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Bottom, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536323,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55857924_20101216_dfd4958406.tar.gz"
+        },
+        "bbox": [
+            -91.179290771484,
+            30.423049926758,
+            -91.174728393555,
+            30.424789428711
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.176605,
+                        30.42305
+                    ],
+                    [
+                        -91.179291,
+                        30.424789
+                    ],
+                    [
+                        -91.17717,
+                        30.423975
+                    ],
+                    [
+                        -91.175331,
+                        30.423834
+                    ],
+                    [
+                        -91.174728,
+                        30.423803
+                    ],
+                    [
+                        -91.176605,
+                        30.42305
+                    ]
+                ]
+            ]
+        ]
+    }
+}

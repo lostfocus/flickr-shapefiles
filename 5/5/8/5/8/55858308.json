@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55858308,
+    "properties": {
+        "woe_id": 55858308,
+        "place_id": "PoNnzkOcBJRgfWHETQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Main Street Exchange, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541999,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55858308_20101216_f5f866af18.tar.gz"
+        },
+        "bbox": [
+            -105.07350921631,
+            39.913471221924,
+            -105.06755065918,
+            39.915542602539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.070175,
+                        39.913471
+                    ],
+                    [
+                        -105.070816,
+                        39.913883
+                    ],
+                    [
+                        -105.072998,
+                        39.914165
+                    ],
+                    [
+                        -105.073509,
+                        39.91515
+                    ],
+                    [
+                        -105.072601,
+                        39.915321
+                    ],
+                    [
+                        -105.070023,
+                        39.915543
+                    ],
+                    [
+                        -105.068665,
+                        39.914665
+                    ],
+                    [
+                        -105.067551,
+                        39.914398
+                    ],
+                    [
+                        -105.069206,
+                        39.913506
+                    ],
+                    [
+                        -105.070175,
+                        39.913471
+                    ]
+                ]
+            ]
+        ]
+    }
+}

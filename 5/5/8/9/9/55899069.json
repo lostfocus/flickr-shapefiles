@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55899069,
+    "properties": {
+        "woe_id": 55899069,
+        "place_id": "VA2v3iicBJR0.kNhcQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Buenos Aires, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473267,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55899069_20101216_b72e931b1b.tar.gz"
+        },
+        "bbox": [
+            -99.153907775879,
+            19.404697418213,
+            -99.149032592773,
+            19.4118309021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.152084,
+                        19.411655
+                    ],
+                    [
+                        -99.15126,
+                        19.411831
+                    ],
+                    [
+                        -99.149773,
+                        19.40904
+                    ],
+                    [
+                        -99.149033,
+                        19.40694
+                    ],
+                    [
+                        -99.149269,
+                        19.404697
+                    ],
+                    [
+                        -99.14994,
+                        19.406736
+                    ],
+                    [
+                        -99.153908,
+                        19.409388
+                    ],
+                    [
+                        -99.152084,
+                        19.411655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

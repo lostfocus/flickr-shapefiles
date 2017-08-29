@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55992539,
+    "properties": {
+        "woe_id": 55992539,
+        "place_id": "kVg6E02cBJUJXMs5Sg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bell's Corners, Philadelphia, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533847,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55992539_20101216_544233e5ee.tar.gz"
+        },
+        "bbox": [
+            -75.062561035156,
+            40.065090179443,
+            -75.058151245117,
+            40.066688537598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.058235,
+                        40.065399
+                    ],
+                    [
+                        -75.058228,
+                        40.065399
+                    ],
+                    [
+                        -75.058151,
+                        40.065231
+                    ],
+                    [
+                        -75.058296,
+                        40.06514
+                    ],
+                    [
+                        -75.058426,
+                        40.06509
+                    ],
+                    [
+                        -75.062561,
+                        40.066689
+                    ],
+                    [
+                        -75.058235,
+                        40.065399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

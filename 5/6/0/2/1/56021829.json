@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021829,
+    "properties": {
+        "woe_id": 56021829,
+        "place_id": "TqYl6_GcB5xGGOaBqg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lonyo, Dearborn, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497744,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/56021829_20101216_5950b216cc.tar.gz"
+        },
+        "bbox": [
+            -83.141181945801,
+            42.331108093262,
+            -83.13703918457,
+            42.335765838623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.138268,
+                        42.331581
+                    ],
+                    [
+                        -83.138741,
+                        42.331108
+                    ],
+                    [
+                        -83.139839,
+                        42.332031
+                    ],
+                    [
+                        -83.141182,
+                        42.335766
+                    ],
+                    [
+                        -83.137039,
+                        42.33289
+                    ],
+                    [
+                        -83.138268,
+                        42.331581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

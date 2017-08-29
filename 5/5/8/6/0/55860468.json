@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55860468,
+    "properties": {
+        "woe_id": 55860468,
+        "place_id": "2RPuiRGcBJQMTC1YbQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Signal Point, Naperville, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520392,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55860468_20101216_5b12a5da9e.tar.gz"
+        },
+        "bbox": [
+            -88.122222900391,
+            41.73766708374,
+            -88.112579345703,
+            41.745868682861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.118835,
+                        41.737667
+                    ],
+                    [
+                        -88.122223,
+                        41.740555
+                    ],
+                    [
+                        -88.119125,
+                        41.741917
+                    ],
+                    [
+                        -88.115646,
+                        41.745869
+                    ],
+                    [
+                        -88.112579,
+                        41.743587
+                    ],
+                    [
+                        -88.117004,
+                        41.740643
+                    ],
+                    [
+                        -88.118835,
+                        41.737667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

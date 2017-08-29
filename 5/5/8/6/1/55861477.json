@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55861477,
+    "properties": {
+        "woe_id": 55861477,
+        "place_id": "rnYxkwWcBJQGAdvgmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Marketview Heights, Rochester, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546403,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55861477_20101217_50b7dabca0.tar.gz"
+        },
+        "bbox": [
+            -77.596694946289,
+            43.177829742432,
+            -77.595832824707,
+            43.181678771973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.595833,
+                        43.17783
+                    ],
+                    [
+                        -77.596176,
+                        43.178329
+                    ],
+                    [
+                        -77.596695,
+                        43.181679
+                    ],
+                    [
+                        -77.595833,
+                        43.179989
+                    ],
+                    [
+                        -77.595833,
+                        43.17783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

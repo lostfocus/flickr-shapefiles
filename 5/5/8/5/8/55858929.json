@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858929,
+    "properties": {
+        "woe_id": 55858929,
+        "place_id": "ctHnc3ScBJR.eHDwdg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jefferson, Fargo, ND, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292516942,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55858929_20101216_09e39d8c7a.tar.gz"
+        },
+        "bbox": [
+            -96.807479858398,
+            46.874530792236,
+            -96.801200866699,
+            46.877410888672
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.801956,
+                        46.877411
+                    ],
+                    [
+                        -96.801201,
+                        46.874531
+                    ],
+                    [
+                        -96.803268,
+                        46.876312
+                    ],
+                    [
+                        -96.80748,
+                        46.876312
+                    ],
+                    [
+                        -96.805374,
+                        46.87722
+                    ],
+                    [
+                        -96.801956,
+                        46.877411
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55926049,
+    "properties": {
+        "woe_id": 55926049,
+        "place_id": "MDUrn6GcBJWchRjyRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zoological Garden Area, Kolkata, WB, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541127,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55926049_20101216_e4c49281ac.tar.gz"
+        },
+        "bbox": [
+            88.329048156738,
+            22.535310745239,
+            88.331825256348,
+            22.538898468018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        88.331825,
+                        22.537209
+                    ],
+                    [
+                        88.331276,
+                        22.535311
+                    ],
+                    [
+                        88.329048,
+                        22.537689
+                    ],
+                    [
+                        88.331535,
+                        22.538898
+                    ],
+                    [
+                        88.331657,
+                        22.537971
+                    ],
+                    [
+                        88.331825,
+                        22.537209
+                    ]
+                ]
+            ]
+        ]
+    }
+}

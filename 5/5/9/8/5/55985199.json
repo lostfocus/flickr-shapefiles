@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985199,
+    "properties": {
+        "woe_id": 55985199,
+        "place_id": "kkQdCAmcBJVzJisAbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zellwood Station, Zellwood, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548508,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55985199_20101217_d5061ddefd.tar.gz"
+        },
+        "bbox": [
+            -81.583305358887,
+            28.702238082886,
+            -81.580177307129,
+            28.707563400269
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.583015,
+                        28.702238
+                    ],
+                    [
+                        -81.583305,
+                        28.70295
+                    ],
+                    [
+                        -81.582748,
+                        28.707563
+                    ],
+                    [
+                        -81.582222,
+                        28.707281
+                    ],
+                    [
+                        -81.580177,
+                        28.703604
+                    ],
+                    [
+                        -81.583015,
+                        28.702238
+                    ]
+                ]
+            ]
+        ]
+    }
+}

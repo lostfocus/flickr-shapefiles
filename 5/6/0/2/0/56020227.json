@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020227,
+    "properties": {
+        "woe_id": 56020227,
+        "place_id": "wc6e_wycB5xfo9NGcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crestmont, Canton, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519472,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/56020227_20101216_706f0512ab.tar.gz"
+        },
+        "bbox": [
+            -84.526184082031,
+            34.165622711182,
+            -84.525199890137,
+            34.166172027588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.525398,
+                        34.166172
+                    ],
+                    [
+                        -84.5252,
+                        34.166119
+                    ],
+                    [
+                        -84.525475,
+                        34.165623
+                    ],
+                    [
+                        -84.526184,
+                        34.165825
+                    ],
+                    [
+                        -84.525452,
+                        34.166153
+                    ],
+                    [
+                        -84.525398,
+                        34.166172
+                    ]
+                ]
+            ]
+        ]
+    }
+}

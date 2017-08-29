@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55975856,
+    "properties": {
+        "woe_id": 55975856,
+        "place_id": "4v.hsFucBJVfEgHPrg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Keene Acres, Clearwater, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446575,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55975856_20101215_0bd6b9b950.tar.gz"
+        },
+        "bbox": [
+            -82.762672424316,
+            27.960338592529,
+            -82.757286071777,
+            27.960908889771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.761604,
+                        27.960901
+                    ],
+                    [
+                        -82.757713,
+                        27.960846
+                    ],
+                    [
+                        -82.757286,
+                        27.960339
+                    ],
+                    [
+                        -82.761665,
+                        27.960831
+                    ],
+                    [
+                        -82.762672,
+                        27.960909
+                    ],
+                    [
+                        -82.761604,
+                        27.960901
+                    ]
+                ]
+            ]
+        ]
+    }
+}

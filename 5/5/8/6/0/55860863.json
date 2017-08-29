@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860863,
+    "properties": {
+        "woe_id": 55860863,
+        "place_id": "IJdxFECcBJRNHYzU_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wellington West, Overland Park, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449920,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55860863_20101215_0f34d44c14.tar.gz"
+        },
+        "bbox": [
+            -94.709182739258,
+            38.954170227051,
+            -94.704940795898,
+            38.962478637695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.705154,
+                        38.956856
+                    ],
+                    [
+                        -94.704941,
+                        38.955341
+                    ],
+                    [
+                        -94.707085,
+                        38.95417
+                    ],
+                    [
+                        -94.709183,
+                        38.957607
+                    ],
+                    [
+                        -94.706657,
+                        38.962479
+                    ],
+                    [
+                        -94.705154,
+                        38.956856
+                    ]
+                ]
+            ]
+        ]
+    }
+}

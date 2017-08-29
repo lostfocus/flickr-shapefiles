@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55806193,
+    "properties": {
+        "woe_id": 55806193,
+        "place_id": "GEqX5kqcBJSJzAFJ0Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northpointe, Sacramento, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536295,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55806193_20101216_3ca4f1faa7.tar.gz"
+        },
+        "bbox": [
+            -121.48169708252,
+            38.643878936768,
+            -121.4757232666,
+            38.647159576416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.476921,
+                        38.643879
+                    ],
+                    [
+                        -121.481697,
+                        38.645905
+                    ],
+                    [
+                        -121.479393,
+                        38.64716
+                    ],
+                    [
+                        -121.475723,
+                        38.644394
+                    ],
+                    [
+                        -121.476181,
+                        38.644096
+                    ],
+                    [
+                        -121.476921,
+                        38.643879
+                    ]
+                ]
+            ]
+        ]
+    }
+}

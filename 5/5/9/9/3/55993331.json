@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993331,
+    "properties": {
+        "woe_id": 55993331,
+        "place_id": "zzJGWhecBJXf68GLzw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakwood, Bryan, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519335,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55993331_20101216_738464afba.tar.gz"
+        },
+        "bbox": [
+            -96.323524475098,
+            30.635381698608,
+            -96.318939208984,
+            30.639865875244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.323524,
+                        30.639187
+                    ],
+                    [
+                        -96.323448,
+                        30.639866
+                    ],
+                    [
+                        -96.321236,
+                        30.63896
+                    ],
+                    [
+                        -96.318939,
+                        30.637396
+                    ],
+                    [
+                        -96.321686,
+                        30.635382
+                    ],
+                    [
+                        -96.323524,
+                        30.639187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

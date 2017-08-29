@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55884273,
+    "properties": {
+        "woe_id": 55884273,
+        "place_id": "q3mGw8mcBJQpzc07JQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lomas de San Fernando, Zacatecas, ZA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514968,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55884273_20101216_b7d48c3078.tar.gz"
+        },
+        "bbox": [
+            -102.58056640625,
+            22.764759063721,
+            -102.57754516602,
+            22.766693115234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.577843,
+                        22.766693
+                    ],
+                    [
+                        -102.577545,
+                        22.766218
+                    ],
+                    [
+                        -102.578873,
+                        22.764923
+                    ],
+                    [
+                        -102.580566,
+                        22.764759
+                    ],
+                    [
+                        -102.578667,
+                        22.766016
+                    ],
+                    [
+                        -102.577843,
+                        22.766693
+                    ]
+                ]
+            ]
+        ]
+    }
+}

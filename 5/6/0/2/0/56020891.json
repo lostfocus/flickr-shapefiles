@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56020891,
+    "properties": {
+        "woe_id": 56020891,
+        "place_id": "kszg5nGcB5xGnRxVoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Water Tower Place, West des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531203,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/56020891_20101216_bedd1384b2.tar.gz"
+        },
+        "bbox": [
+            -93.761566162109,
+            41.598617553711,
+            -93.758003234863,
+            41.600666046143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.758507,
+                        41.599888
+                    ],
+                    [
+                        -93.758835,
+                        41.599834
+                    ],
+                    [
+                        -93.760887,
+                        41.598618
+                    ],
+                    [
+                        -93.761566,
+                        41.60046
+                    ],
+                    [
+                        -93.759247,
+                        41.600136
+                    ],
+                    [
+                        -93.758003,
+                        41.600666
+                    ],
+                    [
+                        -93.758507,
+                        41.599888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

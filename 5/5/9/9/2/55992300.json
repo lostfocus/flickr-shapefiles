@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55992300,
+    "properties": {
+        "woe_id": 55992300,
+        "place_id": "ciae6yCcBJWzcMu8RQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Highlands, White Plains, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482323,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55992300_20101216_af38f52892.tar.gz"
+        },
+        "bbox": [
+            -73.764579772949,
+            41.015201568604,
+            -73.763496398926,
+            41.016284942627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.763496,
+                        41.015202
+                    ],
+                    [
+                        -73.764,
+                        41.015556
+                    ],
+                    [
+                        -73.76458,
+                        41.016285
+                    ],
+                    [
+                        -73.763908,
+                        41.015545
+                    ],
+                    [
+                        -73.763496,
+                        41.015202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

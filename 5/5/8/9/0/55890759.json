@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55890759,
+    "properties": {
+        "woe_id": 55890759,
+        "place_id": "vl.8KeycBJR15GmT3g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nueva Jacarandas, Morelia, MI, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542728,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55890759_20101216_345161ca33.tar.gz"
+        },
+        "bbox": [
+            -101.18871307373,
+            19.677988052368,
+            -101.18463897705,
+            19.683162689209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.184639,
+                        19.680635
+                    ],
+                    [
+                        -101.185844,
+                        19.677988
+                    ],
+                    [
+                        -101.187218,
+                        19.680071
+                    ],
+                    [
+                        -101.188591,
+                        19.681
+                    ],
+                    [
+                        -101.188713,
+                        19.683163
+                    ],
+                    [
+                        -101.184639,
+                        19.680635
+                    ]
+                ]
+            ]
+        ]
+    }
+}

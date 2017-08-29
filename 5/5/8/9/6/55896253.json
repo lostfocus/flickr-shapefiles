@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55896253,
+    "properties": {
+        "woe_id": 55896253,
+        "place_id": "SxNrO36cBJQ5_qgMWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Huerta, Hermosillo, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541796,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55896253_20101216_0fdef48117.tar.gz"
+        },
+        "bbox": [
+            -110.97470092773,
+            29.086156845093,
+            -110.97250366211,
+            29.091201782227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.973289,
+                        29.091202
+                    ],
+                    [
+                        -110.973145,
+                        29.089781
+                    ],
+                    [
+                        -110.97258,
+                        29.086786
+                    ],
+                    [
+                        -110.974571,
+                        29.086157
+                    ],
+                    [
+                        -110.974701,
+                        29.086906
+                    ],
+                    [
+                        -110.973145,
+                        29.089781
+                    ],
+                    [
+                        -110.972504,
+                        29.090948
+                    ],
+                    [
+                        -110.973289,
+                        29.091202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858883,
+    "properties": {
+        "woe_id": 55858883,
+        "place_id": "0n6LrEWcBJS9aTxxAw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Goosetown, Evansville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528725,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55858883_20101216_096c7f5a65.tar.gz"
+        },
+        "bbox": [
+            -87.566055297852,
+            37.962051391602,
+            -87.563484191895,
+            37.963451385498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.565849,
+                        37.962051
+                    ],
+                    [
+                        -87.566055,
+                        37.962112
+                    ],
+                    [
+                        -87.565842,
+                        37.96307
+                    ],
+                    [
+                        -87.563484,
+                        37.963451
+                    ],
+                    [
+                        -87.565071,
+                        37.962509
+                    ],
+                    [
+                        -87.565849,
+                        37.962051
+                    ]
+                ]
+            ]
+        ]
+    }
+}

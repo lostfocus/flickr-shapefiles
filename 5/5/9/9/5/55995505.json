@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55995505,
+    "properties": {
+        "woe_id": 55995505,
+        "place_id": "JalbMpOcBJW0ysbtxA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stafford Meadows, Stafford, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292399765,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55995505_20101215_3679430ae9.tar.gz"
+        },
+        "bbox": [
+            -77.428428649902,
+            38.474891662598,
+            -77.426261901855,
+            38.475830078125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.428207,
+                        38.474892
+                    ],
+                    [
+                        -77.428429,
+                        38.474957
+                    ],
+                    [
+                        -77.426735,
+                        38.475513
+                    ],
+                    [
+                        -77.426262,
+                        38.47583
+                    ],
+                    [
+                        -77.426308,
+                        38.475792
+                    ],
+                    [
+                        -77.426735,
+                        38.475513
+                    ],
+                    [
+                        -77.428207,
+                        38.474892
+                    ]
+                ]
+            ]
+        ]
+    }
+}

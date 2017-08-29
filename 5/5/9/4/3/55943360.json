@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55943360,
+    "properties": {
+        "woe_id": 55943360,
+        "place_id": "5s0JoQmcBJWNwmzO3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rumaithiya-block 10, Kuwait City, Hawalli, KW, Kuwait"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523245,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55943360_20101216_2d04043d20.tar.gz"
+        },
+        "bbox": [
+            48.064296722412,
+            29.320558547974,
+            48.066352844238,
+            29.322650909424
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        48.066059,
+                        29.320601
+                    ],
+                    [
+                        48.065674,
+                        29.321392
+                    ],
+                    [
+                        48.064297,
+                        29.322651
+                    ],
+                    [
+                        48.066227,
+                        29.321234
+                    ],
+                    [
+                        48.066353,
+                        29.320559
+                    ],
+                    [
+                        48.066059,
+                        29.320601
+                    ]
+                ]
+            ]
+        ]
+    }
+}

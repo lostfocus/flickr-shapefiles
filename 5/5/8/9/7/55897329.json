@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55897329,
+    "properties": {
+        "woe_id": 55897329,
+        "place_id": ".16bb8ecBJTgjOUVqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc San Fernando, Tecate, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514962,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55897329_20101216_2f148b58ae.tar.gz"
+        },
+        "bbox": [
+            -116.62577056885,
+            32.56908416748,
+            -116.62449645996,
+            32.571472167969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.625175,
+                        32.571407
+                    ],
+                    [
+                        -116.624916,
+                        32.571472
+                    ],
+                    [
+                        -116.624496,
+                        32.57095
+                    ],
+                    [
+                        -116.625771,
+                        32.569084
+                    ],
+                    [
+                        -116.625412,
+                        32.571182
+                    ],
+                    [
+                        -116.625175,
+                        32.571407
+                    ]
+                ]
+            ]
+        ]
+    }
+}

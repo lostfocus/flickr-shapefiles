@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55899123,
+    "properties": {
+        "woe_id": 55899123,
+        "place_id": "C07fB_ycBJQAk_N6RQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Manzanos, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446513,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55899123_20101215_dca32190f0.tar.gz"
+        },
+        "bbox": [
+            -99.185173034668,
+            19.445024490356,
+            -99.179084777832,
+            19.449840545654
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.183365,
+                        19.449841
+                    ],
+                    [
+                        -99.179085,
+                        19.449518
+                    ],
+                    [
+                        -99.179611,
+                        19.446491
+                    ],
+                    [
+                        -99.182205,
+                        19.445024
+                    ],
+                    [
+                        -99.185173,
+                        19.448362
+                    ],
+                    [
+                        -99.183365,
+                        19.449841
+                    ]
+                ]
+            ]
+        ]
+    }
+}

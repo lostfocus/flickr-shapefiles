@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969792,
+    "properties": {
+        "woe_id": 55969792,
+        "place_id": "6MJCAsqcBJVKZyXZgA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunrise, Laguna Hills, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507711,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55969792_20101216_ccab47700a.tar.gz"
+        },
+        "bbox": [
+            -117.69722747803,
+            33.580188751221,
+            -117.69671630859,
+            33.581111907959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.697227,
+                        33.580189
+                    ],
+                    [
+                        -117.696945,
+                        33.580662
+                    ],
+                    [
+                        -117.696716,
+                        33.581112
+                    ],
+                    [
+                        -117.696915,
+                        33.580692
+                    ],
+                    [
+                        -117.697197,
+                        33.580189
+                    ],
+                    [
+                        -117.697227,
+                        33.580189
+                    ]
+                ]
+            ]
+        ]
+    }
+}

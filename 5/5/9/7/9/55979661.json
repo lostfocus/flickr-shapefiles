@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55979661,
+    "properties": {
+        "woe_id": 55979661,
+        "place_id": "Z.7EFticBJUlZD.CJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakeview, Mount Dora, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535002,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55979661_20101216_f2572e7081.tar.gz"
+        },
+        "bbox": [
+            -81.638763427734,
+            28.795883178711,
+            -81.638412475586,
+            28.795999526978
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.638412,
+                        28.796
+                    ],
+                    [
+                        -81.638428,
+                        28.795883
+                    ],
+                    [
+                        -81.638458,
+                        28.795883
+                    ],
+                    [
+                        -81.638763,
+                        28.795923
+                    ],
+                    [
+                        -81.638634,
+                        28.79599
+                    ],
+                    [
+                        -81.638412,
+                        28.796
+                    ]
+                ]
+            ]
+        ]
+    }
+}

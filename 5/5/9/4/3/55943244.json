@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55943244,
+    "properties": {
+        "woe_id": 55943244,
+        "place_id": "H_BtYqucBJX1L8qofQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mishref-block 2, Kuwait City, Hawalli, KW, Kuwait"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446526,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55943244_20101215_2136d67b72.tar.gz"
+        },
+        "bbox": [
+            48.060977935791,
+            29.282968521118,
+            48.065357208252,
+            29.288045883179
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        48.065357,
+                        29.288046
+                    ],
+                    [
+                        48.063084,
+                        29.282969
+                    ],
+                    [
+                        48.061321,
+                        29.284489
+                    ],
+                    [
+                        48.060978,
+                        29.285801
+                    ],
+                    [
+                        48.063641,
+                        29.287783
+                    ],
+                    [
+                        48.065357,
+                        29.288046
+                    ]
+                ]
+            ]
+        ]
+    }
+}

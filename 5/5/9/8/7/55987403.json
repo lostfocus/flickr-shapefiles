@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987403,
+    "properties": {
+        "woe_id": 55987403,
+        "place_id": "PcCamiycBJVxO1.Kfw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Meadows, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515264,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55987403_20101216_aa57b5d529.tar.gz"
+        },
+        "bbox": [
+            -111.03704071045,
+            45.648601531982,
+            -111.0366973877,
+            45.652614593506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.037041,
+                        45.650505
+                    ],
+                    [
+                        -111.037041,
+                        45.652615
+                    ],
+                    [
+                        -111.036865,
+                        45.65237
+                    ],
+                    [
+                        -111.036697,
+                        45.649979
+                    ],
+                    [
+                        -111.036758,
+                        45.648602
+                    ],
+                    [
+                        -111.037041,
+                        45.650505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

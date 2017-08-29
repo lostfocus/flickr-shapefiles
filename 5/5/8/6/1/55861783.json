@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861783,
+    "properties": {
+        "woe_id": 55861783,
+        "place_id": "UzqFLbScBJSkQZHuDg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tada, Santa Fe, NM, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540689,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55861783_20101216_c91d40f8d2.tar.gz"
+        },
+        "bbox": [
+            -105.94395446777,
+            35.703231811523,
+            -105.93781280518,
+            35.7067527771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.937813,
+                        35.705009
+                    ],
+                    [
+                        -105.938202,
+                        35.703232
+                    ],
+                    [
+                        -105.939789,
+                        35.703796
+                    ],
+                    [
+                        -105.943954,
+                        35.705696
+                    ],
+                    [
+                        -105.942955,
+                        35.706753
+                    ],
+                    [
+                        -105.937813,
+                        35.705009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

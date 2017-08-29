@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55891225,
+    "properties": {
+        "woe_id": 55891225,
+        "place_id": "oNO50CacBJR4MRlfGQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Sebastian, Queretaro, QT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519324,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55891225_20101216_e90bbe4b08.tar.gz"
+        },
+        "bbox": [
+            -100.39496612549,
+            20.598684310913,
+            -100.39267730713,
+            20.600318908691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.3927,
+                        20.600319
+                    ],
+                    [
+                        -100.392677,
+                        20.599726
+                    ],
+                    [
+                        -100.393829,
+                        20.599167
+                    ],
+                    [
+                        -100.394669,
+                        20.598684
+                    ],
+                    [
+                        -100.394691,
+                        20.598858
+                    ],
+                    [
+                        -100.394966,
+                        20.599829
+                    ],
+                    [
+                        -100.3927,
+                        20.600319
+                    ]
+                ]
+            ]
+        ]
+    }
+}

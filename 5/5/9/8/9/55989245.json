@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55989245,
+    "properties": {
+        "woe_id": 55989245,
+        "place_id": "H7kBF6mcBJVWlYtNiw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkside, Holly Springs, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523875,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55989245_20101216_40dd601902.tar.gz"
+        },
+        "bbox": [
+            -78.835998535156,
+            35.636165618896,
+            -78.829986572266,
+            35.638328552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.830299,
+                        35.638329
+                    ],
+                    [
+                        -78.829987,
+                        35.638241
+                    ],
+                    [
+                        -78.832336,
+                        35.636333
+                    ],
+                    [
+                        -78.832497,
+                        35.636166
+                    ],
+                    [
+                        -78.835999,
+                        35.636166
+                    ],
+                    [
+                        -78.83445,
+                        35.636707
+                    ],
+                    [
+                        -78.830299,
+                        35.638329
+                    ]
+                ]
+            ]
+        ]
+    }
+}

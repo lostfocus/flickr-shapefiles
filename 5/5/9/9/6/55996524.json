@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996524,
+    "properties": {
+        "woe_id": 55996524,
+        "place_id": "mitlNfWcBJWuqRpF_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Buckman Garden Tracts, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534296,
+        "alpha": 1.0e-5,
+        "points": 27,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55996524_20101216_e78249b32a.tar.gz"
+        },
+        "bbox": [
+            -122.6311416626,
+            45.688167572021,
+            -122.6301651001,
+            45.688899993896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.630997,
+                        45.6889
+                    ],
+                    [
+                        -122.630501,
+                        45.688667
+                    ],
+                    [
+                        -122.630165,
+                        45.688332
+                    ],
+                    [
+                        -122.630501,
+                        45.688168
+                    ],
+                    [
+                        -122.631142,
+                        45.688416
+                    ],
+                    [
+                        -122.630997,
+                        45.6889
+                    ]
+                ]
+            ]
+        ]
+    }
+}

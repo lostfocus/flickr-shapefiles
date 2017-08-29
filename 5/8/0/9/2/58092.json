@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 58092,
+    "properties": {
+        "woe_id": 58092,
+        "place_id": "zSQV1fmcCZyXiQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Claret, San Jose, San Jose, CR, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528800,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/58092_20101216_e232514798.tar.gz"
+        },
+        "bbox": [
+            -84.100128173828,
+            9.9393796920776,
+            -84.094329833984,
+            9.9411945343018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.096008,
+                        9.941195
+                    ],
+                    [
+                        -84.09433,
+                        9.939515
+                    ],
+                    [
+                        -84.095619,
+                        9.93938
+                    ],
+                    [
+                        -84.099762,
+                        9.940149
+                    ],
+                    [
+                        -84.100128,
+                        9.940413
+                    ],
+                    [
+                        -84.096008,
+                        9.941195
+                    ]
+                ]
+            ]
+        ]
+    }
+}

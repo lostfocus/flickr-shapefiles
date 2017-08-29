@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55805741,
+    "properties": {
+        "woe_id": 55805741,
+        "place_id": "UgLubBOcBJRVSFJKSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillside Morningside, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540053,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55805741_20101216_516337b029.tar.gz"
+        },
+        "bbox": [
+            -97.321304321289,
+            32.720947265625,
+            -97.316833496094,
+            32.728164672852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.320801,
+                        32.725399
+                    ],
+                    [
+                        -97.320541,
+                        32.726147
+                    ],
+                    [
+                        -97.316833,
+                        32.728165
+                    ],
+                    [
+                        -97.318733,
+                        32.722691
+                    ],
+                    [
+                        -97.321037,
+                        32.720947
+                    ],
+                    [
+                        -97.321304,
+                        32.724606
+                    ],
+                    [
+                        -97.320801,
+                        32.725399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

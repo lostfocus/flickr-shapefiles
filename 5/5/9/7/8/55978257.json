@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55978257,
+    "properties": {
+        "woe_id": 55978257,
+        "place_id": "x7oEoQCcBJV.rAYiNg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glen Echo, Lakeland, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520453,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55978257_20101216_fda163b75e.tar.gz"
+        },
+        "bbox": [
+            -81.953300476074,
+            28.073324203491,
+            -81.952331542969,
+            28.073858261108
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.9533,
+                        28.07382
+                    ],
+                    [
+                        -81.9533,
+                        28.073858
+                    ],
+                    [
+                        -81.952332,
+                        28.073833
+                    ],
+                    [
+                        -81.952385,
+                        28.073685
+                    ],
+                    [
+                        -81.952522,
+                        28.073324
+                    ],
+                    [
+                        -81.9533,
+                        28.07382
+                    ]
+                ]
+            ]
+        ]
+    }
+}

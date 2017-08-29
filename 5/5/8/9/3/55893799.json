@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55893799,
+    "properties": {
+        "woe_id": 55893799,
+        "place_id": "MgKY_z6cBJROUBBYzg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Victoria, S. Luis Potosi, SL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543604,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55893799_20101216_5a2b39459e.tar.gz"
+        },
+        "bbox": [
+            -100.9818649292,
+            22.154363632202,
+            -100.9774017334,
+            22.159585952759
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.980209,
+                        22.154369
+                    ],
+                    [
+                        -100.981178,
+                        22.156088
+                    ],
+                    [
+                        -100.981865,
+                        22.157578
+                    ],
+                    [
+                        -100.977402,
+                        22.159586
+                    ],
+                    [
+                        -100.977745,
+                        22.155432
+                    ],
+                    [
+                        -100.980202,
+                        22.154364
+                    ],
+                    [
+                        -100.980209,
+                        22.154369
+                    ]
+                ]
+            ]
+        ]
+    }
+}

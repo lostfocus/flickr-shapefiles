@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55972992,
+    "properties": {
+        "woe_id": 55972992,
+        "place_id": "qT0KJo2cBJV2UO_QyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lincoln Acres, Denver, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452989,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/55972992_20101215_a607528cc4.tar.gz"
+        },
+        "bbox": [
+            -105.02388763428,
+            39.882606506348,
+            -105.0203704834,
+            39.884620666504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.023888,
+                        39.883602
+                    ],
+                    [
+                        -105.022812,
+                        39.884109
+                    ],
+                    [
+                        -105.020683,
+                        39.884621
+                    ],
+                    [
+                        -105.02037,
+                        39.884113
+                    ],
+                    [
+                        -105.023376,
+                        39.882607
+                    ],
+                    [
+                        -105.023888,
+                        39.883602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

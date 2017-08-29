@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986911,
+    "properties": {
+        "woe_id": 55986911,
+        "place_id": "x7XPExOcBJVmogKHHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wellington Hill, Mattapan, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531876,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55986911_20101216_30734bb8c8.tar.gz"
+        },
+        "bbox": [
+            -71.09944152832,
+            42.279167175293,
+            -71.098892211914,
+            42.279998779297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.099167,
+                        42.279446
+                    ],
+                    [
+                        -71.099442,
+                        42.279999
+                    ],
+                    [
+                        -71.099167,
+                        42.27972
+                    ],
+                    [
+                        -71.098892,
+                        42.279446
+                    ],
+                    [
+                        -71.098892,
+                        42.279167
+                    ],
+                    [
+                        -71.099167,
+                        42.279446
+                    ]
+                ]
+            ]
+        ]
+    }
+}

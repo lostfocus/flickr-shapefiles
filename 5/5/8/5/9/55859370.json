@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859370,
+    "properties": {
+        "woe_id": 55859370,
+        "place_id": "DAgDAqqcBJT1mf2lCg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Place Vendome HOA, Glendale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464324,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55859370_20101216_b9cb51f4ba.tar.gz"
+        },
+        "bbox": [
+            -112.22045135498,
+            33.662113189697,
+            -112.21733093262,
+            33.668891906738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.220451,
+                        33.664688
+                    ],
+                    [
+                        -112.22023,
+                        33.668892
+                    ],
+                    [
+                        -112.21991,
+                        33.668427
+                    ],
+                    [
+                        -112.217331,
+                        33.6665
+                    ],
+                    [
+                        -112.217697,
+                        33.662113
+                    ],
+                    [
+                        -112.220451,
+                        33.664688
+                    ]
+                ]
+            ]
+        ]
+    }
+}

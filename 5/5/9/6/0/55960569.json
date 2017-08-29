@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55960569,
+    "properties": {
+        "woe_id": 55960569,
+        "place_id": "8G9U2lucBJWRZw.5lw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eastchester, New York, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531257,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55960569_20101216_1e84061742.tar.gz"
+        },
+        "bbox": [
+            -73.808372497559,
+            40.890518188477,
+            -73.805892944336,
+            40.898998260498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.806305,
+                        40.894554
+                    ],
+                    [
+                        -73.808372,
+                        40.890518
+                    ],
+                    [
+                        -73.80732,
+                        40.895554
+                    ],
+                    [
+                        -73.806999,
+                        40.898998
+                    ],
+                    [
+                        -73.805893,
+                        40.896133
+                    ],
+                    [
+                        -73.806305,
+                        40.894554
+                    ]
+                ]
+            ]
+        ]
+    }
+}

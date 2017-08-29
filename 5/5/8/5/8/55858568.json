@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858568,
+    "properties": {
+        "woe_id": 55858568,
+        "place_id": "6oYv5XucBJTn5uwTjA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eagle, Pompano Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514964,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/55858568_20101216_1faeeaa916.tar.gz"
+        },
+        "bbox": [
+            -80.280982971191,
+            26.248100280762,
+            -80.280403137207,
+            26.248483657837
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.280983,
+                        26.248199
+                    ],
+                    [
+                        -80.280746,
+                        26.2484
+                    ],
+                    [
+                        -80.280617,
+                        26.248484
+                    ],
+                    [
+                        -80.280403,
+                        26.2481
+                    ],
+                    [
+                        -80.280952,
+                        26.24815
+                    ],
+                    [
+                        -80.280983,
+                        26.248199
+                    ]
+                ]
+            ]
+        ]
+    }
+}

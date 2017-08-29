@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55988629,
+    "properties": {
+        "woe_id": 55988629,
+        "place_id": "mlq33C.cBJVTcL6V7g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rosemont, Durham, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549188,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55988629_20101217_13004eaa28.tar.gz"
+        },
+        "bbox": [
+            -78.928352355957,
+            35.861663818359,
+            -78.927925109863,
+            35.862342834473
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.928131,
+                        35.861664
+                    ],
+                    [
+                        -78.92823,
+                        35.861927
+                    ],
+                    [
+                        -78.928352,
+                        35.862343
+                    ],
+                    [
+                        -78.927925,
+                        35.862049
+                    ],
+                    [
+                        -78.928001,
+                        35.861675
+                    ],
+                    [
+                        -78.928131,
+                        35.861664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

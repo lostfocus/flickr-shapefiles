@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021019,
+    "properties": {
+        "woe_id": 56021019,
+        "place_id": "eEhan9ecB5wfgLHVeg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Constitution Hills, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528790,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/56021019_20101216_0e7d960aea.tar.gz"
+        },
+        "bbox": [
+            -93.53604888916,
+            41.585773468018,
+            -93.53352355957,
+            41.588584899902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.536049,
+                        41.587555
+                    ],
+                    [
+                        -93.535881,
+                        41.58762
+                    ],
+                    [
+                        -93.533539,
+                        41.588585
+                    ],
+                    [
+                        -93.533524,
+                        41.585827
+                    ],
+                    [
+                        -93.534637,
+                        41.585773
+                    ],
+                    [
+                        -93.536049,
+                        41.587555
+                    ]
+                ]
+            ]
+        ]
+    }
+}

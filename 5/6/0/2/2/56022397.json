@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022397,
+    "properties": {
+        "woe_id": 56022397,
+        "place_id": "dY6y5yecB5x0Dp_rOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winton, Lakewood, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547250,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/56022397_20101217_ced358d455.tar.gz"
+        },
+        "bbox": [
+            -81.779304504395,
+            41.493213653564,
+            -81.776557922363,
+            41.493854522705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.778618,
+                        41.493855
+                    ],
+                    [
+                        -81.776558,
+                        41.493214
+                    ],
+                    [
+                        -81.77742,
+                        41.493214
+                    ],
+                    [
+                        -81.778786,
+                        41.493248
+                    ],
+                    [
+                        -81.779305,
+                        41.493855
+                    ],
+                    [
+                        -81.778618,
+                        41.493855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

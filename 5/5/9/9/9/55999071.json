@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999071,
+    "properties": {
+        "woe_id": 55999071,
+        "place_id": "x42HfKecBJVJeDFMGg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brown's Farm, Orangeville, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526059,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55999071_20101216_7d7a7dc133.tar.gz"
+        },
+        "bbox": [
+            -80.115501403809,
+            43.916332244873,
+            -80.114669799805,
+            43.916831970215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.115334,
+                        43.916832
+                    ],
+                    [
+                        -80.115166,
+                        43.916832
+                    ],
+                    [
+                        -80.11467,
+                        43.916332
+                    ],
+                    [
+                        -80.115166,
+                        43.916664
+                    ],
+                    [
+                        -80.115501,
+                        43.916832
+                    ],
+                    [
+                        -80.115334,
+                        43.916832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

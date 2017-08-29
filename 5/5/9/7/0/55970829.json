@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55970829,
+    "properties": {
+        "woe_id": 55970829,
+        "place_id": "9Ose9UScBJXQPddd7w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Legacy Walk, San Diego, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523849,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55970829_20101216_ec5343c405.tar.gz"
+        },
+        "bbox": [
+            -117.10311126709,
+            32.695045471191,
+            -117.1022567749,
+            32.695735931396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.103111,
+                        32.695599
+                    ],
+                    [
+                        -117.103096,
+                        32.695736
+                    ],
+                    [
+                        -117.102257,
+                        32.695045
+                    ],
+                    [
+                        -117.103065,
+                        32.695499
+                    ],
+                    [
+                        -117.103111,
+                        32.695599
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997586,
+    "properties": {
+        "woe_id": 55997586,
+        "place_id": "3pEmbOKcBJWyXf5YoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Serencourt, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497383,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55997586_20101216_7924dd995e.tar.gz"
+        },
+        "bbox": [
+            -122.56391906738,
+            45.65461730957,
+            -122.56107330322,
+            45.656917572021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.563911,
+                        45.654636
+                    ],
+                    [
+                        -122.561073,
+                        45.656918
+                    ],
+                    [
+                        -122.563889,
+                        45.654629
+                    ],
+                    [
+                        -122.563911,
+                        45.654617
+                    ],
+                    [
+                        -122.563919,
+                        45.654621
+                    ],
+                    [
+                        -122.563911,
+                        45.654636
+                    ]
+                ]
+            ]
+        ]
+    }
+}

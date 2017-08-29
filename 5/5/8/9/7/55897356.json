@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55897356,
+    "properties": {
+        "woe_id": 55897356,
+        "place_id": "I.FQj_ucBJRKugpn_g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Primero de Mayo, Tecate, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450018,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55897356_20101215_a8bbb1fdef.tar.gz"
+        },
+        "bbox": [
+            -116.59712982178,
+            32.578773498535,
+            -116.59369659424,
+            32.580303192139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.59713,
+                        32.57951
+                    ],
+                    [
+                        -116.59713,
+                        32.579979
+                    ],
+                    [
+                        -116.596268,
+                        32.579906
+                    ],
+                    [
+                        -116.593697,
+                        32.580303
+                    ],
+                    [
+                        -116.596611,
+                        32.578922
+                    ],
+                    [
+                        -116.597,
+                        32.578773
+                    ],
+                    [
+                        -116.59713,
+                        32.57951
+                    ]
+                ]
+            ]
+        ]
+    }
+}

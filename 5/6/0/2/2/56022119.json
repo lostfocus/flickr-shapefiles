@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022119,
+    "properties": {
+        "woe_id": 56022119,
+        "place_id": "q_D8IQacB5wMM3UZ8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Elizabeth Park, Trenton, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450163,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/56022119_20101215_60d95889ac.tar.gz"
+        },
+        "bbox": [
+            -83.181350708008,
+            42.130023956299,
+            -83.179290771484,
+            42.132381439209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.181351,
+                        42.130505
+                    ],
+                    [
+                        -83.180748,
+                        42.132381
+                    ],
+                    [
+                        -83.179291,
+                        42.130882
+                    ],
+                    [
+                        -83.180321,
+                        42.130024
+                    ],
+                    [
+                        -83.181351,
+                        42.130505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

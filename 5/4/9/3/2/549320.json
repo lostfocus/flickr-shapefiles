@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 549320,
+    "properties": {
+        "woe_id": 549320,
+        "place_id": "nGJlMWicBZUS0_w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ober Andritz, Ober Andritz, STM, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248051367,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3503\/shapefiles\/549320_20090720_4497fa1721.tar.gz"
+        },
+        "bbox": [
+            15.410546302795,
+            47.113269805908,
+            15.414065361023,
+            47.116306304932
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.411125,
+                        47.115501
+                    ],
+                    [
+                        15.410943,
+                        47.115715
+                    ],
+                    [
+                        15.410546,
+                        47.116306
+                    ],
+                    [
+                        15.412273,
+                        47.11602
+                    ],
+                    [
+                        15.414065,
+                        47.11327
+                    ],
+                    [
+                        15.411125,
+                        47.115501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

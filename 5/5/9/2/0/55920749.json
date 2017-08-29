@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55920749,
+    "properties": {
+        "woe_id": 55920749,
+        "place_id": "f1KsLWacBJUU9JUKZg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Cerro Azul, Quiroga, MI, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503805,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55920749_20101216_7b755eb8fb.tar.gz"
+        },
+        "bbox": [
+            -101.52452850342,
+            19.66184425354,
+            -101.52313232422,
+            19.664068222046
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.523132,
+                        19.664068
+                    ],
+                    [
+                        -101.523155,
+                        19.663885
+                    ],
+                    [
+                        -101.523346,
+                        19.663511
+                    ],
+                    [
+                        -101.524529,
+                        19.661844
+                    ],
+                    [
+                        -101.524078,
+                        19.662895
+                    ],
+                    [
+                        -101.523132,
+                        19.664068
+                    ]
+                ]
+            ]
+        ]
+    }
+}

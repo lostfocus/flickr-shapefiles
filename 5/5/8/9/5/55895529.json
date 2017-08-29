@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55895529,
+    "properties": {
+        "woe_id": 55895529,
+        "place_id": "kb8BMCicBJRd0Dt67Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Municipal, Villahermosa, TB, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457934,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55895529_20101216_794c0961b9.tar.gz"
+        },
+        "bbox": [
+            -92.932662963867,
+            17.987499237061,
+            -92.928329467773,
+            17.989366531372
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.92836,
+                        17.988867
+                    ],
+                    [
+                        -92.928329,
+                        17.988611
+                    ],
+                    [
+                        -92.929169,
+                        17.987499
+                    ],
+                    [
+                        -92.932663,
+                        17.988497
+                    ],
+                    [
+                        -92.929123,
+                        17.989367
+                    ],
+                    [
+                        -92.92836,
+                        17.988867
+                    ]
+                ]
+            ]
+        ]
+    }
+}

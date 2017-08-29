@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858902,
+    "properties": {
+        "woe_id": 55858902,
+        "place_id": "tJS7prOcBJRieV9__Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rosedale South, Evansville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521599,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/55858902_20101216_9ee59a3583.tar.gz"
+        },
+        "bbox": [
+            -87.53938293457,
+            37.970916748047,
+            -87.536666870117,
+            37.974998474121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.539383,
+                        37.971451
+                    ],
+                    [
+                        -87.539375,
+                        37.971462
+                    ],
+                    [
+                        -87.539307,
+                        37.971531
+                    ],
+                    [
+                        -87.536667,
+                        37.974998
+                    ],
+                    [
+                        -87.537422,
+                        37.970917
+                    ],
+                    [
+                        -87.539383,
+                        37.971451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

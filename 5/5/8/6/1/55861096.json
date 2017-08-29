@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55861096,
+    "properties": {
+        "woe_id": 55861096,
+        "place_id": "kDL0yOycBJR2vbwauA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Skyline Drive, Peoria, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533627,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55861096_20101216_b2c0bcfbd3.tar.gz"
+        },
+        "bbox": [
+            -89.581146240234,
+            40.760650634766,
+            -89.577713012695,
+            40.762470245361
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.578316,
+                        40.760651
+                    ],
+                    [
+                        -89.578659,
+                        40.760799
+                    ],
+                    [
+                        -89.581146,
+                        40.76247
+                    ],
+                    [
+                        -89.578911,
+                        40.762306
+                    ],
+                    [
+                        -89.577713,
+                        40.762341
+                    ],
+                    [
+                        -89.578087,
+                        40.761665
+                    ],
+                    [
+                        -89.578316,
+                        40.760651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

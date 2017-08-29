@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55894827,
+    "properties": {
+        "woe_id": 55894827,
+        "place_id": "syMkasCcBJS0Rtt7kg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc San Cayetano, Aguascalientes, AG, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442663,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55894827_20101215_178cb16be3.tar.gz"
+        },
+        "bbox": [
+            -102.31121063232,
+            21.896354675293,
+            -102.30777740479,
+            21.900630950928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.307877,
+                        21.899738
+                    ],
+                    [
+                        -102.307777,
+                        21.899689
+                    ],
+                    [
+                        -102.307999,
+                        21.896444
+                    ],
+                    [
+                        -102.311211,
+                        21.896355
+                    ],
+                    [
+                        -102.310287,
+                        21.900631
+                    ],
+                    [
+                        -102.307877,
+                        21.899738
+                    ]
+                ]
+            ]
+        ]
+    }
+}

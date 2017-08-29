@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859211,
+    "properties": {
+        "woe_id": 55859211,
+        "place_id": "1aNCYXScBJSGfzp43w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Oaks, Garland, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459081,
+        "alpha": 1.25e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55859211_20101216_2cc793429b.tar.gz"
+        },
+        "bbox": [
+            -96.595664978027,
+            32.839534759521,
+            -96.590881347656,
+            32.846496582031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.595131,
+                        32.84169
+                    ],
+                    [
+                        -96.595665,
+                        32.842335
+                    ],
+                    [
+                        -96.595657,
+                        32.846497
+                    ],
+                    [
+                        -96.590881,
+                        32.842503
+                    ],
+                    [
+                        -96.592438,
+                        32.839535
+                    ],
+                    [
+                        -96.595131,
+                        32.84169
+                    ]
+                ]
+            ]
+        ]
+    }
+}

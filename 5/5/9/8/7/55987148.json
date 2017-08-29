@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987148,
+    "properties": {
+        "woe_id": 55987148,
+        "place_id": "nRw1ToacBJWIgVbqmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Thornoaks, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503862,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55987148_20101216_8e7e64c780.tar.gz"
+        },
+        "bbox": [
+            -83.680328369141,
+            42.257778167725,
+            -83.678497314453,
+            42.261611938477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.679169,
+                        42.257778
+                    ],
+                    [
+                        -83.679039,
+                        42.25935
+                    ],
+                    [
+                        -83.680328,
+                        42.261612
+                    ],
+                    [
+                        -83.678665,
+                        42.261333
+                    ],
+                    [
+                        -83.678497,
+                        42.259335
+                    ],
+                    [
+                        -83.679169,
+                        42.257778
+                    ]
+                ]
+            ]
+        ]
+    }
+}

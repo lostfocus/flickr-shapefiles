@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55925395,
+    "properties": {
+        "woe_id": 55925395,
+        "place_id": "IPfYG4OcBJUBtuVfIw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Satara Road Area, Pune, MAH, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473567,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55925395_20101216_019cbca6a4.tar.gz"
+        },
+        "bbox": [
+            73.857780456543,
+            18.498126983643,
+            73.861633300781,
+            18.500339508057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        73.85791,
+                        18.498472
+                    ],
+                    [
+                        73.85778,
+                        18.498737
+                    ],
+                    [
+                        73.858711,
+                        18.50034
+                    ],
+                    [
+                        73.860054,
+                        18.498981
+                    ],
+                    [
+                        73.861633,
+                        18.498127
+                    ],
+                    [
+                        73.85791,
+                        18.498472
+                    ]
+                ]
+            ]
+        ]
+    }
+}

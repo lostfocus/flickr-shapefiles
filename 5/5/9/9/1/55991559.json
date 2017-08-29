@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55991559,
+    "properties": {
+        "woe_id": 55991559,
+        "place_id": "c7QUzOecBJVDmXUQ4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherburne, Portsmouth, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509866,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55991559_20101216_278662d814.tar.gz"
+        },
+        "bbox": [
+            -70.803840637207,
+            43.05850982666,
+            -70.797637939453,
+            43.062046051025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.800835,
+                        43.06039
+                    ],
+                    [
+                        -70.797638,
+                        43.062046
+                    ],
+                    [
+                        -70.800789,
+                        43.060062
+                    ],
+                    [
+                        -70.803841,
+                        43.05851
+                    ],
+                    [
+                        -70.800835,
+                        43.06039
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55899905,
+    "properties": {
+        "woe_id": 55899905,
+        "place_id": "5Huy.V2cBJSq1FIWHQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marina Palmira, La Paz, BS, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473268,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55899905_20101216_76831ff598.tar.gz"
+        },
+        "bbox": [
+            -110.30422210693,
+            24.17986869812,
+            -110.30099487305,
+            24.182931900024
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.304222,
+                        24.180756
+                    ],
+                    [
+                        -110.303352,
+                        24.182932
+                    ],
+                    [
+                        -110.302559,
+                        24.181913
+                    ],
+                    [
+                        -110.300995,
+                        24.179869
+                    ],
+                    [
+                        -110.303291,
+                        24.180075
+                    ],
+                    [
+                        -110.304222,
+                        24.180756
+                    ]
+                ]
+            ]
+        ]
+    }
+}

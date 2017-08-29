@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861084,
+    "properties": {
+        "woe_id": 55861084,
+        "place_id": "e2gQrCScBJRogY0CAw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakbrook, Peoria, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530924,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55861084_20101216_de7f7743ec.tar.gz"
+        },
+        "bbox": [
+            -89.587188720703,
+            40.836006164551,
+            -89.583572387695,
+            40.839553833008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.585953,
+                        40.836006
+                    ],
+                    [
+                        -89.587189,
+                        40.83799
+                    ],
+                    [
+                        -89.584641,
+                        40.839554
+                    ],
+                    [
+                        -89.583572,
+                        40.836693
+                    ],
+                    [
+                        -89.585266,
+                        40.836151
+                    ],
+                    [
+                        -89.585953,
+                        40.836006
+                    ]
+                ]
+            ]
+        ]
+    }
+}

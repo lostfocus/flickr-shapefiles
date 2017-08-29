@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55954543,
+    "properties": {
+        "woe_id": 55954543,
+        "place_id": "McX84EucBJWptYpAtw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Madhavapuram, Thiruvananthapuram, KER, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528478,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55954543_20101216_451d0632bb.tar.gz"
+        },
+        "bbox": [
+            76.886657714844,
+            8.5078563690186,
+            76.889770507812,
+            8.5122833251953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        76.889465,
+                        8.510233
+                    ],
+                    [
+                        76.886658,
+                        8.507856
+                    ],
+                    [
+                        76.887444,
+                        8.509601
+                    ],
+                    [
+                        76.889069,
+                        8.512283
+                    ],
+                    [
+                        76.889771,
+                        8.510795
+                    ],
+                    [
+                        76.889465,
+                        8.510233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858697,
+    "properties": {
+        "woe_id": 55858697,
+        "place_id": "AC9VLOmcBJQ1cvMvkg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Santa Clara, Dayton, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548137,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55858697_20101217_4b895220c8.tar.gz"
+        },
+        "bbox": [
+            -84.210632324219,
+            39.784332275391,
+            -84.210441589355,
+            39.784637451172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.210632,
+                        39.784557
+                    ],
+                    [
+                        -84.210594,
+                        39.784637
+                    ],
+                    [
+                        -84.210442,
+                        39.784607
+                    ],
+                    [
+                        -84.210518,
+                        39.7845
+                    ],
+                    [
+                        -84.210632,
+                        39.784332
+                    ],
+                    [
+                        -84.210632,
+                        39.784557
+                    ]
+                ]
+            ]
+        ]
+    }
+}

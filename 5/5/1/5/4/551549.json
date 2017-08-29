@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 551549,
+    "properties": {
+        "woe_id": 551549,
+        "place_id": "ZCz9oZOcBJ0vKf0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haselstauden, Dornbirn, VBG, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248196820,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3492\/shapefiles\/551549_20090721_c615edcd42.tar.gz"
+        },
+        "bbox": [
+            9.7598934173584,
+            47.442775726318,
+            9.7635450363159,
+            47.44947052002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.762228,
+                        47.449471
+                    ],
+                    [
+                        9.763545,
+                        47.447777
+                    ],
+                    [
+                        9.763206,
+                        47.445126
+                    ],
+                    [
+                        9.759893,
+                        47.442776
+                    ],
+                    [
+                        9.760107,
+                        47.447594
+                    ],
+                    [
+                        9.762228,
+                        47.449471
+                    ]
+                ]
+            ]
+        ]
+    }
+}

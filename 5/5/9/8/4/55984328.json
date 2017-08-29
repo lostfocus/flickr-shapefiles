@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55984328,
+    "properties": {
+        "woe_id": 55984328,
+        "place_id": "jZVZBHecBJUycc8lqw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marsh Island, Vero Beach, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543465,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55984328_20101216_e6b47f77e5.tar.gz"
+        },
+        "bbox": [
+            -80.421920776367,
+            27.757354736328,
+            -80.414443969727,
+            27.761665344238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.418015,
+                        27.760759
+                    ],
+                    [
+                        -80.414444,
+                        27.761665
+                    ],
+                    [
+                        -80.414932,
+                        27.757355
+                    ],
+                    [
+                        -80.417603,
+                        27.759432
+                    ],
+                    [
+                        -80.421921,
+                        27.758177
+                    ],
+                    [
+                        -80.418015,
+                        27.760759
+                    ]
+                ]
+            ]
+        ]
+    }
+}

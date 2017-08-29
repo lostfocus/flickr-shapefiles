@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969814,
+    "properties": {
+        "woe_id": 55969814,
+        "place_id": "pa3kgKCcBJVQaf59qA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Veta, Laguna Niguel, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546991,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55969814_20101217_1118750992.tar.gz"
+        },
+        "bbox": [
+            -117.71231842041,
+            33.526657104492,
+            -117.70800018311,
+            33.533660888672
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.711212,
+                        33.53162
+                    ],
+                    [
+                        -117.708,
+                        33.533661
+                    ],
+                    [
+                        -117.71003,
+                        33.530914
+                    ],
+                    [
+                        -117.71154,
+                        33.526657
+                    ],
+                    [
+                        -117.712318,
+                        33.526894
+                    ],
+                    [
+                        -117.711212,
+                        33.53162
+                    ]
+                ]
+            ]
+        ]
+    }
+}

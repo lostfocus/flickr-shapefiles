@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970531,
+    "properties": {
+        "woe_id": 55970531,
+        "place_id": "sldxypycBJXk1qPUgA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Inyokern Road, Ridgecrest, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527078,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55970531_20101216_848c696055.tar.gz"
+        },
+        "bbox": [
+            -117.76760101318,
+            35.648056030273,
+            -117.76416778564,
+            35.651832580566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.764336,
+                        35.651665
+                    ],
+                    [
+                        -117.764168,
+                        35.651665
+                    ],
+                    [
+                        -117.764999,
+                        35.650833
+                    ],
+                    [
+                        -117.767601,
+                        35.648056
+                    ],
+                    [
+                        -117.767502,
+                        35.651833
+                    ],
+                    [
+                        -117.764336,
+                        35.651665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

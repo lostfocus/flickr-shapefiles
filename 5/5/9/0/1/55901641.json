@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55901641,
+    "properties": {
+        "woe_id": 55901641,
+        "place_id": "cJkvqKOcBJVu9pLFig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cerro Del Erizo, Guanajuato, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543438,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55901641_20101216_ec84362300.tar.gz"
+        },
+        "bbox": [
+            -101.26025390625,
+            21.040447235107,
+            -101.25811004639,
+            21.04144859314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.258156,
+                        21.041208
+                    ],
+                    [
+                        -101.25811,
+                        21.040968
+                    ],
+                    [
+                        -101.260254,
+                        21.040447
+                    ],
+                    [
+                        -101.259956,
+                        21.041449
+                    ],
+                    [
+                        -101.258842,
+                        21.041409
+                    ],
+                    [
+                        -101.258156,
+                        21.041208
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55907453,
+    "properties": {
+        "woe_id": 55907453,
+        "place_id": "MvKnFVScBJWagGGm1w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huerta de Las Flores, Brise\u00f1as, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503742,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/55907453_20101216_bbd8134355.tar.gz"
+        },
+        "bbox": [
+            -102.55031585693,
+            20.275537490845,
+            -102.5482711792,
+            20.277494430542
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.548599,
+                        20.276871
+                    ],
+                    [
+                        -102.548271,
+                        20.275921
+                    ],
+                    [
+                        -102.550316,
+                        20.275537
+                    ],
+                    [
+                        -102.549988,
+                        20.277494
+                    ],
+                    [
+                        -102.549156,
+                        20.277359
+                    ],
+                    [
+                        -102.548599,
+                        20.276871
+                    ]
+                ]
+            ]
+        ]
+    }
+}

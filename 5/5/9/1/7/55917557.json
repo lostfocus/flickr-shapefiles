@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55917557,
+    "properties": {
+        "woe_id": 55917557,
+        "place_id": "rsYpTUqcBJXcWQFsjA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio Centro, Jiquipilas, CS, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455386,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55917557_20101215_43dc4fb2cf.tar.gz"
+        },
+        "bbox": [
+            -93.899459838867,
+            16.234195709229,
+            -93.898132324219,
+            16.235885620117
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.89946,
+                        16.235453
+                    ],
+                    [
+                        -93.898849,
+                        16.235886
+                    ],
+                    [
+                        -93.898132,
+                        16.234196
+                    ],
+                    [
+                        -93.898636,
+                        16.234402
+                    ],
+                    [
+                        -93.89888,
+                        16.234566
+                    ],
+                    [
+                        -93.89946,
+                        16.235453
+                    ]
+                ]
+            ]
+        ]
+    }
+}

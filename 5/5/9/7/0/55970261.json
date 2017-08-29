@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970261,
+    "properties": {
+        "woe_id": 55970261,
+        "place_id": "eaDoyR6cBJVyvfF6IA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southwood, Orinda, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541377,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55970261_20101216_2f68fa7254.tar.gz"
+        },
+        "bbox": [
+            -122.1823425293,
+            37.877101898193,
+            -122.17970275879,
+            37.880500793457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.182343,
+                        37.878605
+                    ],
+                    [
+                        -122.182167,
+                        37.879333
+                    ],
+                    [
+                        -122.181168,
+                        37.880501
+                    ],
+                    [
+                        -122.180565,
+                        37.878197
+                    ],
+                    [
+                        -122.179703,
+                        37.877102
+                    ],
+                    [
+                        -122.181664,
+                        37.877335
+                    ],
+                    [
+                        -122.182343,
+                        37.878605
+                    ]
+                ]
+            ]
+        ]
+    }
+}

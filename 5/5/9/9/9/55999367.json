@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999367,
+    "properties": {
+        "woe_id": 55999367,
+        "place_id": "D8ozKvucBJWwzt4vIw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Amberlea, Pickering, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538367,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55999367_20101216_756e64f794.tar.gz"
+        },
+        "bbox": [
+            -79.126235961914,
+            43.825859069824,
+            -79.123191833496,
+            43.827838897705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.125298,
+                        43.825951
+                    ],
+                    [
+                        -79.126236,
+                        43.827839
+                    ],
+                    [
+                        -79.124733,
+                        43.827808
+                    ],
+                    [
+                        -79.123192,
+                        43.82629
+                    ],
+                    [
+                        -79.123878,
+                        43.825859
+                    ],
+                    [
+                        -79.125298,
+                        43.825951
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55810376,
+    "properties": {
+        "woe_id": 55810376,
+        "place_id": "NeYES1ScBJSWrU7OTA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honmacho 3 Chome, Niigata-shi, Niigata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482148,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55810376_20101216_7cecb80363.tar.gz"
+        },
+        "bbox": [
+            139.04624938965,
+            37.928169250488,
+            139.04829406738,
+            37.928936004639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.048141,
+                        37.928932
+                    ],
+                    [
+                        139.048294,
+                        37.928936
+                    ],
+                    [
+                        139.048264,
+                        37.928787
+                    ],
+                    [
+                        139.046249,
+                        37.928169
+                    ],
+                    [
+                        139.046295,
+                        37.928337
+                    ],
+                    [
+                        139.048141,
+                        37.928932
+                    ]
+                ]
+            ]
+        ]
+    }
+}

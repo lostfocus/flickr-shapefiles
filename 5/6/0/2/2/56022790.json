@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022790,
+    "properties": {
+        "woe_id": 56022790,
+        "place_id": "co_kLXWcB5w9tYLaWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meadowood, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455530,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/56022790_20101215_59aa4f205e.tar.gz"
+        },
+        "bbox": [
+            -97.095779418945,
+            49.830589294434,
+            -97.087036132812,
+            49.833740234375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.090744,
+                        49.83374
+                    ],
+                    [
+                        -97.087036,
+                        49.832253
+                    ],
+                    [
+                        -97.088699,
+                        49.830589
+                    ],
+                    [
+                        -97.090858,
+                        49.833447
+                    ],
+                    [
+                        -97.095779,
+                        49.832478
+                    ],
+                    [
+                        -97.090744,
+                        49.83374
+                    ]
+                ]
+            ]
+        ]
+    }
+}

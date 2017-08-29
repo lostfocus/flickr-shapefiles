@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55807164,
+    "properties": {
+        "woe_id": 55807164,
+        "place_id": "dMkR_oycBJRUPKTDWA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Basher, Anchorage, AK, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548453,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55807164_20101217_8454dbd2fa.tar.gz"
+        },
+        "bbox": [
+            -149.71995544434,
+            61.16516494751,
+            -149.71678161621,
+            61.170768737793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -149.718582,
+                        61.169113
+                    ],
+                    [
+                        -149.718338,
+                        61.165165
+                    ],
+                    [
+                        -149.719955,
+                        61.167416
+                    ],
+                    [
+                        -149.718674,
+                        61.169998
+                    ],
+                    [
+                        -149.716782,
+                        61.170769
+                    ],
+                    [
+                        -149.718582,
+                        61.169113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

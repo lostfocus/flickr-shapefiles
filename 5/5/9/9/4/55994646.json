@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994646,
+    "properties": {
+        "woe_id": 55994646,
+        "place_id": "EJvGW4CcBJXILN1kFA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bohls Place, Pflugerville, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530285,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55994646_20101216_59050fd401.tar.gz"
+        },
+        "bbox": [
+            -97.606834411621,
+            30.4375,
+            -97.603546142578,
+            30.439832687378
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.605164,
+                        30.439833
+                    ],
+                    [
+                        -97.603546,
+                        30.439516
+                    ],
+                    [
+                        -97.606834,
+                        30.4375
+                    ],
+                    [
+                        -97.606331,
+                        30.438667
+                    ],
+                    [
+                        -97.605835,
+                        30.439667
+                    ],
+                    [
+                        -97.605164,
+                        30.439833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

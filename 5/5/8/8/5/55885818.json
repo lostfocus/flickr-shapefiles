@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55885818,
+    "properties": {
+        "woe_id": 55885818,
+        "place_id": "W0JITuacBJTPWgPvhA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Villa Deportiva, Puebla, PU, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292467636,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55885818_20101216_1f65216c61.tar.gz"
+        },
+        "bbox": [
+            -98.166015625,
+            19.076961517334,
+            -98.162582397461,
+            19.078462600708
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.164513,
+                        19.078463
+                    ],
+                    [
+                        -98.163956,
+                        19.07822
+                    ],
+                    [
+                        -98.162582,
+                        19.07753
+                    ],
+                    [
+                        -98.165245,
+                        19.076962
+                    ],
+                    [
+                        -98.166016,
+                        19.07753
+                    ],
+                    [
+                        -98.164513,
+                        19.078463
+                    ]
+                ]
+            ]
+        ]
+    }
+}

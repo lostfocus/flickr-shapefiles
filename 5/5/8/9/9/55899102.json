@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55899102,
+    "properties": {
+        "woe_id": 55899102,
+        "place_id": "VCX0ZkecBJQFJ.8AIg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Mateo, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532935,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55899102_20101216_17a94ba086.tar.gz"
+        },
+        "bbox": [
+            -99.15259552002,
+            19.35040473938,
+            -99.147338867188,
+            19.355646133423
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.150169,
+                        19.351112
+                    ],
+                    [
+                        -99.152596,
+                        19.354271
+                    ],
+                    [
+                        -99.148949,
+                        19.355646
+                    ],
+                    [
+                        -99.148521,
+                        19.355337
+                    ],
+                    [
+                        -99.148201,
+                        19.354746
+                    ],
+                    [
+                        -99.147644,
+                        19.353857
+                    ],
+                    [
+                        -99.147339,
+                        19.350405
+                    ],
+                    [
+                        -99.150169,
+                        19.351112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

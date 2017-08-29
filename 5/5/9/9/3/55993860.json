@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55993860,
+    "properties": {
+        "woe_id": 55993860,
+        "place_id": "EMO9DnqcBJXDDkChHQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westchester, Flower Mound, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515204,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55993860_20101216_2d5f6759f7.tar.gz"
+        },
+        "bbox": [
+            -97.074501037598,
+            33.043960571289,
+            -97.072448730469,
+            33.046039581299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.074036,
+                        33.04604
+                    ],
+                    [
+                        -97.073502,
+                        33.045834
+                    ],
+                    [
+                        -97.072449,
+                        33.044212
+                    ],
+                    [
+                        -97.072495,
+                        33.043961
+                    ],
+                    [
+                        -97.074501,
+                        33.045834
+                    ],
+                    [
+                        -97.074219,
+                        33.046009
+                    ],
+                    [
+                        -97.074036,
+                        33.04604
+                    ]
+                ]
+            ]
+        ]
+    }
+}

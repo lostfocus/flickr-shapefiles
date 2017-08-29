@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982826,
+    "properties": {
+        "woe_id": 55982826,
+        "place_id": "VNH5umWcBJUiJ_iHXQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nebraska Acres, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548512,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55982826_20101217_750fd91b1f.tar.gz"
+        },
+        "bbox": [
+            -82.450958251953,
+            28.08046913147,
+            -82.447959899902,
+            28.081563949585
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.450569,
+                        28.080954
+                    ],
+                    [
+                        -82.44796,
+                        28.081564
+                    ],
+                    [
+                        -82.450577,
+                        28.080585
+                    ],
+                    [
+                        -82.450958,
+                        28.080469
+                    ],
+                    [
+                        -82.450722,
+                        28.080891
+                    ],
+                    [
+                        -82.450569,
+                        28.080954
+                    ]
+                ]
+            ]
+        ]
+    }
+}

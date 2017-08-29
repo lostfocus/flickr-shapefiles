@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55972990,
+    "properties": {
+        "woe_id": 55972990,
+        "place_id": "c1ZEgUWcBJVWRPY8xA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Legacy Ridge, Westminster, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545868,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55972990_20101217_c29a3b0de9.tar.gz"
+        },
+        "bbox": [
+            -105.02532958984,
+            39.895416259766,
+            -105.02339935303,
+            39.896697998047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.02475,
+                        39.895611
+                    ],
+                    [
+                        -105.02533,
+                        39.896698
+                    ],
+                    [
+                        -105.023399,
+                        39.896626
+                    ],
+                    [
+                        -105.023781,
+                        39.895744
+                    ],
+                    [
+                        -105.024208,
+                        39.895416
+                    ],
+                    [
+                        -105.02475,
+                        39.895611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

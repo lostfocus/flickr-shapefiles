@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861758,
+    "properties": {
+        "woe_id": 55861758,
+        "place_id": "7B00M.WcBJQ4TngRuA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pacheco Street, Santa Fe, NM, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523748,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55861758_20101216_829fb9993e.tar.gz"
+        },
+        "bbox": [
+            -105.95845794678,
+            35.669429779053,
+            -105.95463562012,
+            35.674518585205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.957329,
+                        35.673168
+                    ],
+                    [
+                        -105.957123,
+                        35.673195
+                    ],
+                    [
+                        -105.954636,
+                        35.674519
+                    ],
+                    [
+                        -105.957169,
+                        35.673
+                    ],
+                    [
+                        -105.958458,
+                        35.66943
+                    ],
+                    [
+                        -105.957329,
+                        35.673168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

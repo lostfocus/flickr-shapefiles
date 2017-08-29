@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55887301,
+    "properties": {
+        "woe_id": 55887301,
+        "place_id": "CH.YzyCcBJQfo3Y5ng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lago Ilusiones, Villahermosa, TB, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436844,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/55887301_20101215_bda2f35aa8.tar.gz"
+        },
+        "bbox": [
+            -92.936538696289,
+            17.996034622192,
+            -92.927459716797,
+            17.998733520508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.927513,
+                        17.998569
+                    ],
+                    [
+                        -92.92746,
+                        17.996035
+                    ],
+                    [
+                        -92.931633,
+                        17.997345
+                    ],
+                    [
+                        -92.936539,
+                        17.998325
+                    ],
+                    [
+                        -92.932144,
+                        17.998734
+                    ],
+                    [
+                        -92.927513,
+                        17.998569
+                    ]
+                ]
+            ]
+        ]
+    }
+}

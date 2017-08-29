@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990457,
+    "properties": {
+        "woe_id": 55990457,
+        "place_id": "Xy.9RwScBJWVBw0WrQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parklyn Woods, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509866,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55990457_20101216_892d9368b9.tar.gz"
+        },
+        "bbox": [
+            -78.698265075684,
+            35.886741638184,
+            -78.694831848145,
+            35.888832092285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.698029,
+                        35.887417
+                    ],
+                    [
+                        -78.697723,
+                        35.887527
+                    ],
+                    [
+                        -78.694832,
+                        35.888832
+                    ],
+                    [
+                        -78.695412,
+                        35.887428
+                    ],
+                    [
+                        -78.698265,
+                        35.886742
+                    ],
+                    [
+                        -78.698029,
+                        35.887417
+                    ]
+                ]
+            ]
+        ]
+    }
+}

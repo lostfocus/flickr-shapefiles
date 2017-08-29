@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55892543,
+    "properties": {
+        "woe_id": 55892543,
+        "place_id": "PAKTDA2cBJQCzjlaQA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Progreso, Chihuahua, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550028,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55892543_20101217_fbb1669546.tar.gz"
+        },
+        "bbox": [
+            -106.11515045166,
+            28.645477294922,
+            -106.10910797119,
+            28.647811889648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.113899,
+                        28.647812
+                    ],
+                    [
+                        -106.109108,
+                        28.647366
+                    ],
+                    [
+                        -106.112907,
+                        28.645477
+                    ],
+                    [
+                        -106.11515,
+                        28.647024
+                    ],
+                    [
+                        -106.114761,
+                        28.647196
+                    ],
+                    [
+                        -106.113899,
+                        28.647812
+                    ]
+                ]
+            ]
+        ]
+    }
+}

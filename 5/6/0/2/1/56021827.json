@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021827,
+    "properties": {
+        "woe_id": 56021827,
+        "place_id": "MOx9otacB5xiRxmAwg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Highland, Dearborn, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531193,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/56021827_20101216_3b7188e1f4.tar.gz"
+        },
+        "bbox": [
+            -83.27254486084,
+            42.320304870605,
+            -83.269668579102,
+            42.325553894043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.270668,
+                        42.325333
+                    ],
+                    [
+                        -83.269669,
+                        42.322498
+                    ],
+                    [
+                        -83.271423,
+                        42.320305
+                    ],
+                    [
+                        -83.272461,
+                        42.325508
+                    ],
+                    [
+                        -83.272545,
+                        42.325554
+                    ],
+                    [
+                        -83.270668,
+                        42.325333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

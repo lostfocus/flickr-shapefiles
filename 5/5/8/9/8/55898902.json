@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55898902,
+    "properties": {
+        "woe_id": 55898902,
+        "place_id": "RO9z3JScBJTNpUGl2Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nuevas Colonias, Monterrey, NL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545898,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55898902_20101217_aaf85e10d4.tar.gz"
+        },
+        "bbox": [
+            -100.33641815186,
+            25.664682388306,
+            -100.33034515381,
+            25.667638778687
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.336418,
+                        25.667135
+                    ],
+                    [
+                        -100.334099,
+                        25.667639
+                    ],
+                    [
+                        -100.330345,
+                        25.66474
+                    ],
+                    [
+                        -100.330727,
+                        25.664682
+                    ],
+                    [
+                        -100.334099,
+                        25.664738
+                    ],
+                    [
+                        -100.335091,
+                        25.665854
+                    ],
+                    [
+                        -100.336418,
+                        25.667135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

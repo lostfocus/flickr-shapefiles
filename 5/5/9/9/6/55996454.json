@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996454,
+    "properties": {
+        "woe_id": 55996454,
+        "place_id": "4IcNF9qcBJUlYmqCMA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Avalon Meadows, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442898,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55996454_20101215_cf7411941f.tar.gz"
+        },
+        "bbox": [
+            -122.63510131836,
+            45.726253509521,
+            -122.63034057617,
+            45.731555938721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.632828,
+                        45.726433
+                    ],
+                    [
+                        -122.635101,
+                        45.728149
+                    ],
+                    [
+                        -122.631798,
+                        45.731556
+                    ],
+                    [
+                        -122.630341,
+                        45.728649
+                    ],
+                    [
+                        -122.632309,
+                        45.726254
+                    ],
+                    [
+                        -122.632828,
+                        45.726433
+                    ]
+                ]
+            ]
+        ]
+    }
+}

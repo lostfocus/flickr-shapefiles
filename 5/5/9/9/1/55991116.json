@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991116,
+    "properties": {
+        "woe_id": 55991116,
+        "place_id": "xNrP4EKcBJVUca73bA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mews at Legacy Green, Wake Forest, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490308,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55991116_20101216_3c373aaf33.tar.gz"
+        },
+        "bbox": [
+            -78.489501953125,
+            35.952667236328,
+            -78.487167358398,
+            35.953498840332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.487335,
+                        35.952667
+                    ],
+                    [
+                        -78.489502,
+                        35.953499
+                    ],
+                    [
+                        -78.487503,
+                        35.952999
+                    ],
+                    [
+                        -78.487335,
+                        35.952831
+                    ],
+                    [
+                        -78.487167,
+                        35.952667
+                    ],
+                    [
+                        -78.487335,
+                        35.952667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

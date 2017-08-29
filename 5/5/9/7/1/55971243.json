@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971243,
+    "properties": {
+        "woe_id": 55971243,
+        "place_id": "skJNBuicBJXRNWLC0Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Montevideo, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549330,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55971243_20101217_851a59a234.tar.gz"
+        },
+        "bbox": [
+            -121.90740966797,
+            37.222187042236,
+            -121.90239715576,
+            37.22673034668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.905884,
+                        37.223969
+                    ],
+                    [
+                        -121.90741,
+                        37.222187
+                    ],
+                    [
+                        -121.906502,
+                        37.226166
+                    ],
+                    [
+                        -121.90416,
+                        37.22673
+                    ],
+                    [
+                        -121.902397,
+                        37.226707
+                    ],
+                    [
+                        -121.905884,
+                        37.223969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

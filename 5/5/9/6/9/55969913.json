@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969913,
+    "properties": {
+        "woe_id": 55969913,
+        "place_id": "VD_0MsicBJUx045_1Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakewood Village, Long Beach, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446562,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55969913_20101215_5c1a04650c.tar.gz"
+        },
+        "bbox": [
+            -118.13596343994,
+            33.83150100708,
+            -118.13566589355,
+            33.831798553467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.135963,
+                        33.831799
+                    ],
+                    [
+                        -118.135841,
+                        33.831753
+                    ],
+                    [
+                        -118.135689,
+                        33.831554
+                    ],
+                    [
+                        -118.135666,
+                        33.831501
+                    ],
+                    [
+                        -118.13591,
+                        33.831657
+                    ],
+                    [
+                        -118.135963,
+                        33.831799
+                    ]
+                ]
+            ]
+        ]
+    }
+}

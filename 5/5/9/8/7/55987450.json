@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55987450,
+    "properties": {
+        "woe_id": 55987450,
+        "place_id": "HG3rt02cBJUXsvONsw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westlakes Fourth, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515268,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55987450_20101216_ed29c49090.tar.gz"
+        },
+        "bbox": [
+            -111.03842926025,
+            45.688793182373,
+            -111.03649902344,
+            45.689479827881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.036667,
+                        45.689423
+                    ],
+                    [
+                        -111.036499,
+                        45.688793
+                    ],
+                    [
+                        -111.036926,
+                        45.688931
+                    ],
+                    [
+                        -111.038429,
+                        45.689468
+                    ],
+                    [
+                        -111.036858,
+                        45.68948
+                    ],
+                    [
+                        -111.036751,
+                        45.689465
+                    ],
+                    [
+                        -111.036667,
+                        45.689423
+                    ]
+                ]
+            ]
+        ]
+    }
+}

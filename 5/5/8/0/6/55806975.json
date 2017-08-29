@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55806975,
+    "properties": {
+        "woe_id": 55806975,
+        "place_id": "712aq7ecBJSUjtMZqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harrods Park Townhouse, Lexington, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523741,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55806975_20101216_5928abdecc.tar.gz"
+        },
+        "bbox": [
+            -84.540138244629,
+            38.023334503174,
+            -84.532470703125,
+            38.026664733887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.538109,
+                        38.023335
+                    ],
+                    [
+                        -84.538292,
+                        38.024059
+                    ],
+                    [
+                        -84.540138,
+                        38.026154
+                    ],
+                    [
+                        -84.539948,
+                        38.026375
+                    ],
+                    [
+                        -84.538261,
+                        38.026581
+                    ],
+                    [
+                        -84.534889,
+                        38.026642
+                    ],
+                    [
+                        -84.5345,
+                        38.026665
+                    ],
+                    [
+                        -84.532471,
+                        38.024227
+                    ],
+                    [
+                        -84.537155,
+                        38.023941
+                    ],
+                    [
+                        -84.538109,
+                        38.023335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55976578,
+    "properties": {
+        "woe_id": 55976578,
+        "place_id": "ZyoE1U6cBJXodMOu2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Golden Acres, Dunedin, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490368,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55976578_20101216_192057c6c8.tar.gz"
+        },
+        "bbox": [
+            -82.787742614746,
+            28.012712478638,
+            -82.780616760254,
+            28.016529083252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.785851,
+                        28.012712
+                    ],
+                    [
+                        -82.787743,
+                        28.014738
+                    ],
+                    [
+                        -82.785156,
+                        28.016529
+                    ],
+                    [
+                        -82.780617,
+                        28.01614
+                    ],
+                    [
+                        -82.781082,
+                        28.01535
+                    ],
+                    [
+                        -82.785851,
+                        28.012712
+                    ]
+                ]
+            ]
+        ]
+    }
+}

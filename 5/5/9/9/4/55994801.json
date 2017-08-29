@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994801,
+    "properties": {
+        "woe_id": 55994801,
+        "place_id": "8vTLfsecBJVb3TwxbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Creek View, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521660,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55994801_20101216_a2e832b0aa.tar.gz"
+        },
+        "bbox": [
+            -97.59464263916,
+            30.53081703186,
+            -97.588874816895,
+            30.534873962402
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.588875,
+                        30.531141
+                    ],
+                    [
+                        -97.589287,
+                        30.530817
+                    ],
+                    [
+                        -97.592155,
+                        30.531067
+                    ],
+                    [
+                        -97.594643,
+                        30.534874
+                    ],
+                    [
+                        -97.5905,
+                        30.533333
+                    ],
+                    [
+                        -97.588875,
+                        30.531141
+                    ]
+                ]
+            ]
+        ]
+    }
+}

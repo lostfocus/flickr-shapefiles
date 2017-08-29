@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55979487,
+    "properties": {
+        "woe_id": 55979487,
+        "place_id": "fnohD9qcBJU5egc26Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Van Dyke Commons, Lutz, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455433,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55979487_20101215_f1f5b72c68.tar.gz"
+        },
+        "bbox": [
+            -82.504875183105,
+            28.123374938965,
+            -82.50089263916,
+            28.128765106201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.504875,
+                        28.128765
+                    ],
+                    [
+                        -82.501808,
+                        28.128283
+                    ],
+                    [
+                        -82.500893,
+                        28.124409
+                    ],
+                    [
+                        -82.501541,
+                        28.123375
+                    ],
+                    [
+                        -82.504562,
+                        28.128378
+                    ],
+                    [
+                        -82.504875,
+                        28.128765
+                    ]
+                ]
+            ]
+        ]
+    }
+}

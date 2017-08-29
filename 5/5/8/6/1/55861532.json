@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55861532,
+    "properties": {
+        "woe_id": 55861532,
+        "place_id": "MQOyJtqcBJQZfpcVJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kaseberg, Roseville, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544828,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55861532_20101217_182ea13c6d.tar.gz"
+        },
+        "bbox": [
+            -121.30017852783,
+            38.759754180908,
+            -121.29524230957,
+            38.764255523682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.296227,
+                        38.764256
+                    ],
+                    [
+                        -121.295998,
+                        38.763664
+                    ],
+                    [
+                        -121.295242,
+                        38.761982
+                    ],
+                    [
+                        -121.29792,
+                        38.759754
+                    ],
+                    [
+                        -121.300003,
+                        38.760834
+                    ],
+                    [
+                        -121.300179,
+                        38.761024
+                    ],
+                    [
+                        -121.296227,
+                        38.764256
+                    ]
+                ]
+            ]
+        ]
+    }
+}

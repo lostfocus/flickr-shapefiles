@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55993022,
+    "properties": {
+        "woe_id": 55993022,
+        "place_id": "U_jZIDicBJVHUHY61A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Neighborhood, Arlington, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523584,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55993022_20101216_a56217f49a.tar.gz"
+        },
+        "bbox": [
+            -97.104316711426,
+            32.732265472412,
+            -97.097595214844,
+            32.73864364624
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.102615,
+                        32.73584
+                    ],
+                    [
+                        -97.100128,
+                        32.738644
+                    ],
+                    [
+                        -97.097595,
+                        32.735199
+                    ],
+                    [
+                        -97.099915,
+                        32.732986
+                    ],
+                    [
+                        -97.10173,
+                        32.732265
+                    ],
+                    [
+                        -97.104317,
+                        32.735199
+                    ],
+                    [
+                        -97.102615,
+                        32.73584
+                    ]
+                ]
+            ]
+        ]
+    }
+}

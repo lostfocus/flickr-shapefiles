@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990643,
+    "properties": {
+        "woe_id": 55990643,
+        "place_id": "nZ7cQQKcBJXhqMqAfg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stablegate, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548123,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55990643_20101217_79b8c13f59.tar.gz"
+        },
+        "bbox": [
+            -78.702812194824,
+            35.752498626709,
+            -78.699172973633,
+            35.757186889648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.699173,
+                        35.756222
+                    ],
+                    [
+                        -78.701332,
+                        35.752499
+                    ],
+                    [
+                        -78.701431,
+                        35.752563
+                    ],
+                    [
+                        -78.702812,
+                        35.756828
+                    ],
+                    [
+                        -78.701759,
+                        35.757187
+                    ],
+                    [
+                        -78.699173,
+                        35.756222
+                    ]
+                ]
+            ]
+        ]
+    }
+}

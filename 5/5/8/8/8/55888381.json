@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888381,
+    "properties": {
+        "woe_id": 55888381,
+        "place_id": "X.TJRRycBJRhvcFj3A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arboledas, Manzanillo, CL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497089,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55888381_20101216_cce7544c5b.tar.gz"
+        },
+        "bbox": [
+            -104.33720397949,
+            19.104265213013,
+            -104.33166503906,
+            19.110370635986
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.333649,
+                        19.104265
+                    ],
+                    [
+                        -104.335487,
+                        19.105925
+                    ],
+                    [
+                        -104.337204,
+                        19.110371
+                    ],
+                    [
+                        -104.331665,
+                        19.108578
+                    ],
+                    [
+                        -104.332054,
+                        19.105265
+                    ],
+                    [
+                        -104.333649,
+                        19.104265
+                    ]
+                ]
+            ]
+        ]
+    }
+}

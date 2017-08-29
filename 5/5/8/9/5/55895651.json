@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55895651,
+    "properties": {
+        "woe_id": 55895651,
+        "place_id": "6qviWwOcBJS0MNndrg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alameda, Hermosillo, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436964,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55895651_20101215_ff383af4cb.tar.gz"
+        },
+        "bbox": [
+            -110.98309326172,
+            29.089719772339,
+            -110.97805023193,
+            29.093713760376
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.978111,
+                        29.093035
+                    ],
+                    [
+                        -110.97805,
+                        29.092928
+                    ],
+                    [
+                        -110.979866,
+                        29.093489
+                    ],
+                    [
+                        -110.983093,
+                        29.08972
+                    ],
+                    [
+                        -110.982056,
+                        29.093714
+                    ],
+                    [
+                        -110.979866,
+                        29.093489
+                    ],
+                    [
+                        -110.97805,
+                        29.092928
+                    ],
+                    [
+                        -110.978111,
+                        29.093035
+                    ]
+                ]
+            ]
+        ]
+    }
+}

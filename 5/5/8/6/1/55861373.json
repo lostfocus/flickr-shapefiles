@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55861373,
+    "properties": {
+        "woe_id": 55861373,
+        "place_id": "BA5x3HicBJTbPw5v4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saddlebrook, Richardson, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248001203,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2431\/shapefiles\/55861373_20090719_147af0524b.tar.gz"
+        },
+        "bbox": [
+            -96.643661499023,
+            33.00057220459,
+            -96.635612487793,
+            33.003551483154
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.643661,
+                        33.001347
+                    ],
+                    [
+                        -96.642609,
+                        33.003551
+                    ],
+                    [
+                        -96.638405,
+                        33.000889
+                    ],
+                    [
+                        -96.637115,
+                        33.001537
+                    ],
+                    [
+                        -96.635612,
+                        33.000572
+                    ],
+                    [
+                        -96.638405,
+                        33.000889
+                    ],
+                    [
+                        -96.642609,
+                        33.003551
+                    ],
+                    [
+                        -96.643661,
+                        33.001347
+                    ]
+                ]
+            ]
+        ]
+    }
+}

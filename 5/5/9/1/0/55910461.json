@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55910461,
+    "properties": {
+        "woe_id": 55910461,
+        "place_id": "LJ8_AKacBJUsp4gMaw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Observatorio, Guadalajara, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458815,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55910461_20101216_3aae710021.tar.gz"
+        },
+        "bbox": [
+            -103.35083770752,
+            20.696985244751,
+            -103.34812927246,
+            20.702209472656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.350632,
+                        20.697025
+                    ],
+                    [
+                        -103.350838,
+                        20.697025
+                    ],
+                    [
+                        -103.350616,
+                        20.700321
+                    ],
+                    [
+                        -103.349121,
+                        20.702209
+                    ],
+                    [
+                        -103.348129,
+                        20.700062
+                    ],
+                    [
+                        -103.349846,
+                        20.697262
+                    ],
+                    [
+                        -103.350182,
+                        20.696985
+                    ],
+                    [
+                        -103.350632,
+                        20.697025
+                    ]
+                ]
+            ]
+        ]
+    }
+}

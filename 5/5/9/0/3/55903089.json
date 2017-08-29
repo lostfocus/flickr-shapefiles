@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55903089,
+    "properties": {
+        "woe_id": 55903089,
+        "place_id": "1p2GtJucBJXJaXB9Ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jardines de Santa Monica, Tlalnepantla de Comonfort, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520428,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55903089_20101216_699a82f88b.tar.gz"
+        },
+        "bbox": [
+            -99.224739074707,
+            19.530530929565,
+            -99.222122192383,
+            19.532773971558
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.223801,
+                        19.530643
+                    ],
+                    [
+                        -99.224037,
+                        19.530531
+                    ],
+                    [
+                        -99.224739,
+                        19.532774
+                    ],
+                    [
+                        -99.222122,
+                        19.531406
+                    ],
+                    [
+                        -99.223801,
+                        19.530643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

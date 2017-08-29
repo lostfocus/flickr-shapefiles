@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888500,
+    "properties": {
+        "woe_id": 55888500,
+        "place_id": "hWPROW.cBJRnQaN2Vg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fracc Los Angeles, Torre\u00f3n, CO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543209,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55888500_20101216_cbdf152145.tar.gz"
+        },
+        "bbox": [
+            -103.39859771729,
+            25.511716842651,
+            -103.39483642578,
+            25.516611099243
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.397507,
+                        25.516611
+                    ],
+                    [
+                        -103.395531,
+                        25.515787
+                    ],
+                    [
+                        -103.394836,
+                        25.515333
+                    ],
+                    [
+                        -103.398598,
+                        25.511717
+                    ],
+                    [
+                        -103.398483,
+                        25.513605
+                    ],
+                    [
+                        -103.397507,
+                        25.516611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55919341,
+    "properties": {
+        "woe_id": 55919341,
+        "place_id": "rv6rzoScBJUU1zlSqg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio San Jose, Tila, CS, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449984,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55919341_20101215_cc43119e42.tar.gz"
+        },
+        "bbox": [
+            -91.987503051758,
+            17.507667541504,
+            -91.985801696777,
+            17.508562088013
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.987503,
+                        17.507969
+                    ],
+                    [
+                        -91.987488,
+                        17.50815
+                    ],
+                    [
+                        -91.987442,
+                        17.508268
+                    ],
+                    [
+                        -91.985802,
+                        17.508562
+                    ],
+                    [
+                        -91.985863,
+                        17.507668
+                    ],
+                    [
+                        -91.987404,
+                        17.507969
+                    ],
+                    [
+                        -91.987503,
+                        17.507969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

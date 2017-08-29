@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999761,
+    "properties": {
+        "woe_id": 55999761,
+        "place_id": "oBo9Tq.cBJVWEbzIzw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centre Ville, Chambly, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544502,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55999761_20101217_464e816458.tar.gz"
+        },
+        "bbox": [
+            -73.286010742188,
+            45.446060180664,
+            -73.280708312988,
+            45.448299407959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.283058,
+                        45.447048
+                    ],
+                    [
+                        -73.285942,
+                        45.446449
+                    ],
+                    [
+                        -73.286011,
+                        45.446575
+                    ],
+                    [
+                        -73.285461,
+                        45.447517
+                    ],
+                    [
+                        -73.283646,
+                        45.448299
+                    ],
+                    [
+                        -73.280708,
+                        45.44606
+                    ],
+                    [
+                        -73.283058,
+                        45.447048
+                    ]
+                ]
+            ]
+        ]
+    }
+}

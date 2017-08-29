@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021512,
+    "properties": {
+        "woe_id": 56021512,
+        "place_id": "HRJBY4ScB5xXr43jjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Squire Point, North Liberty, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446688,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/56021512_20101215_19c680f49c.tar.gz"
+        },
+        "bbox": [
+            -91.5556640625,
+            41.729331970215,
+            -91.553329467773,
+            41.729999542236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.555168,
+                        41.729332
+                    ],
+                    [
+                        -91.555664,
+                        41.7295
+                    ],
+                    [
+                        -91.553665,
+                        41.73
+                    ],
+                    [
+                        -91.553329,
+                        41.73
+                    ],
+                    [
+                        -91.554832,
+                        41.729332
+                    ],
+                    [
+                        -91.555168,
+                        41.729332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56019703,
+    "properties": {
+        "woe_id": 56019703,
+        "place_id": "3zGbIbacB5wVvPoqkw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Country Creek, Longmont, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497686,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/56019703_20101216_fdea85a996.tar.gz"
+        },
+        "bbox": [
+            -105.17478179932,
+            40.102397918701,
+            -105.17150115967,
+            40.103103637695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.174782,
+                        40.102398
+                    ],
+                    [
+                        -105.174782,
+                        40.102596
+                    ],
+                    [
+                        -105.172035,
+                        40.103104
+                    ],
+                    [
+                        -105.171501,
+                        40.102665
+                    ],
+                    [
+                        -105.174606,
+                        40.102512
+                    ],
+                    [
+                        -105.174782,
+                        40.102398
+                    ]
+                ]
+            ]
+        ]
+    }
+}

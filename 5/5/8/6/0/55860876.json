@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860876,
+    "properties": {
+        "woe_id": 55860876,
+        "place_id": "clNelfGcBJTE3W_7eA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Carriage Square, Oxnard, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449891,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/55860876_20101215_3c3a2102b3.tar.gz"
+        },
+        "bbox": [
+            -119.17833709717,
+            34.21110534668,
+            -119.17778015137,
+            34.215492248535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.17778,
+                        34.214092
+                    ],
+                    [
+                        -119.17778,
+                        34.214043
+                    ],
+                    [
+                        -119.178146,
+                        34.211105
+                    ],
+                    [
+                        -119.178337,
+                        34.213902
+                    ],
+                    [
+                        -119.177887,
+                        34.215492
+                    ],
+                    [
+                        -119.17778,
+                        34.214092
+                    ]
+                ]
+            ]
+        ]
+    }
+}

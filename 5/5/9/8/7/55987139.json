@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987139,
+    "properties": {
+        "woe_id": 55987139,
+        "place_id": "5aLHm52cBJXZIb7MUA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkway Meadows, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292504105,
+        "alpha": 1.5625e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55987139_20101216_15cba3bdb4.tar.gz"
+        },
+        "bbox": [
+            -83.714164733887,
+            42.303722381592,
+            -83.708000183105,
+            42.308353424072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.714165,
+                        42.307999
+                    ],
+                    [
+                        -83.71376,
+                        42.308353
+                    ],
+                    [
+                        -83.709557,
+                        42.307404
+                    ],
+                    [
+                        -83.708,
+                        42.304665
+                    ],
+                    [
+                        -83.708504,
+                        42.303722
+                    ],
+                    [
+                        -83.714165,
+                        42.307999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

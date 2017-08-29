@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994705,
+    "properties": {
+        "woe_id": 55994705,
+        "place_id": "tgoI18qcBJWs_XBf8g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Picadilly Ridge, Pflugerville, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292399764,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55994705_20101215_81e86b89a3.tar.gz"
+        },
+        "bbox": [
+            -97.641159057617,
+            30.466361999512,
+            -97.637084960938,
+            30.467197418213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.637085,
+                        30.467113
+                    ],
+                    [
+                        -97.637085,
+                        30.467087
+                    ],
+                    [
+                        -97.637131,
+                        30.467031
+                    ],
+                    [
+                        -97.641159,
+                        30.466362
+                    ],
+                    [
+                        -97.637169,
+                        30.467197
+                    ],
+                    [
+                        -97.637085,
+                        30.467113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

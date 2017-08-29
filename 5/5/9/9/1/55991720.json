@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991720,
+    "properties": {
+        "woe_id": 55991720,
+        "place_id": "s0kLtO2cBJXda8PU3Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Avenue, Plainfield, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526974,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55991720_20101216_9300f287bd.tar.gz"
+        },
+        "bbox": [
+            -74.435974121094,
+            40.630001068115,
+            -74.430000305176,
+            40.631690979004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.432724,
+                        40.631691
+                    ],
+                    [
+                        -74.432503,
+                        40.631516
+                    ],
+                    [
+                        -74.43,
+                        40.630001
+                    ],
+                    [
+                        -74.432503,
+                        40.6315
+                    ],
+                    [
+                        -74.435974,
+                        40.631607
+                    ],
+                    [
+                        -74.432724,
+                        40.631691
+                    ]
+                ]
+            ]
+        ]
+    }
+}

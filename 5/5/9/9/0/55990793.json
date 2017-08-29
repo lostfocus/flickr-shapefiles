@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990793,
+    "properties": {
+        "woe_id": 55990793,
+        "place_id": "QVyn8UmcBJVp8gsQOQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley Crest, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450105,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55990793_20101215_7e1a22ab0b.tar.gz"
+        },
+        "bbox": [
+            -78.66764831543,
+            35.861980438232,
+            -78.666770935059,
+            35.862392425537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.667336,
+                        35.862167
+                    ],
+                    [
+                        -78.667648,
+                        35.862392
+                    ],
+                    [
+                        -78.667259,
+                        35.862183
+                    ],
+                    [
+                        -78.666771,
+                        35.86198
+                    ],
+                    [
+                        -78.666992,
+                        35.862038
+                    ],
+                    [
+                        -78.667336,
+                        35.862167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

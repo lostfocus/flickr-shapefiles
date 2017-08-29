@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861092,
+    "properties": {
+        "woe_id": 55861092,
+        "place_id": "SscA1iWcBJSs7116Ew",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ridgewood Knolls, Peoria, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509626,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55861092_20101216_2349e13c98.tar.gz"
+        },
+        "bbox": [
+            -89.653244018555,
+            40.701431274414,
+            -89.64436340332,
+            40.703609466553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.653244,
+                        40.70179
+                    ],
+                    [
+                        -89.650307,
+                        40.702862
+                    ],
+                    [
+                        -89.650162,
+                        40.702599
+                    ],
+                    [
+                        -89.644363,
+                        40.703609
+                    ],
+                    [
+                        -89.649811,
+                        40.701431
+                    ],
+                    [
+                        -89.653244,
+                        40.70179
+                    ]
+                ]
+            ]
+        ]
+    }
+}

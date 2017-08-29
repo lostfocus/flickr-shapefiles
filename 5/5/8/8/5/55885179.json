@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55885179,
+    "properties": {
+        "woe_id": 55885179,
+        "place_id": "iaKZ3dScBJReAMHBaQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fidel Velazquez, Chihuahua, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292397244,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55885179_20101215_4d29409cc7.tar.gz"
+        },
+        "bbox": [
+            -106.11824798584,
+            28.654447555542,
+            -106.11644744873,
+            28.65581703186
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.118141,
+                        28.655762
+                    ],
+                    [
+                        -106.118088,
+                        28.655712
+                    ],
+                    [
+                        -106.116447,
+                        28.654448
+                    ],
+                    [
+                        -106.118111,
+                        28.655334
+                    ],
+                    [
+                        -106.118248,
+                        28.655817
+                    ],
+                    [
+                        -106.118141,
+                        28.655762
+                    ]
+                ]
+            ]
+        ]
+    }
+}

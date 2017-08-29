@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55805794,
+    "properties": {
+        "woe_id": 55805794,
+        "place_id": "hixiWLqcBJQnJSe23A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodway, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546404,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55805794_20101217_d0314abd00.tar.gz"
+        },
+        "bbox": [
+            -97.37385559082,
+            32.647296905518,
+            -97.36255645752,
+            32.652454376221
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.370346,
+                        32.652454
+                    ],
+                    [
+                        -97.369164,
+                        32.650124
+                    ],
+                    [
+                        -97.366486,
+                        32.649178
+                    ],
+                    [
+                        -97.362556,
+                        32.647297
+                    ],
+                    [
+                        -97.366341,
+                        32.649544
+                    ],
+                    [
+                        -97.369164,
+                        32.650124
+                    ],
+                    [
+                        -97.373856,
+                        32.649769
+                    ],
+                    [
+                        -97.370346,
+                        32.652454
+                    ]
+                ]
+            ]
+        ]
+    }
+}

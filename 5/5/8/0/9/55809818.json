@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55809818,
+    "properties": {
+        "woe_id": 55809818,
+        "place_id": "18wr3s2cBJQsmwG37A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akemi 1 Chome, Urayasu-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452894,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/55809818_20101215_6d84ce59b0.tar.gz"
+        },
+        "bbox": [
+            139.91911315918,
+            35.645164489746,
+            139.92083740234,
+            35.647308349609
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.919113,
+                        35.647308
+                    ],
+                    [
+                        139.919327,
+                        35.646999
+                    ],
+                    [
+                        139.920837,
+                        35.645164
+                    ],
+                    [
+                        139.919662,
+                        35.645832
+                    ],
+                    [
+                        139.919388,
+                        35.646381
+                    ],
+                    [
+                        139.919113,
+                        35.647308
+                    ]
+                ]
+            ]
+        ]
+    }
+}

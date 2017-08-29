@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859446,
+    "properties": {
+        "woe_id": 55859446,
+        "place_id": "POH1gJCcBJSzXlb1rA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "United Southeast, Grand Prairie, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248173539,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2603\/shapefiles\/55859446_20090721_306d14ff14.tar.gz"
+        },
+        "bbox": [
+            -96.998588562012,
+            32.740001678467,
+            -96.992774963379,
+            32.745998382568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.998589,
+                        32.741009
+                    ],
+                    [
+                        -96.997803,
+                        32.745998
+                    ],
+                    [
+                        -96.992775,
+                        32.74472
+                    ],
+                    [
+                        -96.994446,
+                        32.743053
+                    ],
+                    [
+                        -96.99472,
+                        32.740002
+                    ],
+                    [
+                        -96.998589,
+                        32.741009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

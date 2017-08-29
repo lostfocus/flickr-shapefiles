@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55870704,
+    "properties": {
+        "woe_id": 55870704,
+        "place_id": "lUKG.HGcBJSm3ANeqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Osmangazi, Bursa, Bursa, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482147,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55870704_20101216_382810e338.tar.gz"
+        },
+        "bbox": [
+            29.060939788818,
+            40.233699798584,
+            29.067485809326,
+            40.236293792725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.067486,
+                        40.23481
+                    ],
+                    [
+                        29.067486,
+                        40.234764
+                    ],
+                    [
+                        29.064159,
+                        40.233871
+                    ],
+                    [
+                        29.06094,
+                        40.2337
+                    ],
+                    [
+                        29.064674,
+                        40.236294
+                    ],
+                    [
+                        29.067486,
+                        40.23481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

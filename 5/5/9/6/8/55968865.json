@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55968865,
+    "properties": {
+        "woe_id": 55968865,
+        "place_id": "dqqTZjOcBJUdoRImtw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maple Drive, Springdale, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443055,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55968865_20101215_9d534fc640.tar.gz"
+        },
+        "bbox": [
+            -94.138832092285,
+            36.177780151367,
+            -94.131462097168,
+            36.182430267334
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.13623,
+                        36.181339
+                    ],
+                    [
+                        -94.131462,
+                        36.17778
+                    ],
+                    [
+                        -94.13652,
+                        36.180424
+                    ],
+                    [
+                        -94.138832,
+                        36.179165
+                    ],
+                    [
+                        -94.13871,
+                        36.18243
+                    ],
+                    [
+                        -94.13623,
+                        36.181339
+                    ]
+                ]
+            ]
+        ]
+    }
+}

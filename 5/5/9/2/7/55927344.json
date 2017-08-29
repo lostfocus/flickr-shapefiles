@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55927344,
+    "properties": {
+        "woe_id": 55927344,
+        "place_id": "UWvj5ECcBJUnkGqnhA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Muharraq City-block 203, Al Muharraq, Muharraq, BH, Bahrain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515029,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55927344_20101216_d928082675.tar.gz"
+        },
+        "bbox": [
+            50.608604431152,
+            26.259481430054,
+            50.611225128174,
+            26.261629104614
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        50.608864,
+                        26.259796
+                    ],
+                    [
+                        50.608604,
+                        26.26063
+                    ],
+                    [
+                        50.609829,
+                        26.261547
+                    ],
+                    [
+                        50.611225,
+                        26.261629
+                    ],
+                    [
+                        50.609249,
+                        26.259481
+                    ],
+                    [
+                        50.608864,
+                        26.259796
+                    ]
+                ]
+            ]
+        ]
+    }
+}

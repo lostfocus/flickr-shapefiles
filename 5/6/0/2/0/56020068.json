@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020068,
+    "properties": {
+        "woe_id": 56020068,
+        "place_id": "vh7VHqWcB5wu4DrRuA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Temple Terrace, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537946,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/56020068_20101216_15c9006ff9.tar.gz"
+        },
+        "bbox": [
+            -82.393844604492,
+            28.031909942627,
+            -82.392044067383,
+            28.033227920532
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.393784,
+                        28.03191
+                    ],
+                    [
+                        -82.393845,
+                        28.031933
+                    ],
+                    [
+                        -82.392418,
+                        28.033228
+                    ],
+                    [
+                        -82.392395,
+                        28.033066
+                    ],
+                    [
+                        -82.392044,
+                        28.031919
+                    ],
+                    [
+                        -82.393784,
+                        28.03191
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55864650,
+    "properties": {
+        "woe_id": 55864650,
+        "place_id": "fCg19jqcBJSW7zR4hg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Far North Central, San Antonio, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537209,
+        "alpha": 1.0e-5,
+        "points": 26,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55864650_20101216_58752c0768.tar.gz"
+        },
+        "bbox": [
+            -98.521896362305,
+            29.627626419067,
+            -98.517944335938,
+            29.629762649536
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.518806,
+                        29.629763
+                    ],
+                    [
+                        -98.517944,
+                        29.627626
+                    ],
+                    [
+                        -98.518936,
+                        29.628525
+                    ],
+                    [
+                        -98.521896,
+                        29.629633
+                    ],
+                    [
+                        -98.518806,
+                        29.629763
+                    ]
+                ]
+            ]
+        ]
+    }
+}

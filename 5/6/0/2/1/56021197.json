@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021197,
+    "properties": {
+        "woe_id": 56021197,
+        "place_id": "hvgViQKcB5x72DPoZA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River Oaks, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482568,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/56021197_20101216_7486fd1447.tar.gz"
+        },
+        "bbox": [
+            -93.67749786377,
+            41.56742477417,
+            -93.673835754395,
+            41.569164276123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.677498,
+                        41.568333
+                    ],
+                    [
+                        -93.677094,
+                        41.568981
+                    ],
+                    [
+                        -93.675499,
+                        41.569
+                    ],
+                    [
+                        -93.673836,
+                        41.569164
+                    ],
+                    [
+                        -93.674973,
+                        41.567425
+                    ],
+                    [
+                        -93.677498,
+                        41.568333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

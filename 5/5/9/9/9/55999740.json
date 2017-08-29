@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999740,
+    "properties": {
+        "woe_id": 55999740,
+        "place_id": "CKnB9DecBJVre8_Nmg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boulevard Saint Jean-Baptiste, Ch\u00e2teauguay, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455242,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55999740_20101215_60e6336b8f.tar.gz"
+        },
+        "bbox": [
+            -73.720306396484,
+            45.347946166992,
+            -73.716781616211,
+            45.355251312256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.71875,
+                        45.353863
+                    ],
+                    [
+                        -73.720306,
+                        45.355251
+                    ],
+                    [
+                        -73.717751,
+                        45.354679
+                    ],
+                    [
+                        -73.716782,
+                        45.351021
+                    ],
+                    [
+                        -73.719727,
+                        45.347946
+                    ],
+                    [
+                        -73.71875,
+                        45.353863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

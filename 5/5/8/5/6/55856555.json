@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856555,
+    "properties": {
+        "woe_id": 55856555,
+        "place_id": "iMclMGecBJQFWHDylQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Great West Lots, Moncton, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543448,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55856555_20101216_75a78b503c.tar.gz"
+        },
+        "bbox": [
+            -64.808517456055,
+            46.096267700195,
+            -64.805770874023,
+            46.100242614746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.805771,
+                        46.099827
+                    ],
+                    [
+                        -64.805893,
+                        46.098942
+                    ],
+                    [
+                        -64.806381,
+                        46.098705
+                    ],
+                    [
+                        -64.808517,
+                        46.096268
+                    ],
+                    [
+                        -64.807983,
+                        46.100243
+                    ],
+                    [
+                        -64.805771,
+                        46.099827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

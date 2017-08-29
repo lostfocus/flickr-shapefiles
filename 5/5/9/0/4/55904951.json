@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55904951,
+    "properties": {
+        "woe_id": 55904951,
+        "place_id": "y0EDGNacBJUWY4mW.Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centro, Naupan, PU, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540172,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55904951_20101216_2026a604c9.tar.gz"
+        },
+        "bbox": [
+            -98.055877685547,
+            20.174203872681,
+            -98.05152130127,
+            20.175796508789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.051521,
+                        20.174747
+                    ],
+                    [
+                        -98.051994,
+                        20.174204
+                    ],
+                    [
+                        -98.05407,
+                        20.174225
+                    ],
+                    [
+                        -98.055878,
+                        20.175533
+                    ],
+                    [
+                        -98.052803,
+                        20.175797
+                    ],
+                    [
+                        -98.051521,
+                        20.174747
+                    ]
+                ]
+            ]
+        ]
+    }
+}

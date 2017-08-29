@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55912500,
+    "properties": {
+        "woe_id": 55912500,
+        "place_id": "lxM7wJqcBJVVeQogzQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Blas Centro, Valle de Banderas, NA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449983,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55912500_20101215_0cebcc1896.tar.gz"
+        },
+        "bbox": [
+            -105.28603363037,
+            21.541383743286,
+            -105.28470611572,
+            21.542749404907
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.285156,
+                        21.541792
+                    ],
+                    [
+                        -105.285393,
+                        21.541491
+                    ],
+                    [
+                        -105.28595,
+                        21.541384
+                    ],
+                    [
+                        -105.286034,
+                        21.541693
+                    ],
+                    [
+                        -105.285072,
+                        21.542749
+                    ],
+                    [
+                        -105.284706,
+                        21.542662
+                    ],
+                    [
+                        -105.285156,
+                        21.541792
+                    ]
+                ]
+            ]
+        ]
+    }
+}

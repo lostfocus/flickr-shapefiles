@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55971208,
+    "properties": {
+        "woe_id": 55971208,
+        "place_id": "VP1WZiScBJUY8pNVaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Loma Verde, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518123,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55971208_20101216_6640a90753.tar.gz"
+        },
+        "bbox": [
+            -121.95307159424,
+            37.300155639648,
+            -121.95079803467,
+            37.302024841309
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.951729,
+                        37.301243
+                    ],
+                    [
+                        -121.951164,
+                        37.302025
+                    ],
+                    [
+                        -121.950798,
+                        37.301991
+                    ],
+                    [
+                        -121.950974,
+                        37.300236
+                    ],
+                    [
+                        -121.951416,
+                        37.300209
+                    ],
+                    [
+                        -121.953072,
+                        37.300156
+                    ],
+                    [
+                        -121.951729,
+                        37.301243
+                    ]
+                ]
+            ]
+        ]
+    }
+}

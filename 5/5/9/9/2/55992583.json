@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992583,
+    "properties": {
+        "woe_id": 55992583,
+        "place_id": "sHvN5KGcBJV_2dmBtQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Callowhill, Reading, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455312,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55992583_20101215_a36dbc4c4e.tar.gz"
+        },
+        "bbox": [
+            -75.944862365723,
+            40.331211090088,
+            -75.939613342285,
+            40.333511352539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.943497,
+                        40.331501
+                    ],
+                    [
+                        -75.939613,
+                        40.333511
+                    ],
+                    [
+                        -75.939888,
+                        40.331806
+                    ],
+                    [
+                        -75.943474,
+                        40.331211
+                    ],
+                    [
+                        -75.944862,
+                        40.332176
+                    ],
+                    [
+                        -75.943497,
+                        40.331501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55899330,
+    "properties": {
+        "woe_id": 55899330,
+        "place_id": "Kom5VaKcBJR6yMjbPQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Romero Rubio, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510163,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/55899330_20101216_30db08004b.tar.gz"
+        },
+        "bbox": [
+            -99.099700927734,
+            19.43959236145,
+            -99.096420288086,
+            19.443445205688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.098312,
+                        19.443163
+                    ],
+                    [
+                        -99.097282,
+                        19.443445
+                    ],
+                    [
+                        -99.09642,
+                        19.442232
+                    ],
+                    [
+                        -99.097717,
+                        19.439592
+                    ],
+                    [
+                        -99.099701,
+                        19.441088
+                    ],
+                    [
+                        -99.099678,
+                        19.441195
+                    ],
+                    [
+                        -99.098312,
+                        19.443163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

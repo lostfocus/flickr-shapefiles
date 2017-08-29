@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55806836,
+    "properties": {
+        "woe_id": 55806836,
+        "place_id": "q3KhQj2cBJTEd3.6eQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wellswood, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547445,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55806836_20101217_c23f13c31f.tar.gz"
+        },
+        "bbox": [
+            -82.486305236816,
+            27.990322113037,
+            -82.481216430664,
+            27.996248245239
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.483452,
+                        27.993933
+                    ],
+                    [
+                        -82.483589,
+                        27.990322
+                    ],
+                    [
+                        -82.486305,
+                        27.995077
+                    ],
+                    [
+                        -82.485718,
+                        27.995935
+                    ],
+                    [
+                        -82.481216,
+                        27.996248
+                    ],
+                    [
+                        -82.483452,
+                        27.993933
+                    ]
+                ]
+            ]
+        ]
+    }
+}

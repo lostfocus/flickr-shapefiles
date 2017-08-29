@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999437,
+    "properties": {
+        "woe_id": 55999437,
+        "place_id": "d.eN.rWcBJWKHqvHvw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Purple Hill, Orangeville, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526834,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55999437_20101216_0842ca0b0d.tar.gz"
+        },
+        "bbox": [
+            -80.089302062988,
+            43.921081542969,
+            -80.084167480469,
+            43.925903320312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.088593,
+                        43.923233
+                    ],
+                    [
+                        -80.089302,
+                        43.925377
+                    ],
+                    [
+                        -80.088531,
+                        43.925903
+                    ],
+                    [
+                        -80.084167,
+                        43.925499
+                    ],
+                    [
+                        -80.087723,
+                        43.921776
+                    ],
+                    [
+                        -80.08857,
+                        43.921082
+                    ],
+                    [
+                        -80.088593,
+                        43.923233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

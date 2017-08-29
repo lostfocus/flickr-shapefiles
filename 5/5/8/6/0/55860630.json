@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55860630,
+    "properties": {
+        "woe_id": 55860630,
+        "place_id": "z7BEfHScBJTCNjq2Wg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stonebridge, Norfolk, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497028,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/55860630_20101216_197b694d0d.tar.gz"
+        },
+        "bbox": [
+            -76.250556945801,
+            36.844150543213,
+            -76.242454528809,
+            36.848648071289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.250557,
+                        36.84687
+                    ],
+                    [
+                        -76.246964,
+                        36.846382
+                    ],
+                    [
+                        -76.242455,
+                        36.846313
+                    ],
+                    [
+                        -76.24456,
+                        36.844151
+                    ],
+                    [
+                        -76.246964,
+                        36.846382
+                    ],
+                    [
+                        -76.249634,
+                        36.848648
+                    ],
+                    [
+                        -76.250557,
+                        36.84687
+                    ]
+                ]
+            ]
+        ]
+    }
+}

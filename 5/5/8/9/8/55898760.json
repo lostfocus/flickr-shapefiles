@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55898760,
+    "properties": {
+        "woe_id": 55898760,
+        "place_id": "bxrsQ2qcBJQe1ZJh3g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Xoco, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503808,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/55898760_20101216_73845d068e.tar.gz"
+        },
+        "bbox": [
+            -99.170478820801,
+            19.361558914185,
+            -99.164207458496,
+            19.367570877075
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.168167,
+                        19.366564
+                    ],
+                    [
+                        -99.166328,
+                        19.367531
+                    ],
+                    [
+                        -99.164993,
+                        19.367571
+                    ],
+                    [
+                        -99.164207,
+                        19.365101
+                    ],
+                    [
+                        -99.16526,
+                        19.361559
+                    ],
+                    [
+                        -99.168114,
+                        19.362429
+                    ],
+                    [
+                        -99.170479,
+                        19.363653
+                    ],
+                    [
+                        -99.168167,
+                        19.366564
+                    ]
+                ]
+            ]
+        ]
+    }
+}

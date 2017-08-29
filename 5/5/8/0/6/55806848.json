@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55806848,
+    "properties": {
+        "woe_id": 55806848,
+        "place_id": "UuYAIomcBJSCHfNeKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Forest Hills, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458753,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55806848_20101216_e38b6ce282.tar.gz"
+        },
+        "bbox": [
+            -82.472305297852,
+            28.043565750122,
+            -82.466979980469,
+            28.050924301147
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.46698,
+                        28.045868
+                    ],
+                    [
+                        -82.470932,
+                        28.043566
+                    ],
+                    [
+                        -82.471596,
+                        28.047655
+                    ],
+                    [
+                        -82.472305,
+                        28.050924
+                    ],
+                    [
+                        -82.471466,
+                        28.050356
+                    ],
+                    [
+                        -82.471596,
+                        28.047655
+                    ],
+                    [
+                        -82.470932,
+                        28.043566
+                    ],
+                    [
+                        -82.46698,
+                        28.045868
+                    ]
+                ]
+            ]
+        ]
+    }
+}

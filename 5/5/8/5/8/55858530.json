@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858530,
+    "properties": {
+        "woe_id": 55858530,
+        "place_id": "F.4XbcWcBJTtkYiFxg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Elmwood Park, Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455361,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55858530_20101215_5c623d693c.tar.gz"
+        },
+        "bbox": [
+            -81.028419494629,
+            33.998104095459,
+            -81.02360534668,
+            34.003540039062
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.027374,
+                        33.998196
+                    ],
+                    [
+                        -81.028419,
+                        33.99865
+                    ],
+                    [
+                        -81.027359,
+                        33.998924
+                    ],
+                    [
+                        -81.024643,
+                        34.00354
+                    ],
+                    [
+                        -81.023605,
+                        33.998104
+                    ],
+                    [
+                        -81.027374,
+                        33.998196
+                    ]
+                ]
+            ]
+        ]
+    }
+}

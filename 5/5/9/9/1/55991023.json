@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55991023,
+    "properties": {
+        "woe_id": 55991023,
+        "place_id": "tEZjXQWcBJVmzK7phA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cimarron, Wake Forest, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473627,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55991023_20101216_6b7168000f.tar.gz"
+        },
+        "bbox": [
+            -78.525169372559,
+            35.958831787109,
+            -78.524002075195,
+            35.961166381836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.524834,
+                        35.959167
+                    ],
+                    [
+                        -78.525169,
+                        35.959332
+                    ],
+                    [
+                        -78.524002,
+                        35.961166
+                    ],
+                    [
+                        -78.524002,
+                        35.958832
+                    ],
+                    [
+                        -78.524834,
+                        35.959167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

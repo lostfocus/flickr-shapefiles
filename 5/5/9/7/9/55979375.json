@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55979375,
+    "properties": {
+        "woe_id": 55979375,
+        "place_id": "Q8k1ygucBJWY4mCX1w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Heritage Harbor, Lutz, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551683,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/55979375_20101217_241cbc1296.tar.gz"
+        },
+        "bbox": [
+            -82.506500244141,
+            28.159000396729,
+            -82.505836486816,
+            28.159498214722
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.505997,
+                        28.159
+                    ],
+                    [
+                        -82.506165,
+                        28.159166
+                    ],
+                    [
+                        -82.506332,
+                        28.159332
+                    ],
+                    [
+                        -82.5065,
+                        28.159498
+                    ],
+                    [
+                        -82.505836,
+                        28.159332
+                    ],
+                    [
+                        -82.505997,
+                        28.159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55872651,
+    "properties": {
+        "woe_id": 55872651,
+        "place_id": "kG0_6XWcBJQmzi686A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Al Rul, Diba, Fujairah, AE, United Arab Emirates"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551376,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55872651_20101217_05fdfb0421.tar.gz"
+        },
+        "bbox": [
+            56.336944580078,
+            25.602222442627,
+            56.337776184082,
+            25.603054046631
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        56.337502,
+                        25.602501
+                    ],
+                    [
+                        56.336945,
+                        25.602222
+                    ],
+                    [
+                        56.337223,
+                        25.602777
+                    ],
+                    [
+                        56.337502,
+                        25.603054
+                    ],
+                    [
+                        56.337776,
+                        25.602777
+                    ],
+                    [
+                        56.337502,
+                        25.602501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

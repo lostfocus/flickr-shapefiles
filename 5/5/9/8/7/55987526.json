@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987526,
+    "properties": {
+        "woe_id": 55987526,
+        "place_id": "JE2lfhCcBJUEcfb8zg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kirkwood Shores, West Yellowstone, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455532,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55987526_20101215_0965ed6d35.tar.gz"
+        },
+        "bbox": [
+            -111.30583190918,
+            44.841487884521,
+            -111.30079650879,
+            44.843780517578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.300797,
+                        44.842552
+                    ],
+                    [
+                        -111.300835,
+                        44.841488
+                    ],
+                    [
+                        -111.301819,
+                        44.841812
+                    ],
+                    [
+                        -111.305832,
+                        44.842072
+                    ],
+                    [
+                        -111.304436,
+                        44.843781
+                    ],
+                    [
+                        -111.300797,
+                        44.842552
+                    ]
+                ]
+            ]
+        ]
+    }
+}

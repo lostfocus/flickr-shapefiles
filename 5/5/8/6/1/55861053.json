@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55861053,
+    "properties": {
+        "woe_id": 55861053,
+        "place_id": "TBvm786cBJRSrMybYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gale Avenue, Peoria, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544965,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/55861053_20101217_441637d386.tar.gz"
+        },
+        "bbox": [
+            -89.618301391602,
+            40.709644317627,
+            -89.615776062012,
+            40.710144042969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.618179,
+                        40.709801
+                    ],
+                    [
+                        -89.618301,
+                        40.709946
+                    ],
+                    [
+                        -89.618179,
+                        40.710144
+                    ],
+                    [
+                        -89.617111,
+                        40.709923
+                    ],
+                    [
+                        -89.615776,
+                        40.709644
+                    ],
+                    [
+                        -89.618073,
+                        40.709702
+                    ],
+                    [
+                        -89.618179,
+                        40.709801
+                    ]
+                ]
+            ]
+        ]
+    }
+}

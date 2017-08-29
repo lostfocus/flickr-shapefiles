@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970933,
+    "properties": {
+        "woe_id": 55970933,
+        "place_id": "oDL9Q4WcBJXZj4vdpw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vista Colina, San Diego, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452989,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/55970933_20101215_3c65685503.tar.gz"
+        },
+        "bbox": [
+            -117.08103942871,
+            32.74792098999,
+            -117.07886505127,
+            32.754333496094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.081001,
+                        32.751225
+                    ],
+                    [
+                        -117.081039,
+                        32.753185
+                    ],
+                    [
+                        -117.080338,
+                        32.754333
+                    ],
+                    [
+                        -117.07917,
+                        32.750332
+                    ],
+                    [
+                        -117.078865,
+                        32.747921
+                    ],
+                    [
+                        -117.08017,
+                        32.749001
+                    ],
+                    [
+                        -117.081001,
+                        32.751225
+                    ]
+                ]
+            ]
+        ]
+    }
+}

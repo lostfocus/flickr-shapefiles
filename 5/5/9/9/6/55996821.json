@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55996821,
+    "properties": {
+        "woe_id": 55996821,
+        "place_id": "_tV9GGacBJWKMckFFg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fair View, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465224,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55996821_20101216_cf59f11089.tar.gz"
+        },
+        "bbox": [
+            -122.68213653564,
+            45.629661560059,
+            -122.67749786377,
+            45.632316589355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.677757,
+                        45.632317
+                    ],
+                    [
+                        -122.677498,
+                        45.631668
+                    ],
+                    [
+                        -122.677834,
+                        45.631001
+                    ],
+                    [
+                        -122.678947,
+                        45.630054
+                    ],
+                    [
+                        -122.680046,
+                        45.629662
+                    ],
+                    [
+                        -122.682137,
+                        45.632107
+                    ],
+                    [
+                        -122.677757,
+                        45.632317
+                    ]
+                ]
+            ]
+        ]
+    }
+}

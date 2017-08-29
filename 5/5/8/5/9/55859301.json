@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859301,
+    "properties": {
+        "woe_id": 55859301,
+        "place_id": "wpfZ0jqcBJSAUpANDQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eagle Pass, Glendale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527725,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/55859301_20101216_b0fa73bc78.tar.gz"
+        },
+        "bbox": [
+            -112.22188568115,
+            33.519882202148,
+            -112.22050476074,
+            33.521629333496
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.221138,
+                        33.520592
+                    ],
+                    [
+                        -112.220505,
+                        33.519882
+                    ],
+                    [
+                        -112.221573,
+                        33.520653
+                    ],
+                    [
+                        -112.221657,
+                        33.521042
+                    ],
+                    [
+                        -112.221886,
+                        33.521629
+                    ],
+                    [
+                        -112.221138,
+                        33.520592
+                    ]
+                ]
+            ]
+        ]
+    }
+}

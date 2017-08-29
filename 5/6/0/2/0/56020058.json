@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56020058,
+    "properties": {
+        "woe_id": 56020058,
+        "place_id": "de0bwpucB5zDBIb__A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tucker Shores, Port St Joe, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521549,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/56020058_20101216_25e0f26fe3.tar.gz"
+        },
+        "bbox": [
+            -85.357055664062,
+            29.668775558472,
+            -85.353080749512,
+            29.671964645386
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.356728,
+                        29.671087
+                    ],
+                    [
+                        -85.356384,
+                        29.671284
+                    ],
+                    [
+                        -85.353081,
+                        29.671965
+                    ],
+                    [
+                        -85.355827,
+                        29.668776
+                    ],
+                    [
+                        -85.356606,
+                        29.669298
+                    ],
+                    [
+                        -85.357056,
+                        29.670109
+                    ],
+                    [
+                        -85.356728,
+                        29.671087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

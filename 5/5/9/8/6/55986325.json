@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55986325,
+    "properties": {
+        "woe_id": 55986325,
+        "place_id": "vo8nzA2cBJXdVmMhGQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Central Corridor, St. Charles, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531272,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55986325_20101216_0f86b05440.tar.gz"
+        },
+        "bbox": [
+            -88.315391540527,
+            41.909160614014,
+            -88.310424804688,
+            41.912464141846
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.315033,
+                        41.912281
+                    ],
+                    [
+                        -88.313705,
+                        41.912346
+                    ],
+                    [
+                        -88.312416,
+                        41.912464
+                    ],
+                    [
+                        -88.312248,
+                        41.912395
+                    ],
+                    [
+                        -88.310425,
+                        41.912243
+                    ],
+                    [
+                        -88.31057,
+                        41.910275
+                    ],
+                    [
+                        -88.312225,
+                        41.909904
+                    ],
+                    [
+                        -88.313736,
+                        41.909161
+                    ],
+                    [
+                        -88.315392,
+                        41.912067
+                    ],
+                    [
+                        -88.315033,
+                        41.912281
+                    ]
+                ]
+            ]
+        ]
+    }
+}

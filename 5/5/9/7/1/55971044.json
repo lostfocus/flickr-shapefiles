@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971044,
+    "properties": {
+        "woe_id": 55971044,
+        "place_id": "IWWK0eGcBJUS0hwLfw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cadwallader, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464748,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/55971044_20101216_10b745b4de.tar.gz"
+        },
+        "bbox": [
+            -121.79364776611,
+            37.311000823975,
+            -121.79216766357,
+            37.313415527344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.793518,
+                        37.313286
+                    ],
+                    [
+                        -121.792656,
+                        37.3134
+                    ],
+                    [
+                        -121.792168,
+                        37.313416
+                    ],
+                    [
+                        -121.792999,
+                        37.311001
+                    ],
+                    [
+                        -121.793648,
+                        37.313194
+                    ],
+                    [
+                        -121.793518,
+                        37.313286
+                    ]
+                ]
+            ]
+        ]
+    }
+}

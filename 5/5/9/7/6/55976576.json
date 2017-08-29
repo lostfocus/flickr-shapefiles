@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55976576,
+    "properties": {
+        "woe_id": 55976576,
+        "place_id": "UggXJuScBJXElblW6w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dunedin Pines, Dunedin, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503802,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55976576_20101216_402b85741d.tar.gz"
+        },
+        "bbox": [
+            -82.773796081543,
+            28.036136627197,
+            -82.772834777832,
+            28.03733253479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.773102,
+                        28.036266
+                    ],
+                    [
+                        -82.773796,
+                        28.036861
+                    ],
+                    [
+                        -82.77314,
+                        28.037251
+                    ],
+                    [
+                        -82.772835,
+                        28.037333
+                    ],
+                    [
+                        -82.772957,
+                        28.036137
+                    ],
+                    [
+                        -82.773102,
+                        28.036266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

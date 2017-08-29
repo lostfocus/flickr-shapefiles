@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969385,
+    "properties": {
+        "woe_id": 55969385,
+        "place_id": "U9RZBC6cBJVcNeeh5A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sequoia Villas, Davis, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510162,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55969385_20101216_fdf491efae.tar.gz"
+        },
+        "bbox": [
+            -121.72821044922,
+            38.545780181885,
+            -121.72486877441,
+            38.547779083252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.725266,
+                        38.546677
+                    ],
+                    [
+                        -121.726608,
+                        38.54578
+                    ],
+                    [
+                        -121.72821,
+                        38.54607
+                    ],
+                    [
+                        -121.725639,
+                        38.547543
+                    ],
+                    [
+                        -121.724869,
+                        38.547779
+                    ],
+                    [
+                        -121.725266,
+                        38.546677
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55859576,
+    "properties": {
+        "woe_id": 55859576,
+        "place_id": "jHH9J3qcBJSAHAjK2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westwind Area, Greensboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547447,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55859576_20101217_acc7cd220e.tar.gz"
+        },
+        "bbox": [
+            -79.896820068359,
+            36.077686309814,
+            -79.894111633301,
+            36.081497192383
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.895805,
+                        36.081497
+                    ],
+                    [
+                        -79.894112,
+                        36.080624
+                    ],
+                    [
+                        -79.89682,
+                        36.077686
+                    ],
+                    [
+                        -79.895752,
+                        36.079868
+                    ],
+                    [
+                        -79.895805,
+                        36.081497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55982935,
+    "properties": {
+        "woe_id": 55982935,
+        "place_id": "_4bSQ6KcBJUOtR98hg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Palermo, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521615,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55982935_20101216_dbf5e56bd8.tar.gz"
+        },
+        "bbox": [
+            -82.506553649902,
+            27.950832366943,
+            -82.501960754395,
+            27.954187393188
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.504028,
+                        27.951742
+                    ],
+                    [
+                        -82.505836,
+                        27.950832
+                    ],
+                    [
+                        -82.506004,
+                        27.951406
+                    ],
+                    [
+                        -82.506554,
+                        27.954075
+                    ],
+                    [
+                        -82.503464,
+                        27.954187
+                    ],
+                    [
+                        -82.501961,
+                        27.951828
+                    ],
+                    [
+                        -82.504028,
+                        27.951742
+                    ]
+                ]
+            ]
+        ]
+    }
+}

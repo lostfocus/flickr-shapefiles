@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55857955,
+    "properties": {
+        "woe_id": 55857955,
+        "place_id": "BJkRv5acBJQL7RUbjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fox Glen, Bellevue, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523841,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55857955_20101216_df3fc505a4.tar.gz"
+        },
+        "bbox": [
+            -122.12599945068,
+            47.614498138428,
+            -122.12268829346,
+            47.618312835693
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.122688,
+                        47.617619
+                    ],
+                    [
+                        -122.123039,
+                        47.616962
+                    ],
+                    [
+                        -122.125999,
+                        47.614498
+                    ],
+                    [
+                        -122.124168,
+                        47.618168
+                    ],
+                    [
+                        -122.123741,
+                        47.618313
+                    ],
+                    [
+                        -122.123253,
+                        47.618156
+                    ],
+                    [
+                        -122.122688,
+                        47.617619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

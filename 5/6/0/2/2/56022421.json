@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022421,
+    "properties": {
+        "woe_id": 56022421,
+        "place_id": "dqzC.3qcB5yOKrQUYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Williamsburg, Lorain, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532002,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/56022421_20101216_6824066cde.tar.gz"
+        },
+        "bbox": [
+            -82.203002929688,
+            41.410831451416,
+            -82.202156066895,
+            41.415634155273
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.202667,
+                        41.411331
+                    ],
+                    [
+                        -82.202499,
+                        41.410831
+                    ],
+                    [
+                        -82.203003,
+                        41.411499
+                    ],
+                    [
+                        -82.202156,
+                        41.415634
+                    ],
+                    [
+                        -82.202667,
+                        41.411331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022059,
+    "properties": {
+        "woe_id": 56022059,
+        "place_id": "jQXy1_qcB5w31oxBFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Rochester Hills, Rochester, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537702,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/56022059_20101216_ff562e80e4.tar.gz"
+        },
+        "bbox": [
+            -83.131721496582,
+            42.636215209961,
+            -83.125671386719,
+            42.641231536865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.12896,
+                        42.636215
+                    ],
+                    [
+                        -83.130974,
+                        42.636791
+                    ],
+                    [
+                        -83.131721,
+                        42.639576
+                    ],
+                    [
+                        -83.129631,
+                        42.641232
+                    ],
+                    [
+                        -83.125671,
+                        42.640297
+                    ],
+                    [
+                        -83.12896,
+                        42.636215
+                    ]
+                ]
+            ]
+        ]
+    }
+}

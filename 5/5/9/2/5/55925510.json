@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55925510,
+    "properties": {
+        "woe_id": 55925510,
+        "place_id": "WC3o1g2cBJWGRb23KQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kurla East, Mumbai, MAH, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551701,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55925510_20101217_febb247213.tar.gz"
+        },
+        "bbox": [
+            72.880630493164,
+            19.060718536377,
+            72.883857727051,
+            19.064365386963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        72.88063,
+                        19.060719
+                    ],
+                    [
+                        72.880791,
+                        19.060942
+                    ],
+                    [
+                        72.881218,
+                        19.064365
+                    ],
+                    [
+                        72.883858,
+                        19.062098
+                    ],
+                    [
+                        72.880981,
+                        19.060766
+                    ],
+                    [
+                        72.88063,
+                        19.060719
+                    ]
+                ]
+            ]
+        ]
+    }
+}

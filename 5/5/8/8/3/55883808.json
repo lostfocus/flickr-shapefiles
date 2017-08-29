@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55883808,
+    "properties": {
+        "woe_id": 55883808,
+        "place_id": "kt8CnrecBJRE40XBiw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Villa Jardin, Torre\u00f3n, CO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526905,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/55883808_20101216_0142d827c2.tar.gz"
+        },
+        "bbox": [
+            -103.44919586182,
+            25.556446075439,
+            -103.44496917725,
+            25.561819076538
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.448723,
+                        25.557755
+                    ],
+                    [
+                        -103.449196,
+                        25.559603
+                    ],
+                    [
+                        -103.447525,
+                        25.561819
+                    ],
+                    [
+                        -103.444969,
+                        25.556446
+                    ],
+                    [
+                        -103.447998,
+                        25.556622
+                    ],
+                    [
+                        -103.448723,
+                        25.557755
+                    ]
+                ]
+            ]
+        ]
+    }
+}

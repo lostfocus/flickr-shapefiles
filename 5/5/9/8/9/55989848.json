@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55989848,
+    "properties": {
+        "woe_id": 55989848,
+        "place_id": "BqQoPUicBJVMptAAQQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brookdale, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292400362,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55989848_20101215_4c9754806a.tar.gz"
+        },
+        "bbox": [
+            -78.683670043945,
+            35.873317718506,
+            -78.680282592773,
+            35.874500274658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.680832,
+                        35.873333
+                    ],
+                    [
+                        -78.682152,
+                        35.873318
+                    ],
+                    [
+                        -78.68367,
+                        35.8745
+                    ],
+                    [
+                        -78.682671,
+                        35.874001
+                    ],
+                    [
+                        -78.680283,
+                        35.873714
+                    ],
+                    [
+                        -78.680832,
+                        35.873333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

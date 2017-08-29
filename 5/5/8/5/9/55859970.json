@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 55859970,
+    "properties": {
+        "woe_id": 55859970,
+        "place_id": "yXql5JCcBJR3WGGv6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old Oakland, Lansing, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451466,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55859970_20101215_ab8076201b.tar.gz"
+        },
+        "bbox": [
+            -84.580909729004,
+            42.738815307617,
+            -84.575668334961,
+            42.744663238525
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.575668,
+                        42.743229
+                    ],
+                    [
+                        -84.576378,
+                        42.744663
+                    ],
+                    [
+                        -84.57634,
+                        42.744495
+                    ],
+                    [
+                        -84.577477,
+                        42.741245
+                    ],
+                    [
+                        -84.577621,
+                        42.740391
+                    ],
+                    [
+                        -84.577667,
+                        42.739071
+                    ],
+                    [
+                        -84.58091,
+                        42.738815
+                    ],
+                    [
+                        -84.577477,
+                        42.741245
+                    ],
+                    [
+                        -84.575668,
+                        42.743229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

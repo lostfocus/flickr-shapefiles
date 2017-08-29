@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898228,
+    "properties": {
+        "woe_id": 55898228,
+        "place_id": "_xpoAHacBJQlr.fXPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "10 de Mayo, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292371375,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55898228_20101215_444746eacf.tar.gz"
+        },
+        "bbox": [
+            -99.118309020996,
+            19.430732727051,
+            -99.114715576172,
+            19.433540344238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.117783,
+                        19.430733
+                    ],
+                    [
+                        -99.118309,
+                        19.430941
+                    ],
+                    [
+                        -99.115044,
+                        19.43354
+                    ],
+                    [
+                        -99.114792,
+                        19.432802
+                    ],
+                    [
+                        -99.114716,
+                        19.432165
+                    ],
+                    [
+                        -99.117783,
+                        19.430733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980120,
+    "properties": {
+        "woe_id": 55980120,
+        "place_id": "iXyOjuqcBJWBgX.RxQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rainbow Terrace, Odessa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548042,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/55980120_20101217_63da633899.tar.gz"
+        },
+        "bbox": [
+            -82.602470397949,
+            28.115224838257,
+            -82.598037719727,
+            28.116331100464
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.60247,
+                        28.115376
+                    ],
+                    [
+                        -82.602287,
+                        28.115816
+                    ],
+                    [
+                        -82.601105,
+                        28.116331
+                    ],
+                    [
+                        -82.598038,
+                        28.115608
+                    ],
+                    [
+                        -82.598572,
+                        28.115225
+                    ],
+                    [
+                        -82.60247,
+                        28.115376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

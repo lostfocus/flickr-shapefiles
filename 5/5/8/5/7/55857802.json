@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55857802,
+    "properties": {
+        "woe_id": 55857802,
+        "place_id": "Ec2_08ucBJQP8nCKCQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Off Broadway Neighborhood, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457844,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55857802_20101216_2800cace2d.tar.gz"
+        },
+        "bbox": [
+            -83.731048583984,
+            42.293327331543,
+            -83.726951599121,
+            42.29670715332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.726952,
+                        42.295837
+                    ],
+                    [
+                        -83.727066,
+                        42.295547
+                    ],
+                    [
+                        -83.727234,
+                        42.294453
+                    ],
+                    [
+                        -83.729126,
+                        42.293327
+                    ],
+                    [
+                        -83.729439,
+                        42.29435
+                    ],
+                    [
+                        -83.731049,
+                        42.296707
+                    ],
+                    [
+                        -83.726952,
+                        42.295837
+                    ]
+                ]
+            ]
+        ]
+    }
+}

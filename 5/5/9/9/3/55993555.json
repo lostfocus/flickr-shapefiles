@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55993555,
+    "properties": {
+        "woe_id": 55993555,
+        "place_id": "LWDD_yWcBJXWmuPJ8w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jackson Ranch, Denton, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490367,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55993555_20101216_7ff6a7036e.tar.gz"
+        },
+        "bbox": [
+            -97.036666870117,
+            33.126468658447,
+            -97.032516479492,
+            33.132507324219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.036644,
+                        33.131775
+                    ],
+                    [
+                        -97.036407,
+                        33.132507
+                    ],
+                    [
+                        -97.036545,
+                        33.131699
+                    ],
+                    [
+                        -97.032516,
+                        33.128502
+                    ],
+                    [
+                        -97.033768,
+                        33.126469
+                    ],
+                    [
+                        -97.036667,
+                        33.131283
+                    ],
+                    [
+                        -97.036644,
+                        33.131775
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55970165,
+    "properties": {
+        "woe_id": 55970165,
+        "place_id": "D.WdZ72cBJWGPB0Cjg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown Newark, Newark, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455428,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55970165_20101215_85fb5e8c30.tar.gz"
+        },
+        "bbox": [
+            -122.03343963623,
+            37.53634262085,
+            -122.02952575684,
+            37.539768218994
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.03344,
+                        37.539425
+                    ],
+                    [
+                        -122.031891,
+                        37.539768
+                    ],
+                    [
+                        -122.029526,
+                        37.537804
+                    ],
+                    [
+                        -122.030167,
+                        37.537243
+                    ],
+                    [
+                        -122.030807,
+                        37.536343
+                    ],
+                    [
+                        -122.03344,
+                        37.539425
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986863,
+    "properties": {
+        "woe_id": 55986863,
+        "place_id": "MXjqZpScBJWQV0uczw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arlington, Lawrence, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550691,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55986863_20101217_237ccddf22.tar.gz"
+        },
+        "bbox": [
+            -71.169654846191,
+            42.713165283203,
+            -71.167991638184,
+            42.720264434814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.16922,
+                        42.720264
+                    ],
+                    [
+                        -71.167992,
+                        42.718121
+                    ],
+                    [
+                        -71.169167,
+                        42.713165
+                    ],
+                    [
+                        -71.169655,
+                        42.717911
+                    ],
+                    [
+                        -71.169281,
+                        42.720158
+                    ],
+                    [
+                        -71.16922,
+                        42.720264
+                    ]
+                ]
+            ]
+        ]
+    }
+}

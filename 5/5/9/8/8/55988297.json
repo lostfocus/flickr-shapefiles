@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55988297,
+    "properties": {
+        "woe_id": 55988297,
+        "place_id": "qARFOiecBJXb37QXfw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Steeplechase, Charlotte, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497327,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/55988297_20101216_0e03983e7a.tar.gz"
+        },
+        "bbox": [
+            -80.664001464844,
+            35.255493164062,
+            -80.658996582031,
+            35.256000518799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.663994,
+                        35.255585
+                    ],
+                    [
+                        -80.664001,
+                        35.255833
+                    ],
+                    [
+                        -80.66317,
+                        35.256001
+                    ],
+                    [
+                        -80.658997,
+                        35.255833
+                    ],
+                    [
+                        -80.663551,
+                        35.255493
+                    ],
+                    [
+                        -80.663994,
+                        35.255585
+                    ]
+                ]
+            ]
+        ]
+    }
+}

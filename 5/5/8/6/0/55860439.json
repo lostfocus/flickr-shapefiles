@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860439,
+    "properties": {
+        "woe_id": 55860439,
+        "place_id": "z4Db6YCcBJTCN9q8Bg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Indian Hill, Naperville, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518029,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55860439_20101216_339d2400c6.tar.gz"
+        },
+        "bbox": [
+            -88.136360168457,
+            41.797115325928,
+            -88.133087158203,
+            41.799095153809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.13604,
+                        41.798016
+                    ],
+                    [
+                        -88.13636,
+                        41.798321
+                    ],
+                    [
+                        -88.133522,
+                        41.799095
+                    ],
+                    [
+                        -88.133087,
+                        41.797115
+                    ],
+                    [
+                        -88.135002,
+                        41.798
+                    ],
+                    [
+                        -88.13604,
+                        41.798016
+                    ]
+                ]
+            ]
+        ]
+    }
+}

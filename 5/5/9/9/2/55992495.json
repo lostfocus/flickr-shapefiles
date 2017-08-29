@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992495,
+    "properties": {
+        "woe_id": 55992495,
+        "place_id": "iKO92eOcBJWBsFXOVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kenwood, Levittown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437743,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/55992495_20101215_19f971fccc.tar.gz"
+        },
+        "bbox": [
+            -74.823081970215,
+            40.138599395752,
+            -74.816833496094,
+            40.142848968506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.818169,
+                        40.141499
+                    ],
+                    [
+                        -74.816833,
+                        40.140331
+                    ],
+                    [
+                        -74.81781,
+                        40.140652
+                    ],
+                    [
+                        -74.82193,
+                        40.138599
+                    ],
+                    [
+                        -74.823082,
+                        40.142849
+                    ],
+                    [
+                        -74.818169,
+                        40.141499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55996126,
+    "properties": {
+        "woe_id": 55996126,
+        "place_id": "mwMS6QGcBJVlDLRA7w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Overlook, Camas, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518051,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/55996126_20101216_64305fee92.tar.gz"
+        },
+        "bbox": [
+            -122.40557861328,
+            45.581081390381,
+            -122.39912414551,
+            45.586368560791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.405579,
+                        45.584705
+                    ],
+                    [
+                        -122.404091,
+                        45.585606
+                    ],
+                    [
+                        -122.403,
+                        45.586166
+                    ],
+                    [
+                        -122.399124,
+                        45.586369
+                    ],
+                    [
+                        -122.399689,
+                        45.585541
+                    ],
+                    [
+                        -122.400528,
+                        45.581081
+                    ],
+                    [
+                        -122.405205,
+                        45.584438
+                    ],
+                    [
+                        -122.405579,
+                        45.584705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56019430,
+    "properties": {
+        "woe_id": 56019430,
+        "place_id": "wMPeVo.cB5zZ9LdE7A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boulder Heights, Boulder, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510161,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/56019430_20101216_0a11518d44.tar.gz"
+        },
+        "bbox": [
+            -105.33750152588,
+            40.078498840332,
+            -105.33163452148,
+            40.079021453857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.334,
+                        40.078999
+                    ],
+                    [
+                        -105.333832,
+                        40.078999
+                    ],
+                    [
+                        -105.331635,
+                        40.079021
+                    ],
+                    [
+                        -105.334335,
+                        40.078499
+                    ],
+                    [
+                        -105.337502,
+                        40.078499
+                    ],
+                    [
+                        -105.334,
+                        40.078999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

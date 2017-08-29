@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55883442,
+    "properties": {
+        "woe_id": 55883442,
+        "place_id": "TPbdbZacBJSjjXywiA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio de San Jose, San Miguel de Allende, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533615,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55883442_20101216_892cccc57d.tar.gz"
+        },
+        "bbox": [
+            -100.73889160156,
+            20.911666870117,
+            -100.73503875732,
+            20.916353225708
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.735039,
+                        20.914494
+                    ],
+                    [
+                        -100.737625,
+                        20.912661
+                    ],
+                    [
+                        -100.738892,
+                        20.911667
+                    ],
+                    [
+                        -100.737419,
+                        20.913921
+                    ],
+                    [
+                        -100.736473,
+                        20.916353
+                    ],
+                    [
+                        -100.735039,
+                        20.914494
+                    ]
+                ]
+            ]
+        ]
+    }
+}

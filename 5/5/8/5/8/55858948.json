@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858948,
+    "properties": {
+        "woe_id": 55858948,
+        "place_id": "15q0Pc2cBJTcCrKq8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Washington, Fargo, ND, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239651009,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3371\/shapefiles\/55858948_20090413_b3d2a24204.tar.gz"
+        },
+        "bbox": [
+            -96.800994873047,
+            46.90295791626,
+            -96.798011779785,
+            46.906543731689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.80056,
+                        46.902958
+                    ],
+                    [
+                        -96.800995,
+                        46.903023
+                    ],
+                    [
+                        -96.800758,
+                        46.903641
+                    ],
+                    [
+                        -96.799187,
+                        46.906544
+                    ],
+                    [
+                        -96.798012,
+                        46.902977
+                    ],
+                    [
+                        -96.80056,
+                        46.902958
+                    ]
+                ]
+            ]
+        ]
+    }
+}

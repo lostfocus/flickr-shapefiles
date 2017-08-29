@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 56022795,
+    "properties": {
+        "woe_id": 56022795,
+        "place_id": "eTFFAJScB5yqR0farg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southglen, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527072,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/56022795_20101216_7cf5927dbc.tar.gz"
+        },
+        "bbox": [
+            -97.084121704102,
+            49.819862365723,
+            -97.080406188965,
+            49.82693862915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.084122,
+                        49.82299
+                    ],
+                    [
+                        -97.081848,
+                        49.826939
+                    ],
+                    [
+                        -97.081879,
+                        49.823975
+                    ],
+                    [
+                        -97.081116,
+                        49.821239
+                    ],
+                    [
+                        -97.080406,
+                        49.819862
+                    ],
+                    [
+                        -97.083015,
+                        49.822121
+                    ],
+                    [
+                        -97.083992,
+                        49.822685
+                    ],
+                    [
+                        -97.084122,
+                        49.82299
+                    ]
+                ]
+            ]
+        ]
+    }
+}

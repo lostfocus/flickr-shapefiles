@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969020,
+    "properties": {
+        "woe_id": 55969020,
+        "place_id": "1DnVsmqcBJUFCZSuyA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wilderness Run, Winslow, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452992,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55969020_20101215_318002e0d2.tar.gz"
+        },
+        "bbox": [
+            -94.241668701172,
+            35.774333953857,
+            -94.237350463867,
+            35.778858184814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.241669,
+                        35.774445
+                    ],
+                    [
+                        -94.23893,
+                        35.77634
+                    ],
+                    [
+                        -94.237968,
+                        35.778858
+                    ],
+                    [
+                        -94.23735,
+                        35.775467
+                    ],
+                    [
+                        -94.241173,
+                        35.774334
+                    ],
+                    [
+                        -94.241669,
+                        35.774445
+                    ]
+                ]
+            ]
+        ]
+    }
+}

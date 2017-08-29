@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55978965,
+    "properties": {
+        "woe_id": 55978965,
+        "place_id": "HGnXlyScBJXp_KEIdA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oasis, Largo, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535028,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55978965_20101216_31fd87725e.tar.gz"
+        },
+        "bbox": [
+            -82.786445617676,
+            27.893327713013,
+            -82.77808380127,
+            27.894720077515
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.781082,
+                        27.89472
+                    ],
+                    [
+                        -82.778084,
+                        27.89459
+                    ],
+                    [
+                        -82.781937,
+                        27.893372
+                    ],
+                    [
+                        -82.786079,
+                        27.893328
+                    ],
+                    [
+                        -82.786446,
+                        27.893831
+                    ],
+                    [
+                        -82.781082,
+                        27.89472
+                    ]
+                ]
+            ]
+        ]
+    }
+}

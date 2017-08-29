@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898715,
+    "properties": {
+        "woe_id": 55898715,
+        "place_id": "ii79mJecBJTbjNwXyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Periodista Francisco Zarco, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436966,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55898715_20101215_b7ce59817d.tar.gz"
+        },
+        "bbox": [
+            -99.145027160645,
+            19.382848739624,
+            -99.144805908203,
+            19.383296966553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.144897,
+                        19.382944
+                    ],
+                    [
+                        -99.145027,
+                        19.383297
+                    ],
+                    [
+                        -99.144859,
+                        19.382956
+                    ],
+                    [
+                        -99.144836,
+                        19.382915
+                    ],
+                    [
+                        -99.144806,
+                        19.382849
+                    ],
+                    [
+                        -99.144897,
+                        19.382944
+                    ]
+                ]
+            ]
+        ]
+    }
+}

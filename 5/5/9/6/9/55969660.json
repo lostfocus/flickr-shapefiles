@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55969660,
+    "properties": {
+        "woe_id": 55969660,
+        "place_id": "noYu.uScBJVESernYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Downtown, Inglewood, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520459,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/55969660_20101216_783b73b667.tar.gz"
+        },
+        "bbox": [
+            -118.35708618164,
+            33.960971832275,
+            -118.35107421875,
+            33.964424133301
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.351074,
+                        33.964291
+                    ],
+                    [
+                        -118.351669,
+                        33.963333
+                    ],
+                    [
+                        -118.351837,
+                        33.963333
+                    ],
+                    [
+                        -118.35498,
+                        33.960972
+                    ],
+                    [
+                        -118.357086,
+                        33.964005
+                    ],
+                    [
+                        -118.35614,
+                        33.964424
+                    ],
+                    [
+                        -118.351074,
+                        33.964291
+                    ]
+                ]
+            ]
+        ]
+    }
+}

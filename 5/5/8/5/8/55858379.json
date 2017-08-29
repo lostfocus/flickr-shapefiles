@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858379,
+    "properties": {
+        "woe_id": 55858379,
+        "place_id": "CkQ_no2cBJT17AFdWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Grant Wood, Cedar Rapids, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537689,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55858379_20101216_415bdeecd9.tar.gz"
+        },
+        "bbox": [
+            -91.667129516602,
+            41.987861633301,
+            -91.659774780273,
+            41.994201660156
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.663872,
+                        41.988842
+                    ],
+                    [
+                        -91.66713,
+                        41.994202
+                    ],
+                    [
+                        -91.662315,
+                        41.990807
+                    ],
+                    [
+                        -91.659775,
+                        41.987862
+                    ],
+                    [
+                        -91.661743,
+                        41.988811
+                    ],
+                    [
+                        -91.663872,
+                        41.988842
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55862331,
+    "properties": {
+        "woe_id": 55862331,
+        "place_id": "UI4bW9qcBJQriQ5pCw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burton Evergreen, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542446,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/55862331_20101216_5a9a7e60cb.tar.gz"
+        },
+        "bbox": [
+            -122.5217590332,
+            45.637962341309,
+            -122.5153503418,
+            45.642784118652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.516266,
+                        45.640499
+                    ],
+                    [
+                        -122.51535,
+                        45.640297
+                    ],
+                    [
+                        -122.517082,
+                        45.638428
+                    ],
+                    [
+                        -122.521759,
+                        45.637962
+                    ],
+                    [
+                        -122.518997,
+                        45.639561
+                    ],
+                    [
+                        -122.518387,
+                        45.642784
+                    ],
+                    [
+                        -122.516266,
+                        45.640499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

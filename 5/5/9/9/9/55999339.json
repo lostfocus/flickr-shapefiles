@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999339,
+    "properties": {
+        "woe_id": 55999339,
+        "place_id": "UXcU22ecBJVBlD8JyA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bayview, Burlington, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549647,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55999339_20101217_aa250a3fb0.tar.gz"
+        },
+        "bbox": [
+            -79.888031005859,
+            43.325477600098,
+            -79.886657714844,
+            43.33080291748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.887169,
+                        43.330704
+                    ],
+                    [
+                        -79.886658,
+                        43.32983
+                    ],
+                    [
+                        -79.886742,
+                        43.327923
+                    ],
+                    [
+                        -79.888031,
+                        43.325478
+                    ],
+                    [
+                        -79.887817,
+                        43.329391
+                    ],
+                    [
+                        -79.887474,
+                        43.330803
+                    ],
+                    [
+                        -79.887169,
+                        43.330704
+                    ]
+                ]
+            ]
+        ]
+    }
+}

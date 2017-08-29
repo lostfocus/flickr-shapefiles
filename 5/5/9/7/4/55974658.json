@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974658,
+    "properties": {
+        "woe_id": 55974658,
+        "place_id": "sMPnTQicBJVx2parEg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Observatory, Westminster, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519320,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55974658_20101216_05d4e8d6ba.tar.gz"
+        },
+        "bbox": [
+            -105.06748199463,
+            39.8430519104,
+            -105.06126403809,
+            39.844440460205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.061287,
+                        39.844177
+                    ],
+                    [
+                        -105.061264,
+                        39.844139
+                    ],
+                    [
+                        -105.063515,
+                        39.843052
+                    ],
+                    [
+                        -105.067482,
+                        39.84444
+                    ],
+                    [
+                        -105.063652,
+                        39.843437
+                    ],
+                    [
+                        -105.061287,
+                        39.844177
+                    ]
+                ]
+            ]
+        ]
+    }
+}

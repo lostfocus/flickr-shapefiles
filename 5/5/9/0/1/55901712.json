@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55901712,
+    "properties": {
+        "woe_id": 55901712,
+        "place_id": "XgNKW.ycBJUEFeIAxg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Las Huertas, Guanajuato, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437024,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55901712_20101215_982461f60e.tar.gz"
+        },
+        "bbox": [
+            -101.25141906738,
+            21.018800735474,
+            -101.2493057251,
+            21.020481109619
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.250305,
+                        21.019928
+                    ],
+                    [
+                        -101.249306,
+                        21.018801
+                    ],
+                    [
+                        -101.25,
+                        21.019281
+                    ],
+                    [
+                        -101.251419,
+                        21.020481
+                    ],
+                    [
+                        -101.250511,
+                        21.020018
+                    ],
+                    [
+                        -101.250305,
+                        21.019928
+                    ]
+                ]
+            ]
+        ]
+    }
+}

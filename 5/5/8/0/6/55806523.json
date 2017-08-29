@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55806523,
+    "properties": {
+        "woe_id": 55806523,
+        "place_id": "LDvcQSecBJQfLcdRwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Military, Buffalo, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535202,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55806523_20101216_958f1bcc9e.tar.gz"
+        },
+        "bbox": [
+            -78.886596679688,
+            42.944850921631,
+            -78.881446838379,
+            42.953918457031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.882553,
+                        42.949429
+                    ],
+                    [
+                        -78.883469,
+                        42.949184
+                    ],
+                    [
+                        -78.886337,
+                        42.944851
+                    ],
+                    [
+                        -78.886597,
+                        42.949986
+                    ],
+                    [
+                        -78.883926,
+                        42.950706
+                    ],
+                    [
+                        -78.881447,
+                        42.953918
+                    ],
+                    [
+                        -78.882553,
+                        42.949429
+                    ]
+                ]
+            ]
+        ]
+    }
+}

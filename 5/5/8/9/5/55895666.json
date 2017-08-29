@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55895666,
+    "properties": {
+        "woe_id": 55895666,
+        "place_id": "A9KE4FWcBJQRWFApcw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hda Las Palomas, Tijuana, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544819,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/55895666_20101217_9e0e64bb72.tar.gz"
+        },
+        "bbox": [
+            -117.00383758545,
+            32.49084854126,
+            -117.00201416016,
+            32.495147705078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.003838,
+                        32.493835
+                    ],
+                    [
+                        -117.003731,
+                        32.495148
+                    ],
+                    [
+                        -117.002014,
+                        32.494408
+                    ],
+                    [
+                        -117.00267,
+                        32.492748
+                    ],
+                    [
+                        -117.003105,
+                        32.490849
+                    ],
+                    [
+                        -117.003838,
+                        32.493835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882951,
+    "properties": {
+        "woe_id": 55882951,
+        "place_id": "hZNIDHmcBJQXWG0M0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio de la Estacion, Aguascalientes, AG, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247893801,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2544\/shapefiles\/55882951_20090718_a4796c92c4.tar.gz"
+        },
+        "bbox": [
+            -102.28176879883,
+            21.882930755615,
+            -102.27944946289,
+            21.885473251343
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.281471,
+                        21.882931
+                    ],
+                    [
+                        -102.281769,
+                        21.883083
+                    ],
+                    [
+                        -102.281242,
+                        21.885473
+                    ],
+                    [
+                        -102.279449,
+                        21.885035
+                    ],
+                    [
+                        -102.280663,
+                        21.883463
+                    ],
+                    [
+                        -102.281471,
+                        21.882931
+                    ]
+                ]
+            ]
+        ]
+    }
+}

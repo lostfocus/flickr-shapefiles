@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55862375,
+    "properties": {
+        "woe_id": 55862375,
+        "place_id": "VOHHqgScBJRyluNEYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old Evergreen Highway, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529577,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55862375_20101216_da80259a2f.tar.gz"
+        },
+        "bbox": [
+            -122.58032989502,
+            45.594699859619,
+            -122.57304382324,
+            45.599498748779
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.577553,
+                        45.597046
+                    ],
+                    [
+                        -122.58033,
+                        45.599499
+                    ],
+                    [
+                        -122.576828,
+                        45.597527
+                    ],
+                    [
+                        -122.573044,
+                        45.594753
+                    ],
+                    [
+                        -122.573257,
+                        45.5947
+                    ],
+                    [
+                        -122.577553,
+                        45.597046
+                    ]
+                ]
+            ]
+        ]
+    }
+}

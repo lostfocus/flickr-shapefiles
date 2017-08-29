@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971339,
+    "properties": {
+        "woe_id": 55971339,
+        "place_id": "fA16cnicBJXiA9omxA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stonegate West, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447813,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55971339_20101215_30acba4ef7.tar.gz"
+        },
+        "bbox": [
+            -121.83779907227,
+            37.308612823486,
+            -121.83694458008,
+            37.310199737549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.837799,
+                        37.309998
+                    ],
+                    [
+                        -121.837799,
+                        37.310101
+                    ],
+                    [
+                        -121.837502,
+                        37.3102
+                    ],
+                    [
+                        -121.836945,
+                        37.308613
+                    ],
+                    [
+                        -121.837097,
+                        37.3088
+                    ],
+                    [
+                        -121.837799,
+                        37.309998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898546,
+    "properties": {
+        "woe_id": 55898546,
+        "place_id": "3xRxGwycBJRkzQlEHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unidad Hab Int Latinoamericana, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457929,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/55898546_20101216_a2ecd2e88e.tar.gz"
+        },
+        "bbox": [
+            -99.177047729492,
+            19.336149215698,
+            -99.174873352051,
+            19.338376998901
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.176666,
+                        19.336149
+                    ],
+                    [
+                        -99.177048,
+                        19.336357
+                    ],
+                    [
+                        -99.174873,
+                        19.338377
+                    ],
+                    [
+                        -99.176071,
+                        19.336739
+                    ],
+                    [
+                        -99.176514,
+                        19.336323
+                    ],
+                    [
+                        -99.176666,
+                        19.336149
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55857958,
+    "properties": {
+        "woe_id": 55857958,
+        "place_id": "7Q3APdmcBJQWwk82pw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Horizon Heights, Bellevue, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549293,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/55857958_20101217_43dda430ee.tar.gz"
+        },
+        "bbox": [
+            -122.14608001709,
+            47.569831848145,
+            -122.14552307129,
+            47.569972991943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.145836,
+                        47.569832
+                    ],
+                    [
+                        -122.146004,
+                        47.569832
+                    ],
+                    [
+                        -122.14608,
+                        47.569973
+                    ],
+                    [
+                        -122.146034,
+                        47.569965
+                    ],
+                    [
+                        -122.145523,
+                        47.569866
+                    ],
+                    [
+                        -122.145836,
+                        47.569832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

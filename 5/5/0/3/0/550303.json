@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 550303,
+    "properties": {
+        "woe_id": 550303,
+        "place_id": "uOyaigacBJyqJtA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wenisbuch, Ober Andritz, STM, AT, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248303737,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2432\/shapefiles\/550303_20090722_bc363e031c.tar.gz"
+        },
+        "bbox": [
+            15.465660095215,
+            47.106353759766,
+            15.472010612488,
+            47.112808227539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.467376,
+                        47.106354
+                    ],
+                    [
+                        15.46566,
+                        47.110996
+                    ],
+                    [
+                        15.467897,
+                        47.111992
+                    ],
+                    [
+                        15.469211,
+                        47.112808
+                    ],
+                    [
+                        15.472011,
+                        47.11021
+                    ],
+                    [
+                        15.467897,
+                        47.111992
+                    ],
+                    [
+                        15.46566,
+                        47.110996
+                    ],
+                    [
+                        15.467376,
+                        47.106354
+                    ]
+                ]
+            ]
+        ]
+    }
+}

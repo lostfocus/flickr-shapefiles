@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898777,
+    "properties": {
+        "woe_id": 55898777,
+        "place_id": "JUoFceKcBJQY9t5KMg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ignacio Zaragoza, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497267,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55898777_20101216_2e1c928b89.tar.gz"
+        },
+        "bbox": [
+            -99.102127075195,
+            19.418556213379,
+            -99.096466064453,
+            19.420747756958
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.096786,
+                        19.41984
+                    ],
+                    [
+                        -99.096466,
+                        19.418945
+                    ],
+                    [
+                        -99.097878,
+                        19.419218
+                    ],
+                    [
+                        -99.102127,
+                        19.418556
+                    ],
+                    [
+                        -99.098137,
+                        19.420748
+                    ],
+                    [
+                        -99.096786,
+                        19.41984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

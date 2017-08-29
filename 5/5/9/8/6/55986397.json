@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986397,
+    "properties": {
+        "woe_id": 55986397,
+        "place_id": "6nJcVf.cBJV9EdzYMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The South Lakefront, Waukegan, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450166,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/55986397_20101215_052fe57250.tar.gz"
+        },
+        "bbox": [
+            -87.829383850098,
+            42.354038238525,
+            -87.827278137207,
+            42.354793548584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.827499,
+                        42.354794
+                    ],
+                    [
+                        -87.827278,
+                        42.35461
+                    ],
+                    [
+                        -87.827324,
+                        42.3545
+                    ],
+                    [
+                        -87.827538,
+                        42.354038
+                    ],
+                    [
+                        -87.829384,
+                        42.354122
+                    ],
+                    [
+                        -87.827499,
+                        42.354794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

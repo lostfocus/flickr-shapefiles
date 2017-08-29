@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022745,
+    "properties": {
+        "woe_id": 56022745,
+        "place_id": "m3KbQCucB5wVJVxHAQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Fort Worth, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524208,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/56022745_20101216_9a5585e2d4.tar.gz"
+        },
+        "bbox": [
+            -97.42098236084,
+            32.764274597168,
+            -97.416282653809,
+            32.76587677002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.417465,
+                        32.765877
+                    ],
+                    [
+                        -97.416283,
+                        32.7658
+                    ],
+                    [
+                        -97.418282,
+                        32.764275
+                    ],
+                    [
+                        -97.420982,
+                        32.764866
+                    ],
+                    [
+                        -97.417595,
+                        32.765858
+                    ],
+                    [
+                        -97.417465,
+                        32.765877
+                    ]
+                ]
+            ]
+        ]
+    }
+}

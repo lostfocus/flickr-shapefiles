@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55862180,
+    "properties": {
+        "woe_id": 55862180,
+        "place_id": "cRVgmQmcBJRjkEkuMQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Estancia, Newbury Park, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521566,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/55862180_20101216_ae2a55986f.tar.gz"
+        },
+        "bbox": [
+            -118.98416900635,
+            34.155780792236,
+            -118.98011779785,
+            34.15795135498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.981827,
+                        34.157219
+                    ],
+                    [
+                        -118.980186,
+                        34.157951
+                    ],
+                    [
+                        -118.980118,
+                        34.157867
+                    ],
+                    [
+                        -118.980881,
+                        34.155781
+                    ],
+                    [
+                        -118.984169,
+                        34.156834
+                    ],
+                    [
+                        -118.983856,
+                        34.157017
+                    ],
+                    [
+                        -118.981827,
+                        34.157219
+                    ]
+                ]
+            ]
+        ]
+    }
+}

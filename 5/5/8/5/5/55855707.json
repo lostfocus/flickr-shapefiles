@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55855707,
+    "properties": {
+        "woe_id": 55855707,
+        "place_id": "19shRTacBJRSPdsh7w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River Heights, Medicine Hat, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550403,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55855707_20101217_24093d96bc.tar.gz"
+        },
+        "bbox": [
+            -110.71557617188,
+            50.032028198242,
+            -110.70941925049,
+            50.039943695068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.710945,
+                        50.036991
+                    ],
+                    [
+                        -110.709526,
+                        50.039944
+                    ],
+                    [
+                        -110.709419,
+                        50.036327
+                    ],
+                    [
+                        -110.709541,
+                        50.036072
+                    ],
+                    [
+                        -110.709503,
+                        50.032028
+                    ],
+                    [
+                        -110.714035,
+                        50.033436
+                    ],
+                    [
+                        -110.715576,
+                        50.036358
+                    ],
+                    [
+                        -110.710945,
+                        50.036991
+                    ]
+                ]
+            ]
+        ]
+    }
+}

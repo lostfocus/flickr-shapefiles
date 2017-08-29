@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55990117,
+    "properties": {
+        "woe_id": 55990117,
+        "place_id": "NZXvNMacBJWVXdktKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Graceland Court, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437213,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55990117_20101215_ecc927b7e8.tar.gz"
+        },
+        "bbox": [
+            -78.711334228516,
+            35.792331695557,
+            -78.710472106934,
+            35.794334411621
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.710602,
+                        35.793518
+                    ],
+                    [
+                        -78.711205,
+                        35.792538
+                    ],
+                    [
+                        -78.711334,
+                        35.792332
+                    ],
+                    [
+                        -78.711082,
+                        35.79327
+                    ],
+                    [
+                        -78.710602,
+                        35.794182
+                    ],
+                    [
+                        -78.710503,
+                        35.794334
+                    ],
+                    [
+                        -78.710472,
+                        35.793797
+                    ],
+                    [
+                        -78.710602,
+                        35.793518
+                    ]
+                ]
+            ]
+        ]
+    }
+}

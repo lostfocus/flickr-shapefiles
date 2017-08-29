@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55806264,
+    "properties": {
+        "woe_id": 55806264,
+        "place_id": "muf4XF2cBJTqmXkzVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Stonehurst, Oakland, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538428,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55806264_20101216_dbdc60b865.tar.gz"
+        },
+        "bbox": [
+            -122.17849731445,
+            37.738098144531,
+            -122.17377471924,
+            37.740333557129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.177979,
+                        37.739594
+                    ],
+                    [
+                        -122.178497,
+                        37.740334
+                    ],
+                    [
+                        -122.173775,
+                        37.739437
+                    ],
+                    [
+                        -122.175003,
+                        37.738098
+                    ],
+                    [
+                        -122.177979,
+                        37.739594
+                    ]
+                ]
+            ]
+        ]
+    }
+}

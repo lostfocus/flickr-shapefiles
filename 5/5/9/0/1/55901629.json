@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55901629,
+    "properties": {
+        "woe_id": 55901629,
+        "place_id": "TipD6PWcBJXtfgwL3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Villahermosa, Guanajuato, GT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446529,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55901629_20101215_469fed5206.tar.gz"
+        },
+        "bbox": [
+            -101.28600311279,
+            20.983833312988,
+            -101.28050231934,
+            20.987205505371
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.284332,
+                        20.983833
+                    ],
+                    [
+                        -101.284668,
+                        20.984165
+                    ],
+                    [
+                        -101.286003,
+                        20.985481
+                    ],
+                    [
+                        -101.28479,
+                        20.987206
+                    ],
+                    [
+                        -101.280502,
+                        20.986
+                    ],
+                    [
+                        -101.284332,
+                        20.983833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986617,
+    "properties": {
+        "woe_id": 55986617,
+        "place_id": "Yo2pmIScBJUdjaOHQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hampton Cove, Indianapolis, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531169,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55986617_20101216_2eb4a60944.tar.gz"
+        },
+        "bbox": [
+            -85.939491271973,
+            39.927509307861,
+            -85.937118530273,
+            39.930866241455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.937759,
+                        39.930042
+                    ],
+                    [
+                        -85.937119,
+                        39.928463
+                    ],
+                    [
+                        -85.937851,
+                        39.927509
+                    ],
+                    [
+                        -85.939491,
+                        39.929516
+                    ],
+                    [
+                        -85.939178,
+                        39.930866
+                    ],
+                    [
+                        -85.937759,
+                        39.930042
+                    ]
+                ]
+            ]
+        ]
+    }
+}

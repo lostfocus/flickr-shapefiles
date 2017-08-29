@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971782,
+    "properties": {
+        "woe_id": 55971782,
+        "place_id": "dDM8G3.cBJXredNPUQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Villa Tahoe, South Lake Tahoe, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518049,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55971782_20101216_69ffbbccb9.tar.gz"
+        },
+        "bbox": [
+            -119.95584106445,
+            38.939449310303,
+            -119.95189666748,
+            38.943164825439
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.954002,
+                        38.943165
+                    ],
+                    [
+                        -119.951897,
+                        38.941483
+                    ],
+                    [
+                        -119.952675,
+                        38.939449
+                    ],
+                    [
+                        -119.955841,
+                        38.942928
+                    ],
+                    [
+                        -119.95575,
+                        38.942978
+                    ],
+                    [
+                        -119.954002,
+                        38.943165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

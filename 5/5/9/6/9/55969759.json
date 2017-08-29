@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969759,
+    "properties": {
+        "woe_id": 55969759,
+        "place_id": "W_X6FyucBJUoFYUkSw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Portafina, Laguna Beach, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464747,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55969759_20101216_fa91a682b0.tar.gz"
+        },
+        "bbox": [
+            -117.75563812256,
+            33.520572662354,
+            -117.75238037109,
+            33.526519775391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.755348,
+                        33.52306
+                    ],
+                    [
+                        -117.755638,
+                        33.525433
+                    ],
+                    [
+                        -117.75238,
+                        33.52652
+                    ],
+                    [
+                        -117.753342,
+                        33.524612
+                    ],
+                    [
+                        -117.754211,
+                        33.520573
+                    ],
+                    [
+                        -117.755348,
+                        33.52306
+                    ]
+                ]
+            ]
+        ]
+    }
+}

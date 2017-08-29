@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991586,
+    "properties": {
+        "woe_id": 55991586,
+        "place_id": "bnG7.6.cBJX_Zn0SWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bergen Square, Camden, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442896,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55991586_20101215_056cb154ff.tar.gz"
+        },
+        "bbox": [
+            -75.124938964844,
+            39.930450439453,
+            -75.123817443848,
+            39.933399200439
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.124771,
+                        39.931213
+                    ],
+                    [
+                        -75.124939,
+                        39.933399
+                    ],
+                    [
+                        -75.124107,
+                        39.932041
+                    ],
+                    [
+                        -75.123817,
+                        39.931278
+                    ],
+                    [
+                        -75.123848,
+                        39.93045
+                    ],
+                    [
+                        -75.124771,
+                        39.931213
+                    ]
+                ]
+            ]
+        ]
+    }
+}

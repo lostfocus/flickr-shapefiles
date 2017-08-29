@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55983228,
+    "properties": {
+        "woe_id": 55983228,
+        "place_id": "tNLuovScBJWikWtUMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunrise Villas of Tampa, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437622,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/55983228_20101215_386638e5bc.tar.gz"
+        },
+        "bbox": [
+            -82.505668640137,
+            28.005079269409,
+            -82.50089263916,
+            28.007360458374
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.501144,
+                        28.00736
+                    ],
+                    [
+                        -82.500893,
+                        28.005079
+                    ],
+                    [
+                        -82.505669,
+                        28.006166
+                    ],
+                    [
+                        -82.505051,
+                        28.007151
+                    ],
+                    [
+                        -82.504913,
+                        28.007355
+                    ],
+                    [
+                        -82.501144,
+                        28.00736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

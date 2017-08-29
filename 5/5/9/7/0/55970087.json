@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55970087,
+    "properties": {
+        "woe_id": 55970087,
+        "place_id": "3uTSE6ucBJXCeYtrdA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monte-Viejo, Mission Viejo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455427,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55970087_20101215_285b3ecbbe.tar.gz"
+        },
+        "bbox": [
+            -117.64730834961,
+            33.630664825439,
+            -117.6429977417,
+            33.634307861328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.644333,
+                        33.632168
+                    ],
+                    [
+                        -117.6455,
+                        33.630665
+                    ],
+                    [
+                        -117.647308,
+                        33.631271
+                    ],
+                    [
+                        -117.645531,
+                        33.634308
+                    ],
+                    [
+                        -117.642998,
+                        33.633499
+                    ],
+                    [
+                        -117.643333,
+                        33.633167
+                    ],
+                    [
+                        -117.644333,
+                        33.632168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

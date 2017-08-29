@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55976923,
+    "properties": {
+        "woe_id": 55976923,
+        "place_id": "QyNYTkqcBJUooOcHWA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chippendale, Fort Myers, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549344,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55976923_20101217_6122bd9c49.tar.gz"
+        },
+        "bbox": [
+            -81.97444152832,
+            26.49315071106,
+            -81.969444274902,
+            26.495578765869
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.973022,
+                        26.493151
+                    ],
+                    [
+                        -81.974442,
+                        26.493334
+                    ],
+                    [
+                        -81.973564,
+                        26.495344
+                    ],
+                    [
+                        -81.972191,
+                        26.495579
+                    ],
+                    [
+                        -81.969444,
+                        26.493334
+                    ],
+                    [
+                        -81.973022,
+                        26.493151
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987031,
+    "properties": {
+        "woe_id": 55987031,
+        "place_id": "8ABnMF.cBJV7roOrtA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Milton-Montford, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446683,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55987031_20101215_4ff7cdabbc.tar.gz"
+        },
+        "bbox": [
+            -76.58358001709,
+            39.297332763672,
+            -76.582496643066,
+            39.299667358398
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.583076,
+                        39.297508
+                    ],
+                    [
+                        -76.58358,
+                        39.298798
+                    ],
+                    [
+                        -76.582497,
+                        39.299667
+                    ],
+                    [
+                        -76.58268,
+                        39.298397
+                    ],
+                    [
+                        -76.582497,
+                        39.297333
+                    ],
+                    [
+                        -76.583076,
+                        39.297508
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55971005,
+    "properties": {
+        "woe_id": 55971005,
+        "place_id": "tL9IFAKcBJVPYNz4IA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Atlanta, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548862,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55971005_20101217_2b67373c7a.tar.gz"
+        },
+        "bbox": [
+            -121.89630126953,
+            37.310020446777,
+            -121.88905334473,
+            37.315464019775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.891998,
+                        37.312168
+                    ],
+                    [
+                        -121.892944,
+                        37.31002
+                    ],
+                    [
+                        -121.893661,
+                        37.311958
+                    ],
+                    [
+                        -121.896301,
+                        37.31538
+                    ],
+                    [
+                        -121.895653,
+                        37.315464
+                    ],
+                    [
+                        -121.892105,
+                        37.31509
+                    ],
+                    [
+                        -121.889053,
+                        37.313622
+                    ],
+                    [
+                        -121.891998,
+                        37.312168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

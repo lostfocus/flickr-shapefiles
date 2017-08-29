@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55902533,
+    "properties": {
+        "woe_id": 55902533,
+        "place_id": "cY15eLecBJXsNuv0Dw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miguel Hidalgo, Cuernavaca, MO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455421,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55902533_20101215_1df4ae2e9b.tar.gz"
+        },
+        "bbox": [
+            -99.235084533691,
+            18.91125869751,
+            -99.231773376465,
+            18.915563583374
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.232574,
+                        18.913574
+                    ],
+                    [
+                        -99.231773,
+                        18.911726
+                    ],
+                    [
+                        -99.232338,
+                        18.911259
+                    ],
+                    [
+                        -99.235085,
+                        18.912233
+                    ],
+                    [
+                        -99.234177,
+                        18.915564
+                    ],
+                    [
+                        -99.233398,
+                        18.914314
+                    ],
+                    [
+                        -99.232574,
+                        18.913574
+                    ]
+                ]
+            ]
+        ]
+    }
+}

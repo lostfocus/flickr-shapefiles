@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55912518,
+    "properties": {
+        "woe_id": 55912518,
+        "place_id": "diIDntucBJVvkceLdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Banamichi Centro, Hu\u00e9pac, SO, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550453,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55912518_20101217_2c56484219.tar.gz"
+        },
+        "bbox": [
+            -110.21701049805,
+            30.007747650146,
+            -110.21527099609,
+            30.009511947632
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.21701,
+                        30.009251
+                    ],
+                    [
+                        -110.216881,
+                        30.009512
+                    ],
+                    [
+                        -110.215271,
+                        30.007748
+                    ],
+                    [
+                        -110.216133,
+                        30.008184
+                    ],
+                    [
+                        -110.216728,
+                        30.00835
+                    ],
+                    [
+                        -110.21701,
+                        30.009251
+                    ]
+                ]
+            ]
+        ]
+    }
+}

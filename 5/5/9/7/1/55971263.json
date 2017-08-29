@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971263,
+    "properties": {
+        "woe_id": 55971263,
+        "place_id": "V6U2d0WcBJVd7SV4Ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oak Grove, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455439,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55971263_20101215_4983d5283e.tar.gz"
+        },
+        "bbox": [
+            -121.82316589355,
+            37.25,
+            -121.81999969482,
+            37.255081176758
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.820869,
+                        37.254627
+                    ],
+                    [
+                        -121.82,
+                        37.254002
+                    ],
+                    [
+                        -121.82,
+                        37.25
+                    ],
+                    [
+                        -121.823166,
+                        37.251499
+                    ],
+                    [
+                        -121.821556,
+                        37.255081
+                    ],
+                    [
+                        -121.820869,
+                        37.254627
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55857879,
+    "properties": {
+        "woe_id": 55857879,
+        "place_id": "nanSbYKcBJTjmktFFQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stafford Albemarle Glebe, Arlington, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551664,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55857879_20101217_7889c4dbd4.tar.gz"
+        },
+        "bbox": [
+            -77.137115478516,
+            38.918369293213,
+            -77.134536743164,
+            38.923023223877
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.134537,
+                        38.922173
+                    ],
+                    [
+                        -77.134712,
+                        38.923023
+                    ],
+                    [
+                        -77.134995,
+                        38.921818
+                    ],
+                    [
+                        -77.135811,
+                        38.918369
+                    ],
+                    [
+                        -77.137115,
+                        38.918983
+                    ],
+                    [
+                        -77.134995,
+                        38.921818
+                    ],
+                    [
+                        -77.134537,
+                        38.922173
+                    ]
+                ]
+            ]
+        ]
+    }
+}

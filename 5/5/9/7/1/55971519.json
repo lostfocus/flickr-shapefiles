@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55971519,
+    "properties": {
+        "woe_id": 55971519,
+        "place_id": "MEFxfvacBJWppMdtIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mont Marin, San Rafael, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527877,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55971519_20101216_07a63b60ef.tar.gz"
+        },
+        "bbox": [
+            -122.56055450439,
+            38.018611907959,
+            -122.55583190918,
+            38.024482727051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.560555,
+                        38.019833
+                    ],
+                    [
+                        -122.55706,
+                        38.024483
+                    ],
+                    [
+                        -122.557808,
+                        38.020439
+                    ],
+                    [
+                        -122.555832,
+                        38.018612
+                    ],
+                    [
+                        -122.560555,
+                        38.019833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

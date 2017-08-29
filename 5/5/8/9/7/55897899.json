@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55897899,
+    "properties": {
+        "woe_id": 55897899,
+        "place_id": ".h6P91GcBJQkBKiHQQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Acacias, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537696,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55897899_20101216_4de531774b.tar.gz"
+        },
+        "bbox": [
+            -99.177040100098,
+            19.363391876221,
+            -99.171226501465,
+            19.366983413696
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.174095,
+                        19.366518
+                    ],
+                    [
+                        -99.172653,
+                        19.364981
+                    ],
+                    [
+                        -99.171227,
+                        19.363392
+                    ],
+                    [
+                        -99.173409,
+                        19.364351
+                    ],
+                    [
+                        -99.17704,
+                        19.365589
+                    ],
+                    [
+                        -99.174767,
+                        19.366983
+                    ],
+                    [
+                        -99.174095,
+                        19.366518
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858264,
+    "properties": {
+        "woe_id": 55858264,
+        "place_id": "v6J0scucBJQnswf21g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Corbin Manor, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536686,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55858264_20101216_4bcd9a3861.tar.gz"
+        },
+        "bbox": [
+            -105.05777740479,
+            39.925224304199,
+            -105.0528793335,
+            39.928852081299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.053429,
+                        39.928852
+                    ],
+                    [
+                        -105.052879,
+                        39.925224
+                    ],
+                    [
+                        -105.053337,
+                        39.925385
+                    ],
+                    [
+                        -105.057777,
+                        39.926109
+                    ],
+                    [
+                        -105.054237,
+                        39.928165
+                    ],
+                    [
+                        -105.053429,
+                        39.928852
+                    ]
+                ]
+            ]
+        ]
+    }
+}

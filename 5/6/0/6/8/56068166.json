@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56068166,
+    "properties": {
+        "woe_id": 56068166,
+        "place_id": "kfrWBHucB5yZFVGUQA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cruzeiro, Campo Grande, MS, BR, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517914,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/56068166_20101216_8940ef71e9.tar.gz"
+        },
+        "bbox": [
+            -54.611621856689,
+            -20.449666976929,
+            -54.608001708984,
+            -20.446155548096
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -54.611622,
+                        -20.446878
+                    ],
+                    [
+                        -54.611069,
+                        -20.446156
+                    ],
+                    [
+                        -54.608002,
+                        -20.447001
+                    ],
+                    [
+                        -54.609241,
+                        -20.448547
+                    ],
+                    [
+                        -54.609501,
+                        -20.449667
+                    ],
+                    [
+                        -54.611622,
+                        -20.446878
+                    ]
+                ]
+            ]
+        ]
+    }
+}

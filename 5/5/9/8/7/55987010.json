@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987010,
+    "properties": {
+        "woe_id": 55987010,
+        "place_id": "WrSFa1acBJWQpsHxZQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belair-Parkside, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534250,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/55987010_20101216_5d10e478e1.tar.gz"
+        },
+        "bbox": [
+            -76.567611694336,
+            39.327667236328,
+            -76.56566619873,
+            39.331832885742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.567612,
+                        39.329811
+                    ],
+                    [
+                        -76.567169,
+                        39.331833
+                    ],
+                    [
+                        -76.566666,
+                        39.331333
+                    ],
+                    [
+                        -76.565666,
+                        39.327999
+                    ],
+                    [
+                        -76.566002,
+                        39.327667
+                    ],
+                    [
+                        -76.567612,
+                        39.329811
+                    ]
+                ]
+            ]
+        ]
+    }
+}

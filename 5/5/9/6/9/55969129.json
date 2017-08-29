@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55969129,
+    "properties": {
+        "woe_id": 55969129,
+        "place_id": "lOUVhzucBJUtVPUWKQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Plateau-Skymont, Belmont, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534298,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55969129_20101216_39ee3f7892.tar.gz"
+        },
+        "bbox": [
+            -122.32187652588,
+            37.510032653809,
+            -122.31635284424,
+            37.512001037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.319168,
+                        37.511959
+                    ],
+                    [
+                        -122.319092,
+                        37.512001
+                    ],
+                    [
+                        -122.318832,
+                        37.511993
+                    ],
+                    [
+                        -122.316353,
+                        37.511219
+                    ],
+                    [
+                        -122.318878,
+                        37.511765
+                    ],
+                    [
+                        -122.321877,
+                        37.510033
+                    ],
+                    [
+                        -122.319168,
+                        37.511959
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55998019,
+    "properties": {
+        "woe_id": 55998019,
+        "place_id": "rO86HbqcBJWsSOVk7g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Wellington, Woodinville, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544990,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55998019_20101217_a635791d59.tar.gz"
+        },
+        "bbox": [
+            -122.14849853516,
+            47.778137207031,
+            -122.14025115967,
+            47.780666351318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.1465,
+                        47.780666
+                    ],
+                    [
+                        -122.145424,
+                        47.780659
+                    ],
+                    [
+                        -122.140251,
+                        47.778889
+                    ],
+                    [
+                        -122.145668,
+                        47.779331
+                    ],
+                    [
+                        -122.147499,
+                        47.778137
+                    ],
+                    [
+                        -122.148499,
+                        47.779499
+                    ],
+                    [
+                        -122.1465,
+                        47.780666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

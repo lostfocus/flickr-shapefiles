@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55885910,
+    "properties": {
+        "woe_id": 55885910,
+        "place_id": "2rMDUOucBJSbT.iTLA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "America sur, Oaxaca de Juarez, OA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490062,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55885910_20101216_4d8c6a515f.tar.gz"
+        },
+        "bbox": [
+            -96.717567443848,
+            17.068338394165,
+            -96.713935852051,
+            17.070718765259
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.717567,
+                        17.070251
+                    ],
+                    [
+                        -96.717461,
+                        17.070719
+                    ],
+                    [
+                        -96.716766,
+                        17.070486
+                    ],
+                    [
+                        -96.713936,
+                        17.0702
+                    ],
+                    [
+                        -96.716827,
+                        17.068338
+                    ],
+                    [
+                        -96.717567,
+                        17.070251
+                    ]
+                ]
+            ]
+        ]
+    }
+}

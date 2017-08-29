@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55888792,
+    "properties": {
+        "woe_id": 55888792,
+        "place_id": "5oM5QoycBJTrn.HZWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Capilla, Queretaro, QT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519238,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55888792_20101216_2593bd912c.tar.gz"
+        },
+        "bbox": [
+            -100.41000366211,
+            20.583478927612,
+            -100.40739440918,
+            20.585166931152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.408974,
+                        20.583483
+                    ],
+                    [
+                        -100.410004,
+                        20.585167
+                    ],
+                    [
+                        -100.40892,
+                        20.584398
+                    ],
+                    [
+                        -100.40757,
+                        20.583591
+                    ],
+                    [
+                        -100.407394,
+                        20.583479
+                    ],
+                    [
+                        -100.408974,
+                        20.583483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

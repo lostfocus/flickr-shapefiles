@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022873,
+    "properties": {
+        "woe_id": 56022873,
+        "place_id": "SbQkcaCcB5yTW5MGUA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Iberville, St Hubert, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445559,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/56022873_20101215_b78ddaa142.tar.gz"
+        },
+        "bbox": [
+            -73.416694641113,
+            45.46985244751,
+            -73.416137695312,
+            45.470016479492
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.416138,
+                        45.470016
+                    ],
+                    [
+                        -73.416351,
+                        45.469883
+                    ],
+                    [
+                        -73.416695,
+                        45.469852
+                    ],
+                    [
+                        -73.416351,
+                        45.469955
+                    ],
+                    [
+                        -73.416138,
+                        45.470016
+                    ]
+                ]
+            ]
+        ]
+    }
+}

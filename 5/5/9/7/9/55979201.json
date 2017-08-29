@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55979201,
+    "properties": {
+        "woe_id": 55979201,
+        "place_id": "EPqzVzScBJUTaWUR9w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waters Edge, Leesburg, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450102,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/55979201_20101215_d2aeaa0883.tar.gz"
+        },
+        "bbox": [
+            -81.838577270508,
+            28.830801010132,
+            -81.833427429199,
+            28.832944869995
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.834129,
+                        28.83143
+                    ],
+                    [
+                        -81.833427,
+                        28.830801
+                    ],
+                    [
+                        -81.834236,
+                        28.831289
+                    ],
+                    [
+                        -81.838577,
+                        28.832191
+                    ],
+                    [
+                        -81.837585,
+                        28.832945
+                    ],
+                    [
+                        -81.834129,
+                        28.83143
+                    ]
+                ]
+            ]
+        ]
+    }
+}

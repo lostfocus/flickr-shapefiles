@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991794,
+    "properties": {
+        "woe_id": 55991794,
+        "place_id": "jbgoO6WcBJXiQd9alg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Avalon, Albuquerque, NM, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535603,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55991794_20101216_ab6bb1be84.tar.gz"
+        },
+        "bbox": [
+            -106.7377166748,
+            35.070045471191,
+            -106.73136138916,
+            35.074893951416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.737717,
+                        35.074017
+                    ],
+                    [
+                        -106.736649,
+                        35.074333
+                    ],
+                    [
+                        -106.731361,
+                        35.074894
+                    ],
+                    [
+                        -106.734238,
+                        35.070045
+                    ],
+                    [
+                        -106.737411,
+                        35.072681
+                    ],
+                    [
+                        -106.737717,
+                        35.074017
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55999485,
+    "properties": {
+        "woe_id": 55999485,
+        "place_id": "6ie5dUScBJV8LAtN2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Green's of Saint George, Etobicoke, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548863,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/55999485_20101217_dccafba0c4.tar.gz"
+        },
+        "bbox": [
+            -79.533912658691,
+            43.676002502441,
+            -79.526412963867,
+            43.685455322266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.526413,
+                        43.682156
+                    ],
+                    [
+                        -79.527794,
+                        43.676701
+                    ],
+                    [
+                        -79.528999,
+                        43.676003
+                    ],
+                    [
+                        -79.528839,
+                        43.681782
+                    ],
+                    [
+                        -79.533913,
+                        43.684696
+                    ],
+                    [
+                        -79.528366,
+                        43.685455
+                    ],
+                    [
+                        -79.526443,
+                        43.682972
+                    ],
+                    [
+                        -79.526413,
+                        43.682156
+                    ]
+                ]
+            ]
+        ]
+    }
+}

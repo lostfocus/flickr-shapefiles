@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56018003,
+    "properties": {
+        "woe_id": 56018003,
+        "place_id": "4fzk046cB5yHAjcEHA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cornerstone Ridge, Bentonville, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519342,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/56018003_20101216_794de562c5.tar.gz"
+        },
+        "bbox": [
+            -94.251998901367,
+            36.332332611084,
+            -94.248168945312,
+            36.335041046143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.248962,
+                        36.335041
+                    ],
+                    [
+                        -94.248665,
+                        36.334167
+                    ],
+                    [
+                        -94.248169,
+                        36.332333
+                    ],
+                    [
+                        -94.250664,
+                        36.334167
+                    ],
+                    [
+                        -94.251999,
+                        36.334831
+                    ],
+                    [
+                        -94.248962,
+                        36.335041
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56021184,
+    "properties": {
+        "woe_id": 56021184,
+        "place_id": "8IH2wAGcB5xdmO7VSg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old Orchard Beach, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458083,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/56021184_20101216_d713fb285c.tar.gz"
+        },
+        "bbox": [
+            -93.612800598145,
+            41.609859466553,
+            -93.610420227051,
+            41.613628387451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.611923,
+                        41.609859
+                    ],
+                    [
+                        -93.611839,
+                        41.610508
+                    ],
+                    [
+                        -93.612801,
+                        41.613628
+                    ],
+                    [
+                        -93.611504,
+                        41.612476
+                    ],
+                    [
+                        -93.611115,
+                        41.612167
+                    ],
+                    [
+                        -93.61042,
+                        41.609875
+                    ],
+                    [
+                        -93.611923,
+                        41.609859
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859773,
+    "properties": {
+        "woe_id": 55859773,
+        "place_id": "p_y07_6cBJQFGod3MA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Forest, Irving, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455374,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55859773_20101215_0e9b29dc83.tar.gz"
+        },
+        "bbox": [
+            -96.98983001709,
+            32.822666168213,
+            -96.986831665039,
+            32.824001312256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.987167,
+                        32.823334
+                    ],
+                    [
+                        -96.986832,
+                        32.823166
+                    ],
+                    [
+                        -96.986832,
+                        32.822666
+                    ],
+                    [
+                        -96.987831,
+                        32.823166
+                    ],
+                    [
+                        -96.98983,
+                        32.824001
+                    ],
+                    [
+                        -96.987167,
+                        32.823334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

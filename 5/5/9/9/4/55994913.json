@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994913,
+    "properties": {
+        "woe_id": 55994913,
+        "place_id": "03UlutScBJXGXfXeEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mesa Ridge, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532064,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55994913_20101216_8ae4154062.tar.gz"
+        },
+        "bbox": [
+            -97.669143676758,
+            30.520797729492,
+            -97.665336608887,
+            30.525499343872
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.668358,
+                        30.524506
+                    ],
+                    [
+                        -97.665337,
+                        30.525499
+                    ],
+                    [
+                        -97.666573,
+                        30.520798
+                    ],
+                    [
+                        -97.667862,
+                        30.521973
+                    ],
+                    [
+                        -97.669144,
+                        30.524746
+                    ],
+                    [
+                        -97.668358,
+                        30.524506
+                    ]
+                ]
+            ]
+        ]
+    }
+}

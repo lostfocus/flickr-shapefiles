@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990834,
+    "properties": {
+        "woe_id": 55990834,
+        "place_id": "CXorUxKcBJVSo_w5jg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Weldon Ridge, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497808,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55990834_20101216_f02b26cdca.tar.gz"
+        },
+        "bbox": [
+            -78.745391845703,
+            35.839218139648,
+            -78.743141174316,
+            35.84090423584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.745392,
+                        35.840076
+                    ],
+                    [
+                        -78.745323,
+                        35.840099
+                    ],
+                    [
+                        -78.743141,
+                        35.840904
+                    ],
+                    [
+                        -78.744499,
+                        35.839218
+                    ],
+                    [
+                        -78.744812,
+                        35.839485
+                    ],
+                    [
+                        -78.745392,
+                        35.840076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

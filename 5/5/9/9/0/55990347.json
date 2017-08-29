@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990347,
+    "properties": {
+        "woe_id": 55990347,
+        "place_id": "37pV_u2cBJUxaj9fUA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Middleton Place, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437864,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55990347_20101215_1b10dee0c7.tar.gz"
+        },
+        "bbox": [
+            -78.693901062012,
+            35.803226470947,
+            -78.691902160645,
+            35.805641174316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.693832,
+                        35.803665
+                    ],
+                    [
+                        -78.693901,
+                        35.805641
+                    ],
+                    [
+                        -78.693008,
+                        35.805569
+                    ],
+                    [
+                        -78.691902,
+                        35.805218
+                    ],
+                    [
+                        -78.692162,
+                        35.803226
+                    ],
+                    [
+                        -78.693832,
+                        35.803665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

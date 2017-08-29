@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971167,
+    "properties": {
+        "woe_id": 55971167,
+        "place_id": "EmZEK6.cBJUGB6c_0g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hammer, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442839,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55971167_20101215_c6fdfa9923.tar.gz"
+        },
+        "bbox": [
+            -121.88694763184,
+            37.255992889404,
+            -121.88327789307,
+            37.260475158691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.885803,
+                        37.260475
+                    ],
+                    [
+                        -121.88501,
+                        37.259048
+                    ],
+                    [
+                        -121.883278,
+                        37.255993
+                    ],
+                    [
+                        -121.885735,
+                        37.258965
+                    ],
+                    [
+                        -121.886948,
+                        37.259125
+                    ],
+                    [
+                        -121.885803,
+                        37.260475
+                    ]
+                ]
+            ]
+        ]
+    }
+}

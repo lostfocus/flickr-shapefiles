@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55974672,
+    "properties": {
+        "woe_id": 55974672,
+        "place_id": "C.9y5o.cBJWaaWjqgg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shaw Heights, Westminster, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442846,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/55974672_20101215_291dc32677.tar.gz"
+        },
+        "bbox": [
+            -105.03144073486,
+            39.847953796387,
+            -105.02970123291,
+            39.848579406738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.031441,
+                        39.848499
+                    ],
+                    [
+                        -105.030968,
+                        39.848579
+                    ],
+                    [
+                        -105.029701,
+                        39.847954
+                    ],
+                    [
+                        -105.030968,
+                        39.848248
+                    ],
+                    [
+                        -105.031441,
+                        39.848499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

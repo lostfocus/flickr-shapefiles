@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55978439,
+    "properties": {
+        "woe_id": 55978439,
+        "place_id": "AzEyQ3ecBJW65RJ3Cw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Gibson Heights, Lakeland, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515386,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55978439_20101216_fe37886545.tar.gz"
+        },
+        "bbox": [
+            -81.952789306641,
+            28.098028182983,
+            -81.950462341309,
+            28.105089187622
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.952087,
+                        28.098028
+                    ],
+                    [
+                        -81.952789,
+                        28.098635
+                    ],
+                    [
+                        -81.950798,
+                        28.100538
+                    ],
+                    [
+                        -81.950912,
+                        28.105089
+                    ],
+                    [
+                        -81.950462,
+                        28.104729
+                    ],
+                    [
+                        -81.950798,
+                        28.100538
+                    ],
+                    [
+                        -81.952087,
+                        28.098028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993903,
+    "properties": {
+        "woe_id": 55993903,
+        "place_id": "JaxN9PCcBJUrXiH5cQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Palm Beach, Galveston, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497383,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55993903_20101216_94b4be70c5.tar.gz"
+        },
+        "bbox": [
+            -94.960990905762,
+            29.203195571899,
+            -94.955039978027,
+            29.206827163696
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.956665,
+                        29.2045
+                    ],
+                    [
+                        -94.960991,
+                        29.204824
+                    ],
+                    [
+                        -94.956551,
+                        29.206827
+                    ],
+                    [
+                        -94.95504,
+                        29.205378
+                    ],
+                    [
+                        -94.955688,
+                        29.203196
+                    ],
+                    [
+                        -94.956665,
+                        29.2045
+                    ]
+                ]
+            ]
+        ]
+    }
+}

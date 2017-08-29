@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992355,
+    "properties": {
+        "woe_id": 55992355,
+        "place_id": "vrlIcJ.cBJXQbiaaJQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Argay, Portland, OR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544059,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55992355_20101217_1ae362ec64.tar.gz"
+        },
+        "bbox": [
+            -122.51026153564,
+            45.561359405518,
+            -122.50923156738,
+            45.563941955566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.510239,
+                        45.562984
+                    ],
+                    [
+                        -122.510262,
+                        45.563103
+                    ],
+                    [
+                        -122.510262,
+                        45.5634
+                    ],
+                    [
+                        -122.509232,
+                        45.563942
+                    ],
+                    [
+                        -122.509918,
+                        45.561359
+                    ],
+                    [
+                        -122.510239,
+                        45.562984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

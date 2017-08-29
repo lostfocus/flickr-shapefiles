@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55900656,
+    "properties": {
+        "woe_id": 55900656,
+        "place_id": "uNYgUv2cBJXK.gFd8w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Paloma, Durango, DG, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442683,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/55900656_20101215_dbc79dccb1.tar.gz"
+        },
+        "bbox": [
+            -104.65749359131,
+            24.032506942749,
+            -104.65566253662,
+            24.035308837891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.656258,
+                        24.035187
+                    ],
+                    [
+                        -104.655663,
+                        24.034019
+                    ],
+                    [
+                        -104.657028,
+                        24.032507
+                    ],
+                    [
+                        -104.656944,
+                        24.033226
+                    ],
+                    [
+                        -104.657494,
+                        24.035309
+                    ],
+                    [
+                        -104.656258,
+                        24.035187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

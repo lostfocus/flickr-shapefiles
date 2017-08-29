@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55856029,
+    "properties": {
+        "woe_id": 55856029,
+        "place_id": "8ClDxBmcBJTl8tdd8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allendale, Edmonton, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248090137,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2484\/shapefiles\/55856029_20090720_296c6fb954.tar.gz"
+        },
+        "bbox": [
+            -113.49992370605,
+            53.497783660889,
+            -113.49643707275,
+            53.500900268555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.499924,
+                        53.49855
+                    ],
+                    [
+                        -113.498512,
+                        53.5009
+                    ],
+                    [
+                        -113.496437,
+                        53.498535
+                    ],
+                    [
+                        -113.498192,
+                        53.497784
+                    ],
+                    [
+                        -113.499924,
+                        53.49855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

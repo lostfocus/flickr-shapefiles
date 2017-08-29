@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55902827,
+    "properties": {
+        "woe_id": 55902827,
+        "place_id": ".4cwh8KcBJW4720K9g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sifon, Ixtapalapa, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457929,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55902827_20101216_287773c930.tar.gz"
+        },
+        "bbox": [
+            -99.117965698242,
+            19.362930297852,
+            -99.112770080566,
+            19.370941162109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.117966,
+                        19.364676
+                    ],
+                    [
+                        -99.116089,
+                        19.366386
+                    ],
+                    [
+                        -99.117088,
+                        19.370941
+                    ],
+                    [
+                        -99.11277,
+                        19.36743
+                    ],
+                    [
+                        -99.115028,
+                        19.36293
+                    ],
+                    [
+                        -99.117966,
+                        19.364676
+                    ]
+                ]
+            ]
+        ]
+    }
+}

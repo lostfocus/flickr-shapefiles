@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55983422,
+    "properties": {
+        "woe_id": 55983422,
+        "place_id": "90MA3OecBJVjQ5ToEQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Walter's Crossing, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450104,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/55983422_20101215_a51178da64.tar.gz"
+        },
+        "bbox": [
+            -82.508331298828,
+            27.95581817627,
+            -82.505165100098,
+            27.957836151123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.508331,
+                        27.957167
+                    ],
+                    [
+                        -82.507164,
+                        27.957333
+                    ],
+                    [
+                        -82.505676,
+                        27.957836
+                    ],
+                    [
+                        -82.505165,
+                        27.957832
+                    ],
+                    [
+                        -82.505562,
+                        27.955818
+                    ],
+                    [
+                        -82.506973,
+                        27.956728
+                    ],
+                    [
+                        -82.508331,
+                        27.957167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

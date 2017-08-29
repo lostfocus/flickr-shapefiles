@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55992286,
+    "properties": {
+        "woe_id": 55992286,
+        "place_id": "3zHPUsmcBJV1IDMb3g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Jericho, Westbury, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292504403,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/55992286_20101216_ae43804850.tar.gz"
+        },
+        "bbox": [
+            -73.562141418457,
+            40.772640228271,
+            -73.556999206543,
+            40.779670715332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.556999,
+                        40.775833
+                    ],
+                    [
+                        -73.557266,
+                        40.77544
+                    ],
+                    [
+                        -73.558281,
+                        40.7733
+                    ],
+                    [
+                        -73.562141,
+                        40.77264
+                    ],
+                    [
+                        -73.560066,
+                        40.776157
+                    ],
+                    [
+                        -73.561226,
+                        40.779671
+                    ],
+                    [
+                        -73.556999,
+                        40.775833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

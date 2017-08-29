@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55980316,
+    "properties": {
+        "woe_id": 55980316,
+        "place_id": "fq1SMiGcBJXCOI40RA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tanner Road, Orlando, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536858,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55980316_20101216_a2a013789d.tar.gz"
+        },
+        "bbox": [
+            -81.178237915039,
+            28.595212936401,
+            -81.178031921387,
+            28.595504760742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.178215,
+                        28.595213
+                    ],
+                    [
+                        -81.178238,
+                        28.595505
+                    ],
+                    [
+                        -81.178055,
+                        28.595427
+                    ],
+                    [
+                        -81.178032,
+                        28.595358
+                    ],
+                    [
+                        -81.178215,
+                        28.595213
+                    ]
+                ]
+            ]
+        ]
+    }
+}

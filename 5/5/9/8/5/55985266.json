@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985266,
+    "properties": {
+        "woe_id": 55985266,
+        "place_id": "MMK3I1GcBJWVMP0vdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jamestown, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548483,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/55985266_20101217_a2dc79865c.tar.gz"
+        },
+        "bbox": [
+            -84.463821411133,
+            33.63537979126,
+            -84.458526611328,
+            33.639892578125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.463821,
+                        33.639893
+                    ],
+                    [
+                        -84.461998,
+                        33.639332
+                    ],
+                    [
+                        -84.458527,
+                        33.639587
+                    ],
+                    [
+                        -84.461891,
+                        33.63538
+                    ],
+                    [
+                        -84.462082,
+                        33.635864
+                    ],
+                    [
+                        -84.463821,
+                        33.639893
+                    ]
+                ]
+            ]
+        ]
+    }
+}

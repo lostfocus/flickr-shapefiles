@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55906598,
+    "properties": {
+        "woe_id": 55906598,
+        "place_id": "AQN3oROcBJUw9zpz6w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Plaza de Toros, Poncitl\u00e1n, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509752,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/55906598_20101216_965128291e.tar.gz"
+        },
+        "bbox": [
+            -103.19234466553,
+            20.298788070679,
+            -103.19062805176,
+            20.300439834595
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.190628,
+                        20.299616
+                    ],
+                    [
+                        -103.19088,
+                        20.298788
+                    ],
+                    [
+                        -103.191063,
+                        20.29899
+                    ],
+                    [
+                        -103.192345,
+                        20.299955
+                    ],
+                    [
+                        -103.191833,
+                        20.30044
+                    ],
+                    [
+                        -103.190628,
+                        20.299616
+                    ]
+                ]
+            ]
+        ]
+    }
+}

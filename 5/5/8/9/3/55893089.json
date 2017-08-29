@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55893089,
+    "properties": {
+        "woe_id": 55893089,
+        "place_id": "5lzA36icBJR7wyHmww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aviacion, Mexicali, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442665,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/55893089_20101215_3b3ed686b2.tar.gz"
+        },
+        "bbox": [
+            -115.44988250732,
+            32.656158447266,
+            -115.44457244873,
+            32.659114837646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.44458,
+                        32.658939
+                    ],
+                    [
+                        -115.444572,
+                        32.658928
+                    ],
+                    [
+                        -115.445007,
+                        32.656158
+                    ],
+                    [
+                        -115.449883,
+                        32.659115
+                    ],
+                    [
+                        -115.444702,
+                        32.658939
+                    ],
+                    [
+                        -115.44458,
+                        32.658939
+                    ]
+                ]
+            ]
+        ]
+    }
+}

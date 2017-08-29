@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861041,
+    "properties": {
+        "woe_id": 55861041,
+        "place_id": "izAJcKKcBJRasXs4yg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cottage District, Peoria, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292396645,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/55861041_20101215_8bfdb09739.tar.gz"
+        },
+        "bbox": [
+            -89.608222961426,
+            40.698055267334,
+            -89.603889465332,
+            40.698406219482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.604179,
+                        40.698231
+                    ],
+                    [
+                        -89.604065,
+                        40.698158
+                    ],
+                    [
+                        -89.603889,
+                        40.698055
+                    ],
+                    [
+                        -89.604126,
+                        40.698128
+                    ],
+                    [
+                        -89.608223,
+                        40.698406
+                    ],
+                    [
+                        -89.604179,
+                        40.698231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

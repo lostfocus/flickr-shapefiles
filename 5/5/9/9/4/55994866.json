@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55994866,
+    "properties": {
+        "woe_id": 55994866,
+        "place_id": "rTJ1KlKcBJUyo8MKKw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huntington Trails, Round Rock, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543458,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55994866_20101216_3850564cc5.tar.gz"
+        },
+        "bbox": [
+            -97.591163635254,
+            30.497665405273,
+            -97.58716583252,
+            30.507665634155
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.588837,
+                        30.497833
+                    ],
+                    [
+                        -97.588669,
+                        30.497999
+                    ],
+                    [
+                        -97.587997,
+                        30.502571
+                    ],
+                    [
+                        -97.591164,
+                        30.505167
+                    ],
+                    [
+                        -97.590096,
+                        30.506666
+                    ],
+                    [
+                        -97.587166,
+                        30.507666
+                    ],
+                    [
+                        -97.587997,
+                        30.502571
+                    ],
+                    [
+                        -97.5895,
+                        30.498333
+                    ],
+                    [
+                        -97.589165,
+                        30.497665
+                    ],
+                    [
+                        -97.588837,
+                        30.497833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

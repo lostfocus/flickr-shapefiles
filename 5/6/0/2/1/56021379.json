@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021379,
+    "properties": {
+        "woe_id": 56021379,
+        "place_id": "tLMxMnKcB5xlXf2GTQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pepperwood, Iowa City, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473623,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/56021379_20101216_27dba59724.tar.gz"
+        },
+        "bbox": [
+            -91.523872375488,
+            41.636295318604,
+            -91.519233703613,
+            41.641014099121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.519234,
+                        41.638611
+                    ],
+                    [
+                        -91.519409,
+                        41.638393
+                    ],
+                    [
+                        -91.520905,
+                        41.636295
+                    ],
+                    [
+                        -91.523872,
+                        41.639992
+                    ],
+                    [
+                        -91.520638,
+                        41.641014
+                    ],
+                    [
+                        -91.519234,
+                        41.638611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

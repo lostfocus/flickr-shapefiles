@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55996325,
+    "properties": {
+        "woe_id": 55996325,
+        "place_id": "hpGyWzScBJX8LJ6VAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Commons at Union Ridge, Ridgefield, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437983,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55996325_20101215_d188b815bf.tar.gz"
+        },
+        "bbox": [
+            -122.67308807373,
+            45.810787200928,
+            -122.67307281494,
+            45.810810089111
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.67308,
+                        45.810806
+                    ],
+                    [
+                        -122.673073,
+                        45.810799
+                    ],
+                    [
+                        -122.673073,
+                        45.810795
+                    ],
+                    [
+                        -122.673073,
+                        45.810787
+                    ],
+                    [
+                        -122.673088,
+                        45.81081
+                    ],
+                    [
+                        -122.67308,
+                        45.810806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

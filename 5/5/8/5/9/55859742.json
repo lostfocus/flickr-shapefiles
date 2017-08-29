@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859742,
+    "properties": {
+        "woe_id": 55859742,
+        "place_id": "a9Kob_qcBJRSEhwLqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Broadmoor Hills, Irving, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248039735,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3529\/shapefiles\/55859742_20090719_6426033f91.tar.gz"
+        },
+        "bbox": [
+            -97.017219543457,
+            32.874973297119,
+            -97.016860961914,
+            32.875831604004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.01722,
+                        32.875832
+                    ],
+                    [
+                        -97.016861,
+                        32.875801
+                    ],
+                    [
+                        -97.016861,
+                        32.875782
+                    ],
+                    [
+                        -97.016876,
+                        32.875702
+                    ],
+                    [
+                        -97.017212,
+                        32.874973
+                    ],
+                    [
+                        -97.01722,
+                        32.875832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

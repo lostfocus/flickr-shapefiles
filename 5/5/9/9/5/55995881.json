@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55995881,
+    "properties": {
+        "woe_id": 55995881,
+        "place_id": "hLWOJqycBJXKb399yw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Four-D Meadows, Battle Ground, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515326,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55995881_20101216_fe0bf9dcc9.tar.gz"
+        },
+        "bbox": [
+            -122.54216766357,
+            45.784332275391,
+            -122.54033660889,
+            45.788833618164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.542168,
+                        45.784332
+                    ],
+                    [
+                        -122.541664,
+                        45.785831
+                    ],
+                    [
+                        -122.540337,
+                        45.788834
+                    ],
+                    [
+                        -122.541496,
+                        45.7855
+                    ],
+                    [
+                        -122.541336,
+                        45.784664
+                    ],
+                    [
+                        -122.542168,
+                        45.784332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

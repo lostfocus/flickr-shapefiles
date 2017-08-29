@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55892790,
+    "properties": {
+        "woe_id": 55892790,
+        "place_id": "NXNP8aScBJR97eyaog",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rosendo G Castro, Ahome, SI, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503622,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55892790_20101216_c7196a9022.tar.gz"
+        },
+        "bbox": [
+            -108.96711730957,
+            25.761096954346,
+            -108.96678924561,
+            25.762001037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -108.967072,
+                        25.761097
+                    ],
+                    [
+                        -108.967117,
+                        25.761242
+                    ],
+                    [
+                        -108.967064,
+                        25.761494
+                    ],
+                    [
+                        -108.966911,
+                        25.762001
+                    ],
+                    [
+                        -108.966789,
+                        25.761206
+                    ],
+                    [
+                        -108.967072,
+                        25.761097
+                    ]
+                ]
+            ]
+        ]
+    }
+}

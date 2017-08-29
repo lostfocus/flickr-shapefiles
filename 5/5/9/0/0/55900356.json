@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55900356,
+    "properties": {
+        "woe_id": 55900356,
+        "place_id": "5mB9pb6cBJWOlrfl.A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fatima, Colima, CL, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482083,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55900356_20101216_031695f462.tar.gz"
+        },
+        "bbox": [
+            -103.72885131836,
+            19.243087768555,
+            -103.72624969482,
+            19.244844436646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.726883,
+                        19.244608
+                    ],
+                    [
+                        -103.72625,
+                        19.244844
+                    ],
+                    [
+                        -103.726341,
+                        19.244608
+                    ],
+                    [
+                        -103.728401,
+                        19.243088
+                    ],
+                    [
+                        -103.728851,
+                        19.244385
+                    ],
+                    [
+                        -103.726883,
+                        19.244608
+                    ]
+                ]
+            ]
+        ]
+    }
+}

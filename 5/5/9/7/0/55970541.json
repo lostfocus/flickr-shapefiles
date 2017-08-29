@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55970541,
+    "properties": {
+        "woe_id": 55970541,
+        "place_id": "LvPL6KucBJWAJAsEyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Neighborhood C, Rohnert Park, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482206,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55970541_20101216_5d71e82e94.tar.gz"
+        },
+        "bbox": [
+            -122.69436645508,
+            38.331691741943,
+            -122.68874359131,
+            38.335865020752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.688744,
+                        38.333538
+                    ],
+                    [
+                        -122.692009,
+                        38.331692
+                    ],
+                    [
+                        -122.693336,
+                        38.333
+                    ],
+                    [
+                        -122.694366,
+                        38.335865
+                    ],
+                    [
+                        -122.688744,
+                        38.333538
+                    ]
+                ]
+            ]
+        ]
+    }
+}

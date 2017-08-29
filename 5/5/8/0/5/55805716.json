@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55805716,
+    "properties": {
+        "woe_id": 55805716,
+        "place_id": "s.zUTTScBJSCD_c4Tw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sylvan Heights West, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518006,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/55805716_20101216_240e87edc0.tar.gz"
+        },
+        "bbox": [
+            -97.298164367676,
+            32.786666870117,
+            -97.296913146973,
+            32.787166595459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.297005,
+                        32.786873
+                    ],
+                    [
+                        -97.297333,
+                        32.786667
+                    ],
+                    [
+                        -97.298164,
+                        32.786999
+                    ],
+                    [
+                        -97.296997,
+                        32.787167
+                    ],
+                    [
+                        -97.296913,
+                        32.787056
+                    ],
+                    [
+                        -97.297005,
+                        32.786873
+                    ]
+                ]
+            ]
+        ]
+    }
+}

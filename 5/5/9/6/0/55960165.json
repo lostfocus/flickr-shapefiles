@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55960165,
+    "properties": {
+        "woe_id": 55960165,
+        "place_id": "m87AdIacBJWQ9BGnpw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bridgeport, Tiverton, RI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526729,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/55960165_20101216_60f0260ae3.tar.gz"
+        },
+        "bbox": [
+            -71.194664001465,
+            41.607097625732,
+            -71.193832397461,
+            41.611164093018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.194168,
+                        41.610664
+                    ],
+                    [
+                        -71.194496,
+                        41.607098
+                    ],
+                    [
+                        -71.194664,
+                        41.611164
+                    ],
+                    [
+                        -71.194,
+                        41.611164
+                    ],
+                    [
+                        -71.193832,
+                        41.611164
+                    ],
+                    [
+                        -71.194168,
+                        41.610664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971108,
+    "properties": {
+        "woe_id": 55971108,
+        "place_id": "O.QOAwmcBJUFwRAWLg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Deer Run #2, San Jose, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527885,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/55971108_20101216_089083fbcb.tar.gz"
+        },
+        "bbox": [
+            -121.82201385498,
+            37.264171600342,
+            -121.82057952881,
+            37.268405914307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.820786,
+                        37.264256
+                    ],
+                    [
+                        -121.822014,
+                        37.264904
+                    ],
+                    [
+                        -121.821831,
+                        37.268406
+                    ],
+                    [
+                        -121.821037,
+                        37.265121
+                    ],
+                    [
+                        -121.82058,
+                        37.264172
+                    ],
+                    [
+                        -121.820786,
+                        37.264256
+                    ]
+                ]
+            ]
+        ]
+    }
+}

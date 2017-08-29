@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55898927,
+    "properties": {
+        "woe_id": 55898927,
+        "place_id": "6N2zpC6cBJRVaGtKPQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miguel Hidalgo, Tlalpan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549325,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55898927_20101217_df935da378.tar.gz"
+        },
+        "bbox": [
+            -99.186546325684,
+            19.283630371094,
+            -99.182167053223,
+            19.288450241089
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.182167,
+                        19.284491
+                    ],
+                    [
+                        -99.182678,
+                        19.28363
+                    ],
+                    [
+                        -99.186546,
+                        19.2852
+                    ],
+                    [
+                        -99.184792,
+                        19.28845
+                    ],
+                    [
+                        -99.182915,
+                        19.28569
+                    ],
+                    [
+                        -99.182251,
+                        19.285057
+                    ],
+                    [
+                        -99.182167,
+                        19.284491
+                    ]
+                ]
+            ]
+        ]
+    }
+}

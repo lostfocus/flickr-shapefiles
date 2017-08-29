@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55995641,
+    "properties": {
+        "woe_id": 55995641,
+        "place_id": "CDv9OSWcBJUYBzHVFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ford's Colony, Williamsburg, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549994,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55995641_20101217_c638233c69.tar.gz"
+        },
+        "bbox": [
+            -76.785331726074,
+            37.301399230957,
+            -76.780342102051,
+            37.305416107178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.78244,
+                        37.305416
+                    ],
+                    [
+                        -76.780342,
+                        37.302628
+                    ],
+                    [
+                        -76.782669,
+                        37.303333
+                    ],
+                    [
+                        -76.785332,
+                        37.301399
+                    ],
+                    [
+                        -76.782997,
+                        37.303333
+                    ],
+                    [
+                        -76.78244,
+                        37.305416
+                    ]
+                ]
+            ]
+        ]
+    }
+}

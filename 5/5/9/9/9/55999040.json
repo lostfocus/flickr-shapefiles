@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999040,
+    "properties": {
+        "woe_id": 55999040,
+        "place_id": "rX37LWycBJUR1ZkJ8g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Omagh, Milton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520512,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55999040_20101216_e9153e50e2.tar.gz"
+        },
+        "bbox": [
+            -79.798614501953,
+            43.474082946777,
+            -79.797691345215,
+            43.474998474121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.797691,
+                        43.474998
+                    ],
+                    [
+                        -79.797752,
+                        43.474915
+                    ],
+                    [
+                        -79.798111,
+                        43.474445
+                    ],
+                    [
+                        -79.798615,
+                        43.474083
+                    ],
+                    [
+                        -79.798386,
+                        43.474277
+                    ],
+                    [
+                        -79.797752,
+                        43.474945
+                    ],
+                    [
+                        -79.797691,
+                        43.474998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

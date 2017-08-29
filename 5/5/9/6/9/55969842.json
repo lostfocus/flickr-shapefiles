@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55969842,
+    "properties": {
+        "woe_id": 55969842,
+        "place_id": "934AuGOcBJVVtcQOdA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Village Niguel Heights, Laguna Niguel, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482214,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55969842_20101216_5571f83672.tar.gz"
+        },
+        "bbox": [
+            -117.70833587646,
+            33.555465698242,
+            -117.70532989502,
+            33.557998657227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.708183,
+                        33.555466
+                    ],
+                    [
+                        -117.708336,
+                        33.5555
+                    ],
+                    [
+                        -117.706497,
+                        33.557835
+                    ],
+                    [
+                        -117.70533,
+                        33.557999
+                    ],
+                    [
+                        -117.70771,
+                        33.555473
+                    ],
+                    [
+                        -117.708183,
+                        33.555466
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55977025,
+    "properties": {
+        "woe_id": 55977025,
+        "place_id": "5GzPxH2cBJWxayKmvA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parker Lakes, Fort Myers, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292437562,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/55977025_20101215_9565325cf3.tar.gz"
+        },
+        "bbox": [
+            -81.905723571777,
+            26.523632049561,
+            -81.90552520752,
+            26.523714065552
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.905609,
+                        26.523708
+                    ],
+                    [
+                        -81.905525,
+                        26.523701
+                    ],
+                    [
+                        -81.905525,
+                        26.523661
+                    ],
+                    [
+                        -81.90554,
+                        26.523632
+                    ],
+                    [
+                        -81.905724,
+                        26.523714
+                    ],
+                    [
+                        -81.905609,
+                        26.523708
+                    ]
+                ]
+            ]
+        ]
+    }
+}

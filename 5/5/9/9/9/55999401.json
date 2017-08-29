@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999401,
+    "properties": {
+        "woe_id": 55999401,
+        "place_id": "FuGh5MCcBJW7BLR_Lg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillside, Scarborough, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548854,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55999401_20101217_0fed347049.tar.gz"
+        },
+        "bbox": [
+            -79.199432373047,
+            43.845516204834,
+            -79.194786071777,
+            43.849494934082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.197304,
+                        43.84734
+                    ],
+                    [
+                        -79.198166,
+                        43.8475
+                    ],
+                    [
+                        -79.199432,
+                        43.849438
+                    ],
+                    [
+                        -79.199219,
+                        43.849495
+                    ],
+                    [
+                        -79.197174,
+                        43.848255
+                    ],
+                    [
+                        -79.194786,
+                        43.845516
+                    ],
+                    [
+                        -79.197304,
+                        43.84734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

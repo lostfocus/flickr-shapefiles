@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55974591,
+    "properties": {
+        "woe_id": 55974591,
+        "place_id": "TfHJ9hqcBJUFLINHaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Englebrecht, Strasburg, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450022,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/55974591_20101215_dbc7ba9661.tar.gz"
+        },
+        "bbox": [
+            -104.32707214355,
+            39.74488067627,
+            -104.32668304443,
+            39.744945526123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.327072,
+                        39.744881
+                    ],
+                    [
+                        -104.327026,
+                        39.744911
+                    ],
+                    [
+                        -104.326904,
+                        39.74493
+                    ],
+                    [
+                        -104.326683,
+                        39.744946
+                    ],
+                    [
+                        -104.326729,
+                        39.744896
+                    ],
+                    [
+                        -104.327072,
+                        39.744881
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55858182,
+    "properties": {
+        "woe_id": 55858182,
+        "place_id": "tz.SaKacBJSb5BbGWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northeast, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527864,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55858182_20101216_8324b2e7aa.tar.gz"
+        },
+        "bbox": [
+            -111.02890777588,
+            45.685066223145,
+            -111.02508544922,
+            45.688598632812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.026573,
+                        45.688599
+                    ],
+                    [
+                        -111.025085,
+                        45.687084
+                    ],
+                    [
+                        -111.027168,
+                        45.685066
+                    ],
+                    [
+                        -111.028908,
+                        45.688465
+                    ],
+                    [
+                        -111.026573,
+                        45.688599
+                    ]
+                ]
+            ]
+        ]
+    }
+}

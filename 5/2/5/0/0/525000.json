@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 525000,
+    "properties": {
+        "woe_id": 525000,
+        "place_id": ".RGD1ZKcA5mWzjs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winiary, Opat\u00f3wek, Greater Poland, PL, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247880968,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3460\/shapefiles\/525000_20090718_0ea59a159a.tar.gz"
+        },
+        "bbox": [
+            18.089504241943,
+            51.759384155273,
+            18.096199035645,
+            51.76252746582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.093323,
+                        51.759384
+                    ],
+                    [
+                        18.089504,
+                        51.762035
+                    ],
+                    [
+                        18.090126,
+                        51.762314
+                    ],
+                    [
+                        18.096199,
+                        51.762527
+                    ],
+                    [
+                        18.093367,
+                        51.759415
+                    ],
+                    [
+                        18.093323,
+                        51.759384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

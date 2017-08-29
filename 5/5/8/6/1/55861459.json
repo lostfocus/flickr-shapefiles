@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55861459,
+    "properties": {
+        "woe_id": 55861459,
+        "place_id": "kxQ07iOcBJTiSU9GBQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hilltop Bayview, San Pablo, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239354493,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3386\/shapefiles\/55861459_20090410_8b739035da.tar.gz"
+        },
+        "bbox": [
+            -122.30999755859,
+            38.007068634033,
+            -122.30816650391,
+            38.008834838867
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.309669,
+                        38.008835
+                    ],
+                    [
+                        -122.308167,
+                        38.007668
+                    ],
+                    [
+                        -122.308334,
+                        38.007069
+                    ],
+                    [
+                        -122.309998,
+                        38.008835
+                    ],
+                    [
+                        -122.309669,
+                        38.008835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

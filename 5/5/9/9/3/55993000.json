@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993000,
+    "properties": {
+        "woe_id": 55993000,
+        "place_id": "49RSi_ucBJWC.j1O8g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hadley - Washington, Nashville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522757,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55993000_20101216_e996b4a632.tar.gz"
+        },
+        "bbox": [
+            -86.822372436523,
+            36.1549949646,
+            -86.817481994629,
+            36.16259765625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.822372,
+                        36.158878
+                    ],
+                    [
+                        -86.820457,
+                        36.16217
+                    ],
+                    [
+                        -86.820251,
+                        36.162598
+                    ],
+                    [
+                        -86.820274,
+                        36.159721
+                    ],
+                    [
+                        -86.817482,
+                        36.154995
+                    ],
+                    [
+                        -86.822372,
+                        36.158878
+                    ]
+                ]
+            ]
+        ]
+    }
+}

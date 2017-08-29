@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55858329,
+    "properties": {
+        "woe_id": 55858329,
+        "place_id": "4dxxtA2cBJTvPkatlw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park Plaza Midway, Broomfield, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449894,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55858329_20101215_6d50df9ee1.tar.gz"
+        },
+        "bbox": [
+            -105.09537506104,
+            39.922374725342,
+            -105.09006500244,
+            39.923698425293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.091003,
+                        39.923698
+                    ],
+                    [
+                        -105.090065,
+                        39.922375
+                    ],
+                    [
+                        -105.090286,
+                        39.922543
+                    ],
+                    [
+                        -105.091591,
+                        39.923199
+                    ],
+                    [
+                        -105.095375,
+                        39.922771
+                    ],
+                    [
+                        -105.092072,
+                        39.923466
+                    ],
+                    [
+                        -105.091003,
+                        39.923698
+                    ]
+                ]
+            ]
+        ]
+    }
+}

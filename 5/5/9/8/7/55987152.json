@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55987152,
+    "properties": {
+        "woe_id": 55987152,
+        "place_id": "BcGefNScBJVlHHJ2.w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Walden Woods, Ann Arbor, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526264,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/55987152_20101216_c4d4cb2fca.tar.gz"
+        },
+        "bbox": [
+            -83.716621398926,
+            42.2448387146,
+            -83.708221435547,
+            42.248832702637
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.710564,
+                        42.245277
+                    ],
+                    [
+                        -83.711761,
+                        42.244839
+                    ],
+                    [
+                        -83.716621,
+                        42.246967
+                    ],
+                    [
+                        -83.711494,
+                        42.248726
+                    ],
+                    [
+                        -83.710167,
+                        42.248833
+                    ],
+                    [
+                        -83.708221,
+                        42.24659
+                    ],
+                    [
+                        -83.710564,
+                        42.245277
+                    ]
+                ]
+            ]
+        ]
+    }
+}

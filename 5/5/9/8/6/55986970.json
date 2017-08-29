@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986970,
+    "properties": {
+        "woe_id": 55986970,
+        "place_id": "40T_rwucBJWt4io7bg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saugus Center, Saugus, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520781,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/55986970_20101216_67fb73c057.tar.gz"
+        },
+        "bbox": [
+            -71.009696960449,
+            42.465320587158,
+            -71.008415222168,
+            42.469074249268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.008926,
+                        42.469074
+                    ],
+                    [
+                        -71.008415,
+                        42.468803
+                    ],
+                    [
+                        -71.009697,
+                        42.465321
+                    ],
+                    [
+                        -71.009193,
+                        42.468258
+                    ],
+                    [
+                        -71.008995,
+                        42.469055
+                    ],
+                    [
+                        -71.008926,
+                        42.469074
+                    ]
+                ]
+            ]
+        ]
+    }
+}

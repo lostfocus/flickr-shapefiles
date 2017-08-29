@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56021787,
+    "properties": {
+        "woe_id": 56021787,
+        "place_id": "PI2SRqKcB5wpyGnBBQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Central Birmingham, Birmingham, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465103,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/56021787_20101216_94f314fb10.tar.gz"
+        },
+        "bbox": [
+            -83.219337463379,
+            42.540660858154,
+            -83.212585449219,
+            42.542045593262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.212585,
+                        42.541744
+                    ],
+                    [
+                        -83.212868,
+                        42.541164
+                    ],
+                    [
+                        -83.212967,
+                        42.540981
+                    ],
+                    [
+                        -83.2174,
+                        42.540661
+                    ],
+                    [
+                        -83.219337,
+                        42.540833
+                    ],
+                    [
+                        -83.215858,
+                        42.542046
+                    ],
+                    [
+                        -83.212585,
+                        42.541744
+                    ]
+                ]
+            ]
+        ]
+    }
+}

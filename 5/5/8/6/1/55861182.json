@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55861182,
+    "properties": {
+        "woe_id": 55861182,
+        "place_id": "6.qADoWcBJR1Nq1lcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parker Road Estates West 3-W, Plano, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526011,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/55861182_20101216_5be3cc4180.tar.gz"
+        },
+        "bbox": [
+            -96.75,
+            33.049999237061,
+            -96.744903564453,
+            33.052951812744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.744904,
+                        33.0508
+                    ],
+                    [
+                        -96.744904,
+                        33.050701
+                    ],
+                    [
+                        -96.745934,
+                        33.050373
+                    ],
+                    [
+                        -96.75,
+                        33.049999
+                    ],
+                    [
+                        -96.746338,
+                        33.052952
+                    ],
+                    [
+                        -96.744904,
+                        33.0508
+                    ]
+                ]
+            ]
+        ]
+    }
+}

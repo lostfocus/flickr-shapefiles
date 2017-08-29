@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56068190,
+    "properties": {
+        "woe_id": 56068190,
+        "place_id": "FhBCqzCcB5wkrvhy1w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Veraneio, Campo Grande, MS, BR, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528764,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/56068190_20101216_732748a145.tar.gz"
+        },
+        "bbox": [
+            -54.553642272949,
+            -20.441026687622,
+            -54.545616149902,
+            -20.435356140137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -54.553642,
+                        -20.441027
+                    ],
+                    [
+                        -54.553257,
+                        -20.440845
+                    ],
+                    [
+                        -54.551796,
+                        -20.438995
+                    ],
+                    [
+                        -54.549824,
+                        -20.435356
+                    ],
+                    [
+                        -54.545616,
+                        -20.437931
+                    ],
+                    [
+                        -54.551796,
+                        -20.438995
+                    ],
+                    [
+                        -54.553642,
+                        -20.441027
+                    ]
+                ]
+            ]
+        ]
+    }
+}

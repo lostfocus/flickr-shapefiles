@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55982564,
+    "properties": {
+        "woe_id": 55982564,
+        "place_id": "9b7OumicBJU_d.BBdQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillsborough Galleria, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519327,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/55982564_20101216_4619c70a82.tar.gz"
+        },
+        "bbox": [
+            -82.514991760254,
+            27.983543395996,
+            -82.513160705566,
+            27.985761642456
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.5149,
+                        27.983543
+                    ],
+                    [
+                        -82.514915,
+                        27.983549
+                    ],
+                    [
+                        -82.514992,
+                        27.983585
+                    ],
+                    [
+                        -82.513161,
+                        27.985762
+                    ],
+                    [
+                        -82.514824,
+                        27.983564
+                    ],
+                    [
+                        -82.5149,
+                        27.983543
+                    ]
+                ]
+            ]
+        ]
+    }
+}

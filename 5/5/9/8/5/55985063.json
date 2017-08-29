@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985063,
+    "properties": {
+        "woe_id": 55985063,
+        "place_id": "Z8P_vWycBJVl_3K2dA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park Lake, Winter Haven, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526928,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55985063_20101216_84daa61367.tar.gz"
+        },
+        "bbox": [
+            -81.729957580566,
+            28.00005531311,
+            -81.726089477539,
+            28.002586364746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.726433,
+                        28.002586
+                    ],
+                    [
+                        -81.726089,
+                        28.00251
+                    ],
+                    [
+                        -81.726265,
+                        28.002434
+                    ],
+                    [
+                        -81.728355,
+                        28.000055
+                    ],
+                    [
+                        -81.729958,
+                        28.002092
+                    ],
+                    [
+                        -81.726433,
+                        28.002586
+                    ]
+                ]
+            ]
+        ]
+    }
+}

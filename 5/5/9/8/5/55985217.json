@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55985217,
+    "properties": {
+        "woe_id": 55985217,
+        "place_id": "SvTdRmKcBJUDhwAIlA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burdette Ridge, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515449,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55985217_20101216_31b5a85509.tar.gz"
+        },
+        "bbox": [
+            -84.482727050781,
+            33.595542907715,
+            -84.482162475586,
+            33.596187591553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.482521,
+                        33.595848
+                    ],
+                    [
+                        -84.482246,
+                        33.596188
+                    ],
+                    [
+                        -84.482162,
+                        33.595585
+                    ],
+                    [
+                        -84.482315,
+                        33.595543
+                    ],
+                    [
+                        -84.482727,
+                        33.595619
+                    ],
+                    [
+                        -84.482521,
+                        33.595848
+                    ]
+                ]
+            ]
+        ]
+    }
+}

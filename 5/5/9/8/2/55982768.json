@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55982768,
+    "properties": {
+        "woe_id": 55982768,
+        "place_id": "k5fvfyScBJWgDmfvOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maryland Avenue, Tampa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548128,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55982768_20101217_5f1d067f4f.tar.gz"
+        },
+        "bbox": [
+            -82.449989318848,
+            27.955894470215,
+            -82.445655822754,
+            27.959064483643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.447525,
+                        27.957127
+                    ],
+                    [
+                        -82.449989,
+                        27.955894
+                    ],
+                    [
+                        -82.447655,
+                        27.957134
+                    ],
+                    [
+                        -82.446548,
+                        27.958628
+                    ],
+                    [
+                        -82.446152,
+                        27.959064
+                    ],
+                    [
+                        -82.445656,
+                        27.95669
+                    ],
+                    [
+                        -82.447525,
+                        27.957127
+                    ]
+                ]
+            ]
+        ]
+    }
+}

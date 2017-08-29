@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55909486,
+    "properties": {
+        "woe_id": 55909486,
+        "place_id": "MlkIfBycBJUKPbWWZA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Loma Bonita, Zapopan, JA, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473328,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/55909486_20101216_37a2d59dae.tar.gz"
+        },
+        "bbox": [
+            -103.41153717041,
+            20.638025283813,
+            -103.40940093994,
+            20.641056060791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.409401,
+                        20.640287
+                    ],
+                    [
+                        -103.409973,
+                        20.639029
+                    ],
+                    [
+                        -103.411537,
+                        20.638025
+                    ],
+                    [
+                        -103.410744,
+                        20.639109
+                    ],
+                    [
+                        -103.410423,
+                        20.641056
+                    ],
+                    [
+                        -103.409401,
+                        20.640287
+                    ]
+                ]
+            ]
+        ]
+    }
+}

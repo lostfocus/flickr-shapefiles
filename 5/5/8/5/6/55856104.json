@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856104,
+    "properties": {
+        "woe_id": 55856104,
+        "place_id": "TlJeuWmcBJRCTsclNA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alpine Place, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503744,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55856104_20101216_4e4eb1abe8.tar.gz"
+        },
+        "bbox": [
+            -97.097770690918,
+            49.854164123535,
+            -97.096168518066,
+            49.858238220215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.096169,
+                        49.854668
+                    ],
+                    [
+                        -97.096832,
+                        49.854164
+                    ],
+                    [
+                        -97.097771,
+                        49.856052
+                    ],
+                    [
+                        -97.096268,
+                        49.858238
+                    ],
+                    [
+                        -97.096268,
+                        49.854931
+                    ],
+                    [
+                        -97.096169,
+                        49.854668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

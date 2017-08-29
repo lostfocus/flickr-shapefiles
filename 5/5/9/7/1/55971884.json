@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971884,
+    "properties": {
+        "woe_id": 55971884,
+        "place_id": "Sxmri6KcBJU1pbV.tw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meadow Creek, Walnut Creek, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541364,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55971884_20101216_ce89866928.tar.gz"
+        },
+        "bbox": [
+            -122.05455780029,
+            37.895889282227,
+            -122.05209350586,
+            37.900310516357
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.052094,
+                        37.895889
+                    ],
+                    [
+                        -122.052307,
+                        37.896221
+                    ],
+                    [
+                        -122.054558,
+                        37.89756
+                    ],
+                    [
+                        -122.053764,
+                        37.900311
+                    ],
+                    [
+                        -122.052132,
+                        37.896385
+                    ],
+                    [
+                        -122.052094,
+                        37.895889
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980245,
+    "properties": {
+        "woe_id": 55980245,
+        "place_id": "o_oMaI2cBJVM1FVxwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "High Point of Orlando, Orlando, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510133,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55980245_20101216_0a66c8b3bb.tar.gz"
+        },
+        "bbox": [
+            -81.227241516113,
+            28.558055877686,
+            -81.225555419922,
+            28.56134223938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.227158,
+                        28.561342
+                    ],
+                    [
+                        -81.225868,
+                        28.560947
+                    ],
+                    [
+                        -81.225555,
+                        28.558056
+                    ],
+                    [
+                        -81.227242,
+                        28.559637
+                    ],
+                    [
+                        -81.22715,
+                        28.561195
+                    ],
+                    [
+                        -81.227158,
+                        28.561342
+                    ]
+                ]
+            ]
+        ]
+    }
+}

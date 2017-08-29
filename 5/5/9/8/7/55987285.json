@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987285,
+    "properties": {
+        "woe_id": 55987285,
+        "place_id": ".KOOWC6cBJUlOf.I.g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Creekwood, Bozeman, MT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535665,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/55987285_20101216_5c663792d8.tar.gz"
+        },
+        "bbox": [
+            -110.98139190674,
+            45.708114624023,
+            -110.97731781006,
+            45.711048126221
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.977753,
+                        45.709774
+                    ],
+                    [
+                        -110.977341,
+                        45.711048
+                    ],
+                    [
+                        -110.977318,
+                        45.709969
+                    ],
+                    [
+                        -110.977501,
+                        45.709312
+                    ],
+                    [
+                        -110.981392,
+                        45.708115
+                    ],
+                    [
+                        -110.977753,
+                        45.709774
+                    ]
+                ]
+            ]
+        ]
+    }
+}

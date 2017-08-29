@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859863,
+    "properties": {
+        "woe_id": 55859863,
+        "place_id": "TF2EIbGcBJTEqfoPQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Muncie Stony Point, Kansas City, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540693,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/55859863_20101216_5a04f2d210.tar.gz"
+        },
+        "bbox": [
+            -94.747337341309,
+            39.080223083496,
+            -94.741546630859,
+            39.085868835449
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.745232,
+                        39.082172
+                    ],
+                    [
+                        -94.747337,
+                        39.080223
+                    ],
+                    [
+                        -94.747208,
+                        39.080708
+                    ],
+                    [
+                        -94.745361,
+                        39.083942
+                    ],
+                    [
+                        -94.741547,
+                        39.085869
+                    ],
+                    [
+                        -94.745232,
+                        39.082172
+                    ]
+                ]
+            ]
+        ]
+    }
+}

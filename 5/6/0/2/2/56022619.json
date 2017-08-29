@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022619,
+    "properties": {
+        "woe_id": 56022619,
+        "place_id": "e51WphmcB5y98TTkuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northwood Hills, Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524983,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/56022619_20101216_645cb65267.tar.gz"
+        },
+        "bbox": [
+            -81.040649414062,
+            34.056957244873,
+            -81.040374755859,
+            34.057308197021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.040604,
+                        34.05727
+                    ],
+                    [
+                        -81.040375,
+                        34.056957
+                    ],
+                    [
+                        -81.040611,
+                        34.057053
+                    ],
+                    [
+                        -81.040649,
+                        34.057308
+                    ],
+                    [
+                        -81.040604,
+                        34.05727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56018743,
+    "properties": {
+        "woe_id": 56018743,
+        "place_id": "GQpw1AOcB5xAX18txw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakhurst, Rogers, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518088,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/56018743_20101216_8715d6e48b.tar.gz"
+        },
+        "bbox": [
+            -94.117469787598,
+            36.330856323242,
+            -94.11498260498,
+            36.333225250244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.115868,
+                        36.331059
+                    ],
+                    [
+                        -94.11747,
+                        36.330856
+                    ],
+                    [
+                        -94.116669,
+                        36.333225
+                    ],
+                    [
+                        -94.116013,
+                        36.33263
+                    ],
+                    [
+                        -94.114983,
+                        36.330994
+                    ],
+                    [
+                        -94.115868,
+                        36.331059
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993861,
+    "properties": {
+        "woe_id": 55993861,
+        "place_id": "0yEB.uOcBJVL3.9E3A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wichita Chase, Flower Mound, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442898,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55993861_20101215_1561e3f8c7.tar.gz"
+        },
+        "bbox": [
+            -97.103775024414,
+            33.022087097168,
+            -97.10343170166,
+            33.02269744873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.103775,
+                        33.022194
+                    ],
+                    [
+                        -97.103691,
+                        33.022697
+                    ],
+                    [
+                        -97.103607,
+                        33.022697
+                    ],
+                    [
+                        -97.103432,
+                        33.022697
+                    ],
+                    [
+                        -97.103516,
+                        33.022087
+                    ],
+                    [
+                        -97.103775,
+                        33.022194
+                    ]
+                ]
+            ]
+        ]
+    }
+}

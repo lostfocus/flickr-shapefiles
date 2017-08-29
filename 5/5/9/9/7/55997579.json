@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997579,
+    "properties": {
+        "woe_id": 55997579,
+        "place_id": "rSbwLYKcBJUfORCzWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sarah's Place, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442967,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/55997579_20101215_421d328582.tar.gz"
+        },
+        "bbox": [
+            -122.53309631348,
+            45.641334533691,
+            -122.53067016602,
+            45.643032073975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.531166,
+                        45.643002
+                    ],
+                    [
+                        -122.53067,
+                        45.641834
+                    ],
+                    [
+                        -122.53067,
+                        45.641335
+                    ],
+                    [
+                        -122.533096,
+                        45.643032
+                    ],
+                    [
+                        -122.531998,
+                        45.643002
+                    ],
+                    [
+                        -122.531166,
+                        45.643002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

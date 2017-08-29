@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55971793,
+    "properties": {
+        "woe_id": 55971793,
+        "place_id": "UKOqVC2cBJWjdoUO1A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Francisco Terrace, South San Francisco, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542929,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/55971793_20101216_37dd5671e7.tar.gz"
+        },
+        "bbox": [
+            -122.42821502686,
+            37.641109466553,
+            -122.42353057861,
+            37.646110534668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.425331,
+                        37.641167
+                    ],
+                    [
+                        -122.425835,
+                        37.641666
+                    ],
+                    [
+                        -122.42617,
+                        37.641998
+                    ],
+                    [
+                        -122.427727,
+                        37.645374
+                    ],
+                    [
+                        -122.428215,
+                        37.646111
+                    ],
+                    [
+                        -122.427818,
+                        37.646095
+                    ],
+                    [
+                        -122.426331,
+                        37.645832
+                    ],
+                    [
+                        -122.423531,
+                        37.645245
+                    ],
+                    [
+                        -122.425003,
+                        37.641109
+                    ],
+                    [
+                        -122.425331,
+                        37.641167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

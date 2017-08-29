@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022211,
+    "properties": {
+        "woe_id": 56022211,
+        "place_id": "zRdwFvucB5wyL5T6ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Avondale, Ashtabula, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450124,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/56022211_20101215_52e8587528.tar.gz"
+        },
+        "bbox": [
+            -80.793754577637,
+            41.87544631958,
+            -80.792198181152,
+            41.875984191895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.792198,
+                        41.875793
+                    ],
+                    [
+                        -80.792671,
+                        41.875496
+                    ],
+                    [
+                        -80.793755,
+                        41.875446
+                    ],
+                    [
+                        -80.79348,
+                        41.875641
+                    ],
+                    [
+                        -80.79261,
+                        41.875984
+                    ],
+                    [
+                        -80.792198,
+                        41.875793
+                    ]
+                ]
+            ]
+        ]
+    }
+}

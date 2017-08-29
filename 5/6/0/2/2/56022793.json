@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56022793,
+    "properties": {
+        "woe_id": 56022793,
+        "place_id": "dNUa.8ucB5zgfqBFZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riel, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546977,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/56022793_20101217_ceb6be08d4.tar.gz"
+        },
+        "bbox": [
+            -97.085678100586,
+            49.805675506592,
+            -97.085548400879,
+            49.805835723877
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.085548,
+                        49.805836
+                    ],
+                    [
+                        -97.085579,
+                        49.805794
+                    ],
+                    [
+                        -97.085678,
+                        49.805676
+                    ],
+                    [
+                        -97.085648,
+                        49.805714
+                    ],
+                    [
+                        -97.085548,
+                        49.805836
+                    ]
+                ]
+            ]
+        ]
+    }
+}

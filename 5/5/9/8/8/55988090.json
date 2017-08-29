@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55988090,
+    "properties": {
+        "woe_id": 55988090,
+        "place_id": "87Uo5rucBJVmClDE4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Greens, Cary, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503867,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/55988090_20101216_ca96d0a701.tar.gz"
+        },
+        "bbox": [
+            -78.850723266602,
+            35.768463134766,
+            -78.847686767578,
+            35.772998809814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.850723,
+                        35.768749
+                    ],
+                    [
+                        -78.850594,
+                        35.768822
+                    ],
+                    [
+                        -78.848984,
+                        35.770142
+                    ],
+                    [
+                        -78.848663,
+                        35.772999
+                    ],
+                    [
+                        -78.847687,
+                        35.769798
+                    ],
+                    [
+                        -78.850433,
+                        35.768463
+                    ],
+                    [
+                        -78.850723,
+                        35.768749
+                    ]
+                ]
+            ]
+        ]
+    }
+}

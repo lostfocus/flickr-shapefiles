@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55859002,
+    "properties": {
+        "woe_id": 55859002,
+        "place_id": "5zxJtkacBJT7EO7PVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Capitol Hill, Fort Collins, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550315,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55859002_20101217_b94679079d.tar.gz"
+        },
+        "bbox": [
+            -105.09292602539,
+            40.591606140137,
+            -105.08515930176,
+            40.598598480225
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.092926,
+                        40.591606
+                    ],
+                    [
+                        -105.092331,
+                        40.594501
+                    ],
+                    [
+                        -105.089615,
+                        40.59449
+                    ],
+                    [
+                        -105.085159,
+                        40.598366
+                    ],
+                    [
+                        -105.085388,
+                        40.598598
+                    ],
+                    [
+                        -105.089615,
+                        40.59449
+                    ],
+                    [
+                        -105.092926,
+                        40.591606
+                    ]
+                ]
+            ]
+        ]
+    }
+}

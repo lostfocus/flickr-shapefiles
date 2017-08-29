@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55806250,
+    "properties": {
+        "woe_id": 55806250,
+        "place_id": "RHqN0gOcBJScW0zPVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Las Palmas, Oakland, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519225,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/55806250_20101216_26804e9510.tar.gz"
+        },
+        "bbox": [
+            -122.15966033936,
+            37.743297576904,
+            -122.15493011475,
+            37.74666595459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.157501,
+                        37.746666
+                    ],
+                    [
+                        -122.155899,
+                        37.745758
+                    ],
+                    [
+                        -122.15493,
+                        37.745312
+                    ],
+                    [
+                        -122.157768,
+                        37.743298
+                    ],
+                    [
+                        -122.15966,
+                        37.744385
+                    ],
+                    [
+                        -122.15966,
+                        37.745674
+                    ],
+                    [
+                        -122.157501,
+                        37.746666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898029,
+    "properties": {
+        "woe_id": 55898029,
+        "place_id": "StNDswycBJRpG7IJGA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Girasoles, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452966,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55898029_20101215_21b65b39ac.tar.gz"
+        },
+        "bbox": [
+            -99.128051757812,
+            19.306499481201,
+            -99.122940063477,
+            19.309999465942
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.123886,
+                        19.309999
+                    ],
+                    [
+                        -99.12294,
+                        19.309168
+                    ],
+                    [
+                        -99.124496,
+                        19.306499
+                    ],
+                    [
+                        -99.128052,
+                        19.306719
+                    ],
+                    [
+                        -99.126808,
+                        19.308146
+                    ],
+                    [
+                        -99.123886,
+                        19.309999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

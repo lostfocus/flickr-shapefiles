@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55858472,
+    "properties": {
+        "woe_id": 55858472,
+        "place_id": "du3BIBOcBJQTvEFFLA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hill City, Chattanooga, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529569,
+        "alpha": 1.953125e-5,
+        "points": 15,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55858472_20101216_eaa38a0355.tar.gz"
+        },
+        "bbox": [
+            -85.322166442871,
+            35.067081451416,
+            -85.310035705566,
+            35.07833480835
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.322166,
+                        35.075333
+                    ],
+                    [
+                        -85.320335,
+                        35.078335
+                    ],
+                    [
+                        -85.318886,
+                        35.073322
+                    ],
+                    [
+                        -85.316727,
+                        35.070309
+                    ],
+                    [
+                        -85.315254,
+                        35.068783
+                    ],
+                    [
+                        -85.310036,
+                        35.067097
+                    ],
+                    [
+                        -85.31501,
+                        35.067234
+                    ],
+                    [
+                        -85.320435,
+                        35.067081
+                    ],
+                    [
+                        -85.320663,
+                        35.07476
+                    ],
+                    [
+                        -85.322166,
+                        35.075333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

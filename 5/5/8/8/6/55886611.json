@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55886611,
+    "properties": {
+        "woe_id": 55886611,
+        "place_id": "KUE9xuecBJR0G5CK_g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Res Pemex, Ciudad Madero, TM, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452969,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/55886611_20101215_485ca41e4f.tar.gz"
+        },
+        "bbox": [
+            -97.80517578125,
+            22.287343978882,
+            -97.801826477051,
+            22.289497375488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.802612,
+                        22.289497
+                    ],
+                    [
+                        -97.802452,
+                        22.289246
+                    ],
+                    [
+                        -97.801826,
+                        22.287344
+                    ],
+                    [
+                        -97.804672,
+                        22.288422
+                    ],
+                    [
+                        -97.805176,
+                        22.288921
+                    ],
+                    [
+                        -97.802612,
+                        22.289497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

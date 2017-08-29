@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860921,
+    "properties": {
+        "woe_id": 55860921,
+        "place_id": "I3HwNh.cBJR1iNKkjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tierra Vista, Oxnard, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515028,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/55860921_20101216_b04a263bc1.tar.gz"
+        },
+        "bbox": [
+            -119.15866088867,
+            34.157878875732,
+            -119.15650939941,
+            34.160095214844
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.156509,
+                        34.158894
+                    ],
+                    [
+                        -119.157158,
+                        34.157879
+                    ],
+                    [
+                        -119.158661,
+                        34.159458
+                    ],
+                    [
+                        -119.157768,
+                        34.160095
+                    ],
+                    [
+                        -119.157257,
+                        34.160049
+                    ],
+                    [
+                        -119.156509,
+                        34.158894
+                    ]
+                ]
+            ]
+        ]
+    }
+}

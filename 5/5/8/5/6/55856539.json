@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55856539,
+    "properties": {
+        "woe_id": 55856539,
+        "place_id": "ukmV9NOcBJRN6VnLBg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greenwood, Moncton, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545203,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55856539_20101217_be32e345ea.tar.gz"
+        },
+        "bbox": [
+            -64.785713195801,
+            46.10778427124,
+            -64.783325195312,
+            46.10892868042
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.785431,
+                        46.107784
+                    ],
+                    [
+                        -64.785713,
+                        46.108929
+                    ],
+                    [
+                        -64.783997,
+                        46.108765
+                    ],
+                    [
+                        -64.783325,
+                        46.108559
+                    ],
+                    [
+                        -64.785164,
+                        46.107918
+                    ],
+                    [
+                        -64.785431,
+                        46.107784
+                    ]
+                ]
+            ]
+        ]
+    }
+}

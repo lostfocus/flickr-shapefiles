@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55997589,
+    "properties": {
+        "woe_id": 55997589,
+        "place_id": "PQdRUGCcBJX3xZzS_A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shadow Wood, Vancouver, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497326,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55997589_20101216_4c724538f0.tar.gz"
+        },
+        "bbox": [
+            -122.67430877686,
+            45.716831207275,
+            -122.67233276367,
+            45.720153808594
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.672836,
+                        45.716999
+                    ],
+                    [
+                        -122.672836,
+                        45.717167
+                    ],
+                    [
+                        -122.674309,
+                        45.720154
+                    ],
+                    [
+                        -122.672333,
+                        45.717167
+                    ],
+                    [
+                        -122.672668,
+                        45.716831
+                    ],
+                    [
+                        -122.672836,
+                        45.716999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

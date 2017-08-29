@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55998650,
+    "properties": {
+        "woe_id": 55998650,
+        "place_id": "GKYvznmcBJW0ZO1PWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Big Springs, Airdrie, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546366,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/55998650_20101217_5952bd16e7.tar.gz"
+        },
+        "bbox": [
+            -113.99933624268,
+            51.273475646973,
+            -113.99594116211,
+            51.278011322021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.99852,
+                        51.273476
+                    ],
+                    [
+                        -113.999336,
+                        51.274666
+                    ],
+                    [
+                        -113.998688,
+                        51.277756
+                    ],
+                    [
+                        -113.995941,
+                        51.278011
+                    ],
+                    [
+                        -113.997658,
+                        51.275661
+                    ],
+                    [
+                        -113.99852,
+                        51.273476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

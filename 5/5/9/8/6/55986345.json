@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55986345,
+    "properties": {
+        "woe_id": 55986345,
+        "place_id": "WM3kC2ecBJVgOwtlAQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodland Heights, Streamwood, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479443,
+        "alpha": 1.0e-5,
+        "points": 31,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/55986345_20101216_9c86e8e559.tar.gz"
+        },
+        "bbox": [
+            -88.154624938965,
+            42.020946502686,
+            -88.150939941406,
+            42.026908874512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.154251,
+                        42.023186
+                    ],
+                    [
+                        -88.15094,
+                        42.026909
+                    ],
+                    [
+                        -88.153839,
+                        42.023006
+                    ],
+                    [
+                        -88.153931,
+                        42.022499
+                    ],
+                    [
+                        -88.154625,
+                        42.020947
+                    ],
+                    [
+                        -88.154251,
+                        42.023186
+                    ]
+                ]
+            ]
+        ]
+    }
+}

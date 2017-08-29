@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022074,
+    "properties": {
+        "woe_id": 56022074,
+        "place_id": ".GSoULKcB5y7oQs4Og",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stanford, Rochester, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530423,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/56022074_20101216_c428a2ce1f.tar.gz"
+        },
+        "bbox": [
+            -83.183670043945,
+            42.670318603516,
+            -83.181564331055,
+            42.672863006592
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.181892,
+                        42.672703
+                    ],
+                    [
+                        -83.18367,
+                        42.670319
+                    ],
+                    [
+                        -83.182137,
+                        42.67268
+                    ],
+                    [
+                        -83.181931,
+                        42.672779
+                    ],
+                    [
+                        -83.181564,
+                        42.672863
+                    ],
+                    [
+                        -83.181892,
+                        42.672703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

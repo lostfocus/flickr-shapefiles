@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56020453,
+    "properties": {
+        "woe_id": 56020453,
+        "place_id": "vlSkN4GcB5xx.ADZtw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bentley Hills, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490363,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/56020453_20101216_73d3360110.tar.gz"
+        },
+        "bbox": [
+            -84.586235046387,
+            34.125038146973,
+            -84.583419799805,
+            34.130508422852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.58342,
+                        34.130295
+                    ],
+                    [
+                        -84.58342,
+                        34.1301
+                    ],
+                    [
+                        -84.583847,
+                        34.12994
+                    ],
+                    [
+                        -84.586235,
+                        34.125038
+                    ],
+                    [
+                        -84.584358,
+                        34.130474
+                    ],
+                    [
+                        -84.583443,
+                        34.130508
+                    ],
+                    [
+                        -84.58342,
+                        34.130295
+                    ]
+                ]
+            ]
+        ]
+    }
+}

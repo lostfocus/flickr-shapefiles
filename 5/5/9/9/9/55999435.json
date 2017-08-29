@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55999435,
+    "properties": {
+        "woe_id": 55999435,
+        "place_id": "lZnaRbScBJWIeC.7GQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Etobicoke, Etobicoke, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540163,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/55999435_20101216_a140f1cd3f.tar.gz"
+        },
+        "bbox": [
+            -79.582366943359,
+            43.727809906006,
+            -79.5791015625,
+            43.730617523193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.579277,
+                        43.72781
+                    ],
+                    [
+                        -79.580856,
+                        43.728069
+                    ],
+                    [
+                        -79.582367,
+                        43.728519
+                    ],
+                    [
+                        -79.582146,
+                        43.72863
+                    ],
+                    [
+                        -79.579727,
+                        43.730618
+                    ],
+                    [
+                        -79.579102,
+                        43.729523
+                    ],
+                    [
+                        -79.579277,
+                        43.72781
+                    ]
+                ]
+            ]
+        ]
+    }
+}

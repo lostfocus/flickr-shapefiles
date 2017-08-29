@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991581,
+    "properties": {
+        "woe_id": 55991581,
+        "place_id": "PjV8kvKcBJUVLFfM2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westside, Asbury Park, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452999,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55991581_20101215_1307861efc.tar.gz"
+        },
+        "bbox": [
+            -74.023132324219,
+            40.22017288208,
+            -74.014595031738,
+            40.223514556885
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.018539,
+                        40.222557
+                    ],
+                    [
+                        -74.014595,
+                        40.22073
+                    ],
+                    [
+                        -74.015747,
+                        40.220173
+                    ],
+                    [
+                        -74.019333,
+                        40.222
+                    ],
+                    [
+                        -74.023132,
+                        40.223515
+                    ],
+                    [
+                        -74.018539,
+                        40.222557
+                    ]
+                ]
+            ]
+        ]
+    }
+}

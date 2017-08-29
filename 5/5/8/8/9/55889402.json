@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55889402,
+    "properties": {
+        "woe_id": 55889402,
+        "place_id": "fgolr4ycBJQn3sThJQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cultural, Toluca de Lerdo, ME, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442680,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/55889402_20101215_238640299a.tar.gz"
+        },
+        "bbox": [
+            -99.704528808594,
+            19.267761230469,
+            -99.70246887207,
+            19.273868560791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.704529,
+                        19.272156
+                    ],
+                    [
+                        -99.703995,
+                        19.273869
+                    ],
+                    [
+                        -99.704185,
+                        19.272703
+                    ],
+                    [
+                        -99.704315,
+                        19.272421
+                    ],
+                    [
+                        -99.702469,
+                        19.267761
+                    ],
+                    [
+                        -99.704529,
+                        19.272156
+                    ]
+                ]
+            ]
+        ]
+    }
+}

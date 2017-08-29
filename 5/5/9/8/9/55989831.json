@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55989831,
+    "properties": {
+        "woe_id": 55989831,
+        "place_id": "lTpItmKcBJU3Xg2tnw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Briarwood North, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446646,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/55989831_20101215_4dfa60857d.tar.gz"
+        },
+        "bbox": [
+            -78.662155151367,
+            35.856094360352,
+            -78.661018371582,
+            35.856986999512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.662048,
+                        35.856709
+                    ],
+                    [
+                        -78.662155,
+                        35.856842
+                    ],
+                    [
+                        -78.662025,
+                        35.856987
+                    ],
+                    [
+                        -78.661018,
+                        35.856094
+                    ],
+                    [
+                        -78.661865,
+                        35.856613
+                    ],
+                    [
+                        -78.662048,
+                        35.856709
+                    ]
+                ]
+            ]
+        ]
+    }
+}

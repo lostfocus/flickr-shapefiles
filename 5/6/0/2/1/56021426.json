@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56021426,
+    "properties": {
+        "woe_id": 56021426,
+        "place_id": "EF.qkdGcB5xfY4dxbQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Walnut Ridge, Iowa City, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510044,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/56021426_20101216_26abdcceda.tar.gz"
+        },
+        "bbox": [
+            -91.585037231445,
+            41.661018371582,
+            -91.582656860352,
+            41.667331695557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.582657,
+                        41.661633
+                    ],
+                    [
+                        -91.583374,
+                        41.661018
+                    ],
+                    [
+                        -91.58316,
+                        41.661465
+                    ],
+                    [
+                        -91.585037,
+                        41.667332
+                    ],
+                    [
+                        -91.582657,
+                        41.661633
+                    ]
+                ]
+            ]
+        ]
+    }
+}

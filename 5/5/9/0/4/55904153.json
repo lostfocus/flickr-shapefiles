@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55904153,
+    "properties": {
+        "woe_id": 55904153,
+        "place_id": "5_wByKqcBJUFYn82Eg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Centro Este, Hidalgo del Parral, CH, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490548,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/55904153_20101216_272938d87e.tar.gz"
+        },
+        "bbox": [
+            -105.66478729248,
+            26.932180404663,
+            -105.6614151001,
+            26.934427261353
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.664268,
+                        26.932478
+                    ],
+                    [
+                        -105.664787,
+                        26.934237
+                    ],
+                    [
+                        -105.663673,
+                        26.934427
+                    ],
+                    [
+                        -105.661415,
+                        26.933979
+                    ],
+                    [
+                        -105.662994,
+                        26.93218
+                    ],
+                    [
+                        -105.664268,
+                        26.932478
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993101,
+    "properties": {
+        "woe_id": 55993101,
+        "place_id": "17ZCJKycBJXWFGdjng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Post Oak Terrace, Bellaire, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548148,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55993101_20101217_07842669c9.tar.gz"
+        },
+        "bbox": [
+            -95.456909179688,
+            29.696634292603,
+            -95.455825805664,
+            29.697820663452
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.456429,
+                        29.696634
+                    ],
+                    [
+                        -95.456711,
+                        29.696686
+                    ],
+                    [
+                        -95.456909,
+                        29.697136
+                    ],
+                    [
+                        -95.456619,
+                        29.697821
+                    ],
+                    [
+                        -95.455826,
+                        29.697763
+                    ],
+                    [
+                        -95.456429,
+                        29.696634
+                    ]
+                ]
+            ]
+        ]
+    }
+}

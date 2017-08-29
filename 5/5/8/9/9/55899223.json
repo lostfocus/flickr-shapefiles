@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55899223,
+    "properties": {
+        "woe_id": 55899223,
+        "place_id": "JFYbKeGcBJTIl1cC6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Olimpica, Coyoacan, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522621,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55899223_20101216_144cf405b4.tar.gz"
+        },
+        "bbox": [
+            -99.172691345215,
+            19.303842544556,
+            -99.167999267578,
+            19.306970596313
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.170021,
+                        19.303843
+                    ],
+                    [
+                        -99.170578,
+                        19.304379
+                    ],
+                    [
+                        -99.172691,
+                        19.305012
+                    ],
+                    [
+                        -99.170067,
+                        19.306971
+                    ],
+                    [
+                        -99.169128,
+                        19.304897
+                    ],
+                    [
+                        -99.167999,
+                        19.304167
+                    ],
+                    [
+                        -99.169144,
+                        19.304138
+                    ],
+                    [
+                        -99.170021,
+                        19.303843
+                    ]
+                ]
+            ]
+        ]
+    }
+}

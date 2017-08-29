@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55860504,
+    "properties": {
+        "woe_id": 55860504,
+        "place_id": "IqpNxhScBJRSWqX2UA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coles Forest, Newport News, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442601,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55860504_20101215_a6918be556.tar.gz"
+        },
+        "bbox": [
+            -76.566337585449,
+            37.140075683594,
+            -76.563575744629,
+            37.141498565674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.566284,
+                        37.140076
+                    ],
+                    [
+                        -76.566338,
+                        37.140091
+                    ],
+                    [
+                        -76.566277,
+                        37.140205
+                    ],
+                    [
+                        -76.564003,
+                        37.141499
+                    ],
+                    [
+                        -76.563576,
+                        37.141281
+                    ],
+                    [
+                        -76.566284,
+                        37.140076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

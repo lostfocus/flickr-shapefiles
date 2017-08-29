@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55864608,
+    "properties": {
+        "woe_id": 55864608,
+        "place_id": "IC5nYU6cBJTRW3WG1g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northeast Baltimore, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248183005,
+        "alpha": 1.0e-5,
+        "points": 33,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3467\/shapefiles\/55864608_20090721_bda6d2374a.tar.gz"
+        },
+        "bbox": [
+            -76.585395812988,
+            39.312656402588,
+            -76.577224731445,
+            39.314479827881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.582191,
+                        39.312729
+                    ],
+                    [
+                        -76.585396,
+                        39.31448
+                    ],
+                    [
+                        -76.582253,
+                        39.314404
+                    ],
+                    [
+                        -76.579056,
+                        39.313335
+                    ],
+                    [
+                        -76.577225,
+                        39.312656
+                    ],
+                    [
+                        -76.580017,
+                        39.31321
+                    ],
+                    [
+                        -76.582191,
+                        39.312729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

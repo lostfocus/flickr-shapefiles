@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898809,
+    "properties": {
+        "woe_id": 55898809,
+        "place_id": "bXukb9ScBJTg9IDJUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Anahuac, Mexico City, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540090,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/55898809_20101216_8fa3d170cc.tar.gz"
+        },
+        "bbox": [
+            -99.182899475098,
+            19.442571640015,
+            -99.173408508301,
+            19.447370529175
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.179268,
+                        19.443022
+                    ],
+                    [
+                        -99.182899,
+                        19.447371
+                    ],
+                    [
+                        -99.177231,
+                        19.445671
+                    ],
+                    [
+                        -99.173409,
+                        19.446299
+                    ],
+                    [
+                        -99.17765,
+                        19.442572
+                    ],
+                    [
+                        -99.179268,
+                        19.443022
+                    ]
+                ]
+            ]
+        ]
+    }
+}

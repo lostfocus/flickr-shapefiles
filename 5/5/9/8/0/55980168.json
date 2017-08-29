@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55980168,
+    "properties": {
+        "woe_id": 55980168,
+        "place_id": "33eekYqcBJWx7JVrDw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Apopka Vineland Road Townhouses, Orlando, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530476,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/55980168_20101216_e999910ab9.tar.gz"
+        },
+        "bbox": [
+            -81.513000488281,
+            28.429788589478,
+            -81.510398864746,
+            28.434774398804
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.513,
+                        28.4345
+                    ],
+                    [
+                        -81.511818,
+                        28.434732
+                    ],
+                    [
+                        -81.511261,
+                        28.434774
+                    ],
+                    [
+                        -81.510399,
+                        28.429789
+                    ],
+                    [
+                        -81.512115,
+                        28.432129
+                    ],
+                    [
+                        -81.513,
+                        28.4345
+                    ]
+                ]
+            ]
+        ]
+    }
+}

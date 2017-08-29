@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858601,
+    "properties": {
+        "woe_id": 55858601,
+        "place_id": "p.f4wYScBJRIZ2r1PQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sycamore Creek, Corona, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234663925,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3442\/shapefiles\/55858601_20090215_7d7e1c1694.tar.gz"
+        },
+        "bbox": [
+            -117.45964813232,
+            33.749992370605,
+            -117.45409393311,
+            33.756225585938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.45636,
+                        33.752895
+                    ],
+                    [
+                        -117.459648,
+                        33.756226
+                    ],
+                    [
+                        -117.455971,
+                        33.753036
+                    ],
+                    [
+                        -117.454094,
+                        33.749992
+                    ],
+                    [
+                        -117.456024,
+                        33.752415
+                    ],
+                    [
+                        -117.45636,
+                        33.752895
+                    ]
+                ]
+            ]
+        ]
+    }
+}

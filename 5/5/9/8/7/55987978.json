@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55987978,
+    "properties": {
+        "woe_id": 55987978,
+        "place_id": "CAMACGacBJW_x3gIhQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hanover Place, Cary, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458073,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/55987978_20101216_5cdde3382f.tar.gz"
+        },
+        "bbox": [
+            -78.782005310059,
+            35.758586883545,
+            -78.781608581543,
+            35.75984954834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.782005,
+                        35.759033
+                    ],
+                    [
+                        -78.781937,
+                        35.75985
+                    ],
+                    [
+                        -78.78167,
+                        35.759048
+                    ],
+                    [
+                        -78.781609,
+                        35.758587
+                    ],
+                    [
+                        -78.781929,
+                        35.758793
+                    ],
+                    [
+                        -78.782005,
+                        35.759033
+                    ]
+                ]
+            ]
+        ]
+    }
+}

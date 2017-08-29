@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999340,
+    "properties": {
+        "woe_id": 55999340,
+        "place_id": "ufuk5U6cBJVGNfjh9g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dynes, Burlington, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545588,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55999340_20101217_719f94138d.tar.gz"
+        },
+        "bbox": [
+            -79.795600891113,
+            43.344890594482,
+            -79.791793823242,
+            43.349586486816
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.793808,
+                        43.34623
+                    ],
+                    [
+                        -79.795601,
+                        43.348217
+                    ],
+                    [
+                        -79.793381,
+                        43.349586
+                    ],
+                    [
+                        -79.791794,
+                        43.347782
+                    ],
+                    [
+                        -79.792023,
+                        43.344891
+                    ],
+                    [
+                        -79.793808,
+                        43.34623
+                    ]
+                ]
+            ]
+        ]
+    }
+}

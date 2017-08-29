@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55810034,
+    "properties": {
+        "woe_id": 55810034,
+        "place_id": "dFWimgecBJQz5Z003g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kodo 2 Chome, Niigata-shi, Niigata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518013,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55810034_20101216_cfd81b2799.tar.gz"
+        },
+        "bbox": [
+            139.09820556641,
+            37.934143066406,
+            139.10023498535,
+            37.936771392822
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.098206,
+                        37.936607
+                    ],
+                    [
+                        139.098221,
+                        37.936771
+                    ],
+                    [
+                        139.098679,
+                        37.936344
+                    ],
+                    [
+                        139.100235,
+                        37.934143
+                    ],
+                    [
+                        139.098724,
+                        37.936005
+                    ],
+                    [
+                        139.098206,
+                        37.936607
+                    ]
+                ]
+            ]
+        ]
+    }
+}

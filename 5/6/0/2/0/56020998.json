@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020998,
+    "properties": {
+        "woe_id": 56020998,
+        "place_id": "AV5_WdecB5xrHQtGLA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cass Brentwood, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524956,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/56020998_20101216_e35c6906cb.tar.gz"
+        },
+        "bbox": [
+            -93.66438293457,
+            41.565746307373,
+            -93.66316986084,
+            41.569362640381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.664223,
+                        41.566376
+                    ],
+                    [
+                        -93.664383,
+                        41.567516
+                    ],
+                    [
+                        -93.663368,
+                        41.569363
+                    ],
+                    [
+                        -93.66317,
+                        41.566109
+                    ],
+                    [
+                        -93.664047,
+                        41.565746
+                    ],
+                    [
+                        -93.664223,
+                        41.566376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

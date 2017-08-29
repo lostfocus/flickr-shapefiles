@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55979805,
+    "properties": {
+        "woe_id": 55979805,
+        "place_id": "ywmTTlScBJWJa2uhVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Botanical Place, Naples, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482263,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/55979805_20101216_ba00e39c9b.tar.gz"
+        },
+        "bbox": [
+            -81.77205657959,
+            26.108335494995,
+            -81.764984130859,
+            26.114694595337
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.770302,
+                        26.108335
+                    ],
+                    [
+                        -81.772057,
+                        26.111477
+                    ],
+                    [
+                        -81.768494,
+                        26.111053
+                    ],
+                    [
+                        -81.765594,
+                        26.114695
+                    ],
+                    [
+                        -81.764984,
+                        26.110929
+                    ],
+                    [
+                        -81.766777,
+                        26.109974
+                    ],
+                    [
+                        -81.770302,
+                        26.108335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

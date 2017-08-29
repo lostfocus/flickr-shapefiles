@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55981906,
+    "properties": {
+        "woe_id": 55981906,
+        "place_id": "phlL5KScBJUAj3Wz2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Magnolia Trace, Tallahassee, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452998,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/55981906_20101215_74e8a8c0fd.tar.gz"
+        },
+        "bbox": [
+            -84.364669799805,
+            30.452499389648,
+            -84.356575012207,
+            30.460123062134
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.362167,
+                        30.457542
+                    ],
+                    [
+                        -84.362457,
+                        30.459536
+                    ],
+                    [
+                        -84.356575,
+                        30.460123
+                    ],
+                    [
+                        -84.361549,
+                        30.45739
+                    ],
+                    [
+                        -84.36467,
+                        30.452499
+                    ],
+                    [
+                        -84.362167,
+                        30.457542
+                    ]
+                ]
+            ]
+        ]
+    }
+}

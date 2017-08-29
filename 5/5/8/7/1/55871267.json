@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55871267,
+    "properties": {
+        "woe_id": 55871267,
+        "place_id": "8_SeiI6cBJQHKWtFBw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Karapinar, Kestel, Bursa, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544962,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/55871267_20101217_6b95cb2095.tar.gz"
+        },
+        "bbox": [
+            29.171747207642,
+            40.174331665039,
+            29.176082611084,
+            40.177890777588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.172285,
+                        40.174973
+                    ],
+                    [
+                        29.172232,
+                        40.174332
+                    ],
+                    [
+                        29.171747,
+                        40.175808
+                    ],
+                    [
+                        29.171791,
+                        40.176773
+                    ],
+                    [
+                        29.176083,
+                        40.177891
+                    ],
+                    [
+                        29.172285,
+                        40.174973
+                    ]
+                ]
+            ]
+        ]
+    }
+}

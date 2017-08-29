@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55968647,
+    "properties": {
+        "woe_id": 55968647,
+        "place_id": "8vPnTSecBJXkFpfgCA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley View, Fayetteville, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539124,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55968647_20101216_37cd298e8c.tar.gz"
+        },
+        "bbox": [
+            -94.157402038574,
+            36.062599182129,
+            -94.154670715332,
+            36.066204071045
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.155113,
+                        36.065632
+                    ],
+                    [
+                        -94.157402,
+                        36.062599
+                    ],
+                    [
+                        -94.155548,
+                        36.065693
+                    ],
+                    [
+                        -94.155342,
+                        36.066105
+                    ],
+                    [
+                        -94.154671,
+                        36.066204
+                    ],
+                    [
+                        -94.155113,
+                        36.065632
+                    ]
+                ]
+            ]
+        ]
+    }
+}

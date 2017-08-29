@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993014,
+    "properties": {
+        "woe_id": 55993014,
+        "place_id": "r47x3Q2cBJWAtr2fvg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Nashville, Nashville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535067,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55993014_20101216_463d71b101.tar.gz"
+        },
+        "bbox": [
+            -86.72972869873,
+            36.119304656982,
+            -86.727432250977,
+            36.125553131104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.729576,
+                        36.122562
+                    ],
+                    [
+                        -86.727432,
+                        36.119305
+                    ],
+                    [
+                        -86.729607,
+                        36.122562
+                    ],
+                    [
+                        -86.729729,
+                        36.122658
+                    ],
+                    [
+                        -86.728058,
+                        36.125553
+                    ],
+                    [
+                        -86.729576,
+                        36.122562
+                    ]
+                ]
+            ]
+        ]
+    }
+}

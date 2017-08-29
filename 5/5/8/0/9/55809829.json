@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55809829,
+    "properties": {
+        "woe_id": 55809829,
+        "place_id": "ZPsABZWcBJSsNEyJgg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hinode 5 Chome, Urayasu-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446428,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/55809829_20101215_2ae9bd8293.tar.gz"
+        },
+        "bbox": [
+            139.92906188965,
+            35.639167785645,
+            139.93016052246,
+            35.641334533691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.929092,
+                        35.639183
+                    ],
+                    [
+                        139.929062,
+                        35.641167
+                    ],
+                    [
+                        139.930161,
+                        35.641335
+                    ],
+                    [
+                        139.929993,
+                        35.639915
+                    ],
+                    [
+                        139.929169,
+                        35.639168
+                    ],
+                    [
+                        139.929092,
+                        35.639183
+                    ]
+                ]
+            ]
+        ]
+    }
+}

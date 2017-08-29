@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858409,
+    "properties": {
+        "woe_id": 55858409,
+        "place_id": "bHPElvacBJRMIJH0qg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Knoll East, Chandler, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514841,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/55858409_20101216_bf461d0ec8.tar.gz"
+        },
+        "bbox": [
+            -111.87000274658,
+            33.347831726074,
+            -111.86783599854,
+            33.35033416748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.868164,
+                        33.349667
+                    ],
+                    [
+                        -111.867836,
+                        33.349667
+                    ],
+                    [
+                        -111.868835,
+                        33.348499
+                    ],
+                    [
+                        -111.869331,
+                        33.347832
+                    ],
+                    [
+                        -111.870003,
+                        33.350334
+                    ],
+                    [
+                        -111.868164,
+                        33.349667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

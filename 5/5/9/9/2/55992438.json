@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55992438,
+    "properties": {
+        "woe_id": 55992438,
+        "place_id": "UNiAlLicBJV5z4RdXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley View, Ambler, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532967,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/55992438_20101216_c607b76893.tar.gz"
+        },
+        "bbox": [
+            -75.164909362793,
+            40.224433898926,
+            -75.162353515625,
+            40.225963592529
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.16481,
+                        40.224632
+                    ],
+                    [
+                        -75.164726,
+                        40.224701
+                    ],
+                    [
+                        -75.162354,
+                        40.225964
+                    ],
+                    [
+                        -75.164391,
+                        40.224628
+                    ],
+                    [
+                        -75.164909,
+                        40.224434
+                    ],
+                    [
+                        -75.16481,
+                        40.224632
+                    ]
+                ]
+            ]
+        ]
+    }
+}

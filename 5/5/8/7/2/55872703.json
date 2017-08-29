@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55872703,
+    "properties": {
+        "woe_id": 55872703,
+        "place_id": "Jf.NKGacBJSvK4bYDg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "University City, Sharjah, Sharjah, AE, United Arab Emirates"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518177,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/55872703_20101216_e934d0ef29.tar.gz"
+        },
+        "bbox": [
+            55.487201690674,
+            25.30740737915,
+            55.492862701416,
+            25.310743331909
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        55.492863,
+                        25.310331
+                    ],
+                    [
+                        55.490612,
+                        25.309275
+                    ],
+                    [
+                        55.489281,
+                        25.307407
+                    ],
+                    [
+                        55.487202,
+                        25.307959
+                    ],
+                    [
+                        55.490612,
+                        25.309275
+                    ],
+                    [
+                        55.491341,
+                        25.310743
+                    ],
+                    [
+                        55.492863,
+                        25.310331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

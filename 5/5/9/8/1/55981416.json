@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55981416,
+    "properties": {
+        "woe_id": 55981416,
+        "place_id": "OGtDwICcBJUhCY_SgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clearvista, St. Petersburg, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497261,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/55981416_20101216_6503c24599.tar.gz"
+        },
+        "bbox": [
+            -82.667503356934,
+            27.806833267212,
+            -82.667335510254,
+            27.807332992554
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.667503,
+                        27.806999
+                    ],
+                    [
+                        -82.667503,
+                        27.807165
+                    ],
+                    [
+                        -82.667503,
+                        27.807333
+                    ],
+                    [
+                        -82.667336,
+                        27.807165
+                    ],
+                    [
+                        -82.667503,
+                        27.806833
+                    ],
+                    [
+                        -82.667503,
+                        27.806999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

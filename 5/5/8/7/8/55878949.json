@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55878949,
+    "properties": {
+        "woe_id": 55878949,
+        "place_id": "_3WQzXicBJRZ2Xa1lg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monument, Johannesburg, Gauteng, ZA, South Africa"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528477,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55878949_20101216_f9524577bb.tar.gz"
+        },
+        "bbox": [
+            27.784980773926,
+            -26.102668762207,
+            27.789487838745,
+            -26.095859527588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.785786,
+                        -26.102669
+                    ],
+                    [
+                        27.784981,
+                        -26.102486
+                    ],
+                    [
+                        27.788786,
+                        -26.098679
+                    ],
+                    [
+                        27.78941,
+                        -26.09586
+                    ],
+                    [
+                        27.789488,
+                        -26.096254
+                    ],
+                    [
+                        27.788786,
+                        -26.098679
+                    ],
+                    [
+                        27.785786,
+                        -26.102669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

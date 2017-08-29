@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56019410,
+    "properties": {
+        "woe_id": 56019410,
+        "place_id": "QGdxbbOcB5wsP9RvUw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stonewood, Stockton, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532075,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/56019410_20101216_b697519a97.tar.gz"
+        },
+        "bbox": [
+            -121.34001159668,
+            38.028926849365,
+            -121.33660125732,
+            38.033832550049
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.338333,
+                        38.033833
+                    ],
+                    [
+                        -121.338165,
+                        38.033833
+                    ],
+                    [
+                        -121.336601,
+                        38.032902
+                    ],
+                    [
+                        -121.340012,
+                        38.028927
+                    ],
+                    [
+                        -121.338501,
+                        38.033833
+                    ],
+                    [
+                        -121.338333,
+                        38.033833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

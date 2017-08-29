@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 55989998,
+    "properties": {
+        "woe_id": 55989998,
+        "place_id": "I.SWVWScBJVzjguXtg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Deerfield Square, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452999,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/55989998_20101215_8800072c62.tar.gz"
+        },
+        "bbox": [
+            -78.623832702637,
+            35.874897003174,
+            -78.623001098633,
+            35.87850189209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.623764,
+                        35.874897
+                    ],
+                    [
+                        -78.623718,
+                        35.874966
+                    ],
+                    [
+                        -78.62368,
+                        35.875126
+                    ],
+                    [
+                        -78.623833,
+                        35.878502
+                    ],
+                    [
+                        -78.623001,
+                        35.876999
+                    ],
+                    [
+                        -78.62368,
+                        35.875126
+                    ],
+                    [
+                        -78.623718,
+                        35.874966
+                    ],
+                    [
+                        -78.623764,
+                        35.874897
+                    ]
+                ]
+            ]
+        ]
+    }
+}

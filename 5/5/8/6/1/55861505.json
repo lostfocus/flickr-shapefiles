@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55861505,
+    "properties": {
+        "woe_id": 55861505,
+        "place_id": "aYKgWFGcBJQviF92uA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Seventh Street District, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248161055,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2568\/shapefiles\/55861505_20090721_ac55f28cd6.tar.gz"
+        },
+        "bbox": [
+            -89.087615966797,
+            42.263534545898,
+            -89.080772399902,
+            42.267910003662
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.087212,
+                        42.265972
+                    ],
+                    [
+                        -89.087616,
+                        42.265453
+                    ],
+                    [
+                        -89.08667,
+                        42.265972
+                    ],
+                    [
+                        -89.083611,
+                        42.266666
+                    ],
+                    [
+                        -89.080925,
+                        42.26791
+                    ],
+                    [
+                        -89.080841,
+                        42.264923
+                    ],
+                    [
+                        -89.080772,
+                        42.263535
+                    ],
+                    [
+                        -89.083611,
+                        42.266666
+                    ],
+                    [
+                        -89.085457,
+                        42.266983
+                    ],
+                    [
+                        -89.087212,
+                        42.265972
+                    ]
+                ]
+            ]
+        ]
+    }
+}

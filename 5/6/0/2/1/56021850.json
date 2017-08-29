@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56021850,
+    "properties": {
+        "woe_id": 56021850,
+        "place_id": "wcAXlqKcB5w4nHvZAQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Churchill, Farmington, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482507,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/56021850_20101216_221928a1c9.tar.gz"
+        },
+        "bbox": [
+            -83.321006774902,
+            42.481086730957,
+            -83.316192626953,
+            42.484199523926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.316452,
+                        42.481499
+                    ],
+                    [
+                        -83.316879,
+                        42.481087
+                    ],
+                    [
+                        -83.317047,
+                        42.48156
+                    ],
+                    [
+                        -83.321007,
+                        42.4842
+                    ],
+                    [
+                        -83.316666,
+                        42.482841
+                    ],
+                    [
+                        -83.316193,
+                        42.481972
+                    ],
+                    [
+                        -83.316452,
+                        42.481499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

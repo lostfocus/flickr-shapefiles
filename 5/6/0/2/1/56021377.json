@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021377,
+    "properties": {
+        "woe_id": 56021377,
+        "place_id": "R0.gVQ6cB5xv0rQ2OQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park West, Iowa City, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453051,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/56021377_20101215_5f9540d26a.tar.gz"
+        },
+        "bbox": [
+            -91.56640625,
+            41.637866973877,
+            -91.563232421875,
+            41.643165588379
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.566223,
+                        41.637867
+                    ],
+                    [
+                        -91.566406,
+                        41.638119
+                    ],
+                    [
+                        -91.565834,
+                        41.643166
+                    ],
+                    [
+                        -91.563232,
+                        41.641617
+                    ],
+                    [
+                        -91.566093,
+                        41.63792
+                    ],
+                    [
+                        -91.566223,
+                        41.637867
+                    ]
+                ]
+            ]
+        ]
+    }
+}

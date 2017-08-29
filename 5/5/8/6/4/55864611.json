@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55864611,
+    "properties": {
+        "woe_id": 55864611,
+        "place_id": "St8xvFmcBJTraSpbkw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southwest Baltimore, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523554,
+        "alpha": 1.0e-5,
+        "points": 31,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/55864611_20101216_1c3ba4fbf3.tar.gz"
+        },
+        "bbox": [
+            -76.721755981445,
+            39.282909393311,
+            -76.715690612793,
+            39.288940429688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.721756,
+                        39.288643
+                    ],
+                    [
+                        -76.719574,
+                        39.28894
+                    ],
+                    [
+                        -76.715691,
+                        39.286621
+                    ],
+                    [
+                        -76.718262,
+                        39.282909
+                    ],
+                    [
+                        -76.719635,
+                        39.288414
+                    ],
+                    [
+                        -76.721756,
+                        39.288643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

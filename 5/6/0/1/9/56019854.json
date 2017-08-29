@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56019854,
+    "properties": {
+        "woe_id": 56019854,
+        "place_id": "PzA.LCKcB5ymQtfoUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cocoa Village, Cocoa, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531208,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/56019854_20101216_8bbd5dc9e2.tar.gz"
+        },
+        "bbox": [
+            -80.726135253906,
+            28.351314544678,
+            -80.725112915039,
+            28.352979660034
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.725136,
+                        28.352007
+                    ],
+                    [
+                        -80.725113,
+                        28.351665
+                    ],
+                    [
+                        -80.725113,
+                        28.351601
+                    ],
+                    [
+                        -80.726135,
+                        28.351315
+                    ],
+                    [
+                        -80.725266,
+                        28.35298
+                    ],
+                    [
+                        -80.725136,
+                        28.35211
+                    ],
+                    [
+                        -80.725136,
+                        28.352007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

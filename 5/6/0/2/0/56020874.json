@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56020874,
+    "properties": {
+        "woe_id": 56020874,
+        "place_id": "yNpXWpKcB5wLHCv_Eg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huntington Ridge, Clive, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546607,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/56020874_20101217_81dbfd6cbc.tar.gz"
+        },
+        "bbox": [
+            -93.797882080078,
+            41.600444793701,
+            -93.794425964355,
+            41.601398468018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.794792,
+                        41.600857
+                    ],
+                    [
+                        -93.794426,
+                        41.600506
+                    ],
+                    [
+                        -93.795143,
+                        41.600517
+                    ],
+                    [
+                        -93.796997,
+                        41.600445
+                    ],
+                    [
+                        -93.797882,
+                        41.601398
+                    ],
+                    [
+                        -93.794792,
+                        41.600857
+                    ]
+                ]
+            ]
+        ]
+    }
+}

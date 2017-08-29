@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55882125,
+    "properties": {
+        "woe_id": 55882125,
+        "place_id": "_6Mvc6ucBJQcf71mpA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Insurgentes Este, Mexicali, BC, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518042,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1393\/shapefiles\/55882125_20101216_a593a2e387.tar.gz"
+        },
+        "bbox": [
+            -115.44744873047,
+            32.632434844971,
+            -115.44317626953,
+            32.638149261475
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.443176,
+                        32.632572
+                    ],
+                    [
+                        -115.443733,
+                        32.632435
+                    ],
+                    [
+                        -115.445244,
+                        32.633503
+                    ],
+                    [
+                        -115.447449,
+                        32.634548
+                    ],
+                    [
+                        -115.444611,
+                        32.638149
+                    ],
+                    [
+                        -115.444077,
+                        32.633629
+                    ],
+                    [
+                        -115.443176,
+                        32.632572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55968723,
+    "properties": {
+        "woe_id": 55968723,
+        "place_id": "ACLbCrScBJWVTAKNCQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eastwood Heights, Prairie Grove, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539757,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55968723_20101216_0b186310aa.tar.gz"
+        },
+        "bbox": [
+            -94.306381225586,
+            35.98344039917,
+            -94.302780151367,
+            35.986461639404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.305611,
+                        35.984013
+                    ],
+                    [
+                        -94.305779,
+                        35.984325
+                    ],
+                    [
+                        -94.306381,
+                        35.986427
+                    ],
+                    [
+                        -94.30278,
+                        35.986462
+                    ],
+                    [
+                        -94.303955,
+                        35.983841
+                    ],
+                    [
+                        -94.305008,
+                        35.98344
+                    ],
+                    [
+                        -94.305611,
+                        35.984013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

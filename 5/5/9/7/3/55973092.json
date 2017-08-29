@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55973092,
+    "properties": {
+        "woe_id": 55973092,
+        "place_id": "xt45bfCcBJVOiyYwUg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shadowridge, Denver, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452986,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55973092_20101215_5a40838852.tar.gz"
+        },
+        "bbox": [
+            -104.94067382812,
+            39.943550109863,
+            -104.93650054932,
+            39.944667816162
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.937668,
+                        39.944332
+                    ],
+                    [
+                        -104.936501,
+                        39.944668
+                    ],
+                    [
+                        -104.938507,
+                        39.94355
+                    ],
+                    [
+                        -104.940674,
+                        39.94429
+                    ],
+                    [
+                        -104.939087,
+                        39.944359
+                    ],
+                    [
+                        -104.937668,
+                        39.944332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

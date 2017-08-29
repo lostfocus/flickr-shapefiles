@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55898373,
+    "properties": {
+        "woe_id": 55898373,
+        "place_id": "GM1LRqacBJQ7oYZ3ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "El Prado, Ixtapalapa, DF, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526009,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/55898373_20101216_a7a428183e.tar.gz"
+        },
+        "bbox": [
+            -99.139831542969,
+            19.354253768921,
+            -99.136672973633,
+            19.356332778931
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.139832,
+                        19.355499
+                    ],
+                    [
+                        -99.139503,
+                        19.356333
+                    ],
+                    [
+                        -99.137665,
+                        19.356092
+                    ],
+                    [
+                        -99.136673,
+                        19.356234
+                    ],
+                    [
+                        -99.13707,
+                        19.354254
+                    ],
+                    [
+                        -99.139832,
+                        19.355499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

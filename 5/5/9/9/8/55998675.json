@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55998675,
+    "properties": {
+        "woe_id": 55998675,
+        "place_id": "7CMVComcBJWTLBZf6A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southwest Airdrie, Airdrie, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515507,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55998675_20101216_37c501980f.tar.gz"
+        },
+        "bbox": [
+            -114.02528381348,
+            51.274345397949,
+            -114.02363586426,
+            51.278728485107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.023796,
+                        51.274799
+                    ],
+                    [
+                        -114.023636,
+                        51.274719
+                    ],
+                    [
+                        -114.023857,
+                        51.274345
+                    ],
+                    [
+                        -114.024117,
+                        51.274727
+                    ],
+                    [
+                        -114.025284,
+                        51.278728
+                    ],
+                    [
+                        -114.023796,
+                        51.274799
+                    ]
+                ]
+            ]
+        ]
+    }
+}

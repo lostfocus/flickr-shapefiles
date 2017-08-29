@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021355,
+    "properties": {
+        "woe_id": 56021355,
+        "place_id": "1y2QFqGcB5yNpsyNug",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kennedy's Waterfront, Iowa City, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465043,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/56021355_20101216_ceb08584b9.tar.gz"
+        },
+        "bbox": [
+            -91.539115905762,
+            41.633373260498,
+            -91.532890319824,
+            41.639949798584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.535004,
+                        41.634499
+                    ],
+                    [
+                        -91.539116,
+                        41.633373
+                    ],
+                    [
+                        -91.535812,
+                        41.635155
+                    ],
+                    [
+                        -91.53289,
+                        41.63995
+                    ],
+                    [
+                        -91.535004,
+                        41.634666
+                    ],
+                    [
+                        -91.535004,
+                        41.634499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55858435,
+    "properties": {
+        "woe_id": 55858435,
+        "place_id": "Fggn9sicBJRuhT7YrQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunridge, Chandler, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509743,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1421\/shapefiles\/55858435_20101216_0566b0df3f.tar.gz"
+        },
+        "bbox": [
+            -111.8578338623,
+            33.349998474121,
+            -111.85483551025,
+            33.352333068848
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.857834,
+                        33.350166
+                    ],
+                    [
+                        -111.857834,
+                        33.350334
+                    ],
+                    [
+                        -111.856331,
+                        33.352333
+                    ],
+                    [
+                        -111.854836,
+                        33.350334
+                    ],
+                    [
+                        -111.856499,
+                        33.349998
+                    ],
+                    [
+                        -111.857834,
+                        33.350166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

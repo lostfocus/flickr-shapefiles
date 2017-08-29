@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 56019713,
+    "properties": {
+        "woe_id": 56019713,
+        "place_id": "sh6syOucB5xnr8T5FQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harsch Heights, Longmont, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453047,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/56019713_20101215_093a4b9045.tar.gz"
+        },
+        "bbox": [
+            -105.08628845215,
+            40.111949920654,
+            -105.08375549316,
+            40.113586425781
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.08577,
+                        40.11195
+                    ],
+                    [
+                        -105.086288,
+                        40.112804
+                    ],
+                    [
+                        -105.083878,
+                        40.113586
+                    ],
+                    [
+                        -105.083755,
+                        40.112476
+                    ],
+                    [
+                        -105.08577,
+                        40.11195
+                    ]
+                ]
+            ]
+        ]
+    }
+}

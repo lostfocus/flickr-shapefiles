@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55994301,
+    "properties": {
+        "woe_id": 55994301,
+        "place_id": "yNchs0CcBJXrrgx4ag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bankhead, Midland, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519373,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/55994301_20101216_efed6a78db.tar.gz"
+        },
+        "bbox": [
+            -102.11133575439,
+            31.974166870117,
+            -102.10916900635,
+            31.979686737061
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.111336,
+                        31.974167
+                    ],
+                    [
+                        -102.111,
+                        31.974667
+                    ],
+                    [
+                        -102.110535,
+                        31.979687
+                    ],
+                    [
+                        -102.109169,
+                        31.975834
+                    ],
+                    [
+                        -102.111168,
+                        31.974333
+                    ],
+                    [
+                        -102.111336,
+                        31.974167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

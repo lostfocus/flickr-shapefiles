@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 56022247,
+    "properties": {
+        "woe_id": 56022247,
+        "place_id": "dq6vCnicB5zWlXJcTg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westbridge, Berea, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438443,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/56022247_20101215_bef9ccb66e.tar.gz"
+        },
+        "bbox": [
+            -81.866165161133,
+            41.373073577881,
+            -81.859794616699,
+            41.37873840332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.865814,
+                        41.378048
+                    ],
+                    [
+                        -81.86557,
+                        41.378292
+                    ],
+                    [
+                        -81.861359,
+                        41.378193
+                    ],
+                    [
+                        -81.859795,
+                        41.378738
+                    ],
+                    [
+                        -81.861359,
+                        41.377613
+                    ],
+                    [
+                        -81.861855,
+                        41.377293
+                    ],
+                    [
+                        -81.864487,
+                        41.374039
+                    ],
+                    [
+                        -81.865479,
+                        41.373074
+                    ],
+                    [
+                        -81.866165,
+                        41.375004
+                    ],
+                    [
+                        -81.865814,
+                        41.378048
+                    ]
+                ]
+            ]
+        ]
+    }
+}

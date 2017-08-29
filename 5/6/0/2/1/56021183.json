@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56021183,
+    "properties": {
+        "woe_id": 56021183,
+        "place_id": "n8Q9EaOcB5xm.sYFJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakridge, Des Moines, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443116,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/56021183_20101215_af6a2d4807.tar.gz"
+        },
+        "bbox": [
+            -93.635612487793,
+            41.59525680542,
+            -93.631980895996,
+            41.596061706543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.633125,
+                        41.596062
+                    ],
+                    [
+                        -93.631981,
+                        41.596012
+                    ],
+                    [
+                        -93.632782,
+                        41.595612
+                    ],
+                    [
+                        -93.634415,
+                        41.595257
+                    ],
+                    [
+                        -93.635612,
+                        41.595612
+                    ],
+                    [
+                        -93.633125,
+                        41.596062
+                    ]
+                ]
+            ]
+        ]
+    }
+}

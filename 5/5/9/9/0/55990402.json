@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55990402,
+    "properties": {
+        "woe_id": 55990402,
+        "place_id": "hvzVCq2cBJUCV94nHw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northwyck, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545608,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/55990402_20101217_05cee53f7b.tar.gz"
+        },
+        "bbox": [
+            -78.616333007812,
+            35.865333557129,
+            -78.613334655762,
+            35.868099212646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.613518,
+                        35.868099
+                    ],
+                    [
+                        -78.613335,
+                        35.867764
+                    ],
+                    [
+                        -78.615669,
+                        35.865334
+                    ],
+                    [
+                        -78.616165,
+                        35.865597
+                    ],
+                    [
+                        -78.616333,
+                        35.866333
+                    ],
+                    [
+                        -78.613518,
+                        35.868099
+                    ]
+                ]
+            ]
+        ]
+    }
+}

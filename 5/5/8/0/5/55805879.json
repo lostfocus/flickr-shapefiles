@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55805879,
+    "properties": {
+        "woe_id": 55805879,
+        "place_id": "HOW0.vucBJSCpJv_dw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "12th Avenue - Valencia Road, Tucson, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248186729,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3530\/shapefiles\/55805879_20090721_c9af0fb7fe.tar.gz"
+        },
+        "bbox": [
+            -111.01467895508,
+            32.10717010498,
+            -111.00800323486,
+            32.10818862915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.008759,
+                        32.107262
+                    ],
+                    [
+                        -111.008003,
+                        32.10717
+                    ],
+                    [
+                        -111.009506,
+                        32.108189
+                    ],
+                    [
+                        -111.014679,
+                        32.107479
+                    ],
+                    [
+                        -111.014656,
+                        32.10817
+                    ],
+                    [
+                        -111.009506,
+                        32.108189
+                    ],
+                    [
+                        -111.008759,
+                        32.107262
+                    ]
+                ]
+            ]
+        ]
+    }
+}

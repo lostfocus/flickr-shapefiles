@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55993590,
+    "properties": {
+        "woe_id": 55993590,
+        "place_id": "ZVkxsWCcBJW2zPheag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Thousand Oaks, Denton, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527888,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/55993590_20101216_2bd4fcbc80.tar.gz"
+        },
+        "bbox": [
+            -97.031661987305,
+            33.140247344971,
+            -97.031059265137,
+            33.140548706055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.03112,
+                        33.140312
+                    ],
+                    [
+                        -97.031273,
+                        33.140247
+                    ],
+                    [
+                        -97.031662,
+                        33.14032
+                    ],
+                    [
+                        -97.031075,
+                        33.140549
+                    ],
+                    [
+                        -97.031059,
+                        33.14045
+                    ],
+                    [
+                        -97.03112,
+                        33.140312
+                    ]
+                ]
+            ]
+        ]
+    }
+}

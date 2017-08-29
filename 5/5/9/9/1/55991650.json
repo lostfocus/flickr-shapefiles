@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55991650,
+    "properties": {
+        "woe_id": 55991650,
+        "place_id": "y8AsJRycBJVwOoLgQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winthrop Place, Maplewood, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464865,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/55991650_20101216_0f41e4bc66.tar.gz"
+        },
+        "bbox": [
+            -74.282188415527,
+            40.721290588379,
+            -74.278625488281,
+            40.728675842285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.278625,
+                        40.723484
+                    ],
+                    [
+                        -74.280205,
+                        40.721291
+                    ],
+                    [
+                        -74.280235,
+                        40.721291
+                    ],
+                    [
+                        -74.282188,
+                        40.724823
+                    ],
+                    [
+                        -74.279427,
+                        40.728676
+                    ],
+                    [
+                        -74.278625,
+                        40.723484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

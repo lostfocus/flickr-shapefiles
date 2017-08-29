@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55882398,
+    "properties": {
+        "woe_id": 55882398,
+        "place_id": "FTxHfJacBJRBXz3Jmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Observatorio, Queretaro, QT, MX, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455381,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55882398_20101215_be418f0173.tar.gz"
+        },
+        "bbox": [
+            -100.37999725342,
+            20.586261749268,
+            -100.37574768066,
+            20.589653015137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.37706,
+                        20.586262
+                    ],
+                    [
+                        -100.379997,
+                        20.588045
+                    ],
+                    [
+                        -100.375748,
+                        20.589653
+                    ],
+                    [
+                        -100.375771,
+                        20.588545
+                    ],
+                    [
+                        -100.376335,
+                        20.587135
+                    ],
+                    [
+                        -100.37706,
+                        20.586262
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 55856779,
+    "properties": {
+        "woe_id": 55856779,
+        "place_id": "XSJVqJScBJRfMwLTKA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Quartier Sacr\u00e9 Coeur, Longueuil, QC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529779,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/55856779_20101216_3965398ff2.tar.gz"
+        },
+        "bbox": [
+            -73.459327697754,
+            45.535537719727,
+            -73.451362609863,
+            45.539073944092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.45369,
+                        45.539074
+                    ],
+                    [
+                        -73.451363,
+                        45.537682
+                    ],
+                    [
+                        -73.452843,
+                        45.535538
+                    ],
+                    [
+                        -73.457664,
+                        45.538174
+                    ],
+                    [
+                        -73.459328,
+                        45.53701
+                    ],
+                    [
+                        -73.458626,
+                        45.538399
+                    ],
+                    [
+                        -73.457664,
+                        45.538174
+                    ],
+                    [
+                        -73.452843,
+                        45.535538
+                    ],
+                    [
+                        -73.451363,
+                        45.537682
+                    ],
+                    [
+                        -73.45369,
+                        45.539074
+                    ]
+                ]
+            ]
+        ]
+    }
+}

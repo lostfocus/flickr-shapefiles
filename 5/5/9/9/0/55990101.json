@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 55990101,
+    "properties": {
+        "woe_id": 55990101,
+        "place_id": "ATEb4DycBJXZ1ganBQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glen at Harrington Grove, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519321,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/55990101_20101216_b5e79c8254.tar.gz"
+        },
+        "bbox": [
+            -78.753456115723,
+            35.926498413086,
+            -78.751998901367,
+            35.926845550537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.753456,
+                        35.926739
+                    ],
+                    [
+                        -78.753456,
+                        35.926754
+                    ],
+                    [
+                        -78.753456,
+                        35.926804
+                    ],
+                    [
+                        -78.753273,
+                        35.926846
+                    ],
+                    [
+                        -78.751999,
+                        35.926498
+                    ],
+                    [
+                        -78.753304,
+                        35.926682
+                    ],
+                    [
+                        -78.753456,
+                        35.926739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

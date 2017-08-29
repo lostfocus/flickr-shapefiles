@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55805723,
+    "properties": {
+        "woe_id": 55805723,
+        "place_id": "s6WHNEqcBJTSAvRX1g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Western Hills, Fort Worth, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518567,
+        "alpha": 1.0e-5,
+        "points": 27,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/55805723_20101216_9fbf3799cc.tar.gz"
+        },
+        "bbox": [
+            -97.464714050293,
+            32.718807220459,
+            -97.463150024414,
+            32.722915649414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.464226,
+                        32.720974
+                    ],
+                    [
+                        -97.464714,
+                        32.722916
+                    ],
+                    [
+                        -97.46315,
+                        32.720829
+                    ],
+                    [
+                        -97.463982,
+                        32.719055
+                    ],
+                    [
+                        -97.464096,
+                        32.718807
+                    ],
+                    [
+                        -97.464226,
+                        32.720974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

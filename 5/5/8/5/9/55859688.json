@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55859688,
+    "properties": {
+        "woe_id": 55859688,
+        "place_id": "dd0_5vqcBJSRECGiZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Washington Park BeverlyPark, Hollywood, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546263,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/55859688_20101217_3cd8c9936e.tar.gz"
+        },
+        "bbox": [
+            -80.221183776855,
+            25.998706817627,
+            -80.216514587402,
+            26.002876281738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.219048,
+                        26.000235
+                    ],
+                    [
+                        -80.220497,
+                        25.998707
+                    ],
+                    [
+                        -80.221184,
+                        26.001869
+                    ],
+                    [
+                        -80.216515,
+                        26.002876
+                    ],
+                    [
+                        -80.219048,
+                        26.000235
+                    ]
+                ]
+            ]
+        ]
+    }
+}

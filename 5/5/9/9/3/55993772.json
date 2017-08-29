@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 55993772,
+    "properties": {
+        "woe_id": 55993772,
+        "place_id": "0VMqkyOcBJW2b76kPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Point Noble, Flower Mound, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541850,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/55993772_20101216_5872981366.tar.gz"
+        },
+        "bbox": [
+            -97.104675292969,
+            32.997833251953,
+            -97.101829528809,
+            33.003353118896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.10183,
+                        32.998165
+                    ],
+                    [
+                        -97.102997,
+                        32.997833
+                    ],
+                    [
+                        -97.104675,
+                        33.003353
+                    ],
+                    [
+                        -97.101997,
+                        32.998333
+                    ],
+                    [
+                        -97.10183,
+                        32.998165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

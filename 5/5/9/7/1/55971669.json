@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55971669,
+    "properties": {
+        "woe_id": 55971669,
+        "place_id": "PvwlII6cBJUpQDNWRw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Echo Island, South Lake Tahoe, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524841,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/55971669_20101216_4e0ae3f6a4.tar.gz"
+        },
+        "bbox": [
+            -120.0951385498,
+            38.846675872803,
+            -120.09383392334,
+            38.848999023438
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.094498,
+                        38.848999
+                    ],
+                    [
+                        -120.094337,
+                        38.848999
+                    ],
+                    [
+                        -120.093834,
+                        38.848667
+                    ],
+                    [
+                        -120.095139,
+                        38.846676
+                    ],
+                    [
+                        -120.094833,
+                        38.848667
+                    ],
+                    [
+                        -120.094498,
+                        38.848999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

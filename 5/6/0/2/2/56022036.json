@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56022036,
+    "properties": {
+        "woe_id": 56022036,
+        "place_id": "DgOv78icB5zSwZ9dzw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South End, Port Huron, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518117,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/56022036_20101216_f2691483b6.tar.gz"
+        },
+        "bbox": [
+            -82.435485839844,
+            42.955345153809,
+            -82.432342529297,
+            42.956043243408
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.432343,
+                        42.955505
+                    ],
+                    [
+                        -82.432526,
+                        42.955345
+                    ],
+                    [
+                        -82.435486,
+                        42.955605
+                    ],
+                    [
+                        -82.434196,
+                        42.956043
+                    ],
+                    [
+                        -82.432457,
+                        42.955559
+                    ],
+                    [
+                        -82.432343,
+                        42.955505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

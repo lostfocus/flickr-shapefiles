@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55859318,
+    "properties": {
+        "woe_id": 55859318,
+        "place_id": "WDgkbPGcBJR77b2Cjg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Golden Ridge HOA, Peoria, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436664,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/55859318_20101215_acc9958d38.tar.gz"
+        },
+        "bbox": [
+            -112.20568847656,
+            33.564998626709,
+            -112.20250701904,
+            33.566913604736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.205688,
+                        33.564999
+                    ],
+                    [
+                        -112.205643,
+                        33.565086
+                    ],
+                    [
+                        -112.202682,
+                        33.566914
+                    ],
+                    [
+                        -112.202507,
+                        33.565784
+                    ],
+                    [
+                        -112.205559,
+                        33.564999
+                    ],
+                    [
+                        -112.205688,
+                        33.564999
+                    ]
+                ]
+            ]
+        ]
+    }
+}
