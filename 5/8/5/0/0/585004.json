@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 585004,
+    "properties": {
+        "woe_id": 585004,
+        "place_id": "PZtnb22cCZkBM9s",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ch\u00e2teauvieux, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546660,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/585004_20101217_515d7c0ef9.tar.gz"
+        },
+        "bbox": [
+            4.6163167953491,
+            45.702880859375,
+            4.6193108558655,
+            45.706993103027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.616693,
+                        45.706772
+                    ],
+                    [
+                        4.616929,
+                        45.706787
+                    ],
+                    [
+                        4.619311,
+                        45.706993
+                    ],
+                    [
+                        4.618463,
+                        45.702881
+                    ],
+                    [
+                        4.616317,
+                        45.706108
+                    ],
+                    [
+                        4.616693,
+                        45.706772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

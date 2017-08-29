@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 580100,
+    "properties": {
+        "woe_id": 580100,
+        "place_id": "jCW2rBucCZweXVM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Blainville, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533031,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/580100_20101216_f1aeb1a576.tar.gz"
+        },
+        "bbox": [
+            -0.2994410097599,
+            49.222110748291,
+            -0.28272598981857,
+            49.229049682617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.287102,
+                        49.22905
+                    ],
+                    [
+                        -0.282726,
+                        49.225639
+                    ],
+                    [
+                        -0.287765,
+                        49.222111
+                    ],
+                    [
+                        -0.288043,
+                        49.222176
+                    ],
+                    [
+                        -0.299441,
+                        49.225571
+                    ],
+                    [
+                        -0.2953,
+                        49.227211
+                    ],
+                    [
+                        -0.287102,
+                        49.22905
+                    ]
+                ]
+            ]
+        ]
+    }
+}

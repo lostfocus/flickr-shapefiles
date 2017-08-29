@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 593806,
+    "properties": {
+        "woe_id": 593806,
+        "place_id": "HoNgImCcCJ8U8Kg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grimbosq, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522864,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/593806_20101216_17848aec47.tar.gz"
+        },
+        "bbox": [
+            -0.45936501026154,
+            49.043128967285,
+            -0.44528898596764,
+            49.048557281494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.455589,
+                        49.044731
+                    ],
+                    [
+                        -0.459365,
+                        49.047375
+                    ],
+                    [
+                        -0.457305,
+                        49.048557
+                    ],
+                    [
+                        -0.445289,
+                        49.046867
+                    ],
+                    [
+                        -0.453014,
+                        49.043129
+                    ],
+                    [
+                        -0.455589,
+                        49.044731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

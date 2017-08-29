@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 552570,
+    "properties": {
+        "woe_id": 552570,
+        "place_id": "3SjzHv2cBJ4.LOk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Branderslev, Sjaelland, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234539727,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3402\/shapefiles\/552570_20090213_c73d699147.tar.gz"
+        },
+        "bbox": [
+            11.122611045837,
+            54.864803314209,
+            11.126547813416,
+            54.867942810059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.122611,
+                        54.867035
+                    ],
+                    [
+                        11.126548,
+                        54.867943
+                    ],
+                    [
+                        11.126124,
+                        54.866913
+                    ],
+                    [
+                        11.122627,
+                        54.864803
+                    ],
+                    [
+                        11.122611,
+                        54.867035
+                    ]
+                ]
+            ]
+        ]
+    }
+}

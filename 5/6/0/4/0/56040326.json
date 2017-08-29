@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56040326,
+    "properties": {
+        "woe_id": 56040326,
+        "place_id": "Ye6cjxGcB5wUh155aw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Villa, Neuquen, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535718,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/56040326_20101216_b4aa6f5763.tar.gz"
+        },
+        "bbox": [
+            -71.654891967773,
+            -40.773586273193,
+            -71.653343200684,
+            -40.770595550537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.653862,
+                        -40.771702
+                    ],
+                    [
+                        -71.654892,
+                        -40.773586
+                    ],
+                    [
+                        -71.654892,
+                        -40.772091
+                    ],
+                    [
+                        -71.653603,
+                        -40.770855
+                    ],
+                    [
+                        -71.653343,
+                        -40.770596
+                    ],
+                    [
+                        -71.653862,
+                        -40.771702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

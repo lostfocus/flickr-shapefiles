@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 575601,
+    "properties": {
+        "woe_id": 575601,
+        "place_id": "dwGIU1ecBpnWmfU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aiton, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545940,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/575601_20101217_4fcb86193d.tar.gz"
+        },
+        "bbox": [
+            6.2346658706665,
+            45.555770874023,
+            6.2665758132935,
+            45.570793151855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.248302,
+                        45.555771
+                    ],
+                    [
+                        6.234666,
+                        45.561832
+                    ],
+                    [
+                        6.242294,
+                        45.570793
+                    ],
+                    [
+                        6.256876,
+                        45.561348
+                    ],
+                    [
+                        6.266576,
+                        45.559021
+                    ],
+                    [
+                        6.255512,
+                        45.560699
+                    ],
+                    [
+                        6.248302,
+                        45.555771
+                    ]
+                ]
+            ]
+        ]
+    }
+}

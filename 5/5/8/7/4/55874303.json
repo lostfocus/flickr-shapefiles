@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55874303,
+    "properties": {
+        "woe_id": 55874303,
+        "place_id": "DCtL.dCcBJRdhh3BnQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sergeevka, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442666,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/55874303_20101215_32cefe976e.tar.gz"
+        },
+        "bbox": [
+            37.512989044189,
+            55.370746612549,
+            37.525840759277,
+            55.381610870361
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.512989,
+                        55.37104
+                    ],
+                    [
+                        37.513161,
+                        55.371063
+                    ],
+                    [
+                        37.525841,
+                        55.381611
+                    ],
+                    [
+                        37.518288,
+                        55.371655
+                    ],
+                    [
+                        37.514919,
+                        55.370747
+                    ],
+                    [
+                        37.512989,
+                        55.37104
+                    ]
+                ]
+            ]
+        ]
+    }
+}

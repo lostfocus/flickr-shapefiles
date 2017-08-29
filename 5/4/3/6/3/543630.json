@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 543630,
+    "properties": {
+        "woe_id": 543630,
+        "place_id": "2MwtDEOcBZ8MSOM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sankt Anton, Lower Austria, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239548894,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3566\/shapefiles\/543630_20090412_c6f4c0435f.tar.gz"
+        },
+        "bbox": [
+            15.198081970215,
+            47.958721160889,
+            15.210657119751,
+            47.965328216553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.198082,
+                        47.965328
+                    ],
+                    [
+                        15.201762,
+                        47.964069
+                    ],
+                    [
+                        15.210657,
+                        47.958721
+                    ],
+                    [
+                        15.200373,
+                        47.963852
+                    ],
+                    [
+                        15.198082,
+                        47.965328
+                    ]
+                ]
+            ]
+        ]
+    }
+}

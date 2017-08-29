@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 532270,
+    "properties": {
+        "woe_id": 532270,
+        "place_id": "wf6N7sGcAp5rwUg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zgornja Bistrica, Slovenska Bistrica, Slovenia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234509365,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3499\/shapefiles\/532270_20090213_9b172d7bd1.tar.gz"
+        },
+        "bbox": [
+            15.545318603516,
+            46.402294158936,
+            15.54762840271,
+            46.404071807861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.545319,
+                        46.402786
+                    ],
+                    [
+                        15.546984,
+                        46.404072
+                    ],
+                    [
+                        15.547628,
+                        46.403095
+                    ],
+                    [
+                        15.545482,
+                        46.402294
+                    ],
+                    [
+                        15.545319,
+                        46.402786
+                    ]
+                ]
+            ]
+        ]
+    }
+}

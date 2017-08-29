@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 580025,
+    "properties": {
+        "woe_id": 580025,
+        "place_id": "hM5YFomcCZw9pYs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bischwiller, Alsace, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248189493,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2526\/shapefiles\/580025_20090721_ba692008d2.tar.gz"
+        },
+        "bbox": [
+            7.8453750610352,
+            48.761180877686,
+            7.8607602119446,
+            48.777515411377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.851448,
+                        48.765862
+                    ],
+                    [
+                        7.845375,
+                        48.777515
+                    ],
+                    [
+                        7.857284,
+                        48.771805
+                    ],
+                    [
+                        7.86076,
+                        48.761181
+                    ],
+                    [
+                        7.851448,
+                        48.765862
+                    ]
+                ]
+            ]
+        ]
+    }
+}

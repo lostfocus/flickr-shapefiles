@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 567789,
+    "properties": {
+        "woe_id": 567789,
+        "place_id": "KeKkA.ucB5vyOgw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kontiolahti, Eastern Finland, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453500,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/567789_20101215_795aeb1c9a.tar.gz"
+        },
+        "bbox": [
+            29.837167739868,
+            62.751544952393,
+            29.857233047485,
+            62.766273498535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.851398,
+                        62.766273
+                    ],
+                    [
+                        29.857233,
+                        62.752972
+                    ],
+                    [
+                        29.838287,
+                        62.751545
+                    ],
+                    [
+                        29.837168,
+                        62.759998
+                    ],
+                    [
+                        29.846075,
+                        62.764862
+                    ],
+                    [
+                        29.850668,
+                        62.766167
+                    ],
+                    [
+                        29.851398,
+                        62.766273
+                    ]
+                ]
+            ]
+        ]
+    }
+}

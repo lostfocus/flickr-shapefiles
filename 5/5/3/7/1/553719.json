@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 553719,
+    "properties": {
+        "woe_id": 553719,
+        "place_id": "0xGEDvicBJ8hmDI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Guldborg, Sjaelland, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546929,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/553719_20101217_e712c98120.tar.gz"
+        },
+        "bbox": [
+            11.735683441162,
+            54.863697052002,
+            11.75758266449,
+            54.878383636475
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.745071,
+                        54.870827
+                    ],
+                    [
+                        11.755371,
+                        54.878384
+                    ],
+                    [
+                        11.757583,
+                        54.875107
+                    ],
+                    [
+                        11.75065,
+                        54.871014
+                    ],
+                    [
+                        11.748933,
+                        54.86895
+                    ],
+                    [
+                        11.735683,
+                        54.863697
+                    ],
+                    [
+                        11.745071,
+                        54.870827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

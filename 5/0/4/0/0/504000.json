@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 504000,
+    "properties": {
+        "woe_id": 504000,
+        "place_id": "KmyYy86cAZgpqOY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u0141aziska, Lublin, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450648,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/504000_20101215_836eb2731b.tar.gz"
+        },
+        "bbox": [
+            23.384399414062,
+            50.810272216797,
+            23.386459350586,
+            50.813610076904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        23.384743,
+                        50.813541
+                    ],
+                    [
+                        23.384914,
+                        50.81361
+                    ],
+                    [
+                        23.385773,
+                        50.812008
+                    ],
+                    [
+                        23.386459,
+                        50.810272
+                    ],
+                    [
+                        23.384399,
+                        50.81179
+                    ],
+                    [
+                        23.384399,
+                        50.812225
+                    ],
+                    [
+                        23.384743,
+                        50.813541
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 580191,
+    "properties": {
+        "woe_id": 580191,
+        "place_id": "OAxWuaWcCZyvSo8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Blauvac, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544110,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/580191_20101217_13ec228b03.tar.gz"
+        },
+        "bbox": [
+            5.1984639167786,
+            44.025455474854,
+            5.1997938156128,
+            44.030097961426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.199279,
+                        44.029915
+                    ],
+                    [
+                        5.199451,
+                        44.02911
+                    ],
+                    [
+                        5.199794,
+                        44.025455
+                    ],
+                    [
+                        5.198464,
+                        44.030098
+                    ],
+                    [
+                        5.198764,
+                        44.030098
+                    ],
+                    [
+                        5.199279,
+                        44.029915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

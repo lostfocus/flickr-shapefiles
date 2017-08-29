@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55890356,
+    "properties": {
+        "woe_id": 55890356,
+        "place_id": "QKSZZKecBJT3pN9jUQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Jose Vistahermosa Centro, Morelos, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519311,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/55890356_20101216_9ffd4d359b.tar.gz"
+        },
+        "bbox": [
+            -99.270950317383,
+            18.655094146729,
+            -99.267227172852,
+            18.65763092041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.269272,
+                        18.65519
+                    ],
+                    [
+                        -99.269684,
+                        18.655094
+                    ],
+                    [
+                        -99.270714,
+                        18.655287
+                    ],
+                    [
+                        -99.27095,
+                        18.655552
+                    ],
+                    [
+                        -99.267227,
+                        18.657631
+                    ],
+                    [
+                        -99.269272,
+                        18.65519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

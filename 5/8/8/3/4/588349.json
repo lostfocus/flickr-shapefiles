@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 588349,
+    "properties": {
+        "woe_id": 588349,
+        "place_id": "dWAXOeCcCZSISYg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dachstein, Alsace, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234510325,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3466\/shapefiles\/588349_20090213_5db6b77ebd.tar.gz"
+        },
+        "bbox": [
+            7.5292391777039,
+            48.560817718506,
+            7.5312991142273,
+            48.561859130859
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.531299,
+                        48.561272
+                    ],
+                    [
+                        7.530612,
+                        48.560818
+                    ],
+                    [
+                        7.529239,
+                        48.56184
+                    ],
+                    [
+                        7.530394,
+                        48.561859
+                    ],
+                    [
+                        7.531299,
+                        48.561272
+                    ]
+                ]
+            ]
+        ]
+    }
+}

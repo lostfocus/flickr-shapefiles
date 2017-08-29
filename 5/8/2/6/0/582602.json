@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 582602,
+    "properties": {
+        "woe_id": 582602,
+        "place_id": "fd5ljQ6cCZ6xysg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cadaujac, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491329,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/582602_20101216_f4818272b2.tar.gz"
+        },
+        "bbox": [
+            -0.53008997440338,
+            44.752281188965,
+            -0.5106920003891,
+            44.766834259033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.510692,
+                        44.752342
+                    ],
+                    [
+                        -0.53009,
+                        44.752281
+                    ],
+                    [
+                        -0.514297,
+                        44.758678
+                    ],
+                    [
+                        -0.511833,
+                        44.766834
+                    ],
+                    [
+                        -0.512065,
+                        44.758434
+                    ],
+                    [
+                        -0.510692,
+                        44.752342
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 598226,
+    "properties": {
+        "woe_id": 598226,
+        "place_id": "ReSFPDWcCJTA9zE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Forclaz, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234540084,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3500\/shapefiles\/598226_20090213_b3ce7bddf6.tar.gz"
+        },
+        "bbox": [
+            6.6182317733765,
+            46.320999145508,
+            6.6264290809631,
+            46.326335906982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.618232,
+                        46.326336
+                    ],
+                    [
+                        6.619777,
+                        46.326008
+                    ],
+                    [
+                        6.626429,
+                        46.322098
+                    ],
+                    [
+                        6.620593,
+                        46.320999
+                    ],
+                    [
+                        6.618232,
+                        46.326336
+                    ]
+                ]
+            ]
+        ]
+    }
+}

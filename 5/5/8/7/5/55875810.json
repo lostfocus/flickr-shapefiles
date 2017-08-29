@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55875810,
+    "properties": {
+        "woe_id": 55875810,
+        "place_id": "quF2UEScBJQijMDQCg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ou\u00e9zy, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541349,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55875810_20101216_570f6909aa.tar.gz"
+        },
+        "bbox": [
+            -0.096173003315926,
+            49.078758239746,
+            -0.094287998974323,
+            49.081455230713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.095958,
+                        49.079376
+                    ],
+                    [
+                        -0.096173,
+                        49.081455
+                    ],
+                    [
+                        -0.095358,
+                        49.080952
+                    ],
+                    [
+                        -0.094288,
+                        49.0797
+                    ],
+                    [
+                        -0.094327,
+                        49.078758
+                    ],
+                    [
+                        -0.095958,
+                        49.079376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

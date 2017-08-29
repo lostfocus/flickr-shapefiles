@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56041412,
+    "properties": {
+        "woe_id": 56041412,
+        "place_id": "ux.ZqeGcB5x6xSHzkg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fazendinha, Faro, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545100,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/56041412_20101217_d76ee043db.tar.gz"
+        },
+        "bbox": [
+            -7.5777058601379,
+            37.152729034424,
+            -7.5673999786377,
+            37.160717010498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.5674,
+                        37.160717
+                    ],
+                    [
+                        -7.568721,
+                        37.158833
+                    ],
+                    [
+                        -7.574429,
+                        37.152729
+                    ],
+                    [
+                        -7.576812,
+                        37.153809
+                    ],
+                    [
+                        -7.577706,
+                        37.159622
+                    ],
+                    [
+                        -7.5674,
+                        37.160717
+                    ]
+                ]
+            ]
+        ]
+    }
+}

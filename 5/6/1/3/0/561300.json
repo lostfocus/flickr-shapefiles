@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 561300,
+    "properties": {
+        "woe_id": 561300,
+        "place_id": "MiSoVVScB50OlVY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Killeevan, Monaghan, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234601766,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3304\/shapefiles\/561300_20090214_f9bb5f227b.tar.gz"
+        },
+        "bbox": [
+            -7.1579360961914,
+            54.173488616943,
+            -7.1513910293579,
+            54.177406311035
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.151391,
+                        54.173489
+                    ],
+                    [
+                        -7.152314,
+                        54.17355
+                    ],
+                    [
+                        -7.157936,
+                        54.177406
+                    ],
+                    [
+                        -7.151713,
+                        54.17374
+                    ],
+                    [
+                        -7.151391,
+                        54.173489
+                    ]
+                ]
+            ]
+        ]
+    }
+}

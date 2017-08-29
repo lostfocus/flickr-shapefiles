@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 595002,
+    "properties": {
+        "woe_id": 595002,
+        "place_id": "qMuMAfycCJkDINI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Houry, Picardie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443529,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/595002_20101215_24f5fef61b.tar.gz"
+        },
+        "bbox": [
+            3.8452570438385,
+            49.776359558105,
+            3.8525528907776,
+            49.777496337891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.848347,
+                        49.776592
+                    ],
+                    [
+                        3.845257,
+                        49.77636
+                    ],
+                    [
+                        3.846631,
+                        49.776718
+                    ],
+                    [
+                        3.849806,
+                        49.777065
+                    ],
+                    [
+                        3.852553,
+                        49.777496
+                    ],
+                    [
+                        3.850922,
+                        49.777081
+                    ],
+                    [
+                        3.848347,
+                        49.776592
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 593141,
+    "properties": {
+        "woe_id": 593141,
+        "place_id": "hbnm0PGcCJ.0eWY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gonneville, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549104,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/593141_20101217_da26a68dfa.tar.gz"
+        },
+        "bbox": [
+            -1.4755359888077,
+            49.638488769531,
+            -1.4638750553131,
+            49.650402069092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.463875,
+                        49.639675
+                    ],
+                    [
+                        -1.463875,
+                        49.639629
+                    ],
+                    [
+                        -1.466481,
+                        49.638489
+                    ],
+                    [
+                        -1.475536,
+                        49.646748
+                    ],
+                    [
+                        -1.468391,
+                        49.650402
+                    ],
+                    [
+                        -1.463875,
+                        49.639675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 559600,
+    "properties": {
+        "woe_id": 559600,
+        "place_id": "u8n5hS2cBJXS3rc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ballinderreen, Galway, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292498528,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/559600_20101216_dfe89d77a0.tar.gz"
+        },
+        "bbox": [
+            -8.9121427536011,
+            53.185928344727,
+            -8.9030447006226,
+            53.187316894531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.912143,
+                        53.186184
+                    ],
+                    [
+                        -8.911628,
+                        53.187317
+                    ],
+                    [
+                        -8.903045,
+                        53.186493
+                    ],
+                    [
+                        -8.912143,
+                        53.185928
+                    ],
+                    [
+                        -8.912143,
+                        53.186184
+                    ]
+                ]
+            ]
+        ]
+    }
+}

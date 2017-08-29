@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55863547,
+    "properties": {
+        "woe_id": 55863547,
+        "place_id": "phM83gCcBJQxOfvskg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Noiseau, Ile-de-France, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503621,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/55863547_20101216_c36c6b644f.tar.gz"
+        },
+        "bbox": [
+            2.5387930870056,
+            48.770038604736,
+            2.5602750778198,
+            48.784587860107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.550373,
+                        48.784588
+                    ],
+                    [
+                        2.560275,
+                        48.778969
+                    ],
+                    [
+                        2.549504,
+                        48.775654
+                    ],
+                    [
+                        2.538793,
+                        48.770039
+                    ],
+                    [
+                        2.547549,
+                        48.778198
+                    ],
+                    [
+                        2.550373,
+                        48.784588
+                    ]
+                ]
+            ]
+        ]
+    }
+}

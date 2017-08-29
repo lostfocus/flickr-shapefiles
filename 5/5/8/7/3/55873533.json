@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55873533,
+    "properties": {
+        "woe_id": 55873533,
+        "place_id": "A30lQricBJTzHfT3AQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orsandsbaden, Dalarna, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524807,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/55873533_20101216_55ed8bf6c0.tar.gz"
+        },
+        "bbox": [
+            14.969332695007,
+            60.750522613525,
+            14.978485107422,
+            60.754665374756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.969333,
+                        60.754166
+                    ],
+                    [
+                        14.969333,
+                        60.754665
+                    ],
+                    [
+                        14.969499,
+                        60.754665
+                    ],
+                    [
+                        14.978485,
+                        60.753792
+                    ],
+                    [
+                        14.974579,
+                        60.750523
+                    ],
+                    [
+                        14.969333,
+                        60.754166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

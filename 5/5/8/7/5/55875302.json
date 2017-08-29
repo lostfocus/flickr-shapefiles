@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55875302,
+    "properties": {
+        "woe_id": 55875302,
+        "place_id": "4AH37HycBJTwXpsbAw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Borodinskiy Muzey, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550978,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/55875302_20101217_4f97158fb9.tar.gz"
+        },
+        "bbox": [
+            35.812683105469,
+            55.516628265381,
+            35.825386047363,
+            55.522895812988
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        35.822639,
+                        55.521584
+                    ],
+                    [
+                        35.825386,
+                        55.519592
+                    ],
+                    [
+                        35.824184,
+                        55.516628
+                    ],
+                    [
+                        35.812683,
+                        55.519691
+                    ],
+                    [
+                        35.818863,
+                        55.522896
+                    ],
+                    [
+                        35.822639,
+                        55.521584
+                    ]
+                ]
+            ]
+        ]
+    }
+}

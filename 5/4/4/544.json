@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 544,
+    "properties": {
+        "woe_id": 544,
+        "place_id": "321XMWicBZg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Frederickton, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455548,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/544_20101215_132d95c83b.tar.gz"
+        },
+        "bbox": [
+            -54.373397827148,
+            49.426578521729,
+            -54.355545043945,
+            49.434646606445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -54.355545,
+                        49.431618
+                    ],
+                    [
+                        -54.355545,
+                        49.427944
+                    ],
+                    [
+                        -54.358463,
+                        49.426579
+                    ],
+                    [
+                        -54.369019,
+                        49.42778
+                    ],
+                    [
+                        -54.373398,
+                        49.434647
+                    ],
+                    [
+                        -54.358463,
+                        49.430847
+                    ],
+                    [
+                        -54.355545,
+                        49.431618
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55909029,
+    "properties": {
+        "woe_id": 55909029,
+        "place_id": "K8w0E4acBJV3Y9IsZg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ciudad de Allende, Nuevo Leon, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449995,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55909029_20101215_142c70ec32.tar.gz"
+        },
+        "bbox": [
+            -100.02658843994,
+            25.274852752686,
+            -100.01850128174,
+            25.287231445312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.020691,
+                        25.287231
+                    ],
+                    [
+                        -100.019142,
+                        25.286367
+                    ],
+                    [
+                        -100.018501,
+                        25.284283
+                    ],
+                    [
+                        -100.026588,
+                        25.274853
+                    ],
+                    [
+                        -100.026527,
+                        25.281799
+                    ],
+                    [
+                        -100.020691,
+                        25.287231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

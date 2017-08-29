@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56064305,
+    "properties": {
+        "woe_id": 56064305,
+        "place_id": "3v0oqLucB5zucKRHlQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "El Peligro, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520626,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/56064305_20101216_d9ce86aa87.tar.gz"
+        },
+        "bbox": [
+            -58.120044708252,
+            -34.943164825439,
+            -58.111331939697,
+            -34.938423156738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.111832,
+                        -34.942165
+                    ],
+                    [
+                        -58.111332,
+                        -34.942333
+                    ],
+                    [
+                        -58.1115,
+                        -34.943165
+                    ],
+                    [
+                        -58.113335,
+                        -34.943165
+                    ],
+                    [
+                        -58.120045,
+                        -34.938423
+                    ],
+                    [
+                        -58.111832,
+                        -34.942165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

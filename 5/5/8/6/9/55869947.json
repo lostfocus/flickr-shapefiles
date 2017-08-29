@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55869947,
+    "properties": {
+        "woe_id": 55869947,
+        "place_id": "DHNGwZ2cBJQ1c8FoTQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Caimito, San Juan, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522176,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/55869947_20101216_5e46ae75f7.tar.gz"
+        },
+        "bbox": [
+            -66.073112487793,
+            18.327476501465,
+            -66.052719116211,
+            18.341022491455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.065598,
+                        18.329105
+                    ],
+                    [
+                        -66.073112,
+                        18.33497
+                    ],
+                    [
+                        -66.064758,
+                        18.339983
+                    ],
+                    [
+                        -66.063362,
+                        18.341022
+                    ],
+                    [
+                        -66.052719,
+                        18.327477
+                    ],
+                    [
+                        -66.065598,
+                        18.329105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

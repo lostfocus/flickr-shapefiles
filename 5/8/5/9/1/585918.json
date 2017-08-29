@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 585918,
+    "properties": {
+        "woe_id": 585918,
+        "place_id": "dXIa.6ScCZlLp_I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Choiseul, Champagne-Ardenne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234664404,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3466\/shapefiles\/585918_20090215_9edb594953.tar.gz"
+        },
+        "bbox": [
+            5.5642309188843,
+            48.059925079346,
+            5.5663990974426,
+            48.060413360596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.565948,
+                        48.059982
+                    ],
+                    [
+                        5.564961,
+                        48.060154
+                    ],
+                    [
+                        5.564231,
+                        48.060413
+                    ],
+                    [
+                        5.566399,
+                        48.059925
+                    ],
+                    [
+                        5.565948,
+                        48.059982
+                    ]
+                ]
+            ]
+        ]
+    }
+}

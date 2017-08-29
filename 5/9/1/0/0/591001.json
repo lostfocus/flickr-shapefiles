@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 591001,
+    "properties": {
+        "woe_id": 591001,
+        "place_id": "gBqJNx2cCJ0CPZs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fismes, Champagne-Ardenne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536903,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/591001_20101216_151a0e92e6.tar.gz"
+        },
+        "bbox": [
+            3.6793038845062,
+            49.307033538818,
+            3.6980149745941,
+            49.31131362915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.682308,
+                        49.307034
+                    ],
+                    [
+                        3.679304,
+                        49.307384
+                    ],
+                    [
+                        3.680173,
+                        49.311314
+                    ],
+                    [
+                        3.688917,
+                        49.310631
+                    ],
+                    [
+                        3.698015,
+                        49.308952
+                    ],
+                    [
+                        3.684453,
+                        49.307388
+                    ],
+                    [
+                        3.682308,
+                        49.307034
+                    ]
+                ]
+            ]
+        ]
+    }
+}

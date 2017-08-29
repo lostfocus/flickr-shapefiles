@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 555,
+    "properties": {
+        "woe_id": 555,
+        "place_id": "XVskiPKcBJk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Garden River, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537709,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/555_20101216_b95745796d.tar.gz"
+        },
+        "bbox": [
+            -84.160423278809,
+            46.52624130249,
+            -84.145660400391,
+            46.546611785889
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.147202,
+                        46.546612
+                    ],
+                    [
+                        -84.14566,
+                        46.54493
+                    ],
+                    [
+                        -84.146858,
+                        46.536724
+                    ],
+                    [
+                        -84.158447,
+                        46.526241
+                    ],
+                    [
+                        -84.160423,
+                        46.543983
+                    ],
+                    [
+                        -84.147202,
+                        46.546612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

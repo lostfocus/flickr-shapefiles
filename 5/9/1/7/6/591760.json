@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 591760,
+    "properties": {
+        "woe_id": 591760,
+        "place_id": "uZGBArScCJ3YQxw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fourges, Haute-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533102,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/591760_20101216_fb7199130b.tar.gz"
+        },
+        "bbox": [
+            1.6409109830856,
+            49.119724273682,
+            1.6585060358047,
+            49.123657226562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.645889,
+                        49.120258
+                    ],
+                    [
+                        1.645374,
+                        49.120201
+                    ],
+                    [
+                        1.640911,
+                        49.122421
+                    ],
+                    [
+                        1.640911,
+                        49.123657
+                    ],
+                    [
+                        1.647241,
+                        49.121536
+                    ],
+                    [
+                        1.658506,
+                        49.119724
+                    ],
+                    [
+                        1.645889,
+                        49.120258
+                    ]
+                ]
+            ]
+        ]
+    }
+}

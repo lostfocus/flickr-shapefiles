@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 577068,
+    "properties": {
+        "woe_id": 577068,
+        "place_id": "sIiu7ZKcBpvE7UA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aubignosc, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443505,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/577068_20101215_d86e1b6495.tar.gz"
+        },
+        "bbox": [
+            5.9685797691345,
+            44.11833190918,
+            5.9899997711182,
+            44.133644104004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.96858,
+                        44.129185
+                    ],
+                    [
+                        5.979931,
+                        44.133644
+                    ],
+                    [
+                        5.9815,
+                        44.130833
+                    ],
+                    [
+                        5.99,
+                        44.118332
+                    ],
+                    [
+                        5.987076,
+                        44.118507
+                    ],
+                    [
+                        5.96858,
+                        44.129185
+                    ]
+                ]
+            ]
+        ]
+    }
+}

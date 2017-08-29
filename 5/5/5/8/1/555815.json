@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 555815,
+    "properties": {
+        "woe_id": 555815,
+        "place_id": "L35cKrOcBJnlZ7g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nordstrand, Syddanmark, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292483285,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/555815_20101216_bdf8c663ec.tar.gz"
+        },
+        "bbox": [
+            10.928129196167,
+            55.1633644104,
+            10.940622329712,
+            55.173843383789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.940102,
+                        55.164406
+                    ],
+                    [
+                        10.940472,
+                        55.163857
+                    ],
+                    [
+                        10.940622,
+                        55.163509
+                    ],
+                    [
+                        10.938777,
+                        55.163364
+                    ],
+                    [
+                        10.928129,
+                        55.173843
+                    ],
+                    [
+                        10.939886,
+                        55.164558
+                    ],
+                    [
+                        10.940102,
+                        55.164406
+                    ]
+                ]
+            ]
+        ]
+    }
+}

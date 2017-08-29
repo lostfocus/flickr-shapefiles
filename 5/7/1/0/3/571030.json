@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 571030,
+    "properties": {
+        "woe_id": 571030,
+        "place_id": "TlAeJdecBp1xC7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Panttila, Western Finland, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234510326,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3528\/shapefiles\/571030_20090213_a6556e6e64.tar.gz"
+        },
+        "bbox": [
+            22.394170761108,
+            62.662929534912,
+            22.400650024414,
+            62.66641998291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.400522,
+                        62.66293
+                    ],
+                    [
+                        22.39872,
+                        62.663521
+                    ],
+                    [
+                        22.394171,
+                        62.66642
+                    ],
+                    [
+                        22.40065,
+                        62.66423
+                    ],
+                    [
+                        22.400522,
+                        62.66293
+                    ]
+                ]
+            ]
+        ]
+    }
+}

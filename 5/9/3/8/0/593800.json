@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 593800,
+    "properties": {
+        "woe_id": 593800,
+        "place_id": "IqCqtrOcCJ8CEVg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grillon, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528050,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/593800_20101216_2f502e1d56.tar.gz"
+        },
+        "bbox": [
+            4.9206728935242,
+            44.389022827148,
+            4.9332041740417,
+            44.403064727783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.928226,
+                        44.395157
+                    ],
+                    [
+                        4.924278,
+                        44.389023
+                    ],
+                    [
+                        4.920673,
+                        44.401764
+                    ],
+                    [
+                        4.924879,
+                        44.403065
+                    ],
+                    [
+                        4.933204,
+                        44.400921
+                    ],
+                    [
+                        4.928226,
+                        44.395157
+                    ]
+                ]
+            ]
+        ]
+    }
+}

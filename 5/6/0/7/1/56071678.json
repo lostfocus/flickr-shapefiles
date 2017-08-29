@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56071678,
+    "properties": {
+        "woe_id": 56071678,
+        "place_id": "Pd10zhWcB5wEizHZbA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Raseborg, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530323,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/56071678_20101216_261649880a.tar.gz"
+        },
+        "bbox": [
+            23.10705947876,
+            59.970561981201,
+            23.109676361084,
+            59.973526000977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        23.109354,
+                        59.972446
+                    ],
+                    [
+                        23.109676,
+                        59.972237
+                    ],
+                    [
+                        23.108324,
+                        59.970959
+                    ],
+                    [
+                        23.10754,
+                        59.970562
+                    ],
+                    [
+                        23.107059,
+                        59.970608
+                    ],
+                    [
+                        23.108004,
+                        59.973526
+                    ],
+                    [
+                        23.109354,
+                        59.972446
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 544610,
+    "properties": {
+        "woe_id": 544610,
+        "place_id": "sng8A4mcBZgSm8o",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alberndorf, Upper Austria, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234509483,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3348\/shapefiles\/544610_20090213_d954c339be.tar.gz"
+        },
+        "bbox": [
+            14.390459060669,
+            48.40060043335,
+            14.403140068054,
+            48.408050537109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.390459,
+                        48.401463
+                    ],
+                    [
+                        14.395136,
+                        48.408051
+                    ],
+                    [
+                        14.40314,
+                        48.407524
+                    ],
+                    [
+                        14.391574,
+                        48.4006
+                    ],
+                    [
+                        14.390459,
+                        48.401463
+                    ]
+                ]
+            ]
+        ]
+    }
+}

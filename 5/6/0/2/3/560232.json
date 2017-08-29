@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 560232,
+    "properties": {
+        "woe_id": 560232,
+        "place_id": "8yLhfoGcB5xH5EM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castlereagh, Roscommon, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520662,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/560232_20101216_1b5708a51f.tar.gz"
+        },
+        "bbox": [
+            -8.5094261169434,
+            53.770477294922,
+            -8.4997272491455,
+            53.772964477539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.502988,
+                        53.772964
+                    ],
+                    [
+                        -8.499727,
+                        53.770985
+                    ],
+                    [
+                        -8.500585,
+                        53.770935
+                    ],
+                    [
+                        -8.502731,
+                        53.771088
+                    ],
+                    [
+                        -8.509426,
+                        53.770477
+                    ],
+                    [
+                        -8.502988,
+                        53.772964
+                    ]
+                ]
+            ]
+        ]
+    }
+}

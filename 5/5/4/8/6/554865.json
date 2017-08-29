@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 554865,
+    "properties": {
+        "woe_id": 554865,
+        "place_id": "w8Z5RNycBJgZd3I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Knardrup, Hovedstaden, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234940785,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3288\/shapefiles\/554865_20090218_c1a66b5ba0.tar.gz"
+        },
+        "bbox": [
+            12.291619300842,
+            55.766353607178,
+            12.30438709259,
+            55.771938323975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.304387,
+                        55.768665
+                    ],
+                    [
+                        12.291619,
+                        55.766354
+                    ],
+                    [
+                        12.294044,
+                        55.770199
+                    ],
+                    [
+                        12.297949,
+                        55.771938
+                    ],
+                    [
+                        12.304387,
+                        55.768665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

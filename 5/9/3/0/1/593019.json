@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 593019,
+    "properties": {
+        "woe_id": 593019,
+        "place_id": "lDpfmtqcCJ_bJ7c",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gleizolles, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247866325,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3505\/shapefiles\/593019_20090717_63e42e133e.tar.gz"
+        },
+        "bbox": [
+            6.75315284729,
+            44.468059539795,
+            6.7735857963562,
+            44.480857849121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.755347,
+                        44.46806
+                    ],
+                    [
+                        6.753153,
+                        44.480858
+                    ],
+                    [
+                        6.756248,
+                        44.479145
+                    ],
+                    [
+                        6.759692,
+                        44.477646
+                    ],
+                    [
+                        6.773586,
+                        44.476513
+                    ],
+                    [
+                        6.755347,
+                        44.46806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

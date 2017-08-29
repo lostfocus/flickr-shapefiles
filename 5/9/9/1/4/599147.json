@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 599147,
+    "properties": {
+        "woe_id": 599147,
+        "place_id": "PaFX9IGcCJW_FDQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Mothe, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529724,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/599147_20101216_10229e2700.tar.gz"
+        },
+        "bbox": [
+            -0.1122300028801,
+            46.355110168457,
+            -0.088919997215271,
+            46.363929748535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.11223,
+                        46.360649
+                    ],
+                    [
+                        -0.110034,
+                        46.362152
+                    ],
+                    [
+                        -0.08892,
+                        46.36393
+                    ],
+                    [
+                        -0.110571,
+                        46.35511
+                    ],
+                    [
+                        -0.111869,
+                        46.355659
+                    ],
+                    [
+                        -0.11223,
+                        46.360649
+                    ]
+                ]
+            ]
+        ]
+    }
+}

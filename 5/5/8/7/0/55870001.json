@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55870001,
+    "properties": {
+        "woe_id": 55870001,
+        "place_id": "TKs3noacBJRlA83mbg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Boquer\u00f3n, Las Piedras, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473148,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/55870001_20101216_69887ef6ca.tar.gz"
+        },
+        "bbox": [
+            -65.827499389648,
+            18.228128433228,
+            -65.825096130371,
+            18.229351043701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -65.827011,
+                        18.229086
+                    ],
+                    [
+                        -65.826469,
+                        18.229156
+                    ],
+                    [
+                        -65.825439,
+                        18.229351
+                    ],
+                    [
+                        -65.825096,
+                        18.228128
+                    ],
+                    [
+                        -65.827499,
+                        18.228617
+                    ],
+                    [
+                        -65.827011,
+                        18.229086
+                    ]
+                ]
+            ]
+        ]
+    }
+}

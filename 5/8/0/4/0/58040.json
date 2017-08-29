@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 58040,
+    "properties": {
+        "woe_id": 58040,
+        "place_id": "zLk6T1WcCZwlDg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cerrillal, Alajuela, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532335,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/58040_20101216_d285e6bf5e.tar.gz"
+        },
+        "bbox": [
+            -84.179306030273,
+            10.088528633118,
+            -84.172035217285,
+            10.099346160889
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.179306,
+                        10.088529
+                    ],
+                    [
+                        -84.179306,
+                        10.099346
+                    ],
+                    [
+                        -84.172035,
+                        10.093107
+                    ],
+                    [
+                        -84.17244,
+                        10.090557
+                    ],
+                    [
+                        -84.175011,
+                        10.088698
+                    ],
+                    [
+                        -84.179306,
+                        10.088529
+                    ]
+                ]
+            ]
+        ]
+    }
+}

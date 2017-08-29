@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 590401,
+    "properties": {
+        "woe_id": 590401,
+        "place_id": "C.iMqEKcCJzvEto",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Excideuil, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527743,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/590401_20101216_49577593d8.tar.gz"
+        },
+        "bbox": [
+            1.0474770069122,
+            45.333381652832,
+            1.0507279634476,
+            45.342071533203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.047788,
+                        45.338268
+                    ],
+                    [
+                        1.047477,
+                        45.342072
+                    ],
+                    [
+                        1.050728,
+                        45.337742
+                    ],
+                    [
+                        1.050567,
+                        45.337063
+                    ],
+                    [
+                        1.049076,
+                        45.333382
+                    ],
+                    [
+                        1.048833,
+                        45.335167
+                    ],
+                    [
+                        1.047788,
+                        45.338268
+                    ]
+                ]
+            ]
+        ]
+    }
+}

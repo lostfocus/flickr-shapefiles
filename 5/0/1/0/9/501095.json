@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 501095,
+    "properties": {
+        "woe_id": 501095,
+        "place_id": "TDNFqaScAZ3Yukk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Konopnica, Lublin, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229327643,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3179\/shapefiles\/501095_20081215_7cbaf6f053.tar.gz"
+        },
+        "bbox": [
+            22.500730514526,
+            51.21949005127,
+            22.508518218994,
+            51.234977722168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.500731,
+                        51.232262
+                    ],
+                    [
+                        22.50354,
+                        51.234978
+                    ],
+                    [
+                        22.508518,
+                        51.221729
+                    ],
+                    [
+                        22.508133,
+                        51.21949
+                    ],
+                    [
+                        22.500731,
+                        51.232262
+                    ]
+                ]
+            ]
+        ]
+    }
+}

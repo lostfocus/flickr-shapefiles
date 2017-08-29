@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 518851,
+    "properties": {
+        "woe_id": 518851,
+        "place_id": "cNMcmY6cAJQjiNY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Smardzewice, Lodz, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438391,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/518851_20101215_1b59cfdce2.tar.gz"
+        },
+        "bbox": [
+            20.036937713623,
+            51.480461120605,
+            20.04616355896,
+            51.488746643066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        20.036938,
+                        51.480461
+                    ],
+                    [
+                        20.036938,
+                        51.480633
+                    ],
+                    [
+                        20.043289,
+                        51.486019
+                    ],
+                    [
+                        20.043804,
+                        51.486275
+                    ],
+                    [
+                        20.046164,
+                        51.488747
+                    ],
+                    [
+                        20.043289,
+                        51.486019
+                    ],
+                    [
+                        20.036938,
+                        51.480461
+                    ]
+                ]
+            ]
+        ]
+    }
+}

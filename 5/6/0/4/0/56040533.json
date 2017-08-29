@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 56040533,
+    "properties": {
+        "woe_id": 56040533,
+        "place_id": "t2uWdaScB5yunAzqjA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lago Blanco, Mendoza, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455532,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/56040533_20101215_9a9a3d5538.tar.gz"
+        },
+        "bbox": [
+            -69.769638061523,
+            -35.905807495117,
+            -69.767990112305,
+            -35.896976470947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.768333,
+                        -35.905807
+                    ],
+                    [
+                        -69.768333,
+                        -35.904762
+                    ],
+                    [
+                        -69.769638,
+                        -35.899506
+                    ],
+                    [
+                        -69.769531,
+                        -35.896976
+                    ],
+                    [
+                        -69.76799,
+                        -35.904835
+                    ],
+                    [
+                        -69.768333,
+                        -35.905807
+                    ]
+                ]
+            ]
+        ]
+    }
+}

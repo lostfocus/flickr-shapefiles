@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55960228,
+    "properties": {
+        "woe_id": 55960228,
+        "place_id": "5UeqCJKcBJUKsBCn.Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest Grove, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442838,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/55960228_20101215_4ec8258678.tar.gz"
+        },
+        "bbox": [
+            -77.043083190918,
+            39.015380859375,
+            -77.037666320801,
+            39.017833709717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.037666,
+                        39.015499
+                    ],
+                    [
+                        -77.042641,
+                        39.015381
+                    ],
+                    [
+                        -77.043083,
+                        39.015717
+                    ],
+                    [
+                        -77.041832,
+                        39.017834
+                    ],
+                    [
+                        -77.040665,
+                        39.017834
+                    ],
+                    [
+                        -77.037666,
+                        39.015499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

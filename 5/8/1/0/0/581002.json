@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 581002,
+    "properties": {
+        "woe_id": 581002,
+        "place_id": "bB8d_3mcCZ0jAio",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bouges-le-Ch\u00e2teau, Centre, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528854,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/581002_20101216_4b8fed95ce.tar.gz"
+        },
+        "bbox": [
+            1.6712950468063,
+            47.039127349854,
+            1.6736979484558,
+            47.042461395264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.671295,
+                        47.042053
+                    ],
+                    [
+                        1.67181,
+                        47.042461
+                    ],
+                    [
+                        1.673462,
+                        47.042404
+                    ],
+                    [
+                        1.673698,
+                        47.040298
+                    ],
+                    [
+                        1.672668,
+                        47.039127
+                    ],
+                    [
+                        1.671295,
+                        47.042053
+                    ]
+                ]
+            ]
+        ]
+    }
+}

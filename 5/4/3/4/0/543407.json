@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 543407,
+    "properties": {
+        "woe_id": 543407,
+        "place_id": "wMSJ3zKcBZ8alcw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Raach, Lower Austria, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234732099,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3138\/shapefiles\/543407_20090215_d39416427e.tar.gz"
+        },
+        "bbox": [
+            15.917128562927,
+            47.639999389648,
+            15.93300819397,
+            47.654979705811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.917129,
+                        47.646076
+                    ],
+                    [
+                        15.919189,
+                        47.65498
+                    ],
+                    [
+                        15.933008,
+                        47.646542
+                    ],
+                    [
+                        15.93,
+                        47.639999
+                    ],
+                    [
+                        15.917129,
+                        47.646076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

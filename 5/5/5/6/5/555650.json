@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 555650,
+    "properties": {
+        "woe_id": 555650,
+        "place_id": "mdNwiQKcBJkcpBs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mullerup Strand, Sjaelland, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515864,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/555650_20101216_fe76503586.tar.gz"
+        },
+        "bbox": [
+            11.15850353241,
+            55.503143310547,
+            11.170177459717,
+            55.508125305176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.170177,
+                        55.504139
+                    ],
+                    [
+                        11.167023,
+                        55.503143
+                    ],
+                    [
+                        11.158504,
+                        55.508125
+                    ],
+                    [
+                        11.165027,
+                        55.506664
+                    ],
+                    [
+                        11.170177,
+                        55.504139
+                    ]
+                ]
+            ]
+        ]
+    }
+}

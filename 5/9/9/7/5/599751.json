@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 599751,
+    "properties": {
+        "woe_id": 599751,
+        "place_id": "JUc2LaecCJUb7nI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Roche, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234539961,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/599751_20090213_fee15fe743.tar.gz"
+        },
+        "bbox": [
+            4.8423948287964,
+            45.011905670166,
+            4.8469438552856,
+            45.018798828125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.843168,
+                        45.011906
+                    ],
+                    [
+                        4.842395,
+                        45.013119
+                    ],
+                    [
+                        4.846944,
+                        45.018799
+                    ],
+                    [
+                        4.846687,
+                        45.016453
+                    ],
+                    [
+                        4.843168,
+                        45.011906
+                    ]
+                ]
+            ]
+        ]
+    }
+}

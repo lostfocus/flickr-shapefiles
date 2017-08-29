@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 550519,
+    "properties": {
+        "woe_id": 550519,
+        "place_id": "pvu76kCcBJw78D8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Burgstall, Tyrol, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546555,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/550519_20101217_90d132f055.tar.gz"
+        },
+        "bbox": [
+            11.859315872192,
+            47.182346343994,
+            11.861457824707,
+            47.183177947998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.860836,
+                        47.183178
+                    ],
+                    [
+                        11.861458,
+                        47.183064
+                    ],
+                    [
+                        11.860779,
+                        47.182858
+                    ],
+                    [
+                        11.859316,
+                        47.182346
+                    ],
+                    [
+                        11.860836,
+                        47.183178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

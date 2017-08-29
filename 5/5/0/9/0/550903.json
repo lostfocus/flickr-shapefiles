@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 550903,
+    "properties": {
+        "woe_id": 550903,
+        "place_id": "lOjQNJKcBJxjC9A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Medraz, Tyrol, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234601649,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3414\/shapefiles\/550903_20090214_48e182b4e4.tar.gz"
+        },
+        "bbox": [
+            11.311367988586,
+            47.139057159424,
+            11.335829734802,
+            47.153244018555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.3348,
+                        47.149334
+                    ],
+                    [
+                        11.33583,
+                        47.139118
+                    ],
+                    [
+                        11.326904,
+                        47.139057
+                    ],
+                    [
+                        11.311368,
+                        47.153244
+                    ],
+                    [
+                        11.3348,
+                        47.149334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

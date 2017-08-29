@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 597250,
+    "properties": {
+        "woe_id": 597250,
+        "place_id": "g1LkpBScCJsDBps",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Capelle, Picardie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292406604,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/597250_20101215_99c4033dd7.tar.gz"
+        },
+        "bbox": [
+            3.9173119068146,
+            49.978923797607,
+            3.9195539951324,
+            49.980701446533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.917312,
+                        49.980701
+                    ],
+                    [
+                        3.919554,
+                        49.978924
+                    ],
+                    [
+                        3.918042,
+                        49.979198
+                    ],
+                    [
+                        3.917355,
+                        49.979271
+                    ],
+                    [
+                        3.917312,
+                        49.980701
+                    ]
+                ]
+            ]
+        ]
+    }
+}

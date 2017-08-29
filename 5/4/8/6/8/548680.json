@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 548680,
+    "properties": {
+        "woe_id": 548680,
+        "place_id": "GO1eLKKcBZRV3FQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Heiligenkreuz, Styria, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521790,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/548680_20101216_b2da2c87f5.tar.gz"
+        },
+        "bbox": [
+            15.578742027283,
+            46.953674316406,
+            15.586434364319,
+            46.961078643799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.586434,
+                        46.955124
+                    ],
+                    [
+                        15.586155,
+                        46.953674
+                    ],
+                    [
+                        15.580726,
+                        46.955219
+                    ],
+                    [
+                        15.578742,
+                        46.955769
+                    ],
+                    [
+                        15.584707,
+                        46.961079
+                    ],
+                    [
+                        15.586434,
+                        46.955124
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55850476,
+    "properties": {
+        "woe_id": 55850476,
+        "place_id": "5tnyE7mcBJTWgPuqWQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hrastnik, Celje, Slovenia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455373,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/55850476_20101215_a484f5f3cf.tar.gz"
+        },
+        "bbox": [
+            15.392019271851,
+            46.310066223145,
+            15.393226623535,
+            46.311958312988
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.392111,
+                        46.311054
+                    ],
+                    [
+                        15.392019,
+                        46.311241
+                    ],
+                    [
+                        15.392488,
+                        46.311958
+                    ],
+                    [
+                        15.392616,
+                        46.311859
+                    ],
+                    [
+                        15.393227,
+                        46.310066
+                    ],
+                    [
+                        15.392111,
+                        46.311054
+                    ]
+                ]
+            ]
+        ]
+    }
+}

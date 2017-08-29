@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56105,
+    "properties": {
+        "woe_id": 56105,
+        "place_id": "txYS2qOcB53IBw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shaba, Aruba"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452187,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/56105_20101215_5095928e0d.tar.gz"
+        },
+        "bbox": [
+            -70.024108886719,
+            12.542498588562,
+            -70.010375976562,
+            12.56067943573
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.022736,
+                        12.559087
+                    ],
+                    [
+                        -70.010376,
+                        12.560679
+                    ],
+                    [
+                        -70.011749,
+                        12.543839
+                    ],
+                    [
+                        -70.021362,
+                        12.542499
+                    ],
+                    [
+                        -70.022736,
+                        12.544509
+                    ],
+                    [
+                        -70.024109,
+                        12.546688
+                    ],
+                    [
+                        -70.022736,
+                        12.559087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

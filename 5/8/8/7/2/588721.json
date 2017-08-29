@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 588721,
+    "properties": {
+        "woe_id": 588721,
+        "place_id": "DyogREacCZTJQ_0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dieffenthal, Alsace, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234473963,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3303\/shapefiles\/588721_20090212_81291806a4.tar.gz"
+        },
+        "bbox": [
+            7.3975749015808,
+            48.299068450928,
+            7.4133682250977,
+            48.311058044434
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.397575,
+                        48.299068
+                    ],
+                    [
+                        7.397918,
+                        48.30101
+                    ],
+                    [
+                        7.397575,
+                        48.311058
+                    ],
+                    [
+                        7.413368,
+                        48.302723
+                    ],
+                    [
+                        7.397575,
+                        48.299068
+                    ]
+                ]
+            ]
+        ]
+    }
+}

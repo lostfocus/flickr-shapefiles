@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 598417,
+    "properties": {
+        "woe_id": 598417,
+        "place_id": "OOUsVO.cCJSvmAk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Garonne, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521759,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/598417_20101216_324fa2cebc.tar.gz"
+        },
+        "bbox": [
+            6.0237898826599,
+            43.078918457031,
+            6.0365581512451,
+            43.094356536865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.02379,
+                        43.094357
+                    ],
+                    [
+                        6.035367,
+                        43.091816
+                    ],
+                    [
+                        6.036558,
+                        43.086769
+                    ],
+                    [
+                        6.028704,
+                        43.078918
+                    ],
+                    [
+                        6.024413,
+                        43.090939
+                    ],
+                    [
+                        6.02379,
+                        43.094357
+                    ]
+                ]
+            ]
+        ]
+    }
+}

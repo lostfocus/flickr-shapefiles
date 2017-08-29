@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 580546,
+    "properties": {
+        "woe_id": 580546,
+        "place_id": "egQgawGcCZyDQAQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Boitron, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234764249,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3203\/shapefiles\/580546_20090216_59ff1b98de.tar.gz"
+        },
+        "bbox": [
+            0.27165400981903,
+            48.553886413574,
+            0.27474400401115,
+            48.558429718018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.274078,
+                        48.553886
+                    ],
+                    [
+                        0.271654,
+                        48.55843
+                    ],
+                    [
+                        0.273606,
+                        48.556046
+                    ],
+                    [
+                        0.274744,
+                        48.55434
+                    ],
+                    [
+                        0.274078,
+                        48.553886
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 550801,
+    "properties": {
+        "woe_id": 550801,
+        "place_id": "s9NFTHacBJw5eZo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kirchbichl, Tyrol, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538420,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/550801_20101216_2a50217b7c.tar.gz"
+        },
+        "bbox": [
+            12.062815666199,
+            47.508460998535,
+            12.080772399902,
+            47.51273727417
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.075862,
+                        47.512737
+                    ],
+                    [
+                        12.080772,
+                        47.509838
+                    ],
+                    [
+                        12.078884,
+                        47.508461
+                    ],
+                    [
+                        12.062816,
+                        47.50975
+                    ],
+                    [
+                        12.075862,
+                        47.512737
+                    ]
+                ]
+            ]
+        ]
+    }
+}

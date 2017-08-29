@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55944475,
+    "properties": {
+        "woe_id": 55944475,
+        "place_id": "_ATr6k6cBJUeKDrNfg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cascata, Rio Grande do Sul, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515030,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/55944475_20101216_0927d6ecd4.tar.gz"
+        },
+        "bbox": [
+            -51.182899475098,
+            -30.101608276367,
+            -51.158828735352,
+            -30.092266082764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.182384,
+                        -30.09984
+                    ],
+                    [
+                        -51.182899,
+                        -30.099506
+                    ],
+                    [
+                        -51.178436,
+                        -30.092266
+                    ],
+                    [
+                        -51.158829,
+                        -30.101608
+                    ],
+                    [
+                        -51.182159,
+                        -30.099878
+                    ],
+                    [
+                        -51.182384,
+                        -30.09984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

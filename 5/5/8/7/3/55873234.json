@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55873234,
+    "properties": {
+        "woe_id": 55873234,
+        "place_id": "EG2PJAmcBJTx2rR9ug",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hammersta, Sodermanland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531137,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/55873234_20101216_1ab20c1f18.tar.gz"
+        },
+        "bbox": [
+            17.192144393921,
+            59.129665374756,
+            17.200525283813,
+            59.13614654541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.200027,
+                        59.129913
+                    ],
+                    [
+                        17.200525,
+                        59.129665
+                    ],
+                    [
+                        17.200123,
+                        59.129765
+                    ],
+                    [
+                        17.194906,
+                        59.130833
+                    ],
+                    [
+                        17.192144,
+                        59.136147
+                    ],
+                    [
+                        17.200027,
+                        59.129913
+                    ]
+                ]
+            ]
+        ]
+    }
+}
