@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 980281,
+    "properties": {
+        "woe_id": 980281,
+        "place_id": "RFPvKnOQCZx1VMA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kirkjubaer, Nordur-Mulasysla, Iceland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456299,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/980281_20101215_8be62bd700.tar.gz"
+        },
+        "bbox": [
+            -14.295271873474,
+            65.522338867188,
+            -14.282722473145,
+            65.540168762207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -14.283872,
+                        65.540138
+                    ],
+                    [
+                        -14.282722,
+                        65.53688
+                    ],
+                    [
+                        -14.284195,
+                        65.522339
+                    ],
+                    [
+                        -14.295272,
+                        65.527901
+                    ],
+                    [
+                        -14.283911,
+                        65.540169
+                    ],
+                    [
+                        -14.283872,
+                        65.540138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

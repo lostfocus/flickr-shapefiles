@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 904326,
+    "properties": {
+        "woe_id": 904326,
+        "place_id": "fOzsWtyQAZjI9dk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Skebokvarn, Sodermanland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234619405,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3433\/shapefiles\/904326_20090214_2710cfd552.tar.gz"
+        },
+        "bbox": [
+            16.716985702515,
+            59.061283111572,
+            16.738271713257,
+            59.063507080078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.729301,
+                        59.061283
+                    ],
+                    [
+                        16.716986,
+                        59.061543
+                    ],
+                    [
+                        16.727457,
+                        59.062756
+                    ],
+                    [
+                        16.738272,
+                        59.063507
+                    ],
+                    [
+                        16.729301,
+                        59.061283
+                    ]
+                ]
+            ]
+        ]
+    }
+}

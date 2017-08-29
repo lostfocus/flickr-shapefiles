@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 9702,
+    "properties": {
+        "woe_id": 9702,
+        "place_id": "5zW8M3qQBpxF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monte Lake, British Columbia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544501,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/9702_20101217_d98054d982.tar.gz"
+        },
+        "bbox": [
+            -119.83525848389,
+            50.486785888672,
+            -119.83062744141,
+            50.505783081055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.833885,
+                        50.49279
+                    ],
+                    [
+                        -119.830627,
+                        50.486786
+                    ],
+                    [
+                        -119.835258,
+                        50.492355
+                    ],
+                    [
+                        -119.834229,
+                        50.505783
+                    ],
+                    [
+                        -119.833885,
+                        50.49279
+                    ]
+                ]
+            ]
+        ]
+    }
+}

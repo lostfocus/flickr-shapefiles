@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 979805,
+    "properties": {
+        "woe_id": 979805,
+        "place_id": "fS39n6iQBpXAr0I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nocher, Diekirch, Luxembourg"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234481285,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3370\/shapefiles\/979805_20090212_5107070605.tar.gz"
+        },
+        "bbox": [
+            5.9601678848267,
+            49.939952850342,
+            5.9750919342041,
+            49.951469421387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.975092,
+                        49.945709
+                    ],
+                    [
+                        5.969524,
+                        49.939953
+                    ],
+                    [
+                        5.960168,
+                        49.951469
+                    ],
+                    [
+                        5.974717,
+                        49.947548
+                    ],
+                    [
+                        5.975092,
+                        49.945709
+                    ]
+                ]
+            ]
+        ]
+    }
+}

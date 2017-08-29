@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 9673,
+    "properties": {
+        "woe_id": 9673,
+        "place_id": "CXPt.wuQB5tW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parson, British Columbia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234731614,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3595\/shapefiles\/9673_20090215_084f46c64a.tar.gz"
+        },
+        "bbox": [
+            -116.65008544922,
+            51.066860198975,
+            -116.63935852051,
+            51.078723907471
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.639359,
+                        51.075054
+                    ],
+                    [
+                        -116.644379,
+                        51.06686
+                    ],
+                    [
+                        -116.64476,
+                        51.067722
+                    ],
+                    [
+                        -116.650085,
+                        51.078724
+                    ],
+                    [
+                        -116.639359,
+                        51.075054
+                    ]
+                ]
+            ]
+        ]
+    }
+}

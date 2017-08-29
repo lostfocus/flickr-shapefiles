@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 961894,
+    "properties": {
+        "woe_id": 961894,
+        "place_id": "cFUhmNCQB53oVJc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sikionia, Peloponnisos, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234700523,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3221\/shapefiles\/961894_20090215_334056f55a.tar.gz"
+        },
+        "bbox": [
+            22.728309631348,
+            38.007423400879,
+            22.755260467529,
+            38.014041900635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.751484,
+                        38.014042
+                    ],
+                    [
+                        22.75526,
+                        38.009892
+                    ],
+                    [
+                        22.733459,
+                        38.008064
+                    ],
+                    [
+                        22.732729,
+                        38.007423
+                    ],
+                    [
+                        22.72831,
+                        38.00996
+                    ],
+                    [
+                        22.733459,
+                        38.008064
+                    ],
+                    [
+                        22.75526,
+                        38.009892
+                    ],
+                    [
+                        22.751484,
+                        38.014042
+                    ]
+                ]
+            ]
+        ]
+    }
+}

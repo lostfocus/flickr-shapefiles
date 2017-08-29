@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 910225,
+    "properties": {
+        "woe_id": 910225,
+        "place_id": "lcUn1jqQAJz3w38",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vrena, Sodermanland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234604886,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3345\/shapefiles\/910225_20090214_bfd1304aa9.tar.gz"
+        },
+        "bbox": [
+            16.63046836853,
+            58.828895568848,
+            16.64626121521,
+            58.849586486816
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.646261,
+                        58.832935
+                    ],
+                    [
+                        16.635532,
+                        58.828896
+                    ],
+                    [
+                        16.630468,
+                        58.846481
+                    ],
+                    [
+                        16.635683,
+                        58.849586
+                    ],
+                    [
+                        16.646261,
+                        58.832935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

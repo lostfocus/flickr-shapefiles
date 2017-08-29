@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 900401,
+    "properties": {
+        "woe_id": 900401,
+        "place_id": "VyGT71aQAZwohHU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Odensbacken, Orebro, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519112,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/900401_20101216_b13cce69bd.tar.gz"
+        },
+        "bbox": [
+            15.568442344666,
+            59.213333129883,
+            15.569804191589,
+            59.214485168457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.568989,
+                        59.213757
+                    ],
+                    [
+                        15.568442,
+                        59.214485
+                    ],
+                    [
+                        15.569804,
+                        59.213333
+                    ],
+                    [
+                        15.569531,
+                        59.213375
+                    ],
+                    [
+                        15.568989,
+                        59.213757
+                    ]
+                ]
+            ]
+        ]
+    }
+}

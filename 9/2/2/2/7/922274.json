@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 922274,
+    "properties": {
+        "woe_id": 922274,
+        "place_id": "jeyF12uQA57A1HA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kholodnaya Balka, Donetsk Oblast, Ukraine"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234684928,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3213\/shapefiles\/922274_20090215_d06b63de91.tar.gz"
+        },
+        "bbox": [
+            38.015956878662,
+            48.047733306885,
+            38.021965026855,
+            48.055480957031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        38.015957,
+                        48.05135
+                    ],
+                    [
+                        38.0163,
+                        48.055481
+                    ],
+                    [
+                        38.020763,
+                        48.053642
+                    ],
+                    [
+                        38.021965,
+                        48.052498
+                    ],
+                    [
+                        38.01836,
+                        48.047733
+                    ],
+                    [
+                        38.015957,
+                        48.05135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

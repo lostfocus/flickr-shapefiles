@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 967653,
+    "properties": {
+        "woe_id": 967653,
+        "place_id": "LU6PL6yQB5uhkcQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bos Van Tillegem, West-Vlaanderen, Belgium"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447807,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/967653_20101215_bfc164b12a.tar.gz"
+        },
+        "bbox": [
+            3.197231054306,
+            51.170177459717,
+            3.2037220001221,
+            51.177394866943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.201285,
+                        51.170658
+                    ],
+                    [
+                        3.197231,
+                        51.170177
+                    ],
+                    [
+                        3.197536,
+                        51.176113
+                    ],
+                    [
+                        3.202493,
+                        51.177395
+                    ],
+                    [
+                        3.203722,
+                        51.173504
+                    ],
+                    [
+                        3.203716,
+                        51.172615
+                    ],
+                    [
+                        3.201285,
+                        51.170658
+                    ]
+                ]
+            ]
+        ]
+    }
+}

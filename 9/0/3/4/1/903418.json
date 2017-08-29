@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 903418,
+    "properties": {
+        "woe_id": 903418,
+        "place_id": "mEZSgDiQAZ8DHUs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sandviken, Stockholm, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447796,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/903418_20101215_e9fc15dc45.tar.gz"
+        },
+        "bbox": [
+            17.511693954468,
+            59.272655487061,
+            17.513311386108,
+            59.273242950439
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.513222,
+                        59.273232
+                    ],
+                    [
+                        17.513311,
+                        59.273243
+                    ],
+                    [
+                        17.513008,
+                        59.273075
+                    ],
+                    [
+                        17.512836,
+                        59.273018
+                    ],
+                    [
+                        17.511694,
+                        59.272655
+                    ],
+                    [
+                        17.513222,
+                        59.273232
+                    ]
+                ]
+            ]
+        ]
+    }
+}

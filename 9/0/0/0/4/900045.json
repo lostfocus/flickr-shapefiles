@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 900045,
+    "properties": {
+        "woe_id": 900045,
+        "place_id": "3xsABLKQAZwEA3E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Norrvikken, Stockholm, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544183,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/900045_20101217_ddb998aab8.tar.gz"
+        },
+        "bbox": [
+            17.90599822998,
+            59.463966369629,
+            17.926843643188,
+            59.486026763916
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.905998,
+                        59.475605
+                    ],
+                    [
+                        17.922316,
+                        59.486027
+                    ],
+                    [
+                        17.920223,
+                        59.479145
+                    ],
+                    [
+                        17.926844,
+                        59.463966
+                    ],
+                    [
+                        17.905998,
+                        59.475605
+                    ]
+                ]
+            ]
+        ]
+    }
+}

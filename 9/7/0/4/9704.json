@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 9704,
+    "properties": {
+        "woe_id": 9704,
+        "place_id": "eI0iGgGQBpwn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gerrard, British Columbia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247995566,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2615\/shapefiles\/9704_20090719_7325999201.tar.gz"
+        },
+        "bbox": [
+            -117.32213592529,
+            50.522102355957,
+            -117.31304168701,
+            50.525760650635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.317848,
+                        50.523579
+                    ],
+                    [
+                        -117.322136,
+                        50.525761
+                    ],
+                    [
+                        -117.319839,
+                        50.525269
+                    ],
+                    [
+                        -117.313042,
+                        50.522102
+                    ],
+                    [
+                        -117.317848,
+                        50.523579
+                    ]
+                ]
+            ]
+        ]
+    }
+}

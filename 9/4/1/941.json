@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 941,
+    "properties": {
+        "woe_id": 941,
+        "place_id": "2qMut4WQBZ0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mary's Harbour, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544060,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/941_20101217_c9f913703b.tar.gz"
+        },
+        "bbox": [
+            -55.845539093018,
+            52.306301116943,
+            -55.830116271973,
+            52.318698883057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -55.835266,
+                        52.318699
+                    ],
+                    [
+                        -55.832695,
+                        52.314705
+                    ],
+                    [
+                        -55.830116,
+                        52.311626
+                    ],
+                    [
+                        -55.837666,
+                        52.311775
+                    ],
+                    [
+                        -55.845539,
+                        52.306301
+                    ],
+                    [
+                        -55.842819,
+                        52.310577
+                    ],
+                    [
+                        -55.835266,
+                        52.318699
+                    ]
+                ]
+            ]
+        ]
+    }
+}
