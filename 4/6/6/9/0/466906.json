@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 466906,
+    "properties": {
+        "woe_id": 466906,
+        "place_id": "gFYZN86dB5pm5VM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bell Ville, Cordoba, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450500,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/466906_20101215_229142e747.tar.gz"
+        },
+        "bbox": [
+            -62.705059051514,
+            -32.639518737793,
+            -62.68798828125,
+            -32.608722686768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -62.703781,
+                        -32.622169
+                    ],
+                    [
+                        -62.705059,
+                        -32.609341
+                    ],
+                    [
+                        -62.695026,
+                        -32.608723
+                    ],
+                    [
+                        -62.689362,
+                        -32.619713
+                    ],
+                    [
+                        -62.689018,
+                        -32.624195
+                    ],
+                    [
+                        -62.687988,
+                        -32.639519
+                    ],
+                    [
+                        -62.703781,
+                        -32.622169
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 456228,
+    "properties": {
+        "woe_id": 456228,
+        "place_id": "azP.vQidBJqWeNs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Igarapava, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226604615,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3235\/shapefiles\/456228_20081113_b102268731.tar.gz"
+        },
+        "bbox": [
+            -47.775077819824,
+            -20.041095733643,
+            -47.769927978516,
+            -20.021902084351
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -47.769928,
+                        -20.041096
+                    ],
+                    [
+                        -47.773361,
+                        -20.041096
+                    ],
+                    [
+                        -47.775078,
+                        -20.022387
+                    ],
+                    [
+                        -47.774391,
+                        -20.021902
+                    ],
+                    [
+                        -47.769928,
+                        -20.041096
+                    ]
+                ]
+            ]
+        ]
+    }
+}

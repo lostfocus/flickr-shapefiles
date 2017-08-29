@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 454125,
+    "properties": {
+        "woe_id": 454125,
+        "place_id": "eD916cidBJhqudQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Trimonte, Minas Gerais, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292357162,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/454125_20101214_6c2098b1aa.tar.gz"
+        },
+        "bbox": [
+            -42.616931915283,
+            -21.728706359863,
+            -42.615924835205,
+            -21.725114822388
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -42.616074,
+                        -21.728689
+                    ],
+                    [
+                        -42.616932,
+                        -21.725239
+                    ],
+                    [
+                        -42.616543,
+                        -21.725115
+                    ],
+                    [
+                        -42.615925,
+                        -21.728706
+                    ],
+                    [
+                        -42.616035,
+                        -21.728701
+                    ],
+                    [
+                        -42.616074,
+                        -21.728689
+                    ]
+                ]
+            ]
+        ]
+    }
+}

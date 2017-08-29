@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 418500,
+    "properties": {
+        "woe_id": 418500,
+        "place_id": "NE5AvzKdAJQXQF4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chincha Alta, Ica, Peru"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533689,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/418500_20101216_7888afdae5.tar.gz"
+        },
+        "bbox": [
+            -76.138343811035,
+            -13.453068733215,
+            -76.11328125,
+            -13.44305229187
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.138,
+                        -13.453069
+                    ],
+                    [
+                        -76.138344,
+                        -13.449396
+                    ],
+                    [
+                        -76.130905,
+                        -13.447696
+                    ],
+                    [
+                        -76.113281,
+                        -13.443052
+                    ],
+                    [
+                        -76.131767,
+                        -13.450701
+                    ],
+                    [
+                        -76.138,
+                        -13.453069
+                    ]
+                ]
+            ]
+        ]
+    }
+}

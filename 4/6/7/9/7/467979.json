@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 467979,
+    "properties": {
+        "woe_id": 467979,
+        "place_id": "pSCC5hmdB5sDMAQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Atalaya, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491142,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/467979_20101216_cf0fb9b9dc.tar.gz"
+        },
+        "bbox": [
+            -57.536430358887,
+            -35.026973724365,
+            -57.522010803223,
+            -35.013366699219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -57.535244,
+                        -35.013859
+                    ],
+                    [
+                        -57.522011,
+                        -35.025288
+                    ],
+                    [
+                        -57.528362,
+                        -35.026974
+                    ],
+                    [
+                        -57.533169,
+                        -35.026691
+                    ],
+                    [
+                        -57.535572,
+                        -35.014576
+                    ],
+                    [
+                        -57.53643,
+                        -35.013367
+                    ],
+                    [
+                        -57.535244,
+                        -35.013859
+                    ]
+                ]
+            ]
+        ]
+    }
+}

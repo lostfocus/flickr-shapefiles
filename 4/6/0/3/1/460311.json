@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 460311,
+    "properties": {
+        "woe_id": 460311,
+        "place_id": "4ghn_NqdB5yRs0w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Osvaldo Cruz, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543820,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/460311_20101216_5e02975325.tar.gz"
+        },
+        "bbox": [
+            -50.88565826416,
+            -21.797170639038,
+            -50.876602172852,
+            -21.791940689087
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -50.885658,
+                        -21.79421
+                    ],
+                    [
+                        -50.884895,
+                        -21.791941
+                    ],
+                    [
+                        -50.880604,
+                        -21.793774
+                    ],
+                    [
+                        -50.878029,
+                        -21.796003
+                    ],
+                    [
+                        -50.876602,
+                        -21.797171
+                    ],
+                    [
+                        -50.885658,
+                        -21.79421
+                    ]
+                ]
+            ]
+        ]
+    }
+}

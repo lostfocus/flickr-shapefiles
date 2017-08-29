@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 456043,
+    "properties": {
+        "woe_id": 456043,
+        "place_id": "ZMjMrrSdBJqsu.4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aquidauana, Mato Grosso do Sul, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519426,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/456043_20101216_ca80c086cb.tar.gz"
+        },
+        "bbox": [
+            -55.803680419922,
+            -20.482500076294,
+            -55.774326324463,
+            -20.470119476318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -55.794998,
+                        -20.4825
+                    ],
+                    [
+                        -55.80368,
+                        -20.470522
+                    ],
+                    [
+                        -55.790291,
+                        -20.470119
+                    ],
+                    [
+                        -55.774326,
+                        -20.47028
+                    ],
+                    [
+                        -55.78661,
+                        -20.475479
+                    ],
+                    [
+                        -55.794998,
+                        -20.4825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

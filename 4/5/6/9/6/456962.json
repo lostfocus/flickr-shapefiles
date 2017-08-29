@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 456962,
+    "properties": {
+        "woe_id": 456962,
+        "place_id": "t92lB46dBJpVMlc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Canudos, Bahia, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537166,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/456962_20101216_d45f661ac0.tar.gz"
+        },
+        "bbox": [
+            -39.161109924316,
+            -10.004014968872,
+            -39.138793945312,
+            -9.9871091842651
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -39.15583,
+                        -9.996319
+                    ],
+                    [
+                        -39.16111,
+                        -9.993702
+                    ],
+                    [
+                        -39.153728,
+                        -9.992434
+                    ],
+                    [
+                        -39.141541,
+                        -9.987109
+                    ],
+                    [
+                        -39.138794,
+                        -10.004015
+                    ],
+                    [
+                        -39.15583,
+                        -9.996319
+                    ]
+                ]
+            ]
+        ]
+    }
+}

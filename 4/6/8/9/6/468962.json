@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 468962,
+    "properties": {
+        "woe_id": 468962,
+        "place_id": "svP1ocudB5QVypE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monteverde, Salta, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292474525,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/468962_20101216_ce99fe8391.tar.gz"
+        },
+        "bbox": [
+            -66.117782592773,
+            -25.683767318726,
+            -66.112632751465,
+            -25.680208206177
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.112633,
+                        -25.680363
+                    ],
+                    [
+                        -66.112633,
+                        -25.681601
+                    ],
+                    [
+                        -66.114006,
+                        -25.683767
+                    ],
+                    [
+                        -66.117783,
+                        -25.680208
+                    ],
+                    [
+                        -66.112633,
+                        -25.680363
+                    ]
+                ]
+            ]
+        ]
+    }
+}

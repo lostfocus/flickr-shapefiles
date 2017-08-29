@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 472858,
+    "properties": {
+        "woe_id": 472858,
+        "place_id": "v7i5RlydBp6X4bM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gr\u00f8nnedal, Vestgronland, Greenland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547266,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/472858_20101217_0ecc7b9eee.tar.gz"
+        },
+        "bbox": [
+            -48.110160827637,
+            61.231986999512,
+            -48.092479705811,
+            61.24743270874
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -48.100033,
+                        61.235622
+                    ],
+                    [
+                        -48.09248,
+                        61.247433
+                    ],
+                    [
+                        -48.095741,
+                        61.232815
+                    ],
+                    [
+                        -48.099346,
+                        61.231987
+                    ],
+                    [
+                        -48.110161,
+                        61.232399
+                    ],
+                    [
+                        -48.100033,
+                        61.235622
+                    ]
+                ]
+            ]
+        ]
+    }
+}

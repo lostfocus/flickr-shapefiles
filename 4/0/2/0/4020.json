@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 4020,
+    "properties": {
+        "woe_id": 4020,
+        "place_id": "WRcjETGdAZ5r",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Portugal Cove South, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458144,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/4020_20101216_5628bdcf2e.tar.gz"
+        },
+        "bbox": [
+            -53.264808654785,
+            46.709854125977,
+            -53.257339477539,
+            46.716327667236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -53.259228,
+                        46.714973
+                    ],
+                    [
+                        -53.258541,
+                        46.712914
+                    ],
+                    [
+                        -53.257339,
+                        46.709854
+                    ],
+                    [
+                        -53.264809,
+                        46.716328
+                    ],
+                    [
+                        -53.262146,
+                        46.715504
+                    ],
+                    [
+                        -53.259228,
+                        46.714973
+                    ]
+                ]
+            ]
+        ]
+    }
+}

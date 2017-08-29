@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 444125,
+    "properties": {
+        "woe_id": 444125,
+        "place_id": "67pTbUqdBZhgWHw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pimenteira, Bahia, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549650,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/444125_20101217_61dd4a6bed.tar.gz"
+        },
+        "bbox": [
+            -38.967132568359,
+            -13.462083816528,
+            -38.956146240234,
+            -13.440380096436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -38.956146,
+                        -13.44205
+                    ],
+                    [
+                        -38.95752,
+                        -13.449229
+                    ],
+                    [
+                        -38.960953,
+                        -13.462084
+                    ],
+                    [
+                        -38.960953,
+                        -13.444053
+                    ],
+                    [
+                        -38.967133,
+                        -13.44038
+                    ],
+                    [
+                        -38.956146,
+                        -13.44205
+                    ]
+                ]
+            ]
+        ]
+    }
+}

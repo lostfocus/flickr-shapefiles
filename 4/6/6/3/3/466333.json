@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 466333,
+    "properties": {
+        "woe_id": 466333,
+        "place_id": "yi.hrMGdB5oTHiU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ranelagh, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520628,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/466333_20101216_c87c29e86b.tar.gz"
+        },
+        "bbox": [
+            -58.208335876465,
+            -34.807601928711,
+            -58.17737197876,
+            -34.786956787109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.207626,
+                        -34.807602
+                    ],
+                    [
+                        -58.208336,
+                        -34.786957
+                    ],
+                    [
+                        -58.184837,
+                        -34.787373
+                    ],
+                    [
+                        -58.177372,
+                        -34.793171
+                    ],
+                    [
+                        -58.19738,
+                        -34.797638
+                    ],
+                    [
+                        -58.207626,
+                        -34.807602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

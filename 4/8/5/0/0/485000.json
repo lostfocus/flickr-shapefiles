@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 485000,
+    "properties": {
+        "woe_id": 485000,
+        "place_id": "B0ZeKiydCZkkVX0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alwernia, Lesser Poland, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248102016,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2567\/shapefiles\/485000_20090720_cff028e103.tar.gz"
+        },
+        "bbox": [
+            19.554119110107,
+            50.096797943115,
+            19.582958221436,
+            50.107479095459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.565964,
+                        50.107479
+                    ],
+                    [
+                        19.570232,
+                        50.103104
+                    ],
+                    [
+                        19.582958,
+                        50.100983
+                    ],
+                    [
+                        19.568195,
+                        50.096798
+                    ],
+                    [
+                        19.554119,
+                        50.099552
+                    ],
+                    [
+                        19.565964,
+                        50.107479
+                    ]
+                ]
+            ]
+        ]
+    }
+}

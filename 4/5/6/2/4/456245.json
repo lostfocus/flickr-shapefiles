@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 456245,
+    "properties": {
+        "woe_id": 456245,
+        "place_id": ".YXvX2KdBJrvhWE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Iraquara, Bahia, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550665,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/456245_20101217_1468e8e5e4.tar.gz"
+        },
+        "bbox": [
+            -41.635780334473,
+            -12.30276966095,
+            -41.624877929688,
+            -12.274508476257
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -41.63578,
+                        -12.284321
+                    ],
+                    [
+                        -41.624878,
+                        -12.274508
+                    ],
+                    [
+                        -41.629944,
+                        -12.284991
+                    ],
+                    [
+                        -41.625824,
+                        -12.30277
+                    ],
+                    [
+                        -41.635052,
+                        -12.284912
+                    ],
+                    [
+                        -41.63578,
+                        -12.284321
+                    ]
+                ]
+            ]
+        ]
+    }
+}

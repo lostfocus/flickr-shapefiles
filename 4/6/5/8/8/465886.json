@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 465886,
+    "properties": {
+        "woe_id": 465886,
+        "place_id": "hAWaZoudB5mhKHM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monte Vera, Santa Fe, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292504645,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/465886_20101216_f9d0529179.tar.gz"
+        },
+        "bbox": [
+            -60.682640075684,
+            -31.518629074097,
+            -60.665302276611,
+            -31.502311706543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -60.678776,
+                        -31.518629
+                    ],
+                    [
+                        -60.68264,
+                        -31.514021
+                    ],
+                    [
+                        -60.678864,
+                        -31.502312
+                    ],
+                    [
+                        -60.673199,
+                        -31.503483
+                    ],
+                    [
+                        -60.665302,
+                        -31.503483
+                    ],
+                    [
+                        -60.678776,
+                        -31.518629
+                    ]
+                ]
+            ]
+        ]
+    }
+}

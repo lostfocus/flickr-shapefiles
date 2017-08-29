@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 4032,
+    "properties": {
+        "woe_id": 4032,
+        "place_id": "dEB9vgWdAZ.P",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Elmwood, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248194930,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2490\/shapefiles\/4032_20090721_74acd247d8.tar.gz"
+        },
+        "bbox": [
+            -81.058586120605,
+            44.2419090271,
+            -81.040649414062,
+            44.248550415039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.057983,
+                        44.243233
+                    ],
+                    [
+                        -81.058586,
+                        44.24855
+                    ],
+                    [
+                        -81.040649,
+                        44.245197
+                    ],
+                    [
+                        -81.056488,
+                        44.241909
+                    ],
+                    [
+                        -81.057983,
+                        44.243233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

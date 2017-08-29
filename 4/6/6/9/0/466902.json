@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 466902,
+    "properties": {
+        "woe_id": 466902,
+        "place_id": "SI90q9WdB5rFIjk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Baradero, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248040322,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2613\/shapefiles\/466902_20090719_54f78005b5.tar.gz"
+        },
+        "bbox": [
+            -59.50984954834,
+            -33.748607635498,
+            -59.506587982178,
+            -33.738185882568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -59.506588,
+                        -33.746609
+                    ],
+                    [
+                        -59.50985,
+                        -33.748608
+                    ],
+                    [
+                        -59.508648,
+                        -33.743256
+                    ],
+                    [
+                        -59.50779,
+                        -33.738186
+                    ],
+                    [
+                        -59.506588,
+                        -33.746609
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 456113,
+    "properties": {
+        "woe_id": 456113,
+        "place_id": "jpElwF2dBJopli4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Campo Belo, Minas Gerais, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543208,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/456113_20101216_b7c80d0159.tar.gz"
+        },
+        "bbox": [
+            -45.275344848633,
+            -20.908931732178,
+            -45.254230499268,
+            -20.887281417847
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -45.25423,
+                        -20.903238
+                    ],
+                    [
+                        -45.264614,
+                        -20.908932
+                    ],
+                    [
+                        -45.269936,
+                        -20.905323
+                    ],
+                    [
+                        -45.273113,
+                        -20.897305
+                    ],
+                    [
+                        -45.275345,
+                        -20.887281
+                    ],
+                    [
+                        -45.258179,
+                        -20.889286
+                    ],
+                    [
+                        -45.25423,
+                        -20.903238
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 456538,
+    "properties": {
+        "woe_id": 456538,
+        "place_id": "JUrPrIWdBJraCqs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sarandi, Rio Grande do Sul, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523005,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/456538_20101216_e81069eb80.tar.gz"
+        },
+        "bbox": [
+            -52.942771911621,
+            -27.940881729126,
+            -52.922859191895,
+            -27.935270309448
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -52.932472,
+                        -27.937393
+                    ],
+                    [
+                        -52.922859,
+                        -27.939745
+                    ],
+                    [
+                        -52.928608,
+                        -27.940882
+                    ],
+                    [
+                        -52.931786,
+                        -27.940046
+                    ],
+                    [
+                        -52.942772,
+                        -27.93527
+                    ],
+                    [
+                        -52.932472,
+                        -27.937393
+                    ]
+                ]
+            ]
+        ]
+    }
+}

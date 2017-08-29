@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 422220,
+    "properties": {
+        "woe_id": 422220,
+        "place_id": "pvrTXGWdA55aKoo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aracruz, Espirito Santo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515685,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/422220_20101216_cbd183a5f8.tar.gz"
+        },
+        "bbox": [
+            -40.281887054443,
+            -19.829774856567,
+            -40.270942687988,
+            -19.80126953125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -40.271072,
+                        -19.815968
+                    ],
+                    [
+                        -40.271072,
+                        -19.817259
+                    ],
+                    [
+                        -40.270943,
+                        -19.829775
+                    ],
+                    [
+                        -40.281887,
+                        -19.819359
+                    ],
+                    [
+                        -40.279655,
+                        -19.80127
+                    ],
+                    [
+                        -40.271072,
+                        -19.815968
+                    ]
+                ]
+            ]
+        ]
+    }
+}

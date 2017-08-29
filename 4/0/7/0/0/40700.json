@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 40700,
+    "properties": {
+        "woe_id": 40700,
+        "place_id": "bjBIO3idAZteIw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Winstone, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527086,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/40700_20101216_2cc42f81e0.tar.gz"
+        },
+        "bbox": [
+            -2.0623390674591,
+            51.781715393066,
+            -2.0372169017792,
+            51.789291381836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.051868,
+                        51.785007
+                    ],
+                    [
+                        -2.037217,
+                        51.783524
+                    ],
+                    [
+                        -2.051739,
+                        51.783691
+                    ],
+                    [
+                        -2.057085,
+                        51.781715
+                    ],
+                    [
+                        -2.062339,
+                        51.789291
+                    ],
+                    [
+                        -2.053834,
+                        51.786667
+                    ],
+                    [
+                        -2.051868,
+                        51.785007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

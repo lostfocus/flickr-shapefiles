@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 468700,
+    "properties": {
+        "woe_id": 468700,
+        "place_id": "zpzueVCdB5RnoYM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Corcovado, Chubut, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533026,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/468700_20101216_a365093240.tar.gz"
+        },
+        "bbox": [
+            -71.474304199219,
+            -43.547801971436,
+            -71.469497680664,
+            -43.536102294922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.474304,
+                        -43.544937
+                    ],
+                    [
+                        -71.473618,
+                        -43.536102
+                    ],
+                    [
+                        -71.469498,
+                        -43.536602
+                    ],
+                    [
+                        -71.472504,
+                        -43.547802
+                    ],
+                    [
+                        -71.474304,
+                        -43.544937
+                    ]
+                ]
+            ]
+        ]
+    }
+}

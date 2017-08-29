@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 456369,
+    "properties": {
+        "woe_id": 456369,
+        "place_id": "cMHh9NOdBJo3eWI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oiapoque, Amapa, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247895364,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3449\/shapefiles\/456369_20090718_9b15b856dd.tar.gz"
+        },
+        "bbox": [
+            -51.841907501221,
+            3.8378779888153,
+            -51.827659606934,
+            3.8681929111481
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.834869,
+                        3.837878
+                    ],
+                    [
+                        -51.841908,
+                        3.842502
+                    ],
+                    [
+                        -51.834183,
+                        3.845414
+                    ],
+                    [
+                        -51.832123,
+                        3.846442
+                    ],
+                    [
+                        -51.82766,
+                        3.868193
+                    ],
+                    [
+                        -51.82869,
+                        3.845928
+                    ],
+                    [
+                        -51.834869,
+                        3.837878
+                    ]
+                ]
+            ]
+        ]
+    }
+}

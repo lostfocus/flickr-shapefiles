@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 444166,
+    "properties": {
+        "woe_id": 444166,
+        "place_id": "PIFYQkmdBZj5EwU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pindorama, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520848,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/444166_20101216_7f99465756.tar.gz"
+        },
+        "bbox": [
+            -48.924179077148,
+            -21.203617095947,
+            -48.907356262207,
+            -21.181049346924
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -48.907356,
+                        -21.189613
+                    ],
+                    [
+                        -48.911133,
+                        -21.203617
+                    ],
+                    [
+                        -48.924179,
+                        -21.198576
+                    ],
+                    [
+                        -48.921089,
+                        -21.193214
+                    ],
+                    [
+                        -48.911133,
+                        -21.181049
+                    ],
+                    [
+                        -48.907356,
+                        -21.189613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

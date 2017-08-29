@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 456635,
+    "properties": {
+        "woe_id": 456635,
+        "place_id": "rO0K7BmdBJq1Jp4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alegre, Espirito Santo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534405,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/456635_20101216_0d49abdf2d.tar.gz"
+        },
+        "bbox": [
+            -41.540336608887,
+            -20.773748397827,
+            -41.514072418213,
+            -20.759323120117
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -41.539993,
+                        -20.762533
+                    ],
+                    [
+                        -41.540337,
+                        -20.759323
+                    ],
+                    [
+                        -41.528492,
+                        -20.762695
+                    ],
+                    [
+                        -41.514072,
+                        -20.770882
+                    ],
+                    [
+                        -41.531452,
+                        -20.773748
+                    ],
+                    [
+                        -41.539993,
+                        -20.762533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

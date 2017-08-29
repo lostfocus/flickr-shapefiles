@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 465030,
+    "properties": {
+        "woe_id": 465030,
+        "place_id": "sBi7u3KdB5kuCd8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chapelco, Neuquen, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248226567,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3514\/shapefiles\/465030_20090722_e01e70fc0f.tar.gz"
+        },
+        "bbox": [
+            -71.2353515625,
+            -40.125339508057,
+            -71.224708557129,
+            -40.108142852783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.225739,
+                        -40.124027
+                    ],
+                    [
+                        -71.226425,
+                        -40.12534
+                    ],
+                    [
+                        -71.231918,
+                        -40.124161
+                    ],
+                    [
+                        -71.235352,
+                        -40.12009
+                    ],
+                    [
+                        -71.224709,
+                        -40.108143
+                    ],
+                    [
+                        -71.225739,
+                        -40.124027
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 447984,
+    "properties": {
+        "woe_id": 447984,
+        "place_id": "0x8lULCdBZty22U",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Salto Grande, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525011,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/447984_20101216_c82a0e2960.tar.gz"
+        },
+        "bbox": [
+            -49.991054534912,
+            -22.893175125122,
+            -49.974746704102,
+            -22.87306022644
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -49.982986,
+                        -22.891199
+                    ],
+                    [
+                        -49.984531,
+                        -22.893175
+                    ],
+                    [
+                        -49.991055,
+                        -22.88685
+                    ],
+                    [
+                        -49.975128,
+                        -22.87306
+                    ],
+                    [
+                        -49.974747,
+                        -22.88258
+                    ],
+                    [
+                        -49.976978,
+                        -22.883924
+                    ],
+                    [
+                        -49.982986,
+                        -22.891199
+                    ]
+                ]
+            ]
+        ]
+    }
+}

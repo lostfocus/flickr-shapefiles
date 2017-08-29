@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 472901,
+    "properties": {
+        "woe_id": 472901,
+        "place_id": "_qdZWSGdBp6cEB0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jakobshavn, Vestgronland, Greenland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491207,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/472901_20101216_e4520e66ae.tar.gz"
+        },
+        "bbox": [
+            -51.112602233887,
+            69.199195861816,
+            -51.08642578125,
+            69.209648132324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.112602,
+                        69.203705
+                    ],
+                    [
+                        -51.107624,
+                        69.203522
+                    ],
+                    [
+                        -51.086426,
+                        69.209648
+                    ],
+                    [
+                        -51.103848,
+                        69.199196
+                    ],
+                    [
+                        -51.112602,
+                        69.203705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

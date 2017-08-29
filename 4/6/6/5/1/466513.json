@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 466513,
+    "properties": {
+        "woe_id": 466513,
+        "place_id": "lBLTu0KdB5rz2rc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spurr, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292498465,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/466513_20101216_f3b30bb773.tar.gz"
+        },
+        "bbox": [
+            -62.246002197266,
+            -38.733867645264,
+            -62.229309082031,
+            -38.713508605957
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -62.232742,
+                        -38.723286
+                    ],
+                    [
+                        -62.236004,
+                        -38.733868
+                    ],
+                    [
+                        -62.246002,
+                        -38.724625
+                    ],
+                    [
+                        -62.233429,
+                        -38.716591
+                    ],
+                    [
+                        -62.229309,
+                        -38.713509
+                    ],
+                    [
+                        -62.232742,
+                        -38.723286
+                    ]
+                ]
+            ]
+        ]
+    }
+}
