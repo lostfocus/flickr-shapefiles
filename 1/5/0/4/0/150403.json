@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 150403,
+    "properties": {
+        "woe_id": 150403,
+        "place_id": "oc9ChLWYBJxrlRI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Urique, Chihuahua, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248299525,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2597\/shapefiles\/150403_20090722_5d5578521f.tar.gz"
+        },
+        "bbox": [
+            -107.92607879639,
+            27.21021270752,
+            -107.91234588623,
+            27.216701507568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.913345,
+                        27.210705
+                    ],
+                    [
+                        -107.916145,
+                        27.210213
+                    ],
+                    [
+                        -107.926079,
+                        27.216702
+                    ],
+                    [
+                        -107.920074,
+                        27.216166
+                    ],
+                    [
+                        -107.913551,
+                        27.215326
+                    ],
+                    [
+                        -107.912346,
+                        27.214792
+                    ],
+                    [
+                        -107.913345,
+                        27.210705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

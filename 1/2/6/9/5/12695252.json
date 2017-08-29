@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695252,
+    "properties": {
+        "woe_id": 12695252,
+        "place_id": "6Gl42imYA5qRdneHFQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sopuerta, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454828,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/12695252_20101215_a1d72afc3b.tar.gz"
+        },
+        "bbox": [
+            -3.1556560993195,
+            43.249195098877,
+            -3.1532471179962,
+            43.250343322754
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.153247,
+                        43.250046
+                    ],
+                    [
+                        -3.154234,
+                        43.24942
+                    ],
+                    [
+                        -3.155254,
+                        43.249195
+                    ],
+                    [
+                        -3.155656,
+                        43.249702
+                    ],
+                    [
+                        -3.154063,
+                        43.250343
+                    ],
+                    [
+                        -3.153247,
+                        43.250046
+                    ]
+                ]
+            ]
+        ]
+    }
+}

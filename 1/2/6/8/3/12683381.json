@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12683381,
+    "properties": {
+        "woe_id": 12683381,
+        "place_id": "Vg6gDPOYA5qiyp7oBg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pont-la-Ville, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247875326,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2489\/shapefiles\/12683381_20090718_2f98ed6e3b.tar.gz"
+        },
+        "bbox": [
+            7.0974249839783,
+            46.695415496826,
+            7.1014590263367,
+            46.699554443359
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.097425,
+                        46.699554
+                    ],
+                    [
+                        7.099828,
+                        46.699348
+                    ],
+                    [
+                        7.100429,
+                        46.699478
+                    ],
+                    [
+                        7.101459,
+                        46.695415
+                    ],
+                    [
+                        7.098369,
+                        46.699024
+                    ],
+                    [
+                        7.097425,
+                        46.699554
+                    ]
+                ]
+            ]
+        ]
+    }
+}

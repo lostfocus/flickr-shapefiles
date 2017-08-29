@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 15002440,
+    "properties": {
+        "woe_id": 15002440,
+        "place_id": "R4puBrGYBJxs_pKfVQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Valea lui Antaloc, Harghita, Romania"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234595646,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3467\/shapefiles\/15002440_20090214_46c53b9943.tar.gz"
+        },
+        "bbox": [
+            25.966186523438,
+            46.567123413086,
+            25.978202819824,
+            46.571842193604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        25.97683,
+                        46.569126
+                    ],
+                    [
+                        25.966187,
+                        46.567123
+                    ],
+                    [
+                        25.976658,
+                        46.571083
+                    ],
+                    [
+                        25.978203,
+                        46.571842
+                    ],
+                    [
+                        25.97683,
+                        46.569126
+                    ]
+                ]
+            ]
+        ]
+    }
+}

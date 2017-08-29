@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12678897,
+    "properties": {
+        "woe_id": 12678897,
+        "place_id": "yEspjCaYA5pGDPWPAw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cordignano, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527685,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/12678897_20101216_4bbd51b459.tar.gz"
+        },
+        "bbox": [
+            12.413380622864,
+            45.973472595215,
+            12.415644645691,
+            45.97562789917
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.415623,
+                        45.974163
+                    ],
+                    [
+                        12.415645,
+                        45.974087
+                    ],
+                    [
+                        12.413381,
+                        45.973473
+                    ],
+                    [
+                        12.414808,
+                        45.975628
+                    ],
+                    [
+                        12.415623,
+                        45.974163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

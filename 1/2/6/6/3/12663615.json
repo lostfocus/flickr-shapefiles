@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12663615,
+    "properties": {
+        "woe_id": 12663615,
+        "place_id": "Z3BXhTGYA5rG8GyUrQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Fajolle, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522288,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/12663615_20101216_ce511a3993.tar.gz"
+        },
+        "bbox": [
+            1.9906280040741,
+            42.732891082764,
+            1.9937299489975,
+            42.734909057617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.990628,
+                        42.732891
+                    ],
+                    [
+                        1.990897,
+                        42.733894
+                    ],
+                    [
+                        1.993331,
+                        42.734909
+                    ],
+                    [
+                        1.99373,
+                        42.734097
+                    ],
+                    [
+                        1.992555,
+                        42.733601
+                    ],
+                    [
+                        1.991822,
+                        42.733429
+                    ],
+                    [
+                        1.990628,
+                        42.732891
+                    ]
+                ]
+            ]
+        ]
+    }
+}

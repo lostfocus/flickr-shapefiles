@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12681441,
+    "properties": {
+        "woe_id": 12681441,
+        "place_id": "vihWEoGYA5pgx.ysiw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Roccantica, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535706,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12681441_20101216_3dcbe00d41.tar.gz"
+        },
+        "bbox": [
+            12.689208030701,
+            42.32039642334,
+            12.694079399109,
+            42.323303222656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.694079,
+                        42.320442
+                    ],
+                    [
+                        12.693489,
+                        42.320396
+                    ],
+                    [
+                        12.689208,
+                        42.323017
+                    ],
+                    [
+                        12.692127,
+                        42.323303
+                    ],
+                    [
+                        12.694079,
+                        42.320442
+                    ]
+                ]
+            ]
+        ]
+    }
+}

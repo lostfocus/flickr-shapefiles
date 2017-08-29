@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12514623,
+    "properties": {
+        "woe_id": 12514623,
+        "place_id": "QEWHjtuYA5m.6Pn7Zw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Prievidza Airport, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470146,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/12514623_20101216_a621f7a382.tar.gz"
+        },
+        "bbox": [
+            18.590518951416,
+            48.768310546875,
+            18.592664718628,
+            48.771564483643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.592278,
+                        48.768608
+                    ],
+                    [
+                        18.592665,
+                        48.768326
+                    ],
+                    [
+                        18.59215,
+                        48.768311
+                    ],
+                    [
+                        18.590519,
+                        48.770855
+                    ],
+                    [
+                        18.590563,
+                        48.771564
+                    ],
+                    [
+                        18.590776,
+                        48.771095
+                    ],
+                    [
+                        18.592278,
+                        48.768608
+                    ]
+                ]
+            ]
+        ]
+    }
+}

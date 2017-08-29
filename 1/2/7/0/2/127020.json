@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 127020,
+    "properties": {
+        "woe_id": 127020,
+        "place_id": "14mzlVaYA5teqkk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Concha, Coahuila de Zaragoza, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550952,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/127020_20101217_cbd5723fdc.tar.gz"
+        },
+        "bbox": [
+            -103.38838195801,
+            25.627286911011,
+            -103.3797454834,
+            25.635984420776
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.379845,
+                        25.630693
+                    ],
+                    [
+                        -103.380234,
+                        25.630054
+                    ],
+                    [
+                        -103.383575,
+                        25.627287
+                    ],
+                    [
+                        -103.384262,
+                        25.628061
+                    ],
+                    [
+                        -103.388382,
+                        25.631931
+                    ],
+                    [
+                        -103.379745,
+                        25.635984
+                    ],
+                    [
+                        -103.379845,
+                        25.630693
+                    ]
+                ]
+            ]
+        ]
+    }
+}

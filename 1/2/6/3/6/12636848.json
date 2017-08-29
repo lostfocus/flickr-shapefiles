@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12636848,
+    "properties": {
+        "woe_id": 12636848,
+        "place_id": "6ohyzZiYA5o_4S65Dw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ainhoa, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549815,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/12636848_20101217_e3dde0fc83.tar.gz"
+        },
+        "bbox": [
+            -1.5013500452042,
+            43.3046875,
+            -1.4981739521027,
+            43.30818939209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.498947,
+                        43.306442
+                    ],
+                    [
+                        -1.498174,
+                        43.304688
+                    ],
+                    [
+                        -1.499462,
+                        43.306316
+                    ],
+                    [
+                        -1.50135,
+                        43.308189
+                    ],
+                    [
+                        -1.499462,
+                        43.307816
+                    ],
+                    [
+                        -1.498947,
+                        43.306442
+                    ]
+                ]
+            ]
+        ]
+    }
+}

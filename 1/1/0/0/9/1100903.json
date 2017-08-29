@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1100903,
+    "properties": {
+        "woe_id": 1100903,
+        "place_id": "48PKFXyYAJwy05o1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cadney, South Australia, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540349,
+        "alpha": 0.00015,
+        "points": 36,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/1100903_20101216_15f0c2ab0e.tar.gz"
+        },
+        "bbox": [
+            134.05603027344,
+            -27.912874221802,
+            134.06149291992,
+            -27.904327392578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        134.056976,
+                        -27.905993
+                    ],
+                    [
+                        134.056366,
+                        -27.905458
+                    ],
+                    [
+                        134.05603,
+                        -27.904327
+                    ],
+                    [
+                        134.057953,
+                        -27.905319
+                    ],
+                    [
+                        134.061493,
+                        -27.912874
+                    ],
+                    [
+                        134.056976,
+                        -27.905993
+                    ]
+                ]
+            ]
+        ]
+    }
+}

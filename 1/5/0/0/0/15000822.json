@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15000822,
+    "properties": {
+        "woe_id": 15000822,
+        "place_id": "4BM_w7KYBJwjT2rsAA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lines\u00f8ya, Sor-Trondelag, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536874,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/15000822_20101216_7c1ab3669c.tar.gz"
+        },
+        "bbox": [
+            9.9449014663696,
+            64.047340393066,
+            9.9509725570679,
+            64.05387878418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.950547,
+                        64.053818
+                    ],
+                    [
+                        9.950973,
+                        64.053497
+                    ],
+                    [
+                        9.944901,
+                        64.04734
+                    ],
+                    [
+                        9.949665,
+                        64.053757
+                    ],
+                    [
+                        9.949836,
+                        64.053879
+                    ],
+                    [
+                        9.950547,
+                        64.053818
+                    ]
+                ]
+            ]
+        ]
+    }
+}

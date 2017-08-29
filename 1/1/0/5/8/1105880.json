@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1105880,
+    "properties": {
+        "woe_id": 1105880,
+        "place_id": "c42mggWYAJzDaw5t",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tarraville, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444257,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/1105880_20101215_1ff90b6ef8.tar.gz"
+        },
+        "bbox": [
+            146.71708679199,
+            -38.635646820068,
+            146.71897888184,
+            -38.634204864502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        146.717133,
+                        -38.635647
+                    ],
+                    [
+                        146.717087,
+                        -38.635593
+                    ],
+                    [
+                        146.717514,
+                        -38.634205
+                    ],
+                    [
+                        146.718979,
+                        -38.634571
+                    ],
+                    [
+                        146.717133,
+                        -38.635647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

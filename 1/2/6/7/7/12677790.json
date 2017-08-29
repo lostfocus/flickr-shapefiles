@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 12677790,
+    "properties": {
+        "woe_id": 12677790,
+        "place_id": "V2xBJGmYA5qF5WcFew",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sant'Angelo Muxaro, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239623780,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3654\/shapefiles\/12677790_20090413_8791056d2a.tar.gz"
+        },
+        "bbox": [
+            13.538675308228,
+            37.477088928223,
+            13.547557830811,
+            37.481582641602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.547558,
+                        37.480343
+                    ],
+                    [
+                        13.54537,
+                        37.480579
+                    ],
+                    [
+                        13.540563,
+                        37.478825
+                    ],
+                    [
+                        13.539619,
+                        37.477089
+                    ],
+                    [
+                        13.538675,
+                        37.477173
+                    ],
+                    [
+                        13.540563,
+                        37.478825
+                    ],
+                    [
+                        13.54537,
+                        37.481583
+                    ],
+                    [
+                        13.547558,
+                        37.480343
+                    ]
+                ]
+            ]
+        ]
+    }
+}

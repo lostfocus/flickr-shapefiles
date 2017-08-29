@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12657920,
+    "properties": {
+        "woe_id": 12657920,
+        "place_id": "2bBco4WYA5p2cbNiLg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brossac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519858,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/12657920_20101216_fe2694121e.tar.gz"
+        },
+        "bbox": [
+            -0.059822998940945,
+            45.328742980957,
+            -0.053215000778437,
+            45.332237243652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.053987,
+                        45.332237
+                    ],
+                    [
+                        -0.053215,
+                        45.329342
+                    ],
+                    [
+                        -0.055146,
+                        45.328743
+                    ],
+                    [
+                        -0.059823,
+                        45.330727
+                    ],
+                    [
+                        -0.056949,
+                        45.331036
+                    ],
+                    [
+                        -0.053987,
+                        45.332237
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695270,
+    "properties": {
+        "woe_id": 12695270,
+        "place_id": "eSMAihyYA5qm3FzB9w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Albatera, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549182,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/12695270_20101217_d576b36e9c.tar.gz"
+        },
+        "bbox": [
+            -0.85946500301361,
+            38.212944030762,
+            -0.85895001888275,
+            38.213924407959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.859412,
+                        38.213013
+                    ],
+                    [
+                        -0.859465,
+                        38.213924
+                    ],
+                    [
+                        -0.85895,
+                        38.213318
+                    ],
+                    [
+                        -0.859145,
+                        38.213112
+                    ],
+                    [
+                        -0.859348,
+                        38.212944
+                    ],
+                    [
+                        -0.859412,
+                        38.213013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

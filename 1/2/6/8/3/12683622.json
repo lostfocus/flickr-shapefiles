@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12683622,
+    "properties": {
+        "woe_id": 12683622,
+        "place_id": "1KC2iPaYA5q3_h03rA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Guggisberg, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520123,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/12683622_20101216_b0b3eec964.tar.gz"
+        },
+        "bbox": [
+            7.3441162109375,
+            46.733264923096,
+            7.3480911254883,
+            46.735626220703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.348036,
+                        46.734882
+                    ],
+                    [
+                        7.344247,
+                        46.733349
+                    ],
+                    [
+                        7.344116,
+                        46.733265
+                    ],
+                    [
+                        7.34539,
+                        46.735626
+                    ],
+                    [
+                        7.348091,
+                        46.734913
+                    ],
+                    [
+                        7.348036,
+                        46.734882
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 15000238,
+    "properties": {
+        "woe_id": 15000238,
+        "place_id": "x3AmYKaYBJyHlhCr5g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rosazza, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471044,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/15000238_20101216_ee01d2e61a.tar.gz"
+        },
+        "bbox": [
+            7.9702367782593,
+            45.67378616333,
+            7.9784340858459,
+            45.682197570801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.977168,
+                        45.676613
+                    ],
+                    [
+                        7.977619,
+                        45.676098
+                    ],
+                    [
+                        7.978434,
+                        45.675137
+                    ],
+                    [
+                        7.975087,
+                        45.673786
+                    ],
+                    [
+                        7.970237,
+                        45.682198
+                    ],
+                    [
+                        7.974486,
+                        45.67992
+                    ],
+                    [
+                        7.977168,
+                        45.676613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

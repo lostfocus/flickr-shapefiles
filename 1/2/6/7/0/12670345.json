@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12670345,
+    "properties": {
+        "woe_id": 12670345,
+        "place_id": "cQOkGs2YA5pKQJavFA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Denis-en-Bugey, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541718,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/12670345_20101216_4698b3f367.tar.gz"
+        },
+        "bbox": [
+            5.3280000686646,
+            45.949611663818,
+            5.3335609436035,
+            45.954132080078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.32927,
+                        45.954117
+                    ],
+                    [
+                        5.329463,
+                        45.954132
+                    ],
+                    [
+                        5.329742,
+                        45.954102
+                    ],
+                    [
+                        5.333561,
+                        45.949867
+                    ],
+                    [
+                        5.333561,
+                        45.949612
+                    ],
+                    [
+                        5.328,
+                        45.951611
+                    ],
+                    [
+                        5.32927,
+                        45.954117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

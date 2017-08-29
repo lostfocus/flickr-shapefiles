@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1580229,
+    "properties": {
+        "woe_id": 1580229,
+        "place_id": "DFw6zWaYBJTb9EFm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Butterworth, Eastern Cape, South Africa"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546048,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/1580229_20101217_57e5de92fc.tar.gz"
+        },
+        "bbox": [
+            28.138732910156,
+            -32.33377456665,
+            28.144226074219,
+            -32.319705963135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        28.144226,
+                        -32.330658
+                    ],
+                    [
+                        28.142338,
+                        -32.331383
+                    ],
+                    [
+                        28.138733,
+                        -32.333775
+                    ],
+                    [
+                        28.140106,
+                        -32.328339
+                    ],
+                    [
+                        28.142509,
+                        -32.319706
+                    ],
+                    [
+                        28.144226,
+                        -32.330658
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12602604,
+    "properties": {
+        "woe_id": 12602604,
+        "place_id": "C_EM8riYA5rcMb_0Vw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fernelmont, Belgium"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248255016,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2578\/shapefiles\/12602604_20090722_983dcd1001.tar.gz"
+        },
+        "bbox": [
+            4.9945411682129,
+            50.583118438721,
+            5.0016222000122,
+            50.586723327637
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.001375,
+                        50.584381
+                    ],
+                    [
+                        4.998468,
+                        50.583118
+                    ],
+                    [
+                        4.994541,
+                        50.584461
+                    ],
+                    [
+                        4.999777,
+                        50.585976
+                    ],
+                    [
+                        5.001622,
+                        50.586723
+                    ],
+                    [
+                        5.001375,
+                        50.584381
+                    ]
+                ]
+            ]
+        ]
+    }
+}

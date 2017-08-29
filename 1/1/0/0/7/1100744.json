@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1100744,
+    "properties": {
+        "woe_id": 1100744,
+        "place_id": "w1O0CnWYAJxMprr0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bulga, New South Wales, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444249,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/1100744_20101215_f183db1f97.tar.gz"
+        },
+        "bbox": [
+            151.06852722168,
+            -32.647178649902,
+            151.07670593262,
+            -32.631206512451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.071747,
+                        -32.631207
+                    ],
+                    [
+                        151.076706,
+                        -32.631317
+                    ],
+                    [
+                        151.071625,
+                        -32.647179
+                    ],
+                    [
+                        151.068527,
+                        -32.642193
+                    ],
+                    [
+                        151.071747,
+                        -32.631207
+                    ]
+                ]
+            ]
+        ]
+    }
+}

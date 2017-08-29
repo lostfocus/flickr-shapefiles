@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12609235,
+    "properties": {
+        "woe_id": 12609235,
+        "place_id": "1owh3AqYA5qoZ1V3sw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rychnov nad Kn\u011b\u017enou, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452036,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/12609235_20101215_ce9992036f.tar.gz"
+        },
+        "bbox": [
+            16.272638320923,
+            50.162673950195,
+            16.279581069946,
+            50.166217803955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.279108,
+                        50.163071
+                    ],
+                    [
+                        16.279581,
+                        50.162674
+                    ],
+                    [
+                        16.276621,
+                        50.162952
+                    ],
+                    [
+                        16.272638,
+                        50.165054
+                    ],
+                    [
+                        16.275537,
+                        50.166218
+                    ],
+                    [
+                        16.279108,
+                        50.163071
+                    ]
+                ]
+            ]
+        ]
+    }
+}

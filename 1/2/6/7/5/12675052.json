@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12675052,
+    "properties": {
+        "woe_id": 12675052,
+        "place_id": "e9LNAo2YA5qLyEB8SA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Peter-Freienstein, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234729924,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3139\/shapefiles\/12675052_20090215_4594d7ebcd.tar.gz"
+        },
+        "bbox": [
+            15.031700134277,
+            47.396198272705,
+            15.035332679749,
+            47.402297973633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.0317,
+                        47.396198
+                    ],
+                    [
+                        15.033166,
+                        47.397835
+                    ],
+                    [
+                        15.033,
+                        47.400833
+                    ],
+                    [
+                        15.034875,
+                        47.402298
+                    ],
+                    [
+                        15.035333,
+                        47.396999
+                    ],
+                    [
+                        15.0317,
+                        47.396198
+                    ]
+                ]
+            ]
+        ]
+    }
+}

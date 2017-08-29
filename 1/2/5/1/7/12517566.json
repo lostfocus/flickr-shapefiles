@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12517566,
+    "properties": {
+        "woe_id": 12517566,
+        "place_id": "pd7792SYA5mkBWj9dQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Salamanca Airport, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531689,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/12517566_20101216_429e27bcb4.tar.gz"
+        },
+        "bbox": [
+            -5.5026049613953,
+            40.940341949463,
+            -5.4979701042175,
+            40.947555541992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.499601,
+                        40.941399
+                    ],
+                    [
+                        -5.50179,
+                        40.940342
+                    ],
+                    [
+                        -5.502605,
+                        40.944313
+                    ],
+                    [
+                        -5.502176,
+                        40.947556
+                    ],
+                    [
+                        -5.49797,
+                        40.945286
+                    ],
+                    [
+                        -5.499601,
+                        40.941399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

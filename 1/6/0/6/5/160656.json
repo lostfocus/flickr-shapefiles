@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 160656,
+    "properties": {
+        "woe_id": 160656,
+        "place_id": "w049oESYB5zAjVw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Almacigo Bajo, Yauco, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234600924,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3309\/shapefiles\/160656_20090214_15cb267266.tar.gz"
+        },
+        "bbox": [
+            -66.871719360352,
+            18.093154907227,
+            -66.861419677734,
+            18.103597640991
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.867767,
+                        18.09609
+                    ],
+                    [
+                        -66.871719,
+                        18.101803
+                    ],
+                    [
+                        -66.868111,
+                        18.103598
+                    ],
+                    [
+                        -66.86142,
+                        18.093155
+                    ],
+                    [
+                        -66.867767,
+                        18.09609
+                    ]
+                ]
+            ]
+        ]
+    }
+}

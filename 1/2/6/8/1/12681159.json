@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12681159,
+    "properties": {
+        "woe_id": 12681159,
+        "place_id": "auoXi7aYA5qSJipxig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Serra San Quirico, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234778521,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3247\/shapefiles\/12681159_20090216_f89738a92b.tar.gz"
+        },
+        "bbox": [
+            13.01365852356,
+            43.446125030518,
+            13.018112182617,
+            43.449802398682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.018112,
+                        43.447311
+                    ],
+                    [
+                        13.016889,
+                        43.446125
+                    ],
+                    [
+                        13.013659,
+                        43.448292
+                    ],
+                    [
+                        13.013852,
+                        43.449802
+                    ],
+                    [
+                        13.018112,
+                        43.447311
+                    ]
+                ]
+            ]
+        ]
+    }
+}

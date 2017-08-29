@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695836,
+    "properties": {
+        "woe_id": 12695836,
+        "place_id": "V8TufYeYA5pJOWbHlQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "London Borough of Richmond upon Thames, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452124,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/12695836_20101215_d210f3d0ac.tar.gz"
+        },
+        "bbox": [
+            -0.27637401223183,
+            51.439083099365,
+            -0.27465799450874,
+            51.44047164917
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.276031,
+                        51.440151
+                    ],
+                    [
+                        -0.276374,
+                        51.440472
+                    ],
+                    [
+                        -0.275859,
+                        51.440311
+                    ],
+                    [
+                        -0.275688,
+                        51.440151
+                    ],
+                    [
+                        -0.274658,
+                        51.439083
+                    ],
+                    [
+                        -0.276031,
+                        51.440151
+                    ]
+                ]
+            ]
+        ]
+    }
+}

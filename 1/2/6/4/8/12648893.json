@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12648893,
+    "properties": {
+        "woe_id": 12648893,
+        "place_id": "vdGkewSYA5prtIXdUQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pont-et-Mass\u00e8ne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247950330,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2628\/shapefiles\/12648893_20090718_7c6105720e.tar.gz"
+        },
+        "bbox": [
+            4.3559069633484,
+            47.46809387207,
+            4.3604989051819,
+            47.471908569336
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.360284,
+                        47.469936
+                    ],
+                    [
+                        4.360499,
+                        47.468094
+                    ],
+                    [
+                        4.358224,
+                        47.468658
+                    ],
+                    [
+                        4.357323,
+                        47.468658
+                    ],
+                    [
+                        4.355907,
+                        47.471909
+                    ],
+                    [
+                        4.360284,
+                        47.469936
+                    ]
+                ]
+            ]
+        ]
+    }
+}

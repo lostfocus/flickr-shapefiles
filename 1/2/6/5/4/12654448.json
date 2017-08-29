@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12654448,
+    "properties": {
+        "woe_id": 12654448,
+        "place_id": "Ev0iuTyYA5qrjkQHBA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villeneuve, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494742,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/12654448_20101216_65030ca2b2.tar.gz"
+        },
+        "bbox": [
+            -0.64081102609634,
+            45.075218200684,
+            -0.63724899291992,
+            45.078521728516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.637939,
+                        45.078007
+                    ],
+                    [
+                        -0.63785,
+                        45.078522
+                    ],
+                    [
+                        -0.637581,
+                        45.077873
+                    ],
+                    [
+                        -0.637249,
+                        45.075581
+                    ],
+                    [
+                        -0.640811,
+                        45.075218
+                    ],
+                    [
+                        -0.637939,
+                        45.078007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

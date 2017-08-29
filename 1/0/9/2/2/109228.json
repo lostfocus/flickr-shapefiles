@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 109228,
+    "properties": {
+        "woe_id": 109228,
+        "place_id": "Xv6_yimYAZVptEM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kempshot, Saint Elizabeth, Jamaica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526122,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/109228_20101216_e58e533796.tar.gz"
+        },
+        "bbox": [
+            -77.866111755371,
+            18.060352325439,
+            -77.843757629395,
+            18.077978134155
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.848434,
+                        18.077978
+                    ],
+                    [
+                        -77.843758,
+                        18.075653
+                    ],
+                    [
+                        -77.850151,
+                        18.071205
+                    ],
+                    [
+                        -77.855301,
+                        18.060352
+                    ],
+                    [
+                        -77.866112,
+                        18.060352
+                    ],
+                    [
+                        -77.861481,
+                        18.071451
+                    ],
+                    [
+                        -77.848434,
+                        18.077978
+                    ]
+                ]
+            ]
+        ]
+    }
+}

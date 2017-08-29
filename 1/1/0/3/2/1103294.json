@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1103294,
+    "properties": {
+        "woe_id": 1103294,
+        "place_id": "oAc3uAOYAJx7kRad",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lake Boga, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529838,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/1103294_20101216_62635e5bf9.tar.gz"
+        },
+        "bbox": [
+            143.62907409668,
+            -35.461471557617,
+            143.64950561523,
+            -35.454238891602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        143.632675,
+                        -35.459831
+                    ],
+                    [
+                        143.631653,
+                        -35.460602
+                    ],
+                    [
+                        143.630096,
+                        -35.461472
+                    ],
+                    [
+                        143.629074,
+                        -35.454239
+                    ],
+                    [
+                        143.649506,
+                        -35.454796
+                    ],
+                    [
+                        143.632675,
+                        -35.459831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

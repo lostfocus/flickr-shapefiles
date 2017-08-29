@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1539,
+    "properties": {
+        "woe_id": 1539,
+        "place_id": "X2c7HjyYBJ_h",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Joseph-de-Sorel, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545082,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/1539_20101217_ea7d67eb0f.tar.gz"
+        },
+        "bbox": [
+            -73.181747436523,
+            46.030776977539,
+            -73.180191040039,
+            46.034328460693
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.181175,
+                        46.030777
+                    ],
+                    [
+                        -73.181747,
+                        46.031029
+                    ],
+                    [
+                        -73.181221,
+                        46.034328
+                    ],
+                    [
+                        -73.180191,
+                        46.031349
+                    ],
+                    [
+                        -73.181175,
+                        46.030777
+                    ]
+                ]
+            ]
+        ]
+    }
+}

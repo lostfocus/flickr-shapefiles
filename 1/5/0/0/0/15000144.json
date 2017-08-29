@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 15000144,
+    "properties": {
+        "woe_id": 15000144,
+        "place_id": "DTG0ZTuYBJwkduUvlg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tankavaara, Lapland, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530086,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/15000144_20101216_4a3e398b78.tar.gz"
+        },
+        "bbox": [
+            27.09228515625,
+            68.175003051758,
+            27.106018066406,
+            68.18253326416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.099377,
+                        68.177071
+                    ],
+                    [
+                        27.097672,
+                        68.177391
+                    ],
+                    [
+                        27.092285,
+                        68.182533
+                    ],
+                    [
+                        27.098551,
+                        68.182343
+                    ],
+                    [
+                        27.106018,
+                        68.180809
+                    ],
+                    [
+                        27.103666,
+                        68.175003
+                    ],
+                    [
+                        27.099377,
+                        68.177071
+                    ]
+                ]
+            ]
+        ]
+    }
+}

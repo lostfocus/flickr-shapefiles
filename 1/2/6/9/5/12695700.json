@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695700,
+    "properties": {
+        "woe_id": 12695700,
+        "place_id": "s61k4C2YA5olDzV3pA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Massanassa, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537521,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/12695700_20101216_3f4fc38889.tar.gz"
+        },
+        "bbox": [
+            -0.36566001176834,
+            39.392295837402,
+            -0.35980200767517,
+            39.395519256592
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.363235,
+                        39.392693
+                    ],
+                    [
+                        -0.365123,
+                        39.392296
+                    ],
+                    [
+                        -0.36566,
+                        39.395519
+                    ],
+                    [
+                        -0.363868,
+                        39.395096
+                    ],
+                    [
+                        -0.359802,
+                        39.395348
+                    ],
+                    [
+                        -0.363235,
+                        39.392693
+                    ]
+                ]
+            ]
+        ]
+    }
+}

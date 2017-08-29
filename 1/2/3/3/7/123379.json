@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 123379,
+    "properties": {
+        "woe_id": 123379,
+        "place_id": "lKKKgk6YA59h0oo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Espinazo, Nuevo Leon, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490965,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/123379_20101216_fdd79c8f9f.tar.gz"
+        },
+        "bbox": [
+            -101.11764526367,
+            26.266883850098,
+            -101.10580444336,
+            26.275714874268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.114731,
+                        26.274618
+                    ],
+                    [
+                        -101.105804,
+                        26.27002
+                    ],
+                    [
+                        -101.107224,
+                        26.266884
+                    ],
+                    [
+                        -101.11261,
+                        26.27006
+                    ],
+                    [
+                        -101.116104,
+                        26.274599
+                    ],
+                    [
+                        -101.117645,
+                        26.275715
+                    ],
+                    [
+                        -101.114731,
+                        26.274618
+                    ]
+                ]
+            ]
+        ]
+    }
+}

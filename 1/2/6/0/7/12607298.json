@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12607298,
+    "properties": {
+        "woe_id": 12607298,
+        "place_id": "U05IADyYA5pwDgEbMg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tvrdkov, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445226,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/12607298_20101215_83e54e1736.tar.gz"
+        },
+        "bbox": [
+            17.207635879517,
+            49.880588531494,
+            17.209352493286,
+            49.886768341064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.207851,
+                        49.884903
+                    ],
+                    [
+                        17.209352,
+                        49.880589
+                    ],
+                    [
+                        17.207636,
+                        49.884956
+                    ],
+                    [
+                        17.208109,
+                        49.886089
+                    ],
+                    [
+                        17.20858,
+                        49.886768
+                    ],
+                    [
+                        17.207851,
+                        49.884903
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12647653,
+    "properties": {
+        "woe_id": 12647653,
+        "place_id": "fni_KtqYA5otCzJCig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pl\u00e9d\u00e9liac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538714,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12647653_20101216_0632704ccf.tar.gz"
+        },
+        "bbox": [
+            -2.3396780490875,
+            48.472202301025,
+            -2.3385419845581,
+            48.473491668701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.338542,
+                        48.473148
+                    ],
+                    [
+                        -2.338553,
+                        48.472572
+                    ],
+                    [
+                        -2.339378,
+                        48.472202
+                    ],
+                    [
+                        -2.339678,
+                        48.473171
+                    ],
+                    [
+                        -2.339057,
+                        48.473492
+                    ],
+                    [
+                        -2.338542,
+                        48.473148
+                    ]
+                ]
+            ]
+        ]
+    }
+}

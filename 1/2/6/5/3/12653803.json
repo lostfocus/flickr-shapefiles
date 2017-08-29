@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12653803,
+    "properties": {
+        "woe_id": 12653803,
+        "place_id": "ZJC4WmmYA5raMZ2GPA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tr\u00e9gomeur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540550,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/12653803_20101216_359fdd039f.tar.gz"
+        },
+        "bbox": [
+            -2.8855409622192,
+            48.565856933594,
+            -2.8824520111084,
+            48.571041107178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.883641,
+                        48.565857
+                    ],
+                    [
+                        -2.883954,
+                        48.566071
+                    ],
+                    [
+                        -2.885541,
+                        48.56752
+                    ],
+                    [
+                        -2.883224,
+                        48.571041
+                    ],
+                    [
+                        -2.882452,
+                        48.567181
+                    ],
+                    [
+                        -2.883641,
+                        48.565857
+                    ]
+                ]
+            ]
+        ]
+    }
+}

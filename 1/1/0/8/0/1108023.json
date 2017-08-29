@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1108023,
+    "properties": {
+        "woe_id": 1108023,
+        "place_id": "8jMpq5aYAJwJEWfk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fuchinobe, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534608,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/1108023_20101216_2309392433.tar.gz"
+        },
+        "bbox": [
+            139.43449401855,
+            35.593044281006,
+            139.43804931641,
+            35.597755432129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.434967,
+                        35.597572
+                    ],
+                    [
+                        139.438049,
+                        35.597755
+                    ],
+                    [
+                        139.436417,
+                        35.593044
+                    ],
+                    [
+                        139.434494,
+                        35.597462
+                    ],
+                    [
+                        139.434967,
+                        35.597572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

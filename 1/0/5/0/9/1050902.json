@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1050902,
+    "properties": {
+        "woe_id": 1050902,
+        "place_id": "MJNZnwaYAZl1GLIU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Port-Olry, Sanma, Vanuatu"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522849,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/1050902_20101216_97d4d88383.tar.gz"
+        },
+        "bbox": [
+            167.06016540527,
+            -15.046097755432,
+            167.08128356934,
+            -15.034326553345
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        167.073044,
+                        -15.043003
+                    ],
+                    [
+                        167.081284,
+                        -15.034327
+                    ],
+                    [
+                        167.073547,
+                        -15.044108
+                    ],
+                    [
+                        167.071671,
+                        -15.046098
+                    ],
+                    [
+                        167.060165,
+                        -15.040959
+                    ],
+                    [
+                        167.073044,
+                        -15.043003
+                    ]
+                ]
+            ]
+        ]
+    }
+}

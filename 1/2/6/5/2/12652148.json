@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12652148,
+    "properties": {
+        "woe_id": 12652148,
+        "place_id": "t2_R4EGYA5qtws9TSQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Agne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551533,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/12652148_20101217_355eef5369.tar.gz"
+        },
+        "bbox": [
+            0.62879502773285,
+            44.845649719238,
+            0.63325798511505,
+            44.84753036499
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.628795,
+                        44.84753
+                    ],
+                    [
+                        0.631027,
+                        44.847076
+                    ],
+                    [
+                        0.632078,
+                        44.846767
+                    ],
+                    [
+                        0.633258,
+                        44.846802
+                    ],
+                    [
+                        0.631231,
+                        44.84565
+                    ],
+                    [
+                        0.629321,
+                        44.846985
+                    ],
+                    [
+                        0.628795,
+                        44.84753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

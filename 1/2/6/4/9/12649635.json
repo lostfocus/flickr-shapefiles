@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12649635,
+    "properties": {
+        "woe_id": 12649635,
+        "place_id": "0JBBqhOYA5qadgtbxw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Plassac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526612,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/12649635_20101216_db136e8143.tar.gz"
+        },
+        "bbox": [
+            -0.64926600456238,
+            45.101760864258,
+            -0.6436870098114,
+            45.103076934814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.646305,
+                        45.102123
+                    ],
+                    [
+                        -0.646927,
+                        45.101761
+                    ],
+                    [
+                        -0.649266,
+                        45.102112
+                    ],
+                    [
+                        -0.647506,
+                        45.102837
+                    ],
+                    [
+                        -0.643687,
+                        45.103077
+                    ],
+                    [
+                        -0.646305,
+                        45.102123
+                    ]
+                ]
+            ]
+        ]
+    }
+}

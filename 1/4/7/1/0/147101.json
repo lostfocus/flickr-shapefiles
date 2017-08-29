@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 147101,
+    "properties": {
+        "woe_id": 147101,
+        "place_id": "C1dIIRqYBZuPBbI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santiago Oxtempan, Michoacan de Ocampo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446865,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/147101_20101215_c2042e4b28.tar.gz"
+        },
+        "bbox": [
+            -100.15153503418,
+            19.764764785767,
+            -100.13986206055,
+            19.769369125366
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.142914,
+                        19.764765
+                    ],
+                    [
+                        -100.151024,
+                        19.765215
+                    ],
+                    [
+                        -100.151535,
+                        19.769369
+                    ],
+                    [
+                        -100.139862,
+                        19.767153
+                    ],
+                    [
+                        -100.141579,
+                        19.765087
+                    ],
+                    [
+                        -100.142914,
+                        19.764765
+                    ]
+                ]
+            ]
+        ]
+    }
+}

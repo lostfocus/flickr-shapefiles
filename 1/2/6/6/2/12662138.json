@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12662138,
+    "properties": {
+        "woe_id": 12662138,
+        "place_id": "sxiRLDKYA5r2JTnHJg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Giroussens, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234823297,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3174\/shapefiles\/12662138_20090216_1da60993a1.tar.gz"
+        },
+        "bbox": [
+            1.7717169523239,
+            43.760276794434,
+            1.7784759998322,
+            43.765857696533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.778476,
+                        43.764359
+                    ],
+                    [
+                        1.777811,
+                        43.760277
+                    ],
+                    [
+                        1.776351,
+                        43.765018
+                    ],
+                    [
+                        1.771717,
+                        43.76136
+                    ],
+                    [
+                        1.77354,
+                        43.765858
+                    ],
+                    [
+                        1.776351,
+                        43.765018
+                    ],
+                    [
+                        1.778476,
+                        43.764359
+                    ]
+                ]
+            ]
+        ]
+    }
+}

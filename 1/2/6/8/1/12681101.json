@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12681101,
+    "properties": {
+        "woe_id": 12681101,
+        "place_id": "5xW3hGqYA5pGeQLg9g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pieve d'Alpago, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536258,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/12681101_20101216_be4cbfde07.tar.gz"
+        },
+        "bbox": [
+            12.350543022156,
+            46.189338684082,
+            12.358244895935,
+            46.195934295654
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.354984,
+                        46.193825
+                    ],
+                    [
+                        12.358245,
+                        46.189339
+                    ],
+                    [
+                        12.352538,
+                        46.191895
+                    ],
+                    [
+                        12.350543,
+                        46.192341
+                    ],
+                    [
+                        12.354426,
+                        46.195934
+                    ],
+                    [
+                        12.356958,
+                        46.195606
+                    ],
+                    [
+                        12.354984,
+                        46.193825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12623890,
+    "properties": {
+        "woe_id": 12623890,
+        "place_id": "dWTKzyWYA5rsQsNgCw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Pfinztal, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497214,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/12623890_20101216_a9974693c2.tar.gz"
+        },
+        "bbox": [
+            8.5103330612183,
+            49.00316619873,
+            8.5192642211914,
+            49.003681182861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.5165,
+                        49.003666
+                    ],
+                    [
+                        8.519264,
+                        49.003681
+                    ],
+                    [
+                        8.516111,
+                        49.003334
+                    ],
+                    [
+                        8.510333,
+                        49.003166
+                    ],
+                    [
+                        8.516166,
+                        49.003666
+                    ],
+                    [
+                        8.5165,
+                        49.003666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

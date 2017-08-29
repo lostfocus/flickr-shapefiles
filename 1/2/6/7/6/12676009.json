@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12676009,
+    "properties": {
+        "woe_id": 12676009,
+        "place_id": "ZUKjRiOYA5ojS7r8DQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Valgrisenche, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248141121,
+        "alpha": 1.0e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3450\/shapefiles\/12676009_20090721_fcc7d01cc7.tar.gz"
+        },
+        "bbox": [
+            7.0422358512878,
+            45.577220916748,
+            7.0477290153503,
+            45.580406188965
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.042236,
+                        45.580044
+                    ],
+                    [
+                        7.045326,
+                        45.579685
+                    ],
+                    [
+                        7.046699,
+                        45.580406
+                    ],
+                    [
+                        7.047729,
+                        45.577583
+                    ],
+                    [
+                        7.042407,
+                        45.577221
+                    ],
+                    [
+                        7.042236,
+                        45.580044
+                    ]
+                ]
+            ]
+        ]
+    }
+}

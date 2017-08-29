@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12640572,
+    "properties": {
+        "woe_id": 12640572,
+        "place_id": "oGjHSjmYA5oJLJ9CFw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cauneille, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547129,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/12640572_20101217_7aecf62140.tar.gz"
+        },
+        "bbox": [
+            -1.0689460039139,
+            43.544860839844,
+            -1.0629700422287,
+            43.546371459961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.068323,
+                        43.544891
+                    ],
+                    [
+                        -1.068838,
+                        43.544861
+                    ],
+                    [
+                        -1.068946,
+                        43.545315
+                    ],
+                    [
+                        -1.068087,
+                        43.545856
+                    ],
+                    [
+                        -1.06297,
+                        43.546371
+                    ],
+                    [
+                        -1.068323,
+                        43.544891
+                    ]
+                ]
+            ]
+        ]
+    }
+}

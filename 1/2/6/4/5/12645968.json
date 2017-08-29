@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12645968,
+    "properties": {
+        "woe_id": 12645968,
+        "place_id": "qaDjFTmYA5okkl8skA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Laurent-des-Vignes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248080286,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2501\/shapefiles\/12645968_20090720_f230247749.tar.gz"
+        },
+        "bbox": [
+            0.47189700603485,
+            44.816791534424,
+            0.47721800208092,
+            44.819229125977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.471897,
+                        44.816792
+                    ],
+                    [
+                        0.472583,
+                        44.818924
+                    ],
+                    [
+                        0.477218,
+                        44.819229
+                    ],
+                    [
+                        0.474429,
+                        44.817829
+                    ],
+                    [
+                        0.471897,
+                        44.816792
+                    ]
+                ]
+            ]
+        ]
+    }
+}

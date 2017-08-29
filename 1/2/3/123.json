@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 123,
+    "properties": {
+        "woe_id": 123,
+        "place_id": "aKm8LC6YA58",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bishop's Falls, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497686,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/123_20101216_42b3236867.tar.gz"
+        },
+        "bbox": [
+            -55.473747253418,
+            49.009952545166,
+            -55.457611083984,
+            49.027286529541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -55.465851,
+                        49.009953
+                    ],
+                    [
+                        -55.473747,
+                        49.013554
+                    ],
+                    [
+                        -55.472546,
+                        49.015804
+                    ],
+                    [
+                        -55.470821,
+                        49.015862
+                    ],
+                    [
+                        -55.457611,
+                        49.027287
+                    ],
+                    [
+                        -55.465851,
+                        49.009953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

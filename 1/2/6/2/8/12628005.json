@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12628005,
+    "properties": {
+        "woe_id": 12628005,
+        "place_id": "3x88AuqYA5pZs6k2rQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Hennweiler, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445260,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/12628005_20101215_515fd1b6a0.tar.gz"
+        },
+        "bbox": [
+            7.4348049163818,
+            49.846618652344,
+            7.4360628128052,
+            49.847248077393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.434822,
+                        49.846645
+                    ],
+                    [
+                        7.434805,
+                        49.846657
+                    ],
+                    [
+                        7.435966,
+                        49.847248
+                    ],
+                    [
+                        7.436063,
+                        49.847237
+                    ],
+                    [
+                        7.434888,
+                        49.846619
+                    ],
+                    [
+                        7.434822,
+                        49.846645
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1365231,
+    "properties": {
+        "woe_id": 1365231,
+        "place_id": "dbk4AgSYApr1t5r2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vatomandry, Toamasina, Madagascar"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506330,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/1365231_20101216_618863dc2b.tar.gz"
+        },
+        "bbox": [
+            48.947353363037,
+            -19.343864440918,
+            48.977737426758,
+            -19.330581665039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        48.966236,
+                        -19.340057
+                    ],
+                    [
+                        48.947353,
+                        -19.330582
+                    ],
+                    [
+                        48.966923,
+                        -19.331068
+                    ],
+                    [
+                        48.976364,
+                        -19.341272
+                    ],
+                    [
+                        48.977737,
+                        -19.343864
+                    ],
+                    [
+                        48.966236,
+                        -19.340057
+                    ]
+                ]
+            ]
+        ]
+    }
+}

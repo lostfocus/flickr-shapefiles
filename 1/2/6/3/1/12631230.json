@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12631230,
+    "properties": {
+        "woe_id": 12631230,
+        "place_id": "3H1rPieYA5pUbGhSMA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Barnin, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524503,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/12631230_20101216_cc84f56129.tar.gz"
+        },
+        "bbox": [
+            11.688840866089,
+            53.59566116333,
+            11.695202827454,
+            53.599464416504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.692113,
+                        53.595661
+                    ],
+                    [
+                        11.688841,
+                        53.599464
+                    ],
+                    [
+                        11.692816,
+                        53.599125
+                    ],
+                    [
+                        11.695203,
+                        53.596859
+                    ],
+                    [
+                        11.693572,
+                        53.595966
+                    ],
+                    [
+                        11.692113,
+                        53.595661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

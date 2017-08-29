@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 123159,
+    "properties": {
+        "woe_id": 123159,
+        "place_id": "w0qv4h6YA58aI70",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Emiliano Zapata, Morelos, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248220818,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2503\/shapefiles\/123159_20090722_2c6a3ee02b.tar.gz"
+        },
+        "bbox": [
+            -99.195266723633,
+            18.825284957886,
+            -99.172897338867,
+            18.837739944458
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.179077,
+                        18.833191
+                    ],
+                    [
+                        -99.189003,
+                        18.826605
+                    ],
+                    [
+                        -99.195267,
+                        18.825285
+                    ],
+                    [
+                        -99.191437,
+                        18.833515
+                    ],
+                    [
+                        -99.183197,
+                        18.83774
+                    ],
+                    [
+                        -99.172897,
+                        18.837414
+                    ],
+                    [
+                        -99.179077,
+                        18.833191
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12668952,
+    "properties": {
+        "woe_id": 12668952,
+        "place_id": "lPuNy02YA5rZJnRGUw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ribouisse, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234527005,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3500\/shapefiles\/12668952_20090213_521db4d4ee.tar.gz"
+        },
+        "bbox": [
+            1.8965140581131,
+            43.182273864746,
+            1.9011490345001,
+            43.184524536133
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.899604,
+                        43.182274
+                    ],
+                    [
+                        1.896514,
+                        43.184277
+                    ],
+                    [
+                        1.900806,
+                        43.184525
+                    ],
+                    [
+                        1.901149,
+                        43.184277
+                    ],
+                    [
+                        1.899604,
+                        43.182274
+                    ]
+                ]
+            ]
+        ]
+    }
+}

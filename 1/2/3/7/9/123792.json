@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 123792,
+    "properties": {
+        "woe_id": 123792,
+        "place_id": "zY.4RtmYA5.TAxk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Frontera Hidalgo, Chiapas, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229689218,
+        "alpha": 0.00015,
+        "points": 74,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3203\/shapefiles\/123792_20081219_acbb8c464e.tar.gz"
+        },
+        "bbox": [
+            -92.178207397461,
+            14.779363632202,
+            -92.170997619629,
+            14.786169052124
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.178207,
+                        14.784011
+                    ],
+                    [
+                        -92.173233,
+                        14.786169
+                    ],
+                    [
+                        -92.170998,
+                        14.779364
+                    ],
+                    [
+                        -92.172974,
+                        14.780857
+                    ],
+                    [
+                        -92.178207,
+                        14.784011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

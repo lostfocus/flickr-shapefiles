@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12605309,
+    "properties": {
+        "woe_id": 12605309,
+        "place_id": "Td52LZeYA5pEvy20RQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Buchlovice, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234844172,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3306\/shapefiles\/12605309_20090217_056684cf6b.tar.gz"
+        },
+        "bbox": [
+            17.332305908203,
+            49.083534240723,
+            17.337284088135,
+            49.086570739746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.337284,
+                        49.084545
+                    ],
+                    [
+                        17.336597,
+                        49.084042
+                    ],
+                    [
+                        17.332306,
+                        49.083534
+                    ],
+                    [
+                        17.335567,
+                        49.086571
+                    ],
+                    [
+                        17.337284,
+                        49.084545
+                    ]
+                ]
+            ]
+        ]
+    }
+}

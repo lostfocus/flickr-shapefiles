@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12652492,
+    "properties": {
+        "woe_id": 12652492,
+        "place_id": "PKAuj2OYA5rPiMiEwA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Georges-du-Vi\u00e8vre, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461383,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/12652492_20101216_21e3e68cac.tar.gz"
+        },
+        "bbox": [
+            0.58405601978302,
+            49.243835449219,
+            0.58675998449326,
+            49.244701385498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.585483,
+                        49.244118
+                    ],
+                    [
+                        0.584989,
+                        49.243835
+                    ],
+                    [
+                        0.584056,
+                        49.244549
+                    ],
+                    [
+                        0.585772,
+                        49.244564
+                    ],
+                    [
+                        0.58676,
+                        49.244701
+                    ],
+                    [
+                        0.585483,
+                        49.244118
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12680251,
+    "properties": {
+        "woe_id": 12680251,
+        "place_id": "GWTc7caYA5oUCY4KdA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mazzo di Valtellina, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461623,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/12680251_20101216_5e21cce5ed.tar.gz"
+        },
+        "bbox": [
+            10.250244140625,
+            46.258220672607,
+            10.256422996521,
+            46.262493133545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.255737,
+                        46.258221
+                    ],
+                    [
+                        10.254964,
+                        46.258865
+                    ],
+                    [
+                        10.250244,
+                        46.260357
+                    ],
+                    [
+                        10.25505,
+                        46.261543
+                    ],
+                    [
+                        10.256423,
+                        46.262493
+                    ],
+                    [
+                        10.255737,
+                        46.258221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

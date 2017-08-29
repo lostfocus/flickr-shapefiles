@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 119008,
+    "properties": {
+        "woe_id": 119008,
+        "place_id": "EpkCuF2YAJVpxP0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "El Alberto, Hidalgo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465642,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/119008_20101216_fd552b7f16.tar.gz"
+        },
+        "bbox": [
+            -99.216842651367,
+            20.418325424194,
+            -99.200706481934,
+            20.438272476196
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.200706,
+                        20.438272
+                    ],
+                    [
+                        -99.202423,
+                        20.427979
+                    ],
+                    [
+                        -99.216843,
+                        20.418325
+                    ],
+                    [
+                        -99.203453,
+                        20.432802
+                    ],
+                    [
+                        -99.200706,
+                        20.438272
+                    ]
+                ]
+            ]
+        ]
+    }
+}

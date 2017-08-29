@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 102885,
+    "properties": {
+        "woe_id": 102885,
+        "place_id": "7to8FkKYAZ55l3g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Estancia, Francisco Moraz\u00e1n, Honduras"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234791257,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3516\/shapefiles\/102885_20090216_142d237714.tar.gz"
+        },
+        "bbox": [
+            -87.044334411621,
+            14.150724411011,
+            -87.042778015137,
+            14.157221794128
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.042778,
+                        14.156944
+                    ],
+                    [
+                        -87.044334,
+                        14.150724
+                    ],
+                    [
+                        -87.043053,
+                        14.157222
+                    ],
+                    [
+                        -87.042778,
+                        14.157222
+                    ],
+                    [
+                        -87.042778,
+                        14.156944
+                    ]
+                ]
+            ]
+        ]
+    }
+}

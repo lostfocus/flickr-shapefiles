@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12677663,
+    "properties": {
+        "woe_id": 12677663,
+        "place_id": "QL8X3WCYA5pEmnuLXw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Carcoforo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521202,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/12677663_20101216_435f6aa9df.tar.gz"
+        },
+        "bbox": [
+            8.0450820922852,
+            45.90881729126,
+            8.0519914627075,
+            45.910690307617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.049373,
+                        45.910557
+                    ],
+                    [
+                        8.051991,
+                        45.91069
+                    ],
+                    [
+                        8.049409,
+                        45.909561
+                    ],
+                    [
+                        8.047898,
+                        45.908817
+                    ],
+                    [
+                        8.045082,
+                        45.90984
+                    ],
+                    [
+                        8.047828,
+                        45.910557
+                    ],
+                    [
+                        8.049373,
+                        45.910557
+                    ]
+                ]
+            ]
+        ]
+    }
+}

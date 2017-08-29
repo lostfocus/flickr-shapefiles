@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12519120,
+    "properties": {
+        "woe_id": 12519120,
+        "place_id": "O0sjRkOYA5mpZNSzGA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Central Wisconsin Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452042,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/12519120_20101215_105ae9a4f7.tar.gz"
+        },
+        "bbox": [
+            -89.671096801758,
+            44.783527374268,
+            -89.66682434082,
+            44.784378051758
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.671097,
+                        44.783539
+                    ],
+                    [
+                        -89.669861,
+                        44.784378
+                    ],
+                    [
+                        -89.666824,
+                        44.783993
+                    ],
+                    [
+                        -89.669823,
+                        44.783527
+                    ],
+                    [
+                        -89.671097,
+                        44.783539
+                    ]
+                ]
+            ]
+        ]
+    }
+}

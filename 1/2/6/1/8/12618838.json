@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12618838,
+    "properties": {
+        "woe_id": 12618838,
+        "place_id": "mVZg6MWYA5prZCByoQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kozy, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470682,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/12618838_20101216_f14853878e.tar.gz"
+        },
+        "bbox": [
+            19.160842895508,
+            49.829845428467,
+            19.164705276489,
+            49.832668304443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.160843,
+                        49.829845
+                    ],
+                    [
+                        19.160843,
+                        49.832668
+                    ],
+                    [
+                        19.164705,
+                        49.830452
+                    ],
+                    [
+                        19.161959,
+                        49.830036
+                    ],
+                    [
+                        19.160843,
+                        49.829845
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 130929,
+    "properties": {
+        "woe_id": 130929,
+        "place_id": "qeTbyYqYApw5Frg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Las Tres Caidas, Nuevo Leon, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438162,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/130929_20101215_9dc4710e43.tar.gz"
+        },
+        "bbox": [
+            -99.169418334961,
+            25.813701629639,
+            -99.167579650879,
+            25.813894271851
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.167618,
+                        25.813894
+                    ],
+                    [
+                        -99.16758,
+                        25.813852
+                    ],
+                    [
+                        -99.167641,
+                        25.813829
+                    ],
+                    [
+                        -99.169403,
+                        25.813702
+                    ],
+                    [
+                        -99.169418,
+                        25.813738
+                    ],
+                    [
+                        -99.167618,
+                        25.813894
+                    ]
+                ]
+            ]
+        ]
+    }
+}

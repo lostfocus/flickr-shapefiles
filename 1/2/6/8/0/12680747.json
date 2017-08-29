@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12680747,
+    "properties": {
+        "woe_id": 12680747,
+        "place_id": "hzXQ61eYA5rF6jQCxA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oleggio, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523482,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/12680747_20101216_2caedeba1b.tar.gz"
+        },
+        "bbox": [
+            8.6371793746948,
+            45.59273147583,
+            8.6438331604004,
+            45.600044250488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.639738,
+                        45.598228
+                    ],
+                    [
+                        8.643833,
+                        45.594002
+                    ],
+                    [
+                        8.642656,
+                        45.592773
+                    ],
+                    [
+                        8.641129,
+                        45.592731
+                    ],
+                    [
+                        8.637179,
+                        45.596794
+                    ],
+                    [
+                        8.638215,
+                        45.600044
+                    ],
+                    [
+                        8.639738,
+                        45.598228
+                    ]
+                ]
+            ]
+        ]
+    }
+}

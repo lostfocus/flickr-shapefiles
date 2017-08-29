@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1968108,
+    "properties": {
+        "woe_id": 1968108,
+        "place_id": "P2nMPoGYCJrHOTlg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Yuval, Hazafon, Israel"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234804815,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3509\/shapefiles\/1968108_20090216_9f3f4cb412.tar.gz"
+        },
+        "bbox": [
+            35.591068267822,
+            33.236389160156,
+            35.598793029785,
+            33.250244140625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        35.59124,
+                        33.241558
+                    ],
+                    [
+                        35.591068,
+                        33.250244
+                    ],
+                    [
+                        35.598793,
+                        33.241703
+                    ],
+                    [
+                        35.59433,
+                        33.236389
+                    ],
+                    [
+                        35.59124,
+                        33.241558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

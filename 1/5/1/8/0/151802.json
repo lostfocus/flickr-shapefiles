@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 151802,
+    "properties": {
+        "woe_id": 151802,
+        "place_id": "wRJujyuYBJ1tnYc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zoquite, Zacatecas, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446921,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/151802_20101215_163279e03a.tar.gz"
+        },
+        "bbox": [
+            -102.42639160156,
+            22.777921676636,
+            -102.41614532471,
+            22.788154602051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.416702,
+                        22.788155
+                    ],
+                    [
+                        -102.416275,
+                        22.788139
+                    ],
+                    [
+                        -102.416145,
+                        22.787897
+                    ],
+                    [
+                        -102.426392,
+                        22.777922
+                    ],
+                    [
+                        -102.416779,
+                        22.787794
+                    ],
+                    [
+                        -102.416702,
+                        22.788155
+                    ]
+                ]
+            ]
+        ]
+    }
+}

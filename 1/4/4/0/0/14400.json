@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 14400,
+    "properties": {
+        "woe_id": 14400,
+        "place_id": "sKKwDu6YBZgRbQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Buckland Filleigh, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541390,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/14400_20101216_0568a7dfc3.tar.gz"
+        },
+        "bbox": [
+            -4.1820650100708,
+            50.860046386719,
+            -4.174633026123,
+            50.86198425293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.182065,
+                        50.861843
+                    ],
+                    [
+                        -4.182016,
+                        50.861961
+                    ],
+                    [
+                        -4.177894,
+                        50.861984
+                    ],
+                    [
+                        -4.174633,
+                        50.860847
+                    ],
+                    [
+                        -4.182047,
+                        50.860046
+                    ],
+                    [
+                        -4.182065,
+                        50.861843
+                    ]
+                ]
+            ]
+        ]
+    }
+}

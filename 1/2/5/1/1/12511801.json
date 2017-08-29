@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12511801,
+    "properties": {
+        "woe_id": 12511801,
+        "place_id": "RR7lP3.YA5kGN9uvAg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Prince George Airport, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541680,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/12511801_20101216_9c353f33f3.tar.gz"
+        },
+        "bbox": [
+            -122.676902771,
+            53.884082794189,
+            -122.67333221436,
+            53.887104034424
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.675079,
+                        53.884083
+                    ],
+                    [
+                        -122.675674,
+                        53.884178
+                    ],
+                    [
+                        -122.676903,
+                        53.887104
+                    ],
+                    [
+                        -122.674713,
+                        53.885979
+                    ],
+                    [
+                        -122.673332,
+                        53.884281
+                    ],
+                    [
+                        -122.675079,
+                        53.884083
+                    ]
+                ]
+            ]
+        ]
+    }
+}

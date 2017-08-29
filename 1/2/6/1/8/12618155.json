@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12618155,
+    "properties": {
+        "woe_id": 12618155,
+        "place_id": "BeEni5qYA5qAPu995w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Krasiczyn, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524460,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/12618155_20101216_2121c5008c.tar.gz"
+        },
+        "bbox": [
+            22.65161895752,
+            49.776275634766,
+            22.655096054077,
+            49.777160644531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.655096,
+                        49.776386
+                    ],
+                    [
+                        22.653637,
+                        49.776276
+                    ],
+                    [
+                        22.651619,
+                        49.776707
+                    ],
+                    [
+                        22.652102,
+                        49.777073
+                    ],
+                    [
+                        22.652264,
+                        49.777161
+                    ],
+                    [
+                        22.65398,
+                        49.776608
+                    ],
+                    [
+                        22.655096,
+                        49.776386
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12675009,
+    "properties": {
+        "woe_id": 12675009,
+        "place_id": "GB_cAlaYA5rICNILlQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Haus, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459051,
+        "alpha": 1.0e-5,
+        "points": 42,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/12675009_20101216_bbf529007f.tar.gz"
+        },
+        "bbox": [
+            13.713854789734,
+            47.436214447021,
+            13.718317985535,
+            47.441612243652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.714708,
+                        47.438435
+                    ],
+                    [
+                        13.713855,
+                        47.440048
+                    ],
+                    [
+                        13.716602,
+                        47.441612
+                    ],
+                    [
+                        13.716773,
+                        47.440365
+                    ],
+                    [
+                        13.718318,
+                        47.436214
+                    ],
+                    [
+                        13.716215,
+                        47.436371
+                    ],
+                    [
+                        13.714708,
+                        47.438435
+                    ]
+                ]
+            ]
+        ]
+    }
+}

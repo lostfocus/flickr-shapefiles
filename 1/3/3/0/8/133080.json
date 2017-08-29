@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 133080,
+    "properties": {
+        "woe_id": 133080,
+        "place_id": "gW7i65qYAp80dyQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mascuala, Jalisco, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234780103,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3450\/shapefiles\/133080_20090216_f76d1770fa.tar.gz"
+        },
+        "bbox": [
+            -103.29242706299,
+            20.728982925415,
+            -103.28610229492,
+            20.742307662964
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.292427,
+                        20.729383
+                    ],
+                    [
+                        -103.287788,
+                        20.742308
+                    ],
+                    [
+                        -103.286102,
+                        20.737471
+                    ],
+                    [
+                        -103.289597,
+                        20.728983
+                    ],
+                    [
+                        -103.292427,
+                        20.729383
+                    ]
+                ]
+            ]
+        ]
+    }
+}

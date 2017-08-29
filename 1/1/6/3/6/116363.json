@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 116363,
+    "properties": {
+        "woe_id": 116363,
+        "place_id": "dzdAFGWYAJqZfOs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ci\u00e9nega de Flores, Nuevo Leon, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247708193,
+        "alpha": 0.5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3521\/shapefiles\/116363_20090716_de6d0649d9.tar.gz"
+        },
+        "bbox": [
+            -100.17625427246,
+            25.899301528931,
+            -100.11685943604,
+            25.99693107605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.176254,
+                        25.915592
+                    ],
+                    [
+                        -100.176254,
+                        25.947355
+                    ],
+                    [
+                        -100.168015,
+                        25.953722
+                    ],
+                    [
+                        -100.116859,
+                        25.996931
+                    ],
+                    [
+                        -100.164673,
+                        25.899302
+                    ],
+                    [
+                        -100.176254,
+                        25.915592
+                    ]
+                ]
+            ]
+        ]
+    }
+}

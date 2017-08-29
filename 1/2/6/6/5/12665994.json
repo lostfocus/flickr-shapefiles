@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665994,
+    "properties": {
+        "woe_id": 12665994,
+        "place_id": "PrCm2mSYA5rqPyl9sA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Madiran, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523421,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/12665994_20101216_353d736482.tar.gz"
+        },
+        "bbox": [
+            -0.060424000024796,
+            43.549667358398,
+            -0.05561799928546,
+            43.553771972656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.058708,
+                        43.549667
+                    ],
+                    [
+                        -0.059501,
+                        43.550667
+                    ],
+                    [
+                        -0.059501,
+                        43.550999
+                    ],
+                    [
+                        -0.060424,
+                        43.553772
+                    ],
+                    [
+                        -0.055618,
+                        43.552155
+                    ],
+                    [
+                        -0.058708,
+                        43.549667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

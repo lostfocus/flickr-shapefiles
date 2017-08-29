@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1017891,
+    "properties": {
+        "woe_id": 1017891,
+        "place_id": "1EkXZXyYAZ3C773U",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tavoy, Tenasserim, Myanmar"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234567929,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3339\/shapefiles\/1017891_20090213_32a55ca67d.tar.gz"
+        },
+        "bbox": [
+            98.190132141113,
+            14.074643135071,
+            98.205070495605,
+            14.085965156555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        98.20507,
+                        14.08122
+                    ],
+                    [
+                        98.190132,
+                        14.074643
+                    ],
+                    [
+                        98.193398,
+                        14.082385
+                    ],
+                    [
+                        98.203522,
+                        14.085965
+                    ],
+                    [
+                        98.20507,
+                        14.08122
+                    ]
+                ]
+            ]
+        ]
+    }
+}

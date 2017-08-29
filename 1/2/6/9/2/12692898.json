@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12692898,
+    "properties": {
+        "woe_id": 12692898,
+        "place_id": "l2f17xqYA5rqaHIa7g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vinuesa, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248310210,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3529\/shapefiles\/12692898_20090723_60212d8baf.tar.gz"
+        },
+        "bbox": [
+            -2.7666659355164,
+            41.911987304688,
+            -2.7644340991974,
+            41.914028167725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.765121,
+                        41.911987
+                    ],
+                    [
+                        -2.765808,
+                        41.911987
+                    ],
+                    [
+                        -2.766666,
+                        41.91256
+                    ],
+                    [
+                        -2.765121,
+                        41.914028
+                    ],
+                    [
+                        -2.764434,
+                        41.912369
+                    ],
+                    [
+                        -2.765121,
+                        41.911987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

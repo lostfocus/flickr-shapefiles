@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12678811,
+    "properties": {
+        "woe_id": 12678811,
+        "place_id": "xbIDHGyYA5rU0dlHgQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Collio, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547494,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/12678811_20101217_2f124b4558.tar.gz"
+        },
+        "bbox": [
+            10.404224395752,
+            45.822578430176,
+            10.407228469849,
+            45.824253082275
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.407228,
+                        45.823956
+                    ],
+                    [
+                        10.407142,
+                        45.822578
+                    ],
+                    [
+                        10.404224,
+                        45.824253
+                    ],
+                    [
+                        10.406455,
+                        45.824253
+                    ],
+                    [
+                        10.407228,
+                        45.823956
+                    ]
+                ]
+            ]
+        ]
+    }
+}

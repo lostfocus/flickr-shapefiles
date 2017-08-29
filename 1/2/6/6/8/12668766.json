@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12668766,
+    "properties": {
+        "woe_id": 12668766,
+        "place_id": "WK29kcmYA5r4BmJtBw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rancogne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540570,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/12668766_20101216_71a9d17323.tar.gz"
+        },
+        "bbox": [
+            0.37962898612022,
+            45.695747375488,
+            0.38048699498177,
+            45.696468353271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.380058,
+                        45.696468
+                    ],
+                    [
+                        0.380487,
+                        45.69611
+                    ],
+                    [
+                        0.380144,
+                        45.695988
+                    ],
+                    [
+                        0.379629,
+                        45.695747
+                    ],
+                    [
+                        0.379714,
+                        45.696167
+                    ],
+                    [
+                        0.380058,
+                        45.696468
+                    ]
+                ]
+            ]
+        ]
+    }
+}

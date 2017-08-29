@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15000123,
+    "properties": {
+        "woe_id": 15000123,
+        "place_id": "p54n3zWYBJwGCWFrqA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lappers, Southern Finland, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520132,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/15000123_20101216_2e01fee436.tar.gz"
+        },
+        "bbox": [
+            24.111385345459,
+            60.17259979248,
+            24.123401641846,
+            60.191890716553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        24.122372,
+                        60.173195
+                    ],
+                    [
+                        24.111385,
+                        60.1847
+                    ],
+                    [
+                        24.111557,
+                        60.191891
+                    ],
+                    [
+                        24.121342,
+                        60.182629
+                    ],
+                    [
+                        24.123402,
+                        60.1726
+                    ],
+                    [
+                        24.122372,
+                        60.173195
+                    ]
+                ]
+            ]
+        ]
+    }
+}

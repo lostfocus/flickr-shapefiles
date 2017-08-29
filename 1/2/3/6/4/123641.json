@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 123641,
+    "properties": {
+        "woe_id": 123641,
+        "place_id": ".iTfXLiYA59ZTCY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ferrer\u00eda Cuatro Octubre, Durango, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540162,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/123641_20101216_7880dbf42d.tar.gz"
+        },
+        "bbox": [
+            -104.66670227051,
+            23.950000762939,
+            -104.66354370117,
+            23.960165023804
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.665451,
+                        23.95919
+                    ],
+                    [
+                        -104.664398,
+                        23.960165
+                    ],
+                    [
+                        -104.663651,
+                        23.959078
+                    ],
+                    [
+                        -104.663544,
+                        23.958876
+                    ],
+                    [
+                        -104.666702,
+                        23.950001
+                    ],
+                    [
+                        -104.665451,
+                        23.95919
+                    ]
+                ]
+            ]
+        ]
+    }
+}

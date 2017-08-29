@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12517572,
+    "properties": {
+        "woe_id": 12517572,
+        "place_id": "uF94iHmYA5lD6sjKKg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Son Bonet Airport, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461021,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/12517572_20101216_9b14bbf6b2.tar.gz"
+        },
+        "bbox": [
+            2.7058548927307,
+            39.603771209717,
+            2.7080860137939,
+            39.604564666748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.705941,
+                        39.604149
+                    ],
+                    [
+                        2.706069,
+                        39.604183
+                    ],
+                    [
+                        2.708086,
+                        39.604565
+                    ],
+                    [
+                        2.706284,
+                        39.603935
+                    ],
+                    [
+                        2.705855,
+                        39.603771
+                    ],
+                    [
+                        2.705941,
+                        39.604149
+                    ]
+                ]
+            ]
+        ]
+    }
+}

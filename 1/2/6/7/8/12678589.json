@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12678589,
+    "properties": {
+        "woe_id": 12678589,
+        "place_id": "h35HNa6YA5rJxEzEog",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chiampo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239489488,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3606\/shapefiles\/12678589_20090411_45ece5660d.tar.gz"
+        },
+        "bbox": [
+            11.275844573975,
+            45.543788909912,
+            11.279503822327,
+            45.548198699951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.279182,
+                        45.547234
+                    ],
+                    [
+                        11.279504,
+                        45.546703
+                    ],
+                    [
+                        11.279354,
+                        45.543789
+                    ],
+                    [
+                        11.276264,
+                        45.544891
+                    ],
+                    [
+                        11.275845,
+                        45.545471
+                    ],
+                    [
+                        11.276714,
+                        45.548199
+                    ],
+                    [
+                        11.279182,
+                        45.547234
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12523513,
+    "properties": {
+        "woe_id": 12523513,
+        "place_id": "nW6TWe2YA5kEAQb1iw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Campinas International Airport, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445146,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/12523513_20101215_86b103afc9.tar.gz"
+        },
+        "bbox": [
+            -47.12126159668,
+            -22.968349456787,
+            -47.119976043701,
+            -22.964626312256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -47.119976,
+                        -22.965792
+                    ],
+                    [
+                        -47.121262,
+                        -22.968349
+                    ],
+                    [
+                        -47.120918,
+                        -22.964626
+                    ],
+                    [
+                        -47.120556,
+                        -22.965208
+                    ],
+                    [
+                        -47.119976,
+                        -22.965792
+                    ]
+                ]
+            ]
+        ]
+    }
+}

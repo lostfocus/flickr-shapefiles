@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12688332,
+    "properties": {
+        "woe_id": 12688332,
+        "place_id": "0m6rMGWYA5pVFv0BwQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Li\u00e9dena, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234786206,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3566\/shapefiles\/12688332_20090216_d60feba6d0.tar.gz"
+        },
+        "bbox": [
+            -1.3022229671478,
+            42.625907897949,
+            -1.3008279800415,
+            42.62878036499
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.302223,
+                        42.626572
+                    ],
+                    [
+                        -1.301708,
+                        42.62878
+                    ],
+                    [
+                        -1.301364,
+                        42.62878
+                    ],
+                    [
+                        -1.300828,
+                        42.628685
+                    ],
+                    [
+                        -1.301643,
+                        42.625908
+                    ],
+                    [
+                        -1.302223,
+                        42.626572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

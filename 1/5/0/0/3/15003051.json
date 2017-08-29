@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15003051,
+    "properties": {
+        "woe_id": 15003051,
+        "place_id": "yC53YcKYBJySYefyVA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Fessey, Franche-Comte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540585,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/15003051_20101216_9282de0608.tar.gz"
+        },
+        "bbox": [
+            6.5024900436401,
+            47.809406280518,
+            6.5191841125488,
+            47.821453094482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.517467,
+                        47.820415
+                    ],
+                    [
+                        6.519184,
+                        47.814724
+                    ],
+                    [
+                        6.50249,
+                        47.809406
+                    ],
+                    [
+                        6.504206,
+                        47.813457
+                    ],
+                    [
+                        6.515665,
+                        47.821453
+                    ],
+                    [
+                        6.517467,
+                        47.820415
+                    ]
+                ]
+            ]
+        ]
+    }
+}

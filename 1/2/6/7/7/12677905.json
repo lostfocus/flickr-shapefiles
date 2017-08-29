@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12677905,
+    "properties": {
+        "woe_id": 12677905,
+        "place_id": "0iQVP3yYA5pMMfhL7w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castelfidardo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547145,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/12677905_20101217_b78231d2c2.tar.gz"
+        },
+        "bbox": [
+            13.558511734009,
+            43.471588134766,
+            13.561171531677,
+            43.480079650879
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.560304,
+                        43.472977
+                    ],
+                    [
+                        13.558512,
+                        43.474274
+                    ],
+                    [
+                        13.558845,
+                        43.48008
+                    ],
+                    [
+                        13.559596,
+                        43.474457
+                    ],
+                    [
+                        13.560454,
+                        43.473289
+                    ],
+                    [
+                        13.561172,
+                        43.471588
+                    ],
+                    [
+                        13.560304,
+                        43.472977
+                    ]
+                ]
+            ]
+        ]
+    }
+}

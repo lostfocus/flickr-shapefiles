@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1101112,
+    "properties": {
+        "woe_id": 1101112,
+        "place_id": "rC9ToN.YAJyB2vRY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Charlton, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521043,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/1101112_20101216_6430351c29.tar.gz"
+        },
+        "bbox": [
+            143.34376525879,
+            -36.275417327881,
+            143.36196899414,
+            -36.261436462402
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        143.351669,
+                        -36.261436
+                    ],
+                    [
+                        143.361969,
+                        -36.275417
+                    ],
+                    [
+                        143.350403,
+                        -36.269009
+                    ],
+                    [
+                        143.343765,
+                        -36.269466
+                    ],
+                    [
+                        143.351669,
+                        -36.261436
+                    ]
+                ]
+            ]
+        ]
+    }
+}

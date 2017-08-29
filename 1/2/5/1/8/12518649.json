@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12518649,
+    "properties": {
+        "woe_id": 12518649,
+        "place_id": "D9S62NOYA5lKMHza.A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arcata Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239499698,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3660\/shapefiles\/12518649_20090412_fdca860434.tar.gz"
+        },
+        "bbox": [
+            -124.11108398438,
+            40.968410491943,
+            -124.1056060791,
+            40.974487304688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -124.105606,
+                        40.970306
+                    ],
+                    [
+                        -124.108009,
+                        40.96978
+                    ],
+                    [
+                        -124.110909,
+                        40.96841
+                    ],
+                    [
+                        -124.111084,
+                        40.968662
+                    ],
+                    [
+                        -124.109032,
+                        40.974487
+                    ],
+                    [
+                        -124.106361,
+                        40.973469
+                    ],
+                    [
+                        -124.105606,
+                        40.970306
+                    ]
+                ]
+            ]
+        ]
+    }
+}

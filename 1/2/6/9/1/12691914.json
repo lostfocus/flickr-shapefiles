@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12691914,
+    "properties": {
+        "woe_id": 12691914,
+        "place_id": "EuSX9MKYA5oavrQDHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Valdepolo, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525888,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/12691914_20101216_d8ee291734.tar.gz"
+        },
+        "bbox": [
+            -5.2896909713745,
+            42.586650848389,
+            -5.2863759994507,
+            42.588989257812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.286537,
+                        42.587204
+                    ],
+                    [
+                        -5.286376,
+                        42.586651
+                    ],
+                    [
+                        -5.287996,
+                        42.587105
+                    ],
+                    [
+                        -5.289691,
+                        42.588989
+                    ],
+                    [
+                        -5.286537,
+                        42.587204
+                    ]
+                ]
+            ]
+        ]
+    }
+}

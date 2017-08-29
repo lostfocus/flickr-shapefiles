@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12617114,
+    "properties": {
+        "woe_id": 12617114,
+        "place_id": "zi1CmaeYA5rvnGfNcw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Srokowo, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234729452,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3654\/shapefiles\/12617114_20090215_e6091f85f3.tar.gz"
+        },
+        "bbox": [
+            21.590538024902,
+            54.206783294678,
+            21.593799591064,
+            54.210998535156
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        21.593456,
+                        54.210148
+                    ],
+                    [
+                        21.5938,
+                        54.208241
+                    ],
+                    [
+                        21.59174,
+                        54.206783
+                    ],
+                    [
+                        21.590538,
+                        54.210999
+                    ],
+                    [
+                        21.593456,
+                        54.210148
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12630345,
+    "properties": {
+        "woe_id": 12630345,
+        "place_id": "ScbUBu2YA5rfcFVQkw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Staufenberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461624,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/12630345_20101216_c37a05cc0e.tar.gz"
+        },
+        "bbox": [
+            9.6578798294067,
+            51.337036132812,
+            9.6624412536621,
+            51.339828491211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.662441,
+                        51.339828
+                    ],
+                    [
+                        9.662441,
+                        51.339222
+                    ],
+                    [
+                        9.662338,
+                        51.337036
+                    ],
+                    [
+                        9.65788,
+                        51.339111
+                    ],
+                    [
+                        9.659019,
+                        51.339653
+                    ],
+                    [
+                        9.662441,
+                        51.339828
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12521761,
+    "properties": {
+        "woe_id": 12521761,
+        "place_id": "lP5qljqYA5kgbZhbRg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Schaumburg Regional Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525694,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/12521761_20101216_f80cc81b05.tar.gz"
+        },
+        "bbox": [
+            -88.103103637695,
+            41.990745544434,
+            -88.102241516113,
+            41.992652893066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.102501,
+                        41.992588
+                    ],
+                    [
+                        -88.102242,
+                        41.992458
+                    ],
+                    [
+                        -88.102669,
+                        41.990746
+                    ],
+                    [
+                        -88.103104,
+                        41.992653
+                    ],
+                    [
+                        -88.102501,
+                        41.992588
+                    ]
+                ]
+            ]
+        ]
+    }
+}

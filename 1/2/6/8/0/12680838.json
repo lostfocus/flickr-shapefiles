@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12680838,
+    "properties": {
+        "woe_id": 12680838,
+        "place_id": "qll0bf2YA5qnVx5w3g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Telve, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457245,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/12680838_20101215_9ec023e935.tar.gz"
+        },
+        "bbox": [
+            11.437796592712,
+            46.171745300293,
+            11.443548202515,
+            46.176975250244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.441595,
+                        46.173233
+                    ],
+                    [
+                        11.441261,
+                        46.173317
+                    ],
+                    [
+                        11.437797,
+                        46.176975
+                    ],
+                    [
+                        11.441702,
+                        46.173412
+                    ],
+                    [
+                        11.442689,
+                        46.172997
+                    ],
+                    [
+                        11.443548,
+                        46.171745
+                    ],
+                    [
+                        11.441595,
+                        46.173233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

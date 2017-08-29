@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12657962,
+    "properties": {
+        "woe_id": 12657962,
+        "place_id": "RJFZiMuYA5qmVTDNEA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bruille-lez-Marchiennes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520125,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/12657962_20101216_ef30a1bb3a.tar.gz"
+        },
+        "bbox": [
+            3.2472319602966,
+            50.363422393799,
+            3.2516949176788,
+            50.368923187256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.251695,
+                        50.365692
+                    ],
+                    [
+                        3.251008,
+                        50.364025
+                    ],
+                    [
+                        3.249764,
+                        50.363888
+                    ],
+                    [
+                        3.247232,
+                        50.363422
+                    ],
+                    [
+                        3.249979,
+                        50.368923
+                    ],
+                    [
+                        3.251695,
+                        50.365692
+                    ]
+                ]
+            ]
+        ]
+    }
+}

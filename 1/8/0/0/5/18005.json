@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 18005,
+    "properties": {
+        "woe_id": 18005,
+        "place_id": "WREsbtaYCZzT9g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dearg Phort, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458215,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/18005_20101216_f8e179e22b.tar.gz"
+        },
+        "bbox": [
+            -6.3540449142456,
+            56.344230651855,
+            -6.3483810424805,
+            56.346515655518
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.348724,
+                        56.345276
+                    ],
+                    [
+                        -6.348381,
+                        56.344231
+                    ],
+                    [
+                        -6.354045,
+                        56.344421
+                    ],
+                    [
+                        -6.352254,
+                        56.346516
+                    ],
+                    [
+                        -6.35044,
+                        56.345848
+                    ],
+                    [
+                        -6.348724,
+                        56.345276
+                    ]
+                ]
+            ]
+        ]
+    }
+}

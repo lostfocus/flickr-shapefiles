@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12666288,
+    "properties": {
+        "woe_id": 12666288,
+        "place_id": "BAhcojCYA5rwMXnB2Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Maroilles, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540269,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/12666288_20101216_608a626b24.tar.gz"
+        },
+        "bbox": [
+            3.7569799423218,
+            50.130043029785,
+            3.7623450756073,
+            50.135406494141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.757109,
+                        50.133507
+                    ],
+                    [
+                        3.760929,
+                        50.134995
+                    ],
+                    [
+                        3.762345,
+                        50.135406
+                    ],
+                    [
+                        3.762216,
+                        50.133163
+                    ],
+                    [
+                        3.759298,
+                        50.131001
+                    ],
+                    [
+                        3.75698,
+                        50.130043
+                    ],
+                    [
+                        3.757109,
+                        50.133507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

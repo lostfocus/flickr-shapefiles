@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12647400,
+    "properties": {
+        "woe_id": 12647400,
+        "place_id": "741m8HuYA5rh08a3xQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Mas-d'Agenais, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441464,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/12647400_20101215_4dd29f466e.tar.gz"
+        },
+        "bbox": [
+            0.21766600012779,
+            44.411617279053,
+            0.21903899312019,
+            44.412937164307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.217666,
+                        44.412693
+                    ],
+                    [
+                        0.219039,
+                        44.412937
+                    ],
+                    [
+                        0.218106,
+                        44.411678
+                    ],
+                    [
+                        0.217806,
+                        44.411617
+                    ],
+                    [
+                        0.217666,
+                        44.412693
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12628379,
+    "properties": {
+        "woe_id": 12628379,
+        "place_id": "HsK1t3KYA5oQAjE.Gw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde H\u00fcmmerich, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452058,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/12628379_20101215_75818d255f.tar.gz"
+        },
+        "bbox": [
+            7.4882531166077,
+            50.563034057617,
+            7.4931750297546,
+            50.565288543701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.488253,
+                        50.564495
+                    ],
+                    [
+                        7.489008,
+                        50.565289
+                    ],
+                    [
+                        7.489111,
+                        50.565239
+                    ],
+                    [
+                        7.492778,
+                        50.56498
+                    ],
+                    [
+                        7.493175,
+                        50.563034
+                    ],
+                    [
+                        7.488253,
+                        50.564495
+                    ]
+                ]
+            ]
+        ]
+    }
+}

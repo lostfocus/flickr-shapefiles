@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12677345,
+    "properties": {
+        "woe_id": 12677345,
+        "place_id": "vZ4s54aYA5rZhLun4g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Calusco d'Adda, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542295,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/12677345_20101216_b25778f20e.tar.gz"
+        },
+        "bbox": [
+            9.4709005355835,
+            45.683456420898,
+            9.473991394043,
+            45.688194274902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.471185,
+                        45.684254
+                    ],
+                    [
+                        9.470901,
+                        45.683456
+                    ],
+                    [
+                        9.470901,
+                        45.684307
+                    ],
+                    [
+                        9.471073,
+                        45.684628
+                    ],
+                    [
+                        9.473991,
+                        45.688194
+                    ],
+                    [
+                        9.471185,
+                        45.684254
+                    ]
+                ]
+            ]
+        ]
+    }
+}

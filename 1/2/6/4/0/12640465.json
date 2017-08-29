@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12640465,
+    "properties": {
+        "woe_id": 12640465,
+        "place_id": "yRz_6OyYA5qm0Y3s4g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Carville, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535165,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12640465_20101216_bc54fb96a5.tar.gz"
+        },
+        "bbox": [
+            -0.8658059835434,
+            48.950408935547,
+            -0.86433702707291,
+            48.953006744385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.865328,
+                        48.952667
+                    ],
+                    [
+                        -0.864337,
+                        48.951813
+                    ],
+                    [
+                        -0.864342,
+                        48.950409
+                    ],
+                    [
+                        -0.865695,
+                        48.952141
+                    ],
+                    [
+                        -0.865806,
+                        48.952976
+                    ],
+                    [
+                        -0.865695,
+                        48.953007
+                    ],
+                    [
+                        -0.865328,
+                        48.952667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

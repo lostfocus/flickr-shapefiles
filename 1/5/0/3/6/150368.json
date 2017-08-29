@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 150368,
+    "properties": {
+        "woe_id": 150368,
+        "place_id": "1PNjZ0WYBJyy9mg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Unidad Modelo, Distrito Federal, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234508643,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3347\/shapefiles\/150368_20090213_c49964d78a.tar.gz"
+        },
+        "bbox": [
+            -99.118309020996,
+            19.357469558716,
+            -99.103713989258,
+            19.368482589722
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.115387,
+                        19.368483
+                    ],
+                    [
+                        -99.103714,
+                        19.35747
+                    ],
+                    [
+                        -99.112129,
+                        19.359413
+                    ],
+                    [
+                        -99.118309,
+                        19.365244
+                    ],
+                    [
+                        -99.115387,
+                        19.368483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

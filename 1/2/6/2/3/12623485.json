@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12623485,
+    "properties": {
+        "woe_id": 12623485,
+        "place_id": "tKXxfOmYA5pcvE4uQQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde D\u00fcrbheim, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234637881,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3483\/shapefiles\/12623485_20090214_97365eeb31.tar.gz"
+        },
+        "bbox": [
+            8.7967872619629,
+            48.056259155273,
+            8.7988681793213,
+            48.056648254395
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.796787,
+                        48.056568
+                    ],
+                    [
+                        8.79728,
+                        48.056648
+                    ],
+                    [
+                        8.798868,
+                        48.056477
+                    ],
+                    [
+                        8.796958,
+                        48.056259
+                    ],
+                    [
+                        8.796787,
+                        48.056568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

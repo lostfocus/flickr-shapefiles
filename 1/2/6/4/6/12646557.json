@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12646557,
+    "properties": {
+        "woe_id": 12646557,
+        "place_id": "6peUPaaYA5qoxP_cPg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Queue-en-Brie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234624681,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3403\/shapefiles\/12646557_20090214_64a29f1452.tar.gz"
+        },
+        "bbox": [
+            2.5812718868256,
+            48.763233184814,
+            2.5872800350189,
+            48.766513824463
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.58728,
+                        48.763401
+                    ],
+                    [
+                        2.581872,
+                        48.763233
+                    ],
+                    [
+                        2.581272,
+                        48.763657
+                    ],
+                    [
+                        2.58625,
+                        48.766514
+                    ],
+                    [
+                        2.58728,
+                        48.763401
+                    ]
+                ]
+            ]
+        ]
+    }
+}

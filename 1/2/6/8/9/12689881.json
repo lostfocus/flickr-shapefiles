@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12689881,
+    "properties": {
+        "woe_id": 12689881,
+        "place_id": "6MfcqU6YA5oaB5d4Wg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Berrueco, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544215,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/12689881_20101217_97f10cf977.tar.gz"
+        },
+        "bbox": [
+            -1.4704509973526,
+            40.990653991699,
+            -1.4653010368347,
+            40.991561889648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.466428,
+                        40.991478
+                    ],
+                    [
+                        -1.465301,
+                        40.990654
+                    ],
+                    [
+                        -1.465988,
+                        40.991001
+                    ],
+                    [
+                        -1.466599,
+                        40.991219
+                    ],
+                    [
+                        -1.470451,
+                        40.991562
+                    ],
+                    [
+                        -1.466428,
+                        40.991478
+                    ]
+                ]
+            ]
+        ]
+    }
+}

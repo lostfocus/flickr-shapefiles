@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1103671,
+    "properties": {
+        "woe_id": 1103671,
+        "place_id": "HSgGdcqYAJxS8gV6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mannus, New South Wales, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234765207,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3544\/shapefiles\/1103671_20090216_8017debda7.tar.gz"
+        },
+        "bbox": [
+            147.97549438477,
+            -35.811832427979,
+            147.97917175293,
+            -35.808498382568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        147.979172,
+                        -35.811665
+                    ],
+                    [
+                        147.979172,
+                        -35.811832
+                    ],
+                    [
+                        147.977493,
+                        -35.811001
+                    ],
+                    [
+                        147.975494,
+                        -35.808498
+                    ],
+                    [
+                        147.979004,
+                        -35.811501
+                    ],
+                    [
+                        147.979172,
+                        -35.811665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 142356,
+    "properties": {
+        "woe_id": 142356,
+        "place_id": "QWD_Xu6YBZ4JkVM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Felipe, Guanajuato, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541938,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/142356_20101216_df43b733ba.tar.gz"
+        },
+        "bbox": [
+            -101.22184753418,
+            21.475433349609,
+            -101.212059021,
+            21.489889144897
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.215118,
+                        21.478201
+                    ],
+                    [
+                        -101.221848,
+                        21.475433
+                    ],
+                    [
+                        -101.221031,
+                        21.488531
+                    ],
+                    [
+                        -101.213951,
+                        21.489889
+                    ],
+                    [
+                        -101.212059,
+                        21.481789
+                    ],
+                    [
+                        -101.215118,
+                        21.478201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

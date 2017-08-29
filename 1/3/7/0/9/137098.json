@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 137098,
+    "properties": {
+        "woe_id": 137098,
+        "place_id": "CRTmCYeYApu6BNc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Popola, Yucatan, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544077,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/137098_20101217_99008a539b.tar.gz"
+        },
+        "bbox": [
+            -88.204765319824,
+            20.740631103516,
+            -88.202812194824,
+            20.753145217896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.202812,
+                        20.741335
+                    ],
+                    [
+                        -88.203079,
+                        20.740631
+                    ],
+                    [
+                        -88.204765,
+                        20.742628
+                    ],
+                    [
+                        -88.202904,
+                        20.753145
+                    ],
+                    [
+                        -88.202812,
+                        20.741335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

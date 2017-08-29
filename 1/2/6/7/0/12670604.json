@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12670604,
+    "properties": {
+        "woe_id": 12670604,
+        "place_id": "KfcBCkGYA5rA3CFOWA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Jean-de-Thouars, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547039,
+        "alpha": 1.0e-5,
+        "points": 42,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/12670604_20101217_10bd73352f.tar.gz"
+        },
+        "bbox": [
+            -0.20891100168228,
+            46.963237762451,
+            -0.20580799877644,
+            46.96658706665
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.208409,
+                        46.966526
+                    ],
+                    [
+                        -0.208062,
+                        46.966587
+                    ],
+                    [
+                        -0.205808,
+                        46.965839
+                    ],
+                    [
+                        -0.208911,
+                        46.963238
+                    ],
+                    [
+                        -0.208911,
+                        46.966454
+                    ],
+                    [
+                        -0.208409,
+                        46.966526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

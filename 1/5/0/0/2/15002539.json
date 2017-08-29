@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 15002539,
+    "properties": {
+        "woe_id": 15002539,
+        "place_id": "o1rBfb6YBJxV8szQ1g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sjodiken, Skane, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234661043,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3398\/shapefiles\/15002539_20090215_73d8e561b9.tar.gz"
+        },
+        "bbox": [
+            13.248224258423,
+            55.520858764648,
+            13.257235527039,
+            55.538974761963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.248825,
+                        55.520859
+                    ],
+                    [
+                        13.248224,
+                        55.538975
+                    ],
+                    [
+                        13.248567,
+                        55.538685
+                    ],
+                    [
+                        13.257236,
+                        55.526733
+                    ],
+                    [
+                        13.248825,
+                        55.520859
+                    ]
+                ]
+            ]
+        ]
+    }
+}

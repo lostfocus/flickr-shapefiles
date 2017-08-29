@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1947181,
+    "properties": {
+        "woe_id": 1947181,
+        "place_id": "ZgpjSTKYCJh6IuAK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nawa, Dar'a, Syria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234546208,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3399\/shapefiles\/1947181_20090213_69bf493623.tar.gz"
+        },
+        "bbox": [
+            36.033096313477,
+            32.883045196533,
+            36.053695678711,
+            32.893714904785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        36.039963,
+                        32.884777
+                    ],
+                    [
+                        36.033096,
+                        32.893715
+                    ],
+                    [
+                        36.038589,
+                        32.890255
+                    ],
+                    [
+                        36.053696,
+                        32.883045
+                    ],
+                    [
+                        36.039963,
+                        32.884777
+                    ]
+                ]
+            ]
+        ]
+    }
+}

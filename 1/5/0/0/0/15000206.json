@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15000206,
+    "properties": {
+        "woe_id": 15000206,
+        "place_id": "4FzhNgCYBJxR8boMxg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Salyeh, 'Amman, Jordan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445400,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/15000206_20101215_215a082072.tar.gz"
+        },
+        "bbox": [
+            35.869979858398,
+            31.489204406738,
+            35.872833251953,
+            31.493913650513
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        35.870949,
+                        31.493711
+                    ],
+                    [
+                        35.872833,
+                        31.491205
+                    ],
+                    [
+                        35.872784,
+                        31.489204
+                    ],
+                    [
+                        35.86998,
+                        31.49058
+                    ],
+                    [
+                        35.870441,
+                        31.493914
+                    ],
+                    [
+                        35.870949,
+                        31.493711
+                    ]
+                ]
+            ]
+        ]
+    }
+}

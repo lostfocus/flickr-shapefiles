@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12692424,
+    "properties": {
+        "woe_id": 12692424,
+        "place_id": "5jsC9vOYA5qCB2vfgg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sancti-Sp\u00edritus, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234762928,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3172\/shapefiles\/12692424_20090216_107db67b72.tar.gz"
+        },
+        "bbox": [
+            -6.4008660316467,
+            40.703407287598,
+            -6.3968749046326,
+            40.706466674805
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.400394,
+                        40.703815
+                    ],
+                    [
+                        -6.400866,
+                        40.703995
+                    ],
+                    [
+                        -6.400222,
+                        40.706467
+                    ],
+                    [
+                        -6.396875,
+                        40.703854
+                    ],
+                    [
+                        -6.399235,
+                        40.703407
+                    ],
+                    [
+                        -6.400394,
+                        40.703815
+                    ]
+                ]
+            ]
+        ]
+    }
+}

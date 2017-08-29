@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12668010,
+    "properties": {
+        "woe_id": 12668010,
+        "place_id": ".WmhCW2YA5qAtMrTYQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paraza, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234527002,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3376\/shapefiles\/12668010_20090213_e608d9c5ae.tar.gz"
+        },
+        "bbox": [
+            2.8300518989563,
+            43.248573303223,
+            2.8337190151215,
+            43.250297546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.833614,
+                        43.249516
+                    ],
+                    [
+                        2.833719,
+                        43.248573
+                    ],
+                    [
+                        2.830052,
+                        43.249298
+                    ],
+                    [
+                        2.831683,
+                        43.250298
+                    ],
+                    [
+                        2.833614,
+                        43.249516
+                    ]
+                ]
+            ]
+        ]
+    }
+}

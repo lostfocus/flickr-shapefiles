@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 123862,
+    "properties": {
+        "woe_id": 123862,
+        "place_id": "aETO0qaYA5.C7N8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Galindo, Queretaro de Arteaga, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536448,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/123862_20101216_d1dd74d000.tar.gz"
+        },
+        "bbox": [
+            -100.09540557861,
+            20.371423721313,
+            -100.08407592773,
+            20.397611618042
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.0942,
+                        20.397612
+                    ],
+                    [
+                        -100.084076,
+                        20.387756
+                    ],
+                    [
+                        -100.09008,
+                        20.371424
+                    ],
+                    [
+                        -100.095406,
+                        20.392262
+                    ],
+                    [
+                        -100.0942,
+                        20.397612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

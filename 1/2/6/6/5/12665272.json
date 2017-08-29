@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665272,
+    "properties": {
+        "woe_id": 12665272,
+        "place_id": "b9GlrF2YA5pGks7yOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les C\u00f4tes-de-Corps, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546689,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/12665272_20101217_6ed2500c69.tar.gz"
+        },
+        "bbox": [
+            5.9055910110474,
+            44.817523956299,
+            5.9073820114136,
+            44.818374633789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.906009,
+                        44.817524
+                    ],
+                    [
+                        5.905591,
+                        44.817753
+                    ],
+                    [
+                        5.907382,
+                        44.818375
+                    ],
+                    [
+                        5.907307,
+                        44.817852
+                    ],
+                    [
+                        5.906567,
+                        44.817684
+                    ],
+                    [
+                        5.906009,
+                        44.817524
+                    ]
+                ]
+            ]
+        ]
+    }
+}

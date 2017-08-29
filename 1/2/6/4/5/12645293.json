@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12645293,
+    "properties": {
+        "woe_id": 12645293,
+        "place_id": "2hUcu4eYA5pcjNYLeQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Huismes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248243255,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2599\/shapefiles\/12645293_20090722_c24781d180.tar.gz"
+        },
+        "bbox": [
+            0.25079700350761,
+            47.205253601074,
+            0.25312000513077,
+            47.205806732178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.25312,
+                        47.205421
+                    ],
+                    [
+                        0.252973,
+                        47.205254
+                    ],
+                    [
+                        0.252962,
+                        47.205254
+                    ],
+                    [
+                        0.250797,
+                        47.205807
+                    ],
+                    [
+                        0.25312,
+                        47.205421
+                    ]
+                ]
+            ]
+        ]
+    }
+}

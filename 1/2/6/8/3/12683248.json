@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12683248,
+    "properties": {
+        "woe_id": 12683248,
+        "place_id": "sA4qe9uYA5pAQT1ULQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La C\u00f4te-aux-F\u00e9es, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545751,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/12683248_20101217_f9642e724a.tar.gz"
+        },
+        "bbox": [
+            6.5348048210144,
+            46.846454620361,
+            6.5387530326843,
+            46.851871490479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.5379,
+                        46.850597
+                    ],
+                    [
+                        6.534805,
+                        46.846455
+                    ],
+                    [
+                        6.537659,
+                        46.850815
+                    ],
+                    [
+                        6.538388,
+                        46.851871
+                    ],
+                    [
+                        6.538753,
+                        46.851795
+                    ],
+                    [
+                        6.5379,
+                        46.850597
+                    ]
+                ]
+            ]
+        ]
+    }
+}

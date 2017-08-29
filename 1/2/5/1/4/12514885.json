@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12514885,
+    "properties": {
+        "woe_id": 12514885,
+        "place_id": "JUfvfieYA5lmqWVGkw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "General Rafael Buelna International Airport, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537411,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/12514885_20101216_393c0af54b.tar.gz"
+        },
+        "bbox": [
+            -106.27138519287,
+            23.164192199707,
+            -106.26936340332,
+            23.166917800903
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.270218,
+                        23.166836
+                    ],
+                    [
+                        -106.269363,
+                        23.165495
+                    ],
+                    [
+                        -106.271011,
+                        23.164192
+                    ],
+                    [
+                        -106.271385,
+                        23.166285
+                    ],
+                    [
+                        -106.271301,
+                        23.166918
+                    ],
+                    [
+                        -106.270218,
+                        23.166836
+                    ]
+                ]
+            ]
+        ]
+    }
+}

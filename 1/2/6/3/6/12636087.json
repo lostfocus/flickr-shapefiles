@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12636087,
+    "properties": {
+        "woe_id": 12636087,
+        "place_id": "A0hczOSYA5oLsF3fYQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Heiligenstadt in Oberfranken, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248258981,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3424\/shapefiles\/12636087_20090722_583960d24b.tar.gz"
+        },
+        "bbox": [
+            11.17183303833,
+            49.874198913574,
+            11.172833442688,
+            49.877666473389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.172833,
+                        49.874664
+                    ],
+                    [
+                        11.172537,
+                        49.874199
+                    ],
+                    [
+                        11.172323,
+                        49.874725
+                    ],
+                    [
+                        11.171833,
+                        49.877666
+                    ],
+                    [
+                        11.1725,
+                        49.875668
+                    ],
+                    [
+                        11.172833,
+                        49.874664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

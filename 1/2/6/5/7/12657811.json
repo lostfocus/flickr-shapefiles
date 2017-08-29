@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12657811,
+    "properties": {
+        "woe_id": 12657811,
+        "place_id": "0Es5gHqYA5rkxHSfMg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chassenon, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457064,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12657811_20101215_35033259ef.tar.gz"
+        },
+        "bbox": [
+            0.76994699239731,
+            45.848140716553,
+            0.77082699537277,
+            45.850875854492
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.770827,
+                        45.848576
+                    ],
+                    [
+                        0.770744,
+                        45.848141
+                    ],
+                    [
+                        0.770341,
+                        45.848618
+                    ],
+                    [
+                        0.769947,
+                        45.849026
+                    ],
+                    [
+                        0.770352,
+                        45.850876
+                    ],
+                    [
+                        0.770827,
+                        45.848576
+                    ]
+                ]
+            ]
+        ]
+    }
+}

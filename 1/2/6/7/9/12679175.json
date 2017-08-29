@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12679175,
+    "properties": {
+        "woe_id": 12679175,
+        "place_id": "NSLgDy6YA5oaV2pwuA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Faeto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234792805,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3465\/shapefiles\/12679175_20090216_057951e555.tar.gz"
+        },
+        "bbox": [
+            15.160616874695,
+            41.324531555176,
+            15.162944793701,
+            41.325393676758
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.161819,
+                        41.325394
+                    ],
+                    [
+                        15.162945,
+                        41.324532
+                    ],
+                    [
+                        15.160617,
+                        41.325134
+                    ],
+                    [
+                        15.161218,
+                        41.325394
+                    ],
+                    [
+                        15.161819,
+                        41.325394
+                    ]
+                ]
+            ]
+        ]
+    }
+}

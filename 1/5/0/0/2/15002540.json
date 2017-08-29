@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15002540,
+    "properties": {
+        "woe_id": 15002540,
+        "place_id": "yvK4XbuYBJz0kN6ICw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Skargardsstad, Stockholm, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534124,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/15002540_20101216_87e40b1fc5.tar.gz"
+        },
+        "bbox": [
+            18.400726318359,
+            59.482231140137,
+            18.421787261963,
+            59.487354278564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.414181,
+                        59.487171
+                    ],
+                    [
+                        18.414488,
+                        59.487354
+                    ],
+                    [
+                        18.421787,
+                        59.482243
+                    ],
+                    [
+                        18.40579,
+                        59.482231
+                    ],
+                    [
+                        18.400726,
+                        59.486065
+                    ],
+                    [
+                        18.414181,
+                        59.487171
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 11544,
+    "properties": {
+        "woe_id": 11544,
+        "place_id": "TB9mYHmYAJm6lQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bacton, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531047,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/11544_20101216_cd876fdba2.tar.gz"
+        },
+        "bbox": [
+            0.99997001886368,
+            52.259384155273,
+            1.01493704319,
+            52.266738891602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.013928,
+                        52.264317
+                    ],
+                    [
+                        1.014937,
+                        52.262981
+                    ],
+                    [
+                        1.0116,
+                        52.259384
+                    ],
+                    [
+                        1.003168,
+                        52.262722
+                    ],
+                    [
+                        0.99997,
+                        52.264683
+                    ],
+                    [
+                        1.004734,
+                        52.266739
+                    ],
+                    [
+                        1.013928,
+                        52.264317
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1993,
+    "properties": {
+        "woe_id": 1993,
+        "place_id": "jSHiqAqYCJUr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Island Falls, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234719003,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3078\/shapefiles\/1993_20090215_c46b7d82e2.tar.gz"
+        },
+        "bbox": [
+            -102.3669128418,
+            55.527416229248,
+            -102.36236572266,
+            55.531204223633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.362968,
+                        55.531204
+                    ],
+                    [
+                        -102.362366,
+                        55.531109
+                    ],
+                    [
+                        -102.36451,
+                        55.527416
+                    ],
+                    [
+                        -102.366913,
+                        55.527657
+                    ],
+                    [
+                        -102.362968,
+                        55.531204
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1098684,
+    "properties": {
+        "woe_id": 1098684,
+        "place_id": "n4j3bXaYAZWwfe3x",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stonor, Tasmania, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234567922,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3521\/shapefiles\/1098684_20090213_e1bff54861.tar.gz"
+        },
+        "bbox": [
+            147.35971069336,
+            -42.411735534668,
+            147.37167358398,
+            -42.404541015625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        147.365799,
+                        -42.409008
+                    ],
+                    [
+                        147.359711,
+                        -42.411736
+                    ],
+                    [
+                        147.36438,
+                        -42.404541
+                    ],
+                    [
+                        147.371674,
+                        -42.404922
+                    ],
+                    [
+                        147.365799,
+                        -42.409008
+                    ]
+                ]
+            ]
+        ]
+    }
+}

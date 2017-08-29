@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 144600,
+    "properties": {
+        "woe_id": 144600,
+        "place_id": "Usjx36yYBZg5HEU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Miguel Ajusco, Distrito Federal, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491088,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/144600_20101216_fd585a7e37.tar.gz"
+        },
+        "bbox": [
+            -99.204162597656,
+            19.220264434814,
+            -99.201217651367,
+            19.228986740112
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.204163,
+                        19.228586
+                    ],
+                    [
+                        -99.201218,
+                        19.228987
+                    ],
+                    [
+                        -99.201393,
+                        19.225178
+                    ],
+                    [
+                        -99.203171,
+                        19.220264
+                    ],
+                    [
+                        -99.204163,
+                        19.228586
+                    ]
+                ]
+            ]
+        ]
+    }
+}

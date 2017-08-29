@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12672448,
+    "properties": {
+        "woe_id": 12672448,
+        "place_id": "sT8nOPyYA5ol6dVc.w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villebois-Lavalette, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239420845,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3400\/shapefiles\/12672448_20090411_bc8095091b.tar.gz"
+        },
+        "bbox": [
+            0.27796199917793,
+            45.481315612793,
+            0.28288701176643,
+            45.48363494873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.282887,
+                        45.483635
+                    ],
+                    [
+                        0.282726,
+                        45.481316
+                    ],
+                    [
+                        0.280301,
+                        45.482258
+                    ],
+                    [
+                        0.277962,
+                        45.482391
+                    ],
+                    [
+                        0.280483,
+                        45.482384
+                    ],
+                    [
+                        0.282887,
+                        45.483635
+                    ]
+                ]
+            ]
+        ]
+    }
+}

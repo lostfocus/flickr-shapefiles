@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 18100,
+    "properties": {
+        "woe_id": 18100,
+        "place_id": "uaHKyeWYCZ17nw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Denton, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540883,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/18100_20101216_4be0776bf7.tar.gz"
+        },
+        "bbox": [
+            0.05553200095892,
+            50.79740524292,
+            0.069500997662544,
+            50.806007385254
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.057978,
+                        50.80146
+                    ],
+                    [
+                        0.059051,
+                        50.80463
+                    ],
+                    [
+                        0.069501,
+                        50.806007
+                    ],
+                    [
+                        0.067763,
+                        50.797771
+                    ],
+                    [
+                        0.065231,
+                        50.797688
+                    ],
+                    [
+                        0.055532,
+                        50.797405
+                    ],
+                    [
+                        0.057978,
+                        50.80146
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12656710,
+    "properties": {
+        "woe_id": 12656710,
+        "place_id": "V0TDeMWYA5oF5aCaXQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brive-la-Gaillarde, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544341,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/12656710_20101217_388d9b1b50.tar.gz"
+        },
+        "bbox": [
+            1.5331070423126,
+            45.157035827637,
+            1.5365400314331,
+            45.162853240967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.533451,
+                        45.157349
+                    ],
+                    [
+                        1.533107,
+                        45.159889
+                    ],
+                    [
+                        1.53654,
+                        45.162853
+                    ],
+                    [
+                        1.535398,
+                        45.157036
+                    ],
+                    [
+                        1.534931,
+                        45.157104
+                    ],
+                    [
+                        1.533451,
+                        45.157349
+                    ]
+                ]
+            ]
+        ]
+    }
+}

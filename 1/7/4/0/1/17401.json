@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 17401,
+    "properties": {
+        "woe_id": 17401,
+        "place_id": "HmSWTYWYBpjlIw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crookham, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530326,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/17401_20101216_3d6f137849.tar.gz"
+        },
+        "bbox": [
+            -2.1409599781036,
+            55.630550384521,
+            -2.1131730079651,
+            55.640495300293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.123976,
+                        55.634987
+                    ],
+                    [
+                        -2.113173,
+                        55.63055
+                    ],
+                    [
+                        -2.124465,
+                        55.634598
+                    ],
+                    [
+                        -2.14096,
+                        55.639042
+                    ],
+                    [
+                        -2.126541,
+                        55.640495
+                    ],
+                    [
+                        -2.123976,
+                        55.634987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

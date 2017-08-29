@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1101404,
+    "properties": {
+        "woe_id": 1101404,
+        "place_id": "2R768HWYAJwKy6iD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Costerfield, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468047,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/1101404_20101216_d5c50ed46d.tar.gz"
+        },
+        "bbox": [
+            144.79156494141,
+            -36.877990722656,
+            144.79675292969,
+            -36.875774383545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.794312,
+                        -36.876324
+                    ],
+                    [
+                        144.796677,
+                        -36.877354
+                    ],
+                    [
+                        144.796753,
+                        -36.877991
+                    ],
+                    [
+                        144.792938,
+                        -36.876324
+                    ],
+                    [
+                        144.791565,
+                        -36.875774
+                    ],
+                    [
+                        144.794312,
+                        -36.876324
+                    ]
+                ]
+            ]
+        ]
+    }
+}

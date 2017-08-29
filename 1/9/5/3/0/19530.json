@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 19530,
+    "properties": {
+        "woe_id": 19530,
+        "place_id": "8zjqRRmYCJkiig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Elmton, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446807,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/19530_20101215_42d0140309.tar.gz"
+        },
+        "bbox": [
+            -1.2552750110626,
+            53.249603271484,
+            -1.2427419424057,
+            53.271823883057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.242742,
+                        53.251888
+                    ],
+                    [
+                        -1.247248,
+                        53.249603
+                    ],
+                    [
+                        -1.243987,
+                        53.254341
+                    ],
+                    [
+                        -1.255275,
+                        53.27166
+                    ],
+                    [
+                        -1.255073,
+                        53.271824
+                    ],
+                    [
+                        -1.243987,
+                        53.254341
+                    ],
+                    [
+                        -1.242742,
+                        53.251888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

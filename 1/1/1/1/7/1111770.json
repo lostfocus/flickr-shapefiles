@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1111770,
+    "properties": {
+        "woe_id": 1111770,
+        "place_id": "hcmEWwaYAJ0IKZPX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mikuni, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506329,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/1111770_20101216_03796f824a.tar.gz"
+        },
+        "bbox": [
+            135.49964904785,
+            34.732585906982,
+            135.50202941895,
+            34.733909606934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.500046,
+                        34.732586
+                    ],
+                    [
+                        135.499649,
+                        34.733135
+                    ],
+                    [
+                        135.500122,
+                        34.733433
+                    ],
+                    [
+                        135.502029,
+                        34.73391
+                    ],
+                    [
+                        135.501251,
+                        34.732971
+                    ],
+                    [
+                        135.500046,
+                        34.732586
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12623409,
+    "properties": {
+        "woe_id": 12623409,
+        "place_id": "3G3hjB2YA5qMvT5P2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Nordrach, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531709,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/12623409_20101216_51657654cd.tar.gz"
+        },
+        "bbox": [
+            8.0703115463257,
+            48.422554016113,
+            8.070912361145,
+            48.429481506348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.070526,
+                        48.429131
+                    ],
+                    [
+                        8.070912,
+                        48.429482
+                    ],
+                    [
+                        8.070803,
+                        48.427189
+                    ],
+                    [
+                        8.070312,
+                        48.422554
+                    ],
+                    [
+                        8.070733,
+                        48.427151
+                    ],
+                    [
+                        8.070526,
+                        48.429131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

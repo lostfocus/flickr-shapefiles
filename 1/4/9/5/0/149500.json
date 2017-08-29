@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 149500,
+    "properties": {
+        "woe_id": 149500,
+        "place_id": "lstWxo2YBZW2RUg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tixtla de Guerrero, Guerrero, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551705,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/149500_20101217_390bd3d77e.tar.gz"
+        },
+        "bbox": [
+            -99.407829284668,
+            17.563745498657,
+            -99.40030670166,
+            17.567937850952
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.400307,
+                        17.567673
+                    ],
+                    [
+                        -99.401634,
+                        17.566547
+                    ],
+                    [
+                        -99.407829,
+                        17.563745
+                    ],
+                    [
+                        -99.402283,
+                        17.567938
+                    ],
+                    [
+                        -99.400307,
+                        17.567673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

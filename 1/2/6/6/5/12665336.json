@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665336,
+    "properties": {
+        "woe_id": 12665336,
+        "place_id": "bSxH_pWYA5qlBkrVzw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Mandrier-sur-Mer, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526722,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12665336_20101216_221d195b74.tar.gz"
+        },
+        "bbox": [
+            5.9251918792725,
+            43.070095062256,
+            5.9315438270569,
+            43.076080322266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.928926,
+                        43.072777
+                    ],
+                    [
+                        5.927982,
+                        43.07608
+                    ],
+                    [
+                        5.931544,
+                        43.072044
+                    ],
+                    [
+                        5.929055,
+                        43.072178
+                    ],
+                    [
+                        5.925192,
+                        43.070095
+                    ],
+                    [
+                        5.928926,
+                        43.072777
+                    ]
+                ]
+            ]
+        ]
+    }
+}

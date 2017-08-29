@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1100478,
+    "properties": {
+        "woe_id": 1100478,
+        "place_id": "ZgFZkByYAJwGOEsV",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bombala, New South Wales, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537287,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/1100478_20101216_4f0f1e1e59.tar.gz"
+        },
+        "bbox": [
+            149.23622131348,
+            -36.921009063721,
+            149.24995422363,
+            -36.904056549072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.238449,
+                        -36.907833
+                    ],
+                    [
+                        149.249954,
+                        -36.921009
+                    ],
+                    [
+                        149.237534,
+                        -36.912434
+                    ],
+                    [
+                        149.236221,
+                        -36.909275
+                    ],
+                    [
+                        149.238281,
+                        -36.904057
+                    ],
+                    [
+                        149.238449,
+                        -36.907833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

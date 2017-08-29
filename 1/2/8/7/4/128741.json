@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 128741,
+    "properties": {
+        "woe_id": 128741,
+        "place_id": "kVh5KACYA5RUj4w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Perla, Coahuila de Zaragoza, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518179,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/128741_20101216_d67a6d21c5.tar.gz"
+        },
+        "bbox": [
+            -103.36692810059,
+            25.46217918396,
+            -103.34409332275,
+            25.47876739502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.358604,
+                        25.469236
+                    ],
+                    [
+                        -103.344093,
+                        25.478767
+                    ],
+                    [
+                        -103.357758,
+                        25.467405
+                    ],
+                    [
+                        -103.363831,
+                        25.462179
+                    ],
+                    [
+                        -103.366928,
+                        25.464664
+                    ],
+                    [
+                        -103.358604,
+                        25.469236
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665552,
+    "properties": {
+        "woe_id": 12665552,
+        "place_id": "pG2GGD6YA5qNVRu2iA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lespinasse, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524618,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/12665552_20101216_d03d5891c4.tar.gz"
+        },
+        "bbox": [
+            1.3868999481201,
+            43.706104278564,
+            1.3897700309753,
+            43.708499908447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.3869,
+                        43.708179
+                    ],
+                    [
+                        1.387072,
+                        43.7085
+                    ],
+                    [
+                        1.387265,
+                        43.708218
+                    ],
+                    [
+                        1.38977,
+                        43.706104
+                    ],
+                    [
+                        1.387195,
+                        43.707863
+                    ],
+                    [
+                        1.3869,
+                        43.708179
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12682222,
+    "properties": {
+        "woe_id": 12682222,
+        "place_id": "5PA_X7KYA5oU8dOgXg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Torre Pellice, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441466,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12682222_20101215_9d96589588.tar.gz"
+        },
+        "bbox": [
+            7.2187471389771,
+            44.820533752441,
+            7.2280201911926,
+            44.822273254395
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.222657,
+                        44.820534
+                    ],
+                    [
+                        7.218747,
+                        44.820637
+                    ],
+                    [
+                        7.222995,
+                        44.822273
+                    ],
+                    [
+                        7.22802,
+                        44.82077
+                    ],
+                    [
+                        7.22371,
+                        44.820667
+                    ],
+                    [
+                        7.222657,
+                        44.820534
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12671141,
+    "properties": {
+        "woe_id": 12671141,
+        "place_id": "fMuZ_2iYA5pf3B0uOw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Quentin-sur-Is\u00e8re, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547131,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/12671141_20101217_fc4c493570.tar.gz"
+        },
+        "bbox": [
+            5.5293879508972,
+            45.276885986328,
+            5.5346221923828,
+            45.280578613281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.532974,
+                        45.277695
+                    ],
+                    [
+                        5.534622,
+                        45.277939
+                    ],
+                    [
+                        5.532806,
+                        45.276886
+                    ],
+                    [
+                        5.532806,
+                        45.276901
+                    ],
+                    [
+                        5.529388,
+                        45.280579
+                    ],
+                    [
+                        5.532974,
+                        45.277695
+                    ]
+                ]
+            ]
+        ]
+    }
+}

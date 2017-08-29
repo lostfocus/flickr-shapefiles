@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1116112,
+    "properties": {
+        "woe_id": 1116112,
+        "place_id": "WWS6qzeYAJ1WeKS.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Udono, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234482003,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3525\/shapefiles\/1116112_20090212_d8f271ac2d.tar.gz"
+        },
+        "bbox": [
+            136.02828979492,
+            33.768501281738,
+            136.0287322998,
+            33.769889831543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.028732,
+                        33.76989
+                    ],
+                    [
+                        136.028336,
+                        33.768688
+                    ],
+                    [
+                        136.02829,
+                        33.768501
+                    ],
+                    [
+                        136.028351,
+                        33.769573
+                    ],
+                    [
+                        136.028732,
+                        33.76989
+                    ]
+                ]
+            ]
+        ]
+    }
+}

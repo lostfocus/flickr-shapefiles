@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12511727,
+    "properties": {
+        "woe_id": 12511727,
+        "place_id": "a_Gk7dSYA5n5q00wxg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lachute Airport, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460845,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/12511727_20101216_d691b90e52.tar.gz"
+        },
+        "bbox": [
+            -74.367362976074,
+            45.638801574707,
+            -74.362731933594,
+            45.641227722168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.362732,
+                        45.639889
+                    ],
+                    [
+                        -74.362816,
+                        45.639076
+                    ],
+                    [
+                        -74.363274,
+                        45.638802
+                    ],
+                    [
+                        -74.367363,
+                        45.639736
+                    ],
+                    [
+                        -74.362938,
+                        45.641228
+                    ],
+                    [
+                        -74.362732,
+                        45.639889
+                    ]
+                ]
+            ]
+        ]
+    }
+}

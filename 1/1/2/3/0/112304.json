@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 112304,
+    "properties": {
+        "woe_id": 112304,
+        "place_id": "1d2KK4yYAJ5vwpg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aquism\u00f3n, San Luis Potosi, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535788,
+        "alpha": 0.00015,
+        "points": 29,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/112304_20101216_76495396d8.tar.gz"
+        },
+        "bbox": [
+            -99.031616210938,
+            21.622245788574,
+            -99.018058776855,
+            21.630941390991
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.018059,
+                        21.624001
+                    ],
+                    [
+                        -99.01857,
+                        21.622246
+                    ],
+                    [
+                        -99.020973,
+                        21.622929
+                    ],
+                    [
+                        -99.031616,
+                        21.626871
+                    ],
+                    [
+                        -99.021317,
+                        21.630941
+                    ],
+                    [
+                        -99.018059,
+                        21.624001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

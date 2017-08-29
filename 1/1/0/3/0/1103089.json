@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1103089,
+    "properties": {
+        "woe_id": 1103089,
+        "place_id": "PRJc4D2YAJypR9jN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kilmore, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248120483,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3504\/shapefiles\/1103089_20090720_ab54aa76e4.tar.gz"
+        },
+        "bbox": [
+            144.94970703125,
+            -37.302715301514,
+            144.95361328125,
+            -37.295379638672
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.95192,
+                        -37.29538
+                    ],
+                    [
+                        144.953613,
+                        -37.297955
+                    ],
+                    [
+                        144.953613,
+                        -37.298092
+                    ],
+                    [
+                        144.949707,
+                        -37.302715
+                    ],
+                    [
+                        144.949707,
+                        -37.302704
+                    ],
+                    [
+                        144.95192,
+                        -37.29538
+                    ]
+                ]
+            ]
+        ]
+    }
+}

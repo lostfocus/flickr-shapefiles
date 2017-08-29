@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12637496,
+    "properties": {
+        "woe_id": 12637496,
+        "place_id": "mQYqCaaYA5rOwUiYDw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Asnelles, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461385,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/12637496_20101216_bb5febd5c0.tar.gz"
+        },
+        "bbox": [
+            -0.58815902471542,
+            49.339691162109,
+            -0.58394902944565,
+            49.342906951904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.583949,
+                        49.342041
+                    ],
+                    [
+                        -0.583992,
+                        49.341511
+                    ],
+                    [
+                        -0.588159,
+                        49.339691
+                    ],
+                    [
+                        -0.586181,
+                        49.342236
+                    ],
+                    [
+                        -0.585837,
+                        49.342907
+                    ],
+                    [
+                        -0.583949,
+                        49.342041
+                    ]
+                ]
+            ]
+        ]
+    }
+}

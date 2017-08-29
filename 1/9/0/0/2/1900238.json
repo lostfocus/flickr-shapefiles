@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1900238,
+    "properties": {
+        "woe_id": 1900238,
+        "place_id": "pEx5nUWYCJz8oICc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jafrabad, Chittagong, Bangladesh"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234545845,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3534\/shapefiles\/1900238_20090213_770868808d.tar.gz"
+        },
+        "bbox": [
+            91.808975219727,
+            22.389072418213,
+            91.809623718262,
+            22.389314651489
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        91.809547,
+                        22.389135
+                    ],
+                    [
+                        91.808975,
+                        22.389072
+                    ],
+                    [
+                        91.809364,
+                        22.389215
+                    ],
+                    [
+                        91.809624,
+                        22.389315
+                    ],
+                    [
+                        91.809547,
+                        22.389135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12605222,
+    "properties": {
+        "woe_id": 12605222,
+        "place_id": "za6TovOYA5oEC3j6gw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bohuslavice, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234491963,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3439\/shapefiles\/12605222_20090213_73a40758ec.tar.gz"
+        },
+        "bbox": [
+            16.974725723267,
+            49.616832733154,
+            16.976642608643,
+            49.620059967041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.975391,
+                        49.616833
+                    ],
+                    [
+                        16.974726,
+                        49.618668
+                    ],
+                    [
+                        16.976643,
+                        49.62006
+                    ],
+                    [
+                        16.976068,
+                        49.617996
+                    ],
+                    [
+                        16.975391,
+                        49.616833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12610012,
+    "properties": {
+        "woe_id": 12610012,
+        "place_id": "GGMdpiKYA5qQniwN0w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chudenice, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234552209,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3344\/shapefiles\/12610012_20090213_4db5ca82ef.tar.gz"
+        },
+        "bbox": [
+            13.158011436462,
+            49.461681365967,
+            13.159003257751,
+            49.462127685547
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.158703,
+                        49.462128
+                    ],
+                    [
+                        13.159003,
+                        49.461781
+                    ],
+                    [
+                        13.158547,
+                        49.461681
+                    ],
+                    [
+                        13.158011,
+                        49.461967
+                    ],
+                    [
+                        13.158252,
+                        49.462067
+                    ],
+                    [
+                        13.158703,
+                        49.462128
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 144139,
+    "properties": {
+        "woe_id": 144139,
+        "place_id": "AgnP8yuYBZhsP0c",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Lorenzo, Oaxaca, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234706043,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3182\/shapefiles\/144139_20090215_5ce1b8d036.tar.gz"
+        },
+        "bbox": [
+            -96.788864135742,
+            16.876369476318,
+            -96.768951416016,
+            16.885210037231
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.770752,
+                        16.88521
+                    ],
+                    [
+                        -96.768951,
+                        16.880363
+                    ],
+                    [
+                        -96.773239,
+                        16.876369
+                    ],
+                    [
+                        -96.788864,
+                        16.876997
+                    ],
+                    [
+                        -96.770752,
+                        16.88521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

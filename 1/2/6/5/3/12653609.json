@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12653609,
+    "properties": {
+        "woe_id": 12653609,
+        "place_id": "dXdUvcSYA5rwGNHE8A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Theuville-aux-Maillots, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479211,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/12653609_20101216_1f27fe4509.tar.gz"
+        },
+        "bbox": [
+            0.54195600748062,
+            49.765453338623,
+            0.54628801345825,
+            49.766712188721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.546012,
+                        49.766159
+                    ],
+                    [
+                        0.546288,
+                        49.765484
+                    ],
+                    [
+                        0.54554,
+                        49.765453
+                    ],
+                    [
+                        0.541956,
+                        49.766712
+                    ],
+                    [
+                        0.54598,
+                        49.766144
+                    ],
+                    [
+                        0.546012,
+                        49.766159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

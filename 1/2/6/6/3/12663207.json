@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12663207,
+    "properties": {
+        "woe_id": 12663207,
+        "place_id": "u45CkgmYA5ptwdDBQQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-S\u00e9bastien, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292501766,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/12663207_20101216_77a7630343.tar.gz"
+        },
+        "bbox": [
+            5.8059310913086,
+            44.818496704102,
+            5.8146848678589,
+            44.824584960938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.814685,
+                        44.818497
+                    ],
+                    [
+                        5.809879,
+                        44.819168
+                    ],
+                    [
+                        5.805931,
+                        44.820263
+                    ],
+                    [
+                        5.80902,
+                        44.824585
+                    ],
+                    [
+                        5.812282,
+                        44.822334
+                    ],
+                    [
+                        5.814685,
+                        44.818497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

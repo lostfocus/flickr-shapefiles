@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1099989,
+    "properties": {
+        "woe_id": 1099989,
+        "place_id": "bAkUw6qYAZVgJYjG",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ashford, New South Wales, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234865893,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3252\/shapefiles\/1099989_20090217_935b60db6f.tar.gz"
+        },
+        "bbox": [
+            151.08981323242,
+            -29.323072433472,
+            151.09582519531,
+            -29.310501098633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.089813,
+                        -29.322102
+                    ],
+                    [
+                        151.093079,
+                        -29.310501
+                    ],
+                    [
+                        151.095825,
+                        -29.321726
+                    ],
+                    [
+                        151.090851,
+                        -29.323072
+                    ],
+                    [
+                        151.089813,
+                        -29.322102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

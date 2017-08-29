@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12666511,
+    "properties": {
+        "woe_id": 12666511,
+        "place_id": "IITiQxGYA5rticOvUg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "M\u00e9dis, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521354,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/12666511_20101216_d315aa852d.tar.gz"
+        },
+        "bbox": [
+            -0.96633398532867,
+            45.639640808105,
+            -0.96616697311401,
+            45.639831542969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.966326,
+                        45.639702
+                    ],
+                    [
+                        -0.966167,
+                        45.639832
+                    ],
+                    [
+                        -0.966167,
+                        45.639751
+                    ],
+                    [
+                        -0.966169,
+                        45.639641
+                    ],
+                    [
+                        -0.966334,
+                        45.639668
+                    ],
+                    [
+                        -0.966326,
+                        45.639702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

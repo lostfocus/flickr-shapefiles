@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12667123,
+    "properties": {
+        "woe_id": 12667123,
+        "place_id": "fdJ3gjSYA5r46tRGZA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Montignac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234679042,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3215\/shapefiles\/12667123_20090215_43089efbf0.tar.gz"
+        },
+        "bbox": [
+            0.14886400103569,
+            43.180744171143,
+            0.1499460041523,
+            43.184734344482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.149946,
+                        43.184464
+                    ],
+                    [
+                        0.149272,
+                        43.180744
+                    ],
+                    [
+                        0.148864,
+                        43.183372
+                    ],
+                    [
+                        0.149723,
+                        43.184734
+                    ],
+                    [
+                        0.149946,
+                        43.184464
+                    ]
+                ]
+            ]
+        ]
+    }
+}

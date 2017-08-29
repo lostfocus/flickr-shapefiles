@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1542576,
+    "properties": {
+        "woe_id": 1542576,
+        "place_id": "Th9.4SeYBJizocaM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zaouia Tilelt, Essaouira, Morocco"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247957163,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3517\/shapefiles\/1542576_20090718_2dabfde94f.tar.gz"
+        },
+        "bbox": [
+            -9.8288154602051,
+            30.840562820435,
+            -9.8091602325439,
+            30.848888397217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.828815,
+                        30.848888
+                    ],
+                    [
+                        -9.82521,
+                        30.846827
+                    ],
+                    [
+                        -9.80916,
+                        30.84572
+                    ],
+                    [
+                        -9.818515,
+                        30.840563
+                    ],
+                    [
+                        -9.824953,
+                        30.846016
+                    ],
+                    [
+                        -9.828815,
+                        30.848888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

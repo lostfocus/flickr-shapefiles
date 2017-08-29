@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 1199737,
+    "properties": {
+        "woe_id": 1199737,
+        "place_id": "vm1IatyYAJWuAIKe",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Francisco, Eastern Visayas, Philippines"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530846,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/1199737_20101216_d07e22bde2.tar.gz"
+        },
+        "bbox": [
+            125.12929534912,
+            10.051345825195,
+            125.15693664551,
+            10.076191902161
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        125.144577,
+                        10.051346
+                    ],
+                    [
+                        125.156937,
+                        10.056247
+                    ],
+                    [
+                        125.139854,
+                        10.063008
+                    ],
+                    [
+                        125.129295,
+                        10.076107
+                    ],
+                    [
+                        125.130325,
+                        10.076192
+                    ],
+                    [
+                        125.139854,
+                        10.063008
+                    ],
+                    [
+                        125.156937,
+                        10.056247
+                    ],
+                    [
+                        125.144577,
+                        10.051346
+                    ]
+                ]
+            ]
+        ]
+    }
+}

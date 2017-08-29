@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12647800,
+    "properties": {
+        "woe_id": 12647800,
+        "place_id": "lbg6wUCYA5pZV4RRXQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lentilles, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539385,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/12647800_20101216_1fa03c0b74.tar.gz"
+        },
+        "bbox": [
+            4.607048034668,
+            48.481994628906,
+            4.6106519699097,
+            48.484981536865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.609966,
+                        48.482536
+                    ],
+                    [
+                        4.607659,
+                        48.481995
+                    ],
+                    [
+                        4.607048,
+                        48.482536
+                    ],
+                    [
+                        4.607734,
+                        48.484074
+                    ],
+                    [
+                        4.610652,
+                        48.484982
+                    ],
+                    [
+                        4.609966,
+                        48.482536
+                    ]
+                ]
+            ]
+        ]
+    }
+}

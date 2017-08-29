@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12517645,
+    "properties": {
+        "woe_id": 12517645,
+        "place_id": "lpPAFjOYA5mmhNDmiA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kallax Airport, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542990,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/12517645_20101216_bd408ced48.tar.gz"
+        },
+        "bbox": [
+            22.123449325562,
+            65.543754577637,
+            22.126121520996,
+            65.551902770996
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.123833,
+                        65.548836
+                    ],
+                    [
+                        22.126122,
+                        65.543755
+                    ],
+                    [
+                        22.123667,
+                        65.548836
+                    ],
+                    [
+                        22.123501,
+                        65.548996
+                    ],
+                    [
+                        22.123449,
+                        65.549835
+                    ],
+                    [
+                        22.125799,
+                        65.551903
+                    ],
+                    [
+                        22.123833,
+                        65.548836
+                    ]
+                ]
+            ]
+        ]
+    }
+}

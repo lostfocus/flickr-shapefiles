@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 10646,
+    "properties": {
+        "woe_id": 10646,
+        "place_id": "paO6fqKYAZrtkQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Allington, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541845,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/10646_20101216_48481bbbf0.tar.gz"
+        },
+        "bbox": [
+            -1.9094369411469,
+            51.361839294434,
+            -1.8844120502472,
+            51.389331817627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.884412,
+                        51.377254
+                    ],
+                    [
+                        -1.89145,
+                        51.370815
+                    ],
+                    [
+                        -1.904668,
+                        51.361839
+                    ],
+                    [
+                        -1.898746,
+                        51.381531
+                    ],
+                    [
+                        -1.909437,
+                        51.389332
+                    ],
+                    [
+                        -1.894283,
+                        51.387638
+                    ],
+                    [
+                        -1.884412,
+                        51.377254
+                    ]
+                ]
+            ]
+        ]
+    }
+}

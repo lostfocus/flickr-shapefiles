@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12623205,
+    "properties": {
+        "woe_id": 12623205,
+        "place_id": "1OzfISyYA5rSRa1NWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Wolfschlugen, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534772,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/12623205_20101216_b214abb94b.tar.gz"
+        },
+        "bbox": [
+            9.3039712905884,
+            48.655849456787,
+            9.3069429397583,
+            48.661659240723
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.306943,
+                        48.656555
+                    ],
+                    [
+                        9.304121,
+                        48.655849
+                    ],
+                    [
+                        9.303971,
+                        48.655964
+                    ],
+                    [
+                        9.304325,
+                        48.65942
+                    ],
+                    [
+                        9.306074,
+                        48.661659
+                    ],
+                    [
+                        9.306943,
+                        48.656555
+                    ]
+                ]
+            ]
+        ]
+    }
+}

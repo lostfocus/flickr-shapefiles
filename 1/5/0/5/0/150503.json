@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 150503,
+    "properties": {
+        "woe_id": 150503,
+        "place_id": "kt9IDy6YBJzLTLg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Valle de Santiago, Guanajuato, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550360,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/150503_20101217_7e2e36bfee.tar.gz"
+        },
+        "bbox": [
+            -101.20175933838,
+            20.375204086304,
+            -101.17956542969,
+            20.391738891602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.180969,
+                        20.391739
+                    ],
+                    [
+                        -101.180626,
+                        20.391386
+                    ],
+                    [
+                        -101.179565,
+                        20.389124
+                    ],
+                    [
+                        -101.182823,
+                        20.388208
+                    ],
+                    [
+                        -101.196785,
+                        20.375204
+                    ],
+                    [
+                        -101.201759,
+                        20.390652
+                    ],
+                    [
+                        -101.193863,
+                        20.391296
+                    ],
+                    [
+                        -101.187515,
+                        20.391457
+                    ],
+                    [
+                        -101.180969,
+                        20.391739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12693263,
+    "properties": {
+        "woe_id": 12693263,
+        "place_id": "Z42PNyqYA5rTJwpfQw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pe\u00f1ausende, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528486,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/12693263_20101216_09a25ee755.tar.gz"
+        },
+        "bbox": [
+            -5.8871049880981,
+            41.321800231934,
+            -5.8845520019531,
+            41.323925018311
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.884552,
+                        41.323135
+                    ],
+                    [
+                        -5.884562,
+                        41.322803
+                    ],
+                    [
+                        -5.884916,
+                        41.3218
+                    ],
+                    [
+                        -5.887105,
+                        41.322983
+                    ],
+                    [
+                        -5.885496,
+                        41.323925
+                    ],
+                    [
+                        -5.884552,
+                        41.323135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

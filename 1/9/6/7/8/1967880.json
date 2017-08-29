@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1967880,
+    "properties": {
+        "woe_id": 1967880,
+        "place_id": "TU9SNhWYCJqBCd80",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ramat Razi'el, Yerushalayim, Israel"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542003,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/1967880_20101216_798c62845e.tar.gz"
+        },
+        "bbox": [
+            35.060375213623,
+            31.757947921753,
+            35.073509216309,
+            31.777576446533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        35.064754,
+                        31.757948
+                    ],
+                    [
+                        35.060375,
+                        31.760357
+                    ],
+                    [
+                        35.067501,
+                        31.777576
+                    ],
+                    [
+                        35.073509,
+                        31.774002
+                    ],
+                    [
+                        35.070076,
+                        31.766705
+                    ],
+                    [
+                        35.069046,
+                        31.762617
+                    ],
+                    [
+                        35.064754,
+                        31.757948
+                    ]
+                ]
+            ]
+        ]
+    }
+}

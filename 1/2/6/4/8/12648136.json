@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12648136,
+    "properties": {
+        "woe_id": 12648136,
+        "place_id": "VMbsklCYA5p0YWUuqA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Aubin-sur-Scie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292487421,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/12648136_20101216_bed881b3c3.tar.gz"
+        },
+        "bbox": [
+            1.0669610500336,
+            49.895351409912,
+            1.0682480335236,
+            49.895919799805
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.066961,
+                        49.895546
+                    ],
+                    [
+                        1.066961,
+                        49.895683
+                    ],
+                    [
+                        1.067347,
+                        49.895905
+                    ],
+                    [
+                        1.06739,
+                        49.89592
+                    ],
+                    [
+                        1.068248,
+                        49.895351
+                    ],
+                    [
+                        1.066961,
+                        49.895546
+                    ]
+                ]
+            ]
+        ]
+    }
+}

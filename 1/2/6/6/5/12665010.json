@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665010,
+    "properties": {
+        "woe_id": 12665010,
+        "place_id": "V98iBviYA5rVN933pQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Malo-de-Guersac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534162,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/12665010_20101216_59f10712c1.tar.gz"
+        },
+        "bbox": [
+            -2.1889400482178,
+            47.353359222412,
+            -2.1868209838867,
+            47.361297607422
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.18894,
+                        47.361298
+                    ],
+                    [
+                        -2.186821,
+                        47.359291
+                    ],
+                    [
+                        -2.187652,
+                        47.357956
+                    ],
+                    [
+                        -2.187824,
+                        47.353359
+                    ],
+                    [
+                        -2.188682,
+                        47.357082
+                    ],
+                    [
+                        -2.18894,
+                        47.361298
+                    ]
+                ]
+            ]
+        ]
+    }
+}

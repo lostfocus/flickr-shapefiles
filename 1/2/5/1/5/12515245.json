@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12515245,
+    "properties": {
+        "woe_id": 12515245,
+        "place_id": "U73yM7KYA5mhsPdWcQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lahore Airport, Pakistan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454605,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/12515245_20101215_7d91ab4cb9.tar.gz"
+        },
+        "bbox": [
+            74.406097412109,
+            31.466844558716,
+            74.412750244141,
+            31.470701217651
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        74.406097,
+                        31.468275
+                    ],
+                    [
+                        74.407646,
+                        31.470701
+                    ],
+                    [
+                        74.412285,
+                        31.470203
+                    ],
+                    [
+                        74.41275,
+                        31.469854
+                    ],
+                    [
+                        74.40873,
+                        31.466845
+                    ],
+                    [
+                        74.406097,
+                        31.468275
+                    ]
+                ]
+            ]
+        ]
+    }
+}

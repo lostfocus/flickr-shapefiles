@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12683999,
+    "properties": {
+        "woe_id": 12683999,
+        "place_id": "wbPeqACYA5raiXq9cg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mont-sur-Rolle, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549514,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/12683999_20101217_b3754b0c35.tar.gz"
+        },
+        "bbox": [
+            6.3377380371094,
+            46.470378875732,
+            6.3396258354187,
+            46.474575042725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.338768,
+                        46.470379
+                    ],
+                    [
+                        6.337738,
+                        46.471767
+                    ],
+                    [
+                        6.33881,
+                        46.473423
+                    ],
+                    [
+                        6.339626,
+                        46.474575
+                    ],
+                    [
+                        6.339025,
+                        46.471207
+                    ],
+                    [
+                        6.338768,
+                        46.470379
+                    ]
+                ]
+            ]
+        ]
+    }
+}

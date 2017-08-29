@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12689020,
+    "properties": {
+        "woe_id": 12689020,
+        "place_id": "qxqhAuiYA5qazHK4mA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alosno, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248007923,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3493\/shapefiles\/12689020_20090719_cbac4ee4e2.tar.gz"
+        },
+        "bbox": [
+            -7.1048488616943,
+            37.597213745117,
+            -7.100429058075,
+            37.598796844482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.101073,
+                        37.597488
+                    ],
+                    [
+                        -7.100429,
+                        37.597385
+                    ],
+                    [
+                        -7.100558,
+                        37.597351
+                    ],
+                    [
+                        -7.101416,
+                        37.597214
+                    ],
+                    [
+                        -7.104849,
+                        37.598797
+                    ],
+                    [
+                        -7.101073,
+                        37.597488
+                    ]
+                ]
+            ]
+        ]
+    }
+}

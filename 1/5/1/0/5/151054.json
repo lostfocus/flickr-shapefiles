@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 151054,
+    "properties": {
+        "woe_id": 151054,
+        "place_id": "dL6TAiSYBJ1ZV7w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Xaltepuxtla, Puebla, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292404325,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/151054_20101215_15f65811dc.tar.gz"
+        },
+        "bbox": [
+            -97.998558044434,
+            20.168605804443,
+            -97.982940673828,
+            20.19527053833
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.998558,
+                        20.181173
+                    ],
+                    [
+                        -97.987572,
+                        20.195271
+                    ],
+                    [
+                        -97.983627,
+                        20.192694
+                    ],
+                    [
+                        -97.982941,
+                        20.192289
+                    ],
+                    [
+                        -97.986542,
+                        20.168606
+                    ],
+                    [
+                        -97.998558,
+                        20.181173
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 121565,
+    "properties": {
+        "woe_id": 121565,
+        "place_id": "7pD3wzGYA52PKC4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "El Popote, Michoacan de Ocampo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535127,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/121565_20101216_9e9f702e42.tar.gz"
+        },
+        "bbox": [
+            -102.20718383789,
+            17.953586578369,
+            -102.17559814453,
+            17.966241836548
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.200485,
+                        17.966242
+                    ],
+                    [
+                        -102.193275,
+                        17.959545
+                    ],
+                    [
+                        -102.175598,
+                        17.963711
+                    ],
+                    [
+                        -102.189156,
+                        17.953749
+                    ],
+                    [
+                        -102.205635,
+                        17.953587
+                    ],
+                    [
+                        -102.207184,
+                        17.963057
+                    ],
+                    [
+                        -102.200485,
+                        17.966242
+                    ]
+                ]
+            ]
+        ]
+    }
+}

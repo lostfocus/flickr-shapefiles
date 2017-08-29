@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1101862,
+    "properties": {
+        "woe_id": 1101862,
+        "place_id": "LMXUVQKYAJyDd.af",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eildon, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248132138,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2635\/shapefiles\/1101862_20090720_2fbbae4c3a.tar.gz"
+        },
+        "bbox": [
+            145.90530395508,
+            -37.232513427734,
+            145.93310546875,
+            -37.218845367432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.905304,
+                        -37.232243
+                    ],
+                    [
+                        145.918182,
+                        -37.218845
+                    ],
+                    [
+                        145.933105,
+                        -37.22076
+                    ],
+                    [
+                        145.91423,
+                        -37.232513
+                    ],
+                    [
+                        145.905304,
+                        -37.232243
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12680916,
+    "properties": {
+        "woe_id": 12680916,
+        "place_id": "3AEp4zCYA5oMCMWbBw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocca Sinibalda, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457166,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/12680916_20101215_deb6955b1a.tar.gz"
+        },
+        "bbox": [
+            12.912925720215,
+            42.271354675293,
+            12.915018081665,
+            42.272022247314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.914686,
+                        42.272022
+                    ],
+                    [
+                        12.915018,
+                        42.271355
+                    ],
+                    [
+                        12.914385,
+                        42.271671
+                    ],
+                    [
+                        12.912926,
+                        42.272003
+                    ],
+                    [
+                        12.914385,
+                        42.271973
+                    ],
+                    [
+                        12.914686,
+                        42.272022
+                    ]
+                ]
+            ]
+        ]
+    }
+}

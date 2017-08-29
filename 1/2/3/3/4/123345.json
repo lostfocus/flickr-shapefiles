@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 123345,
+    "properties": {
+        "woe_id": 123345,
+        "place_id": "Cl_nLDqYA5.uKmI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Esperanza, Tamaulipas, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537212,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/123345_20101216_7381ceef71.tar.gz"
+        },
+        "bbox": [
+            -97.538917541504,
+            25.880229949951,
+            -97.527519226074,
+            25.889114379883
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.529068,
+                        25.88023
+                    ],
+                    [
+                        -97.538918,
+                        25.88604
+                    ],
+                    [
+                        -97.528511,
+                        25.889114
+                    ],
+                    [
+                        -97.527519,
+                        25.883724
+                    ],
+                    [
+                        -97.529068,
+                        25.88023
+                    ]
+                ]
+            ]
+        ]
+    }
+}

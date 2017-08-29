@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12670040,
+    "properties": {
+        "woe_id": 12670040,
+        "place_id": "wm5RTMGYA5qBlun4FQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Sauveur-en-Diois, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517666,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/12670040_20101216_a1a809631e.tar.gz"
+        },
+        "bbox": [
+            5.1483387947083,
+            44.668529510498,
+            5.1564931869507,
+            44.67289352417
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.151085,
+                        44.672832
+                    ],
+                    [
+                        5.154433,
+                        44.672894
+                    ],
+                    [
+                        5.156493,
+                        44.671368
+                    ],
+                    [
+                        5.152373,
+                        44.66853
+                    ],
+                    [
+                        5.148339,
+                        44.669598
+                    ],
+                    [
+                        5.151085,
+                        44.672832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

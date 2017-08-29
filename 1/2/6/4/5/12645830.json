@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12645830,
+    "properties": {
+        "woe_id": 12645830,
+        "place_id": "IYeOWUeYA5rKVTkiAA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Julien-sur-Sarthe, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478064,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/12645830_20101216_4db4be6ef0.tar.gz"
+        },
+        "bbox": [
+            0.35156199336052,
+            48.487030029297,
+            0.35589599609375,
+            48.491809844971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.355167,
+                        48.49181
+                    ],
+                    [
+                        0.355896,
+                        48.491154
+                    ],
+                    [
+                        0.353472,
+                        48.489944
+                    ],
+                    [
+                        0.351562,
+                        48.48703
+                    ],
+                    [
+                        0.352888,
+                        48.489803
+                    ],
+                    [
+                        0.355167,
+                        48.49181
+                    ]
+                ]
+            ]
+        ]
+    }
+}

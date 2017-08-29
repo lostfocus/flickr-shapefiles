@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 19230,
+    "properties": {
+        "woe_id": 19230,
+        "place_id": "ESHm7AOYCJ4jMA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eastwell, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521658,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/19230_20101216_ca9697b888.tar.gz"
+        },
+        "bbox": [
+            -0.86319899559021,
+            52.848346710205,
+            -0.8480070233345,
+            52.852752685547
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.849981,
+                        52.849033
+                    ],
+                    [
+                        -0.850629,
+                        52.848846
+                    ],
+                    [
+                        -0.859508,
+                        52.848347
+                    ],
+                    [
+                        -0.863199,
+                        52.850422
+                    ],
+                    [
+                        -0.859336,
+                        52.851044
+                    ],
+                    [
+                        -0.851214,
+                        52.851601
+                    ],
+                    [
+                        -0.848007,
+                        52.852753
+                    ],
+                    [
+                        -0.849981,
+                        52.849033
+                    ]
+                ]
+            ]
+        ]
+    }
+}

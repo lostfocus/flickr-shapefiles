@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 145665,
+    "properties": {
+        "woe_id": 145665,
+        "place_id": "DxKhNwqYBZm0I5M",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Ana, Mexico, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543495,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/145665_20101216_0e8e90048b.tar.gz"
+        },
+        "bbox": [
+            -99.910331726074,
+            19.611333847046,
+            -99.907501220703,
+            19.611999511719
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.9095,
+                        19.611834
+                    ],
+                    [
+                        -99.907501,
+                        19.6115
+                    ],
+                    [
+                        -99.907501,
+                        19.611334
+                    ],
+                    [
+                        -99.909332,
+                        19.611666
+                    ],
+                    [
+                        -99.910332,
+                        19.612
+                    ],
+                    [
+                        -99.9095,
+                        19.611834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

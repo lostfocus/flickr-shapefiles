@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 123585,
+    "properties": {
+        "woe_id": 123585,
+        "place_id": "JPfXCaeYA5.jsGE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Euzkadi, Distrito Federal, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519476,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/123585_20101216_79b1dbe19f.tar.gz"
+        },
+        "bbox": [
+            -99.143371582031,
+            19.481157302856,
+            -99.133743286133,
+            19.491554260254
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.133743,
+                        19.491554
+                    ],
+                    [
+                        -99.133911,
+                        19.489077
+                    ],
+                    [
+                        -99.143372,
+                        19.481157
+                    ],
+                    [
+                        -99.134079,
+                        19.490372
+                    ],
+                    [
+                        -99.133743,
+                        19.491554
+                    ]
+                ]
+            ]
+        ]
+    }
+}

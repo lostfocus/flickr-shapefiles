@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 111026,
+    "properties": {
+        "woe_id": 111026,
+        "place_id": "SYGUMlWYAJ0XBlk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Acaxochitl\u00e1n, Hidalgo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539481,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/111026_20101216_20b37f9970.tar.gz"
+        },
+        "bbox": [
+            -98.214340209961,
+            20.154262542725,
+            -98.200263977051,
+            20.16667175293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.201462,
+                        20.161194
+                    ],
+                    [
+                        -98.200264,
+                        20.154263
+                    ],
+                    [
+                        -98.205582,
+                        20.156439
+                    ],
+                    [
+                        -98.21434,
+                        20.166672
+                    ],
+                    [
+                        -98.203354,
+                        20.161757
+                    ],
+                    [
+                        -98.201462,
+                        20.161194
+                    ]
+                ]
+            ]
+        ]
+    }
+}

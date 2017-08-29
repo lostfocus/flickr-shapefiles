@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695776,
+    "properties": {
+        "woe_id": 12695776,
+        "place_id": "kbHqHUWYA5oqLi1OdQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tavernes Blanques, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531051,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/12695776_20101216_4e7ced95f3.tar.gz"
+        },
+        "bbox": [
+            -0.35671201348305,
+            39.501392364502,
+            -0.35430899262428,
+            39.507286071777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.354309,
+                        39.501923
+                    ],
+                    [
+                        -0.354309,
+                        39.501392
+                    ],
+                    [
+                        -0.356712,
+                        39.502922
+                    ],
+                    [
+                        -0.35654,
+                        39.507286
+                    ],
+                    [
+                        -0.355682,
+                        39.506687
+                    ],
+                    [
+                        -0.354309,
+                        39.501923
+                    ]
+                ]
+            ]
+        ]
+    }
+}

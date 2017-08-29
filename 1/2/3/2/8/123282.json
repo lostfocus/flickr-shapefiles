@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 123282,
+    "properties": {
+        "woe_id": 123282,
+        "place_id": "6NywQlmYA5.BvfI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Escanelilla, Queretaro de Arteaga, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455728,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/123282_20101215_9275b73530.tar.gz"
+        },
+        "bbox": [
+            -99.597587585449,
+            21.181303024292,
+            -99.563255310059,
+            21.19521522522
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.581924,
+                        21.187391
+                    ],
+                    [
+                        -99.592262,
+                        21.192493
+                    ],
+                    [
+                        -99.597588,
+                        21.194176
+                    ],
+                    [
+                        -99.589348,
+                        21.195215
+                    ],
+                    [
+                        -99.587112,
+                        21.191935
+                    ],
+                    [
+                        -99.56926,
+                        21.189213
+                    ],
+                    [
+                        -99.563255,
+                        21.183611
+                    ],
+                    [
+                        -99.573898,
+                        21.181303
+                    ],
+                    [
+                        -99.581924,
+                        21.187391
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12609219,
+    "properties": {
+        "woe_id": 12609219,
+        "place_id": ".QKQa0eYA5rKoSfLpQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u017divanice, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234492085,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3443\/shapefiles\/12609219_20090213_b713cd653c.tar.gz"
+        },
+        "bbox": [
+            15.643779754639,
+            50.061187744141,
+            15.645383834839,
+            50.061782836914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.645384,
+                        50.061295
+                    ],
+                    [
+                        15.644992,
+                        50.061188
+                    ],
+                    [
+                        15.64378,
+                        50.061325
+                    ],
+                    [
+                        15.644992,
+                        50.061783
+                    ],
+                    [
+                        15.645384,
+                        50.061295
+                    ]
+                ]
+            ]
+        ]
+    }
+}

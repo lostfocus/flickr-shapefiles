@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12634262,
+    "properties": {
+        "woe_id": 12634262,
+        "place_id": "66JFWjuYA5qCf.q0uw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Velburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549231,
+        "alpha": 1.0e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/12634262_20101217_faef0be497.tar.gz"
+        },
+        "bbox": [
+            11.631893157959,
+            49.312953948975,
+            11.632461547852,
+            49.314716339111
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.632011,
+                        49.313499
+                    ],
+                    [
+                        11.631893,
+                        49.314716
+                    ],
+                    [
+                        11.631989,
+                        49.314648
+                    ],
+                    [
+                        11.632462,
+                        49.313099
+                    ],
+                    [
+                        11.63214,
+                        49.312954
+                    ],
+                    [
+                        11.632011,
+                        49.313499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

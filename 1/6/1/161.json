@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 161,
+    "properties": {
+        "woe_id": 161,
+        "place_id": "9cmf.bKYB50",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Briercrest, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542422,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/161_20101216_26edf0c6fc.tar.gz"
+        },
+        "bbox": [
+            -105.26550292969,
+            50.163482666016,
+            -105.25588989258,
+            50.175579071045
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.261726,
+                        50.163483
+                    ],
+                    [
+                        -105.264816,
+                        50.164581
+                    ],
+                    [
+                        -105.265503,
+                        50.175579
+                    ],
+                    [
+                        -105.25589,
+                        50.175579
+                    ],
+                    [
+                        -105.261726,
+                        50.163483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

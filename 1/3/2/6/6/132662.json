@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 132662,
+    "properties": {
+        "woe_id": 132662,
+        "place_id": "0idY5jSYAp4xsow",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Magdalena, Veracruz-Llave, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234876687,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3555\/shapefiles\/132662_20090217_721a986dc1.tar.gz"
+        },
+        "bbox": [
+            -97.05339050293,
+            18.754291534424,
+            -97.04532623291,
+            18.762256622314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.047043,
+                        18.762257
+                    ],
+                    [
+                        -97.045326,
+                        18.762257
+                    ],
+                    [
+                        -97.048759,
+                        18.754292
+                    ],
+                    [
+                        -97.053391,
+                        18.758762
+                    ],
+                    [
+                        -97.047043,
+                        18.762257
+                    ]
+                ]
+            ]
+        ]
+    }
+}

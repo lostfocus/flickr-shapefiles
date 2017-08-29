@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 150927,
+    "properties": {
+        "woe_id": 150927,
+        "place_id": "0trGwE2YBJy2TnE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villanueva, Zacatecas, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248205804,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2596\/shapefiles\/150927_20090721_426e4f2d56.tar.gz"
+        },
+        "bbox": [
+            -102.88747406006,
+            22.351503372192,
+            -102.88009643555,
+            22.363252639771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.885071,
+                        22.353481
+                    ],
+                    [
+                        -102.887474,
+                        22.363253
+                    ],
+                    [
+                        -102.880096,
+                        22.357697
+                    ],
+                    [
+                        -102.881279,
+                        22.352571
+                    ],
+                    [
+                        -102.881638,
+                        22.351503
+                    ],
+                    [
+                        -102.885071,
+                        22.353481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12686165,
+    "properties": {
+        "woe_id": 12686165,
+        "place_id": "64D1vTaYA5pgm5ZDvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fenghuang, China"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551667,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/12686165_20101217_1b7f4a7999.tar.gz"
+        },
+        "bbox": [
+            109.59668731689,
+            27.950435638428,
+            109.60098266602,
+            27.953807830811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        109.597198,
+                        27.953808
+                    ],
+                    [
+                        109.599655,
+                        27.952065
+                    ],
+                    [
+                        109.600723,
+                        27.950966
+                    ],
+                    [
+                        109.600983,
+                        27.950436
+                    ],
+                    [
+                        109.597031,
+                        27.950512
+                    ],
+                    [
+                        109.596687,
+                        27.952179
+                    ],
+                    [
+                        109.597198,
+                        27.953808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

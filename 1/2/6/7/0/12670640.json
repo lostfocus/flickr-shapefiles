@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12670640,
+    "properties": {
+        "woe_id": 12670640,
+        "place_id": "mdC01hmYA5o6qYVbEQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Jean-d'Aulps, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534757,
+        "alpha": 1.0e-5,
+        "points": 30,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/12670640_20101216_5ef78e4d27.tar.gz"
+        },
+        "bbox": [
+            6.6578521728516,
+            46.22486114502,
+            6.6610932350159,
+            46.229934692383
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.657853,
+                        46.229156
+                    ],
+                    [
+                        6.657852,
+                        46.229156
+                    ],
+                    [
+                        6.657886,
+                        46.229195
+                    ],
+                    [
+                        6.660246,
+                        46.229935
+                    ],
+                    [
+                        6.661093,
+                        46.224861
+                    ],
+                    [
+                        6.657853,
+                        46.229156
+                    ]
+                ]
+            ]
+        ]
+    }
+}

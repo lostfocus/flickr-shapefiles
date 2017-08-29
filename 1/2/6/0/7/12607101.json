@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12607101,
+    "properties": {
+        "woe_id": 12607101,
+        "place_id": "a.Ghg.GYA5qxFCUURg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u010cesk\u00fd T\u011b\u0161\u00edn, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470562,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/12607101_20101216_acd51975f6.tar.gz"
+        },
+        "bbox": [
+            18.624572753906,
+            49.751182556152,
+            18.628648757935,
+            49.754371643066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.628477,
+                        49.751717
+                    ],
+                    [
+                        18.627909,
+                        49.751183
+                    ],
+                    [
+                        18.626547,
+                        49.753185
+                    ],
+                    [
+                        18.624573,
+                        49.754211
+                    ],
+                    [
+                        18.628649,
+                        49.754372
+                    ],
+                    [
+                        18.628477,
+                        49.751717
+                    ]
+                ]
+            ]
+        ]
+    }
+}

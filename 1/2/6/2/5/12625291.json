@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12625291,
+    "properties": {
+        "woe_id": 12625291,
+        "place_id": "5xKXX3WYA5rcLIhOpA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Meura, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292425203,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/12625291_20101215_6f37cb4ff2.tar.gz"
+        },
+        "bbox": [
+            11.205686569214,
+            50.580837249756,
+            11.208456993103,
+            50.584651947021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.205713,
+                        50.584648
+                    ],
+                    [
+                        11.205727,
+                        50.584652
+                    ],
+                    [
+                        11.205748,
+                        50.584652
+                    ],
+                    [
+                        11.208457,
+                        50.580837
+                    ],
+                    [
+                        11.205687,
+                        50.584602
+                    ],
+                    [
+                        11.205713,
+                        50.584648
+                    ]
+                ]
+            ]
+        ]
+    }
+}

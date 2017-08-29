@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1031360,
+    "properties": {
+        "woe_id": 1031360,
+        "place_id": "KXSZQUWYAZ.pxov7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cibatu, West Java, Indonesia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456300,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/1031360_20101215_17cce362fa.tar.gz"
+        },
+        "bbox": [
+            108.01277160645,
+            -7.0555782318115,
+            108.01963806152,
+            -7.0497860908508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        108.012772,
+                        -7.054556
+                    ],
+                    [
+                        108.014145,
+                        -7.049786
+                    ],
+                    [
+                        108.019638,
+                        -7.054215
+                    ],
+                    [
+                        108.014145,
+                        -7.055238
+                    ],
+                    [
+                        108.012772,
+                        -7.055578
+                    ],
+                    [
+                        108.012772,
+                        -7.054556
+                    ]
+                ]
+            ]
+        ]
+    }
+}

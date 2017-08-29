@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12654325,
+    "properties": {
+        "woe_id": 12654325,
+        "place_id": "vnKTDWCYA5rTdUFFCQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vieux-Port, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542290,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/12654325_20101216_5ba8ca413f.tar.gz"
+        },
+        "bbox": [
+            0.61137098073959,
+            49.42557144165,
+            0.61426901817322,
+            49.426216125488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.612316,
+                        49.42577
+                    ],
+                    [
+                        0.61171,
+                        49.426022
+                    ],
+                    [
+                        0.611371,
+                        49.426216
+                    ],
+                    [
+                        0.612165,
+                        49.426105
+                    ],
+                    [
+                        0.614269,
+                        49.425571
+                    ],
+                    [
+                        0.612316,
+                        49.42577
+                    ]
+                ]
+            ]
+        ]
+    }
+}

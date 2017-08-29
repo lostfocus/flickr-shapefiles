@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12654828,
+    "properties": {
+        "woe_id": 12654828,
+        "place_id": "upPJ8l6YA5p8JGXtcQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paris 6e Arrondissement, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536659,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/12654828_20101216_789fab8417.tar.gz"
+        },
+        "bbox": [
+            2.3361389636993,
+            48.846782684326,
+            2.3378989696503,
+            48.849437713623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.337899,
+                        48.849255
+                    ],
+                    [
+                        2.337566,
+                        48.847279
+                    ],
+                    [
+                        2.336139,
+                        48.846783
+                    ],
+                    [
+                        2.336654,
+                        48.849354
+                    ],
+                    [
+                        2.337169,
+                        48.849438
+                    ],
+                    [
+                        2.337899,
+                        48.849255
+                    ]
+                ]
+            ]
+        ]
+    }
+}

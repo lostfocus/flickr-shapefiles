@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1101199,
+    "properties": {
+        "woe_id": 1101199,
+        "place_id": "sSlfMsqYAJy3IyAH",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clyde, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526363,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/1101199_20101216_fcb395335d.tar.gz"
+        },
+        "bbox": [
+            145.29573059082,
+            -38.148056030273,
+            145.31616210938,
+            -38.130233764648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.301056,
+                        -38.148056
+                    ],
+                    [
+                        145.295731,
+                        -38.14151
+                    ],
+                    [
+                        145.316162,
+                        -38.130234
+                    ],
+                    [
+                        145.313156,
+                        -38.144413
+                    ],
+                    [
+                        145.301056,
+                        -38.148056
+                    ]
+                ]
+            ]
+        ]
+    }
+}

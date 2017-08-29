@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12521232,
+    "properties": {
+        "woe_id": 12521232,
+        "place_id": "RTXtRc6YA5nnbGBFqw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Opa Locka Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247938451,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2626\/shapefiles\/12521232_20090718_bbdf772b0c.tar.gz"
+        },
+        "bbox": [
+            -80.267166137695,
+            25.903833389282,
+            -80.265502929688,
+            25.910627365112
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.265503,
+                        25.903833
+                    ],
+                    [
+                        -80.267166,
+                        25.906668
+                    ],
+                    [
+                        -80.266037,
+                        25.910627
+                    ],
+                    [
+                        -80.266998,
+                        25.906668
+                    ],
+                    [
+                        -80.265503,
+                        25.903833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

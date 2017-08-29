@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12669531,
+    "properties": {
+        "woe_id": 12669531,
+        "place_id": "pI4Q0P.YA5pF.k8hVA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sausset-les-Pins, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549888,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/12669531_20101217_fec7fbd041.tar.gz"
+        },
+        "bbox": [
+            5.1043081283569,
+            43.329235076904,
+            5.1107988357544,
+            43.33243560791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.110799,
+                        43.332436
+                    ],
+                    [
+                        5.10993,
+                        43.329235
+                    ],
+                    [
+                        5.107612,
+                        43.331047
+                    ],
+                    [
+                        5.104308,
+                        43.329906
+                    ],
+                    [
+                        5.107319,
+                        43.331242
+                    ],
+                    [
+                        5.110799,
+                        43.332436
+                    ]
+                ]
+            ]
+        ]
+    }
+}

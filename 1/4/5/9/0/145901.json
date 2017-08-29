@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 145901,
+    "properties": {
+        "woe_id": 145901,
+        "place_id": ".pGEuFaYBZm8unI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Cruz, Baja California, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510465,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/145901_20101216_6269e249d4.tar.gz"
+        },
+        "bbox": [
+            -116.30418395996,
+            31.466079711914,
+            -116.30332946777,
+            31.470838546753
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.303673,
+                        31.470839
+                    ],
+                    [
+                        -116.303329,
+                        31.468569
+                    ],
+                    [
+                        -116.303841,
+                        31.467178
+                    ],
+                    [
+                        -116.304184,
+                        31.46608
+                    ],
+                    [
+                        -116.303673,
+                        31.470839
+                    ]
+                ]
+            ]
+        ]
+    }
+}

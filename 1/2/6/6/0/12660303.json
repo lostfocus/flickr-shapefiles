@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12660303,
+    "properties": {
+        "woe_id": 12660303,
+        "place_id": "7dhyINiYA5rtj8.QpQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Curemonte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239500045,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3638\/shapefiles\/12660303_20090412_264bb76248.tar.gz"
+        },
+        "bbox": [
+            1.7415039539337,
+            45.001861572266,
+            1.7423199415207,
+            45.003406524658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.741676,
+                        45.001984
+                    ],
+                    [
+                        1.741504,
+                        45.002983
+                    ],
+                    [
+                        1.742191,
+                        45.003407
+                    ],
+                    [
+                        1.74232,
+                        45.001862
+                    ],
+                    [
+                        1.741676,
+                        45.001984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

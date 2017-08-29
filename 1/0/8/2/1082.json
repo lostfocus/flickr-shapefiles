@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1082,
+    "properties": {
+        "woe_id": 1082,
+        "place_id": "yQpDGm.YAZTq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Newtown, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239473644,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3608\/shapefiles\/1082_20090411_67ba73793f.tar.gz"
+        },
+        "bbox": [
+            -53.529510498047,
+            49.200885772705,
+            -53.506164550781,
+            49.20817565918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -53.513203,
+                        49.200886
+                    ],
+                    [
+                        -53.516464,
+                        49.203804
+                    ],
+                    [
+                        -53.52951,
+                        49.208176
+                    ],
+                    [
+                        -53.514919,
+                        49.206268
+                    ],
+                    [
+                        -53.50951,
+                        49.204365
+                    ],
+                    [
+                        -53.506165,
+                        49.203018
+                    ],
+                    [
+                        -53.513203,
+                        49.200886
+                    ]
+                ]
+            ]
+        ]
+    }
+}

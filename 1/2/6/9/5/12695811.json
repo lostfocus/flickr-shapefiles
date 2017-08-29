@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12695811,
+    "properties": {
+        "woe_id": 12695811,
+        "place_id": "NzIzviGYA5qDws2b1A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "London Borough of Islington, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247820726,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3527\/shapefiles\/12695811_20090717_573a378d69.tar.gz"
+        },
+        "bbox": [
+            -0.10629999637604,
+            51.535591125488,
+            -0.10272800177336,
+            51.542457580566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.1063,
+                        51.535591
+                    ],
+                    [
+                        -0.104026,
+                        51.537685
+                    ],
+                    [
+                        -0.103265,
+                        51.542458
+                    ],
+                    [
+                        -0.102728,
+                        51.538063
+                    ],
+                    [
+                        -0.104724,
+                        51.535645
+                    ],
+                    [
+                        -0.1063,
+                        51.535591
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12632755,
+    "properties": {
+        "woe_id": 12632755,
+        "place_id": "fX3YSpWYA5pRi7N1tg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Petersberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444627,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/12632755_20101215_e6252a0a18.tar.gz"
+        },
+        "bbox": [
+            9.7317399978638,
+            50.594696044922,
+            9.7344331741333,
+            50.600345611572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.733811,
+                        50.594696
+                    ],
+                    [
+                        9.73174,
+                        50.596355
+                    ],
+                    [
+                        9.733543,
+                        50.600346
+                    ],
+                    [
+                        9.734433,
+                        50.597904
+                    ],
+                    [
+                        9.734122,
+                        50.594795
+                    ],
+                    [
+                        9.733811,
+                        50.594696
+                    ]
+                ]
+            ]
+        ]
+    }
+}

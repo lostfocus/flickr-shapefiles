@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12693005,
+    "properties": {
+        "woe_id": 12693005,
+        "place_id": "HUZuiLqYA5qYW2fbTQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Olmedo, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546145,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/12693005_20101217_9d9b946778.tar.gz"
+        },
+        "bbox": [
+            -4.6926422119141,
+            41.287704467773,
+            -4.685142993927,
+            41.289543151855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.6879,
+                        41.289543
+                    ],
+                    [
+                        -4.685143,
+                        41.288593
+                    ],
+                    [
+                        -4.685765,
+                        41.288204
+                    ],
+                    [
+                        -4.688758,
+                        41.287704
+                    ],
+                    [
+                        -4.692642,
+                        41.288841
+                    ],
+                    [
+                        -4.6879,
+                        41.289543
+                    ]
+                ]
+            ]
+        ]
+    }
+}

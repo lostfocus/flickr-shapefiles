@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 130751,
+    "properties": {
+        "woe_id": 130751,
+        "place_id": "2wIDq2GYApyhkkk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Las Palomas, Chihuahua, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248056646,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3478\/shapefiles\/130751_20090720_28109283fc.tar.gz"
+        },
+        "bbox": [
+            -107.6265335083,
+            31.767871856689,
+            -107.61795043945,
+            31.779108047485
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.626534,
+                        31.778671
+                    ],
+                    [
+                        -107.625504,
+                        31.779108
+                    ],
+                    [
+                        -107.62516,
+                        31.777504
+                    ],
+                    [
+                        -107.61795,
+                        31.767872
+                    ],
+                    [
+                        -107.625504,
+                        31.777212
+                    ],
+                    [
+                        -107.626534,
+                        31.778671
+                    ]
+                ]
+            ]
+        ]
+    }
+}

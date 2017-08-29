@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 145111,
+    "properties": {
+        "woe_id": 145111,
+        "place_id": "E2Tr_nOYBZk7LwA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Pedro Naranjestil, Michoacan de Ocampo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443271,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/145111_20101215_c123a96cb3.tar.gz"
+        },
+        "bbox": [
+            -103.05581665039,
+            18.194265365601,
+            -103.05529022217,
+            18.194408416748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.055359,
+                        18.194283
+                    ],
+                    [
+                        -103.055443,
+                        18.194305
+                    ],
+                    [
+                        -103.055817,
+                        18.194408
+                    ],
+                    [
+                        -103.055489,
+                        18.194319
+                    ],
+                    [
+                        -103.05529,
+                        18.194265
+                    ],
+                    [
+                        -103.055359,
+                        18.194283
+                    ]
+                ]
+            ]
+        ]
+    }
+}

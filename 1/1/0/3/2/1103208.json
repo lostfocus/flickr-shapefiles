@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1103208,
+    "properties": {
+        "woe_id": 1103208,
+        "place_id": "_wgs9_OYAJyNTh3h",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Koumala, Queensland, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527466,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/1103208_20101216_aa5f88099a.tar.gz"
+        },
+        "bbox": [
+            149.23141479492,
+            -21.61354637146,
+            149.24885559082,
+            -21.59517288208
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.246414,
+                        -21.608521
+                    ],
+                    [
+                        149.246613,
+                        -21.608601
+                    ],
+                    [
+                        149.248856,
+                        -21.610626
+                    ],
+                    [
+                        149.231415,
+                        -21.613546
+                    ],
+                    [
+                        149.233215,
+                        -21.595173
+                    ],
+                    [
+                        149.240341,
+                        -21.603172
+                    ],
+                    [
+                        149.246414,
+                        -21.608521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

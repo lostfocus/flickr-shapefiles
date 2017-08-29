@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12665862,
+    "properties": {
+        "woe_id": 12665862,
+        "place_id": "FP2tQQqYA5qSe6RFZg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lourde, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457065,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/12665862_20101215_5a42808a8e.tar.gz"
+        },
+        "bbox": [
+            0.65913599729538,
+            42.983867645264,
+            0.66042399406433,
+            42.985107421875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.66008,
+                        42.985107
+                    ],
+                    [
+                        0.660424,
+                        42.984276
+                    ],
+                    [
+                        0.660209,
+                        42.983868
+                    ],
+                    [
+                        0.659136,
+                        42.984997
+                    ],
+                    [
+                        0.659694,
+                        42.985043
+                    ],
+                    [
+                        0.66008,
+                        42.985107
+                    ]
+                ]
+            ]
+        ]
+    }
+}

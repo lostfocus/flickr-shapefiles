@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12681489,
+    "properties": {
+        "woe_id": 12681489,
+        "place_id": "M95ROS.YA5quZbR8Rg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Roseto Capo Spulico, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550607,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/12681489_20101217_3a8f4c9cca.tar.gz"
+        },
+        "bbox": [
+            16.615961074829,
+            39.981067657471,
+            16.617164611816,
+            39.982349395752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.616735,
+                        39.982014
+                    ],
+                    [
+                        16.617165,
+                        39.981525
+                    ],
+                    [
+                        16.616392,
+                        39.981068
+                    ],
+                    [
+                        16.61622,
+                        39.981361
+                    ],
+                    [
+                        16.615961,
+                        39.982349
+                    ],
+                    [
+                        16.616735,
+                        39.982014
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 126425,
+    "properties": {
+        "woe_id": 126425,
+        "place_id": "WW7W00SYA5pL6TM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Barca, Jalisco, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248310808,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2664\/shapefiles\/126425_20090723_39c1daf163.tar.gz"
+        },
+        "bbox": [
+            -102.55582427979,
+            20.27592086792,
+            -102.54449462891,
+            20.288766860962
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.549156,
+                        20.277102
+                    ],
+                    [
+                        -102.555824,
+                        20.281199
+                    ],
+                    [
+                        -102.55291,
+                        20.288767
+                    ],
+                    [
+                        -102.546814,
+                        20.287407
+                    ],
+                    [
+                        -102.544495,
+                        20.278057
+                    ],
+                    [
+                        -102.548271,
+                        20.275921
+                    ],
+                    [
+                        -102.549156,
+                        20.277102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

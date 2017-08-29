@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12521294,
+    "properties": {
+        "woe_id": 12521294,
+        "place_id": "8xbgywmYA5mEWc4yRA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Panama City Bay County Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456915,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/12521294_20101215_b8d34ec6bb.tar.gz"
+        },
+        "bbox": [
+            -85.681831359863,
+            30.206424713135,
+            -85.679458618164,
+            30.210166931152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.681244,
+                        30.20682
+                    ],
+                    [
+                        -85.681831,
+                        30.210167
+                    ],
+                    [
+                        -85.680832,
+                        30.210167
+                    ],
+                    [
+                        -85.679634,
+                        30.207987
+                    ],
+                    [
+                        -85.679459,
+                        30.206425
+                    ],
+                    [
+                        -85.681244,
+                        30.20682
+                    ]
+                ]
+            ]
+        ]
+    }
+}

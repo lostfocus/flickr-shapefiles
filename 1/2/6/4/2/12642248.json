@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12642248,
+    "properties": {
+        "woe_id": 12642248,
+        "place_id": "fi6RxTGYA5q7KQsZ.g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Coudray-Montceaux, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520545,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/12642248_20101216_90305eec83.tar.gz"
+        },
+        "bbox": [
+            2.4812788963318,
+            48.555946350098,
+            2.484668970108,
+            48.556640625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.48203,
+                        48.556072
+                    ],
+                    [
+                        2.481279,
+                        48.556171
+                    ],
+                    [
+                        2.481558,
+                        48.556572
+                    ],
+                    [
+                        2.482438,
+                        48.556526
+                    ],
+                    [
+                        2.483768,
+                        48.556641
+                    ],
+                    [
+                        2.484669,
+                        48.555946
+                    ],
+                    [
+                        2.48203,
+                        48.556072
+                    ]
+                ]
+            ]
+        ]
+    }
+}

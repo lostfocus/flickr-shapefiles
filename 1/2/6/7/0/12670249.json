@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12670249,
+    "properties": {
+        "woe_id": 12670249,
+        "place_id": "SrDzYbaYA5pz34ko4A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Chinian, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234679653,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3363\/shapefiles\/12670249_20090215_b569e0a629.tar.gz"
+        },
+        "bbox": [
+            2.9387140274048,
+            43.419845581055,
+            2.9466850757599,
+            43.423377990723
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.944078,
+                        43.423378
+                    ],
+                    [
+                        2.946685,
+                        43.422146
+                    ],
+                    [
+                        2.944335,
+                        43.419846
+                    ],
+                    [
+                        2.938714,
+                        43.422085
+                    ],
+                    [
+                        2.944078,
+                        43.423378
+                    ]
+                ]
+            ]
+        ]
+    }
+}

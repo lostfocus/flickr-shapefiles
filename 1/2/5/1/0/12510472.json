@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12510472,
+    "properties": {
+        "woe_id": 12510472,
+        "place_id": "P2ffEc.YA5le.ZatQg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cataratas del Iguazu Airport, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518777,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/12510472_20101216_45572284a5.tar.gz"
+        },
+        "bbox": [
+            -54.477680206299,
+            -25.731966018677,
+            -54.475917816162,
+            -25.729124069214
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -54.47691,
+                        -25.731781
+                    ],
+                    [
+                        -54.47768,
+                        -25.730476
+                    ],
+                    [
+                        -54.477081,
+                        -25.729124
+                    ],
+                    [
+                        -54.475918,
+                        -25.731421
+                    ],
+                    [
+                        -54.476608,
+                        -25.731966
+                    ],
+                    [
+                        -54.47691,
+                        -25.731781
+                    ]
+                ]
+            ]
+        ]
+    }
+}

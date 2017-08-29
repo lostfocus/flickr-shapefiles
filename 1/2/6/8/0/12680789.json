@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12680789,
+    "properties": {
+        "woe_id": 12680789,
+        "place_id": "CDp9DwGYA5ohHXSUqg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543234,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/12680789_20101216_d420460d2a.tar.gz"
+        },
+        "bbox": [
+            17.641296386719,
+            40.496765136719,
+            17.644622802734,
+            40.499965667725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.644623,
+                        40.497948
+                    ],
+                    [
+                        17.643442,
+                        40.496765
+                    ],
+                    [
+                        17.642862,
+                        40.497311
+                    ],
+                    [
+                        17.641382,
+                        40.499588
+                    ],
+                    [
+                        17.641296,
+                        40.499966
+                    ],
+                    [
+                        17.642412,
+                        40.498592
+                    ],
+                    [
+                        17.644623,
+                        40.497948
+                    ]
+                ]
+            ]
+        ]
+    }
+}

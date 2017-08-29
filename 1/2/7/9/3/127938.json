@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 127938,
+    "properties": {
+        "woe_id": 127938,
+        "place_id": "pbnqtNSYA5v8LMs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Laguna, Nayarit, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530434,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/127938_20101216_9676d83f93.tar.gz"
+        },
+        "bbox": [
+            -104.57611083984,
+            21.349901199341,
+            -104.56117248535,
+            21.367088317871
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.576111,
+                        21.355818
+                    ],
+                    [
+                        -104.575592,
+                        21.363251
+                    ],
+                    [
+                        -104.568214,
+                        21.367088
+                    ],
+                    [
+                        -104.561172,
+                        21.361172
+                    ],
+                    [
+                        -104.567009,
+                        21.349901
+                    ],
+                    [
+                        -104.576111,
+                        21.355818
+                    ]
+                ]
+            ]
+        ]
+    }
+}

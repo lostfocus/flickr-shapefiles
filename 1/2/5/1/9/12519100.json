@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12519100,
+    "properties": {
+        "woe_id": 12519100,
+        "place_id": "8Fn452GYA5mnwFwImg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castle Air Force Base, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538187,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/12519100_20101216_5792e9c200.tar.gz"
+        },
+        "bbox": [
+            -120.57006072998,
+            37.370513916016,
+            -120.56460571289,
+            37.373565673828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.565849,
+                        37.373566
+                    ],
+                    [
+                        -120.564606,
+                        37.370514
+                    ],
+                    [
+                        -120.570061,
+                        37.372231
+                    ],
+                    [
+                        -120.569908,
+                        37.372509
+                    ],
+                    [
+                        -120.565849,
+                        37.373566
+                    ]
+                ]
+            ]
+        ]
+    }
+}

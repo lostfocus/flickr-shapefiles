@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12632910,
+    "properties": {
+        "woe_id": 12632910,
+        "place_id": "ayxGM5qYA5rkSk5xwQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde R\u00fcdnitz, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470504,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/12632910_20101216_d2559d87f6.tar.gz"
+        },
+        "bbox": [
+            13.60020160675,
+            52.716419219971,
+            13.600955963135,
+            52.71745300293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.600828,
+                        52.716484
+                    ],
+                    [
+                        13.600202,
+                        52.717453
+                    ],
+                    [
+                        13.600698,
+                        52.717442
+                    ],
+                    [
+                        13.600956,
+                        52.716457
+                    ],
+                    [
+                        13.600892,
+                        52.716419
+                    ],
+                    [
+                        13.600828,
+                        52.716484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

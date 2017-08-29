@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1521,
+    "properties": {
+        "woe_id": 1521,
+        "place_id": "bbp.ExCYBJ7b",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Jacques, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518121,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/1521_20101216_3d6d7c368b.tar.gz"
+        },
+        "bbox": [
+            -73.570793151855,
+            45.949333190918,
+            -73.564918518066,
+            45.964332580566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.566452,
+                        45.963566
+                    ],
+                    [
+                        -73.565186,
+                        45.964333
+                    ],
+                    [
+                        -73.564919,
+                        45.964325
+                    ],
+                    [
+                        -73.570793,
+                        45.949333
+                    ],
+                    [
+                        -73.566452,
+                        45.963566
+                    ]
+                ]
+            ]
+        ]
+    }
+}

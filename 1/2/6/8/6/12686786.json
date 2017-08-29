@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12686786,
+    "properties": {
+        "woe_id": 12686786,
+        "place_id": "11s5UleYA5ofS74Rxw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Liaozhong, China"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292427963,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/12686786_20101215_01bf4f280d.tar.gz"
+        },
+        "bbox": [
+            122.83383178711,
+            41.504833221436,
+            122.83666229248,
+            41.509498596191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        122.835999,
+                        41.506165
+                    ],
+                    [
+                        122.835335,
+                        41.504833
+                    ],
+                    [
+                        122.833832,
+                        41.505833
+                    ],
+                    [
+                        122.836662,
+                        41.509499
+                    ],
+                    [
+                        122.835999,
+                        41.506165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

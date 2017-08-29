@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 111861,
+    "properties": {
+        "woe_id": 111861,
+        "place_id": "m0LwX4mYAJ1AFxo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aljibes, Hidalgo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292403122,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/111861_20101215_62f77b9182.tar.gz"
+        },
+        "bbox": [
+            -99.495964050293,
+            20.647563934326,
+            -99.488067626953,
+            20.65938949585
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.493385,
+                        20.659328
+                    ],
+                    [
+                        -99.488068,
+                        20.648848
+                    ],
+                    [
+                        -99.488068,
+                        20.647564
+                    ],
+                    [
+                        -99.495964,
+                        20.659389
+                    ],
+                    [
+                        -99.493385,
+                        20.659328
+                    ]
+                ]
+            ]
+        ]
+    }
+}

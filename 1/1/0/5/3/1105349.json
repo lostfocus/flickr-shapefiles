@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1105349,
+    "properties": {
+        "woe_id": 1105349,
+        "place_id": "7iqDCuCYAJzBHR6H",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rochester, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506263,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/1105349_20101216_e61c98ab63.tar.gz"
+        },
+        "bbox": [
+            144.69096374512,
+            -36.370986938477,
+            144.70178222656,
+            -36.357334136963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.701782,
+                        -36.359512
+                    ],
+                    [
+                        144.699203,
+                        -36.363728
+                    ],
+                    [
+                        144.697327,
+                        -36.370987
+                    ],
+                    [
+                        144.690964,
+                        -36.363243
+                    ],
+                    [
+                        144.698303,
+                        -36.357334
+                    ],
+                    [
+                        144.701782,
+                        -36.359512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

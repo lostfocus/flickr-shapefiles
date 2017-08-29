@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1835,
+    "properties": {
+        "woe_id": 1835,
+        "place_id": "l0sDzpyYCZ.N",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tuxford, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465167,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/1835_20101216_70048cf499.tar.gz"
+        },
+        "bbox": [
+            -105.59088897705,
+            50.572498321533,
+            -105.56883239746,
+            50.579803466797
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.582649,
+                        50.573479
+                    ],
+                    [
+                        -105.587837,
+                        50.575539
+                    ],
+                    [
+                        -105.590889,
+                        50.579803
+                    ],
+                    [
+                        -105.584106,
+                        50.577568
+                    ],
+                    [
+                        -105.568832,
+                        50.574951
+                    ],
+                    [
+                        -105.578888,
+                        50.572498
+                    ],
+                    [
+                        -105.582649,
+                        50.573479
+                    ]
+                ]
+            ]
+        ]
+    }
+}

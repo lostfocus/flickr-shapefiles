@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12630022,
+    "properties": {
+        "woe_id": 12630022,
+        "place_id": "2HFOzIuYA5q4hVqd9w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gemeinde Hagen am Teutoburger Wald, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449686,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/12630022_20101215_9eac4be807.tar.gz"
+        },
+        "bbox": [
+            7.9693360328674,
+            52.182327270508,
+            7.9793457984924,
+            52.187797546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.970924,
+                        52.185314
+                    ],
+                    [
+                        7.969336,
+                        52.187798
+                    ],
+                    [
+                        7.973885,
+                        52.185616
+                    ],
+                    [
+                        7.979346,
+                        52.185474
+                    ],
+                    [
+                        7.978048,
+                        52.183109
+                    ],
+                    [
+                        7.972083,
+                        52.182327
+                    ],
+                    [
+                        7.970924,
+                        52.185314
+                    ]
+                ]
+            ]
+        ]
+    }
+}

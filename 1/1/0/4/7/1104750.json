@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1104750,
+    "properties": {
+        "woe_id": 1104750,
+        "place_id": "Ecft0z2YAJwnlXMh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oaklands, New South Wales, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292415125,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/1104750_20101215_fee2496f06.tar.gz"
+        },
+        "bbox": [
+            146.16723632812,
+            -35.558238983154,
+            146.17254638672,
+            -35.551418304443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        146.171844,
+                        -35.551533
+                    ],
+                    [
+                        146.172241,
+                        -35.551418
+                    ],
+                    [
+                        146.172546,
+                        -35.551456
+                    ],
+                    [
+                        146.168274,
+                        -35.558239
+                    ],
+                    [
+                        146.167236,
+                        -35.558205
+                    ],
+                    [
+                        146.171844,
+                        -35.551533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

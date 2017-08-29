@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12602490,
+    "properties": {
+        "woe_id": 12602490,
+        "place_id": "0qnVKViYA5rkDa328g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Ghislain, Belgium"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539874,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/12602490_20101216_7bc856f523.tar.gz"
+        },
+        "bbox": [
+            3.81964802742,
+            50.443195343018,
+            3.8276410102844,
+            50.445507049561
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.827641,
+                        50.445507
+                    ],
+                    [
+                        3.825988,
+                        50.443771
+                    ],
+                    [
+                        3.824733,
+                        50.443649
+                    ],
+                    [
+                        3.819648,
+                        50.443195
+                    ],
+                    [
+                        3.822383,
+                        50.445042
+                    ],
+                    [
+                        3.827641,
+                        50.445507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

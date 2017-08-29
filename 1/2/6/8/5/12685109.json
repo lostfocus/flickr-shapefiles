@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12685109,
+    "properties": {
+        "woe_id": 12685109,
+        "place_id": "7mr0mFuYA5rNlFvT6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Niederhasli, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536851,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/12685109_20101216_a145d3ae99.tar.gz"
+        },
+        "bbox": [
+            8.4872760772705,
+            47.473823547363,
+            8.4946660995483,
+            47.477054595947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.490012,
+                        47.474266
+                    ],
+                    [
+                        8.494666,
+                        47.476166
+                    ],
+                    [
+                        8.490521,
+                        47.473824
+                    ],
+                    [
+                        8.487276,
+                        47.474026
+                    ],
+                    [
+                        8.487583,
+                        47.474945
+                    ],
+                    [
+                        8.487722,
+                        47.477055
+                    ],
+                    [
+                        8.490012,
+                        47.474266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

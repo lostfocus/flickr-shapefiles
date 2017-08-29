@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 18200,
+    "properties": {
+        "woe_id": 18200,
+        "place_id": "e2kaHpuYCZ59ew",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dinder, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535127,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/18200_20101216_dfb0e779f5.tar.gz"
+        },
+        "bbox": [
+            -2.6106259822845,
+            51.196342468262,
+            -2.6070210933685,
+            51.199947357178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.607021,
+                        51.199085
+                    ],
+                    [
+                        -2.607021,
+                        51.198505
+                    ],
+                    [
+                        -2.610626,
+                        51.196342
+                    ],
+                    [
+                        -2.610111,
+                        51.199677
+                    ],
+                    [
+                        -2.607536,
+                        51.199947
+                    ],
+                    [
+                        -2.607021,
+                        51.199085
+                    ]
+                ]
+            ]
+        ]
+    }
+}

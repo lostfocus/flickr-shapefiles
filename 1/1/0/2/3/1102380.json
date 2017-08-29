@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1102380,
+    "properties": {
+        "woe_id": 1102380,
+        "place_id": "us5UflCYAJw87BDC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gorae West, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456375,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/1102380_20101215_308492b3fd.tar.gz"
+        },
+        "bbox": [
+            141.46994018555,
+            -38.27437210083,
+            141.47016906738,
+            -38.273719787598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.46994,
+                        -38.274372
+                    ],
+                    [
+                        141.470062,
+                        -38.27372
+                    ],
+                    [
+                        141.470169,
+                        -38.273861
+                    ],
+                    [
+                        141.470062,
+                        -38.274338
+                    ],
+                    [
+                        141.46994,
+                        -38.274372
+                    ]
+                ]
+            ]
+        ]
+    }
+}

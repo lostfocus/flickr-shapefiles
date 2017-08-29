@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 120104,
+    "properties": {
+        "woe_id": 120104,
+        "place_id": "SJgoZrmYA5wTB.s",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "El Diezmo, Colima, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548453,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/120104_20101217_25f359a527.tar.gz"
+        },
+        "bbox": [
+            -103.70132446289,
+            19.243732452393,
+            -103.68698120117,
+            19.259456634521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.701324,
+                        19.248274
+                    ],
+                    [
+                        -103.699577,
+                        19.252447
+                    ],
+                    [
+                        -103.689819,
+                        19.259457
+                    ],
+                    [
+                        -103.686981,
+                        19.243732
+                    ],
+                    [
+                        -103.698578,
+                        19.244223
+                    ],
+                    [
+                        -103.701324,
+                        19.248274
+                    ]
+                ]
+            ]
+        ]
+    }
+}
