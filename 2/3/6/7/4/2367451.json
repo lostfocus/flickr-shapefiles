@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2367451,
+    "properties": {
+        "woe_id": 2367451,
+        "place_id": "pkossuqbAppCqkom",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bowlby, West Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458511,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2367451_20101216_6f458a975d.tar.gz"
+        },
+        "bbox": [
+            -80.009117126465,
+            39.732315063477,
+            -80.002975463867,
+            39.735443115234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.007202,
+                        39.735443
+                    ],
+                    [
+                        -80.002975,
+                        39.732315
+                    ],
+                    [
+                        -80.007118,
+                        39.732414
+                    ],
+                    [
+                        -80.009117,
+                        39.735226
+                    ],
+                    [
+                        -80.007202,
+                        39.735443
+                    ]
+                ]
+            ]
+        ]
+    }
+}

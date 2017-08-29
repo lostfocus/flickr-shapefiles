@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23390112,
+    "properties": {
+        "woe_id": 23390112,
+        "place_id": "yFJ3GUKbAp.6.JuZvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lennox Island, Prince Edward Island, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488683,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/23390112_20101216_2aa93bf0aa.tar.gz"
+        },
+        "bbox": [
+            -63.856067657471,
+            46.599681854248,
+            -63.85425567627,
+            46.607704162598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -63.856068,
+                        46.600571
+                    ],
+                    [
+                        -63.854256,
+                        46.607704
+                    ],
+                    [
+                        -63.855629,
+                        46.601337
+                    ],
+                    [
+                        -63.855701,
+                        46.599899
+                    ],
+                    [
+                        -63.856068,
+                        46.599682
+                    ],
+                    [
+                        -63.856068,
+                        46.600571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

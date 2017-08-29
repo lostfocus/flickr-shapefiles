@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2453039,
+    "properties": {
+        "woe_id": 2453039,
+        "place_id": "ddBIfhGbBZkaHdbL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monroe Center, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548231,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2453039_20101217_9a7b577aa7.tar.gz"
+        },
+        "bbox": [
+            -89.907005310059,
+            44.101230621338,
+            -89.904800415039,
+            44.102802276611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.905685,
+                        44.102802
+                    ],
+                    [
+                        -89.90522,
+                        44.102196
+                    ],
+                    [
+                        -89.9048,
+                        44.101231
+                    ],
+                    [
+                        -89.907005,
+                        44.101696
+                    ],
+                    [
+                        -89.905685,
+                        44.102802
+                    ]
+                ]
+            ]
+        ]
+    }
+}

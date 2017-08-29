@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26810450,
+    "properties": {
+        "woe_id": 26810450,
+        "place_id": "BO3qxymbB5SlK3l.WQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Lucas, Ecuador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523663,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/26810450_20101216_fe9aeb268e.tar.gz"
+        },
+        "bbox": [
+            -79.269271850586,
+            -3.6831119060516,
+            -79.269248962402,
+            -3.683089017868
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.269249,
+                        -3.683106
+                    ],
+                    [
+                        -79.269249,
+                        -3.683112
+                    ],
+                    [
+                        -79.269272,
+                        -3.6831
+                    ],
+                    [
+                        -79.269272,
+                        -3.683098
+                    ],
+                    [
+                        -79.269264,
+                        -3.683089
+                    ],
+                    [
+                        -79.269249,
+                        -3.683106
+                    ]
+                ]
+            ]
+        ]
+    }
+}

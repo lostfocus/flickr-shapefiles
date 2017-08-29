@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20192854,
+    "properties": {
+        "woe_id": 20192854,
+        "place_id": "jqyFV1ObAZ1bfqYxyg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Laval, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292387043,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20192854_20101215_8d59e13471.tar.gz"
+        },
+        "bbox": [
+            1.6788909435272,
+            43.397953033447,
+            1.679759979248,
+            43.399059295654
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.679713,
+                        43.398373
+                    ],
+                    [
+                        1.67976,
+                        43.398304
+                    ],
+                    [
+                        1.679738,
+                        43.398289
+                    ],
+                    [
+                        1.678891,
+                        43.397953
+                    ],
+                    [
+                        1.679105,
+                        43.399059
+                    ],
+                    [
+                        1.679713,
+                        43.398373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2484393,
+    "properties": {
+        "woe_id": 2484393,
+        "place_id": "YzmB3bmbBZScWHaf",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Root, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526485,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2484393_20101216_2a5813cddd.tar.gz"
+        },
+        "bbox": [
+            -74.46932220459,
+            42.858009338379,
+            -74.462295532227,
+            42.859794616699
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.463173,
+                        42.858009
+                    ],
+                    [
+                        -74.469322,
+                        42.859303
+                    ],
+                    [
+                        -74.469009,
+                        42.859795
+                    ],
+                    [
+                        -74.462296,
+                        42.858032
+                    ],
+                    [
+                        -74.463173,
+                        42.858009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

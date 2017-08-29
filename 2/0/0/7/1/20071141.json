@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20071141,
+    "properties": {
+        "woe_id": 20071141,
+        "place_id": "ahpUDtebAZyk1ZNsXw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jiaozuo, China"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527810,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/20071141_20101216_0ea6362850.tar.gz"
+        },
+        "bbox": [
+            113.26865386963,
+            35.208808898926,
+            113.27522277832,
+            35.212665557861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        113.27346,
+                        35.211475
+                    ],
+                    [
+                        113.268654,
+                        35.208809
+                    ],
+                    [
+                        113.27282,
+                        35.212246
+                    ],
+                    [
+                        113.274879,
+                        35.212524
+                    ],
+                    [
+                        113.275223,
+                        35.212666
+                    ],
+                    [
+                        113.274536,
+                        35.210876
+                    ],
+                    [
+                        113.27346,
+                        35.211475
+                    ]
+                ]
+            ]
+        ]
+    }
+}

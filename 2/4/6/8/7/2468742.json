@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468742,
+    "properties": {
+        "woe_id": 2468742,
+        "place_id": "7E_zPsmbBZp6J5fA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parkville, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538100,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2468742_20101216_8f3f9b1686.tar.gz"
+        },
+        "bbox": [
+            -76.980888366699,
+            39.770893096924,
+            -76.964492797852,
+            39.784664154053
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.965279,
+                        39.784664
+                    ],
+                    [
+                        -76.964493,
+                        39.783901
+                    ],
+                    [
+                        -76.980179,
+                        39.770893
+                    ],
+                    [
+                        -76.980888,
+                        39.771057
+                    ],
+                    [
+                        -76.975021,
+                        39.783607
+                    ],
+                    [
+                        -76.965279,
+                        39.784664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

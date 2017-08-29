@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 22222,
+    "properties": {
+        "woe_id": 22222,
+        "place_id": "daR3Dw6bA541xA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Halstock Leigh, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524982,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/22222_20101216_59d0193660.tar.gz"
+        },
+        "bbox": [
+            -2.6781868934631,
+            50.868286132812,
+            -2.6691930294037,
+            50.874912261963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.675342,
+                        50.868595
+                    ],
+                    [
+                        -2.678187,
+                        50.873528
+                    ],
+                    [
+                        -2.673953,
+                        50.874912
+                    ],
+                    [
+                        -2.669193,
+                        50.86866
+                    ],
+                    [
+                        -2.670809,
+                        50.868286
+                    ],
+                    [
+                        -2.671823,
+                        50.868324
+                    ],
+                    [
+                        -2.675342,
+                        50.868595
+                    ]
+                ]
+            ]
+        ]
+    }
+}

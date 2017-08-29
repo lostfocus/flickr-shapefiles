@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28338853,
+    "properties": {
+        "woe_id": 28338853,
+        "place_id": "2RjriKabCZ_euTfv_g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ormond, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234705328,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3047\/shapefiles\/28338853_20090215_9f1704ae07.tar.gz"
+        },
+        "bbox": [
+            -90.382507324219,
+            29.963830947876,
+            -90.370506286621,
+            29.975177764893
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.373405,
+                        29.975178
+                    ],
+                    [
+                        -90.370506,
+                        29.967323
+                    ],
+                    [
+                        -90.382507,
+                        29.963831
+                    ],
+                    [
+                        -90.376968,
+                        29.96936
+                    ],
+                    [
+                        -90.373405,
+                        29.975178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

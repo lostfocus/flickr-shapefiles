@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20074985,
+    "properties": {
+        "woe_id": 20074985,
+        "place_id": "gSK6PL.bAZxB0qd.7w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "C\u00e9nac-et-St.-Julien, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471106,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/20074985_20101216_d74cac9a29.tar.gz"
+        },
+        "bbox": [
+            1.2012870311737,
+            44.775074005127,
+            1.2025409936905,
+            44.777328491211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.20136,
+                        44.776321
+                    ],
+                    [
+                        1.201287,
+                        44.776615
+                    ],
+                    [
+                        1.201318,
+                        44.776859
+                    ],
+                    [
+                        1.201372,
+                        44.777328
+                    ],
+                    [
+                        1.202541,
+                        44.775074
+                    ],
+                    [
+                        1.20136,
+                        44.776321
+                    ]
+                ]
+            ]
+        ]
+    }
+}

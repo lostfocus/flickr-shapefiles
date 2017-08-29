@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2401701,
+    "properties": {
+        "woe_id": 2401701,
+        "place_id": "HQjj7aybBZzHTsLM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairview, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239508334,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3661\/shapefiles\/2401701_20090412_381758125e.tar.gz"
+        },
+        "bbox": [
+            -118.91129302979,
+            34.328727722168,
+            -118.90004730225,
+            34.344287872314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.900047,
+                        34.334366
+                    ],
+                    [
+                        -118.903763,
+                        34.328728
+                    ],
+                    [
+                        -118.911293,
+                        34.344288
+                    ],
+                    [
+                        -118.901253,
+                        34.339962
+                    ],
+                    [
+                        -118.900047,
+                        34.334366
+                    ]
+                ]
+            ]
+        ]
+    }
+}

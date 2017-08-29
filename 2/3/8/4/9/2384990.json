@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2384990,
+    "properties": {
+        "woe_id": 2384990,
+        "place_id": "goJFcuGbApQF2kDX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cordova, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456628,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2384990_20101215_bf3c942dac.tar.gz"
+        },
+        "bbox": [
+            -87.205825805664,
+            33.74040222168,
+            -87.187164306641,
+            33.759170532227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.203506,
+                        33.749302
+                    ],
+                    [
+                        -87.205826,
+                        33.759171
+                    ],
+                    [
+                        -87.187164,
+                        33.75676
+                    ],
+                    [
+                        -87.200645,
+                        33.740402
+                    ],
+                    [
+                        -87.201103,
+                        33.741596
+                    ],
+                    [
+                        -87.203506,
+                        33.749302
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20075019,
+    "properties": {
+        "woe_id": 20075019,
+        "place_id": "IqH1sO.bAZxXLd8a7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Germain, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534150,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/20075019_20101216_2d87199dd2.tar.gz"
+        },
+        "bbox": [
+            0.86354202032089,
+            46.562210083008,
+            0.86865997314453,
+            46.566295623779
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.864057,
+                        46.566296
+                    ],
+                    [
+                        0.866889,
+                        46.565529
+                    ],
+                    [
+                        0.86866,
+                        46.564075
+                    ],
+                    [
+                        0.865345,
+                        46.563049
+                    ],
+                    [
+                        0.863542,
+                        46.56221
+                    ],
+                    [
+                        0.864164,
+                        46.565838
+                    ],
+                    [
+                        0.864057,
+                        46.566296
+                    ]
+                ]
+            ]
+        ]
+    }
+}

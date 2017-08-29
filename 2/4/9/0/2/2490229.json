@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2490229,
+    "properties": {
+        "woe_id": 2490229,
+        "place_id": "OaXEqWibBZWkGHhO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Seabrook, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239444002,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3596\/shapefiles\/2490229_20090411_660cd93e38.tar.gz"
+        },
+        "bbox": [
+            -75.237724304199,
+            39.492473602295,
+            -75.218635559082,
+            39.51171875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.232315,
+                        39.492474
+                    ],
+                    [
+                        -75.230995,
+                        39.499287
+                    ],
+                    [
+                        -75.237724,
+                        39.511719
+                    ],
+                    [
+                        -75.218636,
+                        39.508244
+                    ],
+                    [
+                        -75.224953,
+                        39.498318
+                    ],
+                    [
+                        -75.232315,
+                        39.492474
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29402000,
+    "properties": {
+        "woe_id": 29402000,
+        "place_id": "iXueiSubCJi9Bav53g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Velke Levare, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509688,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/29402000_20101216_17b3e543d7.tar.gz"
+        },
+        "bbox": [
+            17.062969207764,
+            48.484909057617,
+            17.065692901611,
+            48.488849639893
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.064939,
+                        48.484909
+                    ],
+                    [
+                        17.062969,
+                        48.48885
+                    ],
+                    [
+                        17.065599,
+                        48.487251
+                    ],
+                    [
+                        17.065693,
+                        48.485828
+                    ],
+                    [
+                        17.064939,
+                        48.484909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

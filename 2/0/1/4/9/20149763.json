@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20149763,
+    "properties": {
+        "woe_id": 20149763,
+        "place_id": "ofu7TOCbAZ33coZIdw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Metello, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513888,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/20149763_20101216_dd91ff06dc.tar.gz"
+        },
+        "bbox": [
+            10.370829582214,
+            44.233551025391,
+            10.385558128357,
+            44.242000579834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.385558,
+                        44.237389
+                    ],
+                    [
+                        10.385555,
+                        44.237389
+                    ],
+                    [
+                        10.374022,
+                        44.234962
+                    ],
+                    [
+                        10.37083,
+                        44.233551
+                    ],
+                    [
+                        10.374333,
+                        44.235481
+                    ],
+                    [
+                        10.383625,
+                        44.242001
+                    ],
+                    [
+                        10.385558,
+                        44.237389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

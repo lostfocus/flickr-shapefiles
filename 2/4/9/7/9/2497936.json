@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2497936,
+    "properties": {
+        "woe_id": 2497936,
+        "place_id": "VBgJKOybBZVvuQ4X",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spring Hill, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456818,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2497936_20101215_249d7a6cec.tar.gz"
+        },
+        "bbox": [
+            -77.383201599121,
+            36.207702636719,
+            -77.378684997559,
+            36.213325500488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.383179,
+                        36.208645
+                    ],
+                    [
+                        -77.378685,
+                        36.213326
+                    ],
+                    [
+                        -77.380348,
+                        36.207703
+                    ],
+                    [
+                        -77.383202,
+                        36.208595
+                    ],
+                    [
+                        -77.383179,
+                        36.208645
+                    ]
+                ]
+            ]
+        ]
+    }
+}

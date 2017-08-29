@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745667,
+    "properties": {
+        "woe_id": 28745667,
+        "place_id": "M.fy_2mbCZtJ1fbFaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Poinciana Place, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548897,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/28745667_20101217_c47196a9ab.tar.gz"
+        },
+        "bbox": [
+            -81.503959655762,
+            28.157489776611,
+            -81.483619689941,
+            28.176725387573
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.492523,
+                        28.15749
+                    ],
+                    [
+                        -81.50396,
+                        28.170994
+                    ],
+                    [
+                        -81.48362,
+                        28.176725
+                    ],
+                    [
+                        -81.484047,
+                        28.16963
+                    ],
+                    [
+                        -81.492462,
+                        28.157522
+                    ],
+                    [
+                        -81.492523,
+                        28.15749
+                    ]
+                ]
+            ]
+        ]
+    }
+}

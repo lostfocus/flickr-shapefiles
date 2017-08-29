@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20071322,
+    "properties": {
+        "woe_id": 20071322,
+        "place_id": "u5mJXVybAZwspjt2rw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Virginia, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540485,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20071322_20101216_9c9b5bcfe1.tar.gz"
+        },
+        "bbox": [
+            -7.0539088249207,
+            53.817413330078,
+            -7.0525360107422,
+            53.818855285645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.053667,
+                        53.818668
+                    ],
+                    [
+                        -7.053909,
+                        53.818855
+                    ],
+                    [
+                        -7.053167,
+                        53.818668
+                    ],
+                    [
+                        -7.052536,
+                        53.817413
+                    ],
+                    [
+                        -7.053667,
+                        53.818668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

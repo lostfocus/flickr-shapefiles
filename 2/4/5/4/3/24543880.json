@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24543880,
+    "properties": {
+        "woe_id": 24543880,
+        "place_id": "GmMzCJ2bBZlGyH4eKg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kardamyla, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532009,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/24543880_20101216_611618ac34.tar.gz"
+        },
+        "bbox": [
+            26.08325958252,
+            38.55863571167,
+            26.086521148682,
+            38.559711456299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        26.083603,
+                        38.559174
+                    ],
+                    [
+                        26.08326,
+                        38.559174
+                    ],
+                    [
+                        26.08326,
+                        38.559711
+                    ],
+                    [
+                        26.086521,
+                        38.558636
+                    ],
+                    [
+                        26.083603,
+                        38.559174
+                    ]
+                ]
+            ]
+        ]
+    }
+}

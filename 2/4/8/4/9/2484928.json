@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2484928,
+    "properties": {
+        "woe_id": 2484928,
+        "place_id": "joIWjZCbBZSYJXnj",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Roslyn, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234746363,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3422\/shapefiles\/2484928_20090216_7d7f2b468b.tar.gz"
+        },
+        "bbox": [
+            -76.744018554688,
+            39.369888305664,
+            -76.741088867188,
+            39.375267028809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.741089,
+                        39.369888
+                    ],
+                    [
+                        -76.744019,
+                        39.371258
+                    ],
+                    [
+                        -76.742981,
+                        39.373104
+                    ],
+                    [
+                        -76.741951,
+                        39.375267
+                    ],
+                    [
+                        -76.741089,
+                        39.369888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

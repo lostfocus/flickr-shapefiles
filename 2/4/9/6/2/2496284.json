@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496284,
+    "properties": {
+        "woe_id": 2496284,
+        "place_id": "Y9EI6kabBZXVOrPi",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "South Greensburg, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451900,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2496284_20101215_ca67d1dfe8.tar.gz"
+        },
+        "bbox": [
+            -79.555824279785,
+            40.271587371826,
+            -79.546333312988,
+            40.283813476562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.546333,
+                        40.280182
+                    ],
+                    [
+                        -79.546356,
+                        40.276676
+                    ],
+                    [
+                        -79.555824,
+                        40.271587
+                    ],
+                    [
+                        -79.552856,
+                        40.283321
+                    ],
+                    [
+                        -79.546516,
+                        40.283813
+                    ],
+                    [
+                        -79.546333,
+                        40.280182
+                    ]
+                ]
+            ]
+        ]
+    }
+}

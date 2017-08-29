@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20135068,
+    "properties": {
+        "woe_id": 20135068,
+        "place_id": "o8bEfoGbAZ1YWCNOng",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parzano, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234530009,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3322\/shapefiles\/20135068_20090213_fc6f5ed1ee.tar.gz"
+        },
+        "bbox": [
+            9.2036237716675,
+            45.785961151123,
+            9.2110061645508,
+            45.792156219482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.206542,
+                        45.785961
+                    ],
+                    [
+                        9.203624,
+                        45.785961
+                    ],
+                    [
+                        9.207315,
+                        45.792156
+                    ],
+                    [
+                        9.211006,
+                        45.785961
+                    ],
+                    [
+                        9.206542,
+                        45.785961
+                    ]
+                ]
+            ]
+        ]
+    }
+}

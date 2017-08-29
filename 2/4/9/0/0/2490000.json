@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2490000,
+    "properties": {
+        "woe_id": 2490000,
+        "place_id": "40QoOOabBZXxuYKo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Scottown, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518709,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2490000_20101216_c3a4b7f599.tar.gz"
+        },
+        "bbox": [
+            -76.101608276367,
+            38.951831817627,
+            -76.078834533691,
+            38.967334747314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.084442,
+                        38.952534
+                    ],
+                    [
+                        -76.085403,
+                        38.951832
+                    ],
+                    [
+                        -76.095856,
+                        38.960011
+                    ],
+                    [
+                        -76.101608,
+                        38.964481
+                    ],
+                    [
+                        -76.096924,
+                        38.961407
+                    ],
+                    [
+                        -76.078835,
+                        38.967335
+                    ],
+                    [
+                        -76.084442,
+                        38.952534
+                    ]
+                ]
+            ]
+        ]
+    }
+}

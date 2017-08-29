@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20092556,
+    "properties": {
+        "woe_id": 20092556,
+        "place_id": "6vqniOCbAZxtMOFW6Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fretherne, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522370,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/20092556_20101216_142f286c73.tar.gz"
+        },
+        "bbox": [
+            -2.3886680603027,
+            51.771663665771,
+            -2.3861780166626,
+            51.780612945557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.387294,
+                        51.780586
+                    ],
+                    [
+                        -2.386178,
+                        51.779125
+                    ],
+                    [
+                        -2.388668,
+                        51.771664
+                    ],
+                    [
+                        -2.388496,
+                        51.780613
+                    ],
+                    [
+                        -2.387638,
+                        51.780613
+                    ],
+                    [
+                        -2.387294,
+                        51.780586
+                    ]
+                ]
+            ]
+        ]
+    }
+}

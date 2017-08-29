@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20130162,
+    "properties": {
+        "woe_id": 20130162,
+        "place_id": "C6YRPxqbAZ0CqArAHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Maguzzano, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457263,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20130162_20101215_757c1727b2.tar.gz"
+        },
+        "bbox": [
+            10.501383781433,
+            45.483951568604,
+            10.506620407104,
+            45.486553192139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.502543,
+                        45.485207
+                    ],
+                    [
+                        10.502285,
+                        45.485455
+                    ],
+                    [
+                        10.501384,
+                        45.486553
+                    ],
+                    [
+                        10.50662,
+                        45.483952
+                    ],
+                    [
+                        10.502543,
+                        45.485207
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2506425,
+    "properties": {
+        "woe_id": 2506425,
+        "place_id": "dBV9CXSbBJxaOfwr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Timber Ridge, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234879695,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3249\/shapefiles\/2506425_20090217_8b8c9c6bce.tar.gz"
+        },
+        "bbox": [
+            -77.109474182129,
+            39.425254821777,
+            -77.101875305176,
+            39.429588317871
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.105461,
+                        39.428993
+                    ],
+                    [
+                        -77.104424,
+                        39.429588
+                    ],
+                    [
+                        -77.101875,
+                        39.425255
+                    ],
+                    [
+                        -77.109474,
+                        39.426598
+                    ],
+                    [
+                        -77.105461,
+                        39.428993
+                    ]
+                ]
+            ]
+        ]
+    }
+}

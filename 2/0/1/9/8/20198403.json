@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20198403,
+    "properties": {
+        "woe_id": 20198403,
+        "place_id": "5bKKwuubAZ2CH70WLg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Neuillac, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518992,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/20198403_20101216_a8d659b02f.tar.gz"
+        },
+        "bbox": [
+            0.023678999394178,
+            45.725440979004,
+            0.028939999639988,
+            45.727428436279
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.024027,
+                        45.727131
+                    ],
+                    [
+                        0.023679,
+                        45.727348
+                    ],
+                    [
+                        0.026422,
+                        45.727428
+                    ],
+                    [
+                        0.02894,
+                        45.725441
+                    ],
+                    [
+                        0.028778,
+                        45.725533
+                    ],
+                    [
+                        0.024237,
+                        45.727093
+                    ],
+                    [
+                        0.024027,
+                        45.727131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

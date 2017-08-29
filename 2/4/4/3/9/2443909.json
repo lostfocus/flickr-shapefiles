@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2443909,
+    "properties": {
+        "woe_id": 2443909,
+        "place_id": "7sxHLMObBZgQLqAq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Madelia, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234841171,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3506\/shapefiles\/2443909_20090217_069d89181d.tar.gz"
+        },
+        "bbox": [
+            -94.421867370605,
+            44.041584014893,
+            -94.404487609863,
+            44.058692932129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.411758,
+                        44.048576
+                    ],
+                    [
+                        -94.421524,
+                        44.041584
+                    ],
+                    [
+                        -94.421867,
+                        44.052773
+                    ],
+                    [
+                        -94.404488,
+                        44.058693
+                    ],
+                    [
+                        -94.411758,
+                        44.048576
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28745302,
+    "properties": {
+        "woe_id": 28745302,
+        "place_id": "eQzkJGWbCZtV8ZzPnw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rush, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541321,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/28745302_20101216_9abf1a081a.tar.gz"
+        },
+        "bbox": [
+            -78.220420837402,
+            40.896667480469,
+            -78.207321166992,
+            40.910179138184
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.220421,
+                        40.897007
+                    ],
+                    [
+                        -78.21817,
+                        40.897835
+                    ],
+                    [
+                        -78.209236,
+                        40.909782
+                    ],
+                    [
+                        -78.209084,
+                        40.910179
+                    ],
+                    [
+                        -78.207321,
+                        40.898891
+                    ],
+                    [
+                        -78.21917,
+                        40.896667
+                    ],
+                    [
+                        -78.220421,
+                        40.897007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

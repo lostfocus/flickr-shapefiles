@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220918,
+    "properties": {
+        "woe_id": 20220918,
+        "place_id": "My63tSybAZ7DfsD1jQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bescaran, Catalonia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544865,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/20220918_20101217_939d516572.tar.gz"
+        },
+        "bbox": [
+            1.5403170585632,
+            42.397853851318,
+            1.5476980209351,
+            42.404434204102
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.54437,
+                        42.404434
+                    ],
+                    [
+                        1.544383,
+                        42.404427
+                    ],
+                    [
+                        1.547698,
+                        42.400768
+                    ],
+                    [
+                        1.540317,
+                        42.397854
+                    ],
+                    [
+                        1.540489,
+                        42.40229
+                    ],
+                    [
+                        1.54437,
+                        42.404434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

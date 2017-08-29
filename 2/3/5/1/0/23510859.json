@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23510859,
+    "properties": {
+        "woe_id": 23510859,
+        "place_id": "BoX8Iw2bApnJZNjzlQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lake Thunderbird, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528523,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/23510859_20101216_09bfe6101e.tar.gz"
+        },
+        "bbox": [
+            -89.402442932129,
+            41.240329742432,
+            -89.400146484375,
+            41.241737365723
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.400299,
+                        41.240543
+                    ],
+                    [
+                        -89.400146,
+                        41.240341
+                    ],
+                    [
+                        -89.400299,
+                        41.24033
+                    ],
+                    [
+                        -89.401009,
+                        41.240479
+                    ],
+                    [
+                        -89.402443,
+                        41.241737
+                    ],
+                    [
+                        -89.400299,
+                        41.240543
+                    ]
+                ]
+            ]
+        ]
+    }
+}

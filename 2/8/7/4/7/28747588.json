@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28747588,
+    "properties": {
+        "woe_id": 28747588,
+        "place_id": "MiEnRY.bCZsHcC_H7g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brimhall, New Mexico, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435525,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28747588_20101215_cb8b8644c7.tar.gz"
+        },
+        "bbox": [
+            -108.53178405762,
+            35.496334075928,
+            -108.50333404541,
+            35.507682800293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -108.519173,
+                        35.506458
+                    ],
+                    [
+                        -108.503334,
+                        35.496334
+                    ],
+                    [
+                        -108.518333,
+                        35.502666
+                    ],
+                    [
+                        -108.519997,
+                        35.503502
+                    ],
+                    [
+                        -108.531784,
+                        35.507683
+                    ],
+                    [
+                        -108.519173,
+                        35.506458
+                    ]
+                ]
+            ]
+        ]
+    }
+}

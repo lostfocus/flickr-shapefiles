@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2399732,
+    "properties": {
+        "woe_id": 2399732,
+        "place_id": "oMsV3dKbApVFdttI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "English Town, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234825097,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3207\/shapefiles\/2399732_20090216_198413509d.tar.gz"
+        },
+        "bbox": [
+            -90.639961242676,
+            37.619483947754,
+            -90.637832641602,
+            37.621574401855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.63826,
+                        37.619484
+                    ],
+                    [
+                        -90.639961,
+                        37.619823
+                    ],
+                    [
+                        -90.63987,
+                        37.620674
+                    ],
+                    [
+                        -90.637833,
+                        37.621574
+                    ],
+                    [
+                        -90.63826,
+                        37.619484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2408959,
+    "properties": {
+        "woe_id": 2408959,
+        "place_id": "o2SMKcubBZyN3WiN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Garland City, Arkansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234882081,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3551\/shapefiles\/2408959_20090217_b41f83accd.tar.gz"
+        },
+        "bbox": [
+            -93.723419189453,
+            33.359260559082,
+            -93.710502624512,
+            33.364944458008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.710625,
+                        33.359261
+                    ],
+                    [
+                        -93.723419,
+                        33.364944
+                    ],
+                    [
+                        -93.710716,
+                        33.362793
+                    ],
+                    [
+                        -93.710503,
+                        33.359318
+                    ],
+                    [
+                        -93.710625,
+                        33.359261
+                    ]
+                ]
+            ]
+        ]
+    }
+}

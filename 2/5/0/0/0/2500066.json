@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500066,
+    "properties": {
+        "woe_id": 2500066,
+        "place_id": ".Kld942bBJzCxvKR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockholm, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549504,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2500066_20101217_c8b559501b.tar.gz"
+        },
+        "bbox": [
+            -68.366119384766,
+            47.14041519165,
+            -68.365180969238,
+            47.140575408936
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.365181,
+                        47.140575
+                    ],
+                    [
+                        -68.365295,
+                        47.140545
+                    ],
+                    [
+                        -68.365898,
+                        47.140446
+                    ],
+                    [
+                        -68.366119,
+                        47.140415
+                    ],
+                    [
+                        -68.365181,
+                        47.140575
+                    ]
+                ]
+            ]
+        ]
+    }
+}

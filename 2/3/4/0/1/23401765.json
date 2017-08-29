@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23401765,
+    "properties": {
+        "woe_id": 23401765,
+        "place_id": "bhsQTjCbApjzfqv5_g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Scotland, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538245,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/23401765_20101216_5286469a35.tar.gz"
+        },
+        "bbox": [
+            -80.37614440918,
+            43.008148193359,
+            -80.3525390625,
+            43.02693939209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.376144,
+                        43.026108
+                    ],
+                    [
+                        -80.367371,
+                        43.026939
+                    ],
+                    [
+                        -80.352539,
+                        43.008148
+                    ],
+                    [
+                        -80.370796,
+                        43.013073
+                    ],
+                    [
+                        -80.375244,
+                        43.024509
+                    ],
+                    [
+                        -80.376144,
+                        43.026108
+                    ]
+                ]
+            ]
+        ]
+    }
+}

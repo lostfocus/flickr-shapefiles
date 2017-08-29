@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20093419,
+    "properties": {
+        "woe_id": 20093419,
+        "place_id": "DZP6rFmbAZwL7C1ALQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gundleton, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248155530,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3477\/shapefiles\/20093419_20090721_abeabe0944.tar.gz"
+        },
+        "bbox": [
+            -1.1165709495544,
+            51.085731506348,
+            -1.1012070178986,
+            51.098346710205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.103289,
+                        51.087486
+                    ],
+                    [
+                        -1.112194,
+                        51.085732
+                    ],
+                    [
+                        -1.116571,
+                        51.086029
+                    ],
+                    [
+                        -1.102752,
+                        51.098347
+                    ],
+                    [
+                        -1.101207,
+                        51.087997
+                    ],
+                    [
+                        -1.103289,
+                        51.087486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

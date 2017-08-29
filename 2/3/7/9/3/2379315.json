@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2379315,
+    "properties": {
+        "woe_id": 2379315,
+        "place_id": "kxhdpRmbApuh4WKz",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chesterfield, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540354,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2379315_20101216_47f687b7b9.tar.gz"
+        },
+        "bbox": [
+            -111.91081237793,
+            42.859230041504,
+            -111.89576721191,
+            42.87162399292
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.908585,
+                        42.871624
+                    ],
+                    [
+                        -111.905792,
+                        42.871216
+                    ],
+                    [
+                        -111.895767,
+                        42.862019
+                    ],
+                    [
+                        -111.905022,
+                        42.85923
+                    ],
+                    [
+                        -111.910812,
+                        42.865742
+                    ],
+                    [
+                        -111.908585,
+                        42.871624
+                    ]
+                ]
+            ]
+        ]
+    }
+}

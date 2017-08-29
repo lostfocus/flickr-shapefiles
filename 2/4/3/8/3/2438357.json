@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2438357,
+    "properties": {
+        "woe_id": 2438357,
+        "place_id": "qJ.xc.KbBZ8x.ORM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Leo, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234686487,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3440\/shapefiles\/2438357_20090215_6336791503.tar.gz"
+        },
+        "bbox": [
+            -82.67463684082,
+            39.148235321045,
+            -82.66731262207,
+            39.150562286377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.673538,
+                        39.148235
+                    ],
+                    [
+                        -82.674637,
+                        39.150528
+                    ],
+                    [
+                        -82.673149,
+                        39.150562
+                    ],
+                    [
+                        -82.667313,
+                        39.149632
+                    ],
+                    [
+                        -82.673538,
+                        39.148235
+                    ]
+                ]
+            ]
+        ]
+    }
+}

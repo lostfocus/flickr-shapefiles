@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20099013,
+    "properties": {
+        "woe_id": 20099013,
+        "place_id": "YD6xkOqbAZwsPlakOw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Klintebjerg, Sjaelland, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457227,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/20099013_20101215_5f77e07e64.tar.gz"
+        },
+        "bbox": [
+            11.582743644714,
+            55.952564239502,
+            11.596584320068,
+            55.962005615234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.588087,
+                        55.962006
+                    ],
+                    [
+                        11.589245,
+                        55.961308
+                    ],
+                    [
+                        11.596584,
+                        55.952564
+                    ],
+                    [
+                        11.585641,
+                        55.960701
+                    ],
+                    [
+                        11.582744,
+                        55.961212
+                    ],
+                    [
+                        11.588087,
+                        55.962006
+                    ]
+                ]
+            ]
+        ]
+    }
+}

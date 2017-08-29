@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 22755591,
+    "properties": {
+        "woe_id": 22755591,
+        "place_id": "Lxo4YVCbA5tTazhJAg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beaumont, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541140,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/22755591_20101216_e40e7f496e.tar.gz"
+        },
+        "bbox": [
+            4.1801657676697,
+            44.545501708984,
+            4.1863479614258,
+            44.549438476562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.184,
+                        44.545834
+                    ],
+                    [
+                        4.186348,
+                        44.546623
+                    ],
+                    [
+                        4.184,
+                        44.545502
+                    ],
+                    [
+                        4.181456,
+                        44.545677
+                    ],
+                    [
+                        4.180166,
+                        44.549168
+                    ],
+                    [
+                        4.180727,
+                        44.549438
+                    ],
+                    [
+                        4.184,
+                        44.545834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

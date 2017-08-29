@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20102232,
+    "properties": {
+        "woe_id": 20102232,
+        "place_id": "5aRGupabAZ0ZdetcGg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "H\u00f6lzlisberg, Canton of St. Gallen, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502066,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/20102232_20101216_f7c322d6a9.tar.gz"
+        },
+        "bbox": [
+            9.5136022567749,
+            47.345001220703,
+            9.5139999389648,
+            47.346050262451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.514,
+                        47.345333
+                    ],
+                    [
+                        9.514,
+                        47.345165
+                    ],
+                    [
+                        9.5139,
+                        47.345001
+                    ],
+                    [
+                        9.513833,
+                        47.345165
+                    ],
+                    [
+                        9.513602,
+                        47.34605
+                    ],
+                    [
+                        9.514,
+                        47.345333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

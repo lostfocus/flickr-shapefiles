@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2493815,
+    "properties": {
+        "woe_id": 2493815,
+        "place_id": "qxm2L6ObBZUN6RiM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Silverdale, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234572483,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3325\/shapefiles\/2493815_20090214_6a5c7ff212.tar.gz"
+        },
+        "bbox": [
+            -87.058456420898,
+            37.880950927734,
+            -87.046180725098,
+            37.888942718506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.052055,
+                        37.888943
+                    ],
+                    [
+                        -87.046181,
+                        37.88324
+                    ],
+                    [
+                        -87.053658,
+                        37.882992
+                    ],
+                    [
+                        -87.058456,
+                        37.880951
+                    ],
+                    [
+                        -87.052055,
+                        37.888943
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2372460,
+    "properties": {
+        "woe_id": 2372460,
+        "place_id": "evbJN9WbApvk6gi2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Busch, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521085,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2372460_20101216_2329318cc8.tar.gz"
+        },
+        "bbox": [
+            -111.06353759766,
+            45.795475006104,
+            -111.04482269287,
+            45.813846588135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.063538,
+                        45.812767
+                    ],
+                    [
+                        -111.044823,
+                        45.813847
+                    ],
+                    [
+                        -111.047058,
+                        45.804871
+                    ],
+                    [
+                        -111.045509,
+                        45.795475
+                    ],
+                    [
+                        -111.047401,
+                        45.799725
+                    ],
+                    [
+                        -111.063538,
+                        45.812767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

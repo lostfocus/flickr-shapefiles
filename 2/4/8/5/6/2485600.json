@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2485600,
+    "properties": {
+        "woe_id": 2485600,
+        "place_id": "enS8PL.bBZSrvk1v",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ruby City, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550788,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2485600_20101217_403efe2f3b.tar.gz"
+        },
+        "bbox": [
+            -83.13404083252,
+            35.353145599365,
+            -83.114669799805,
+            35.380332946777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.122665,
+                        35.378334
+                    ],
+                    [
+                        -83.116501,
+                        35.380333
+                    ],
+                    [
+                        -83.11467,
+                        35.378166
+                    ],
+                    [
+                        -83.122986,
+                        35.373985
+                    ],
+                    [
+                        -83.134041,
+                        35.353146
+                    ],
+                    [
+                        -83.129669,
+                        35.374168
+                    ],
+                    [
+                        -83.122665,
+                        35.378334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

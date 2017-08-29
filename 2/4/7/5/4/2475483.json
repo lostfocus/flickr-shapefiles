@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2475483,
+    "properties": {
+        "woe_id": 2475483,
+        "place_id": "877vGiObBZt5kUHT",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Port Royal Cross Roads, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247817006,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3003\/shapefiles\/2475483_20090717_0c9a197b24.tar.gz"
+        },
+        "bbox": [
+            -77.211051940918,
+            38.15731048584,
+            -77.196548461914,
+            38.167865753174
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.196548,
+                        38.161926
+                    ],
+                    [
+                        -77.206245,
+                        38.15731
+                    ],
+                    [
+                        -77.211052,
+                        38.167088
+                    ],
+                    [
+                        -77.207535,
+                        38.167866
+                    ],
+                    [
+                        -77.199707,
+                        38.163013
+                    ],
+                    [
+                        -77.196548,
+                        38.161926
+                    ]
+                ]
+            ]
+        ]
+    }
+}

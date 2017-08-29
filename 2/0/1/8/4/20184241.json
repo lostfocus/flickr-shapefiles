@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20184241,
+    "properties": {
+        "woe_id": 20184241,
+        "place_id": "aXUjEzmbAZ0onjQ4GQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste-Gauburge, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517811,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/20184241_20101216_dfeb1eeab4.tar.gz"
+        },
+        "bbox": [
+            0.40412700176239,
+            48.714511871338,
+            0.40993100404739,
+            48.715637207031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.404326,
+                        48.715523
+                    ],
+                    [
+                        0.404725,
+                        48.715637
+                    ],
+                    [
+                        0.409931,
+                        48.714931
+                    ],
+                    [
+                        0.404127,
+                        48.714512
+                    ],
+                    [
+                        0.404187,
+                        48.71492
+                    ],
+                    [
+                        0.404326,
+                        48.715523
+                    ]
+                ]
+            ]
+        ]
+    }
+}

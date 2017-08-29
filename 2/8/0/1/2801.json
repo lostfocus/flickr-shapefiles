@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2801,
+    "properties": {
+        "woe_id": 2801,
+        "place_id": "6_2JwuabCZwF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bellburns, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548113,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2801_20101217_6b7088989e.tar.gz"
+        },
+        "bbox": [
+            -57.535270690918,
+            50.331462860107,
+            -57.525787353516,
+            50.340641021729
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -57.534843,
+                        50.334915
+                    ],
+                    [
+                        -57.534069,
+                        50.337162
+                    ],
+                    [
+                        -57.525787,
+                        50.340641
+                    ],
+                    [
+                        -57.533424,
+                        50.332779
+                    ],
+                    [
+                        -57.535271,
+                        50.331463
+                    ],
+                    [
+                        -57.534843,
+                        50.334915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

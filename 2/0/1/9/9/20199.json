@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20199,
+    "properties": {
+        "woe_id": 20199,
+        "place_id": "MDrBsy2bAZ1jhQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Finkley Down, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544489,
+        "alpha": 0.00015,
+        "points": 25,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/20199_20101217_521cf834d1.tar.gz"
+        },
+        "bbox": [
+            -1.4548300504684,
+            51.219276428223,
+            -1.4498729705811,
+            51.223766326904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.452092,
+                        51.220028
+                    ],
+                    [
+                        -1.453358,
+                        51.221119
+                    ],
+                    [
+                        -1.45355,
+                        51.221535
+                    ],
+                    [
+                        -1.45483,
+                        51.223766
+                    ],
+                    [
+                        -1.452727,
+                        51.221909
+                    ],
+                    [
+                        -1.449873,
+                        51.219276
+                    ],
+                    [
+                        -1.452092,
+                        51.220028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

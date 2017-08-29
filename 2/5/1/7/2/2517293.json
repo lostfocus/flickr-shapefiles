@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2517293,
+    "properties": {
+        "woe_id": 2517293,
+        "place_id": "62hE486bBJ3BOh9Y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Lancaster, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507465,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2517293_20101216_60c393b73e.tar.gz"
+        },
+        "bbox": [
+            -76.356468200684,
+            40.031982421875,
+            -76.343307495117,
+            40.039707183838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.345284,
+                        40.032021
+                    ],
+                    [
+                        -76.356468,
+                        40.037804
+                    ],
+                    [
+                        -76.343307,
+                        40.039707
+                    ],
+                    [
+                        -76.344955,
+                        40.031982
+                    ],
+                    [
+                        -76.345284,
+                        40.032021
+                    ]
+                ]
+            ]
+        ]
+    }
+}

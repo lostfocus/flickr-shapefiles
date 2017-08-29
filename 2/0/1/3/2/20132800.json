@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20132800,
+    "properties": {
+        "woe_id": 20132800,
+        "place_id": "6vrBPiibAZ1OySLrfQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Montegonzi, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538712,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20132800_20101216_5e9b2397b8.tar.gz"
+        },
+        "bbox": [
+            11.494037628174,
+            43.498767852783,
+            11.495796203613,
+            43.501873016357
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.494145,
+                        43.498775
+                    ],
+                    [
+                        11.494038,
+                        43.498768
+                    ],
+                    [
+                        11.494617,
+                        43.501873
+                    ],
+                    [
+                        11.495796,
+                        43.500648
+                    ],
+                    [
+                        11.494209,
+                        43.498814
+                    ],
+                    [
+                        11.494145,
+                        43.498775
+                    ]
+                ]
+            ]
+        ]
+    }
+}

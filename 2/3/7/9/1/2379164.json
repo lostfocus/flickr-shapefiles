@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2379164,
+    "properties": {
+        "woe_id": 2379164,
+        "place_id": "m.0s1B6bApvWmllh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cherrytree, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525465,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2379164_20101216_f68c7ea1c1.tar.gz"
+        },
+        "bbox": [
+            -86.466148376465,
+            34.64342880249,
+            -86.44425201416,
+            34.659545898438
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.465698,
+                        34.645687
+                    ],
+                    [
+                        -86.455879,
+                        34.659546
+                    ],
+                    [
+                        -86.444252,
+                        34.648476
+                    ],
+                    [
+                        -86.462067,
+                        34.646885
+                    ],
+                    [
+                        -86.466148,
+                        34.643429
+                    ],
+                    [
+                        -86.465698,
+                        34.645687
+                    ]
+                ]
+            ]
+        ]
+    }
+}

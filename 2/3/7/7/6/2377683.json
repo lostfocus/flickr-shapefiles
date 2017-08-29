@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2377683,
+    "properties": {
+        "woe_id": 2377683,
+        "place_id": "4pfJzbKbApuYppjY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Century, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234485363,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3466\/shapefiles\/2377683_20090213_c9acc1b2a3.tar.gz"
+        },
+        "bbox": [
+            -84.172523498535,
+            31.670129776001,
+            -84.146774291992,
+            31.679861068726
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.146774,
+                        31.67013
+                    ],
+                    [
+                        -84.162834,
+                        31.677305
+                    ],
+                    [
+                        -84.172523,
+                        31.679012
+                    ],
+                    [
+                        -84.158623,
+                        31.679861
+                    ],
+                    [
+                        -84.146774,
+                        31.67013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

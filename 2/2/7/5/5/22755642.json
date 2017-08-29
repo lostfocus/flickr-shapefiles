@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22755642,
+    "properties": {
+        "woe_id": 22755642,
+        "place_id": "3z3jJbebA5sMxTCLvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Blauvac, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542358,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/22755642_20101216_e6d62c4404.tar.gz"
+        },
+        "bbox": [
+            5.2095789909363,
+            44.027847290039,
+            5.2165307998657,
+            44.0322265625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.209579,
+                        44.031952
+                    ],
+                    [
+                        5.209579,
+                        44.032227
+                    ],
+                    [
+                        5.211725,
+                        44.031025
+                    ],
+                    [
+                        5.216531,
+                        44.029697
+                    ],
+                    [
+                        5.211253,
+                        44.027847
+                    ],
+                    [
+                        5.209579,
+                        44.031952
+                    ]
+                ]
+            ]
+        ]
+    }
+}

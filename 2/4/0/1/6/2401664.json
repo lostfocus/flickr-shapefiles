@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401664,
+    "properties": {
+        "woe_id": 2401664,
+        "place_id": "A2EVjdKbBZweV8w8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairport, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493425,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2401664_20101216_1a3b63369b.tar.gz"
+        },
+        "bbox": [
+            -120.32888793945,
+            41.987438201904,
+            -120.32151031494,
+            41.995922088623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.32151,
+                        41.994106
+                    ],
+                    [
+                        -120.32518,
+                        41.987438
+                    ],
+                    [
+                        -120.328842,
+                        41.993515
+                    ],
+                    [
+                        -120.328888,
+                        41.993752
+                    ],
+                    [
+                        -120.323555,
+                        41.995922
+                    ],
+                    [
+                        -120.32151,
+                        41.994106
+                    ]
+                ]
+            ]
+        ]
+    }
+}

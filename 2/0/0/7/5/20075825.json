@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20075825,
+    "properties": {
+        "woe_id": 20075825,
+        "place_id": "s90KtxSbAZwJdXQp5g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villar San Costanzo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535483,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/20075825_20101216_703736c286.tar.gz"
+        },
+        "bbox": [
+            7.3866739273071,
+            44.490985870361,
+            7.391480922699,
+            44.493015289307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.386674,
+                        44.491669
+                    ],
+                    [
+                        7.387275,
+                        44.492401
+                    ],
+                    [
+                        7.388134,
+                        44.493015
+                    ],
+                    [
+                        7.391481,
+                        44.491608
+                    ],
+                    [
+                        7.387897,
+                        44.490986
+                    ],
+                    [
+                        7.386674,
+                        44.491669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

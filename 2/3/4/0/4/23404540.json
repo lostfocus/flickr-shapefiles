@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23404540,
+    "properties": {
+        "woe_id": 23404540,
+        "place_id": "yT46gDmbApgA7xj2Rw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocky View, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544573,
+        "alpha": 0.00015,
+        "points": 20,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/23404540_20101217_1f4f8cf223.tar.gz"
+        },
+        "bbox": [
+            -113.88173675537,
+            51.056503295898,
+            -113.86498260498,
+            51.068099975586
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.866592,
+                        51.0681
+                    ],
+                    [
+                        -113.864983,
+                        51.056503
+                    ],
+                    [
+                        -113.881737,
+                        51.065441
+                    ],
+                    [
+                        -113.876976,
+                        51.067101
+                    ],
+                    [
+                        -113.866592,
+                        51.0681
+                    ]
+                ]
+            ]
+        ]
+    }
+}

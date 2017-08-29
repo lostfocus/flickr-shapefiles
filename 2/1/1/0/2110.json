@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2110,
+    "properties": {
+        "woe_id": 2110,
+        "place_id": "i9ZapS2bAJ1O",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Maidstone, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443118,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2110_20101215_d60a91b6fd.tar.gz"
+        },
+        "bbox": [
+            -109.30850219727,
+            53.083301544189,
+            -109.28272247314,
+            53.089389801025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -109.289932,
+                        53.08593
+                    ],
+                    [
+                        -109.282722,
+                        53.083302
+                    ],
+                    [
+                        -109.289932,
+                        53.084949
+                    ],
+                    [
+                        -109.308502,
+                        53.08939
+                    ],
+                    [
+                        -109.289932,
+                        53.08593
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2466520,
+    "properties": {
+        "woe_id": 2466520,
+        "place_id": "K6d1E0ubBZpwd2q.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Osborne, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234716250,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3528\/shapefiles\/2466520_20090215_5ed63aba4f.tar.gz"
+        },
+        "bbox": [
+            -80.168579101562,
+            40.526454925537,
+            -80.158027648926,
+            40.530632019043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.162254,
+                        40.530373
+                    ],
+                    [
+                        -80.160454,
+                        40.529522
+                    ],
+                    [
+                        -80.158028,
+                        40.526455
+                    ],
+                    [
+                        -80.168579,
+                        40.530632
+                    ],
+                    [
+                        -80.162254,
+                        40.530373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

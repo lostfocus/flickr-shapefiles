@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220619,
+    "properties": {
+        "woe_id": 20220619,
+        "place_id": "59qjQsibAZ6b0zxjjQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arrabasada i Savinosa, Catalonia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488385,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/20220619_20101216_d41e01ce16.tar.gz"
+        },
+        "bbox": [
+            1.2738770246506,
+            41.117965698242,
+            1.2835119962692,
+            41.122615814209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.27819,
+                        41.119644
+                    ],
+                    [
+                        1.276216,
+                        41.117966
+                    ],
+                    [
+                        1.273877,
+                        41.122616
+                    ],
+                    [
+                        1.278207,
+                        41.122231
+                    ],
+                    [
+                        1.281623,
+                        41.122105
+                    ],
+                    [
+                        1.283512,
+                        41.121845
+                    ],
+                    [
+                        1.27819,
+                        41.119644
+                    ]
+                ]
+            ]
+        ]
+    }
+}

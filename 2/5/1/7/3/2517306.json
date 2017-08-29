@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2517306,
+    "properties": {
+        "woe_id": 2517306,
+        "place_id": "LrZMP7ObBJ0GErOU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Layton, Utah, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234766769,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3397\/shapefiles\/2517306_20090216_97d8f33f2e.tar.gz"
+        },
+        "bbox": [
+            -111.99925994873,
+            41.056854248047,
+            -111.99035644531,
+            41.067832946777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.99926,
+                        41.067833
+                    ],
+                    [
+                        -111.990356,
+                        41.065704
+                    ],
+                    [
+                        -111.995087,
+                        41.060261
+                    ],
+                    [
+                        -111.997482,
+                        41.056854
+                    ],
+                    [
+                        -111.99926,
+                        41.067833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20158591,
+    "properties": {
+        "woe_id": 20158591,
+        "place_id": "7UdBuPubAZ260hqZOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bieberbach, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530968,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/20158591_20101216_acc655e700.tar.gz"
+        },
+        "bbox": [
+            11.28973865509,
+            49.729503631592,
+            11.292469024658,
+            49.729595184326
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.292402,
+                        49.729595
+                    ],
+                    [
+                        11.292422,
+                        49.729588
+                    ],
+                    [
+                        11.292469,
+                        49.729546
+                    ],
+                    [
+                        11.292469,
+                        49.729534
+                    ],
+                    [
+                        11.292355,
+                        49.729504
+                    ],
+                    [
+                        11.289739,
+                        49.729527
+                    ],
+                    [
+                        11.292402,
+                        49.729595
+                    ]
+                ]
+            ]
+        ]
+    }
+}

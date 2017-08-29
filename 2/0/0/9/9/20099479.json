@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20099479,
+    "properties": {
+        "woe_id": 20099479,
+        "place_id": "CIU7F9abAZxvocNaLw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Saksild Strand, Midtjylland, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248205087,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2501\/shapefiles\/20099479_20090721_c40128391c.tar.gz"
+        },
+        "bbox": [
+            10.249578475952,
+            55.969665527344,
+            10.253720283508,
+            55.983978271484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.249578,
+                        55.974808
+                    ],
+                    [
+                        10.251488,
+                        55.981937
+                    ],
+                    [
+                        10.251746,
+                        55.983978
+                    ],
+                    [
+                        10.252,
+                        55.980667
+                    ],
+                    [
+                        10.25372,
+                        55.971085
+                    ],
+                    [
+                        10.252,
+                        55.969666
+                    ],
+                    [
+                        10.249578,
+                        55.974808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

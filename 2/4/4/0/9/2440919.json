@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2440919,
+    "properties": {
+        "woe_id": 2440919,
+        "place_id": "1qr4rhSbBZgK1yR4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Locust Grove, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523306,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2440919_20101216_d56f0cc345.tar.gz"
+        },
+        "bbox": [
+            -77.394104003906,
+            39.554885864258,
+            -77.384941101074,
+            39.571292877197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.390358,
+                        39.571129
+                    ],
+                    [
+                        -77.384941,
+                        39.571293
+                    ],
+                    [
+                        -77.385513,
+                        39.556347
+                    ],
+                    [
+                        -77.385628,
+                        39.556053
+                    ],
+                    [
+                        -77.386673,
+                        39.554886
+                    ],
+                    [
+                        -77.394104,
+                        39.568943
+                    ],
+                    [
+                        -77.390358,
+                        39.571129
+                    ]
+                ]
+            ]
+        ]
+    }
+}

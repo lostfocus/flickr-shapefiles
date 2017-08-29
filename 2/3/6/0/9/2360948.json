@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2360948,
+    "properties": {
+        "woe_id": 2360948,
+        "place_id": "8ql09CubApptOqa5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beaver, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234739653,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3269\/shapefiles\/2360948_20090215_f9dd7fab69.tar.gz"
+        },
+        "bbox": [
+            -94.147041320801,
+            42.035331726074,
+            -94.141075134277,
+            42.03918838501
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.141548,
+                        42.038528
+                    ],
+                    [
+                        -94.142273,
+                        42.037884
+                    ],
+                    [
+                        -94.147041,
+                        42.035332
+                    ],
+                    [
+                        -94.141075,
+                        42.039188
+                    ],
+                    [
+                        -94.141548,
+                        42.038528
+                    ]
+                ]
+            ]
+        ]
+    }
+}

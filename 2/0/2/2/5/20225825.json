@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20225825,
+    "properties": {
+        "woe_id": 20225825,
+        "place_id": "3r21EvabAZ6P6gqJzQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Jos\u00e9 de Los Llanos, Canary Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523666,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/20225825_20101216_eb7413ecac.tar.gz"
+        },
+        "bbox": [
+            -16.804189682007,
+            28.315847396851,
+            -16.787452697754,
+            28.328012466431
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -16.80419,
+                        28.317652
+                    ],
+                    [
+                        -16.788439,
+                        28.328012
+                    ],
+                    [
+                        -16.788471,
+                        28.326954
+                    ],
+                    [
+                        -16.788584,
+                        28.323206
+                    ],
+                    [
+                        -16.787453,
+                        28.315847
+                    ],
+                    [
+                        -16.80419,
+                        28.317652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

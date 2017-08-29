@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2387967,
+    "properties": {
+        "woe_id": 2387967,
+        "place_id": "qpOylPqbApR0ctM8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crystal Beach, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239660121,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3660\/shapefiles\/2387967_20090413_6e7154d3b9.tar.gz"
+        },
+        "bbox": [
+            -76.523124694824,
+            39.065582275391,
+            -76.50643157959,
+            39.0725440979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.511536,
+                        39.065861
+                    ],
+                    [
+                        -76.523125,
+                        39.06678
+                    ],
+                    [
+                        -76.520653,
+                        39.072544
+                    ],
+                    [
+                        -76.511795,
+                        39.067833
+                    ],
+                    [
+                        -76.506432,
+                        39.065582
+                    ],
+                    [
+                        -76.511536,
+                        39.065861
+                    ]
+                ]
+            ]
+        ]
+    }
+}

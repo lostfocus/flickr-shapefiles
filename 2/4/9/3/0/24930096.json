@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24930096,
+    "properties": {
+        "woe_id": 24930096,
+        "place_id": "mLk7JnibBZUmUMPEnA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rychnov u Jablonce nad Nisou, Libereck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509022,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/24930096_20101216_5505f512fa.tar.gz"
+        },
+        "bbox": [
+            15.141177177429,
+            50.679599761963,
+            15.155982017517,
+            50.691959381104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.149,
+                        50.687092
+                    ],
+                    [
+                        15.141177,
+                        50.689255
+                    ],
+                    [
+                        15.153429,
+                        50.691959
+                    ],
+                    [
+                        15.155982,
+                        50.6796
+                    ],
+                    [
+                        15.153322,
+                        50.683735
+                    ],
+                    [
+                        15.149,
+                        50.687092
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2402364,
+    "properties": {
+        "woe_id": 2402364,
+        "place_id": "1uRD.sqbBZw5Mhxx",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Farmer Station, Nevada, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234548009,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3402\/shapefiles\/2402364_20090213_0455eb4935.tar.gz"
+        },
+        "bbox": [
+            -117.00463867188,
+            37.242626190186,
+            -116.99615478516,
+            37.251194000244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.004639,
+                        37.251167
+                    ],
+                    [
+                        -117.003601,
+                        37.251194
+                    ],
+                    [
+                        -116.996155,
+                        37.242626
+                    ],
+                    [
+                        -117.003845,
+                        37.25034
+                    ],
+                    [
+                        -117.004639,
+                        37.251167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

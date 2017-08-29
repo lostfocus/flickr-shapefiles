@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503589,
+    "properties": {
+        "woe_id": 2503589,
+        "place_id": "rsORW12bBJx2PIAQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Taggart, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546100,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2503589_20101217_2bd988ec1c.tar.gz"
+        },
+        "bbox": [
+            -86.138221740723,
+            39.281963348389,
+            -86.120239257812,
+            39.298969268799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.120796,
+                        39.298969
+                    ],
+                    [
+                        -86.120239,
+                        39.293205
+                    ],
+                    [
+                        -86.138222,
+                        39.281963
+                    ],
+                    [
+                        -86.130577,
+                        39.298538
+                    ],
+                    [
+                        -86.120796,
+                        39.298969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

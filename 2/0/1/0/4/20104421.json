@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20104421,
+    "properties": {
+        "woe_id": 20104421,
+        "place_id": "VQDoVhebAZ3sxFDWJA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tiefenbrunnen, Canton of Zurich, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495527,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20104421_20101216_cafbc0501a.tar.gz"
+        },
+        "bbox": [
+            8.5597219467163,
+            47.345802307129,
+            8.5652160644531,
+            47.352779388428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.560752,
+                        47.352779
+                    ],
+                    [
+                        8.561165,
+                        47.351463
+                    ],
+                    [
+                        8.565216,
+                        47.345802
+                    ],
+                    [
+                        8.559722,
+                        47.349522
+                    ],
+                    [
+                        8.559722,
+                        47.352779
+                    ],
+                    [
+                        8.560752,
+                        47.352779
+                    ]
+                ]
+            ]
+        ]
+    }
+}

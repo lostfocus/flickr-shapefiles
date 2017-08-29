@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500095,
+    "properties": {
+        "woe_id": 2500095,
+        "place_id": "9MW92Z.bBJyCl5w6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockton, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478122,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2500095_20101216_99dd1288dc.tar.gz"
+        },
+        "bbox": [
+            -79.374588012695,
+            42.30708694458,
+            -79.355003356934,
+            42.324794769287
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.355003,
+                        42.316502
+                    ],
+                    [
+                        -79.363945,
+                        42.307087
+                    ],
+                    [
+                        -79.374588,
+                        42.310196
+                    ],
+                    [
+                        -79.358879,
+                        42.324795
+                    ],
+                    [
+                        -79.355003,
+                        42.316502
+                    ]
+                ]
+            ]
+        ]
+    }
+}

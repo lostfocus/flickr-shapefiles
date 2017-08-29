@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23401271,
+    "properties": {
+        "woe_id": 23401271,
+        "place_id": "ly9E33.bAph83fRAHg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St Pauls Station, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537652,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/23401271_20101216_a654f930c4.tar.gz"
+        },
+        "bbox": [
+            -81.027603149414,
+            43.315933227539,
+            -81.015701293945,
+            43.324863433838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.015701,
+                        43.322773
+                    ],
+                    [
+                        -81.027603,
+                        43.315933
+                    ],
+                    [
+                        -81.02623,
+                        43.319183
+                    ],
+                    [
+                        -81.022964,
+                        43.324863
+                    ],
+                    [
+                        -81.015701,
+                        43.322773
+                    ]
+                ]
+            ]
+        ]
+    }
+}

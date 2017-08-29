@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502450,
+    "properties": {
+        "woe_id": 2502450,
+        "place_id": "2IQ10TqbBJyHeE96",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sunset Gardens, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234789088,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3144\/shapefiles\/2502450_20090216_f54cdf5c01.tar.gz"
+        },
+        "bbox": [
+            -122.84184265137,
+            45.506858825684,
+            -122.82807159424,
+            45.513172149658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.828072,
+                        45.507999
+                    ],
+                    [
+                        -122.828331,
+                        45.506859
+                    ],
+                    [
+                        -122.841843,
+                        45.508316
+                    ],
+                    [
+                        -122.835732,
+                        45.513172
+                    ],
+                    [
+                        -122.828072,
+                        45.507999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

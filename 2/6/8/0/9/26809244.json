@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 26809244,
+    "properties": {
+        "woe_id": 26809244,
+        "place_id": "tcdgXkObB5RiVxywgg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Rafael, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489225,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/26809244_20101216_127b27ba82.tar.gz"
+        },
+        "bbox": [
+            -84.009948730469,
+            9.9402761459351,
+            -84.008430480957,
+            9.942346572876
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.008835,
+                        9.942347
+                    ],
+                    [
+                        -84.00843,
+                        9.941222
+                    ],
+                    [
+                        -84.009949,
+                        9.940276
+                    ],
+                    [
+                        -84.009521,
+                        9.941481
+                    ],
+                    [
+                        -84.008835,
+                        9.942347
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20210464,
+    "properties": {
+        "woe_id": 20210464,
+        "place_id": "KIzqWwWbAZ56YF4srw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moulins, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525411,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/20210464_20101216_e18bfb037a.tar.gz"
+        },
+        "bbox": [
+            6.7572779655457,
+            45.538692474365,
+            6.7627711296082,
+            45.541706085205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.757278,
+                        45.540985
+                    ],
+                    [
+                        6.75848,
+                        45.540985
+                    ],
+                    [
+                        6.762771,
+                        45.541706
+                    ],
+                    [
+                        6.759091,
+                        45.538692
+                    ],
+                    [
+                        6.757278,
+                        45.540985
+                    ]
+                ]
+            ]
+        ]
+    }
+}

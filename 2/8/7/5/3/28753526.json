@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28753526,
+    "properties": {
+        "woe_id": 28753526,
+        "place_id": "MD1LYNebCZuHXu0WGA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u6f6d\u908a\u6751, Taiwan, Taiwan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538306,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/28753526_20101216_f1713e1d6a.tar.gz"
+        },
+        "bbox": [
+            119.60420227051,
+            23.59383392334,
+            119.61518859863,
+            23.596868515015
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        119.613167,
+                        23.593834
+                    ],
+                    [
+                        119.604202,
+                        23.596554
+                    ],
+                    [
+                        119.605064,
+                        23.596869
+                    ],
+                    [
+                        119.615189,
+                        23.59561
+                    ],
+                    [
+                        119.613335,
+                        23.593834
+                    ],
+                    [
+                        119.613167,
+                        23.593834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

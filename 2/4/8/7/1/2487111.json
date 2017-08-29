@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2487111,
+    "properties": {
+        "woe_id": 2487111,
+        "place_id": "nUFaDmybBZRjGezU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Paul, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545691,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2487111_20101217_e792d7f52b.tar.gz"
+        },
+        "bbox": [
+            -95.172760009766,
+            37.511394500732,
+            -95.156448364258,
+            37.52135848999
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.172638,
+                        37.514103
+                    ],
+                    [
+                        -95.17276,
+                        37.514641
+                    ],
+                    [
+                        -95.162476,
+                        37.521358
+                    ],
+                    [
+                        -95.156448,
+                        37.513454
+                    ],
+                    [
+                        -95.163574,
+                        37.511395
+                    ],
+                    [
+                        -95.172638,
+                        37.514103
+                    ]
+                ]
+            ]
+        ]
+    }
+}

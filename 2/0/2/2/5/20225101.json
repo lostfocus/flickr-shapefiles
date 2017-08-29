@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20225101,
+    "properties": {
+        "woe_id": 20225101,
+        "place_id": "wueTefGbAZ6gnlGtWA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Los Palancares, Castille la Mancha, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234793172,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3240\/shapefiles\/20225101_20090216_659e72f77e.tar.gz"
+        },
+        "bbox": [
+            -1.9848339557648,
+            39.983135223389,
+            -1.9780540466309,
+            39.994087219238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.984834,
+                        39.987377
+                    ],
+                    [
+                        -1.982688,
+                        39.994087
+                    ],
+                    [
+                        -1.978054,
+                        39.984322
+                    ],
+                    [
+                        -1.978585,
+                        39.983135
+                    ],
+                    [
+                        -1.984834,
+                        39.987377
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483671,
+    "properties": {
+        "woe_id": 2483671,
+        "place_id": "edAePr2bBZQuMjUK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocky Grove, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248013330,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2520\/shapefiles\/2483671_20090719_25b6d6e1d2.tar.gz"
+        },
+        "bbox": [
+            -79.83666229248,
+            41.397239685059,
+            -79.827346801758,
+            41.400440216064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.830673,
+                        41.40044
+                    ],
+                    [
+                        -79.827347,
+                        41.39724
+                    ],
+                    [
+                        -79.831978,
+                        41.398155
+                    ],
+                    [
+                        -79.836662,
+                        41.39864
+                    ],
+                    [
+                        -79.830673,
+                        41.40044
+                    ]
+                ]
+            ]
+        ]
+    }
+}

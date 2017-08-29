@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29333820,
+    "properties": {
+        "woe_id": 29333820,
+        "place_id": "USMYrI.bCJ_YqmZZaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fornaci, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234560362,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3464\/shapefiles\/29333820_20090213_42c38e19c6.tar.gz"
+        },
+        "bbox": [
+            9.2400159835815,
+            45.720081329346,
+            9.2432775497437,
+            45.734344482422
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.243278,
+                        45.725895
+                    ],
+                    [
+                        9.240542,
+                        45.720081
+                    ],
+                    [
+                        9.240242,
+                        45.720318
+                    ],
+                    [
+                        9.240016,
+                        45.734344
+                    ],
+                    [
+                        9.243278,
+                        45.725895
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2412598,
+    "properties": {
+        "woe_id": 2412598,
+        "place_id": "lPx5DeebBZ3mb9Qb",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grady, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234622162,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3441\/shapefiles\/2412598_20090214_dbc844e732.tar.gz"
+        },
+        "bbox": [
+            -82.974685668945,
+            29.976247787476,
+            -82.973976135254,
+            29.976526260376
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.974503,
+                        29.976248
+                    ],
+                    [
+                        -82.974686,
+                        29.97646
+                    ],
+                    [
+                        -82.974304,
+                        29.976526
+                    ],
+                    [
+                        -82.973976,
+                        29.976414
+                    ],
+                    [
+                        -82.974503,
+                        29.976248
+                    ]
+                ]
+            ]
+        ]
+    }
+}

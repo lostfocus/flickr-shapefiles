@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20076718,
+    "properties": {
+        "woe_id": 20076718,
+        "place_id": "i1XTWISbAZwCF7DACA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grimacco, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539610,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/20076718_20101216_5fe994a996.tar.gz"
+        },
+        "bbox": [
+            13.602918624878,
+            46.176239013672,
+            13.604173660278,
+            46.177097320557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.604174,
+                        46.176723
+                    ],
+                    [
+                        13.603713,
+                        46.176239
+                    ],
+                    [
+                        13.602919,
+                        46.176872
+                    ],
+                    [
+                        13.603305,
+                        46.177097
+                    ],
+                    [
+                        13.604174,
+                        46.176723
+                    ]
+                ]
+            ]
+        ]
+    }
+}

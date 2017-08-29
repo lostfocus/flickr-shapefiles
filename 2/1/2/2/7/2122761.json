@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2122761,
+    "properties": {
+        "woe_id": 2122761,
+        "place_id": "0Kx5N8mbAJ5k4dGF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pashkovskiy, Krasnodarskiy Kray, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536584,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2122761_20101216_f2756e5bd7.tar.gz"
+        },
+        "bbox": [
+            39.062576293945,
+            44.990661621094,
+            39.079055786133,
+            45.013965606689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        39.078197,
+                        45.004471
+                    ],
+                    [
+                        39.079056,
+                        44.990662
+                    ],
+                    [
+                        39.071674,
+                        44.995033
+                    ],
+                    [
+                        39.071674,
+                        45.001587
+                    ],
+                    [
+                        39.062576,
+                        45.013966
+                    ],
+                    [
+                        39.078197,
+                        45.004471
+                    ]
+                ]
+            ]
+        ]
+    }
+}

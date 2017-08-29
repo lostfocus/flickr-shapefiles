@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2432701,
+    "properties": {
+        "woe_id": 2432701,
+        "place_id": "nfz11qObBZ.5fV9c",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kingsbury, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234571641,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3484\/shapefiles\/2432701_20090214_17a4c7867b.tar.gz"
+        },
+        "bbox": [
+            -73.543334960938,
+            43.345779418945,
+            -73.531494140625,
+            43.370555877686
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.536987,
+                        43.345779
+                    ],
+                    [
+                        -73.543335,
+                        43.349213
+                    ],
+                    [
+                        -73.541191,
+                        43.370556
+                    ],
+                    [
+                        -73.531593,
+                        43.364571
+                    ],
+                    [
+                        -73.531494,
+                        43.363899
+                    ],
+                    [
+                        -73.536301,
+                        43.35564
+                    ],
+                    [
+                        -73.536987,
+                        43.345779
+                    ]
+                ]
+            ]
+        ]
+    }
+}

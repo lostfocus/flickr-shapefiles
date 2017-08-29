@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24550920,
+    "properties": {
+        "woe_id": 24550920,
+        "place_id": "FIRMqSmbBZnXnqPrlw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cacao, Quebradillas, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234612443,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3369\/shapefiles\/24550920_20090214_23ca00a386.tar.gz"
+        },
+        "bbox": [
+            -66.923713684082,
+            18.397359848022,
+            -66.921028137207,
+            18.3981590271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.923439,
+                        18.398159
+                    ],
+                    [
+                        -66.921028,
+                        18.397411
+                    ],
+                    [
+                        -66.922401,
+                        18.39736
+                    ],
+                    [
+                        -66.923714,
+                        18.39768
+                    ],
+                    [
+                        -66.923439,
+                        18.398159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2453684,
+    "properties": {
+        "woe_id": 2453684,
+        "place_id": "gYjulECbBZkrPpAX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moonlight, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440882,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2453684_20101215_f7d1ac6c4e.tar.gz"
+        },
+        "bbox": [
+            -77.501617431641,
+            36.750812530518,
+            -77.485725402832,
+            36.752426147461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.490372,
+                        36.750858
+                    ],
+                    [
+                        -77.485725,
+                        36.75227
+                    ],
+                    [
+                        -77.490204,
+                        36.750832
+                    ],
+                    [
+                        -77.490372,
+                        36.750813
+                    ],
+                    [
+                        -77.501617,
+                        36.752426
+                    ],
+                    [
+                        -77.490372,
+                        36.750858
+                    ]
+                ]
+            ]
+        ]
+    }
+}

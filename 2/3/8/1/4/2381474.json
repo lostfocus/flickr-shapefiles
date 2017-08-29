@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381474,
+    "properties": {
+        "woe_id": 2381474,
+        "place_id": "5PK5vL6bApQpOq3j",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cleveland, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485750,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2381474_20101216_a2ba614cdc.tar.gz"
+        },
+        "bbox": [
+            -99.122428894043,
+            46.88659286499,
+            -99.112983703613,
+            46.892696380615
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.118912,
+                        46.887943
+                    ],
+                    [
+                        -99.122429,
+                        46.889294
+                    ],
+                    [
+                        -99.122429,
+                        46.892696
+                    ],
+                    [
+                        -99.118614,
+                        46.891666
+                    ],
+                    [
+                        -99.112984,
+                        46.886593
+                    ],
+                    [
+                        -99.118912,
+                        46.887943
+                    ]
+                ]
+            ]
+        ]
+    }
+}

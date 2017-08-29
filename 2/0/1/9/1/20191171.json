@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20191171,
+    "properties": {
+        "woe_id": 20191171,
+        "place_id": "5L2_Z4.bAZ0Gq5deqw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Seignaux, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292431082,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/20191171_20101215_a9fca4437a.tar.gz"
+        },
+        "bbox": [
+            1.6184229850769,
+            42.873054504395,
+            1.6339579820633,
+            42.902626037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.632156,
+                        42.901623
+                    ],
+                    [
+                        1.633958,
+                        42.894581
+                    ],
+                    [
+                        1.629152,
+                        42.890038
+                    ],
+                    [
+                        1.618611,
+                        42.873055
+                    ],
+                    [
+                        1.618423,
+                        42.882881
+                    ],
+                    [
+                        1.619796,
+                        42.902626
+                    ],
+                    [
+                        1.632156,
+                        42.901623
+                    ]
+                ]
+            ]
+        ]
+    }
+}

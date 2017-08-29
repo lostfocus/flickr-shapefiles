@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500051,
+    "properties": {
+        "woe_id": 2500051,
+        "place_id": "Sil623GbBJyRMYiP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockdale, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441036,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2500051_20101215_ca1229a83a.tar.gz"
+        },
+        "bbox": [
+            -88.519508361816,
+            41.334030151367,
+            -88.517532348633,
+            41.339378356934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.519508,
+                        41.339176
+                    ],
+                    [
+                        -88.518951,
+                        41.339378
+                    ],
+                    [
+                        -88.517578,
+                        41.338894
+                    ],
+                    [
+                        -88.517532,
+                        41.33403
+                    ],
+                    [
+                        -88.519508,
+                        41.339176
+                    ]
+                ]
+            ]
+        ]
+    }
+}

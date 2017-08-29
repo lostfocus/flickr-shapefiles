@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23509234,
+    "properties": {
+        "woe_id": 23509234,
+        "place_id": "2uRhATKbApmLV.9fmA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Winthrop, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247842805,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2598\/shapefiles\/23509234_20090717_01caba02ae.tar.gz"
+        },
+        "bbox": [
+            -74.787818908691,
+            44.793849945068,
+            -74.785865783691,
+            44.794094085693
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.787819,
+                        44.794094
+                    ],
+                    [
+                        -74.786469,
+                        44.793972
+                    ],
+                    [
+                        -74.785866,
+                        44.79388
+                    ],
+                    [
+                        -74.787071,
+                        44.79385
+                    ],
+                    [
+                        -74.787819,
+                        44.794094
+                    ]
+                ]
+            ]
+        ]
+    }
+}

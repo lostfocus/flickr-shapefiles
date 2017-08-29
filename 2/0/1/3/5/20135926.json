@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20135926,
+    "properties": {
+        "woe_id": 20135926,
+        "place_id": "l0gQgh2bAZ1036AYmQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pian di Milon, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234530007,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3310\/shapefiles\/20135926_20090213_d605239cbd.tar.gz"
+        },
+        "bbox": [
+            11.473331451416,
+            46.284206390381,
+            11.479853630066,
+            46.285228729248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.479682,
+                        46.284561
+                    ],
+                    [
+                        11.473331,
+                        46.284206
+                    ],
+                    [
+                        11.479833,
+                        46.285229
+                    ],
+                    [
+                        11.479854,
+                        46.284962
+                    ],
+                    [
+                        11.479682,
+                        46.284561
+                    ]
+                ]
+            ]
+        ]
+    }
+}

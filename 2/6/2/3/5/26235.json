@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 26235,
+    "properties": {
+        "woe_id": 26235,
+        "place_id": "1QL4xd6bB56y9g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lidsing, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292474046,
+        "alpha": 0.0001875,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/26235_20101216_812ae63d2e.tar.gz"
+        },
+        "bbox": [
+            0.53824400901794,
+            51.299495697021,
+            0.56373500823975,
+            51.330154418945
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.551569,
+                        51.301105
+                    ],
+                    [
+                        0.538244,
+                        51.303547
+                    ],
+                    [
+                        0.550088,
+                        51.327072
+                    ],
+                    [
+                        0.559358,
+                        51.330154
+                    ],
+                    [
+                        0.560989,
+                        51.326267
+                    ],
+                    [
+                        0.563735,
+                        51.299496
+                    ],
+                    [
+                        0.551569,
+                        51.301105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

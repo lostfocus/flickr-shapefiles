@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20103125,
+    "properties": {
+        "woe_id": 20103125,
+        "place_id": "kUn1eNKbAZ2F9b3l1w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mont-Crosin, Canton of Berne, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234554963,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3307\/shapefiles\/20103125_20090213_01c8db6950.tar.gz"
+        },
+        "bbox": [
+            7.0189328193665,
+            47.182071685791,
+            7.0376868247986,
+            47.188545227051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.037687,
+                        47.188545
+                    ],
+                    [
+                        7.036421,
+                        47.185776
+                    ],
+                    [
+                        7.032365,
+                        47.183643
+                    ],
+                    [
+                        7.022409,
+                        47.182072
+                    ],
+                    [
+                        7.018933,
+                        47.184082
+                    ],
+                    [
+                        7.028074,
+                        47.184113
+                    ],
+                    [
+                        7.037687,
+                        47.188545
+                    ]
+                ]
+            ]
+        ]
+    }
+}

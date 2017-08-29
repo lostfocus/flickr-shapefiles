@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2123531,
+    "properties": {
+        "woe_id": 2123531,
+        "place_id": "qYPXu7abAJ4hdvKe",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Smidovich, Yevreyskaya Avtonomnaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440504,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2123531_20101215_57f2515c69.tar.gz"
+        },
+        "bbox": [
+            133.81153869629,
+            48.593711853027,
+            133.8306427002,
+            48.601314544678
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        133.811539,
+                        48.593712
+                    ],
+                    [
+                        133.811539,
+                        48.593719
+                    ],
+                    [
+                        133.812103,
+                        48.598068
+                    ],
+                    [
+                        133.830643,
+                        48.601315
+                    ],
+                    [
+                        133.811554,
+                        48.593712
+                    ],
+                    [
+                        133.811539,
+                        48.593712
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20104747,
+    "properties": {
+        "woe_id": 20104747,
+        "place_id": "abkjrUmbAZ3qT3HchQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Warmesberg, Canton of St. Gallen, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292428922,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20104747_20101215_774599a1b9.tar.gz"
+        },
+        "bbox": [
+            9.5019502639771,
+            47.363391876221,
+            9.506516456604,
+            47.365993499756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.502176,
+                        47.363392
+                    ],
+                    [
+                        9.50195,
+                        47.364227
+                    ],
+                    [
+                        9.503753,
+                        47.365322
+                    ],
+                    [
+                        9.504847,
+                        47.365658
+                    ],
+                    [
+                        9.506516,
+                        47.365993
+                    ],
+                    [
+                        9.502176,
+                        47.363392
+                    ]
+                ]
+            ]
+        ]
+    }
+}

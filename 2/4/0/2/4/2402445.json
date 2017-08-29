@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402445,
+    "properties": {
+        "woe_id": 2402445,
+        "place_id": "3N6_2Y.bBZy6kwrw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Farmington, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247983321,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3454\/shapefiles\/2402445_20090719_ba786528f6.tar.gz"
+        },
+        "bbox": [
+            -80.962524414062,
+            41.389801025391,
+            -80.954978942871,
+            41.391273498535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.954979,
+                        41.391273
+                    ],
+                    [
+                        -80.955582,
+                        41.390388
+                    ],
+                    [
+                        -80.961662,
+                        41.389801
+                    ],
+                    [
+                        -80.962524,
+                        41.390339
+                    ],
+                    [
+                        -80.959724,
+                        41.390602
+                    ],
+                    [
+                        -80.954979,
+                        41.391273
+                    ]
+                ]
+            ]
+        ]
+    }
+}

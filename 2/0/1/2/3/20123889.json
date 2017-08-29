@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20123889,
+    "properties": {
+        "woe_id": 20123889,
+        "place_id": "DNZ6lT.bAZ0kKAsuOg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Falciano del Massico, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508364,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/20123889_20101216_4f7309f977.tar.gz"
+        },
+        "bbox": [
+            13.946928024292,
+            41.161338806152,
+            13.954609870911,
+            41.175746917725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.946928,
+                        41.16188
+                    ],
+                    [
+                        13.947658,
+                        41.163666
+                    ],
+                    [
+                        13.94989,
+                        41.175747
+                    ],
+                    [
+                        13.95461,
+                        41.173225
+                    ],
+                    [
+                        13.94798,
+                        41.161339
+                    ],
+                    [
+                        13.946928,
+                        41.16188
+                    ]
+                ]
+            ]
+        ]
+    }
+}

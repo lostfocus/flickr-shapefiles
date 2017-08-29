@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22722842,
+    "properties": {
+        "woe_id": 22722842,
+        "place_id": "4Jq9dqmbA5u_mX5GaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ramtha Boundary, Irbid, Jordan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472069,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/22722842_20101216_b66bbfe4d9.tar.gz"
+        },
+        "bbox": [
+            36.039276123047,
+            32.5719871521,
+            36.053352355957,
+            32.602359771729
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        36.053352,
+                        32.571987
+                    ],
+                    [
+                        36.047173,
+                        32.584862
+                    ],
+                    [
+                        36.039276,
+                        32.593685
+                    ],
+                    [
+                        36.047516,
+                        32.60236
+                    ],
+                    [
+                        36.049919,
+                        32.584427
+                    ],
+                    [
+                        36.053352,
+                        32.571987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

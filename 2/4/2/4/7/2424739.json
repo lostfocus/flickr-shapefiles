@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2424739,
+    "properties": {
+        "woe_id": 2424739,
+        "place_id": "XXBmCx2bBZ6KtaY9",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Houser, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477948,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2424739_20101216_e82e935aab.tar.gz"
+        },
+        "bbox": [
+            -117.80914306641,
+            46.513454437256,
+            -117.78798675537,
+            46.526302337646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.795197,
+                        46.526302
+                    ],
+                    [
+                        -117.787987,
+                        46.525311
+                    ],
+                    [
+                        -117.789703,
+                        46.513454
+                    ],
+                    [
+                        -117.809143,
+                        46.520603
+                    ],
+                    [
+                        -117.80468,
+                        46.522846
+                    ],
+                    [
+                        -117.795197,
+                        46.526302
+                    ]
+                ]
+            ]
+        ]
+    }
+}

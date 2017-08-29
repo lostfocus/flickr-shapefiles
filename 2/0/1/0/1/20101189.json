@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20101189,
+    "properties": {
+        "woe_id": 20101189,
+        "place_id": "uXFcFYWbAZ1a4dhrKw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cardada, Canton of Ticino, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248192861,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2526\/shapefiles\/20101189_20090721_0a16f74a0e.tar.gz"
+        },
+        "bbox": [
+            8.7818517684937,
+            46.19193649292,
+            8.7854995727539,
+            46.203121185303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.784813,
+                        46.193794
+                    ],
+                    [
+                        8.7855,
+                        46.193008
+                    ],
+                    [
+                        8.784255,
+                        46.192429
+                    ],
+                    [
+                        8.782461,
+                        46.191936
+                    ],
+                    [
+                        8.781852,
+                        46.203121
+                    ],
+                    [
+                        8.784813,
+                        46.193794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

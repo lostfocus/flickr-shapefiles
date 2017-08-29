@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2377197,
+    "properties": {
+        "woe_id": 2377197,
+        "place_id": "WCCRSNubAptmIRRW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Center, Arkansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500204,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2377197_20101216_28f45e2e6b.tar.gz"
+        },
+        "bbox": [
+            -91.452224731445,
+            36.149890899658,
+            -91.451301574707,
+            36.150402069092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.451302,
+                        36.150402
+                    ],
+                    [
+                        -91.451447,
+                        36.15004
+                    ],
+                    [
+                        -91.451752,
+                        36.149956
+                    ],
+                    [
+                        -91.452225,
+                        36.149891
+                    ],
+                    [
+                        -91.451569,
+                        36.150299
+                    ],
+                    [
+                        -91.451302,
+                        36.150402
+                    ]
+                ]
+            ]
+        ]
+    }
+}

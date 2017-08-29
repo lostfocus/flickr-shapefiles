@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2402159,
+    "properties": {
+        "woe_id": 2402159,
+        "place_id": "i_EEx62bBZxDsP7b",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Falls Junction, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234826784,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3283\/shapefiles\/2402159_20090216_81bb3cfaf2.tar.gz"
+        },
+        "bbox": [
+            -81.466369628906,
+            41.354518890381,
+            -81.442764282227,
+            41.361331939697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.448837,
+                        41.361332
+                    ],
+                    [
+                        -81.442764,
+                        41.354519
+                    ],
+                    [
+                        -81.446198,
+                        41.357033
+                    ],
+                    [
+                        -81.46637,
+                        41.358452
+                    ],
+                    [
+                        -81.448837,
+                        41.361332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

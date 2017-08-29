@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500116,
+    "properties": {
+        "woe_id": 2500116,
+        "place_id": "s90fOUabBJxy10JU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockton, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239384851,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3410\/shapefiles\/2500116_20090410_6fd755f9e1.tar.gz"
+        },
+        "bbox": [
+            -87.897659301758,
+            30.999534606934,
+            -87.88444519043,
+            31.019195556641
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.895645,
+                        31.019196
+                    ],
+                    [
+                        -87.884445,
+                        31.011049
+                    ],
+                    [
+                        -87.890709,
+                        31.001522
+                    ],
+                    [
+                        -87.897659,
+                        30.999535
+                    ],
+                    [
+                        -87.895645,
+                        31.019196
+                    ]
+                ]
+            ]
+        ]
+    }
+}

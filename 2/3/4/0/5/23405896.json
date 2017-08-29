@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23405896,
+    "properties": {
+        "woe_id": 23405896,
+        "place_id": "e4pJ0tKbApjX8qzhbg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kimmirut, Nunavut, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234680604,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3464\/shapefiles\/23405896_20090215_35eac86bd9.tar.gz"
+        },
+        "bbox": [
+            -69.874420166016,
+            62.844608306885,
+            -69.869270324707,
+            62.855144500732
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.87442,
+                        62.847939
+                    ],
+                    [
+                        -69.86927,
+                        62.855145
+                    ],
+                    [
+                        -69.870987,
+                        62.848251
+                    ],
+                    [
+                        -69.870987,
+                        62.844608
+                    ],
+                    [
+                        -69.87442,
+                        62.847939
+                    ]
+                ]
+            ]
+        ]
+    }
+}

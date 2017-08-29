@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2497268,
+    "properties": {
+        "woe_id": 2497268,
+        "place_id": "orCb0jKbBZXMtZHM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spangler, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234523763,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3409\/shapefiles\/2497268_20090213_4e51919af0.tar.gz"
+        },
+        "bbox": [
+            -78.779769897461,
+            40.649112701416,
+            -78.779304504395,
+            40.649494171143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.779678,
+                        40.649494
+                    ],
+                    [
+                        -78.779442,
+                        40.649345
+                    ],
+                    [
+                        -78.779305,
+                        40.649113
+                    ],
+                    [
+                        -78.77977,
+                        40.649281
+                    ],
+                    [
+                        -78.779678,
+                        40.649494
+                    ]
+                ]
+            ]
+        ]
+    }
+}

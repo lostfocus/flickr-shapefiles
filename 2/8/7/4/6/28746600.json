@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28746600,
+    "properties": {
+        "woe_id": 28746600,
+        "place_id": "NcAoDXKbCZsryTUEig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Snow Hill, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239528489,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3323\/shapefiles\/28746600_20090412_1127ae8474.tar.gz"
+        },
+        "bbox": [
+            -85.226440429688,
+            38.210945129395,
+            -85.215446472168,
+            38.22314453125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.217232,
+                        38.210945
+                    ],
+                    [
+                        -85.21743,
+                        38.211239
+                    ],
+                    [
+                        -85.22644,
+                        38.216873
+                    ],
+                    [
+                        -85.219055,
+                        38.223145
+                    ],
+                    [
+                        -85.215446,
+                        38.211273
+                    ],
+                    [
+                        -85.216011,
+                        38.211121
+                    ],
+                    [
+                        -85.217232,
+                        38.210945
+                    ]
+                ]
+            ]
+        ]
+    }
+}

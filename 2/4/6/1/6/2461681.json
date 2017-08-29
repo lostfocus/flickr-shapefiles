@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461681,
+    "properties": {
+        "woe_id": 2461681,
+        "place_id": "m7GCBuebBZpAGhd.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "North Star, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523324,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2461681_20101216_2148a74e92.tar.gz"
+        },
+        "bbox": [
+            -75.741546630859,
+            39.763439178467,
+            -75.711654663086,
+            39.777587890625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.723183,
+                        39.770084
+                    ],
+                    [
+                        -75.741547,
+                        39.777508
+                    ],
+                    [
+                        -75.72316,
+                        39.777588
+                    ],
+                    [
+                        -75.711655,
+                        39.772865
+                    ],
+                    [
+                        -75.719482,
+                        39.763439
+                    ],
+                    [
+                        -75.723183,
+                        39.770084
+                    ]
+                ]
+            ]
+        ]
+    }
+}

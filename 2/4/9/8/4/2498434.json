@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2498434,
+    "properties": {
+        "woe_id": 2498434,
+        "place_id": "9sNqN8ebBZXDBscE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Springlake, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234648325,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3326\/shapefiles\/2498434_20090214_f086336ccb.tar.gz"
+        },
+        "bbox": [
+            -84.466217041016,
+            38.980846405029,
+            -84.464736938477,
+            39.001384735107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.464737,
+                        38.998051
+                    ],
+                    [
+                        -84.466217,
+                        38.980846
+                    ],
+                    [
+                        -84.465645,
+                        38.997211
+                    ],
+                    [
+                        -84.465462,
+                        39.001385
+                    ],
+                    [
+                        -84.464737,
+                        38.998051
+                    ]
+                ]
+            ]
+        ]
+    }
+}

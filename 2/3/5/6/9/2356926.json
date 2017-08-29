@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2356926,
+    "properties": {
+        "woe_id": 2356926,
+        "place_id": "h0qqx42bApkKfXmk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Athens, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500142,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2356926_20101216_14b1769c61.tar.gz"
+        },
+        "bbox": [
+            -85.245666503906,
+            42.084224700928,
+            -85.234680175781,
+            42.092620849609
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.234703,
+                        42.089092
+                    ],
+                    [
+                        -85.23468,
+                        42.085739
+                    ],
+                    [
+                        -85.236008,
+                        42.084225
+                    ],
+                    [
+                        -85.245667,
+                        42.09211
+                    ],
+                    [
+                        -85.234833,
+                        42.092621
+                    ],
+                    [
+                        -85.234703,
+                        42.092571
+                    ],
+                    [
+                        -85.234703,
+                        42.089092
+                    ]
+                ]
+            ]
+        ]
+    }
+}

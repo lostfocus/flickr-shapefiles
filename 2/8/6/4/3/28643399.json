@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28643399,
+    "properties": {
+        "woe_id": 28643399,
+        "place_id": "2_7zNoWbCZqWzfbTKw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Piropiro, Manawatu Wanganui, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514727,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28643399_20101216_a31c4084dd.tar.gz"
+        },
+        "bbox": [
+            175.37518310547,
+            -38.622772216797,
+            175.38813781738,
+            -38.605316162109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        175.385849,
+                        -38.606483
+                    ],
+                    [
+                        175.386703,
+                        -38.605316
+                    ],
+                    [
+                        175.388138,
+                        -38.606701
+                    ],
+                    [
+                        175.386688,
+                        -38.607113
+                    ],
+                    [
+                        175.375183,
+                        -38.622772
+                    ],
+                    [
+                        175.385849,
+                        -38.606483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

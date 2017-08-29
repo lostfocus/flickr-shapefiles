@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20130731,
+    "properties": {
+        "woe_id": 20130731,
+        "place_id": "FDcaJGebAZ2lsbttOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marmora, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526747,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/20130731_20101216_2b01ba8099.tar.gz"
+        },
+        "bbox": [
+            7.0897831916809,
+            44.457332611084,
+            7.0932188034058,
+            44.463375091553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.089783,
+                        44.457699
+                    ],
+                    [
+                        7.090638,
+                        44.463375
+                    ],
+                    [
+                        7.093219,
+                        44.458584
+                    ],
+                    [
+                        7.090149,
+                        44.457333
+                    ],
+                    [
+                        7.089783,
+                        44.457699
+                    ]
+                ]
+            ]
+        ]
+    }
+}

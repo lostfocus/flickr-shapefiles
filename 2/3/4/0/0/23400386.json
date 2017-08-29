@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23400386,
+    "properties": {
+        "woe_id": 23400386,
+        "place_id": "a.WIzn.bApgHsTp07w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Edwards, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536953,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/23400386_20101216_6ccdfc5ff4.tar.gz"
+        },
+        "bbox": [
+            -75.527542114258,
+            45.29789352417,
+            -75.508857727051,
+            45.305076599121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.512894,
+                        45.297894
+                    ],
+                    [
+                        -75.527542,
+                        45.299946
+                    ],
+                    [
+                        -75.519569,
+                        45.301365
+                    ],
+                    [
+                        -75.508858,
+                        45.305077
+                    ],
+                    [
+                        -75.512894,
+                        45.297894
+                    ]
+                ]
+            ]
+        ]
+    }
+}

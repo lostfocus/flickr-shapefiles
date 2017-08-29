@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2369100,
+    "properties": {
+        "woe_id": 2369100,
+        "place_id": "uyX0LgCbApr1smmZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Briggs Lake, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532482,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2369100_20101216_66e5806f53.tar.gz"
+        },
+        "bbox": [
+            -93.949371337891,
+            45.488918304443,
+            -93.930015563965,
+            45.492660522461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.930016,
+                        45.492661
+                    ],
+                    [
+                        -93.938057,
+                        45.488918
+                    ],
+                    [
+                        -93.949371,
+                        45.490398
+                    ],
+                    [
+                        -93.939651,
+                        45.490749
+                    ],
+                    [
+                        -93.930016,
+                        45.492661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

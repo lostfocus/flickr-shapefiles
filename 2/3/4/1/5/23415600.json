@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23415600,
+    "properties": {
+        "woe_id": 23415600,
+        "place_id": "IXaYVY6bAphUqIisSg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Candle Street, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545148,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/23415600_20101217_8acf3f8dd0.tar.gz"
+        },
+        "bbox": [
+            0.99074298143387,
+            52.320022583008,
+            1.0100549459457,
+            52.336284637451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.990743,
+                        52.336285
+                    ],
+                    [
+                        0.996665,
+                        52.335365
+                    ],
+                    [
+                        0.999927,
+                        52.331562
+                    ],
+                    [
+                        1.010055,
+                        52.320023
+                    ],
+                    [
+                        1.005918,
+                        52.320892
+                    ],
+                    [
+                        0.993318,
+                        52.331772
+                    ],
+                    [
+                        0.990743,
+                        52.336285
+                    ]
+                ]
+            ]
+        ]
+    }
+}

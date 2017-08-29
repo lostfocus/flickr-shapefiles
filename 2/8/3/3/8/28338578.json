@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28338578,
+    "properties": {
+        "woe_id": 28338578,
+        "place_id": "TVpGJWubCZ82DK8nSg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shamrock, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533402,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/28338578_20101216_ec218fa30a.tar.gz"
+        },
+        "bbox": [
+            -100.76052856445,
+            37.148891448975,
+            -100.74982452393,
+            37.150703430176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.752869,
+                        37.150681
+                    ],
+                    [
+                        -100.752731,
+                        37.150703
+                    ],
+                    [
+                        -100.749825,
+                        37.150158
+                    ],
+                    [
+                        -100.750854,
+                        37.150009
+                    ],
+                    [
+                        -100.760529,
+                        37.148891
+                    ],
+                    [
+                        -100.752869,
+                        37.150681
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2516931,
+    "properties": {
+        "woe_id": 2516931,
+        "place_id": "b9bFpcKbBJ3dPCvm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Edmeston, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234573450,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3536\/shapefiles\/2516931_20090214_b4586977c1.tar.gz"
+        },
+        "bbox": [
+            -75.279304504395,
+            42.76371383667,
+            -75.276428222656,
+            42.766532897949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.276428,
+                        42.766533
+                    ],
+                    [
+                        -75.27729,
+                        42.763714
+                    ],
+                    [
+                        -75.279305,
+                        42.765633
+                    ],
+                    [
+                        -75.277588,
+                        42.766483
+                    ],
+                    [
+                        -75.276428,
+                        42.766533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

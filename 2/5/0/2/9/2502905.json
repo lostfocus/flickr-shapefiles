@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502905,
+    "properties": {
+        "woe_id": 2502905,
+        "place_id": "ZGDteOSbBJwIO0FU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Swandale, West Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451964,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2502905_20101215_4538ed35b4.tar.gz"
+        },
+        "bbox": [
+            -80.961235046387,
+            38.467529296875,
+            -80.958923339844,
+            38.470611572266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.961235,
+                        38.467529
+                    ],
+                    [
+                        -80.961197,
+                        38.467609
+                    ],
+                    [
+                        -80.958939,
+                        38.470608
+                    ],
+                    [
+                        -80.958923,
+                        38.470612
+                    ],
+                    [
+                        -80.96122,
+                        38.467537
+                    ],
+                    [
+                        -80.961235,
+                        38.467529
+                    ]
+                ]
+            ]
+        ]
+    }
+}

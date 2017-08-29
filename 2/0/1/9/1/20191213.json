@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20191213,
+    "properties": {
+        "woe_id": 20191213,
+        "place_id": "_I8kEJmbAZ1LPlVF0A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Prat Communal, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247891282,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2665\/shapefiles\/20191213_20090718_0ec995a346.tar.gz"
+        },
+        "bbox": [
+            1.4421269893646,
+            42.882568359375,
+            1.4577480554581,
+            42.905017852783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.452426,
+                        42.902752
+                    ],
+                    [
+                        1.455173,
+                        42.905018
+                    ],
+                    [
+                        1.457748,
+                        42.899044
+                    ],
+                    [
+                        1.453113,
+                        42.882568
+                    ],
+                    [
+                        1.445903,
+                        42.887787
+                    ],
+                    [
+                        1.442127,
+                        42.893448
+                    ],
+                    [
+                        1.452426,
+                        42.902752
+                    ]
+                ]
+            ]
+        ]
+    }
+}

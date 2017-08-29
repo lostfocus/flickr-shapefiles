@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518904,
+    "properties": {
+        "woe_id": 2518904,
+        "place_id": "XRwa3KybBJ3urhUy",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wheaton Woods, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550554,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2518904_20101217_33897c9b40.tar.gz"
+        },
+        "bbox": [
+            -77.092170715332,
+            39.070053100586,
+            -77.088027954102,
+            39.072498321533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.091164,
+                        39.070667
+                    ],
+                    [
+                        -77.092171,
+                        39.070999
+                    ],
+                    [
+                        -77.091324,
+                        39.071812
+                    ],
+                    [
+                        -77.089333,
+                        39.072498
+                    ],
+                    [
+                        -77.088028,
+                        39.070053
+                    ],
+                    [
+                        -77.091164,
+                        39.070667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

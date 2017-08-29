@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2381472,
+    "properties": {
+        "woe_id": 2381472,
+        "place_id": "YfCd1_ibApS8ij6M",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cleveland, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551523,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2381472_20101217_360054603c.tar.gz"
+        },
+        "bbox": [
+            -120.35612487793,
+            45.968780517578,
+            -120.35181427002,
+            45.974700927734
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.351814,
+                        45.970718
+                    ],
+                    [
+                        -120.356125,
+                        45.968781
+                    ],
+                    [
+                        -120.355141,
+                        45.974701
+                    ],
+                    [
+                        -120.352737,
+                        45.971523
+                    ],
+                    [
+                        -120.351814,
+                        45.970718
+                    ]
+                ]
+            ]
+        ]
+    }
+}

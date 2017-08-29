@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2485160,
+    "properties": {
+        "woe_id": 2485160,
+        "place_id": "kCTEScqbBZQMVP0W",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Round Mountain, Nevada, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486583,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2485160_20101216_6a614a39f5.tar.gz"
+        },
+        "bbox": [
+            -117.10331726074,
+            38.701988220215,
+            -117.08121490479,
+            38.723152160645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.081215,
+                        38.712772
+                    ],
+                    [
+                        -117.082329,
+                        38.704601
+                    ],
+                    [
+                        -117.094856,
+                        38.701988
+                    ],
+                    [
+                        -117.103317,
+                        38.707447
+                    ],
+                    [
+                        -117.09005,
+                        38.723152
+                    ],
+                    [
+                        -117.081215,
+                        38.712772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2445194,
+    "properties": {
+        "woe_id": 2445194,
+        "place_id": "Vb2dQeubBZg8Qm_p",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Maple Grove, Utah, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512686,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2445194_20101216_bfa43d3918.tar.gz"
+        },
+        "bbox": [
+            -112.07890319824,
+            39.026386260986,
+            -112.05024719238,
+            39.038719177246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.050247,
+                        39.026386
+                    ],
+                    [
+                        -112.062607,
+                        39.033852
+                    ],
+                    [
+                        -112.078903,
+                        39.027977
+                    ],
+                    [
+                        -112.065674,
+                        39.038719
+                    ],
+                    [
+                        -112.062607,
+                        39.033852
+                    ],
+                    [
+                        -112.050247,
+                        39.026386
+                    ]
+                ]
+            ]
+        ]
+    }
+}

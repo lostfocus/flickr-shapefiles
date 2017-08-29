@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28744942,
+    "properties": {
+        "woe_id": 28744942,
+        "place_id": "mH_ZPOqbCZvZ0TjHFQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Morris, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533238,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28744942_20101216_5020c2a4b7.tar.gz"
+        },
+        "bbox": [
+            -78.225448608398,
+            40.902477264404,
+            -78.209831237793,
+            40.910316467285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.210266,
+                        40.910316
+                    ],
+                    [
+                        -78.209831,
+                        40.910294
+                    ],
+                    [
+                        -78.21035,
+                        40.910042
+                    ],
+                    [
+                        -78.225449,
+                        40.902477
+                    ],
+                    [
+                        -78.210457,
+                        40.910301
+                    ],
+                    [
+                        -78.210266,
+                        40.910316
+                    ]
+                ]
+            ]
+        ]
+    }
+}

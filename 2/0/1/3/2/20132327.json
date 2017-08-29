@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20132327,
+    "properties": {
+        "woe_id": 20132327,
+        "place_id": "0l8SnoWbAZ3E5JM4lg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moncioni, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502062,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20132327_20101216_eb40637269.tar.gz"
+        },
+        "bbox": [
+            11.493332862854,
+            43.480434417725,
+            11.511011123657,
+            43.486492156982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.51041,
+                        43.486443
+                    ],
+                    [
+                        11.511011,
+                        43.484985
+                    ],
+                    [
+                        11.509444,
+                        43.480831
+                    ],
+                    [
+                        11.507861,
+                        43.480434
+                    ],
+                    [
+                        11.493333,
+                        43.480667
+                    ],
+                    [
+                        11.508007,
+                        43.486492
+                    ],
+                    [
+                        11.51041,
+                        43.486443
+                    ]
+                ]
+            ]
+        ]
+    }
+}

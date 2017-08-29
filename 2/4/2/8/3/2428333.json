@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2428333,
+    "properties": {
+        "woe_id": 2428333,
+        "place_id": "YLIIR.mbBZ4YHwTF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jacksonville, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529130,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2428333_20101216_a9f1eb8606.tar.gz"
+        },
+        "bbox": [
+            -80.619049072266,
+            40.359771728516,
+            -80.606475830078,
+            40.380584716797
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.610634,
+                        40.380585
+                    ],
+                    [
+                        -80.606476,
+                        40.377102
+                    ],
+                    [
+                        -80.609047,
+                        40.364662
+                    ],
+                    [
+                        -80.613823,
+                        40.359772
+                    ],
+                    [
+                        -80.619049,
+                        40.367409
+                    ],
+                    [
+                        -80.610634,
+                        40.380585
+                    ]
+                ]
+            ]
+        ]
+    }
+}

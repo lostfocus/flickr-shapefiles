@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20130405,
+    "properties": {
+        "woe_id": 20130405,
+        "place_id": "WBBQyXmbAZ38DoCenA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mandriou, Valle d'Aosta, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520178,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/20130405_20101216_3213c9e2f6.tar.gz"
+        },
+        "bbox": [
+            7.6958789825439,
+            45.828563690186,
+            7.7057909965515,
+            45.835315704346
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.701475,
+                        45.835316
+                    ],
+                    [
+                        7.702919,
+                        45.834991
+                    ],
+                    [
+                        7.705791,
+                        45.834721
+                    ],
+                    [
+                        7.704361,
+                        45.828564
+                    ],
+                    [
+                        7.702102,
+                        45.828918
+                    ],
+                    [
+                        7.695879,
+                        45.831551
+                    ],
+                    [
+                        7.701475,
+                        45.835316
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20105166,
+    "properties": {
+        "woe_id": 20105166,
+        "place_id": "Z7L6mGWbAZ3RpMwyaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pena, Lisbon, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456907,
+        "alpha": 0.00015,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/20105166_20101215_ca0292a9cc.tar.gz"
+        },
+        "bbox": [
+            -9.1435432434082,
+            38.715366363525,
+            -9.1378889083862,
+            38.724090576172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.138565,
+                        38.720875
+                    ],
+                    [
+                        -9.137889,
+                        38.715366
+                    ],
+                    [
+                        -9.143543,
+                        38.720943
+                    ],
+                    [
+                        -9.140625,
+                        38.724091
+                    ],
+                    [
+                        -9.139766,
+                        38.722485
+                    ],
+                    [
+                        -9.138565,
+                        38.720875
+                    ]
+                ]
+            ]
+        ]
+    }
+}

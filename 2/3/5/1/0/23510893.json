@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23510893,
+    "properties": {
+        "woe_id": 23510893,
+        "place_id": "QIEapXGbAple1S9OPA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bear Lake, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545382,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/23510893_20101217_5bb9efe81a.tar.gz"
+        },
+        "bbox": [
+            -85.530967712402,
+            41.313674926758,
+            -85.507148742676,
+            41.332191467285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.518051,
+                        41.313675
+                    ],
+                    [
+                        -85.530968,
+                        41.319302
+                    ],
+                    [
+                        -85.522125,
+                        41.332191
+                    ],
+                    [
+                        -85.507149,
+                        41.322075
+                    ],
+                    [
+                        -85.508736,
+                        41.315983
+                    ],
+                    [
+                        -85.518051,
+                        41.313675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

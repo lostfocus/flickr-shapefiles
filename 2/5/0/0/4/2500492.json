@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500492,
+    "properties": {
+        "woe_id": 2500492,
+        "place_id": "smiFPiabBJzK4Rm2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stony Hill, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525625,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2500492_20101216_2e1f49f92f.tar.gz"
+        },
+        "bbox": [
+            -91.374877929688,
+            38.543098449707,
+            -91.355606079102,
+            38.555683135986
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.355606,
+                        38.55246
+                    ],
+                    [
+                        -91.358658,
+                        38.549911
+                    ],
+                    [
+                        -91.374878,
+                        38.543098
+                    ],
+                    [
+                        -91.363846,
+                        38.555683
+                    ],
+                    [
+                        -91.355606,
+                        38.55246
+                    ]
+                ]
+            ]
+        ]
+    }
+}

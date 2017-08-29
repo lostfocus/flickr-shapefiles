@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20122899,
+    "properties": {
+        "woe_id": 20122899,
+        "place_id": "VT1_vgmbAZ0pYK4dog",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crocicchie, Umbria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234920968,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3448\/shapefiles\/20122899_20090218_fa933030cc.tar.gz"
+        },
+        "bbox": [
+            12.178087234497,
+            43.216499328613,
+            12.192764282227,
+            43.231197357178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.178087,
+                        43.216499
+                    ],
+                    [
+                        12.185554,
+                        43.224815
+                    ],
+                    [
+                        12.185897,
+                        43.231197
+                    ],
+                    [
+                        12.192764,
+                        43.218937
+                    ],
+                    [
+                        12.178087,
+                        43.216499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

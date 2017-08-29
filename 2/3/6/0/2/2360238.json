@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2360238,
+    "properties": {
+        "woe_id": 2360238,
+        "place_id": "6CeJrVabApppSkqV",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bay Shore Acres, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524723,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2360238_20101216_144b832447.tar.gz"
+        },
+        "bbox": [
+            -75.108032226562,
+            38.338424682617,
+            -75.102882385254,
+            38.344348907471
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.103912,
+                        38.343269
+                    ],
+                    [
+                        -75.102882,
+                        38.338425
+                    ],
+                    [
+                        -75.104408,
+                        38.338459
+                    ],
+                    [
+                        -75.108032,
+                        38.344349
+                    ],
+                    [
+                        -75.103912,
+                        38.343811
+                    ],
+                    [
+                        -75.103912,
+                        38.343269
+                    ]
+                ]
+            ]
+        ]
+    }
+}

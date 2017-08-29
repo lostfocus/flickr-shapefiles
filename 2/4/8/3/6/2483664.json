@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483664,
+    "properties": {
+        "woe_id": 2483664,
+        "place_id": "XGsIQEubBZQcUyxH",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocky Fork, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546095,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2483664_20101217_7958a4ae61.tar.gz"
+        },
+        "bbox": [
+            -82.309158325195,
+            40.167705535889,
+            -82.306510925293,
+            40.174766540527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.309158,
+                        40.174675
+                    ],
+                    [
+                        -82.307716,
+                        40.174767
+                    ],
+                    [
+                        -82.306511,
+                        40.173405
+                    ],
+                    [
+                        -82.30822,
+                        40.167706
+                    ],
+                    [
+                        -82.30899,
+                        40.172737
+                    ],
+                    [
+                        -82.309158,
+                        40.174675
+                    ]
+                ]
+            ]
+        ]
+    }
+}

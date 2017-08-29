@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28744283,
+    "properties": {
+        "woe_id": 28744283,
+        "place_id": "K6iiqYebCZumyJZ5iQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Inverness, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446265,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/28744283_20101215_6268350bfa.tar.gz"
+        },
+        "bbox": [
+            -84.568634033203,
+            45.592418670654,
+            -84.542022705078,
+            45.603469848633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.568634,
+                        45.59362
+                    ],
+                    [
+                        -84.56147,
+                        45.596085
+                    ],
+                    [
+                        -84.542023,
+                        45.60347
+                    ],
+                    [
+                        -84.550781,
+                        45.593021
+                    ],
+                    [
+                        -84.567261,
+                        45.592419
+                    ],
+                    [
+                        -84.568634,
+                        45.59362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

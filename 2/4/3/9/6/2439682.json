@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439682,
+    "properties": {
+        "woe_id": 2439682,
+        "place_id": "oSWV8PybBZ9g_uLL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Linden, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522833,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2439682_20101216_acc9ff79d5.tar.gz"
+        },
+        "bbox": [
+            -77.124084472656,
+            41.254589080811,
+            -77.122917175293,
+            41.255355834961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.124084,
+                        41.255356
+                    ],
+                    [
+                        -77.123878,
+                        41.255249
+                    ],
+                    [
+                        -77.122917,
+                        41.254589
+                    ],
+                    [
+                        -77.123901,
+                        41.255234
+                    ],
+                    [
+                        -77.124084,
+                        41.255356
+                    ]
+                ]
+            ]
+        ]
+    }
+}

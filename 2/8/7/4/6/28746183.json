@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28746183,
+    "properties": {
+        "woe_id": 28746183,
+        "place_id": "mkWLkEubCZsAeJPD5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Short Lane, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541316,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28746183_20101216_e7c12f4577.tar.gz"
+        },
+        "bbox": [
+            -76.535148620605,
+            37.383285522461,
+            -76.529487609863,
+            37.390972137451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.535149,
+                        37.384567
+                    ],
+                    [
+                        -76.532639,
+                        37.386971
+                    ],
+                    [
+                        -76.530769,
+                        37.38945
+                    ],
+                    [
+                        -76.529488,
+                        37.390972
+                    ],
+                    [
+                        -76.532455,
+                        37.383286
+                    ],
+                    [
+                        -76.535149,
+                        37.384567
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505432,
+    "properties": {
+        "woe_id": 2505432,
+        "place_id": "LgPxtiqbBJxceawG",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "The Plantations, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234573086,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3379\/shapefiles\/2505432_20090214_ef105f3f16.tar.gz"
+        },
+        "bbox": [
+            -75.16674041748,
+            38.725330352783,
+            -75.160171508789,
+            38.740474700928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.160172,
+                        38.735413
+                    ],
+                    [
+                        -75.165024,
+                        38.72533
+                    ],
+                    [
+                        -75.16674,
+                        38.735271
+                    ],
+                    [
+                        -75.162811,
+                        38.740475
+                    ],
+                    [
+                        -75.160172,
+                        38.735413
+                    ]
+                ]
+            ]
+        ]
+    }
+}

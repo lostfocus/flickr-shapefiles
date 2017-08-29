@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28585660,
+    "properties": {
+        "woe_id": 28585660,
+        "place_id": "NrP62_ubCZmJsWo7tw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Killara, Victoria, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449625,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28585660_20101215_36c1117284.tar.gz"
+        },
+        "bbox": [
+            146.93919372559,
+            -36.132804870605,
+            146.95458984375,
+            -36.116661071777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        146.95459,
+                        -36.124149
+                    ],
+                    [
+                        146.954498,
+                        -36.132744
+                    ],
+                    [
+                        146.939194,
+                        -36.132805
+                    ],
+                    [
+                        146.950851,
+                        -36.116661
+                    ],
+                    [
+                        146.95459,
+                        -36.124149
+                    ]
+                ]
+            ]
+        ]
+    }
+}

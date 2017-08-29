@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20121374,
+    "properties": {
+        "woe_id": 20121374,
+        "place_id": "DMNMtm6bAZ3x.0Bf1Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Colleoli, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546260,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20121374_20101217_1f3e110c5a.tar.gz"
+        },
+        "bbox": [
+            10.755785942078,
+            43.619068145752,
+            10.758528709412,
+            43.620357513428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.758104,
+                        43.619129
+                    ],
+                    [
+                        10.755786,
+                        43.619675
+                    ],
+                    [
+                        10.757761,
+                        43.620358
+                    ],
+                    [
+                        10.757825,
+                        43.620293
+                    ],
+                    [
+                        10.758361,
+                        43.619675
+                    ],
+                    [
+                        10.758529,
+                        43.619068
+                    ],
+                    [
+                        10.758104,
+                        43.619129
+                    ]
+                ]
+            ]
+        ]
+    }
+}

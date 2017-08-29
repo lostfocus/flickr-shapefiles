@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20105169,
+    "properties": {
+        "woe_id": 20105169,
+        "place_id": "4ofQ3EqbAZ1RsSZfHQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Catarina, Lisbon, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537440,
+        "alpha": 0.00015,
+        "points": 44,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20105169_20101216_676472faa1.tar.gz"
+        },
+        "bbox": [
+            -9.1518468856812,
+            38.708152770996,
+            -9.1426887512207,
+            38.72566986084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.148521,
+                        38.708153
+                    ],
+                    [
+                        -9.151847,
+                        38.711098
+                    ],
+                    [
+                        -9.150369,
+                        38.72567
+                    ],
+                    [
+                        -9.143059,
+                        38.712502
+                    ],
+                    [
+                        -9.142689,
+                        38.710571
+                    ],
+                    [
+                        -9.148521,
+                        38.708153
+                    ]
+                ]
+            ]
+        ]
+    }
+}

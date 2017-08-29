@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2512625,
+    "properties": {
+        "woe_id": 2512625,
+        "place_id": "eP1lXUybBJ0BqBUk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Virginia, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529834,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2512625_20101216_78a913304f.tar.gz"
+        },
+        "bbox": [
+            -122.64117431641,
+            47.698554992676,
+            -122.63391876221,
+            47.708606719971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.641174,
+                        47.705517
+                    ],
+                    [
+                        -122.637978,
+                        47.708607
+                    ],
+                    [
+                        -122.633919,
+                        47.699333
+                    ],
+                    [
+                        -122.635231,
+                        47.698555
+                    ],
+                    [
+                        -122.64077,
+                        47.705112
+                    ],
+                    [
+                        -122.641174,
+                        47.705517
+                    ]
+                ]
+            ]
+        ]
+    }
+}

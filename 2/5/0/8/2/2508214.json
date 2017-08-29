@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2508214,
+    "properties": {
+        "woe_id": 2508214,
+        "place_id": "5v.unyObBJzomEgH",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Troy, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545636,
+        "alpha": 0.00015,
+        "points": 21,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2508214_20101217_7c3a532668.tar.gz"
+        },
+        "bbox": [
+            -117.46573638916,
+            45.941303253174,
+            -117.44453430176,
+            45.947925567627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.452339,
+                        45.94762
+                    ],
+                    [
+                        -117.444534,
+                        45.947926
+                    ],
+                    [
+                        -117.445473,
+                        45.945213
+                    ],
+                    [
+                        -117.453377,
+                        45.941303
+                    ],
+                    [
+                        -117.465736,
+                        45.945889
+                    ],
+                    [
+                        -117.455711,
+                        45.947636
+                    ],
+                    [
+                        -117.452339,
+                        45.94762
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20141545,
+    "properties": {
+        "woe_id": 20141545,
+        "place_id": "Ye4C2b6bAZ3dNONIfw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Marino, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455992,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/20141545_20101215_4afb0a39a5.tar.gz"
+        },
+        "bbox": [
+            10.911482810974,
+            44.807476043701,
+            10.917779922485,
+            44.815650939941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.9132,
+                        44.807476
+                    ],
+                    [
+                        10.91217,
+                        44.807842
+                    ],
+                    [
+                        10.911483,
+                        44.808819
+                    ],
+                    [
+                        10.91778,
+                        44.815651
+                    ],
+                    [
+                        10.913887,
+                        44.807964
+                    ],
+                    [
+                        10.9132,
+                        44.807476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

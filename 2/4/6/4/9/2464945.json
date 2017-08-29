@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2464945,
+    "properties": {
+        "woe_id": 2464945,
+        "place_id": "kiqetwebBZrA3cpp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Old Mill Farms, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234607764,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3302\/shapefiles\/2464945_20090214_20a6cd9577.tar.gz"
+        },
+        "bbox": [
+            -74.608253479004,
+            40.312694549561,
+            -74.60538482666,
+            40.315650939941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.605675,
+                        40.312695
+                    ],
+                    [
+                        -74.606438,
+                        40.312847
+                    ],
+                    [
+                        -74.608253,
+                        40.315651
+                    ],
+                    [
+                        -74.605385,
+                        40.313221
+                    ],
+                    [
+                        -74.605675,
+                        40.312695
+                    ]
+                ]
+            ]
+        ]
+    }
+}

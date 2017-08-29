@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2434145,
+    "properties": {
+        "woe_id": 2434145,
+        "place_id": "e7hDYYmbBZ_wMr4S",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Center, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440772,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2434145_20101215_b19e21fd91.tar.gz"
+        },
+        "bbox": [
+            -88.974784851074,
+            37.072177886963,
+            -88.973281860352,
+            37.075672149658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.974442,
+                        37.073044
+                    ],
+                    [
+                        -88.974785,
+                        37.075085
+                    ],
+                    [
+                        -88.973625,
+                        37.075649
+                    ],
+                    [
+                        -88.973282,
+                        37.075672
+                    ],
+                    [
+                        -88.973854,
+                        37.072178
+                    ],
+                    [
+                        -88.974442,
+                        37.073044
+                    ]
+                ]
+            ]
+        ]
+    }
+}

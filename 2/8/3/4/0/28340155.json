@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28340155,
+    "properties": {
+        "woe_id": 28340155,
+        "place_id": "MMQgXkObCZ9Ki_.9hg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Greenbury, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234724769,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3228\/shapefiles\/28340155_20090215_87b9246236.tar.gz"
+        },
+        "bbox": [
+            -76.227630615234,
+            40.670417785645,
+            -76.220550537109,
+            40.68766784668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.226662,
+                        40.670418
+                    ],
+                    [
+                        -76.227631,
+                        40.687668
+                    ],
+                    [
+                        -76.222908,
+                        40.682728
+                    ],
+                    [
+                        -76.220551,
+                        40.677254
+                    ],
+                    [
+                        -76.226662,
+                        40.670418
+                    ]
+                ]
+            ]
+        ]
+    }
+}

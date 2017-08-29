@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521499,
+    "properties": {
+        "woe_id": 2521499,
+        "place_id": "_yB81bObBJ7KfxMM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wilson, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478607,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2521499_20101216_f36c4c4a45.tar.gz"
+        },
+        "bbox": [
+            -101.72920227051,
+            33.316131591797,
+            -101.72350311279,
+            33.321842193604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.723778,
+                        33.318604
+                    ],
+                    [
+                        -101.723503,
+                        33.316132
+                    ],
+                    [
+                        -101.724258,
+                        33.316231
+                    ],
+                    [
+                        -101.728882,
+                        33.317719
+                    ],
+                    [
+                        -101.729202,
+                        33.321842
+                    ],
+                    [
+                        -101.723778,
+                        33.318604
+                    ]
+                ]
+            ]
+        ]
+    }
+}

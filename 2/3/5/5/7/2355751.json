@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2355751,
+    "properties": {
+        "woe_id": 2355751,
+        "place_id": "RLC1QXGbApmwVWZ7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Argo, Nevada, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292467325,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2355751_20101216_de948c2f08.tar.gz"
+        },
+        "bbox": [
+            -119.16786193848,
+            39.586006164551,
+            -119.14535522461,
+            39.597221374512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.145355,
+                        39.588757
+                    ],
+                    [
+                        -119.147758,
+                        39.586243
+                    ],
+                    [
+                        -119.167862,
+                        39.586006
+                    ],
+                    [
+                        -119.163208,
+                        39.597221
+                    ],
+                    [
+                        -119.149223,
+                        39.596504
+                    ],
+                    [
+                        -119.145355,
+                        39.588757
+                    ]
+                ]
+            ]
+        ]
+    }
+}

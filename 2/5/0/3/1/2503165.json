@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503165,
+    "properties": {
+        "woe_id": 2503165,
+        "place_id": "FtmyylmbBJz4DNt4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Swifton, Arkansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234523768,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3444\/shapefiles\/2503165_20090213_871a7a406a.tar.gz"
+        },
+        "bbox": [
+            -91.131988525391,
+            35.817916870117,
+            -91.12451171875,
+            35.832225799561
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.127472,
+                        35.832226
+                    ],
+                    [
+                        -91.124641,
+                        35.819099
+                    ],
+                    [
+                        -91.124512,
+                        35.817917
+                    ],
+                    [
+                        -91.131989,
+                        35.825752
+                    ],
+                    [
+                        -91.127472,
+                        35.832226
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2473856,
+    "properties": {
+        "woe_id": 2473856,
+        "place_id": "TGeh6dSbBZu09O.Z",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pleasant Hill, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234702334,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3516\/shapefiles\/2473856_20090215_efd5c5634f.tar.gz"
+        },
+        "bbox": [
+            -77.591255187988,
+            35.067470550537,
+            -77.590194702148,
+            35.068019866943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.590195,
+                        35.067566
+                    ],
+                    [
+                        -77.590607,
+                        35.067471
+                    ],
+                    [
+                        -77.591255,
+                        35.06802
+                    ],
+                    [
+                        -77.590881,
+                        35.067867
+                    ],
+                    [
+                        -77.590195,
+                        35.067566
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2354920,
+    "properties": {
+        "woe_id": 2354920,
+        "place_id": "9K5GJu6bApnEEtAE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Annieville, South Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234611376,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3308\/shapefiles\/2354920_20090214_409647ebb4.tar.gz"
+        },
+        "bbox": [
+            -79.114219665527,
+            33.475856781006,
+            -79.100456237793,
+            33.48607635498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.10495,
+                        33.486076
+                    ],
+                    [
+                        -79.100456,
+                        33.485088
+                    ],
+                    [
+                        -79.11422,
+                        33.475857
+                    ],
+                    [
+                        -79.108727,
+                        33.484013
+                    ],
+                    [
+                        -79.10495,
+                        33.486076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

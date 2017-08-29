@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2509222,
+    "properties": {
+        "woe_id": 2509222,
+        "place_id": "blqRQBKbBJw_EUOc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Twin Springs, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536123,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2509222_20101216_cd04ed295a.tar.gz"
+        },
+        "bbox": [
+            -115.75062561035,
+            43.646728515625,
+            -115.74416351318,
+            43.650047302246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.744164,
+                        43.650032
+                    ],
+                    [
+                        -115.744171,
+                        43.650017
+                    ],
+                    [
+                        -115.750626,
+                        43.646729
+                    ],
+                    [
+                        -115.744347,
+                        43.650047
+                    ],
+                    [
+                        -115.744164,
+                        43.650032
+                    ]
+                ]
+            ]
+        ]
+    }
+}

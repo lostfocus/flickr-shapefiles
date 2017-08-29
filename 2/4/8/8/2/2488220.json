@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2488220,
+    "properties": {
+        "woe_id": 2488220,
+        "place_id": "W2PXnSubBZQCLLOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Souci Beach, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226588165,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3041\/shapefiles\/2488220_20081113_cc15235e26.tar.gz"
+        },
+        "bbox": [
+            -88.271591186523,
+            30.381700515747,
+            -88.261756896973,
+            30.383611679077
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.267723,
+                        30.382853
+                    ],
+                    [
+                        -88.271591,
+                        30.381701
+                    ],
+                    [
+                        -88.268066,
+                        30.383261
+                    ],
+                    [
+                        -88.264587,
+                        30.383612
+                    ],
+                    [
+                        -88.261757,
+                        30.382574
+                    ],
+                    [
+                        -88.267723,
+                        30.382853
+                    ]
+                ]
+            ]
+        ]
+    }
+}

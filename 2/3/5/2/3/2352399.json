@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2352399,
+    "properties": {
+        "woe_id": 2352399,
+        "place_id": "KEqvO0mbApkDZiZu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Airmont, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500087,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2352399_20101216_fcdd379420.tar.gz"
+        },
+        "bbox": [
+            -77.812454223633,
+            39.074535369873,
+            -77.79305267334,
+            39.087928771973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.804489,
+                        39.079708
+                    ],
+                    [
+                        -77.812454,
+                        39.086903
+                    ],
+                    [
+                        -77.793175,
+                        39.087929
+                    ],
+                    [
+                        -77.793053,
+                        39.074535
+                    ],
+                    [
+                        -77.804489,
+                        39.079708
+                    ]
+                ]
+            ]
+        ]
+    }
+}

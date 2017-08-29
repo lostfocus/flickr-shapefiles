@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20199769,
+    "properties": {
+        "woe_id": 20199769,
+        "place_id": "iwv2kAibAZ1iKTUQZQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Domino, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247916848,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2011\/shapefiles\/20199769_20090718_9624857ef9.tar.gz"
+        },
+        "bbox": [
+            -1.3928600549698,
+            45.968631744385,
+            -1.3774100542068,
+            45.974834442139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.39286,
+                        45.974239
+                    ],
+                    [
+                        -1.390628,
+                        45.972984
+                    ],
+                    [
+                        -1.37741,
+                        45.974834
+                    ],
+                    [
+                        -1.37947,
+                        45.973106
+                    ],
+                    [
+                        -1.389598,
+                        45.968632
+                    ],
+                    [
+                        -1.39286,
+                        45.974239
+                    ]
+                ]
+            ]
+        ]
+    }
+}

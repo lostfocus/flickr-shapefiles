@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505456,
+    "properties": {
+        "woe_id": 2505456,
+        "place_id": "WQq5INCbBJw9rpj5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "The Rubicon, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234809482,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3557\/shapefiles\/2505456_20090216_21e07a4a91.tar.gz"
+        },
+        "bbox": [
+            -84.547264099121,
+            33.341426849365,
+            -84.540756225586,
+            33.351375579834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.541229,
+                        33.351009
+                    ],
+                    [
+                        -84.540756,
+                        33.351376
+                    ],
+                    [
+                        -84.541512,
+                        33.34573
+                    ],
+                    [
+                        -84.547264,
+                        33.341427
+                    ],
+                    [
+                        -84.541229,
+                        33.351009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

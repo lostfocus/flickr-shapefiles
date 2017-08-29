@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28744647,
+    "properties": {
+        "woe_id": 28744647,
+        "place_id": "sFGQ.Z6bCZuxZi1iTg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Liberty, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540047,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/28744647_20101216_bc2bb0046b.tar.gz"
+        },
+        "bbox": [
+            -80.102989196777,
+            41.137916564941,
+            -80.101684570312,
+            41.143936157227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.101685,
+                        41.138096
+                    ],
+                    [
+                        -80.101929,
+                        41.137917
+                    ],
+                    [
+                        -80.102066,
+                        41.138168
+                    ],
+                    [
+                        -80.102989,
+                        41.143936
+                    ],
+                    [
+                        -80.101685,
+                        41.138096
+                    ]
+                ]
+            ]
+        ]
+    }
+}

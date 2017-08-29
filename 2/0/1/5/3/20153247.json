@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20153247,
+    "properties": {
+        "woe_id": 20153247,
+        "place_id": "1ab7_jebAZ25h5ILdw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Penzing, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234577530,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3531\/shapefiles\/20153247_20090214_dee35ed4a0.tar.gz"
+        },
+        "bbox": [
+            12.250720977783,
+            48.069728851318,
+            12.253017425537,
+            48.073375701904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.250721,
+                        48.070107
+                    ],
+                    [
+                        12.250828,
+                        48.073376
+                    ],
+                    [
+                        12.253017,
+                        48.071312
+                    ],
+                    [
+                        12.251037,
+                        48.069729
+                    ],
+                    [
+                        12.250721,
+                        48.070107
+                    ]
+                ]
+            ]
+        ]
+    }
+}

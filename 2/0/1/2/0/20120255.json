@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20120255,
+    "properties": {
+        "woe_id": 20120255,
+        "place_id": "TsWaDAGbAZ3o5rQ52w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chiaves, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531918,
+        "alpha": 0.00015,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/20120255_20101216_269f51c730.tar.gz"
+        },
+        "bbox": [
+            7.4233241081238,
+            45.281650543213,
+            7.4349970817566,
+            45.302467346191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.427444,
+                        45.297352
+                    ],
+                    [
+                        7.434997,
+                        45.281651
+                    ],
+                    [
+                        7.425513,
+                        45.287945
+                    ],
+                    [
+                        7.423324,
+                        45.299404
+                    ],
+                    [
+                        7.42592,
+                        45.302467
+                    ],
+                    [
+                        7.426586,
+                        45.300549
+                    ],
+                    [
+                        7.427444,
+                        45.297352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

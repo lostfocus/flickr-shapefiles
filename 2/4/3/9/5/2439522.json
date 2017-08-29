@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439522,
+    "properties": {
+        "woe_id": 2439522,
+        "place_id": "z3t5CcibBZ9xUiE.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lincoln Heights, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529300,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/2439522_20101216_144e25f808.tar.gz"
+        },
+        "bbox": [
+            -76.53630065918,
+            38.990650177002,
+            -76.529922485352,
+            38.995658874512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.529922,
+                        38.994823
+                    ],
+                    [
+                        -76.530212,
+                        38.991619
+                    ],
+                    [
+                        -76.534073,
+                        38.99065
+                    ],
+                    [
+                        -76.536301,
+                        38.995659
+                    ],
+                    [
+                        -76.529922,
+                        38.994823
+                    ]
+                ]
+            ]
+        ]
+    }
+}

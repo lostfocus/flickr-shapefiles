@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20073506,
+    "properties": {
+        "woe_id": 20073506,
+        "place_id": "InIGMuabAZzJcskDPg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sonnagh, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539862,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/20073506_20101216_cd6586dd97.tar.gz"
+        },
+        "bbox": [
+            -8.8182439804077,
+            53.911415100098,
+            -8.8115282058716,
+            53.914337158203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.816871,
+                        53.913643
+                    ],
+                    [
+                        -8.812665,
+                        53.914337
+                    ],
+                    [
+                        -8.811528,
+                        53.914158
+                    ],
+                    [
+                        -8.813095,
+                        53.911415
+                    ],
+                    [
+                        -8.818244,
+                        53.912426
+                    ],
+                    [
+                        -8.817214,
+                        53.913895
+                    ],
+                    [
+                        -8.816871,
+                        53.913643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

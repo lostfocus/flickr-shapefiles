@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23394398,
+    "properties": {
+        "woe_id": 23394398,
+        "place_id": "IBN51PubAp9VBksBfA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lac-Drolet, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519023,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/23394398_20101216_0982e6aa4f.tar.gz"
+        },
+        "bbox": [
+            -70.872116088867,
+            45.719631195068,
+            -70.852333068848,
+            45.733638763428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.871475,
+                        45.733639
+                    ],
+                    [
+                        -70.869972,
+                        45.731586
+                    ],
+                    [
+                        -70.852333,
+                        45.719631
+                    ],
+                    [
+                        -70.872116,
+                        45.72979
+                    ],
+                    [
+                        -70.872116,
+                        45.732124
+                    ],
+                    [
+                        -70.871475,
+                        45.733639
+                    ]
+                ]
+            ]
+        ]
+    }
+}

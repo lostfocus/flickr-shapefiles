@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20151810,
+    "properties": {
+        "woe_id": 20151810,
+        "place_id": "8Z7UH3WbAZ3vI9RZeg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Uddens fritidsomr\u00e5de, Sodermanland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535506,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/20151810_20101216_d553f2d025.tar.gz"
+        },
+        "bbox": [
+            16.09610748291,
+            59.237339019775,
+            16.103210449219,
+            59.245872497559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.10321,
+                        59.244118
+                    ],
+                    [
+                        16.102013,
+                        59.237339
+                    ],
+                    [
+                        16.096107,
+                        59.238693
+                    ],
+                    [
+                        16.101322,
+                        59.243282
+                    ],
+                    [
+                        16.10321,
+                        59.245872
+                    ],
+                    [
+                        16.10321,
+                        59.244118
+                    ]
+                ]
+            ]
+        ]
+    }
+}

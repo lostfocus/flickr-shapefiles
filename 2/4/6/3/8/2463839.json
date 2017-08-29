@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2463839,
+    "properties": {
+        "woe_id": 2463839,
+        "place_id": "ibIep7ibBZoytk6u",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oakville, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455818,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2463839_20101215_0c353fde48.tar.gz"
+        },
+        "bbox": [
+            -91.063217163086,
+            41.095527648926,
+            -91.043441772461,
+            41.102508544922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.046272,
+                        41.099339
+                    ],
+                    [
+                        -91.063217,
+                        41.102509
+                    ],
+                    [
+                        -91.046555,
+                        41.100513
+                    ],
+                    [
+                        -91.043442,
+                        41.099194
+                    ],
+                    [
+                        -91.044319,
+                        41.095528
+                    ],
+                    [
+                        -91.046272,
+                        41.099339
+                    ]
+                ]
+            ]
+        ]
+    }
+}

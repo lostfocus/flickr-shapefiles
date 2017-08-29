@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425500,
+    "properties": {
+        "woe_id": 2425500,
+        "place_id": "SQ.L29mbBZ7iLKW4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Humboldt, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477530,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2425500_20101216_77a9098582.tar.gz"
+        },
+        "bbox": [
+            -87.885650634766,
+            46.505336761475,
+            -87.869079589844,
+            46.521606445312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.885651,
+                        46.505386
+                    ],
+                    [
+                        -87.86908,
+                        46.521606
+                    ],
+                    [
+                        -87.885605,
+                        46.505356
+                    ],
+                    [
+                        -87.885605,
+                        46.505344
+                    ],
+                    [
+                        -87.885605,
+                        46.505337
+                    ],
+                    [
+                        -87.885651,
+                        46.505386
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20203003,
+    "properties": {
+        "woe_id": 20203003,
+        "place_id": "mWR8kP2bAZ5jvUXTlw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Tuili\u00e8re, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452292,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/20203003_20101215_394ecfa915.tar.gz"
+        },
+        "bbox": [
+            5.5252161026001,
+            43.839630126953,
+            5.5356740951538,
+            43.84725189209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.535674,
+                        43.847252
+                    ],
+                    [
+                        5.532194,
+                        43.844398
+                    ],
+                    [
+                        5.52528,
+                        43.83963
+                    ],
+                    [
+                        5.525216,
+                        43.839645
+                    ],
+                    [
+                        5.532194,
+                        43.844398
+                    ],
+                    [
+                        5.533708,
+                        43.846264
+                    ],
+                    [
+                        5.535674,
+                        43.847252
+                    ]
+                ]
+            ]
+        ]
+    }
+}

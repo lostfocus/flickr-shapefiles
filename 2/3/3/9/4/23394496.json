@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23394496,
+    "properties": {
+        "woe_id": 23394496,
+        "place_id": "zbVkB4ObAp9MIhoZMQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Bruno, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449392,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/23394496_20101215_40ab78d84d.tar.gz"
+        },
+        "bbox": [
+            -71.689910888672,
+            48.469734191895,
+            -71.673431396484,
+            48.474742889404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.675522,
+                        48.471771
+                    ],
+                    [
+                        -71.689911,
+                        48.474743
+                    ],
+                    [
+                        -71.674805,
+                        48.474743
+                    ],
+                    [
+                        -71.673431,
+                        48.469734
+                    ],
+                    [
+                        -71.675522,
+                        48.471771
+                    ]
+                ]
+            ]
+        ]
+    }
+}

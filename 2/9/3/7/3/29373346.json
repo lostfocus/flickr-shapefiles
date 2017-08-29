@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29373346,
+    "properties": {
+        "woe_id": 29373346,
+        "place_id": "fP0xSNebCJ_tUV_O2g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mountain, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544431,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/29373346_20101217_b94f02d827.tar.gz"
+        },
+        "bbox": [
+            -101.12725830078,
+            52.344306945801,
+            -101.10614776611,
+            52.367107391357
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.106834,
+                        52.358147
+                    ],
+                    [
+                        -101.106407,
+                        52.344307
+                    ],
+                    [
+                        -101.127258,
+                        52.355579
+                    ],
+                    [
+                        -101.114304,
+                        52.36116
+                    ],
+                    [
+                        -101.106148,
+                        52.367107
+                    ],
+                    [
+                        -101.106834,
+                        52.358147
+                    ]
+                ]
+            ]
+        ]
+    }
+}

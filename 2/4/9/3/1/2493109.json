@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2493109,
+    "properties": {
+        "woe_id": 2493109,
+        "place_id": "HAl4zWSbBZUdu9EM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shorewood, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456774,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2493109_20101215_1b87b0b536.tar.gz"
+        },
+        "bbox": [
+            -124.22833251953,
+            43.443859100342,
+            -124.22164916992,
+            43.454425811768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -124.225754,
+                        43.450657
+                    ],
+                    [
+                        -124.227913,
+                        43.453938
+                    ],
+                    [
+                        -124.228333,
+                        43.454426
+                    ],
+                    [
+                        -124.223442,
+                        43.454166
+                    ],
+                    [
+                        -124.221649,
+                        43.443859
+                    ],
+                    [
+                        -124.225754,
+                        43.450657
+                    ]
+                ]
+            ]
+        ]
+    }
+}

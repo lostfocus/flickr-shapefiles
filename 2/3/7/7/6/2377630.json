@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2377630,
+    "properties": {
+        "woe_id": 2377630,
+        "place_id": "0YHUcyKbAptBkOL7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Central Valley, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542207,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2377630_20101216_0c29807354.tar.gz"
+        },
+        "bbox": [
+            -122.37677001953,
+            40.677726745605,
+            -122.3610458374,
+            40.685043334961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.373039,
+                        40.677734
+                    ],
+                    [
+                        -122.37677,
+                        40.685043
+                    ],
+                    [
+                        -122.371727,
+                        40.681679
+                    ],
+                    [
+                        -122.370041,
+                        40.681011
+                    ],
+                    [
+                        -122.361046,
+                        40.677727
+                    ],
+                    [
+                        -122.373039,
+                        40.677734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2469338,
+    "properties": {
+        "woe_id": 2469338,
+        "place_id": "FHXjTnKbBZoYD06S",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pauls Crossing, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234848128,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3333\/shapefiles\/2469338_20090217_21bf69e6fe.tar.gz"
+        },
+        "bbox": [
+            -80.292808532715,
+            35.439212799072,
+            -80.270706176758,
+            35.441074371338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.270706,
+                        35.441074
+                    ],
+                    [
+                        -80.272453,
+                        35.439213
+                    ],
+                    [
+                        -80.292809,
+                        35.439713
+                    ],
+                    [
+                        -80.272552,
+                        35.439835
+                    ],
+                    [
+                        -80.270706,
+                        35.441074
+                    ]
+                ]
+            ]
+        ]
+    }
+}

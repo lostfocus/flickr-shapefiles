@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2451766,
+    "properties": {
+        "woe_id": 2451766,
+        "place_id": "vmfWgVibBZnDOatA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Milton, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456730,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2451766_20101215_97ab139e33.tar.gz"
+        },
+        "bbox": [
+            -85.158721923828,
+            39.785316467285,
+            -85.154319763184,
+            39.7887840271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.158279,
+                        39.785316
+                    ],
+                    [
+                        -85.158722,
+                        39.788784
+                    ],
+                    [
+                        -85.155243,
+                        39.786545
+                    ],
+                    [
+                        -85.15432,
+                        39.785984
+                    ],
+                    [
+                        -85.158279,
+                        39.785316
+                    ]
+                ]
+            ]
+        ]
+    }
+}

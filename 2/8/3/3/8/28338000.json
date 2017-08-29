@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28338000,
+    "properties": {
+        "woe_id": 28338000,
+        "place_id": "G7oYJmybCZ91gflYxA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wattenburg, Colorado, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509142,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28338000_20101216_deaccb7297.tar.gz"
+        },
+        "bbox": [
+            -104.83027648926,
+            40.10888671875,
+            -104.81972503662,
+            40.11527633667
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.82,
+                        40.115276
+                    ],
+                    [
+                        -104.819725,
+                        40.112499
+                    ],
+                    [
+                        -104.82,
+                        40.112499
+                    ],
+                    [
+                        -104.829445,
+                        40.108887
+                    ],
+                    [
+                        -104.82972,
+                        40.108887
+                    ],
+                    [
+                        -104.830276,
+                        40.108887
+                    ],
+                    [
+                        -104.82,
+                        40.115276
+                    ]
+                ]
+            ]
+        ]
+    }
+}

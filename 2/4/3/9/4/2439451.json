@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439451,
+    "properties": {
+        "woe_id": 2439451,
+        "place_id": "JKhG.WCbBZ.bhW6.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lincoln, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539207,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2439451_20101216_3415025cde.tar.gz"
+        },
+        "bbox": [
+            -83.70002746582,
+            45.933242797852,
+            -83.695220947266,
+            45.941837310791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.700027,
+                        45.93993
+                    ],
+                    [
+                        -83.700027,
+                        45.940166
+                    ],
+                    [
+                        -83.699341,
+                        45.941837
+                    ],
+                    [
+                        -83.695221,
+                        45.933243
+                    ],
+                    [
+                        -83.700027,
+                        45.93993
+                    ]
+                ]
+            ]
+        ]
+    }
+}

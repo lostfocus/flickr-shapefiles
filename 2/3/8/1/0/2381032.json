@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2381032,
+    "properties": {
+        "woe_id": 2381032,
+        "place_id": "e1L1L06bApTpohfW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clayhole, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234858459,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3663\/shapefiles\/2381032_20090217_11f4099142.tar.gz"
+        },
+        "bbox": [
+            -83.281578063965,
+            37.466510772705,
+            -83.267738342285,
+            37.476524353027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.280876,
+                        37.473972
+                    ],
+                    [
+                        -83.274338,
+                        37.476524
+                    ],
+                    [
+                        -83.267738,
+                        37.466511
+                    ],
+                    [
+                        -83.281578,
+                        37.469784
+                    ],
+                    [
+                        -83.280876,
+                        37.473972
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 29374355,
+    "properties": {
+        "woe_id": 29374355,
+        "place_id": "dXbgJFmbCJ95QI0JJQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Hants, Nova Scotia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518007,
+        "alpha": 0.0001875,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/29374355_20101216_3bffbec864.tar.gz"
+        },
+        "bbox": [
+            -64.033966064453,
+            44.992088317871,
+            -64.032783508301,
+            44.992454528809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.033516,
+                        44.992088
+                    ],
+                    [
+                        -64.033966,
+                        44.992363
+                    ],
+                    [
+                        -64.033638,
+                        44.992455
+                    ],
+                    [
+                        -64.033295,
+                        44.992363
+                    ],
+                    [
+                        -64.032784,
+                        44.992241
+                    ],
+                    [
+                        -64.032867,
+                        44.992119
+                    ],
+                    [
+                        -64.033516,
+                        44.992088
+                    ]
+                ]
+            ]
+        ]
+    }
+}

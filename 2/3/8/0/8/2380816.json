@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2380816,
+    "properties": {
+        "woe_id": 2380816,
+        "place_id": "wLMDhl.bApSqb4cq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clarksboro, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292418363,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2380816_20101215_1d8e216624.tar.gz"
+        },
+        "bbox": [
+            -75.229484558105,
+            39.799404144287,
+            -75.224342346191,
+            39.818027496338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.224342,
+                        39.79974
+                    ],
+                    [
+                        -75.224464,
+                        39.799404
+                    ],
+                    [
+                        -75.224945,
+                        39.800079
+                    ],
+                    [
+                        -75.229485,
+                        39.805065
+                    ],
+                    [
+                        -75.226822,
+                        39.818027
+                    ],
+                    [
+                        -75.224342,
+                        39.79974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

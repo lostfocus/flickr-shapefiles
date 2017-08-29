@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518500,
+    "properties": {
+        "woe_id": 2518500,
+        "place_id": "JmJjd8CbBJ3hOFwB",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Westport, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550261,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2518500_20101217_40987c43a6.tar.gz"
+        },
+        "bbox": [
+            -85.487922668457,
+            38.46212387085,
+            -85.471183776855,
+            38.491321563721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.471649,
+                        38.478745
+                    ],
+                    [
+                        -85.471184,
+                        38.462124
+                    ],
+                    [
+                        -85.487923,
+                        38.471313
+                    ],
+                    [
+                        -85.480667,
+                        38.478413
+                    ],
+                    [
+                        -85.474487,
+                        38.491322
+                    ],
+                    [
+                        -85.471649,
+                        38.478745
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20135610,
+    "properties": {
+        "woe_id": 20135610,
+        "place_id": "C_BNBWmbAZ3W6MInsg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Perzacco, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449203,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/20135610_20101215_0e55665cfa.tar.gz"
+        },
+        "bbox": [
+            11.171549797058,
+            45.36315536499,
+            11.184983253479,
+            45.369815826416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.18249,
+                        45.36343
+                    ],
+                    [
+                        11.17155,
+                        45.369816
+                    ],
+                    [
+                        11.183566,
+                        45.369331
+                    ],
+                    [
+                        11.184715,
+                        45.368885
+                    ],
+                    [
+                        11.184929,
+                        45.365902
+                    ],
+                    [
+                        11.184983,
+                        45.363155
+                    ],
+                    [
+                        11.18249,
+                        45.36343
+                    ]
+                ]
+            ]
+        ]
+    }
+}

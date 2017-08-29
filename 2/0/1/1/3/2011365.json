@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2011365,
+    "properties": {
+        "woe_id": 2011365,
+        "place_id": "AR6DosSbAZ3lJPUW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ignatovskoye, Kaluzhskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540343,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2011365_20101216_9c39aaf6c2.tar.gz"
+        },
+        "bbox": [
+            37.21155166626,
+            54.738296508789,
+            37.235000610352,
+            54.752170562744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.235001,
+                        54.751389
+                    ],
+                    [
+                        37.224426,
+                        54.738297
+                    ],
+                    [
+                        37.211552,
+                        54.747414
+                    ],
+                    [
+                        37.227516,
+                        54.749496
+                    ],
+                    [
+                        37.234554,
+                        54.752171
+                    ],
+                    [
+                        37.235001,
+                        54.751389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

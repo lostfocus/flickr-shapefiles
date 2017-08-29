@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499301,
+    "properties": {
+        "woe_id": 2499301,
+        "place_id": "RA0wtZubBZVQ2rUr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Statenville, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539236,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2499301_20101216_ae2c61c557.tar.gz"
+        },
+        "bbox": [
+            -83.028518676758,
+            30.702886581421,
+            -83.024192810059,
+            30.708084106445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.028442,
+                        30.703661
+                    ],
+                    [
+                        -83.028519,
+                        30.703873
+                    ],
+                    [
+                        -83.026901,
+                        30.708084
+                    ],
+                    [
+                        -83.024193,
+                        30.703339
+                    ],
+                    [
+                        -83.026901,
+                        30.702887
+                    ],
+                    [
+                        -83.028442,
+                        30.703661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

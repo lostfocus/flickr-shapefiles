@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20161307,
+    "properties": {
+        "woe_id": 20161307,
+        "place_id": "oBGRnr6bAZ3mzOefVQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kersdorfer Schleuse, Brandenburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234498324,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3299\/shapefiles\/20161307_20090213_4fabe7e71e.tar.gz"
+        },
+        "bbox": [
+            14.239542007446,
+            52.303787231445,
+            14.243577957153,
+            52.305248260498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.239542,
+                        52.305237
+                    ],
+                    [
+                        14.239563,
+                        52.305248
+                    ],
+                    [
+                        14.243578,
+                        52.303787
+                    ],
+                    [
+                        14.239564,
+                        52.305233
+                    ],
+                    [
+                        14.239542,
+                        52.305237
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20075022,
+    "properties": {
+        "woe_id": 20075022,
+        "place_id": "rTW5FLubAZwmZ792og",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moncontour, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527690,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/20075022_20101216_e6c5b515f9.tar.gz"
+        },
+        "bbox": [
+            0.014499999582767,
+            46.885833740234,
+            0.014999999664724,
+            46.886501312256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.0145,
+                        46.886501
+                    ],
+                    [
+                        0.014666,
+                        46.886501
+                    ],
+                    [
+                        0.014833,
+                        46.886501
+                    ],
+                    [
+                        0.015,
+                        46.886166
+                    ],
+                    [
+                        0.0145,
+                        46.885834
+                    ],
+                    [
+                        0.0145,
+                        46.886002
+                    ],
+                    [
+                        0.0145,
+                        46.886501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

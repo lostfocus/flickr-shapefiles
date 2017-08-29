@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2080550,
+    "properties": {
+        "woe_id": 2080550,
+        "place_id": "sxYzxeubAZT7SqRo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Serkovo, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477043,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2080550_20101216_e38b406afe.tar.gz"
+        },
+        "bbox": [
+            37.946781158447,
+            55.88306427002,
+            37.965236663818,
+            55.903182983398
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.956348,
+                        55.902805
+                    ],
+                    [
+                        37.957432,
+                        55.902542
+                    ],
+                    [
+                        37.965237,
+                        55.883064
+                    ],
+                    [
+                        37.946781,
+                        55.892639
+                    ],
+                    [
+                        37.948631,
+                        55.901592
+                    ],
+                    [
+                        37.951656,
+                        55.903183
+                    ],
+                    [
+                        37.956348,
+                        55.902805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

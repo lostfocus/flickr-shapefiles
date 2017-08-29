@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22482999,
+    "properties": {
+        "woe_id": 22482999,
+        "place_id": "Gwp2XhubA5hcP7EuFA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Penzance Heliport, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514007,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/22482999_20101216_0ecb79f2c2.tar.gz"
+        },
+        "bbox": [
+            -5.5206289291382,
+            50.126800537109,
+            -5.5176339149475,
+            50.128662109375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.520629,
+                        50.128014
+                    ],
+                    [
+                        -5.518763,
+                        50.128605
+                    ],
+                    [
+                        -5.517634,
+                        50.128662
+                    ],
+                    [
+                        -5.518634,
+                        50.126801
+                    ],
+                    [
+                        -5.520393,
+                        50.127354
+                    ],
+                    [
+                        -5.520629,
+                        50.128014
+                    ]
+                ]
+            ]
+        ]
+    }
+}

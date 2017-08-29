@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2442641,
+    "properties": {
+        "woe_id": 2442641,
+        "place_id": "pYtIWs2bBZgFAhbd",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lower Montville, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542220,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2442641_20101216_583a16719a.tar.gz"
+        },
+        "bbox": [
+            -74.371604919434,
+            40.891586303711,
+            -74.345123291016,
+            40.906051635742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.362923,
+                        40.896049
+                    ],
+                    [
+                        -74.371605,
+                        40.906052
+                    ],
+                    [
+                        -74.361351,
+                        40.898396
+                    ],
+                    [
+                        -74.345123,
+                        40.898674
+                    ],
+                    [
+                        -74.358917,
+                        40.891586
+                    ],
+                    [
+                        -74.362923,
+                        40.896049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

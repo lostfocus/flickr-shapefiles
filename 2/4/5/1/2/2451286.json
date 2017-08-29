@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2451286,
+    "properties": {
+        "woe_id": 2451286,
+        "place_id": "8mwVh3ubBZmApBfu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Miller, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548311,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2451286_20101217_acb09bb49f.tar.gz"
+        },
+        "bbox": [
+            -78.904167175293,
+            39.579498291016,
+            -78.897026062012,
+            39.583332061768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.897026,
+                        39.580456
+                    ],
+                    [
+                        -78.900803,
+                        39.579826
+                    ],
+                    [
+                        -78.904167,
+                        39.579498
+                    ],
+                    [
+                        -78.89711,
+                        39.583332
+                    ],
+                    [
+                        -78.897026,
+                        39.580456
+                    ]
+                ]
+            ]
+        ]
+    }
+}

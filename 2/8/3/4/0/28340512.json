@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28340512,
+    "properties": {
+        "woe_id": 28340512,
+        "place_id": "EDPNu5mbCZ.RPeYIRg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cameron Station, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536166,
+        "alpha": 0.00015,
+        "points": 40,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28340512_20101216_573601e22b.tar.gz"
+        },
+        "bbox": [
+            -77.123878479004,
+            38.805065155029,
+            -77.108840942383,
+            38.815166473389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.114281,
+                        38.809116
+                    ],
+                    [
+                        -77.109428,
+                        38.806187
+                    ],
+                    [
+                        -77.108841,
+                        38.805729
+                    ],
+                    [
+                        -77.121544,
+                        38.805065
+                    ],
+                    [
+                        -77.123878,
+                        38.805527
+                    ],
+                    [
+                        -77.11879,
+                        38.815166
+                    ],
+                    [
+                        -77.114281,
+                        38.809116
+                    ]
+                ]
+            ]
+        ]
+    }
+}

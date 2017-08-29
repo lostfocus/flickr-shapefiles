@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2373346,
+    "properties": {
+        "woe_id": 2373346,
+        "place_id": "sv1WuEubApuAErPl",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Callaway, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440632,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2373346_20101215_ff7a2cd60b.tar.gz"
+        },
+        "bbox": [
+            -91.974449157715,
+            38.890213012695,
+            -91.970222473145,
+            38.901519775391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.970222,
+                        38.890213
+                    ],
+                    [
+                        -91.971169,
+                        38.890213
+                    ],
+                    [
+                        -91.971291,
+                        38.890579
+                    ],
+                    [
+                        -91.974449,
+                        38.897713
+                    ],
+                    [
+                        -91.972435,
+                        38.90152
+                    ],
+                    [
+                        -91.970222,
+                        38.890213
+                    ]
+                ]
+            ]
+        ]
+    }
+}

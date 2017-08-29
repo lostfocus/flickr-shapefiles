@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20139768,
+    "properties": {
+        "woe_id": 20139768,
+        "place_id": "8QPmJ3ObAZ3xtTqDhQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocca Ricciarda, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549884,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/20139768_20101217_4e23275716.tar.gz"
+        },
+        "bbox": [
+            11.621817588806,
+            43.645267486572,
+            11.625894546509,
+            43.649616241455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.625895,
+                        43.649303
+                    ],
+                    [
+                        11.624908,
+                        43.645267
+                    ],
+                    [
+                        11.622333,
+                        43.648994
+                    ],
+                    [
+                        11.621818,
+                        43.649616
+                    ],
+                    [
+                        11.625895,
+                        43.649303
+                    ]
+                ]
+            ]
+        ]
+    }
+}

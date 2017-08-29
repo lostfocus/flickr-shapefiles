@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20101932,
+    "properties": {
+        "woe_id": 20101932,
+        "place_id": "W1OjM5ubAZ35u3cWJA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Graltshausen, Canton of Thurgau, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234730411,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3243\/shapefiles\/20101932_20090215_e957cfc407.tar.gz"
+        },
+        "bbox": [
+            9.1677465438843,
+            47.583358764648,
+            9.1783895492554,
+            47.596786499023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.167747,
+                        47.586021
+                    ],
+                    [
+                        9.17839,
+                        47.596786
+                    ],
+                    [
+                        9.169582,
+                        47.586021
+                    ],
+                    [
+                        9.16809,
+                        47.583359
+                    ],
+                    [
+                        9.167747,
+                        47.586021
+                    ]
+                ]
+            ]
+        ]
+    }
+}

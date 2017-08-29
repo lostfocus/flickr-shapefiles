@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2356210,
+    "properties": {
+        "woe_id": 2356210,
+        "place_id": "5j27TIqbApmSJYFS",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arringdale, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247834887,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2515\/shapefiles\/2356210_20090717_ff6ef2270d.tar.gz"
+        },
+        "bbox": [
+            -77.307655334473,
+            36.715194702148,
+            -77.306091308594,
+            36.716457366943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.307655,
+                        36.716259
+                    ],
+                    [
+                        -77.306389,
+                        36.716457
+                    ],
+                    [
+                        -77.306152,
+                        36.71571
+                    ],
+                    [
+                        -77.306091,
+                        36.715195
+                    ],
+                    [
+                        -77.307655,
+                        36.716259
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23410766,
+    "properties": {
+        "woe_id": 23410766,
+        "place_id": "2hC4vrubAphIrKsSPA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Illerkirchberg, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549526,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/23410766_20101217_0355467430.tar.gz"
+        },
+        "bbox": [
+            10.005734443665,
+            48.317451477051,
+            10.026911735535,
+            48.325382232666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.005734,
+                        48.317451
+                    ],
+                    [
+                        10.011634,
+                        48.32534
+                    ],
+                    [
+                        10.026912,
+                        48.325382
+                    ],
+                    [
+                        10.026215,
+                        48.324265
+                    ],
+                    [
+                        10.017299,
+                        48.319561
+                    ],
+                    [
+                        10.005734,
+                        48.317451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

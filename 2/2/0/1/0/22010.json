@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22010,
+    "properties": {
+        "woe_id": 22010,
+        "place_id": "IxQ_bZWbA5yPAg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gunby, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239327722,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3305\/shapefiles\/22010_20090410_f9179c1444.tar.gz"
+        },
+        "bbox": [
+            0.18814000487328,
+            53.178417205811,
+            0.19071500003338,
+            53.181350708008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.190715,
+                        53.178417
+                    ],
+                    [
+                        0.189514,
+                        53.178776
+                    ],
+                    [
+                        0.18814,
+                        53.181351
+                    ],
+                    [
+                        0.190372,
+                        53.180576
+                    ],
+                    [
+                        0.190715,
+                        53.178417
+                    ]
+                ]
+            ]
+        ]
+    }
+}

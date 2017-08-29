@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 21999,
+    "properties": {
+        "woe_id": 21999,
+        "place_id": "9B2TjdibAJVuHw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gulberwick, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234653608,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3326\/shapefiles\/21999_20090214_cd7f22d67b.tar.gz"
+        },
+        "bbox": [
+            -1.2077020406723,
+            60.128105163574,
+            -1.2014789581299,
+            60.130401611328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.207702,
+                        60.128601
+                    ],
+                    [
+                        -1.202788,
+                        60.130295
+                    ],
+                    [
+                        -1.201479,
+                        60.130402
+                    ],
+                    [
+                        -1.207509,
+                        60.128105
+                    ],
+                    [
+                        -1.207702,
+                        60.128601
+                    ]
+                ]
+            ]
+        ]
+    }
+}

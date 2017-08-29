@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432585,
+    "properties": {
+        "woe_id": 2432585,
+        "place_id": "peIu6EGbBZ_8wVpV",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kings Corner, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469423,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2432585_20101216_92e02d09e2.tar.gz"
+        },
+        "bbox": [
+            -116.57191467285,
+            43.51469039917,
+            -116.53974914551,
+            43.535659790039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.55407,
+                        43.53566
+                    ],
+                    [
+                        -116.539749,
+                        43.526085
+                    ],
+                    [
+                        -116.549934,
+                        43.51469
+                    ],
+                    [
+                        -116.571915,
+                        43.523277
+                    ],
+                    [
+                        -116.564049,
+                        43.529221
+                    ],
+                    [
+                        -116.55407,
+                        43.53566
+                    ]
+                ]
+            ]
+        ]
+    }
+}

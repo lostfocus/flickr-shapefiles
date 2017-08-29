@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2405368,
+    "properties": {
+        "woe_id": 2405368,
+        "place_id": "PSQ3_L.bBZwQhcGX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest Ranch, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234606686,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3512\/shapefiles\/2405368_20090214_60cfab51e5.tar.gz"
+        },
+        "bbox": [
+            -121.67633056641,
+            39.879753112793,
+            -121.66516876221,
+            39.891414642334
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.673927,
+                        39.880169
+                    ],
+                    [
+                        -121.676331,
+                        39.883396
+                    ],
+                    [
+                        -121.665169,
+                        39.891415
+                    ],
+                    [
+                        -121.673615,
+                        39.879753
+                    ],
+                    [
+                        -121.673927,
+                        39.880169
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2400380,
+    "properties": {
+        "woe_id": 2400380,
+        "place_id": "Tsa9p1abBZz9VURR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Estrella, Colorado, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448375,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2400380_20101215_f6ee8470b2.tar.gz"
+        },
+        "bbox": [
+            -105.94785308838,
+            37.325534820557,
+            -105.93719482422,
+            37.34204864502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.937195,
+                        37.326557
+                    ],
+                    [
+                        -105.93924,
+                        37.327042
+                    ],
+                    [
+                        -105.947853,
+                        37.325535
+                    ],
+                    [
+                        -105.943138,
+                        37.332443
+                    ],
+                    [
+                        -105.937729,
+                        37.342049
+                    ],
+                    [
+                        -105.937195,
+                        37.326557
+                    ]
+                ]
+            ]
+        ]
+    }
+}

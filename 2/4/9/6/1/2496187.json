@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2496187,
+    "properties": {
+        "woe_id": 2496187,
+        "place_id": "LC3mSYibBZXbmLwR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "South Effingham, New Hampshire, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234551128,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3317\/shapefiles\/2496187_20090213_32310577b9.tar.gz"
+        },
+        "bbox": [
+            -70.982307434082,
+            43.707416534424,
+            -70.969100952148,
+            43.71208190918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.982307,
+                        43.711697
+                    ],
+                    [
+                        -70.982292,
+                        43.712082
+                    ],
+                    [
+                        -70.981987,
+                        43.711819
+                    ],
+                    [
+                        -70.969101,
+                        43.707417
+                    ],
+                    [
+                        -70.982307,
+                        43.711697
+                    ]
+                ]
+            ]
+        ]
+    }
+}

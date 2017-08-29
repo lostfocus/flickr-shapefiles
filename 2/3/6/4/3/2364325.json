@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2364325,
+    "properties": {
+        "woe_id": 2364325,
+        "place_id": "R0kdTECbApooXOc7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bing, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234773132,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3203\/shapefiles\/2364325_20090216_270bff9b38.tar.gz"
+        },
+        "bbox": [
+            -114.05400085449,
+            46.452613830566,
+            -114.05332946777,
+            46.454132080078
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.053329,
+                        46.452614
+                    ],
+                    [
+                        -114.05378,
+                        46.45306
+                    ],
+                    [
+                        -114.054001,
+                        46.454113
+                    ],
+                    [
+                        -114.053871,
+                        46.454132
+                    ],
+                    [
+                        -114.053329,
+                        46.452614
+                    ]
+                ]
+            ]
+        ]
+    }
+}

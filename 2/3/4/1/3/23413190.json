@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23413190,
+    "properties": {
+        "woe_id": 23413190,
+        "place_id": "f2xu50ibApjzBnxyuA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Insuela, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522521,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/23413190_20101216_2eb0d8ba14.tar.gz"
+        },
+        "bbox": [
+            -8.9652719497681,
+            42.569389343262,
+            -8.9626121520996,
+            42.573104858398
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.963084,
+                        42.573105
+                    ],
+                    [
+                        -8.962869,
+                        42.57209
+                    ],
+                    [
+                        -8.962612,
+                        42.570702
+                    ],
+                    [
+                        -8.965272,
+                        42.569389
+                    ],
+                    [
+                        -8.964328,
+                        42.572517
+                    ],
+                    [
+                        -8.963084,
+                        42.573105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745110,
+    "properties": {
+        "woe_id": 28745110,
+        "place_id": "UoZn_bKbCZtSwPTYGQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cove Point, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541127,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/28745110_20101216_7165394b3f.tar.gz"
+        },
+        "bbox": [
+            -69.627738952637,
+            45.468437194824,
+            -69.608688354492,
+            45.480052947998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.627739,
+                        45.469402
+                    ],
+                    [
+                        -69.626709,
+                        45.480053
+                    ],
+                    [
+                        -69.621788,
+                        45.475101
+                    ],
+                    [
+                        -69.608688,
+                        45.472843
+                    ],
+                    [
+                        -69.622589,
+                        45.468437
+                    ],
+                    [
+                        -69.627739,
+                        45.469402
+                    ]
+                ]
+            ]
+        ]
+    }
+}

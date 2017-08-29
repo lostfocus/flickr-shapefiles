@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20098200,
+    "properties": {
+        "woe_id": 20098200,
+        "place_id": "1F9_vJ.bAZx3YEJI3A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zieglau, Salzburg, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234730162,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3295\/shapefiles\/20098200_20090215_0bd7b8e105.tar.gz"
+        },
+        "bbox": [
+            13.098405838013,
+            47.744846343994,
+            13.099006652832,
+            47.745319366455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.09876,
+                        47.744846
+                    ],
+                    [
+                        13.098406,
+                        47.745068
+                    ],
+                    [
+                        13.098675,
+                        47.745319
+                    ],
+                    [
+                        13.099007,
+                        47.745087
+                    ],
+                    [
+                        13.09876,
+                        47.744846
+                    ]
+                ]
+            ]
+        ]
+    }
+}

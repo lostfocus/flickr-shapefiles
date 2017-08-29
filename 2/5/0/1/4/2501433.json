@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2501433,
+    "properties": {
+        "woe_id": 2501433,
+        "place_id": "0mmEnEabBJzWOKfB",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sullivan, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525406,
+        "alpha": 0.00015,
+        "points": 27,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2501433_20101216_c01f8481ce.tar.gz"
+        },
+        "bbox": [
+            -75.84188079834,
+            43.050010681152,
+            -75.826667785645,
+            43.07194519043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.837303,
+                        43.056435
+                    ],
+                    [
+                        -75.837151,
+                        43.056641
+                    ],
+                    [
+                        -75.826668,
+                        43.071945
+                    ],
+                    [
+                        -75.833717,
+                        43.055779
+                    ],
+                    [
+                        -75.833717,
+                        43.055595
+                    ],
+                    [
+                        -75.841881,
+                        43.050011
+                    ],
+                    [
+                        -75.837303,
+                        43.056435
+                    ]
+                ]
+            ]
+        ]
+    }
+}

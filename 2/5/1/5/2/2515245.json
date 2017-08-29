@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2515245,
+    "properties": {
+        "woe_id": 2515245,
+        "place_id": "WE3TPmubBJ3BbZlc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Waterville, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549502,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2515245_20101217_d1aa7c0941.tar.gz"
+        },
+        "bbox": [
+            -96.751441955566,
+            39.685028076172,
+            -96.747062683105,
+            39.692901611328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.747063,
+                        39.692467
+                    ],
+                    [
+                        -96.747307,
+                        39.69194
+                    ],
+                    [
+                        -96.751358,
+                        39.685028
+                    ],
+                    [
+                        -96.751442,
+                        39.690941
+                    ],
+                    [
+                        -96.749054,
+                        39.692902
+                    ],
+                    [
+                        -96.747063,
+                        39.692467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2501725,
+    "properties": {
+        "woe_id": 2501725,
+        "place_id": "M8YBMXCbBJzmqDXO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Summit, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451962,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2501725_20101215_8e04cdc0a1.tar.gz"
+        },
+        "bbox": [
+            -96.552917480469,
+            37.804290771484,
+            -96.534889221191,
+            37.814529418945
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.540642,
+                        37.814529
+                    ],
+                    [
+                        -96.534889,
+                        37.804764
+                    ],
+                    [
+                        -96.535835,
+                        37.804291
+                    ],
+                    [
+                        -96.543015,
+                        37.809643
+                    ],
+                    [
+                        -96.552917,
+                        37.810188
+                    ],
+                    [
+                        -96.545616,
+                        37.813175
+                    ],
+                    [
+                        -96.540642,
+                        37.814529
+                    ]
+                ]
+            ]
+        ]
+    }
+}

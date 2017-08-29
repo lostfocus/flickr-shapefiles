@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746647,
+    "properties": {
+        "woe_id": 28746647,
+        "place_id": "kGsViymbCZtg1Xd9Mw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lambert, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234503723,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3338\/shapefiles\/28746647_20090213_c10e35e531.tar.gz"
+        },
+        "bbox": [
+            -82.72159576416,
+            37.387062072754,
+            -82.719596862793,
+            37.387767791748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.721008,
+                        37.387768
+                    ],
+                    [
+                        -82.719597,
+                        37.387283
+                    ],
+                    [
+                        -82.719955,
+                        37.387062
+                    ],
+                    [
+                        -82.721596,
+                        37.38726
+                    ],
+                    [
+                        -82.721008,
+                        37.387768
+                    ]
+                ]
+            ]
+        ]
+    }
+}

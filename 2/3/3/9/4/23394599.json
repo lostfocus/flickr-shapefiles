@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23394599,
+    "properties": {
+        "woe_id": 23394599,
+        "place_id": "_1S5LBybAp8C9HNUrg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Nic\u00e9phore, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545929,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/23394599_20101217_f48dcba4b2.tar.gz"
+        },
+        "bbox": [
+            -72.429084777832,
+            45.829830169678,
+            -72.420761108398,
+            45.843761444092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.424812,
+                        45.843761
+                    ],
+                    [
+                        -72.420761,
+                        45.82983
+                    ],
+                    [
+                        -72.427795,
+                        45.840668
+                    ],
+                    [
+                        -72.428818,
+                        45.841743
+                    ],
+                    [
+                        -72.429085,
+                        45.843719
+                    ],
+                    [
+                        -72.424812,
+                        45.843761
+                    ]
+                ]
+            ]
+        ]
+    }
+}

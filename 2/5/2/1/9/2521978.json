@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521978,
+    "properties": {
+        "woe_id": 2521978,
+        "place_id": "iYN18BebBJ7ftvwK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Windy City, Tennessee, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292498419,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2521978_20101216_49fbab5c5d.tar.gz"
+        },
+        "bbox": [
+            -88.88200378418,
+            35.740852355957,
+            -88.874458312988,
+            35.753273010254
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.880623,
+                        35.752892
+                    ],
+                    [
+                        -88.875809,
+                        35.753273
+                    ],
+                    [
+                        -88.874458,
+                        35.749405
+                    ],
+                    [
+                        -88.875534,
+                        35.740852
+                    ],
+                    [
+                        -88.882004,
+                        35.741302
+                    ],
+                    [
+                        -88.880623,
+                        35.752892
+                    ]
+                ]
+            ]
+        ]
+    }
+}

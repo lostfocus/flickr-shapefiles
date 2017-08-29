@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2363009,
+    "properties": {
+        "woe_id": 2363009,
+        "place_id": "yNPZxl2bApoYUDfr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Berlin, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519039,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2363009_20101216_8286d1fb75.tar.gz"
+        },
+        "bbox": [
+            -94.868507385254,
+            37.95906829834,
+            -94.865325927734,
+            37.961952209473
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.868507,
+                        37.961201
+                    ],
+                    [
+                        -94.867569,
+                        37.961952
+                    ],
+                    [
+                        -94.866684,
+                        37.961082
+                    ],
+                    [
+                        -94.865326,
+                        37.959068
+                    ],
+                    [
+                        -94.867943,
+                        37.960541
+                    ],
+                    [
+                        -94.868507,
+                        37.961201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

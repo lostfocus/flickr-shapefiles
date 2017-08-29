@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401511,
+    "properties": {
+        "woe_id": 2401511,
+        "place_id": "z5T0R.qbBZxLzel3",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairknoll, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533933,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2401511_20101216_45d98806fc.tar.gz"
+        },
+        "bbox": [
+            -76.985908508301,
+            39.070667266846,
+            -76.970497131348,
+            39.078323364258
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.98455,
+                        39.074776
+                    ],
+                    [
+                        -76.985909,
+                        39.077999
+                    ],
+                    [
+                        -76.981461,
+                        39.078323
+                    ],
+                    [
+                        -76.975502,
+                        39.0765
+                    ],
+                    [
+                        -76.970497,
+                        39.070667
+                    ],
+                    [
+                        -76.98455,
+                        39.074776
+                    ]
+                ]
+            ]
+        ]
+    }
+}

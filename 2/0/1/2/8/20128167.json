@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20128167,
+    "properties": {
+        "woe_id": 20128167,
+        "place_id": "A1ZoQVKbAZ2Xmn1Vwg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Madonna, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495407,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/20128167_20101216_9d2226befc.tar.gz"
+        },
+        "bbox": [
+            11.451455116272,
+            43.415321350098,
+            11.459888458252,
+            43.422054290771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.459888,
+                        43.415989
+                    ],
+                    [
+                        11.459856,
+                        43.415508
+                    ],
+                    [
+                        11.456723,
+                        43.415459
+                    ],
+                    [
+                        11.454105,
+                        43.415321
+                    ],
+                    [
+                        11.451455,
+                        43.415585
+                    ],
+                    [
+                        11.454963,
+                        43.422054
+                    ],
+                    [
+                        11.459888,
+                        43.415989
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2432903,
+    "properties": {
+        "woe_id": 2432903,
+        "place_id": "tdQev0qbBZ_hvDmp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kinloch, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234856660,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3458\/shapefiles\/2432903_20090217_7292e39018.tar.gz"
+        },
+        "bbox": [
+            -90.333808898926,
+            38.736431121826,
+            -90.323066711426,
+            38.750427246094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.323433,
+                        38.750427
+                    ],
+                    [
+                        -90.323067,
+                        38.742569
+                    ],
+                    [
+                        -90.333809,
+                        38.736431
+                    ],
+                    [
+                        -90.325165,
+                        38.749165
+                    ],
+                    [
+                        -90.323433,
+                        38.750427
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23418203,
+    "properties": {
+        "woe_id": 23418203,
+        "place_id": "BRzAmRqbApi4tp0_Ow",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Windsor, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545823,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/23418203_20101217_8c6f160e02.tar.gz"
+        },
+        "bbox": [
+            -72.458778381348,
+            43.442481994629,
+            -72.454437255859,
+            43.443820953369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.454437,
+                        43.44368
+                    ],
+                    [
+                        -72.456795,
+                        43.442924
+                    ],
+                    [
+                        -72.458778,
+                        43.442482
+                    ],
+                    [
+                        -72.455261,
+                        43.443821
+                    ],
+                    [
+                        -72.454437,
+                        43.44368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2433381,
+    "properties": {
+        "woe_id": 2433381,
+        "place_id": "eBK1XGSbBZ_MVjHS",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Klondyke, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486103,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2433381_20101216_05e9491f30.tar.gz"
+        },
+        "bbox": [
+            -87.335342407227,
+            39.788223266602,
+            -87.331611633301,
+            39.789157867432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.335152,
+                        39.789146
+                    ],
+                    [
+                        -87.334053,
+                        39.788952
+                    ],
+                    [
+                        -87.331612,
+                        39.788223
+                    ],
+                    [
+                        -87.334679,
+                        39.788952
+                    ],
+                    [
+                        -87.335342,
+                        39.789158
+                    ],
+                    [
+                        -87.335152,
+                        39.789146
+                    ]
+                ]
+            ]
+        ]
+    }
+}

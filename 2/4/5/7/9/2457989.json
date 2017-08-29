@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2457989,
+    "properties": {
+        "woe_id": 2457989,
+        "place_id": "e29YCcCbBZkisHJX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "New Amsterdam, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444934,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2457989_20101215_988ee0c7d8.tar.gz"
+        },
+        "bbox": [
+            -86.278144836426,
+            38.10066986084,
+            -86.271171569824,
+            38.104034423828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.277229,
+                        38.10067
+                    ],
+                    [
+                        -86.278145,
+                        38.101154
+                    ],
+                    [
+                        -86.276405,
+                        38.103901
+                    ],
+                    [
+                        -86.271172,
+                        38.104034
+                    ],
+                    [
+                        -86.273277,
+                        38.101738
+                    ],
+                    [
+                        -86.277229,
+                        38.10067
+                    ]
+                ]
+            ]
+        ]
+    }
+}

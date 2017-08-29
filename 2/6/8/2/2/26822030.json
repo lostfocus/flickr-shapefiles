@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26822030,
+    "properties": {
+        "woe_id": 26822030,
+        "place_id": "j3yWkvebB5S29gQy.w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stadtteil Innenstadt, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442108,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/26822030_20101215_64676a3b61.tar.gz"
+        },
+        "bbox": [
+            10.523829460144,
+            52.264320373535,
+            10.523915290833,
+            52.264572143555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.523829,
+                        52.264336
+                    ],
+                    [
+                        10.523829,
+                        52.264351
+                    ],
+                    [
+                        10.523893,
+                        52.264572
+                    ],
+                    [
+                        10.523915,
+                        52.26432
+                    ],
+                    [
+                        10.52385,
+                        52.26432
+                    ],
+                    [
+                        10.523829,
+                        52.264336
+                    ]
+                ]
+            ]
+        ]
+    }
+}

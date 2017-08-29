@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29330400,
+    "properties": {
+        "woe_id": 29330400,
+        "place_id": "ag1cAk.bCJ9.9Ds4sw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Botticella, Corsica, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234560248,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3494\/shapefiles\/29330400_20090213_a54fcb620f.tar.gz"
+        },
+        "bbox": [
+            9.3670463562012,
+            42.974384307861,
+            9.3792343139648,
+            42.975704193115
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.379234,
+                        42.975704
+                    ],
+                    [
+                        9.379234,
+                        42.974384
+                    ],
+                    [
+                        9.367046,
+                        42.975391
+                    ],
+                    [
+                        9.378547,
+                        42.975639
+                    ],
+                    [
+                        9.379234,
+                        42.975704
+                    ]
+                ]
+            ]
+        ]
+    }
+}

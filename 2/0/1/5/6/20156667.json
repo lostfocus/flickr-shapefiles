@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20156667,
+    "properties": {
+        "woe_id": 20156667,
+        "place_id": "MDy3eFGbAZ1a4scdDQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hinterstallau, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234806490,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3219\/shapefiles\/20156667_20090216_de24266fe0.tar.gz"
+        },
+        "bbox": [
+            11.494530677795,
+            47.732772827148,
+            11.497448921204,
+            47.73482131958
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.497449,
+                        47.734589
+                    ],
+                    [
+                        11.497406,
+                        47.734505
+                    ],
+                    [
+                        11.494531,
+                        47.732773
+                    ],
+                    [
+                        11.496677,
+                        47.734821
+                    ],
+                    [
+                        11.497449,
+                        47.734589
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20101208,
+    "properties": {
+        "woe_id": 20101208,
+        "place_id": "JgDcPWWbAZ0t8l.3TQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cavaglia, Canton of Graubunden, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522466,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/20101208_20101216_b03d8fcaf8.tar.gz"
+        },
+        "bbox": [
+            10.040644645691,
+            46.36404800415,
+            10.044678688049,
+            46.368370056152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.041503,
+                        46.366833
+                    ],
+                    [
+                        10.040645,
+                        46.36784
+                    ],
+                    [
+                        10.042018,
+                        46.36837
+                    ],
+                    [
+                        10.042362,
+                        46.36784
+                    ],
+                    [
+                        10.044679,
+                        46.364048
+                    ],
+                    [
+                        10.043306,
+                        46.364254
+                    ],
+                    [
+                        10.041503,
+                        46.366833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

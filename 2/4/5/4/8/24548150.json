@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 24548150,
+    "properties": {
+        "woe_id": 24548150,
+        "place_id": "n2AGGRSbBZklLv1wOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bielsk Podlaski, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488809,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/24548150_20101216_4301e31a7d.tar.gz"
+        },
+        "bbox": [
+            23.184928894043,
+            52.761619567871,
+            23.192953109741,
+            52.767021179199
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        23.192139,
+                        52.762009
+                    ],
+                    [
+                        23.187717,
+                        52.76162
+                    ],
+                    [
+                        23.184929,
+                        52.766994
+                    ],
+                    [
+                        23.189821,
+                        52.764969
+                    ],
+                    [
+                        23.190422,
+                        52.765202
+                    ],
+                    [
+                        23.192953,
+                        52.767021
+                    ],
+                    [
+                        23.192139,
+                        52.762009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

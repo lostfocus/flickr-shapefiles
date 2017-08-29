@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402360,
+    "properties": {
+        "woe_id": 2402360,
+        "place_id": "XWZi7iqbBZwX9cJm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Farmer, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547926,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2402360_20101217_b9954ecc3a.tar.gz"
+        },
+        "bbox": [
+            -84.651718139648,
+            41.356582641602,
+            -84.650772094727,
+            41.360866546631
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.651718,
+                        41.356583
+                    ],
+                    [
+                        -84.651718,
+                        41.356678
+                    ],
+                    [
+                        -84.651543,
+                        41.360867
+                    ],
+                    [
+                        -84.650772,
+                        41.360157
+                    ],
+                    [
+                        -84.651459,
+                        41.357388
+                    ],
+                    [
+                        -84.651718,
+                        41.356583
+                    ]
+                ]
+            ]
+        ]
+    }
+}

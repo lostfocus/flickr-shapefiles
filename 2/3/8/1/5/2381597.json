@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381597,
+    "properties": {
+        "woe_id": 2381597,
+        "place_id": "woE7CmybApR0Eu_l",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clifton, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248223701,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2525\/shapefiles\/2381597_20090722_2e2cb91511.tar.gz"
+        },
+        "bbox": [
+            -81.272651672363,
+            28.707376480103,
+            -81.264282226562,
+            28.72583770752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.272652,
+                        28.707489
+                    ],
+                    [
+                        -81.272049,
+                        28.709558
+                    ],
+                    [
+                        -81.271622,
+                        28.710651
+                    ],
+                    [
+                        -81.264282,
+                        28.725838
+                    ],
+                    [
+                        -81.268272,
+                        28.707376
+                    ],
+                    [
+                        -81.272652,
+                        28.707489
+                    ]
+                ]
+            ]
+        ]
+    }
+}

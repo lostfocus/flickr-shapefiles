@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381008,
+    "properties": {
+        "woe_id": 2381008,
+        "place_id": "IPFlILqbApTSOiVm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clay Island, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248161768,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3429\/shapefiles\/2381008_20090721_e413f00ebc.tar.gz"
+        },
+        "bbox": [
+            -81.768684387207,
+            28.626474380493,
+            -81.764717102051,
+            28.628715515137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.768341,
+                        28.627068
+                    ],
+                    [
+                        -81.768684,
+                        28.627449
+                    ],
+                    [
+                        -81.768356,
+                        28.628716
+                    ],
+                    [
+                        -81.764717,
+                        28.626474
+                    ],
+                    [
+                        -81.767929,
+                        28.626926
+                    ],
+                    [
+                        -81.768341,
+                        28.627068
+                    ]
+                ]
+            ]
+        ]
+    }
+}

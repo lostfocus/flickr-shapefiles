@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2353841,
+    "properties": {
+        "woe_id": 2353841,
+        "place_id": "szdtQcabApkdST9p",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alta Vista, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534611,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2353841_20101216_970b96cc16.tar.gz"
+        },
+        "bbox": [
+            -77.11222076416,
+            39.005199432373,
+            -77.107543945312,
+            39.010646820068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.112221,
+                        39.006783
+                    ],
+                    [
+                        -77.109871,
+                        39.009781
+                    ],
+                    [
+                        -77.107544,
+                        39.010647
+                    ],
+                    [
+                        -77.108597,
+                        39.005199
+                    ],
+                    [
+                        -77.112221,
+                        39.006783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

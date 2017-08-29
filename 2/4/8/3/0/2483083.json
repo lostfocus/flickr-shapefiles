@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483083,
+    "properties": {
+        "woe_id": 2483083,
+        "place_id": "bhfV8EabBZSA60f1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rock Creek Hills, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234592402,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3301\/shapefiles\/2483083_20090214_9afdca0b1f.tar.gz"
+        },
+        "bbox": [
+            -77.069801330566,
+            39.01224899292,
+            -77.06534576416,
+            39.015113830566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.065651,
+                        39.015114
+                    ],
+                    [
+                        -77.065346,
+                        39.014393
+                    ],
+                    [
+                        -77.065369,
+                        39.013859
+                    ],
+                    [
+                        -77.069801,
+                        39.012249
+                    ],
+                    [
+                        -77.065651,
+                        39.015114
+                    ]
+                ]
+            ]
+        ]
+    }
+}

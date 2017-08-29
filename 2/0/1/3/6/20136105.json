@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20136105,
+    "properties": {
+        "woe_id": 20136105,
+        "place_id": "uNyjG9ebAZ3I7YPdyw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pianello del Lario, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495224,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/20136105_20101216_ece070ab1c.tar.gz"
+        },
+        "bbox": [
+            9.2692852020264,
+            46.100315093994,
+            9.2781257629395,
+            46.106922149658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.278126,
+                        46.102783
+                    ],
+                    [
+                        9.276795,
+                        46.100315
+                    ],
+                    [
+                        9.274177,
+                        46.102516
+                    ],
+                    [
+                        9.269285,
+                        46.106148
+                    ],
+                    [
+                        9.277267,
+                        46.106922
+                    ],
+                    [
+                        9.278126,
+                        46.102783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2510249,
+    "properties": {
+        "woe_id": 2510249,
+        "place_id": "dgWxxZGbBJ1MF5qa",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Upper Ellis Place, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448724,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2510249_20101215_d04e2720c6.tar.gz"
+        },
+        "bbox": [
+            -112.39350891113,
+            47.281047821045,
+            -112.37239837646,
+            47.289825439453
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.390991,
+                        47.28112
+                    ],
+                    [
+                        -112.391296,
+                        47.281048
+                    ],
+                    [
+                        -112.393501,
+                        47.281502
+                    ],
+                    [
+                        -112.393509,
+                        47.289825
+                    ],
+                    [
+                        -112.372398,
+                        47.288193
+                    ],
+                    [
+                        -112.390991,
+                        47.28112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

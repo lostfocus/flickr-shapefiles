@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20114087,
+    "properties": {
+        "woe_id": 20114087,
+        "place_id": "_WJb3P2bAZ3WaTxb5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cadria, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234497003,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3321\/shapefiles\/20114087_20090213_55e8d1e634.tar.gz"
+        },
+        "bbox": [
+            10.643177032471,
+            45.774826049805,
+            10.651844978333,
+            45.779773712158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.643177,
+                        45.774826
+                    ],
+                    [
+                        10.644035,
+                        45.777939
+                    ],
+                    [
+                        10.651845,
+                        45.779774
+                    ],
+                    [
+                        10.644464,
+                        45.776203
+                    ],
+                    [
+                        10.643177,
+                        45.774826
+                    ]
+                ]
+            ]
+        ]
+    }
+}

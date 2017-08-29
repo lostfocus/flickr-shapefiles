@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2504319,
+    "properties": {
+        "woe_id": 2504319,
+        "place_id": "MYcxMdKbBJw.snbI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Taylor, Nebraska, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448742,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2504319_20101215_6ed466d1a0.tar.gz"
+        },
+        "bbox": [
+            -99.381980895996,
+            41.756488800049,
+            -99.378578186035,
+            41.771759033203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.381981,
+                        41.771759
+                    ],
+                    [
+                        -99.379425,
+                        41.771599
+                    ],
+                    [
+                        -99.378578,
+                        41.768402
+                    ],
+                    [
+                        -99.378937,
+                        41.756489
+                    ],
+                    [
+                        -99.381165,
+                        41.770767
+                    ],
+                    [
+                        -99.381981,
+                        41.771759
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20103605,
+    "properties": {
+        "woe_id": 20103605,
+        "place_id": "lM0Ddl2bAZ2pK6GB8A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Piano di Peccia, Canton of Ticino, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234595887,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3329\/shapefiles\/20103605_20090214_29fc0ea383.tar.gz"
+        },
+        "bbox": [
+            8.5998907089233,
+            46.412769317627,
+            8.6084957122803,
+            46.415729522705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.608496,
+                        46.41391
+                    ],
+                    [
+                        8.602123,
+                        46.412769
+                    ],
+                    [
+                        8.599891,
+                        46.41301
+                    ],
+                    [
+                        8.604698,
+                        46.41573
+                    ],
+                    [
+                        8.608496,
+                        46.41391
+                    ]
+                ]
+            ]
+        ]
+    }
+}

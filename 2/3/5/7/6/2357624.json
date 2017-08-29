@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2357624,
+    "properties": {
+        "woe_id": 2357624,
+        "place_id": "PArrTCubApn6m1gC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Autreyville, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234484405,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3327\/shapefiles\/2357624_20090213_e8811b4f95.tar.gz"
+        },
+        "bbox": [
+            -83.763023376465,
+            31.064159393311,
+            -83.762397766113,
+            31.064638137817
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.763023,
+                        31.064404
+                    ],
+                    [
+                        -83.762772,
+                        31.064638
+                    ],
+                    [
+                        -83.762398,
+                        31.064367
+                    ],
+                    [
+                        -83.762726,
+                        31.064159
+                    ],
+                    [
+                        -83.763023,
+                        31.064404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2495680,
+    "properties": {
+        "woe_id": 2495680,
+        "place_id": "PFxq1iybBZWmpksL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Somerset, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454563,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2495680_20101215_f329f9f9f4.tar.gz"
+        },
+        "bbox": [
+            -77.037506103516,
+            39.517482757568,
+            -77.023170471191,
+            39.537742614746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.026001,
+                        39.537743
+                    ],
+                    [
+                        -77.02317,
+                        39.527
+                    ],
+                    [
+                        -77.023499,
+                        39.527
+                    ],
+                    [
+                        -77.037163,
+                        39.517483
+                    ],
+                    [
+                        -77.037506,
+                        39.523109
+                    ],
+                    [
+                        -77.026001,
+                        39.537743
+                    ]
+                ]
+            ]
+        ]
+    }
+}

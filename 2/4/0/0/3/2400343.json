@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400343,
+    "properties": {
+        "woe_id": 2400343,
+        "place_id": "ftWLh.ybBZxtje3K",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Estes, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239517931,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3369\/shapefiles\/2400343_20090412_58f6718ba1.tar.gz"
+        },
+        "bbox": [
+            -97.101715087891,
+            27.949926376343,
+            -97.095779418945,
+            27.970411300659
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.095779,
+                        27.949926
+                    ],
+                    [
+                        -97.101387,
+                        27.950533
+                    ],
+                    [
+                        -97.101715,
+                        27.970411
+                    ],
+                    [
+                        -97.096481,
+                        27.964081
+                    ],
+                    [
+                        -97.095779,
+                        27.949926
+                    ]
+                ]
+            ]
+        ]
+    }
+}

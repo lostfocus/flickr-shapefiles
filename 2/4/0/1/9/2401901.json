@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2401901,
+    "properties": {
+        "woe_id": 2401901,
+        "place_id": "TJOXQiabBZxq2755",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairview Beach, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522066,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2401901_20101216_aa486e1390.tar.gz"
+        },
+        "bbox": [
+            -77.249946594238,
+            38.328838348389,
+            -77.236213684082,
+            38.340354919434
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.246071,
+                        38.330547
+                    ],
+                    [
+                        -77.249947,
+                        38.333405
+                    ],
+                    [
+                        -77.243988,
+                        38.340355
+                    ],
+                    [
+                        -77.236214,
+                        38.328838
+                    ],
+                    [
+                        -77.246071,
+                        38.330547
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2485005,
+    "properties": {
+        "woe_id": 2485005,
+        "place_id": "kljKOBybBZS9KC_Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rossie, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469723,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/2485005_20101216_0b80d622a5.tar.gz"
+        },
+        "bbox": [
+            -75.659599304199,
+            44.378730773926,
+            -75.651901245117,
+            44.396076202393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.656487,
+                        44.378731
+                    ],
+                    [
+                        -75.659599,
+                        44.380589
+                    ],
+                    [
+                        -75.655045,
+                        44.396076
+                    ],
+                    [
+                        -75.651901,
+                        44.381622
+                    ],
+                    [
+                        -75.652168,
+                        44.380646
+                    ],
+                    [
+                        -75.656487,
+                        44.378731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

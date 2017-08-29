@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519006,
+    "properties": {
+        "woe_id": 2519006,
+        "place_id": "3pI7DeqbBJ2eD9UX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Whetstone, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537491,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2519006_20101216_80ce204b13.tar.gz"
+        },
+        "bbox": [
+            -77.198051452637,
+            39.165660858154,
+            -77.192428588867,
+            39.171184539795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.196953,
+                        39.165661
+                    ],
+                    [
+                        -77.19696,
+                        39.165688
+                    ],
+                    [
+                        -77.198051,
+                        39.171185
+                    ],
+                    [
+                        -77.192429,
+                        39.168583
+                    ],
+                    [
+                        -77.192856,
+                        39.167301
+                    ],
+                    [
+                        -77.196953,
+                        39.165661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

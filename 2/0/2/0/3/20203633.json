@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20203633,
+    "properties": {
+        "woe_id": 20203633,
+        "place_id": "GBDtMmCbAZ4d8YwyaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Yole, Languedoc-Roussillon, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530209,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/20203633_20101216_64928516be.tar.gz"
+        },
+        "bbox": [
+            3.2550430297852,
+            43.229194641113,
+            3.2619090080261,
+            43.239074707031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.258304,
+                        43.238136
+                    ],
+                    [
+                        3.260707,
+                        43.237389
+                    ],
+                    [
+                        3.261909,
+                        43.229195
+                    ],
+                    [
+                        3.257222,
+                        43.236389
+                    ],
+                    [
+                        3.255043,
+                        43.239075
+                    ],
+                    [
+                        3.258304,
+                        43.238136
+                    ]
+                ]
+            ]
+        ]
+    }
+}

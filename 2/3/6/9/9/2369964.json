@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2369964,
+    "properties": {
+        "woe_id": 2369964,
+        "place_id": "1GK1rWabApoKUkAW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brooklyn, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528227,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2369964_20101216_9563faabb7.tar.gz"
+        },
+        "bbox": [
+            -123.56481933594,
+            46.777294158936,
+            -123.542137146,
+            46.785751342773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.552933,
+                        46.777294
+                    ],
+                    [
+                        -123.564819,
+                        46.783958
+                    ],
+                    [
+                        -123.544884,
+                        46.785404
+                    ],
+                    [
+                        -123.542137,
+                        46.785751
+                    ],
+                    [
+                        -123.552933,
+                        46.777294
+                    ]
+                ]
+            ]
+        ]
+    }
+}

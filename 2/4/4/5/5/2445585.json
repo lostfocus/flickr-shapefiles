@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2445585,
+    "properties": {
+        "woe_id": 2445585,
+        "place_id": "piEm6vSbBZgWp3Fj",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marenisco, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234840928,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3531\/shapefiles\/2445585_20090217_f6b29995cb.tar.gz"
+        },
+        "bbox": [
+            -89.704444885254,
+            46.376720428467,
+            -89.69409942627,
+            46.380748748779
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.699852,
+                        46.378201
+                    ],
+                    [
+                        -89.704445,
+                        46.37672
+                    ],
+                    [
+                        -89.697449,
+                        46.380333
+                    ],
+                    [
+                        -89.694099,
+                        46.380749
+                    ],
+                    [
+                        -89.699852,
+                        46.378201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

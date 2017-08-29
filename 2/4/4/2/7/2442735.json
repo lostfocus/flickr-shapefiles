@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2442735,
+    "properties": {
+        "woe_id": 2442735,
+        "place_id": "_L9znlubBZhXxbzm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lowry, South Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234487766,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3369\/shapefiles\/2442735_20090213_316271d01c.tar.gz"
+        },
+        "bbox": [
+            -100.00579833984,
+            45.316093444824,
+            -99.983673095703,
+            45.326820373535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.005798,
+                        45.326302
+                    ],
+                    [
+                        -100.002731,
+                        45.32682
+                    ],
+                    [
+                        -99.983673,
+                        45.316093
+                    ],
+                    [
+                        -100.002968,
+                        45.326637
+                    ],
+                    [
+                        -100.005798,
+                        45.326302
+                    ]
+                ]
+            ]
+        ]
+    }
+}

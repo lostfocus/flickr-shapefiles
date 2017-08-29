@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2412319,
+    "properties": {
+        "woe_id": 2412319,
+        "place_id": "SLCIJyKbBZ1OFnUM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gore, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543099,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2412319_20101216_20306caea0.tar.gz"
+        },
+        "bbox": [
+            -78.334403991699,
+            39.263217926025,
+            -78.324012756348,
+            39.271667480469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.332863,
+                        39.264359
+                    ],
+                    [
+                        -78.333374,
+                        39.265221
+                    ],
+                    [
+                        -78.333374,
+                        39.266884
+                    ],
+                    [
+                        -78.334404,
+                        39.271667
+                    ],
+                    [
+                        -78.324013,
+                        39.267879
+                    ],
+                    [
+                        -78.329887,
+                        39.263218
+                    ],
+                    [
+                        -78.332863,
+                        39.264359
+                    ]
+                ]
+            ]
+        ]
+    }
+}

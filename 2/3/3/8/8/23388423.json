@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23388423,
+    "properties": {
+        "woe_id": 23388423,
+        "place_id": "VK26.TCbAp8S5ROK1w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rouvray, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234531931,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3308\/shapefiles\/23388423_20090213_75968271c7.tar.gz"
+        },
+        "bbox": [
+            4.1015000343323,
+            47.424331665039,
+            4.102499961853,
+            47.425666809082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.1015,
+                        47.425667
+                    ],
+                    [
+                        4.102333,
+                        47.424667
+                    ],
+                    [
+                        4.1025,
+                        47.424332
+                    ],
+                    [
+                        4.1015,
+                        47.425499
+                    ],
+                    [
+                        4.1015,
+                        47.425667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

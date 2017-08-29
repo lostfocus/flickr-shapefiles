@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2501079,
+    "properties": {
+        "woe_id": 2501079,
+        "place_id": "8ZHXHsWbBJwCcTi4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Studley, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524601,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2501079_20101216_b8bd869d2b.tar.gz"
+        },
+        "bbox": [
+            -100.17677307129,
+            39.353336334229,
+            -100.16474914551,
+            39.358459472656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.173141,
+                        39.355049
+                    ],
+                    [
+                        -100.176773,
+                        39.358459
+                    ],
+                    [
+                        -100.169731,
+                        39.355305
+                    ],
+                    [
+                        -100.164749,
+                        39.353336
+                    ],
+                    [
+                        -100.172783,
+                        39.354767
+                    ],
+                    [
+                        -100.173141,
+                        39.355049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23700808,
+    "properties": {
+        "woe_id": 23700808,
+        "place_id": "zjZ7RxObApvazVSZrw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ballyfin, Laois, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455115,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/23700808_20101215_391cfcde57.tar.gz"
+        },
+        "bbox": [
+            -7.4379801750183,
+            53.093894958496,
+            -7.4352121353149,
+            53.094333648682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.435212,
+                        53.094063
+                    ],
+                    [
+                        -7.435576,
+                        53.093979
+                    ],
+                    [
+                        -7.435984,
+                        53.093895
+                    ],
+                    [
+                        -7.437636,
+                        53.093903
+                    ],
+                    [
+                        -7.43798,
+                        53.094334
+                    ],
+                    [
+                        -7.435212,
+                        53.094063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

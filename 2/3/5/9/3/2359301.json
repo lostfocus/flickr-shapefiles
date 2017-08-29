@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2359301,
+    "properties": {
+        "woe_id": 2359301,
+        "place_id": "XIxciXKbApnaSIx5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Barlow, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589885,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3302\/shapefiles\/2359301_20090214_7e4918d1ac.tar.gz"
+        },
+        "bbox": [
+            -122.86589813232,
+            38.410354614258,
+            -122.84825897217,
+            38.424781799316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.848259,
+                        38.423401
+                    ],
+                    [
+                        -122.854897,
+                        38.418797
+                    ],
+                    [
+                        -122.865898,
+                        38.410355
+                    ],
+                    [
+                        -122.858559,
+                        38.424782
+                    ],
+                    [
+                        -122.848259,
+                        38.423401
+                    ]
+                ]
+            ]
+        ]
+    }
+}

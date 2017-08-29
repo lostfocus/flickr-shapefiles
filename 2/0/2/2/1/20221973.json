@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20221973,
+    "properties": {
+        "woe_id": 20221973,
+        "place_id": "8IKWbLKbAZ70yWcJvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Conxo, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537541,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20221973_20101216_909d3fb4ec.tar.gz"
+        },
+        "bbox": [
+            -8.5591602325439,
+            42.86238861084,
+            -8.5522117614746,
+            42.869129180908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.556144,
+                        42.862389
+                    ],
+                    [
+                        -8.55689,
+                        42.862549
+                    ],
+                    [
+                        -8.55916,
+                        42.869129
+                    ],
+                    [
+                        -8.554449,
+                        42.864372
+                    ],
+                    [
+                        -8.552963,
+                        42.863533
+                    ],
+                    [
+                        -8.552212,
+                        42.863132
+                    ],
+                    [
+                        -8.556144,
+                        42.862389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

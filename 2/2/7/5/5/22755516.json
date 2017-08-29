@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22755516,
+    "properties": {
+        "woe_id": 22755516,
+        "place_id": "fEQ7xEGbA5uhc8QUpA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Martin-de-Castillon, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522515,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/22755516_20101216_1423fa0bf9.tar.gz"
+        },
+        "bbox": [
+            5.5098152160645,
+            43.859451293945,
+            5.5117030143738,
+            43.862003326416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.510705,
+                        43.859451
+                    ],
+                    [
+                        5.510024,
+                        43.859756
+                    ],
+                    [
+                        5.509815,
+                        43.859905
+                    ],
+                    [
+                        5.511611,
+                        43.862003
+                    ],
+                    [
+                        5.511703,
+                        43.860989
+                    ],
+                    [
+                        5.510705,
+                        43.859451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

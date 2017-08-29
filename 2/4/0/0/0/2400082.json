@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400082,
+    "properties": {
+        "woe_id": 2400082,
+        "place_id": "y71r9aebBZzkhheC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Erieville, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529105,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2400082_20101216_3d01257600.tar.gz"
+        },
+        "bbox": [
+            -75.761138916016,
+            42.861164093018,
+            -75.751823425293,
+            42.871025085449
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.761139,
+                        42.868935
+                    ],
+                    [
+                        -75.751823,
+                        42.871025
+                    ],
+                    [
+                        -75.758003,
+                        42.861164
+                    ],
+                    [
+                        -75.760269,
+                        42.866264
+                    ],
+                    [
+                        -75.761139,
+                        42.868935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

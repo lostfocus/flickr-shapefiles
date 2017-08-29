@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2434832,
+    "properties": {
+        "woe_id": 2434832,
+        "place_id": "czjoMgWbBZ94VnBY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lake Dalecarlia, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234911382,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3537\/shapefiles\/2434832_20090217_8e81e8d0b6.tar.gz"
+        },
+        "bbox": [
+            -87.41520690918,
+            41.332313537598,
+            -87.407485961914,
+            41.339378356934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.407486,
+                        41.338314
+                    ],
+                    [
+                        -87.415207,
+                        41.332314
+                    ],
+                    [
+                        -87.410828,
+                        41.339378
+                    ],
+                    [
+                        -87.410324,
+                        41.339378
+                    ],
+                    [
+                        -87.407486,
+                        41.338314
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2105099,
+    "properties": {
+        "woe_id": 2105099,
+        "place_id": "5tM5b4ubAJw2dC7F",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Verkhniy Uslon, Tatarstan, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537335,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2105099_20101216_b0f66fae00.tar.gz"
+        },
+        "bbox": [
+            48.95336151123,
+            55.763439178467,
+            48.994216918945,
+            55.772903442383
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        48.953362,
+                        55.763439
+                    ],
+                    [
+                        48.953362,
+                        55.768848
+                    ],
+                    [
+                        48.956108,
+                        55.768269
+                    ],
+                    [
+                        48.971901,
+                        55.772903
+                    ],
+                    [
+                        48.994217,
+                        55.770878
+                    ],
+                    [
+                        48.970871,
+                        55.768078
+                    ],
+                    [
+                        48.953362,
+                        55.763439
+                    ]
+                ]
+            ]
+        ]
+    }
+}

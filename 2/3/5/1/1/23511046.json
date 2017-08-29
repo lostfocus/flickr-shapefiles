@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23511046,
+    "properties": {
+        "woe_id": 23511046,
+        "place_id": "iV6Y.6ubAplFiJsugg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest Lake, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549545,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/23511046_20101217_055da17f5f.tar.gz"
+        },
+        "bbox": [
+            -86.851104736328,
+            46.331874847412,
+            -86.817398071289,
+            46.343231201172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.851105,
+                        46.339493
+                    ],
+                    [
+                        -86.831474,
+                        46.343231
+                    ],
+                    [
+                        -86.817398,
+                        46.331875
+                    ],
+                    [
+                        -86.832504,
+                        46.335312
+                    ],
+                    [
+                        -86.850746,
+                        46.335255
+                    ],
+                    [
+                        -86.851089,
+                        46.336208
+                    ],
+                    [
+                        -86.851105,
+                        46.339493
+                    ]
+                ]
+            ]
+        ]
+    }
+}

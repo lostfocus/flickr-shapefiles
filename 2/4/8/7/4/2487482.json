@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2487482,
+    "properties": {
+        "woe_id": 2487482,
+        "place_id": "1SeD1uubBZQX89Ud",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Salisbury, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517511,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2487482_20101216_6a5ea00845.tar.gz"
+        },
+        "bbox": [
+            -89.799758911133,
+            39.889511108398,
+            -89.798095703125,
+            39.890312194824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.799736,
+                        39.889881
+                    ],
+                    [
+                        -89.799759,
+                        39.890312
+                    ],
+                    [
+                        -89.798805,
+                        39.890087
+                    ],
+                    [
+                        -89.798096,
+                        39.889511
+                    ],
+                    [
+                        -89.799736,
+                        39.889881
+                    ]
+                ]
+            ]
+        ]
+    }
+}

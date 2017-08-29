@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2380801,
+    "properties": {
+        "woe_id": 2380801,
+        "place_id": "7AquavmbApT0MYZ8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clarks Mills, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440565,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2380801_20101215_1a0cf7ceb0.tar.gz"
+        },
+        "bbox": [
+            -73.576385498047,
+            43.110851287842,
+            -73.563812255859,
+            43.117523193359
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.573677,
+                        43.117462
+                    ],
+                    [
+                        -73.563812,
+                        43.117523
+                    ],
+                    [
+                        -73.569519,
+                        43.114079
+                    ],
+                    [
+                        -73.576385,
+                        43.110851
+                    ],
+                    [
+                        -73.574837,
+                        43.117085
+                    ],
+                    [
+                        -73.573677,
+                        43.117462
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2456446,
+    "properties": {
+        "woe_id": 2456446,
+        "place_id": "7RIKw0ebBZn8LD2U",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Murphy, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517534,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2456446_20101216_5b180e1c31.tar.gz"
+        },
+        "bbox": [
+            -123.33782196045,
+            42.328384399414,
+            -123.31852722168,
+            42.342811584473
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.334923,
+                        42.341312
+                    ],
+                    [
+                        -123.333893,
+                        42.342812
+                    ],
+                    [
+                        -123.318527,
+                        42.338657
+                    ],
+                    [
+                        -123.337822,
+                        42.328384
+                    ],
+                    [
+                        -123.334923,
+                        42.341312
+                    ]
+                ]
+            ]
+        ]
+    }
+}

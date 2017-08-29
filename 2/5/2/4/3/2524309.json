@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2524309,
+    "properties": {
+        "woe_id": 2524309,
+        "place_id": "VdzXeEebBJ4XOgXX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wymer, West Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234551847,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3388\/shapefiles\/2524309_20090213_15bd65e32d.tar.gz"
+        },
+        "bbox": [
+            -79.622772216797,
+            38.879539489746,
+            -79.616546630859,
+            38.893070220947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.617058,
+                        38.89307
+                    ],
+                    [
+                        -79.616547,
+                        38.892033
+                    ],
+                    [
+                        -79.622772,
+                        38.879539
+                    ],
+                    [
+                        -79.618263,
+                        38.893036
+                    ],
+                    [
+                        -79.617058,
+                        38.89307
+                    ]
+                ]
+            ]
+        ]
+    }
+}

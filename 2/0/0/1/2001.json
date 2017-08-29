@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2001,
+    "properties": {
+        "woe_id": 2001,
+        "place_id": "mH6TcXubAZyp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lynn Lake, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542831,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2001_20101216_da498f16fd.tar.gz"
+        },
+        "bbox": [
+            -101.05198669434,
+            56.845851898193,
+            -101.04714202881,
+            56.851058959961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.047142,
+                        56.851059
+                    ],
+                    [
+                        -101.048813,
+                        56.848221
+                    ],
+                    [
+                        -101.051987,
+                        56.845852
+                    ],
+                    [
+                        -101.050186,
+                        56.851036
+                    ],
+                    [
+                        -101.047142,
+                        56.851059
+                    ]
+                ]
+            ]
+        ]
+    }
+}

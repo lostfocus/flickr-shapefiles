@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2434168,
+    "properties": {
+        "woe_id": 2434168,
+        "place_id": "0_UQvQabBZ_sBLqY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Crosse, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533454,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2434168_20101216_6571c88f64.tar.gz"
+        },
+        "bbox": [
+            -99.311767578125,
+            38.524295806885,
+            -99.297676086426,
+            38.540000915527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.311768,
+                        38.531349
+                    ],
+                    [
+                        -99.310333,
+                        38.540001
+                    ],
+                    [
+                        -99.297676,
+                        38.535511
+                    ],
+                    [
+                        -99.301773,
+                        38.524296
+                    ],
+                    [
+                        -99.311363,
+                        38.524761
+                    ],
+                    [
+                        -99.311768,
+                        38.531349
+                    ]
+                ]
+            ]
+        ]
+    }
+}

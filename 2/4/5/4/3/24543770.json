@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24543770,
+    "properties": {
+        "woe_id": 24543770,
+        "place_id": "KL6yq9mbBZm_vHm_Rw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Galatsi, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449716,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/24543770_20101215_99465ba417.tar.gz"
+        },
+        "bbox": [
+            23.749008178711,
+            38.010635375977,
+            23.752613067627,
+            38.016452789307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        23.751955,
+                        38.016159
+                    ],
+                    [
+                        23.752613,
+                        38.010635
+                    ],
+                    [
+                        23.749008,
+                        38.01564
+                    ],
+                    [
+                        23.752098,
+                        38.016453
+                    ],
+                    [
+                        23.751955,
+                        38.016159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

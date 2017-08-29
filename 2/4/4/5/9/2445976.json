@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2445976,
+    "properties": {
+        "woe_id": 2445976,
+        "place_id": "uJUOD5ybBZg7dkMN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marmac, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460185,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2445976_20101216_b02f64952d.tar.gz"
+        },
+        "bbox": [
+            -123.17772674561,
+            47.1003074646,
+            -123.15772247314,
+            47.104789733887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.165016,
+                        47.100788
+                    ],
+                    [
+                        -123.167542,
+                        47.100307
+                    ],
+                    [
+                        -123.177727,
+                        47.104015
+                    ],
+                    [
+                        -123.169655,
+                        47.10479
+                    ],
+                    [
+                        -123.157722,
+                        47.104061
+                    ],
+                    [
+                        -123.165016,
+                        47.100788
+                    ]
+                ]
+            ]
+        ]
+    }
+}

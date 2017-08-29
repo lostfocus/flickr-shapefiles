@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2508018,
+    "properties": {
+        "woe_id": 2508018,
+        "place_id": "szwXs_GbBJzjfDK4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Trinity, Mississippi, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234792441,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3412\/shapefiles\/2508018_20090216_6c45c44c63.tar.gz"
+        },
+        "bbox": [
+            -90.189338684082,
+            34.818313598633,
+            -90.187355041504,
+            34.826484680176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.187355,
+                        34.826485
+                    ],
+                    [
+                        -90.187393,
+                        34.825436
+                    ],
+                    [
+                        -90.189339,
+                        34.818314
+                    ],
+                    [
+                        -90.187508,
+                        34.825729
+                    ],
+                    [
+                        -90.187355,
+                        34.826485
+                    ]
+                ]
+            ]
+        ]
+    }
+}

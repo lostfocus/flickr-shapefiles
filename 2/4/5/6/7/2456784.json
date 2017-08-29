@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2456784,
+    "properties": {
+        "woe_id": 2456784,
+        "place_id": "KPYn4dubBZlE2__4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mystic, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226480047,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3177\/shapefiles\/2456784_20081112_40a25fe2c2.tar.gz"
+        },
+        "bbox": [
+            -92.946624755859,
+            40.776496887207,
+            -92.944511413574,
+            40.777858734131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.946625,
+                        40.777519
+                    ],
+                    [
+                        -92.944519,
+                        40.777859
+                    ],
+                    [
+                        -92.944511,
+                        40.777554
+                    ],
+                    [
+                        -92.945709,
+                        40.776497
+                    ],
+                    [
+                        -92.946625,
+                        40.777519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

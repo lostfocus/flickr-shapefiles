@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20121022,
+    "properties": {
+        "woe_id": 20121022,
+        "place_id": "25DdQ7abAZ13FItupQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Collalbrigo, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537476,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/20121022_20101216_e770b1a9cf.tar.gz"
+        },
+        "bbox": [
+            12.26301574707,
+            45.884990692139,
+            12.269066810608,
+            45.896923065186
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.265033,
+                        45.886318
+                    ],
+                    [
+                        12.264862,
+                        45.890007
+                    ],
+                    [
+                        12.263016,
+                        45.896923
+                    ],
+                    [
+                        12.269067,
+                        45.888035
+                    ],
+                    [
+                        12.266578,
+                        45.885944
+                    ],
+                    [
+                        12.265548,
+                        45.884991
+                    ],
+                    [
+                        12.265033,
+                        45.886318
+                    ]
+                ]
+            ]
+        ]
+    }
+}

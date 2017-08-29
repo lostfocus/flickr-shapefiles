@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2352895,
+    "properties": {
+        "woe_id": 2352895,
+        "place_id": "wo5BIv.bApnDJV6_",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alder, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537115,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2352895_20101216_c2a1bc5180.tar.gz"
+        },
+        "bbox": [
+            -112.11762237549,
+            45.309013366699,
+            -112.0950088501,
+            45.328903198242
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.107552,
+                        45.325619
+                    ],
+                    [
+                        -112.095009,
+                        45.319672
+                    ],
+                    [
+                        -112.109215,
+                        45.309013
+                    ],
+                    [
+                        -112.116844,
+                        45.316113
+                    ],
+                    [
+                        -112.117622,
+                        45.328903
+                    ],
+                    [
+                        -112.107552,
+                        45.325619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

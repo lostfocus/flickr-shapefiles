@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29388133,
+    "properties": {
+        "woe_id": 29388133,
+        "place_id": "ehoqMbKbCJ8UviQGrg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mid-America Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521333,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/29388133_20101216_3897ca2f83.tar.gz"
+        },
+        "bbox": [
+            -89.822761535645,
+            38.546421051025,
+            -89.819023132324,
+            38.550994873047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.819023,
+                        38.550995
+                    ],
+                    [
+                        -89.819458,
+                        38.546974
+                    ],
+                    [
+                        -89.822762,
+                        38.546421
+                    ],
+                    [
+                        -89.820267,
+                        38.54726
+                    ],
+                    [
+                        -89.819023,
+                        38.550995
+                    ]
+                ]
+            ]
+        ]
+    }
+}

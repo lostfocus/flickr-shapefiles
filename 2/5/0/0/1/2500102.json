@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2500102,
+    "properties": {
+        "woe_id": 2500102,
+        "place_id": "9ScGRsabBJwhnQ9M",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockton, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460602,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2500102_20101216_ea958b5b97.tar.gz"
+        },
+        "bbox": [
+            -89.494041442871,
+            44.511283874512,
+            -89.467330932617,
+            44.522518157959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.47673,
+                        44.511517
+                    ],
+                    [
+                        -89.47747,
+                        44.511284
+                    ],
+                    [
+                        -89.494041,
+                        44.521793
+                    ],
+                    [
+                        -89.477097,
+                        44.511875
+                    ],
+                    [
+                        -89.467331,
+                        44.522518
+                    ],
+                    [
+                        -89.476517,
+                        44.511684
+                    ],
+                    [
+                        -89.47673,
+                        44.511517
+                    ]
+                ]
+            ]
+        ]
+    }
+}

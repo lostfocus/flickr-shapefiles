@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28340339,
+    "properties": {
+        "woe_id": 28340339,
+        "place_id": "PD4NsWKbCZ_DmOVnQQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kimball, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449502,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/28340339_20101215_ca3112419c.tar.gz"
+        },
+        "bbox": [
+            -97.494888305664,
+            32.103008270264,
+            -97.480484008789,
+            32.124069213867
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.480576,
+                        32.106407
+                    ],
+                    [
+                        -97.480484,
+                        32.10619
+                    ],
+                    [
+                        -97.481514,
+                        32.106026
+                    ],
+                    [
+                        -97.488983,
+                        32.103008
+                    ],
+                    [
+                        -97.494888,
+                        32.124069
+                    ],
+                    [
+                        -97.480576,
+                        32.106407
+                    ]
+                ]
+            ]
+        ]
+    }
+}

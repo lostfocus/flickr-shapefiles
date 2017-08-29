@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2379376,
+    "properties": {
+        "woe_id": 2379376,
+        "place_id": "aDx1z4mbApsbpyhF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chestnut Farms, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226472488,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3014\/shapefiles\/2379376_20081112_4a9c08ee62.tar.gz"
+        },
+        "bbox": [
+            -76.806076049805,
+            39.298622131348,
+            -76.79069519043,
+            39.304176330566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.806076,
+                        39.304176
+                    ],
+                    [
+                        -76.794731,
+                        39.303352
+                    ],
+                    [
+                        -76.790695,
+                        39.301991
+                    ],
+                    [
+                        -76.801407,
+                        39.298622
+                    ],
+                    [
+                        -76.806076,
+                        39.304176
+                    ]
+                ]
+            ]
+        ]
+    }
+}

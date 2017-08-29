@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417265,
+    "properties": {
+        "woe_id": 23417265,
+        "place_id": "nIYTmvGbApiJH22CgA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "North Canaan, Connecticut, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455115,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/23417265_20101215_3227502f1f.tar.gz"
+        },
+        "bbox": [
+            -73.331771850586,
+            42.026828765869,
+            -73.329071044922,
+            42.028255462646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.329323,
+                        42.026829
+                    ],
+                    [
+                        -73.329666,
+                        42.026871
+                    ],
+                    [
+                        -73.331772,
+                        42.027401
+                    ],
+                    [
+                        -73.329277,
+                        42.028255
+                    ],
+                    [
+                        -73.329071,
+                        42.027061
+                    ],
+                    [
+                        -73.329323,
+                        42.026829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

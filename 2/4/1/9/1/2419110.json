@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2419110,
+    "properties": {
+        "woe_id": 2419110,
+        "place_id": "qi584pObBZ3xqcYU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hayneville, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544788,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2419110_20101217_b61d2c20a8.tar.gz"
+        },
+        "bbox": [
+            -86.580673217773,
+            32.183479309082,
+            -86.578468322754,
+            32.184547424316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.580223,
+                        32.184547
+                    ],
+                    [
+                        -86.578468,
+                        32.184299
+                    ],
+                    [
+                        -86.578957,
+                        32.183815
+                    ],
+                    [
+                        -86.580673,
+                        32.183479
+                    ],
+                    [
+                        -86.580566,
+                        32.18454
+                    ],
+                    [
+                        -86.580223,
+                        32.184547
+                    ]
+                ]
+            ]
+        ]
+    }
+}

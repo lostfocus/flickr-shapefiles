@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20092342,
+    "properties": {
+        "woe_id": 20092342,
+        "place_id": "4FEzQXCbAZxWJK2NQg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dolgran, Wales, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292384284,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20092342_20101215_607111f47a.tar.gz"
+        },
+        "bbox": [
+            -4.338397026062,
+            51.945850372314,
+            -4.3367238044739,
+            51.946193695068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.338397,
+                        51.94585
+                    ],
+                    [
+                        -4.338397,
+                        51.946011
+                    ],
+                    [
+                        -4.337797,
+                        51.946064
+                    ],
+                    [
+                        -4.336853,
+                        51.946194
+                    ],
+                    [
+                        -4.336724,
+                        51.946144
+                    ],
+                    [
+                        -4.338397,
+                        51.94585
+                    ]
+                ]
+            ]
+        ]
+    }
+}

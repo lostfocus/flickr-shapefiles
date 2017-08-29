@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20105170,
+    "properties": {
+        "woe_id": 20105170,
+        "place_id": "y4eQ73ebAZ24h7lReQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Engr\u00e1cia, Lisbon, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548927,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/20105170_20101217_14a0903143.tar.gz"
+        },
+        "bbox": [
+            -9.1303253173828,
+            38.705875396729,
+            -9.0994262695312,
+            38.722751617432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.119338,
+                        38.722752
+                    ],
+                    [
+                        -9.106979,
+                        38.720608
+                    ],
+                    [
+                        -9.099426,
+                        38.705875
+                    ],
+                    [
+                        -9.11642,
+                        38.719936
+                    ],
+                    [
+                        -9.130325,
+                        38.714714
+                    ],
+                    [
+                        -9.119338,
+                        38.722752
+                    ]
+                ]
+            ]
+        ]
+    }
+}

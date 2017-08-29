@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745099,
+    "properties": {
+        "woe_id": 28745099,
+        "place_id": "_XgYr3ybCZsdRsGeww",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Forks, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248040090,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2624\/shapefiles\/28745099_20090719_e4cc5c1dcb.tar.gz"
+        },
+        "bbox": [
+            -70.341636657715,
+            45.138553619385,
+            -70.325843811035,
+            45.144195556641
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.341637,
+                        45.142002
+                    ],
+                    [
+                        -70.331596,
+                        45.144196
+                    ],
+                    [
+                        -70.330696,
+                        45.143787
+                    ],
+                    [
+                        -70.325844,
+                        45.138554
+                    ],
+                    [
+                        -70.341637,
+                        45.142002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

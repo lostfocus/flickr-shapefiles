@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20151490,
+    "properties": {
+        "woe_id": 20151490,
+        "place_id": "BJEFF_SbAZ2U5H.7nQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Peppar\u00e4ngen Br\u00e5tviken Lind\u00f6djupet M\u00e5l\u00e4, Kalmar, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234844411,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3329\/shapefiles\/20151490_20090217_6ef11297ff.tar.gz"
+        },
+        "bbox": [
+            16.666410446167,
+            57.714660644531,
+            16.679048538208,
+            57.735282897949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.679049,
+                        57.734722
+                    ],
+                    [
+                        16.66641,
+                        57.714661
+                    ],
+                    [
+                        16.667461,
+                        57.733578
+                    ],
+                    [
+                        16.678963,
+                        57.735283
+                    ],
+                    [
+                        16.679049,
+                        57.734722
+                    ]
+                ]
+            ]
+        ]
+    }
+}

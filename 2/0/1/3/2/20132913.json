@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20132913,
+    "properties": {
+        "woe_id": 20132913,
+        "place_id": "97Nd.qGbAZ3rQwcZ3A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Montes, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521411,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20132913_20101216_9868918024.tar.gz"
+        },
+        "bbox": [
+            10.867953300476,
+            46.339225769043,
+            10.875260353088,
+            46.340118408203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.868122,
+                        46.339844
+                    ],
+                    [
+                        10.867953,
+                        46.340118
+                    ],
+                    [
+                        10.87526,
+                        46.33989
+                    ],
+                    [
+                        10.874576,
+                        46.339226
+                    ],
+                    [
+                        10.868926,
+                        46.339485
+                    ],
+                    [
+                        10.868122,
+                        46.339844
+                    ]
+                ]
+            ]
+        ]
+    }
+}

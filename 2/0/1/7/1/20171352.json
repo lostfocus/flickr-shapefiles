@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20171352,
+    "properties": {
+        "woe_id": 20171352,
+        "place_id": "1tYQYOmbAZ1C0kMGCg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wiedenbr\u00fcck, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471522,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/20171352_20101216_20c3c339a9.tar.gz"
+        },
+        "bbox": [
+            8.3021802902222,
+            51.832805633545,
+            8.3111581802368,
+            51.845596313477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.30455,
+                        51.834042
+                    ],
+                    [
+                        8.30218,
+                        51.845596
+                    ],
+                    [
+                        8.302305,
+                        51.845585
+                    ],
+                    [
+                        8.311158,
+                        51.835659
+                    ],
+                    [
+                        8.307037,
+                        51.832806
+                    ],
+                    [
+                        8.30455,
+                        51.834042
+                    ]
+                ]
+            ]
+        ]
+    }
+}

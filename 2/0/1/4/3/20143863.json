@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20143863,
+    "properties": {
+        "woe_id": 20143863,
+        "place_id": "GX0VT7KbAZ2Fw382Cg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sevegliano, Friuli-Venezia Giulia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488623,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/20143863_20101216_a25fae2c41.tar.gz"
+        },
+        "bbox": [
+            13.301309585571,
+            45.88391494751,
+            13.31371307373,
+            45.888454437256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.306159,
+                        45.883915
+                    ],
+                    [
+                        13.30131,
+                        45.887829
+                    ],
+                    [
+                        13.307704,
+                        45.888454
+                    ],
+                    [
+                        13.313713,
+                        45.887081
+                    ],
+                    [
+                        13.307275,
+                        45.883972
+                    ],
+                    [
+                        13.306159,
+                        45.883915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

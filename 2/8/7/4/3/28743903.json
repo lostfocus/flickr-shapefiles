@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28743903,
+    "properties": {
+        "woe_id": 28743903,
+        "place_id": "LMArfsibCZuVhT0dmg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Garfield, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540880,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/28743903_20101216_0a8dbf0d63.tar.gz"
+        },
+        "bbox": [
+            -85.078811645508,
+            43.837512969971,
+            -85.061279296875,
+            43.845485687256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.067909,
+                        43.838551
+                    ],
+                    [
+                        -85.076149,
+                        43.840626
+                    ],
+                    [
+                        -85.078812,
+                        43.845173
+                    ],
+                    [
+                        -85.065445,
+                        43.845486
+                    ],
+                    [
+                        -85.061279,
+                        43.837513
+                    ],
+                    [
+                        -85.067909,
+                        43.838551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

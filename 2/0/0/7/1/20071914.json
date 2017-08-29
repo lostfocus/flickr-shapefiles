@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20071914,
+    "properties": {
+        "woe_id": 20071914,
+        "place_id": "SFNbsWmbAZwDgzLjAQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cross Roads, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529490,
+        "alpha": 1.0e-5,
+        "points": 39,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/20071914_20101216_8a8be1f756.tar.gz"
+        },
+        "bbox": [
+            -8.1216430664062,
+            55.141307830811,
+            -8.1182088851929,
+            55.150382995605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.121128,
+                        55.146164
+                    ],
+                    [
+                        -8.121643,
+                        55.150383
+                    ],
+                    [
+                        -8.118209,
+                        55.146015
+                    ],
+                    [
+                        -8.121471,
+                        55.141308
+                    ],
+                    [
+                        -8.121128,
+                        55.146164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

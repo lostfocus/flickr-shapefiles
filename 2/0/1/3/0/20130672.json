@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20130672,
+    "properties": {
+        "woe_id": 20130672,
+        "place_id": "6NJTktybAZ0GnjlMmQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marina di Felloniche, Puglia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454915,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/20130672_20101215_144d75d05d.tar.gz"
+        },
+        "bbox": [
+            18.324378967285,
+            39.805107116699,
+            18.329315185547,
+            39.807678222656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.324379,
+                        39.807678
+                    ],
+                    [
+                        18.326054,
+                        39.807449
+                    ],
+                    [
+                        18.329315,
+                        39.80748
+                    ],
+                    [
+                        18.327942,
+                        39.805107
+                    ],
+                    [
+                        18.325453,
+                        39.807083
+                    ],
+                    [
+                        18.324379,
+                        39.807678
+                    ]
+                ]
+            ]
+        ]
+    }
+}

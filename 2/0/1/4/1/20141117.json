@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20141117,
+    "properties": {
+        "woe_id": 20141117,
+        "place_id": "sy0HR1ebAZ0mGAWPkQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Felice, Abruzzi, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234555805,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3325\/shapefiles\/20141117_20090213_aa3d363a5b.tar.gz"
+        },
+        "bbox": [
+            13.61120223999,
+            42.642608642578,
+            13.612402915955,
+            42.644630432129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.612232,
+                        42.642609
+                    ],
+                    [
+                        13.611545,
+                        42.644028
+                    ],
+                    [
+                        13.611202,
+                        42.64463
+                    ],
+                    [
+                        13.612403,
+                        42.643806
+                    ],
+                    [
+                        13.612232,
+                        42.642609
+                    ]
+                ]
+            ]
+        ]
+    }
+}

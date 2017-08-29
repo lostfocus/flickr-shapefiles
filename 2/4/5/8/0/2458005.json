@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2458005,
+    "properties": {
+        "woe_id": 2458005,
+        "place_id": "0Hw2Bx.bBZk2X9zP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "New Baltimore, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541124,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2458005_20101216_6520aba128.tar.gz"
+        },
+        "bbox": [
+            -84.675750732422,
+            39.24494934082,
+            -84.662620544434,
+            39.265487670898
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.6632,
+                        39.262245
+                    ],
+                    [
+                        -84.662621,
+                        39.261497
+                    ],
+                    [
+                        -84.675751,
+                        39.244949
+                    ],
+                    [
+                        -84.669914,
+                        39.265488
+                    ],
+                    [
+                        -84.665062,
+                        39.264027
+                    ],
+                    [
+                        -84.6632,
+                        39.262245
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2354425,
+    "properties": {
+        "woe_id": 2354425,
+        "place_id": "ZviGqW6bApmQBsou",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Anacker, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448186,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2354425_20101215_da5ce09355.tar.gz"
+        },
+        "bbox": [
+            -89.464653015137,
+            43.624221801758,
+            -89.462333679199,
+            43.625305175781
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.462334,
+                        43.625099
+                    ],
+                    [
+                        -89.462402,
+                        43.624981
+                    ],
+                    [
+                        -89.464653,
+                        43.624222
+                    ],
+                    [
+                        -89.462402,
+                        43.625305
+                    ],
+                    [
+                        -89.462334,
+                        43.625099
+                    ]
+                ]
+            ]
+        ]
+    }
+}

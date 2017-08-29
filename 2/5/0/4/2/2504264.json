@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2504264,
+    "properties": {
+        "woe_id": 2504264,
+        "place_id": "POSpel2bBJwK1q10",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Taunton, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545202,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2504264_20101217_9c6c087b9e.tar.gz"
+        },
+        "bbox": [
+            -76.207565307617,
+            43.03018951416,
+            -76.180328369141,
+            43.041416168213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.185036,
+                        43.041416
+                    ],
+                    [
+                        -76.180328,
+                        43.03019
+                    ],
+                    [
+                        -76.190361,
+                        43.033276
+                    ],
+                    [
+                        -76.207565,
+                        43.032383
+                    ],
+                    [
+                        -76.197563,
+                        43.036728
+                    ],
+                    [
+                        -76.185036,
+                        43.041416
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2383613,
+    "properties": {
+        "woe_id": 2383613,
+        "place_id": "bokyFh.bApSd62XK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Columbia Heights, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234569849,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3299\/shapefiles\/2383613_20090214_03a814013e.tar.gz"
+        },
+        "bbox": [
+            -122.93941497803,
+            46.159702301025,
+            -122.93820953369,
+            46.169250488281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.939293,
+                        46.165287
+                    ],
+                    [
+                        -122.93821,
+                        46.16925
+                    ],
+                    [
+                        -122.939056,
+                        46.165092
+                    ],
+                    [
+                        -122.939415,
+                        46.159702
+                    ],
+                    [
+                        -122.939293,
+                        46.165287
+                    ]
+                ]
+            ]
+        ]
+    }
+}

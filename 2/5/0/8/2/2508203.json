@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2508203,
+    "properties": {
+        "woe_id": 2508203,
+        "place_id": "erlcKVCbBJxGpUIo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Troy, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517435,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2508203_20101216_eb3c0cfa4d.tar.gz"
+        },
+        "bbox": [
+            -72.411148071289,
+            44.903762817383,
+            -72.39705657959,
+            44.917049407959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.404922,
+                        44.904354
+                    ],
+                    [
+                        -72.405907,
+                        44.903763
+                    ],
+                    [
+                        -72.411148,
+                        44.905815
+                    ],
+                    [
+                        -72.397057,
+                        44.917049
+                    ],
+                    [
+                        -72.404877,
+                        44.904381
+                    ],
+                    [
+                        -72.404922,
+                        44.904354
+                    ]
+                ]
+            ]
+        ]
+    }
+}

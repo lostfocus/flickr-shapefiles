@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23418304,
+    "properties": {
+        "woe_id": 23418304,
+        "place_id": "DlA49n6bAphyAA.0oQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gilbert Creek, West Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234557722,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3434\/shapefiles\/23418304_20090213_bb856df16f.tar.gz"
+        },
+        "bbox": [
+            -81.9658203125,
+            37.541107177734,
+            -81.964141845703,
+            37.545547485352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.964142,
+                        37.543251
+                    ],
+                    [
+                        -81.964401,
+                        37.541107
+                    ],
+                    [
+                        -81.96582,
+                        37.544304
+                    ],
+                    [
+                        -81.964233,
+                        37.545547
+                    ],
+                    [
+                        -81.964142,
+                        37.543251
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20223104,
+    "properties": {
+        "woe_id": 20223104,
+        "place_id": "2zeav5mbAZ5zv5UfFg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fuente Tovar, Castille and Leon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495582,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20223104_20101216_5bf90d9feb.tar.gz"
+        },
+        "bbox": [
+            -2.7997970581055,
+            41.476947784424,
+            -2.7889819145203,
+            41.479969024658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.795505,
+                        41.478424
+                    ],
+                    [
+                        -2.794303,
+                        41.478874
+                    ],
+                    [
+                        -2.788982,
+                        41.479969
+                    ],
+                    [
+                        -2.793617,
+                        41.476948
+                    ],
+                    [
+                        -2.799797,
+                        41.477589
+                    ],
+                    [
+                        -2.795505,
+                        41.478424
+                    ]
+                ]
+            ]
+        ]
+    }
+}

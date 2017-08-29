@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2350046,
+    "properties": {
+        "woe_id": 2350046,
+        "place_id": "Y8HztZebApnNDbVF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paparimu, Waikato, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493248,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2350046_20101216_2fa47da6cb.tar.gz"
+        },
+        "bbox": [
+            175.12635803223,
+            -37.155868530273,
+            175.12808227539,
+            -37.153953552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        175.126526,
+                        -37.155323
+                    ],
+                    [
+                        175.126358,
+                        -37.154774
+                    ],
+                    [
+                        175.128082,
+                        -37.153954
+                    ],
+                    [
+                        175.127823,
+                        -37.155426
+                    ],
+                    [
+                        175.127136,
+                        -37.155869
+                    ],
+                    [
+                        175.126526,
+                        -37.155323
+                    ]
+                ]
+            ]
+        ]
+    }
+}

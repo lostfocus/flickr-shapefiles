@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23395598,
+    "properties": {
+        "woe_id": 23395598,
+        "place_id": "EAAs2febAp_82tAVXQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clarendon, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519264,
+        "alpha": 0.00015,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/23395598_20101216_023b4243d2.tar.gz"
+        },
+        "bbox": [
+            -76.518745422363,
+            45.500331878662,
+            -76.503120422363,
+            45.526794433594
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.50312,
+                        45.515968
+                    ],
+                    [
+                        -76.508446,
+                        45.514286
+                    ],
+                    [
+                        -76.518745,
+                        45.500332
+                    ],
+                    [
+                        -76.517715,
+                        45.50779
+                    ],
+                    [
+                        -76.511879,
+                        45.526794
+                    ],
+                    [
+                        -76.50312,
+                        45.515968
+                    ]
+                ]
+            ]
+        ]
+    }
+}

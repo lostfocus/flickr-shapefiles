@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439500,
+    "properties": {
+        "woe_id": 2439500,
+        "place_id": "kyRTG0CbBZ8ILXDD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lincoln Acres, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247836690,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3468\/shapefiles\/2439500_20090717_a66fcb0f87.tar.gz"
+        },
+        "bbox": [
+            -117.08153533936,
+            32.659030914307,
+            -117.07683563232,
+            32.669654846191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.076836,
+                        32.664379
+                    ],
+                    [
+                        -117.079926,
+                        32.659031
+                    ],
+                    [
+                        -117.07959,
+                        32.664593
+                    ],
+                    [
+                        -117.081535,
+                        32.669655
+                    ],
+                    [
+                        -117.076836,
+                        32.664379
+                    ]
+                ]
+            ]
+        ]
+    }
+}

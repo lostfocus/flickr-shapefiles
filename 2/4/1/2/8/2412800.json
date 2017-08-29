@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2412800,
+    "properties": {
+        "woe_id": 2412800,
+        "place_id": "TWI.I5GbBZ3flpmP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grand Isle, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451727,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2412800_20101215_801d900089.tar.gz"
+        },
+        "bbox": [
+            -68.159286499023,
+            47.298557281494,
+            -68.146133422852,
+            47.311870574951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.153687,
+                        47.304958
+                    ],
+                    [
+                        -68.159286,
+                        47.311871
+                    ],
+                    [
+                        -68.152138,
+                        47.305832
+                    ],
+                    [
+                        -68.146133,
+                        47.298557
+                    ],
+                    [
+                        -68.153687,
+                        47.304958
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2371284,
+    "properties": {
+        "woe_id": 2371284,
+        "place_id": "kWABFvebApsnC_hn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bucktown, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477101,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2371284_20101216_9b3daa2d37.tar.gz"
+        },
+        "bbox": [
+            -122.07118988037,
+            38.38111114502,
+            -122.04630279541,
+            38.409782409668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.05381,
+                        38.39502
+                    ],
+                    [
+                        -122.046303,
+                        38.381111
+                    ],
+                    [
+                        -122.069435,
+                        38.388023
+                    ],
+                    [
+                        -122.07119,
+                        38.409782
+                    ],
+                    [
+                        -122.05381,
+                        38.39502
+                    ]
+                ]
+            ]
+        ]
+    }
+}

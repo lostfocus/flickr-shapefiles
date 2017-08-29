@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2357663,
+    "properties": {
+        "woe_id": 2357663,
+        "place_id": "mHRh_jibAplCTRP0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Avalon, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522045,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2357663_20101216_91cde61fcb.tar.gz"
+        },
+        "bbox": [
+            -83.807884216309,
+            33.494457244873,
+            -83.805854797363,
+            33.495918273926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.807144,
+                        33.494919
+                    ],
+                    [
+                        -83.807884,
+                        33.495811
+                    ],
+                    [
+                        -83.807198,
+                        33.495918
+                    ],
+                    [
+                        -83.806763,
+                        33.495811
+                    ],
+                    [
+                        -83.805855,
+                        33.494457
+                    ],
+                    [
+                        -83.807144,
+                        33.494919
+                    ]
+                ]
+            ]
+        ]
+    }
+}

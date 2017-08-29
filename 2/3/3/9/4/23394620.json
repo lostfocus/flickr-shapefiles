@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23394620,
+    "properties": {
+        "woe_id": 23394620,
+        "place_id": "IQZ0aOybAp9K9gNisw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Val\u00e8re, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457620,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/23394620_20101216_3ce5579d56.tar.gz"
+        },
+        "bbox": [
+            -72.064819335938,
+            46.057865142822,
+            -72.056060791016,
+            46.069030761719
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.056381,
+                        46.069031
+                    ],
+                    [
+                        -72.056061,
+                        46.069
+                    ],
+                    [
+                        -72.056061,
+                        46.068882
+                    ],
+                    [
+                        -72.064819,
+                        46.057865
+                    ],
+                    [
+                        -72.05658,
+                        46.068764
+                    ],
+                    [
+                        -72.056381,
+                        46.069031
+                    ]
+                ]
+            ]
+        ]
+    }
+}

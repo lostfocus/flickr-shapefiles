@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2519223,
+    "properties": {
+        "woe_id": 2519223,
+        "place_id": "5MtjDX6bBJ1xJrqr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "White City, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234491482,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3477\/shapefiles\/2519223_20090213_d6ff951f46.tar.gz"
+        },
+        "bbox": [
+            -89.562744140625,
+            46.389541625977,
+            -89.561218261719,
+            46.389842987061
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.561218,
+                        46.389816
+                    ],
+                    [
+                        -89.562263,
+                        46.389542
+                    ],
+                    [
+                        -89.562744,
+                        46.389702
+                    ],
+                    [
+                        -89.561234,
+                        46.389843
+                    ],
+                    [
+                        -89.561218,
+                        46.389816
+                    ]
+                ]
+            ]
+        ]
+    }
+}

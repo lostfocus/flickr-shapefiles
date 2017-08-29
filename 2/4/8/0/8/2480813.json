@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2480813,
+    "properties": {
+        "woe_id": 2480813,
+        "place_id": "vVtbmcebBZSlgiAP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Richland, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469902,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2480813_20101216_2d91f1932c.tar.gz"
+        },
+        "bbox": [
+            -95.582168579102,
+            38.897289276123,
+            -95.561225891113,
+            38.910552978516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.582169,
+                        38.906029
+                    ],
+                    [
+                        -95.576012,
+                        38.910236
+                    ],
+                    [
+                        -95.575165,
+                        38.910553
+                    ],
+                    [
+                        -95.561226,
+                        38.898514
+                    ],
+                    [
+                        -95.576355,
+                        38.897289
+                    ],
+                    [
+                        -95.582169,
+                        38.906029
+                    ]
+                ]
+            ]
+        ]
+    }
+}

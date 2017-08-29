@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23394519,
+    "properties": {
+        "woe_id": 23394519,
+        "place_id": "0QshvmqbAp_VT.11Ww",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste.-Catherine-de-Hatley, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248253093,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2450\/shapefiles\/23394519_20090722_2016e833d3.tar.gz"
+        },
+        "bbox": [
+            -72.056625366211,
+            45.2734375,
+            -72.041473388672,
+            45.299644470215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.056625,
+                        45.277332
+                    ],
+                    [
+                        -72.055717,
+                        45.294151
+                    ],
+                    [
+                        -72.042503,
+                        45.299644
+                    ],
+                    [
+                        -72.051086,
+                        45.279476
+                    ],
+                    [
+                        -72.041473,
+                        45.273438
+                    ],
+                    [
+                        -72.056625,
+                        45.277332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

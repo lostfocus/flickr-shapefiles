@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20149780,
+    "properties": {
+        "woe_id": 20149780,
+        "place_id": "yZypAYmbAZ2Hp.DIOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monticello, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234626365,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3394\/shapefiles\/20149780_20090214_33743803b2.tar.gz"
+        },
+        "bbox": [
+            9.3898448944092,
+            45.73299407959,
+            9.393180847168,
+            45.734836578369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.39022,
+                        45.733383
+                    ],
+                    [
+                        9.389845,
+                        45.734837
+                    ],
+                    [
+                        9.393181,
+                        45.733475
+                    ],
+                    [
+                        9.391508,
+                        45.732994
+                    ],
+                    [
+                        9.39022,
+                        45.733383
+                    ]
+                ]
+            ]
+        ]
+    }
+}

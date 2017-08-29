@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2420531,
+    "properties": {
+        "woe_id": 2420531,
+        "place_id": "nQOPxzybBZ79jweh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hester, South Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234647370,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3333\/shapefiles\/2420531_20090214_400c61a9eb.tar.gz"
+        },
+        "bbox": [
+            -82.598091125488,
+            34.024742126465,
+            -82.586311340332,
+            34.029720306396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.597534,
+                        34.024742
+                    ],
+                    [
+                        -82.598091,
+                        34.025772
+                    ],
+                    [
+                        -82.588776,
+                        34.02972
+                    ],
+                    [
+                        -82.586311,
+                        34.028744
+                    ],
+                    [
+                        -82.597534,
+                        34.024742
+                    ]
+                ]
+            ]
+        ]
+    }
+}

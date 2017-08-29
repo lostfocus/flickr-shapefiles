@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20166008,
+    "properties": {
+        "woe_id": 20166008,
+        "place_id": "0daQxxubAZ0ZA8_M5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vilm, Mecklenburg-Vorpommern, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508606,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/20166008_20101216_37619e18f5.tar.gz"
+        },
+        "bbox": [
+            13.531464576721,
+            54.323081970215,
+            13.543652534485,
+            54.329536437988
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.538213,
+                        54.329296
+                    ],
+                    [
+                        13.543653,
+                        54.327824
+                    ],
+                    [
+                        13.537311,
+                        54.325924
+                    ],
+                    [
+                        13.532838,
+                        54.323082
+                    ],
+                    [
+                        13.531465,
+                        54.329536
+                    ],
+                    [
+                        13.538213,
+                        54.329296
+                    ]
+                ]
+            ]
+        ]
+    }
+}

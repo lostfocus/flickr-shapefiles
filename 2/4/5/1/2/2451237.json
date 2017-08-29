@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451237,
+    "properties": {
+        "woe_id": 2451237,
+        "place_id": "FpIsYzKbBZmv72mp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Millburn, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247886847,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2666\/shapefiles\/2451237_20090718_8ff8b0c590.tar.gz"
+        },
+        "bbox": [
+            -73.612174987793,
+            40.643608093262,
+            -73.603927612305,
+            40.65172958374
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.606171,
+                        40.647728
+                    ],
+                    [
+                        -73.606178,
+                        40.64772
+                    ],
+                    [
+                        -73.610741,
+                        40.643608
+                    ],
+                    [
+                        -73.612175,
+                        40.645218
+                    ],
+                    [
+                        -73.603928,
+                        40.65173
+                    ],
+                    [
+                        -73.606171,
+                        40.647728
+                    ]
+                ]
+            ]
+        ]
+    }
+}

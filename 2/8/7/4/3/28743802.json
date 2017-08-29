@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28743802,
+    "properties": {
+        "woe_id": 28743802,
+        "place_id": "bdAo8BebCZv82N7XAw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ewing, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442306,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/28743802_20101215_0444a949b9.tar.gz"
+        },
+        "bbox": [
+            -87.253120422363,
+            46.07222366333,
+            -87.252777099609,
+            46.0725440979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.252777,
+                        46.072464
+                    ],
+                    [
+                        -87.252792,
+                        46.072369
+                    ],
+                    [
+                        -87.253098,
+                        46.072224
+                    ],
+                    [
+                        -87.25312,
+                        46.072544
+                    ],
+                    [
+                        -87.252792,
+                        46.072521
+                    ],
+                    [
+                        -87.252777,
+                        46.072464
+                    ]
+                ]
+            ]
+        ]
+    }
+}

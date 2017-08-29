@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20075015,
+    "properties": {
+        "woe_id": 20075015,
+        "place_id": "QrRGV66bAZzzOHvSxg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste.-Radegonde, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248049093,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3469\/shapefiles\/20075015_20090720_928e3aa408.tar.gz"
+        },
+        "bbox": [
+            -0.24131999909878,
+            46.983016967773,
+            -0.24072200059891,
+            46.9831199646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.241285,
+                        46.983017
+                    ],
+                    [
+                        -0.24132,
+                        46.983051
+                    ],
+                    [
+                        -0.24132,
+                        46.983059
+                    ],
+                    [
+                        -0.240722,
+                        46.98312
+                    ],
+                    [
+                        -0.241034,
+                        46.983028
+                    ],
+                    [
+                        -0.241285,
+                        46.983017
+                    ]
+                ]
+            ]
+        ]
+    }
+}

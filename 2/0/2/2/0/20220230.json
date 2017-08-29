@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220230,
+    "properties": {
+        "woe_id": 20220230,
+        "place_id": "V1IqSOGbAZ53l3ZZLg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Mateu D'aubarca, Balearic Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455194,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/20220230_20101215_5da6e8f888.tar.gz"
+        },
+        "bbox": [
+            1.3722610473633,
+            39.038909912109,
+            1.38616502285,
+            39.064182281494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.380232,
+                        39.040001
+                    ],
+                    [
+                        1.37844,
+                        39.043419
+                    ],
+                    [
+                        1.372261,
+                        39.064182
+                    ],
+                    [
+                        1.386165,
+                        39.046852
+                    ],
+                    [
+                        1.383838,
+                        39.03891
+                    ],
+                    [
+                        1.380232,
+                        39.040001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

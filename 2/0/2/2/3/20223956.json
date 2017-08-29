@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20223956,
+    "properties": {
+        "woe_id": 20223956,
+        "place_id": "jrlrPGCbAZ7WqxKzfg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Las Caletillas, Canary Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520189,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/20223956_20101216_ca875b7344.tar.gz"
+        },
+        "bbox": [
+            -16.362590789795,
+            28.37811088562,
+            -16.357225418091,
+            28.382158279419
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -16.361132,
+                        28.378111
+                    ],
+                    [
+                        -16.362591,
+                        28.378262
+                    ],
+                    [
+                        -16.361891,
+                        28.381201
+                    ],
+                    [
+                        -16.357225,
+                        28.382158
+                    ],
+                    [
+                        -16.357237,
+                        28.380281
+                    ],
+                    [
+                        -16.361132,
+                        28.378111
+                    ]
+                ]
+            ]
+        ]
+    }
+}

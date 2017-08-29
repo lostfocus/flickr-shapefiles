@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20071706,
+    "properties": {
+        "woe_id": 20071706,
+        "place_id": "CRM01hqbAZyYVrkVQA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kilcatherine, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528133,
+        "alpha": 1.0e-5,
+        "points": 38,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/20071706_20101216_69a53e2501.tar.gz"
+        },
+        "bbox": [
+            -9.8614091873169,
+            51.749004364014,
+            -9.8540487289429,
+            51.754665374756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.854049,
+                        51.754665
+                    ],
+                    [
+                        -9.855422,
+                        51.749989
+                    ],
+                    [
+                        -9.859199,
+                        51.751053
+                    ],
+                    [
+                        -9.861409,
+                        51.749004
+                    ],
+                    [
+                        -9.861259,
+                        51.751053
+                    ],
+                    [
+                        -9.859199,
+                        51.751053
+                    ],
+                    [
+                        -9.855422,
+                        51.749989
+                    ],
+                    [
+                        -9.854049,
+                        51.754665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

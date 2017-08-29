@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2402290,
+    "properties": {
+        "woe_id": 2402290,
+        "place_id": "wR6t3DubBZxIQF4l",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fargo, Oklahoma, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519896,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2402290_20101216_65f15329ca.tar.gz"
+        },
+        "bbox": [
+            -99.625053405762,
+            36.373699188232,
+            -99.622131347656,
+            36.379001617432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.622131,
+                        36.378551
+                    ],
+                    [
+                        -99.623291,
+                        36.373699
+                    ],
+                    [
+                        -99.623764,
+                        36.376022
+                    ],
+                    [
+                        -99.625053,
+                        36.379002
+                    ],
+                    [
+                        -99.622131,
+                        36.378551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

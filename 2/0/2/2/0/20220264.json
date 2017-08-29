@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220264,
+    "properties": {
+        "woe_id": 20220264,
+        "place_id": "srqAft6bAZ7Fhty19Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ca'n Vicent D'es Cocons, Balearic Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549913,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/20220264_20101217_85c877b986.tar.gz"
+        },
+        "bbox": [
+            1.2914079427719,
+            39.016883850098,
+            1.3013210296631,
+            39.025585174561
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.292438,
+                        39.021015
+                    ],
+                    [
+                        1.291408,
+                        39.025585
+                    ],
+                    [
+                        1.293017,
+                        39.024857
+                    ],
+                    [
+                        1.301321,
+                        39.021645
+                    ],
+                    [
+                        1.294155,
+                        39.016884
+                    ],
+                    [
+                        1.292438,
+                        39.021015
+                    ]
+                ]
+            ]
+        ]
+    }
+}

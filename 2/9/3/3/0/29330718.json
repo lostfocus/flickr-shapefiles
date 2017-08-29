@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29330718,
+    "properties": {
+        "woe_id": 29330718,
+        "place_id": "4pbWXmebCJ8QX9ewnA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bois-Vert, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482022,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/29330718_20101216_468ae154bd.tar.gz"
+        },
+        "bbox": [
+            -0.27083399891853,
+            46.639019012451,
+            -0.26547399163246,
+            46.640434265137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.266075,
+                        46.640434
+                    ],
+                    [
+                        -0.265474,
+                        46.639755
+                    ],
+                    [
+                        -0.266939,
+                        46.639019
+                    ],
+                    [
+                        -0.270834,
+                        46.640167
+                    ],
+                    [
+                        -0.269834,
+                        46.640331
+                    ],
+                    [
+                        -0.266075,
+                        46.640434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

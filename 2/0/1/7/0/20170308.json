@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20170308,
+    "properties": {
+        "woe_id": 20170308,
+        "place_id": "UU_nFdubAZ2M5huj7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St\u00f6rmicke, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457338,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/20170308_20101215_c780b089b1.tar.gz"
+        },
+        "bbox": [
+            8.1861658096313,
+            51.107498168945,
+            8.1906661987305,
+            51.126667022705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.186166,
+                        51.115501
+                    ],
+                    [
+                        8.186333,
+                        51.115833
+                    ],
+                    [
+                        8.189166,
+                        51.126667
+                    ],
+                    [
+                        8.190666,
+                        51.123501
+                    ],
+                    [
+                        8.189833,
+                        51.113834
+                    ],
+                    [
+                        8.189,
+                        51.107498
+                    ],
+                    [
+                        8.186166,
+                        51.115501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

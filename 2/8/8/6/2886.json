@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2886,
+    "properties": {
+        "woe_id": 2886,
+        "place_id": "XUpzCOmbCZTk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alexander, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532967,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2886_20101216_8944c00778.tar.gz"
+        },
+        "bbox": [
+            -100.29856872559,
+            49.829734802246,
+            -100.28899383545,
+            49.830715179443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.294472,
+                        49.830715
+                    ],
+                    [
+                        -100.288994,
+                        49.829914
+                    ],
+                    [
+                        -100.295219,
+                        49.829735
+                    ],
+                    [
+                        -100.298569,
+                        49.829842
+                    ],
+                    [
+                        -100.294472,
+                        49.830715
+                    ]
+                ]
+            ]
+        ]
+    }
+}

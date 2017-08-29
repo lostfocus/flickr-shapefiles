@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20228588,
+    "properties": {
+        "woe_id": 20228588,
+        "place_id": "JWFKaqubAZ55ybqyjQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santa Marina, La Rioja, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520226,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/20228588_20101216_9e99922dbc.tar.gz"
+        },
+        "bbox": [
+            -2.3593559265137,
+            42.245483398438,
+            -2.3581500053406,
+            42.246387481689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.358713,
+                        42.246025
+                    ],
+                    [
+                        -2.35815,
+                        42.245579
+                    ],
+                    [
+                        -2.358155,
+                        42.245506
+                    ],
+                    [
+                        -2.358798,
+                        42.245483
+                    ],
+                    [
+                        -2.359356,
+                        42.246387
+                    ],
+                    [
+                        -2.358713,
+                        42.246025
+                    ]
+                ]
+            ]
+        ]
+    }
+}

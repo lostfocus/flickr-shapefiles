@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23404105,
+    "properties": {
+        "woe_id": 23404105,
+        "place_id": "3gEIg9WbApis0hMNgg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Carnwood, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529436,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/23404105_20101216_7d665cc9a7.tar.gz"
+        },
+        "bbox": [
+            -114.63276672363,
+            53.198654174805,
+            -114.62469482422,
+            53.20133972168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.624695,
+                        53.199581
+                    ],
+                    [
+                        -114.626495,
+                        53.198887
+                    ],
+                    [
+                        -114.632767,
+                        53.198654
+                    ],
+                    [
+                        -114.627274,
+                        53.20134
+                    ],
+                    [
+                        -114.624695,
+                        53.199581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

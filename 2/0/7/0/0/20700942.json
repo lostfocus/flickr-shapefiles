@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20700942,
+    "properties": {
+        "woe_id": 20700942,
+        "place_id": "5ZGtl5KbAZvwiDojBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mont St., Channel Islands, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532782,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/20700942_20101216_e94e602dfc.tar.gz"
+        },
+        "bbox": [
+            -2.6245300769806,
+            49.452781677246,
+            -2.6186079978943,
+            49.457439422607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.621612,
+                        49.452782
+                    ],
+                    [
+                        -2.62453,
+                        49.453617
+                    ],
+                    [
+                        -2.6217,
+                        49.455799
+                    ],
+                    [
+                        -2.618608,
+                        49.457439
+                    ],
+                    [
+                        -2.620453,
+                        49.453159
+                    ],
+                    [
+                        -2.621612,
+                        49.452782
+                    ]
+                ]
+            ]
+        ]
+    }
+}

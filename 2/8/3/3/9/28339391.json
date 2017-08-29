@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28339391,
+    "properties": {
+        "woe_id": 28339391,
+        "place_id": "apH_6rmbCZ8oqfDCLA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lenoir Rhyne, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229568127,
+        "alpha": 0.00015,
+        "points": 27,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3126\/shapefiles\/28339391_20081218_d67e838660.tar.gz"
+        },
+        "bbox": [
+            -81.339599609375,
+            35.756004333496,
+            -81.305046081543,
+            35.77388381958
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.326294,
+                        35.760445
+                    ],
+                    [
+                        -81.3396,
+                        35.765388
+                    ],
+                    [
+                        -81.327255,
+                        35.764832
+                    ],
+                    [
+                        -81.318443,
+                        35.773884
+                    ],
+                    [
+                        -81.305046,
+                        35.756004
+                    ],
+                    [
+                        -81.326294,
+                        35.760445
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20071524,
+    "properties": {
+        "woe_id": 20071524,
+        "place_id": "AQ78RFGbAZwzQ6SyyA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bandon, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520549,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/20071524_20101216_5c9fa0a9bb.tar.gz"
+        },
+        "bbox": [
+            -8.7419843673706,
+            51.741912841797,
+            -8.7364482879639,
+            51.746589660645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.739198,
+                        51.745724
+                    ],
+                    [
+                        -8.741426,
+                        51.741913
+                    ],
+                    [
+                        -8.741984,
+                        51.745815
+                    ],
+                    [
+                        -8.738701,
+                        51.746216
+                    ],
+                    [
+                        -8.736448,
+                        51.74659
+                    ],
+                    [
+                        -8.739198,
+                        51.745724
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220313,
+    "properties": {
+        "woe_id": 20220313,
+        "place_id": "x3oSmPKbAZ7EtGltBA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pujol Gros, Balearic Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527979,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20220313_20101216_9525d7b30a.tar.gz"
+        },
+        "bbox": [
+            1.2501660585403,
+            38.930103302002,
+            1.2569470405579,
+            38.940536499023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.250166,
+                        38.940388
+                    ],
+                    [
+                        1.25023,
+                        38.940536
+                    ],
+                    [
+                        1.256947,
+                        38.932507
+                    ],
+                    [
+                        1.253299,
+                        38.930836
+                    ],
+                    [
+                        1.251754,
+                        38.930103
+                    ],
+                    [
+                        1.250166,
+                        38.940388
+                    ]
+                ]
+            ]
+        ]
+    }
+}

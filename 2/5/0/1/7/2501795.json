@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2501795,
+    "properties": {
+        "woe_id": 2501795,
+        "place_id": "MMLnFbqbBJy8N4YL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Summit Lake, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539880,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2501795_20101216_e4961aa357.tar.gz"
+        },
+        "bbox": [
+            -89.205032348633,
+            45.372543334961,
+            -89.190704345703,
+            45.393478393555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.200661,
+                        45.372543
+                    ],
+                    [
+                        -89.205032,
+                        45.377956
+                    ],
+                    [
+                        -89.198586,
+                        45.393478
+                    ],
+                    [
+                        -89.195099,
+                        45.377773
+                    ],
+                    [
+                        -89.190704,
+                        45.374969
+                    ],
+                    [
+                        -89.200661,
+                        45.372543
+                    ]
+                ]
+            ]
+        ]
+    }
+}

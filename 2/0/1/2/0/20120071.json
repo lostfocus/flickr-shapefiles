@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20120071,
+    "properties": {
+        "woe_id": 20120071,
+        "place_id": "eQ5GIKGbAZ1EoDBSog",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Challand-St.-Anselme, Valle d'Aosta, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530119,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/20120071_20101216_fd96407012.tar.gz"
+        },
+        "bbox": [
+            7.7214999198914,
+            45.703872680664,
+            7.7453608512878,
+            45.735420227051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.726564,
+                        45.730869
+                    ],
+                    [
+                        7.745361,
+                        45.73542
+                    ],
+                    [
+                        7.743301,
+                        45.719124
+                    ],
+                    [
+                        7.735694,
+                        45.714767
+                    ],
+                    [
+                        7.7215,
+                        45.703873
+                    ],
+                    [
+                        7.726221,
+                        45.726555
+                    ],
+                    [
+                        7.726564,
+                        45.730869
+                    ]
+                ]
+            ]
+        ]
+    }
+}

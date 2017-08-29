@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23400989,
+    "properties": {
+        "woe_id": 23400989,
+        "place_id": "6Xw3dySbApi4ilrbvQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mount Pleasant, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548173,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/23400989_20101217_931895c2c0.tar.gz"
+        },
+        "bbox": [
+            -80.331207275391,
+            43.069541931152,
+            -80.313407897949,
+            43.080673217773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.313553,
+                        43.077976
+                    ],
+                    [
+                        -80.314499,
+                        43.073856
+                    ],
+                    [
+                        -80.31543,
+                        43.071522
+                    ],
+                    [
+                        -80.331207,
+                        43.069542
+                    ],
+                    [
+                        -80.316216,
+                        43.079548
+                    ],
+                    [
+                        -80.313408,
+                        43.080673
+                    ],
+                    [
+                        -80.313553,
+                        43.077976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

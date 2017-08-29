@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23401371,
+    "properties": {
+        "woe_id": 23401371,
+        "place_id": "07hUvZObAphExvh19w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spring Brook, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531831,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/23401371_20101216_11925b5770.tar.gz"
+        },
+        "bbox": [
+            -77.614181518555,
+            44.391841888428,
+            -77.605834960938,
+            44.402389526367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.614182,
+                        44.401947
+                    ],
+                    [
+                        -77.608109,
+                        44.40239
+                    ],
+                    [
+                        -77.605835,
+                        44.391842
+                    ],
+                    [
+                        -77.614021,
+                        44.401585
+                    ],
+                    [
+                        -77.614182,
+                        44.401947
+                    ]
+                ]
+            ]
+        ]
+    }
+}

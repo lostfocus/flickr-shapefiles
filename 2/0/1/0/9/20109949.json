@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20109949,
+    "properties": {
+        "woe_id": 20109949,
+        "place_id": "au9DaBSbAZ2S7DLi2w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arato, Marche, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502428,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20109949_20101216_b493d71766.tar.gz"
+        },
+        "bbox": [
+            13.374352455139,
+            42.891189575195,
+            13.387784004211,
+            42.906524658203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.380306,
+                        42.89415
+                    ],
+                    [
+                        13.374352,
+                        42.89119
+                    ],
+                    [
+                        13.375167,
+                        42.906525
+                    ],
+                    [
+                        13.386497,
+                        42.897598
+                    ],
+                    [
+                        13.387784,
+                        42.894955
+                    ],
+                    [
+                        13.380306,
+                        42.89415
+                    ]
+                ]
+            ]
+        ]
+    }
+}

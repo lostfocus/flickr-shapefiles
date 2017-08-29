@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23390150,
+    "properties": {
+        "woe_id": 23390150,
+        "place_id": "DPLgE6ubAp_7.2R1aA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Andrews, Nova Scotia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524330,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/23390150_20101216_bdd474d513.tar.gz"
+        },
+        "bbox": [
+            -61.897830963135,
+            45.556251525879,
+            -61.881866455078,
+            45.569351196289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.888432,
+                        45.556778
+                    ],
+                    [
+                        -61.891823,
+                        45.556252
+                    ],
+                    [
+                        -61.896629,
+                        45.560638
+                    ],
+                    [
+                        -61.897831,
+                        45.562141
+                    ],
+                    [
+                        -61.881866,
+                        45.569351
+                    ],
+                    [
+                        -61.888432,
+                        45.556778
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20177934,
+    "properties": {
+        "woe_id": 20177934,
+        "place_id": "QH9uCGibAZ16i7I0jA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Pierre, Brittany, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247740683,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2647\/shapefiles\/20177934_20090716_170ded1629.tar.gz"
+        },
+        "bbox": [
+            -2.968111038208,
+            47.559356689453,
+            -2.9584980010986,
+            47.562164306641
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.958498,
+                        47.561737
+                    ],
+                    [
+                        -2.96119,
+                        47.559357
+                    ],
+                    [
+                        -2.967209,
+                        47.560745
+                    ],
+                    [
+                        -2.968111,
+                        47.562164
+                    ],
+                    [
+                        -2.958605,
+                        47.561699
+                    ],
+                    [
+                        -2.958498,
+                        47.561737
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20219940,
+    "properties": {
+        "woe_id": 20219940,
+        "place_id": "qSQxeuCbAZ6GhJWfLw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Partia, Madrid, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548142,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/20219940_20101217_6cec23b10e.tar.gz"
+        },
+        "bbox": [
+            -3.5502359867096,
+            40.365577697754,
+            -3.5462229251862,
+            40.374176025391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.550236,
+                        40.36829
+                    ],
+                    [
+                        -3.546223,
+                        40.374176
+                    ],
+                    [
+                        -3.548841,
+                        40.36919
+                    ],
+                    [
+                        -3.549442,
+                        40.365578
+                    ],
+                    [
+                        -3.550171,
+                        40.365871
+                    ],
+                    [
+                        -3.550236,
+                        40.36829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

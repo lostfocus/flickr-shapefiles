@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28745645,
+    "properties": {
+        "woe_id": 28745645,
+        "place_id": "WekALHubCZtqNsuh3g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Park, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551345,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/28745645_20101217_27ddc960a6.tar.gz"
+        },
+        "bbox": [
+            -80.19229888916,
+            25.984722137451,
+            -80.186592102051,
+            25.990972518921
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.192299,
+                        25.990969
+                    ],
+                    [
+                        -80.192291,
+                        25.990973
+                    ],
+                    [
+                        -80.191528,
+                        25.990458
+                    ],
+                    [
+                        -80.186592,
+                        25.986046
+                    ],
+                    [
+                        -80.191055,
+                        25.984722
+                    ],
+                    [
+                        -80.192284,
+                        25.990717
+                    ],
+                    [
+                        -80.192299,
+                        25.990969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

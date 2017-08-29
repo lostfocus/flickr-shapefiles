@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23405782,
+    "properties": {
+        "woe_id": 23405782,
+        "place_id": "IPTIeOObApjW7T53jA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kingsgate, British Columbia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520224,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/23405782_20101216_919a111b5d.tar.gz"
+        },
+        "bbox": [
+            -116.1824798584,
+            48.990665435791,
+            -116.18000030518,
+            49.002666473389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.181107,
+                        49.000153
+                    ],
+                    [
+                        -116.18,
+                        48.990665
+                    ],
+                    [
+                        -116.18248,
+                        48.999592
+                    ],
+                    [
+                        -116.180832,
+                        49.002666
+                    ],
+                    [
+                        -116.181107,
+                        49.000153
+                    ]
+                ]
+            ]
+        ]
+    }
+}

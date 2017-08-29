@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20076709,
+    "properties": {
+        "woe_id": 20076709,
+        "place_id": "8Q7ZiVqbAZwVsb4vMQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tombolo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495043,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/20076709_20101216_1e468b85be.tar.gz"
+        },
+        "bbox": [
+            11.817511558533,
+            45.62232208252,
+            11.822147369385,
+            45.628684997559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.817512,
+                        45.625324
+                    ],
+                    [
+                        11.818885,
+                        45.628685
+                    ],
+                    [
+                        11.822147,
+                        45.627365
+                    ],
+                    [
+                        11.822147,
+                        45.624302
+                    ],
+                    [
+                        11.8194,
+                        45.622322
+                    ],
+                    [
+                        11.817512,
+                        45.625324
+                    ]
+                ]
+            ]
+        ]
+    }
+}

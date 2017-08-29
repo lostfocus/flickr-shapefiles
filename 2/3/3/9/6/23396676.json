@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23396676,
+    "properties": {
+        "woe_id": 23396676,
+        "place_id": "4jSu1jubAp_UUZiRuA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Antoine-de-Lavaltrie, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526799,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/23396676_20101216_80cbd51282.tar.gz"
+        },
+        "bbox": [
+            -73.35090637207,
+            45.889568328857,
+            -73.34708404541,
+            45.892578125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.350372,
+                        45.889568
+                    ],
+                    [
+                        -73.350906,
+                        45.890724
+                    ],
+                    [
+                        -73.347084,
+                        45.892578
+                    ],
+                    [
+                        -73.348503,
+                        45.890488
+                    ],
+                    [
+                        -73.350372,
+                        45.889568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

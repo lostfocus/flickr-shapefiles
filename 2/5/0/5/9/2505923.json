@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2505923,
+    "properties": {
+        "woe_id": 2505923,
+        "place_id": "5CNIx7ibBJwA._z5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Thornton, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247732524,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2556\/shapefiles\/2505923_20090716_c484f91006.tar.gz"
+        },
+        "bbox": [
+            -111.86540985107,
+            43.751247406006,
+            -111.84832763672,
+            43.76517868042
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.848328,
+                        43.757233
+                    ],
+                    [
+                        -111.848755,
+                        43.756443
+                    ],
+                    [
+                        -111.849525,
+                        43.75563
+                    ],
+                    [
+                        -111.852524,
+                        43.751247
+                    ],
+                    [
+                        -111.86541,
+                        43.765179
+                    ],
+                    [
+                        -111.848328,
+                        43.757233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

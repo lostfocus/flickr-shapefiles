@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2517262,
+    "properties": {
+        "woe_id": 2517262,
+        "place_id": "O01u.H2bBJ3L9piO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Kill, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542812,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2517262_20101216_213b51c6cf.tar.gz"
+        },
+        "bbox": [
+            -74.406280517578,
+            42.200519561768,
+            -74.383102416992,
+            42.218601226807
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.387566,
+                        42.208687
+                    ],
+                    [
+                        -74.383102,
+                        42.20052
+                    ],
+                    [
+                        -74.394264,
+                        42.208874
+                    ],
+                    [
+                        -74.406281,
+                        42.218601
+                    ],
+                    [
+                        -74.388275,
+                        42.210911
+                    ],
+                    [
+                        -74.388062,
+                        42.210575
+                    ],
+                    [
+                        -74.387566,
+                        42.208687
+                    ]
+                ]
+            ]
+        ]
+    }
+}

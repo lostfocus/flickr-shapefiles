@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502426,
+    "properties": {
+        "woe_id": 2502426,
+        "place_id": "nWcAC8.bBJxrrrpQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sunset Beach, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248141010,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3511\/shapefiles\/2502426_20090721_34c0980d73.tar.gz"
+        },
+        "bbox": [
+            -124.21168518066,
+            47.223121643066,
+            -124.208984375,
+            47.23014831543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -124.209724,
+                        47.225986
+                    ],
+                    [
+                        -124.208984,
+                        47.223701
+                    ],
+                    [
+                        -124.211555,
+                        47.223122
+                    ],
+                    [
+                        -124.21151,
+                        47.229164
+                    ],
+                    [
+                        -124.211685,
+                        47.230148
+                    ],
+                    [
+                        -124.209724,
+                        47.225986
+                    ]
+                ]
+            ]
+        ]
+    }
+}

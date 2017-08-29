@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2385001,
+    "properties": {
+        "woe_id": 2385001,
+        "place_id": "wBuDOySbApRW05fW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Core Point, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448262,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/2385001_20101215_d41f1cc92f.tar.gz"
+        },
+        "bbox": [
+            -76.823959350586,
+            35.435218811035,
+            -76.816146850586,
+            35.439727783203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.817909,
+                        35.439728
+                    ],
+                    [
+                        -76.816147,
+                        35.437176
+                    ],
+                    [
+                        -76.823959,
+                        35.435219
+                    ],
+                    [
+                        -76.822586,
+                        35.438293
+                    ],
+                    [
+                        -76.817909,
+                        35.439728
+                    ]
+                ]
+            ]
+        ]
+    }
+}

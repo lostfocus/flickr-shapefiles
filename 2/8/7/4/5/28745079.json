@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745079,
+    "properties": {
+        "woe_id": 28745079,
+        "place_id": "rrwA9VqbCZs4NokSFg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lobster, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525946,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/28745079_20101216_aa753799ac.tar.gz"
+        },
+        "bbox": [
+            -69.534873962402,
+            45.87064743042,
+            -69.531356811523,
+            45.871604919434
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.53286,
+                        45.871006
+                    ],
+                    [
+                        -69.53363,
+                        45.870647
+                    ],
+                    [
+                        -69.534103,
+                        45.870796
+                    ],
+                    [
+                        -69.534874,
+                        45.871605
+                    ],
+                    [
+                        -69.531357,
+                        45.871544
+                    ],
+                    [
+                        -69.53286,
+                        45.871006
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2365171,
+    "properties": {
+        "woe_id": 2365171,
+        "place_id": "2YBmzLKbApoN_9LN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Blair, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456603,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2365171_20101215_a12fc0c142.tar.gz"
+        },
+        "bbox": [
+            -104.62554931641,
+            48.146270751953,
+            -104.61348724365,
+            48.16837310791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.615089,
+                        48.146614
+                    ],
+                    [
+                        -104.621353,
+                        48.146706
+                    ],
+                    [
+                        -104.625549,
+                        48.151886
+                    ],
+                    [
+                        -104.614563,
+                        48.168373
+                    ],
+                    [
+                        -104.613487,
+                        48.146271
+                    ],
+                    [
+                        -104.615089,
+                        48.146614
+                    ]
+                ]
+            ]
+        ]
+    }
+}

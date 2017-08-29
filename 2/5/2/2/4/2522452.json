@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2522452,
+    "properties": {
+        "woe_id": 2522452,
+        "place_id": "4cYedRebBJ6trTW6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wiseburg, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234752487,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3478\/shapefiles\/2522452_20090216_9e3b72ce48.tar.gz"
+        },
+        "bbox": [
+            -76.65478515625,
+            39.607406616211,
+            -76.646072387695,
+            39.619026184082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.64994,
+                        39.611671
+                    ],
+                    [
+                        -76.654785,
+                        39.619026
+                    ],
+                    [
+                        -76.646072,
+                        39.612854
+                    ],
+                    [
+                        -76.646118,
+                        39.607407
+                    ],
+                    [
+                        -76.64994,
+                        39.611671
+                    ]
+                ]
+            ]
+        ]
+    }
+}

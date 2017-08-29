@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28339240,
+    "properties": {
+        "woe_id": 28339240,
+        "place_id": "nL.VrmWbCZ8z8ilYdw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Burke City, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526257,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28339240_20101216_beb2ac66a5.tar.gz"
+        },
+        "bbox": [
+            -90.30778503418,
+            38.745246887207,
+            -90.292404174805,
+            38.756443023682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.297684,
+                        38.756443
+                    ],
+                    [
+                        -90.292404,
+                        38.749454
+                    ],
+                    [
+                        -90.305298,
+                        38.745247
+                    ],
+                    [
+                        -90.307785,
+                        38.753922
+                    ],
+                    [
+                        -90.302185,
+                        38.754642
+                    ],
+                    [
+                        -90.297684,
+                        38.756443
+                    ]
+                ]
+            ]
+        ]
+    }
+}

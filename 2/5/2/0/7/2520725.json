@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2520725,
+    "properties": {
+        "woe_id": 2520725,
+        "place_id": "koSajdmbBJ5Ri2p3",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Williams, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528381,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2520725_20101216_ee00712695.tar.gz"
+        },
+        "bbox": [
+            -74.134536743164,
+            40.085468292236,
+            -74.118980407715,
+            40.105960845947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.129005,
+                        40.105961
+                    ],
+                    [
+                        -74.129555,
+                        40.104168
+                    ],
+                    [
+                        -74.11898,
+                        40.085468
+                    ],
+                    [
+                        -74.134537,
+                        40.101364
+                    ],
+                    [
+                        -74.129005,
+                        40.105961
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20115452,
+    "properties": {
+        "woe_id": 20115452,
+        "place_id": "Qo8s9YWbAZ2QEry7Dg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Capo Mele, Liguria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445567,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/20115452_20101215_5acfed5994.tar.gz"
+        },
+        "bbox": [
+            8.1640863418579,
+            43.958347320557,
+            8.1721105575562,
+            43.961940765381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.164086,
+                        43.961159
+                    ],
+                    [
+                        8.164772,
+                        43.961941
+                    ],
+                    [
+                        8.168463,
+                        43.961777
+                    ],
+                    [
+                        8.172111,
+                        43.959816
+                    ],
+                    [
+                        8.167133,
+                        43.958347
+                    ],
+                    [
+                        8.164086,
+                        43.961159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

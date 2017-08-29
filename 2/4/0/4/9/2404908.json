@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2404908,
+    "properties": {
+        "woe_id": 2404908,
+        "place_id": "5lEq946bBZxRhlwu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forbestown, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448368,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2404908_20101215_78a86812ff.tar.gz"
+        },
+        "bbox": [
+            -121.27979278564,
+            39.515827178955,
+            -121.27393341064,
+            39.521556854248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.274452,
+                        39.516022
+                    ],
+                    [
+                        -121.279793,
+                        39.521557
+                    ],
+                    [
+                        -121.277214,
+                        39.520794
+                    ],
+                    [
+                        -121.273933,
+                        39.515827
+                    ],
+                    [
+                        -121.274452,
+                        39.516022
+                    ]
+                ]
+            ]
+        ]
+    }
+}

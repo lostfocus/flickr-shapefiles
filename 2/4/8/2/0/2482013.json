@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2482013,
+    "properties": {
+        "woe_id": 2482013,
+        "place_id": "DGV1SfmbBZQeOjZi",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Riverdale, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469844,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2482013_20101216_6c5e54f354.tar.gz"
+        },
+        "bbox": [
+            -76.540458679199,
+            39.096546173096,
+            -76.532646179199,
+            39.109798431396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.532822,
+                        39.096546
+                    ],
+                    [
+                        -76.533424,
+                        39.096764
+                    ],
+                    [
+                        -76.540459,
+                        39.102856
+                    ],
+                    [
+                        -76.537888,
+                        39.109798
+                    ],
+                    [
+                        -76.533936,
+                        39.101391
+                    ],
+                    [
+                        -76.532646,
+                        39.096844
+                    ],
+                    [
+                        -76.532822,
+                        39.096546
+                    ]
+                ]
+            ]
+        ]
+    }
+}

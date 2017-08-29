@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2410511,
+    "properties": {
+        "woe_id": 2410511,
+        "place_id": "o8iWgTWbBZ0Y8ibw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gladding Corner, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544005,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2410511_20101217_d883a78d46.tar.gz"
+        },
+        "bbox": [
+            -77.469398498535,
+            42.815361022949,
+            -77.454528808594,
+            42.819641113281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.465965,
+                        42.819641
+                    ],
+                    [
+                        -77.454529,
+                        42.815361
+                    ],
+                    [
+                        -77.465691,
+                        42.817921
+                    ],
+                    [
+                        -77.469398,
+                        42.819061
+                    ],
+                    [
+                        -77.465965,
+                        42.819641
+                    ]
+                ]
+            ]
+        ]
+    }
+}

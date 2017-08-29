@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2419382,
+    "properties": {
+        "woe_id": 2419382,
+        "place_id": "fvyJxU2bBZ1w86UY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hearst, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248082924,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2617\/shapefiles\/2419382_20090720_c0604f5947.tar.gz"
+        },
+        "bbox": [
+            -123.21669006348,
+            39.466522216797,
+            -123.19467163086,
+            39.476917266846
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.212624,
+                        39.469051
+                    ],
+                    [
+                        -123.21669,
+                        39.472908
+                    ],
+                    [
+                        -123.194672,
+                        39.476917
+                    ],
+                    [
+                        -123.200363,
+                        39.467449
+                    ],
+                    [
+                        -123.201385,
+                        39.466522
+                    ],
+                    [
+                        -123.212624,
+                        39.469051
+                    ]
+                ]
+            ]
+        ]
+    }
+}

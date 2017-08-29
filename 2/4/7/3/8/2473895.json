@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2473895,
+    "properties": {
+        "woe_id": 2473895,
+        "place_id": "wuAS.b.bBZuq5axP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pleasant Hill, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454546,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2473895_20101215_a02d2bc9f3.tar.gz"
+        },
+        "bbox": [
+            -95.882293701172,
+            29.641798019409,
+            -95.882133483887,
+            29.642158508301
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.882133,
+                        29.641832
+                    ],
+                    [
+                        -95.882141,
+                        29.641829
+                    ],
+                    [
+                        -95.882233,
+                        29.641798
+                    ],
+                    [
+                        -95.882294,
+                        29.641844
+                    ],
+                    [
+                        -95.882278,
+                        29.642159
+                    ],
+                    [
+                        -95.882133,
+                        29.641832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

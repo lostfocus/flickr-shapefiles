@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2443217,
+    "properties": {
+        "woe_id": 2443217,
+        "place_id": "IDHEqkmbBZh4MuaF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lux, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534353,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2443217_20101216_444f128940.tar.gz"
+        },
+        "bbox": [
+            -111.01006317139,
+            45.74377822876,
+            -110.99941253662,
+            45.747356414795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.010063,
+                        45.747356
+                    ],
+                    [
+                        -111.004059,
+                        45.745605
+                    ],
+                    [
+                        -110.999413,
+                        45.745415
+                    ],
+                    [
+                        -111.007317,
+                        45.743778
+                    ],
+                    [
+                        -111.010063,
+                        45.747356
+                    ]
+                ]
+            ]
+        ]
+    }
+}

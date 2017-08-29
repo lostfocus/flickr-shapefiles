@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2441102,
+    "properties": {
+        "woe_id": 2441102,
+        "place_id": "s5UYDHebBZh.Y6ne",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Logan, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248007089,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2447\/shapefiles\/2441102_20090719_6867c7cecc.tar.gz"
+        },
+        "bbox": [
+            -101.2209854126,
+            48.224159240723,
+            -101.19811248779,
+            48.237148284912
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.199852,
+                        48.237041
+                    ],
+                    [
+                        -101.198112,
+                        48.229244
+                    ],
+                    [
+                        -101.215492,
+                        48.224159
+                    ],
+                    [
+                        -101.220985,
+                        48.229191
+                    ],
+                    [
+                        -101.200691,
+                        48.237148
+                    ],
+                    [
+                        -101.199852,
+                        48.237041
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24544418,
+    "properties": {
+        "woe_id": 24544418,
+        "place_id": "PbXeiZ2bBZm6V9aVKA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zaros, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234877647,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3653\/shapefiles\/24544418_20090217_5ef24f3c4a.tar.gz"
+        },
+        "bbox": [
+            24.893087387085,
+            35.131141662598,
+            24.899654388428,
+            35.135562896729
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        24.898453,
+                        35.135071
+                    ],
+                    [
+                        24.899654,
+                        35.131142
+                    ],
+                    [
+                        24.895576,
+                        35.133774
+                    ],
+                    [
+                        24.893087,
+                        35.135563
+                    ],
+                    [
+                        24.898453,
+                        35.135071
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2373513,
+    "properties": {
+        "woe_id": 2373513,
+        "place_id": "wkXNoMObAps8oSlP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Camas Valley, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477108,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2373513_20101216_9a0c816ae2.tar.gz"
+        },
+        "bbox": [
+            -123.66598510742,
+            43.044326782227,
+            -123.65086364746,
+            43.056587219238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.665916,
+                        43.056587
+                    ],
+                    [
+                        -123.650864,
+                        43.048786
+                    ],
+                    [
+                        -123.658142,
+                        43.044453
+                    ],
+                    [
+                        -123.659462,
+                        43.044327
+                    ],
+                    [
+                        -123.665985,
+                        43.056503
+                    ],
+                    [
+                        -123.665916,
+                        43.056587
+                    ]
+                ]
+            ]
+        ]
+    }
+}

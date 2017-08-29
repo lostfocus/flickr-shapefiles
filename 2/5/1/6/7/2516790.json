@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2516790,
+    "properties": {
+        "woe_id": 2516790,
+        "place_id": "tIsQlxmbBJ1qjSu0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Carteret, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448725,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2516790_20101215_115db5b8d9.tar.gz"
+        },
+        "bbox": [
+            -74.262168884277,
+            40.595771789551,
+            -74.251754760742,
+            40.611175537109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.262169,
+                        40.605499
+                    ],
+                    [
+                        -74.261658,
+                        40.606892
+                    ],
+                    [
+                        -74.257576,
+                        40.611176
+                    ],
+                    [
+                        -74.256958,
+                        40.605293
+                    ],
+                    [
+                        -74.251755,
+                        40.595772
+                    ],
+                    [
+                        -74.262169,
+                        40.605499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

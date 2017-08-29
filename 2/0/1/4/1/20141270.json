@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20141270,
+    "properties": {
+        "woe_id": 20141270,
+        "place_id": "We7rU0KbAZ2U9nwufg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Giorgio di Valpolicella, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538240,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/20141270_20101216_d494546754.tar.gz"
+        },
+        "bbox": [
+            10.837154388428,
+            45.525291442871,
+            10.849770545959,
+            45.540504455566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.847711,
+                        45.536926
+                    ],
+                    [
+                        10.847969,
+                        45.538338
+                    ],
+                    [
+                        10.848999,
+                        45.540504
+                    ],
+                    [
+                        10.849771,
+                        45.538277
+                    ],
+                    [
+                        10.849556,
+                        45.535858
+                    ],
+                    [
+                        10.837154,
+                        45.525291
+                    ],
+                    [
+                        10.847711,
+                        45.536926
+                    ]
+                ]
+            ]
+        ]
+    }
+}

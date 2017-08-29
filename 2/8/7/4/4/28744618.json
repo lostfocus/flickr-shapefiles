@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28744618,
+    "properties": {
+        "woe_id": 28744618,
+        "place_id": "eJxLZ.ibCZvvWbLFRw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wayne, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544419,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/28744618_20101217_d1db519a66.tar.gz"
+        },
+        "bbox": [
+            -80.339881896973,
+            40.886974334717,
+            -80.330680847168,
+            40.891544342041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.338654,
+                        40.886974
+                    ],
+                    [
+                        -80.339882,
+                        40.891544
+                    ],
+                    [
+                        -80.330681,
+                        40.888115
+                    ],
+                    [
+                        -80.334007,
+                        40.887318
+                    ],
+                    [
+                        -80.338654,
+                        40.886974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

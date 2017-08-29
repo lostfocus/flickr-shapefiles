@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28644677,
+    "properties": {
+        "woe_id": 28644677,
+        "place_id": "6wDPAjibCZqSlVt3iQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Waikawau, Waikato, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538134,
+        "alpha": 0.00029296875,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/28644677_20101216_1d8397e7ef.tar.gz"
+        },
+        "bbox": [
+            175.45715332031,
+            -36.94934463501,
+            175.48187255859,
+            -36.926155090332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        175.470886,
+                        -36.934525
+                    ],
+                    [
+                        175.481873,
+                        -36.949345
+                    ],
+                    [
+                        175.479813,
+                        -36.949345
+                    ],
+                    [
+                        175.470291,
+                        -36.939465
+                    ],
+                    [
+                        175.457153,
+                        -36.926155
+                    ],
+                    [
+                        175.470886,
+                        -36.934525
+                    ]
+                ]
+            ]
+        ]
+    }
+}

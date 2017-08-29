@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20227253,
+    "properties": {
+        "woe_id": 20227253,
+        "place_id": "sB1FJJqbAZ4FHSGF6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Biedes, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452310,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/20227253_20101215_9db8c5e07d.tar.gz"
+        },
+        "bbox": [
+            -5.359354019165,
+            43.355327606201,
+            -5.3463931083679,
+            43.368682861328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.346393,
+                        43.362942
+                    ],
+                    [
+                        -5.346393,
+                        43.362442
+                    ],
+                    [
+                        -5.348796,
+                        43.355579
+                    ],
+                    [
+                        -5.359354,
+                        43.355328
+                    ],
+                    [
+                        -5.353603,
+                        43.368683
+                    ],
+                    [
+                        -5.346393,
+                        43.362942
+                    ]
+                ]
+            ]
+        ]
+    }
+}

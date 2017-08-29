@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20210406,
+    "properties": {
+        "woe_id": 20210406,
+        "place_id": "vPK.wHebAZ5yIejFng",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Mollard, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520190,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/20210406_20101216_db2468d158.tar.gz"
+        },
+        "bbox": [
+            6.3343901634216,
+            45.20503616333,
+            6.3418998718262,
+            45.210582733154
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.33439,
+                        45.207317
+                    ],
+                    [
+                        6.334648,
+                        45.210583
+                    ],
+                    [
+                        6.337055,
+                        45.210464
+                    ],
+                    [
+                        6.3419,
+                        45.205036
+                    ],
+                    [
+                        6.335678,
+                        45.206322
+                    ],
+                    [
+                        6.335163,
+                        45.206593
+                    ],
+                    [
+                        6.33439,
+                        45.207317
+                    ]
+                ]
+            ]
+        ]
+    }
+}

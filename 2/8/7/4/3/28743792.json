@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 28743792,
+    "properties": {
+        "woe_id": 28743792,
+        "place_id": "A4V7L0KbCZukXvjZWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stanton, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234758844,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3499\/shapefiles\/28743792_20090216_fddf1fcb9b.tar.gz"
+        },
+        "bbox": [
+            -88.646705627441,
+            47.137367248535,
+            -88.628425598145,
+            47.171684265137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.632713,
+                        47.165501
+                    ],
+                    [
+                        -88.628426,
+                        47.15984
+                    ],
+                    [
+                        -88.629112,
+                        47.137367
+                    ],
+                    [
+                        -88.637352,
+                        47.160072
+                    ],
+                    [
+                        -88.637695,
+                        47.160366
+                    ],
+                    [
+                        -88.646706,
+                        47.169018
+                    ],
+                    [
+                        -88.645073,
+                        47.171684
+                    ],
+                    [
+                        -88.632713,
+                        47.165501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

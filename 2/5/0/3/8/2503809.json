@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2503809,
+    "properties": {
+        "woe_id": 2503809,
+        "place_id": "NGZpCtubBJySwJQr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Talus, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527183,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2503809_20101216_3d74648ce4.tar.gz"
+        },
+        "bbox": [
+            -117.96258544922,
+            36.072898864746,
+            -117.95625305176,
+            36.089893341064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.962585,
+                        36.087727
+                    ],
+                    [
+                        -117.961578,
+                        36.089893
+                    ],
+                    [
+                        -117.956429,
+                        36.088089
+                    ],
+                    [
+                        -117.956253,
+                        36.072899
+                    ],
+                    [
+                        -117.960716,
+                        36.083717
+                    ],
+                    [
+                        -117.962585,
+                        36.087727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

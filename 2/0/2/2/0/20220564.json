@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220564,
+    "properties": {
+        "woe_id": 20220564,
+        "place_id": "B1Ac1yebAZ6OF4yQ.A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Anue, Navarre, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520186,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/20220564_20101216_ecc8e7c5f9.tar.gz"
+        },
+        "bbox": [
+            -1.622200012207,
+            42.944358825684,
+            -1.6140459775925,
+            42.961696624756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.614046,
+                        42.958935
+                    ],
+                    [
+                        -1.614131,
+                        42.953751
+                    ],
+                    [
+                        -1.6222,
+                        42.944359
+                    ],
+                    [
+                        -1.621706,
+                        42.951012
+                    ],
+                    [
+                        -1.616363,
+                        42.961697
+                    ],
+                    [
+                        -1.614046,
+                        42.958935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

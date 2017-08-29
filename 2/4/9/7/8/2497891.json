@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2497891,
+    "properties": {
+        "woe_id": 2497891,
+        "place_id": "HOfTOWSbBZV8lM5I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spring Grove, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234822806,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3499\/shapefiles\/2497891_20090216_594b933f94.tar.gz"
+        },
+        "bbox": [
+            -79.869148254395,
+            37.281734466553,
+            -79.859275817871,
+            37.283920288086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.867432,
+                        37.281734
+                    ],
+                    [
+                        -79.869148,
+                        37.283451
+                    ],
+                    [
+                        -79.866486,
+                        37.282997
+                    ],
+                    [
+                        -79.859276,
+                        37.28392
+                    ],
+                    [
+                        -79.867432,
+                        37.281734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20225910,
+    "properties": {
+        "woe_id": 20225910,
+        "place_id": "PVd1ac.bAZ4LffbdOQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sant Andreu de la Vola, Catalonia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234640521,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3455\/shapefiles\/20225910_20090214_b50bf4518c.tar.gz"
+        },
+        "bbox": [
+            2.3878951072693,
+            42.063629150391,
+            2.4030010700226,
+            42.078498840332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.395191,
+                        42.065159
+                    ],
+                    [
+                        2.393989,
+                        42.063629
+                    ],
+                    [
+                        2.3915,
+                        42.065289
+                    ],
+                    [
+                        2.387895,
+                        42.078499
+                    ],
+                    [
+                        2.402229,
+                        42.078445
+                    ],
+                    [
+                        2.403001,
+                        42.078285
+                    ],
+                    [
+                        2.395191,
+                        42.065159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

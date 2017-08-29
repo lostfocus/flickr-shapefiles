@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20100126,
+    "properties": {
+        "woe_id": 20100126,
+        "place_id": "0uLhBUKbAZ2w_ej7oA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "H\u00f8ysand, Ostfold, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449169,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/20100126_20101215_18351b84ea.tar.gz"
+        },
+        "bbox": [
+            11.176817893982,
+            59.184215545654,
+            11.201375961304,
+            59.192989349365
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.186828,
+                        59.192459
+                    ],
+                    [
+                        11.193695,
+                        59.192989
+                    ],
+                    [
+                        11.201376,
+                        59.184216
+                    ],
+                    [
+                        11.187601,
+                        59.184734
+                    ],
+                    [
+                        11.176818,
+                        59.187874
+                    ],
+                    [
+                        11.186828,
+                        59.192459
+                    ]
+                ]
+            ]
+        ]
+    }
+}

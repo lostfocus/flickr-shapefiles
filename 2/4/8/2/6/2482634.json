@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2482634,
+    "properties": {
+        "woe_id": 2482634,
+        "place_id": "KjFHaEGbBZQVYxoI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Robbins, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234678444,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3005\/shapefiles\/2482634_20090215_6b525e93b8.tar.gz"
+        },
+        "bbox": [
+            -79.785369873047,
+            40.289112091064,
+            -79.778518676758,
+            40.303211212158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.78537,
+                        40.301319
+                    ],
+                    [
+                        -79.783638,
+                        40.301964
+                    ],
+                    [
+                        -79.780998,
+                        40.303211
+                    ],
+                    [
+                        -79.778519,
+                        40.289112
+                    ],
+                    [
+                        -79.78537,
+                        40.301319
+                    ]
+                ]
+            ]
+        ]
+    }
+}

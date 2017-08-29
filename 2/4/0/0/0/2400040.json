@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400040,
+    "properties": {
+        "woe_id": 2400040,
+        "place_id": "xoG6F2ybBZyVswic",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Erie, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549753,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2400040_20101217_0a8fdd2501.tar.gz"
+        },
+        "bbox": [
+            -82.491165161133,
+            27.561698913574,
+            -82.480339050293,
+            27.591884613037
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.480339,
+                        27.561699
+                    ],
+                    [
+                        -82.485992,
+                        27.574785
+                    ],
+                    [
+                        -82.491165,
+                        27.591885
+                    ],
+                    [
+                        -82.480499,
+                        27.577257
+                    ],
+                    [
+                        -82.480339,
+                        27.561699
+                    ]
+                ]
+            ]
+        ]
+    }
+}

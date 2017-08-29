@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2385462,
+    "properties": {
+        "woe_id": 2385462,
+        "place_id": "MKM6I76bApRU8WXK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cota, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485686,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2385462_20101216_3a30b5027d.tar.gz"
+        },
+        "bbox": [
+            -118.20893859863,
+            33.831600189209,
+            -118.19718170166,
+            33.84204864502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.206024,
+                        33.83342
+                    ],
+                    [
+                        -118.208939,
+                        33.83556
+                    ],
+                    [
+                        -118.207565,
+                        33.838768
+                    ],
+                    [
+                        -118.197182,
+                        33.842049
+                    ],
+                    [
+                        -118.203407,
+                        33.8316
+                    ],
+                    [
+                        -118.206024,
+                        33.83342
+                    ]
+                ]
+            ]
+        ]
+    }
+}

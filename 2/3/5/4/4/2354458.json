@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2354458,
+    "properties": {
+        "woe_id": 2354458,
+        "place_id": "aeNQ_ASbApkojbVF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Anandale, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500148,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2354458_20101216_521d6230c7.tar.gz"
+        },
+        "bbox": [
+            -92.48055267334,
+            31.254722595215,
+            -92.456344604492,
+            31.265989303589
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.463112,
+                        31.265989
+                    ],
+                    [
+                        -92.456345,
+                        31.264633
+                    ],
+                    [
+                        -92.468681,
+                        31.259439
+                    ],
+                    [
+                        -92.480553,
+                        31.254723
+                    ],
+                    [
+                        -92.475357,
+                        31.263218
+                    ],
+                    [
+                        -92.463112,
+                        31.265989
+                    ]
+                ]
+            ]
+        ]
+    }
+}

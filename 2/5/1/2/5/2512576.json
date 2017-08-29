@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2512576,
+    "properties": {
+        "woe_id": 2512576,
+        "place_id": "8AvjEx6bBJ1wuVa4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Viola, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525815,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2512576_20101216_9e64413f7a.tar.gz"
+        },
+        "bbox": [
+            -90.675132751465,
+            43.506000518799,
+            -90.667335510254,
+            43.521915435791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.668335,
+                        43.507168
+                    ],
+                    [
+                        -90.668228,
+                        43.506001
+                    ],
+                    [
+                        -90.669991,
+                        43.506386
+                    ],
+                    [
+                        -90.675133,
+                        43.507038
+                    ],
+                    [
+                        -90.667336,
+                        43.521915
+                    ],
+                    [
+                        -90.668335,
+                        43.507168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

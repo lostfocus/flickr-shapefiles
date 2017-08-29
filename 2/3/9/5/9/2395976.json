@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2395976,
+    "properties": {
+        "woe_id": 2395976,
+        "place_id": "kWUZ0bubApULswyk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "East Orange, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234635490,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3473\/shapefiles\/2395976_20090214_7a3ca29764.tar.gz"
+        },
+        "bbox": [
+            -72.340873718262,
+            44.091506958008,
+            -72.323684692383,
+            44.107032775879
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.328278,
+                        44.107033
+                    ],
+                    [
+                        -72.323685,
+                        44.09301
+                    ],
+                    [
+                        -72.337845,
+                        44.091507
+                    ],
+                    [
+                        -72.340874,
+                        44.09523
+                    ],
+                    [
+                        -72.328278,
+                        44.107033
+                    ]
+                ]
+            ]
+        ]
+    }
+}

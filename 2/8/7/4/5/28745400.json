@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28745400,
+    "properties": {
+        "woe_id": 28745400,
+        "place_id": "M4bwmKabCZskImv9eg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Berlin, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503322,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/28745400_20101216_6624f87354.tar.gz"
+        },
+        "bbox": [
+            -75.166679382324,
+            41.59952545166,
+            -75.148712158203,
+            41.612457275391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.166656,
+                        41.602821
+                    ],
+                    [
+                        -75.166679,
+                        41.604546
+                    ],
+                    [
+                        -75.166359,
+                        41.604488
+                    ],
+                    [
+                        -75.148712,
+                        41.612457
+                    ],
+                    [
+                        -75.156441,
+                        41.599525
+                    ],
+                    [
+                        -75.16658,
+                        41.602669
+                    ],
+                    [
+                        -75.166656,
+                        41.602821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

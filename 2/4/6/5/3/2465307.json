@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2465307,
+    "properties": {
+        "woe_id": 2465307,
+        "place_id": "A4JSbs6bBZpveJZC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Olive, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477947,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2465307_20101216_4de294aae6.tar.gz"
+        },
+        "bbox": [
+            -77.440567016602,
+            38.219703674316,
+            -77.438850402832,
+            38.22159576416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.440567,
+                        38.221188
+                    ],
+                    [
+                        -77.440567,
+                        38.221458
+                    ],
+                    [
+                        -77.439537,
+                        38.221596
+                    ],
+                    [
+                        -77.43885,
+                        38.220379
+                    ],
+                    [
+                        -77.439194,
+                        38.219704
+                    ],
+                    [
+                        -77.440567,
+                        38.221188
+                    ]
+                ]
+            ]
+        ]
+    }
+}

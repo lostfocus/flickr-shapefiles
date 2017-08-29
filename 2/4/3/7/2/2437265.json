@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2437265,
+    "properties": {
+        "woe_id": 2437265,
+        "place_id": "xZ3f_7ebBZ8Zr1Ae",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lawrence, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534645,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2437265_20101216_745545be04.tar.gz"
+        },
+        "bbox": [
+            -89.574363708496,
+            43.876010894775,
+            -89.566551208496,
+            43.895122528076
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.574364,
+                        43.876011
+                    ],
+                    [
+                        -89.572029,
+                        43.895123
+                    ],
+                    [
+                        -89.568443,
+                        43.891415
+                    ],
+                    [
+                        -89.566551,
+                        43.890099
+                    ],
+                    [
+                        -89.574364,
+                        43.876011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

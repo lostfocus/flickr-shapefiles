@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28340670,
+    "properties": {
+        "woe_id": 28340670,
+        "place_id": "gpUpA1GbCZ_k2no8IA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sylvan, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234891228,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3497\/shapefiles\/28340670_20090217_85684091bb.tar.gz"
+        },
+        "bbox": [
+            -122.64106750488,
+            47.241550445557,
+            -122.62699127197,
+            47.254241943359
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.631111,
+                        47.254242
+                    ],
+                    [
+                        -122.626991,
+                        47.250805
+                    ],
+                    [
+                        -122.632919,
+                        47.24155
+                    ],
+                    [
+                        -122.641068,
+                        47.249172
+                    ],
+                    [
+                        -122.631111,
+                        47.254242
+                    ]
+                ]
+            ]
+        ]
+    }
+}

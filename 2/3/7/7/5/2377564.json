@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2377564,
+    "properties": {
+        "woe_id": 2377564,
+        "place_id": "1JpS8zSbApsM9RLD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Central City, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500270,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/2377564_20101216_527f173b62.tar.gz"
+        },
+        "bbox": [
+            -94.619323730469,
+            37.072162628174,
+            -94.590042114258,
+            37.08650970459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.614769,
+                        37.08651
+                    ],
+                    [
+                        -94.606277,
+                        37.085873
+                    ],
+                    [
+                        -94.590042,
+                        37.085175
+                    ],
+                    [
+                        -94.604301,
+                        37.072163
+                    ],
+                    [
+                        -94.617859,
+                        37.078804
+                    ],
+                    [
+                        -94.619324,
+                        37.086269
+                    ],
+                    [
+                        -94.614769,
+                        37.08651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

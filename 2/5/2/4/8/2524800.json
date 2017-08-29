@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2524800,
+    "properties": {
+        "woe_id": 2524800,
+        "place_id": "kJZNgOybBJ70zMQR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Yolano, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494444,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2524800_20101216_fe5bb19ab0.tar.gz"
+        },
+        "bbox": [
+            -121.67693328857,
+            38.431510925293,
+            -121.67375946045,
+            38.451404571533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.673759,
+                        38.431587
+                    ],
+                    [
+                        -121.673805,
+                        38.431511
+                    ],
+                    [
+                        -121.674072,
+                        38.431519
+                    ],
+                    [
+                        -121.674217,
+                        38.431595
+                    ],
+                    [
+                        -121.676933,
+                        38.451405
+                    ],
+                    [
+                        -121.673759,
+                        38.431587
+                    ]
+                ]
+            ]
+        ]
+    }
+}

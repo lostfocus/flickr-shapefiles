@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 26809133,
+    "properties": {
+        "woe_id": 26809133,
+        "place_id": "sfkPwDabB5Szsqt_vQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Quesada, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248247573,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2465\/shapefiles\/26809133_20090722_4dba993751.tar.gz"
+        },
+        "bbox": [
+            -84.434394836426,
+            10.325221061707,
+            -84.432159423828,
+            10.334508895874
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.433022,
+                        10.329105
+                    ],
+                    [
+                        -84.434395,
+                        10.334509
+                    ],
+                    [
+                        -84.432503,
+                        10.329105
+                    ],
+                    [
+                        -84.432159,
+                        10.325221
+                    ],
+                    [
+                        -84.433022,
+                        10.329105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

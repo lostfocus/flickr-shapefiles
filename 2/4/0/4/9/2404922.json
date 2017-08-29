@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2404922,
+    "properties": {
+        "woe_id": 2404922,
+        "place_id": "2qjsMs6bBZzAT3_u",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ford, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451700,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2404922_20101215_ae7b8c67aa.tar.gz"
+        },
+        "bbox": [
+            -114.3609085083,
+            48.817691802979,
+            -114.35454559326,
+            48.839435577393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.354546,
+                        48.836948
+                    ],
+                    [
+                        -114.359299,
+                        48.817692
+                    ],
+                    [
+                        -114.359451,
+                        48.817795
+                    ],
+                    [
+                        -114.360909,
+                        48.835205
+                    ],
+                    [
+                        -114.355522,
+                        48.839436
+                    ],
+                    [
+                        -114.354546,
+                        48.836948
+                    ]
+                ]
+            ]
+        ]
+    }
+}

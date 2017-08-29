@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20103230,
+    "properties": {
+        "woe_id": 20103230,
+        "place_id": "iF85ZpebAZ3ZuExWLQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Muraz, Canton of Valais, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536221,
+        "alpha": 0.00015,
+        "points": 30,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/20103230_20101216_18da790a64.tar.gz"
+        },
+        "bbox": [
+            7.5242609977722,
+            46.291828155518,
+            7.5343680381775,
+            46.301349639893
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.52645,
+                        46.292614
+                    ],
+                    [
+                        7.524261,
+                        46.298798
+                    ],
+                    [
+                        7.530601,
+                        46.30135
+                    ],
+                    [
+                        7.534368,
+                        46.296818
+                    ],
+                    [
+                        7.532308,
+                        46.291828
+                    ],
+                    [
+                        7.52645,
+                        46.292614
+                    ]
+                ]
+            ]
+        ]
+    }
+}

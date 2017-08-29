@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2441810,
+    "properties": {
+        "woe_id": 2441810,
+        "place_id": "S8LrlyObBZh7yuXT",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Longwood, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548759,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2441810_20101217_a4fa45741e.tar.gz"
+        },
+        "bbox": [
+            -77.880020141602,
+            39.115142822266,
+            -77.870597839355,
+            39.13077545166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.870644,
+                        39.117825
+                    ],
+                    [
+                        -77.870621,
+                        39.117817
+                    ],
+                    [
+                        -77.870598,
+                        39.117809
+                    ],
+                    [
+                        -77.876244,
+                        39.115143
+                    ],
+                    [
+                        -77.88002,
+                        39.130775
+                    ],
+                    [
+                        -77.870644,
+                        39.117825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

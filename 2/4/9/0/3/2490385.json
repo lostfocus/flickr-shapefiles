@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2490385,
+    "properties": {
+        "woe_id": 2490385,
+        "place_id": "2EbKUSKbBZWGq04i",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Seattle Bar, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536669,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2490385_20101216_9d8864047f.tar.gz"
+        },
+        "bbox": [
+            -123.16394805908,
+            41.998874664307,
+            -123.14656829834,
+            42.028087615967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.154732,
+                        42.008991
+                    ],
+                    [
+                        -123.163948,
+                        42.021881
+                    ],
+                    [
+                        -123.148888,
+                        42.028088
+                    ],
+                    [
+                        -123.146568,
+                        42.006542
+                    ],
+                    [
+                        -123.160629,
+                        41.998875
+                    ],
+                    [
+                        -123.154732,
+                        42.008991
+                    ]
+                ]
+            ]
+        ]
+    }
+}

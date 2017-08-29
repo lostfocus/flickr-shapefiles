@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22656789,
+    "properties": {
+        "woe_id": 22656789,
+        "place_id": "onsb1t.bA5qdBQe0AA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "V\u0161e\u0148, Libereck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457383,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/22656789_20101215_c45e0a32af.tar.gz"
+        },
+        "bbox": [
+            15.097532272339,
+            50.559421539307,
+            15.1058177948,
+            50.56224822998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.105747,
+                        50.559753
+                    ],
+                    [
+                        15.105335,
+                        50.559422
+                    ],
+                    [
+                        15.097532,
+                        50.562248
+                    ],
+                    [
+                        15.104312,
+                        50.560833
+                    ],
+                    [
+                        15.105818,
+                        50.559994
+                    ],
+                    [
+                        15.105747,
+                        50.559753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

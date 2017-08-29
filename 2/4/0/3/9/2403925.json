@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2403925,
+    "properties": {
+        "woe_id": 2403925,
+        "place_id": "CWP28OqbBZxNZAff",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Five Points, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234945460,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3396\/shapefiles\/2403925_20090218_a17d7c9110.tar.gz"
+        },
+        "bbox": [
+            -79.362167358398,
+            35.009078979492,
+            -79.358222961426,
+            35.010040283203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.36158,
+                        35.009079
+                    ],
+                    [
+                        -79.362167,
+                        35.009834
+                    ],
+                    [
+                        -79.360123,
+                        35.01004
+                    ],
+                    [
+                        -79.358223,
+                        35.009586
+                    ],
+                    [
+                        -79.36158,
+                        35.009079
+                    ]
+                ]
+            ]
+        ]
+    }
+}

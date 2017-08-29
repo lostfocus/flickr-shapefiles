@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402422,
+    "properties": {
+        "woe_id": 2402422,
+        "place_id": "ONempMWbBZxFB_qo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Farmingdale, South Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444681,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2402422_20101215_b9166fe0d2.tar.gz"
+        },
+        "bbox": [
+            -102.9065322876,
+            43.957126617432,
+            -102.89687347412,
+            43.976852416992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.906532,
+                        43.975769
+                    ],
+                    [
+                        -102.905739,
+                        43.976852
+                    ],
+                    [
+                        -102.898376,
+                        43.971691
+                    ],
+                    [
+                        -102.896873,
+                        43.957127
+                    ],
+                    [
+                        -102.903786,
+                        43.973423
+                    ],
+                    [
+                        -102.906532,
+                        43.975769
+                    ]
+                ]
+            ]
+        ]
+    }
+}

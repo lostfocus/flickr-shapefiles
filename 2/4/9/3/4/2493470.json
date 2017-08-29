@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2493470,
+    "properties": {
+        "woe_id": 2493470,
+        "place_id": "AcjGwB2bBZXobeyU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Signal Hill, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486464,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2493470_20101216_ca093cc0fe.tar.gz"
+        },
+        "bbox": [
+            -90.09977722168,
+            38.59688949585,
+            -90.085624694824,
+            38.604259490967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.092979,
+                        38.604259
+                    ],
+                    [
+                        -90.085625,
+                        38.602154
+                    ],
+                    [
+                        -90.088478,
+                        38.596889
+                    ],
+                    [
+                        -90.099777,
+                        38.597153
+                    ],
+                    [
+                        -90.092979,
+                        38.604259
+                    ]
+                ]
+            ]
+        ]
+    }
+}

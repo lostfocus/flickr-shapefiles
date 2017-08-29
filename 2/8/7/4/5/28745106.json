@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745106,
+    "properties": {
+        "woe_id": 28745106,
+        "place_id": "M5Pdt_mbCZud6uNMpg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shawtown, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523864,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28745106_20101216_73ff6f2890.tar.gz"
+        },
+        "bbox": [
+            -69.329566955566,
+            45.671764373779,
+            -69.318580627441,
+            45.675243377686
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.329567,
+                        45.675243
+                    ],
+                    [
+                        -69.326477,
+                        45.675243
+                    ],
+                    [
+                        -69.318581,
+                        45.675003
+                    ],
+                    [
+                        -69.325104,
+                        45.671764
+                    ],
+                    [
+                        -69.329567,
+                        45.675243
+                    ]
+                ]
+            ]
+        ]
+    }
+}

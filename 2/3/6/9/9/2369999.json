@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2369999,
+    "properties": {
+        "woe_id": 2369999,
+        "place_id": "Duerw2mbAprhsuiz",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brooklyn Park, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530649,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2369999_20101216_4ebf19387d.tar.gz"
+        },
+        "bbox": [
+            -93.328857421875,
+            45.110511779785,
+            -93.317893981934,
+            45.118114471436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.317894,
+                        45.113117
+                    ],
+                    [
+                        -93.325768,
+                        45.110512
+                    ],
+                    [
+                        -93.327034,
+                        45.112556
+                    ],
+                    [
+                        -93.328857,
+                        45.118114
+                    ],
+                    [
+                        -93.317894,
+                        45.113117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

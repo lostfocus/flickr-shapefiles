@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2373235,
+    "properties": {
+        "woe_id": 2373235,
+        "place_id": "gADt0OqbAps4mgNY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Calhoun, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292418122,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2373235_20101215_de785aa7cd.tar.gz"
+        },
+        "bbox": [
+            -88.068855285645,
+            38.650772094727,
+            -88.068489074707,
+            38.650844573975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.068855,
+                        38.650772
+                    ],
+                    [
+                        -88.06881,
+                        38.650795
+                    ],
+                    [
+                        -88.068512,
+                        38.650845
+                    ],
+                    [
+                        -88.068489,
+                        38.650795
+                    ],
+                    [
+                        -88.068703,
+                        38.650772
+                    ],
+                    [
+                        -88.068855,
+                        38.650772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435217,
+    "properties": {
+        "woe_id": 2435217,
+        "place_id": "x6cZAICbBZ.0Wi5K",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lake View, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547903,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2435217_20101217_fb91dd7ab7.tar.gz"
+        },
+        "bbox": [
+            -73.99974822998,
+            43.279235839844,
+            -73.982727050781,
+            43.295524597168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.986008,
+                        43.289608
+                    ],
+                    [
+                        -73.982727,
+                        43.279236
+                    ],
+                    [
+                        -73.985878,
+                        43.280952
+                    ],
+                    [
+                        -73.999748,
+                        43.295525
+                    ],
+                    [
+                        -73.991028,
+                        43.295135
+                    ],
+                    [
+                        -73.986008,
+                        43.289608
+                    ]
+                ]
+            ]
+        ]
+    }
+}

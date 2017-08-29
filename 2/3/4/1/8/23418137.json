@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23418137,
+    "properties": {
+        "woe_id": 23418137,
+        "place_id": "qqIibMabApjCDBOWgQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "South Toledo Bend, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536245,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/23418137_20101216_17dbd99b46.tar.gz"
+        },
+        "bbox": [
+            -93.571853637695,
+            31.162889480591,
+            -93.563575744629,
+            31.176458358765
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.56575,
+                        31.175871
+                    ],
+                    [
+                        -93.563576,
+                        31.171564
+                    ],
+                    [
+                        -93.571854,
+                        31.162889
+                    ],
+                    [
+                        -93.571297,
+                        31.171041
+                    ],
+                    [
+                        -93.567291,
+                        31.176458
+                    ],
+                    [
+                        -93.56575,
+                        31.175871
+                    ]
+                ]
+            ]
+        ]
+    }
+}

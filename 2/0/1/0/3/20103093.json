@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20103093,
+    "properties": {
+        "woe_id": 20103093,
+        "place_id": "JJp2qvSbAZ2c2wOyHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mittelalbis, Canton of Zurich, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234855323,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3547\/shapefiles\/20103093_20090217_bceda21576.tar.gz"
+        },
+        "bbox": [
+            8.5208520889282,
+            47.274719238281,
+            8.5293378829956,
+            47.277408599854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.529338,
+                        47.27623
+                    ],
+                    [
+                        8.520852,
+                        47.274719
+                    ],
+                    [
+                        8.521121,
+                        47.275822
+                    ],
+                    [
+                        8.521399,
+                        47.277409
+                    ],
+                    [
+                        8.529338,
+                        47.27623
+                    ]
+                ]
+            ]
+        ]
+    }
+}

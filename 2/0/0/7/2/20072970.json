@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20072970,
+    "properties": {
+        "woe_id": 20072970,
+        "place_id": "Rh0wrqGbAZywrdo7gg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fenagh, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539266,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20072970_20101216_3c669edab6.tar.gz"
+        },
+        "bbox": [
+            -7.7974638938904,
+            54.02823638916,
+            -7.7960982322693,
+            54.028411865234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.797042,
+                        54.028351
+                    ],
+                    [
+                        -7.797464,
+                        54.028408
+                    ],
+                    [
+                        -7.797189,
+                        54.028412
+                    ],
+                    [
+                        -7.796098,
+                        54.028236
+                    ],
+                    [
+                        -7.796498,
+                        54.028252
+                    ],
+                    [
+                        -7.797042,
+                        54.028351
+                    ]
+                ]
+            ]
+        ]
+    }
+}

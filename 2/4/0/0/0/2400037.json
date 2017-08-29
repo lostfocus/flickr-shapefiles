@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2400037,
+    "properties": {
+        "woe_id": 2400037,
+        "place_id": "s_t2hwabBZyCw5ru",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ericson, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526395,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2400037_20101216_39885e58af.tar.gz"
+        },
+        "bbox": [
+            -93.815155029297,
+            42.042057037354,
+            -93.798637390137,
+            42.052207946777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.805817,
+                        42.051331
+                    ],
+                    [
+                        -93.798637,
+                        42.050465
+                    ],
+                    [
+                        -93.798676,
+                        42.050362
+                    ],
+                    [
+                        -93.806679,
+                        42.042938
+                    ],
+                    [
+                        -93.81234,
+                        42.042057
+                    ],
+                    [
+                        -93.815155,
+                        42.052208
+                    ],
+                    [
+                        -93.805817,
+                        42.051331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

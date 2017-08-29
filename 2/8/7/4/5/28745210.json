@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745210,
+    "properties": {
+        "woe_id": 28745210,
+        "place_id": "oG5rE9qbCZuhgFXN.A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lower Pottsgrove, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440034,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/28745210_20101215_26cd019c2c.tar.gz"
+        },
+        "bbox": [
+            -75.622802734375,
+            40.25560760498,
+            -75.59814453125,
+            40.270687103271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.605721,
+                        40.270687
+                    ],
+                    [
+                        -75.601784,
+                        40.268841
+                    ],
+                    [
+                        -75.598145,
+                        40.255608
+                    ],
+                    [
+                        -75.621956,
+                        40.261021
+                    ],
+                    [
+                        -75.622803,
+                        40.265461
+                    ],
+                    [
+                        -75.605721,
+                        40.270687
+                    ]
+                ]
+            ]
+        ]
+    }
+}

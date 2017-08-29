@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2429029,
+    "properties": {
+        "woe_id": 2429029,
+        "place_id": "JFTFKYybBZ4ZtxTZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jenness, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234571042,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3320\/shapefiles\/2429029_20090214_30b3f88176.tar.gz"
+        },
+        "bbox": [
+            -116.62008666992,
+            43.838394165039,
+            -116.61150360107,
+            43.854381561279
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.618629,
+                        43.842449
+                    ],
+                    [
+                        -116.611504,
+                        43.854382
+                    ],
+                    [
+                        -116.616699,
+                        43.843178
+                    ],
+                    [
+                        -116.620087,
+                        43.838394
+                    ],
+                    [
+                        -116.618629,
+                        43.842449
+                    ]
+                ]
+            ]
+        ]
+    }
+}

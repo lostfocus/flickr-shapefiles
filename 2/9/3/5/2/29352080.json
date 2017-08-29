@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29352080,
+    "properties": {
+        "woe_id": 29352080,
+        "place_id": "lNAJu92bCJ.dn3bH8w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Altstadt, Mecklenburg-Vorpommern, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527312,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/29352080_20101216_a9811cee67.tar.gz"
+        },
+        "bbox": [
+            11.415308952332,
+            53.617153167725,
+            11.419934272766,
+            53.629165649414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.419934,
+                        53.624146
+                    ],
+                    [
+                        11.417155,
+                        53.617153
+                    ],
+                    [
+                        11.415438,
+                        53.617287
+                    ],
+                    [
+                        11.415309,
+                        53.627029
+                    ],
+                    [
+                        11.418914,
+                        53.629166
+                    ],
+                    [
+                        11.419934,
+                        53.624146
+                    ]
+                ]
+            ]
+        ]
+    }
+}

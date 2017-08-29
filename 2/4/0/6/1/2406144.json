@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2406144,
+    "properties": {
+        "woe_id": 2406144,
+        "place_id": "EPzFlEKbBZzuej6Z",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Foster, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234606804,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3400\/shapefiles\/2406144_20090214_969c2182e4.tar.gz"
+        },
+        "bbox": [
+            -92.767082214355,
+            40.927749633789,
+            -92.766754150391,
+            40.929077148438
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.767082,
+                        40.928394
+                    ],
+                    [
+                        -92.766769,
+                        40.929077
+                    ],
+                    [
+                        -92.766754,
+                        40.92775
+                    ],
+                    [
+                        -92.767052,
+                        40.927814
+                    ],
+                    [
+                        -92.767082,
+                        40.928394
+                    ]
+                ]
+            ]
+        ]
+    }
+}

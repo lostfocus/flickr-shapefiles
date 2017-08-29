@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23396591,
+    "properties": {
+        "woe_id": 23396591,
+        "place_id": "hCLzHM.bAp_El1yGWA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Omer, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542035,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/23396591_20101216_48871759d8.tar.gz"
+        },
+        "bbox": [
+            -66.281547546387,
+            48.082263946533,
+            -66.269187927246,
+            48.093845367432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.281548,
+                        48.082264
+                    ],
+                    [
+                        -66.280518,
+                        48.092987
+                    ],
+                    [
+                        -66.269188,
+                        48.093845
+                    ],
+                    [
+                        -66.277428,
+                        48.085533
+                    ],
+                    [
+                        -66.281548,
+                        48.082264
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2501743,
+    "properties": {
+        "woe_id": 2501743,
+        "place_id": "J0Q_r5ubBJzcJB2t",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Summit, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536725,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2501743_20101216_bc08ab2acb.tar.gz"
+        },
+        "bbox": [
+            -123.58056640625,
+            44.636741638184,
+            -123.5717010498,
+            44.645732879639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.578835,
+                        44.637245
+                    ],
+                    [
+                        -123.580566,
+                        44.637268
+                    ],
+                    [
+                        -123.580055,
+                        44.638611
+                    ],
+                    [
+                        -123.579048,
+                        44.645733
+                    ],
+                    [
+                        -123.571701,
+                        44.636742
+                    ],
+                    [
+                        -123.578835,
+                        44.637245
+                    ]
+                ]
+            ]
+        ]
+    }
+}

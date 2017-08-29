@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2425262,
+    "properties": {
+        "woe_id": 2425262,
+        "place_id": "o3ubpDObBZ7rZTV2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hudson, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456726,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2425262_20101215_de4c162f41.tar.gz"
+        },
+        "bbox": [
+            -75.83145904541,
+            41.273822784424,
+            -75.829849243164,
+            41.274143218994
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.829971,
+                        41.274136
+                    ],
+                    [
+                        -75.829865,
+                        41.274143
+                    ],
+                    [
+                        -75.829849,
+                        41.273991
+                    ],
+                    [
+                        -75.831459,
+                        41.273823
+                    ],
+                    [
+                        -75.829971,
+                        41.274136
+                    ]
+                ]
+            ]
+        ]
+    }
+}

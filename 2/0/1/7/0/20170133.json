@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20170133,
+    "properties": {
+        "woe_id": 20170133,
+        "place_id": "XnE4p3GbAZ1R9oRv7w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "M\u00fchlhoff, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445613,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/20170133_20101215_c7f7bf64c8.tar.gz"
+        },
+        "bbox": [
+            7.8106517791748,
+            51.189929962158,
+            7.8156108856201,
+            51.191570281982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.814111,
+                        51.191395
+                    ],
+                    [
+                        7.815611,
+                        51.19157
+                    ],
+                    [
+                        7.814025,
+                        51.190693
+                    ],
+                    [
+                        7.811705,
+                        51.190212
+                    ],
+                    [
+                        7.810652,
+                        51.18993
+                    ],
+                    [
+                        7.814111,
+                        51.191395
+                    ]
+                ]
+            ]
+        ]
+    }
+}

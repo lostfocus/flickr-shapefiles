@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2407675,
+    "properties": {
+        "woe_id": 2407675,
+        "place_id": "r1f6z8abBZwo59aT",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Friendship, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529986,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/2407675_20101216_5ee944fe68.tar.gz"
+        },
+        "bbox": [
+            -78.149826049805,
+            42.206253051758,
+            -78.134162902832,
+            42.215385437012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.139084,
+                        42.215385
+                    ],
+                    [
+                        -78.134163,
+                        42.207832
+                    ],
+                    [
+                        -78.135796,
+                        42.206253
+                    ],
+                    [
+                        -78.149826,
+                        42.207821
+                    ],
+                    [
+                        -78.139084,
+                        42.215385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2465669,
+    "properties": {
+        "woe_id": 2465669,
+        "place_id": "97N45A2bBZppSQIP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ong, Nebraska, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234489082,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3297\/shapefiles\/2465669_20090213_450fbfdb2f.tar.gz"
+        },
+        "bbox": [
+            -97.84294128418,
+            40.394134521484,
+            -97.83570098877,
+            40.401077270508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.835701,
+                        40.396725
+                    ],
+                    [
+                        -97.842941,
+                        40.394135
+                    ],
+                    [
+                        -97.840935,
+                        40.397221
+                    ],
+                    [
+                        -97.839172,
+                        40.401077
+                    ],
+                    [
+                        -97.835701,
+                        40.396725
+                    ]
+                ]
+            ]
+        ]
+    }
+}

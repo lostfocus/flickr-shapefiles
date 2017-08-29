@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2387420,
+    "properties": {
+        "woe_id": 2387420,
+        "place_id": "mQdQh7ibApR0TgVh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cromwell, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528224,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2387420_20101216_77431cfb98.tar.gz"
+        },
+        "bbox": [
+            -122.63454437256,
+            47.258186340332,
+            -122.61960601807,
+            47.274673461914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.624481,
+                        47.274673
+                    ],
+                    [
+                        -122.619606,
+                        47.272007
+                    ],
+                    [
+                        -122.620583,
+                        47.258472
+                    ],
+                    [
+                        -122.620872,
+                        47.258186
+                    ],
+                    [
+                        -122.634392,
+                        47.266003
+                    ],
+                    [
+                        -122.634544,
+                        47.269444
+                    ],
+                    [
+                        -122.624481,
+                        47.274673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

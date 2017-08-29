@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2362020,
+    "properties": {
+        "woe_id": 2362020,
+        "place_id": "aH0V1l6bApp2BHPz",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bellevue, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477045,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2362020_20101216_140d845f79.tar.gz"
+        },
+        "bbox": [
+            -80.255859375,
+            40.160541534424,
+            -80.242797851562,
+            40.163654327393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.255859,
+                        40.160862
+                    ],
+                    [
+                        -80.255043,
+                        40.161247
+                    ],
+                    [
+                        -80.254234,
+                        40.161163
+                    ],
+                    [
+                        -80.242798,
+                        40.163654
+                    ],
+                    [
+                        -80.25322,
+                        40.160542
+                    ],
+                    [
+                        -80.255859,
+                        40.160862
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500041,
+    "properties": {
+        "woe_id": 2500041,
+        "place_id": "StNDZsmbBJzW8ZMv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stockbridge, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525643,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2500041_20101216_0bc0cc1f5d.tar.gz"
+        },
+        "bbox": [
+            -72.712043762207,
+            43.764205932617,
+            -72.699653625488,
+            43.778621673584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.700729,
+                        43.778622
+                    ],
+                    [
+                        -72.699654,
+                        43.778111
+                    ],
+                    [
+                        -72.711983,
+                        43.764206
+                    ],
+                    [
+                        -72.712044,
+                        43.764275
+                    ],
+                    [
+                        -72.700729,
+                        43.778622
+                    ]
+                ]
+            ]
+        ]
+    }
+}

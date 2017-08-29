@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401674,
+    "properties": {
+        "woe_id": 2401674,
+        "place_id": "s0lZGOKbBZzl08Vp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairview, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550235,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2401674_20101217_dc88857d7b.tar.gz"
+        },
+        "bbox": [
+            -86.961761474609,
+            31.396413803101,
+            -86.958503723145,
+            31.398923873901
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.961098,
+                        31.396797
+                    ],
+                    [
+                        -86.961761,
+                        31.396414
+                    ],
+                    [
+                        -86.961594,
+                        31.396946
+                    ],
+                    [
+                        -86.95919,
+                        31.398924
+                    ],
+                    [
+                        -86.958504,
+                        31.398777
+                    ],
+                    [
+                        -86.961098,
+                        31.396797
+                    ]
+                ]
+            ]
+        ]
+    }
+}

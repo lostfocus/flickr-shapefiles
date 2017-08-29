@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468681,
+    "properties": {
+        "woe_id": 2468681,
+        "place_id": "0F8FxoybBZrxg9ib",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parkside, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527680,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2468681_20101216_6d60075682.tar.gz"
+        },
+        "bbox": [
+            -75.710083007812,
+            39.559066772461,
+            -75.7021484375,
+            39.566650390625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.710014,
+                        39.566235
+                    ],
+                    [
+                        -75.710083,
+                        39.56665
+                    ],
+                    [
+                        -75.704933,
+                        39.564884
+                    ],
+                    [
+                        -75.702148,
+                        39.559067
+                    ],
+                    [
+                        -75.708221,
+                        39.56398
+                    ],
+                    [
+                        -75.710014,
+                        39.566235
+                    ]
+                ]
+            ]
+        ]
+    }
+}

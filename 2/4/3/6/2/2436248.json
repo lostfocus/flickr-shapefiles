@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2436248,
+    "properties": {
+        "woe_id": 2436248,
+        "place_id": "ok06ypybBZ9TRcwz",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lane Beach, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234622412,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3305\/shapefiles\/2436248_20090214_ffe09da5b4.tar.gz"
+        },
+        "bbox": [
+            -76.576454162598,
+            38.205173492432,
+            -76.576324462891,
+            38.207183837891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.576454,
+                        38.205265
+                    ],
+                    [
+                        -76.576324,
+                        38.207184
+                    ],
+                    [
+                        -76.576324,
+                        38.205345
+                    ],
+                    [
+                        -76.576408,
+                        38.205173
+                    ],
+                    [
+                        -76.576454,
+                        38.205265
+                    ]
+                ]
+            ]
+        ]
+    }
+}

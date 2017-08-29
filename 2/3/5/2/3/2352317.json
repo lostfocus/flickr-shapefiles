@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2352317,
+    "properties": {
+        "woe_id": 2352317,
+        "place_id": "7tYmflWbApnWDlIU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ahsahka, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248103097,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2620\/shapefiles\/2352317_20090720_c7b326c4f4.tar.gz"
+        },
+        "bbox": [
+            -116.34935760498,
+            46.49987411499,
+            -116.31457519531,
+            46.513927459717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.326546,
+                        46.505276
+                    ],
+                    [
+                        -116.314575,
+                        46.499874
+                    ],
+                    [
+                        -116.330879,
+                        46.502869
+                    ],
+                    [
+                        -116.349358,
+                        46.505325
+                    ],
+                    [
+                        -116.331398,
+                        46.513927
+                    ],
+                    [
+                        -116.326546,
+                        46.505276
+                    ]
+                ]
+            ]
+        ]
+    }
+}

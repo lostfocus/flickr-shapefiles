@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22756496,
+    "properties": {
+        "woe_id": 22756496,
+        "place_id": "2hsqvsGbA5s44N.bOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Motte-d'Aigues, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234612090,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3408\/shapefiles\/22756496_20090214_47d33c9b70.tar.gz"
+        },
+        "bbox": [
+            5.5357570648193,
+            43.779991149902,
+            5.5358209609985,
+            43.780025482178
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.535778,
+                        43.779991
+                    ],
+                    [
+                        5.535757,
+                        43.779991
+                    ],
+                    [
+                        5.5358,
+                        43.780014
+                    ],
+                    [
+                        5.535821,
+                        43.780025
+                    ],
+                    [
+                        5.535778,
+                        43.779991
+                    ]
+                ]
+            ]
+        ]
+    }
+}

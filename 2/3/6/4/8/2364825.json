@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2364825,
+    "properties": {
+        "woe_id": 2364825,
+        "place_id": "7U4bsqybApoUdaBN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Black Hawk, Mississippi, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512323,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2364825_20101216_df4b8a09ed.tar.gz"
+        },
+        "bbox": [
+            -90.02840423584,
+            33.319648742676,
+            -90.010643005371,
+            33.333759307861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.012527,
+                        33.327766
+                    ],
+                    [
+                        -90.01165,
+                        33.327724
+                    ],
+                    [
+                        -90.010643,
+                        33.325092
+                    ],
+                    [
+                        -90.011917,
+                        33.319649
+                    ],
+                    [
+                        -90.028404,
+                        33.333759
+                    ],
+                    [
+                        -90.012527,
+                        33.327766
+                    ]
+                ]
+            ]
+        ]
+    }
+}

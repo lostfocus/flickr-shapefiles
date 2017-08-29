@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439695,
+    "properties": {
+        "woe_id": 2439695,
+        "place_id": "IbE4heubBZ_p03Ul",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Linden, Arizona, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234715777,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3411\/shapefiles\/2439695_20090215_5eef200244.tar.gz"
+        },
+        "bbox": [
+            -110.14980316162,
+            34.277076721191,
+            -110.13565826416,
+            34.302181243896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.135658,
+                        34.283718
+                    ],
+                    [
+                        -110.149803,
+                        34.277077
+                    ],
+                    [
+                        -110.147057,
+                        34.282555
+                    ],
+                    [
+                        -110.137939,
+                        34.302181
+                    ],
+                    [
+                        -110.135658,
+                        34.283718
+                    ]
+                ]
+            ]
+        ]
+    }
+}

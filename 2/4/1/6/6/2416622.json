@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2416622,
+    "properties": {
+        "woe_id": 2416622,
+        "place_id": "XvCBzIGbBZ38P0QP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hamilton Court, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229727023,
+        "alpha": 0.00015,
+        "points": 106,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3276\/shapefiles\/2416622_20081219_8d79194e00.tar.gz"
+        },
+        "bbox": [
+            -75.302230834961,
+            40.002502441406,
+            -75.290504455566,
+            40.009796142578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.290909,
+                        40.008888
+                    ],
+                    [
+                        -75.290504,
+                        40.002502
+                    ],
+                    [
+                        -75.30159,
+                        40.005146
+                    ],
+                    [
+                        -75.302231,
+                        40.005898
+                    ],
+                    [
+                        -75.293938,
+                        40.009796
+                    ],
+                    [
+                        -75.290909,
+                        40.008888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

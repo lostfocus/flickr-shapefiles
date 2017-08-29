@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23394565,
+    "properties": {
+        "woe_id": 23394565,
+        "place_id": "dMz4mGqbAp_lcSoUEA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Georges-de-Clarenceville, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455113,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/23394565_20101215_4448aa12e6.tar.gz"
+        },
+        "bbox": [
+            -73.248252868652,
+            45.057121276855,
+            -73.245742797852,
+            45.065456390381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.245743,
+                        45.065456
+                    ],
+                    [
+                        -73.246124,
+                        45.063519
+                    ],
+                    [
+                        -73.248253,
+                        45.057121
+                    ],
+                    [
+                        -73.246857,
+                        45.063953
+                    ],
+                    [
+                        -73.245743,
+                        45.065456
+                    ]
+                ]
+            ]
+        ]
+    }
+}

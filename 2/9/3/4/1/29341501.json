@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29341501,
+    "properties": {
+        "woe_id": 29341501,
+        "place_id": "7OKbfdCbCJ.CPb9zng",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Zeno, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234711932,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3606\/shapefiles\/29341501_20090215_5935c94e8c.tar.gz"
+        },
+        "bbox": [
+            10.724716186523,
+            45.623756408691,
+            10.73338508606,
+            45.630966186523
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.730981,
+                        45.623756
+                    ],
+                    [
+                        10.724716,
+                        45.630966
+                    ],
+                    [
+                        10.731582,
+                        45.627785
+                    ],
+                    [
+                        10.733385,
+                        45.627663
+                    ],
+                    [
+                        10.730981,
+                        45.623756
+                    ]
+                ]
+            ]
+        ]
+    }
+}

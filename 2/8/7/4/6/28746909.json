@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746909,
+    "properties": {
+        "woe_id": 28746909,
+        "place_id": "VTo2mKObCZslJcGKwQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Big Lake, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229608449,
+        "alpha": 0.00015,
+        "points": 37,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3180\/shapefiles\/28746909_20081218_b545dd551d.tar.gz"
+        },
+        "bbox": [
+            -85.50479888916,
+            41.280151367188,
+            -85.504463195801,
+            41.280704498291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.5047,
+                        41.280312
+                    ],
+                    [
+                        -85.504799,
+                        41.280704
+                    ],
+                    [
+                        -85.504471,
+                        41.280293
+                    ],
+                    [
+                        -85.504463,
+                        41.280151
+                    ],
+                    [
+                        -85.5047,
+                        41.280312
+                    ]
+                ]
+            ]
+        ]
+    }
+}

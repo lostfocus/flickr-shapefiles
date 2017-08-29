@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20102514,
+    "properties": {
+        "woe_id": 20102514,
+        "place_id": "TdRZz2WbAZ00oGVAvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Metairie, Canton of Vaud, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247840764,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2654\/shapefiles\/20102514_20090717_c43414de2d.tar.gz"
+        },
+        "bbox": [
+            6.2302350997925,
+            46.371643066406,
+            6.2319078445435,
+            46.373645782471
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.230921,
+                        46.373646
+                    ],
+                    [
+                        6.231908,
+                        46.373501
+                    ],
+                    [
+                        6.231243,
+                        46.372169
+                    ],
+                    [
+                        6.230621,
+                        46.371643
+                    ],
+                    [
+                        6.230235,
+                        46.373627
+                    ],
+                    [
+                        6.230921,
+                        46.373646
+                    ]
+                ]
+            ]
+        ]
+    }
+}

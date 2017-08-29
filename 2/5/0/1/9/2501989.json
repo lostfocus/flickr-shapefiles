@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2501989,
+    "properties": {
+        "woe_id": 2501989,
+        "place_id": "o3WbuKWbBJxYoWo2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sundance, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247959087,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3418\/shapefiles\/2501989_20090718_65937e46e0.tar.gz"
+        },
+        "bbox": [
+            -112.50489044189,
+            48.625194549561,
+            -112.50137329102,
+            48.635318756104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.501373,
+                        48.635315
+                    ],
+                    [
+                        -112.502747,
+                        48.628822
+                    ],
+                    [
+                        -112.50489,
+                        48.625195
+                    ],
+                    [
+                        -112.503151,
+                        48.635319
+                    ],
+                    [
+                        -112.501373,
+                        48.635315
+                    ]
+                ]
+            ]
+        ]
+    }
+}

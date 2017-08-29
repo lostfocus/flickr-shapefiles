@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2400446,
+    "properties": {
+        "woe_id": 2400446,
+        "place_id": "lddMsvWbBZzk5ZUo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Etna, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440602,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2400446_20101215_6935b20170.tar.gz"
+        },
+        "bbox": [
+            -79.949142456055,
+            40.495975494385,
+            -79.928581237793,
+            40.517925262451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.949142,
+                        40.497124
+                    ],
+                    [
+                        -79.946167,
+                        40.502617
+                    ],
+                    [
+                        -79.928581,
+                        40.517925
+                    ],
+                    [
+                        -79.944679,
+                        40.500469
+                    ],
+                    [
+                        -79.943878,
+                        40.497482
+                    ],
+                    [
+                        -79.944466,
+                        40.495975
+                    ],
+                    [
+                        -79.949142,
+                        40.497124
+                    ]
+                ]
+            ]
+        ]
+    }
+}

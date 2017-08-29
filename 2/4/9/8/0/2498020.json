@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2498020,
+    "properties": {
+        "woe_id": 2498020,
+        "place_id": "6Sti1P.bBZUSEA1m",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spring Lake Park, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486528,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2498020_20101216_eabec6163d.tar.gz"
+        },
+        "bbox": [
+            -77.120567321777,
+            39.055850982666,
+            -77.11604309082,
+            39.060214996338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.120522,
+                        39.057274
+                    ],
+                    [
+                        -77.120567,
+                        39.057495
+                    ],
+                    [
+                        -77.117714,
+                        39.060135
+                    ],
+                    [
+                        -77.116341,
+                        39.060215
+                    ],
+                    [
+                        -77.116043,
+                        39.055851
+                    ],
+                    [
+                        -77.116295,
+                        39.055908
+                    ],
+                    [
+                        -77.120522,
+                        39.057274
+                    ]
+                ]
+            ]
+        ]
+    }
+}

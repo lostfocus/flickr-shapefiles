@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2358656,
+    "properties": {
+        "woe_id": 2358656,
+        "place_id": "OFqsbj6bApnHV2O1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Baldwin Place, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248140527,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2505\/shapefiles\/2358656_20090721_e637b12798.tar.gz"
+        },
+        "bbox": [
+            -73.769119262695,
+            41.331127166748,
+            -73.753105163574,
+            41.348655700684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.760254,
+                        41.348656
+                    ],
+                    [
+                        -73.753105,
+                        41.344402
+                    ],
+                    [
+                        -73.764778,
+                        41.331127
+                    ],
+                    [
+                        -73.766373,
+                        41.340286
+                    ],
+                    [
+                        -73.769119,
+                        41.345295
+                    ],
+                    [
+                        -73.768524,
+                        41.346764
+                    ],
+                    [
+                        -73.760254,
+                        41.348656
+                    ]
+                ]
+            ]
+        ]
+    }
+}

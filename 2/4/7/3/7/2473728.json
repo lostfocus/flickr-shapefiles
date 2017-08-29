@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2473728,
+    "properties": {
+        "woe_id": 2473728,
+        "place_id": "jLk_9OabBZvH1frN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pleasant Grove, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234636565,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3419\/shapefiles\/2473728_20090214_c913683268.tar.gz"
+        },
+        "bbox": [
+            -76.874618530273,
+            39.170345306396,
+            -76.871337890625,
+            39.177116394043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.8722,
+                        39.174004
+                    ],
+                    [
+                        -76.871338,
+                        39.170345
+                    ],
+                    [
+                        -76.874619,
+                        39.174751
+                    ],
+                    [
+                        -76.874062,
+                        39.177116
+                    ],
+                    [
+                        -76.8722,
+                        39.174004
+                    ]
+                ]
+            ]
+        ]
+    }
+}

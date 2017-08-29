@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28747269,
+    "properties": {
+        "woe_id": 28747269,
+        "place_id": "xqdDmVabCZtCokAjog",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lincoln, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528588,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/28747269_20101216_591d4ca1f9.tar.gz"
+        },
+        "bbox": [
+            -90.473480224609,
+            41.655361175537,
+            -90.462562561035,
+            41.685794830322
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.473015,
+                        41.685795
+                    ],
+                    [
+                        -90.462563,
+                        41.685459
+                    ],
+                    [
+                        -90.47348,
+                        41.671116
+                    ],
+                    [
+                        -90.4664,
+                        41.655361
+                    ],
+                    [
+                        -90.46653,
+                        41.65538
+                    ],
+                    [
+                        -90.47348,
+                        41.671116
+                    ],
+                    [
+                        -90.473015,
+                        41.685795
+                    ]
+                ]
+            ]
+        ]
+    }
+}

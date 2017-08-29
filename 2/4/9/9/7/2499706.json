@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499706,
+    "properties": {
+        "woe_id": 2499706,
+        "place_id": "RUa9fIibBZUyAWSu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Steuben, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247837528,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2425\/shapefiles\/2499706_20090717_e5daf7cb3e.tar.gz"
+        },
+        "bbox": [
+            -90.938537597656,
+            43.158142089844,
+            -90.938003540039,
+            43.159481048584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.938301,
+                        43.158142
+                    ],
+                    [
+                        -90.938362,
+                        43.158314
+                    ],
+                    [
+                        -90.938538,
+                        43.159481
+                    ],
+                    [
+                        -90.93811,
+                        43.159081
+                    ],
+                    [
+                        -90.938004,
+                        43.158672
+                    ],
+                    [
+                        -90.938301,
+                        43.158142
+                    ]
+                ]
+            ]
+        ]
+    }
+}

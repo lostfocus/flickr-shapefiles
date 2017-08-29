@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20073654,
+    "properties": {
+        "woe_id": 20073654,
+        "place_id": "R0ifgRmbAZwEOIvjLA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Scotstown, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530163,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20073654_20101216_a702744920.tar.gz"
+        },
+        "bbox": [
+            -7.1113300323486,
+            54.283138275146,
+            -7.1107292175293,
+            54.286064147949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.111201,
+                        54.283581
+                    ],
+                    [
+                        -7.11133,
+                        54.285595
+                    ],
+                    [
+                        -7.110787,
+                        54.286064
+                    ],
+                    [
+                        -7.110729,
+                        54.283138
+                    ],
+                    [
+                        -7.111201,
+                        54.283581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

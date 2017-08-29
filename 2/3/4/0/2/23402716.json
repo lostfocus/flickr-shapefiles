@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23402716,
+    "properties": {
+        "woe_id": 23402716,
+        "place_id": "r2iMQhybApiPWE.ljQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shilo, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532936,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/23402716_20101216_56bfc24efa.tar.gz"
+        },
+        "bbox": [
+            -99.649345397949,
+            49.796558380127,
+            -99.634368896484,
+            49.817218780518
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.64505,
+                        49.802937
+                    ],
+                    [
+                        -99.649345,
+                        49.807636
+                    ],
+                    [
+                        -99.642822,
+                        49.817219
+                    ],
+                    [
+                        -99.636467,
+                        49.813618
+                    ],
+                    [
+                        -99.634369,
+                        49.801266
+                    ],
+                    [
+                        -99.63913,
+                        49.796558
+                    ],
+                    [
+                        -99.64505,
+                        49.802937
+                    ]
+                ]
+            ]
+        ]
+    }
+}

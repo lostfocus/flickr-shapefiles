@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2473001,
+    "properties": {
+        "woe_id": 2473001,
+        "place_id": "BEHBm_abBZuVftMl",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pioneer, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512808,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2473001_20101216_09aa2a2bae.tar.gz"
+        },
+        "bbox": [
+            -94.048179626465,
+            36.845386505127,
+            -94.046661376953,
+            36.846168518066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.047241,
+                        36.846169
+                    ],
+                    [
+                        -94.046661,
+                        36.846115
+                    ],
+                    [
+                        -94.047066,
+                        36.845387
+                    ],
+                    [
+                        -94.04818,
+                        36.845387
+                    ],
+                    [
+                        -94.047966,
+                        36.846161
+                    ],
+                    [
+                        -94.047241,
+                        36.846169
+                    ]
+                ]
+            ]
+        ]
+    }
+}

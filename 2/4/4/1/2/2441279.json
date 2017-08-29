@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2441279,
+    "properties": {
+        "woe_id": 2441279,
+        "place_id": "XrNGfP2bBZio4IEy",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "London, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522112,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2441279_20101216_245bdb2e95.tar.gz"
+        },
+        "bbox": [
+            -119.45925140381,
+            36.474788665771,
+            -119.43852996826,
+            36.489074707031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.453827,
+                        36.474789
+                    ],
+                    [
+                        -119.459251,
+                        36.488827
+                    ],
+                    [
+                        -119.458954,
+                        36.489075
+                    ],
+                    [
+                        -119.445877,
+                        36.488205
+                    ],
+                    [
+                        -119.438553,
+                        36.479149
+                    ],
+                    [
+                        -119.43853,
+                        36.475281
+                    ],
+                    [
+                        -119.453827,
+                        36.474789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2368457,
+    "properties": {
+        "woe_id": 2368457,
+        "place_id": "RJLnVyibApoRjbaF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Breezy Point Beach, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234929127,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3425\/shapefiles\/2368457_20090218_d980974431.tar.gz"
+        },
+        "bbox": [
+            -76.359977722168,
+            39.255683898926,
+            -76.340385437012,
+            39.263610839844
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.346153,
+                        39.255993
+                    ],
+                    [
+                        -76.359978,
+                        39.263611
+                    ],
+                    [
+                        -76.340385,
+                        39.260487
+                    ],
+                    [
+                        -76.345497,
+                        39.255684
+                    ],
+                    [
+                        -76.346153,
+                        39.255993
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20228035,
+    "properties": {
+        "woe_id": 20228035,
+        "place_id": "hi7KPXubAZ5ob9P9sA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Los Angeles, Andalusia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495587,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/20228035_20101216_174735f966.tar.gz"
+        },
+        "bbox": [
+            -5.4554839134216,
+            36.43168258667,
+            -5.441321849823,
+            36.446418762207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.455484,
+                        36.433849
+                    ],
+                    [
+                        -5.451965,
+                        36.445587
+                    ],
+                    [
+                        -5.441322,
+                        36.446419
+                    ],
+                    [
+                        -5.447545,
+                        36.43235
+                    ],
+                    [
+                        -5.451128,
+                        36.431683
+                    ],
+                    [
+                        -5.455484,
+                        36.433849
+                    ]
+                ]
+            ]
+        ]
+    }
+}

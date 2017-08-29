@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20170938,
+    "properties": {
+        "woe_id": 20170938,
+        "place_id": "Q6w2as2bAZ08tXRFvg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Haus Lindh\u00f6vel, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292483589,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/20170938_20101216_ed613f2359.tar.gz"
+        },
+        "bbox": [
+            7.5681848526001,
+            51.824691772461,
+            7.5705242156982,
+            51.825572967529
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.569236,
+                        51.825382
+                    ],
+                    [
+                        7.570524,
+                        51.824692
+                    ],
+                    [
+                        7.569108,
+                        51.825073
+                    ],
+                    [
+                        7.568185,
+                        51.825485
+                    ],
+                    [
+                        7.568459,
+                        51.825573
+                    ],
+                    [
+                        7.569236,
+                        51.825382
+                    ]
+                ]
+            ]
+        ]
+    }
+}

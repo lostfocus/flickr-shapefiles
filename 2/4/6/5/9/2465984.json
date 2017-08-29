@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2465984,
+    "properties": {
+        "woe_id": 2465984,
+        "place_id": "1MnOE.2bBZqUqGEZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orchard Acres, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521326,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2465984_20101216_788089f46d.tar.gz"
+        },
+        "bbox": [
+            -78.728897094727,
+            38.071643829346,
+            -78.713790893555,
+            38.084403991699
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.728508,
+                        38.082615
+                    ],
+                    [
+                        -78.728897,
+                        38.083057
+                    ],
+                    [
+                        -78.725914,
+                        38.084404
+                    ],
+                    [
+                        -78.713791,
+                        38.071686
+                    ],
+                    [
+                        -78.715836,
+                        38.071644
+                    ],
+                    [
+                        -78.728508,
+                        38.082615
+                    ]
+                ]
+            ]
+        ]
+    }
+}

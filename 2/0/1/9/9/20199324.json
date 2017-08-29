@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20199324,
+    "properties": {
+        "woe_id": 20199324,
+        "place_id": "3EyPlBmbAZ2jYhU7oQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marennes Plage, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449249,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/20199324_20101215_9f55861302.tar.gz"
+        },
+        "bbox": [
+            -1.1398309469223,
+            45.813846588135,
+            -1.1325349807739,
+            45.826824188232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.132535,
+                        45.814186
+                    ],
+                    [
+                        -1.134381,
+                        45.813847
+                    ],
+                    [
+                        -1.134767,
+                        45.815521
+                    ],
+                    [
+                        -1.139831,
+                        45.823418
+                    ],
+                    [
+                        -1.135025,
+                        45.826824
+                    ],
+                    [
+                        -1.132535,
+                        45.814186
+                    ]
+                ]
+            ]
+        ]
+    }
+}

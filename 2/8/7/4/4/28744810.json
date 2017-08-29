@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28744810,
+    "properties": {
+        "woe_id": 28744810,
+        "place_id": "sc9urUabCZv.iNpGug",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ward, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509444,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/28744810_20101216_1a3bc50c4b.tar.gz"
+        },
+        "bbox": [
+            -77.834182739258,
+            42.246276855469,
+            -77.81884765625,
+            42.269672393799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.821999,
+                        42.269672
+                    ],
+                    [
+                        -77.818909,
+                        42.247581
+                    ],
+                    [
+                        -77.818848,
+                        42.246277
+                    ],
+                    [
+                        -77.834183,
+                        42.257111
+                    ],
+                    [
+                        -77.821999,
+                        42.269672
+                    ]
+                ]
+            ]
+        ]
+    }
+}

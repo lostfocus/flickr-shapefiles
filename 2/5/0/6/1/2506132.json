@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2506132,
+    "properties": {
+        "woe_id": 2506132,
+        "place_id": "tLJ8.OebBJxa.YzA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Throckmorton, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234897328,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3407\/shapefiles\/2506132_20090217_49a3520479.tar.gz"
+        },
+        "bbox": [
+            -99.180816650391,
+            33.178184509277,
+            -99.176284790039,
+            33.182746887207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.176285,
+                        33.178921
+                    ],
+                    [
+                        -99.177406,
+                        33.178185
+                    ],
+                    [
+                        -99.180817,
+                        33.178482
+                    ],
+                    [
+                        -99.178688,
+                        33.181328
+                    ],
+                    [
+                        -99.17794,
+                        33.182747
+                    ],
+                    [
+                        -99.176285,
+                        33.178921
+                    ]
+                ]
+            ]
+        ]
+    }
+}

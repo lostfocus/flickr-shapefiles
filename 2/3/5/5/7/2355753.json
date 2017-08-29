@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2355753,
+    "properties": {
+        "woe_id": 2355753,
+        "place_id": "WKsLl26bApnP5ntW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Argo, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532442,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2355753_20101216_80f4e6d827.tar.gz"
+        },
+        "bbox": [
+            -86.515617370605,
+            33.66678237915,
+            -86.515274047852,
+            33.667568206787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.515617,
+                        33.667423
+                    ],
+                    [
+                        -86.515274,
+                        33.667568
+                    ],
+                    [
+                        -86.515274,
+                        33.666782
+                    ],
+                    [
+                        -86.515442,
+                        33.667068
+                    ],
+                    [
+                        -86.515617,
+                        33.667423
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2351946,
+    "properties": {
+        "woe_id": 2351946,
+        "place_id": "k6sdJU2bApmK5R0O",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Adams Station, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589406,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3379\/shapefiles\/2351946_20090214_6c1ef8ffd6.tar.gz"
+        },
+        "bbox": [
+            -123.99655151367,
+            41.839385986328,
+            -123.98277282715,
+            41.843990325928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.982773,
+                        41.84399
+                    ],
+                    [
+                        -123.985435,
+                        41.839386
+                    ],
+                    [
+                        -123.996552,
+                        41.842548
+                    ],
+                    [
+                        -123.995644,
+                        41.842838
+                    ],
+                    [
+                        -123.992172,
+                        41.843254
+                    ],
+                    [
+                        -123.982773,
+                        41.84399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

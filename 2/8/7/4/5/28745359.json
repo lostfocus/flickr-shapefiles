@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745359,
+    "properties": {
+        "woe_id": 28745359,
+        "place_id": "AmiBBhubCZtZO9FP0w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Franklin, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520332,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/28745359_20101216_8de20a9b42.tar.gz"
+        },
+        "bbox": [
+            -76.509300231934,
+            40.878589630127,
+            -76.492500305176,
+            40.890331268311
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.501984,
+                        40.879921
+                    ],
+                    [
+                        -76.5093,
+                        40.883457
+                    ],
+                    [
+                        -76.4925,
+                        40.890331
+                    ],
+                    [
+                        -76.499619,
+                        40.87859
+                    ],
+                    [
+                        -76.500679,
+                        40.878803
+                    ],
+                    [
+                        -76.501984,
+                        40.879921
+                    ]
+                ]
+            ]
+        ]
+    }
+}

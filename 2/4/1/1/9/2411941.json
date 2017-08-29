@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2411941,
+    "properties": {
+        "woe_id": 2411941,
+        "place_id": "Hjx71uWbBZ2ao2Zl",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gomez, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234887971,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3401\/shapefiles\/2411941_20090217_8982de59ec.tar.gz"
+        },
+        "bbox": [
+            -80.149337768555,
+            27.082759857178,
+            -80.131698608398,
+            27.100469589233
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.134789,
+                        27.10047
+                    ],
+                    [
+                        -80.131699,
+                        27.098597
+                    ],
+                    [
+                        -80.138535,
+                        27.08276
+                    ],
+                    [
+                        -80.149338,
+                        27.096497
+                    ],
+                    [
+                        -80.134789,
+                        27.10047
+                    ]
+                ]
+            ]
+        ]
+    }
+}

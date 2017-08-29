@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20071460,
+    "properties": {
+        "woe_id": 20071460,
+        "place_id": "9cnmZPObAZzG9RmSyw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rahona, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551059,
+        "alpha": 1.0e-5,
+        "points": 32,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/20071460_20101217_e955da5445.tar.gz"
+        },
+        "bbox": [
+            -9.7104539871216,
+            52.603687286377,
+            -9.7081575393677,
+            52.604766845703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.709124,
+                        52.604076
+                    ],
+                    [
+                        -9.708158,
+                        52.603687
+                    ],
+                    [
+                        -9.710304,
+                        52.604076
+                    ],
+                    [
+                        -9.710454,
+                        52.604767
+                    ],
+                    [
+                        -9.709124,
+                        52.604076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

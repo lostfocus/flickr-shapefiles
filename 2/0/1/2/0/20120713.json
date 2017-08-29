@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20120713,
+    "properties": {
+        "woe_id": 20120713,
+        "place_id": "dbkkeTqbAZ1KVB3SQA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cislano, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522394,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/20120713_20101216_a887039da7.tar.gz"
+        },
+        "bbox": [
+            10.103302001953,
+            45.748001098633,
+            10.111090660095,
+            45.754165649414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.109138,
+                        45.749081
+                    ],
+                    [
+                        10.103302,
+                        45.748001
+                    ],
+                    [
+                        10.1075,
+                        45.753056
+                    ],
+                    [
+                        10.110833,
+                        45.754166
+                    ],
+                    [
+                        10.111091,
+                        45.753571
+                    ],
+                    [
+                        10.109986,
+                        45.749561
+                    ],
+                    [
+                        10.109138,
+                        45.749081
+                    ]
+                ]
+            ]
+        ]
+    }
+}

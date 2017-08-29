@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20202448,
+    "properties": {
+        "woe_id": 20202448,
+        "place_id": "lpkQNpWbAZ4SBMWCIQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Couti\u00e8res, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488386,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/20202448_20101216_465c61cf5f.tar.gz"
+        },
+        "bbox": [
+            5.8505911827087,
+            44.668167114258,
+            5.8597679138184,
+            44.669506072998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.85268,
+                        44.668167
+                    ],
+                    [
+                        5.851244,
+                        44.668274
+                    ],
+                    [
+                        5.850591,
+                        44.668495
+                    ],
+                    [
+                        5.854597,
+                        44.669506
+                    ],
+                    [
+                        5.859768,
+                        44.669262
+                    ],
+                    [
+                        5.85268,
+                        44.668167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

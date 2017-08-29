@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20191520,
+    "properties": {
+        "woe_id": 20191520,
+        "place_id": "7jxq.hqbAZ3KZY6I8A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-V\u00e9ran, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457389,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/20191520_20101215_bf604156c0.tar.gz"
+        },
+        "bbox": [
+            3.2497210502625,
+            44.10657119751,
+            3.2668011188507,
+            44.111869812012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.264312,
+                        44.106571
+                    ],
+                    [
+                        3.261051,
+                        44.108788
+                    ],
+                    [
+                        3.249721,
+                        44.11187
+                    ],
+                    [
+                        3.261909,
+                        44.110886
+                    ],
+                    [
+                        3.266801,
+                        44.108234
+                    ],
+                    [
+                        3.264312,
+                        44.106571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

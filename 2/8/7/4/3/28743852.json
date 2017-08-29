@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28743852,
+    "properties": {
+        "woe_id": 28743852,
+        "place_id": "Rek8BGybCZvhpv3vsQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Olive, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531945,
+        "alpha": 0.0001875,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/28743852_20101216_ddd1369be3.tar.gz"
+        },
+        "bbox": [
+            -84.52466583252,
+            42.899120330811,
+            -84.519561767578,
+            42.915668487549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.52417,
+                        42.915333
+                    ],
+                    [
+                        -84.519562,
+                        42.899487
+                    ],
+                    [
+                        -84.519814,
+                        42.89912
+                    ],
+                    [
+                        -84.524498,
+                        42.915165
+                    ],
+                    [
+                        -84.524666,
+                        42.915501
+                    ],
+                    [
+                        -84.524498,
+                        42.915668
+                    ],
+                    [
+                        -84.52417,
+                        42.915333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

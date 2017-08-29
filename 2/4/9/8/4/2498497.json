@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2498497,
+    "properties": {
+        "woe_id": 2498497,
+        "place_id": "dXxCL3ebBZX0Q7Lt",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Springview, Nebraska, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541130,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2498497_20101216_531ef2737f.tar.gz"
+        },
+        "bbox": [
+            -99.77165222168,
+            42.822853088379,
+            -99.745727539062,
+            42.82738494873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.746758,
+                        42.827385
+                    ],
+                    [
+                        -99.745728,
+                        42.822853
+                    ],
+                    [
+                        -99.749466,
+                        42.823009
+                    ],
+                    [
+                        -99.771652,
+                        42.826756
+                    ],
+                    [
+                        -99.748474,
+                        42.826504
+                    ],
+                    [
+                        -99.746758,
+                        42.827385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

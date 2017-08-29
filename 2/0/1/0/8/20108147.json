@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20108147,
+    "properties": {
+        "woe_id": 20108147,
+        "place_id": "iX0HRVSbAZ0zLr7f5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Donato, Marche, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454910,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/20108147_20101215_72c1087e49.tar.gz"
+        },
+        "bbox": [
+            12.646379470825,
+            43.722606658936,
+            12.648760795593,
+            43.728065490723
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.648267,
+                        43.728065
+                    ],
+                    [
+                        12.648761,
+                        43.727879
+                    ],
+                    [
+                        12.647967,
+                        43.722607
+                    ],
+                    [
+                        12.646379,
+                        43.726917
+                    ],
+                    [
+                        12.648267,
+                        43.728065
+                    ]
+                ]
+            ]
+        ]
+    }
+}

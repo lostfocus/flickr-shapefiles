@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2404275,
+    "properties": {
+        "woe_id": 2404275,
+        "place_id": "1Zcd9fWbBZzt41WA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fleming, Colorado, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440635,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2404275_20101215_4290e88140.tar.gz"
+        },
+        "bbox": [
+            -102.84294128418,
+            40.67964553833,
+            -102.83821105957,
+            40.682266235352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.838211,
+                        40.682266
+                    ],
+                    [
+                        -102.838554,
+                        40.680866
+                    ],
+                    [
+                        -102.839325,
+                        40.680573
+                    ],
+                    [
+                        -102.842941,
+                        40.679646
+                    ],
+                    [
+                        -102.838211,
+                        40.682266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

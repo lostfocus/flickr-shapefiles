@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2360223,
+    "properties": {
+        "woe_id": 2360223,
+        "place_id": "grM_EbKbAppsZjjl",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bay Point, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526424,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2360223_20101216_945091c247.tar.gz"
+        },
+        "bbox": [
+            -72.323852539062,
+            40.997779846191,
+            -72.303901672363,
+            41.012870788574
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.322762,
+                        40.999092
+                    ],
+                    [
+                        -72.323853,
+                        40.99778
+                    ],
+                    [
+                        -72.323196,
+                        40.999123
+                    ],
+                    [
+                        -72.322571,
+                        41.00024
+                    ],
+                    [
+                        -72.320251,
+                        41.012871
+                    ],
+                    [
+                        -72.313896,
+                        41.004719
+                    ],
+                    [
+                        -72.303902,
+                        40.998039
+                    ],
+                    [
+                        -72.322762,
+                        40.999092
+                    ]
+                ]
+            ]
+        ]
+    }
+}

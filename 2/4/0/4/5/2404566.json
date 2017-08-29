@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2404566,
+    "properties": {
+        "woe_id": 2404566,
+        "place_id": "nqDrDv6bBZzyPwlq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Florida, New Mexico, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525507,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2404566_20101216_cd8e2f8219.tar.gz"
+        },
+        "bbox": [
+            -106.90246582031,
+            34.073421478271,
+            -106.89074707031,
+            34.092666625977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.895897,
+                        34.092667
+                    ],
+                    [
+                        -106.890747,
+                        34.085579
+                    ],
+                    [
+                        -106.891136,
+                        34.073421
+                    ],
+                    [
+                        -106.902466,
+                        34.087921
+                    ],
+                    [
+                        -106.898682,
+                        34.091049
+                    ],
+                    [
+                        -106.895897,
+                        34.092667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

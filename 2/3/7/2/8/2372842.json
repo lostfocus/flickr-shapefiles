@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2372842,
+    "properties": {
+        "woe_id": 2372842,
+        "place_id": "Kbam.uKbApuqqVRw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Byron, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533218,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2372842_20101216_7cdf848968.tar.gz"
+        },
+        "bbox": [
+            -78.067405700684,
+            43.079616546631,
+            -78.064300537109,
+            43.081550598145
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.066383,
+                        43.079617
+                    ],
+                    [
+                        -78.067406,
+                        43.080078
+                    ],
+                    [
+                        -78.064835,
+                        43.081551
+                    ],
+                    [
+                        -78.064301,
+                        43.080353
+                    ],
+                    [
+                        -78.064606,
+                        43.079876
+                    ],
+                    [
+                        -78.066383,
+                        43.079617
+                    ]
+                ]
+            ]
+        ]
+    }
+}

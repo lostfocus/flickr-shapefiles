@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20130427,
+    "properties": {
+        "woe_id": 20130427,
+        "place_id": "xxCuf9ObAZ03QYSPWg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mangona, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534424,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/20130427_20101216_6808abc387.tar.gz"
+        },
+        "bbox": [
+            11.180068969727,
+            44.042980194092,
+            11.210173606873,
+            44.062980651855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.180069,
+                        44.054405
+                    ],
+                    [
+                        11.18524,
+                        44.062981
+                    ],
+                    [
+                        11.19966,
+                        44.043289
+                    ],
+                    [
+                        11.210174,
+                        44.057491
+                    ],
+                    [
+                        11.199831,
+                        44.04298
+                    ],
+                    [
+                        11.19966,
+                        44.043289
+                    ],
+                    [
+                        11.18524,
+                        44.062981
+                    ],
+                    [
+                        11.180069,
+                        44.054405
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20127031,
+    "properties": {
+        "woe_id": 20127031,
+        "place_id": "x4FJcECbAZ0i9_vfeQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grondona, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234555328,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3461\/shapefiles\/20127031_20090213_154629b44b.tar.gz"
+        },
+        "bbox": [
+            8.9614963531494,
+            44.696937561035,
+            8.9664735794067,
+            44.698127746582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.962225,
+                        44.697548
+                    ],
+                    [
+                        8.961496,
+                        44.697914
+                    ],
+                    [
+                        8.966474,
+                        44.698128
+                    ],
+                    [
+                        8.965272,
+                        44.696938
+                    ],
+                    [
+                        8.962225,
+                        44.697548
+                    ]
+                ]
+            ]
+        ]
+    }
+}

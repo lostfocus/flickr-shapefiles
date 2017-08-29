@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23394622,
+    "properties": {
+        "woe_id": 23394622,
+        "place_id": "rNXZ2lObAp8TT_eqMw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Victor, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248066604,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3509\/shapefiles\/23394622_20090720_7a8cf05729.tar.gz"
+        },
+        "bbox": [
+            -70.906105041504,
+            46.147350311279,
+            -70.899971008301,
+            46.169486999512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.899971,
+                        46.147854
+                    ],
+                    [
+                        -70.905701,
+                        46.14735
+                    ],
+                    [
+                        -70.906105,
+                        46.149872
+                    ],
+                    [
+                        -70.905762,
+                        46.169487
+                    ],
+                    [
+                        -70.899971,
+                        46.147854
+                    ]
+                ]
+            ]
+        ]
+    }
+}

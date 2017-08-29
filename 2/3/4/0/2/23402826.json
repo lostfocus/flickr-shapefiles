@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23402826,
+    "properties": {
+        "woe_id": 23402826,
+        "place_id": "LbyxaPybApik2FuiEg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West St Paul, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544388,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/23402826_20101217_e914943ebe.tar.gz"
+        },
+        "bbox": [
+            -97.085273742676,
+            49.962303161621,
+            -97.062774658203,
+            49.985061645508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.085274,
+                        49.962303
+                    ],
+                    [
+                        -97.083908,
+                        49.975677
+                    ],
+                    [
+                        -97.062775,
+                        49.985062
+                    ],
+                    [
+                        -97.064163,
+                        49.968689
+                    ],
+                    [
+                        -97.064873,
+                        49.967377
+                    ],
+                    [
+                        -97.079483,
+                        49.968559
+                    ],
+                    [
+                        -97.085274,
+                        49.962303
+                    ]
+                ]
+            ]
+        ]
+    }
+}

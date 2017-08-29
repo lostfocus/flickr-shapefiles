@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2458178,
+    "properties": {
+        "woe_id": 2458178,
+        "place_id": "SFNvCJabBZmUyH_F",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "New City, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526476,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2458178_20101216_aa7b1d88fc.tar.gz"
+        },
+        "bbox": [
+            -89.537712097168,
+            39.670768737793,
+            -89.533828735352,
+            39.671981811523
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.535484,
+                        39.671188
+                    ],
+                    [
+                        -89.537712,
+                        39.671982
+                    ],
+                    [
+                        -89.535851,
+                        39.671848
+                    ],
+                    [
+                        -89.533829,
+                        39.670769
+                    ],
+                    [
+                        -89.535484,
+                        39.671188
+                    ]
+                ]
+            ]
+        ]
+    }
+}

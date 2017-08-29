@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400101,
+    "properties": {
+        "woe_id": 2400101,
+        "place_id": "N759.R6bBZyxX4aG",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Erlton, New Jersey, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234676773,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3156\/shapefiles\/2400101_20090215_73502871dc.tar.gz"
+        },
+        "bbox": [
+            -75.024688720703,
+            39.912830352783,
+            -75.019668579102,
+            39.917175292969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.019669,
+                        39.916451
+                    ],
+                    [
+                        -75.024689,
+                        39.91283
+                    ],
+                    [
+                        -75.022675,
+                        39.916912
+                    ],
+                    [
+                        -75.021599,
+                        39.917175
+                    ],
+                    [
+                        -75.019669,
+                        39.916451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

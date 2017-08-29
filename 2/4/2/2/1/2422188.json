@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2422188,
+    "properties": {
+        "woe_id": 2422188,
+        "place_id": "nDsJfSybBZ45FkxO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hillside, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292374682,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2422188_20101215_ff8bb353c2.tar.gz"
+        },
+        "bbox": [
+            -122.5834197998,
+            47.102264404297,
+            -122.5739440918,
+            47.108768463135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.58342,
+                        47.106056
+                    ],
+                    [
+                        -122.579834,
+                        47.108002
+                    ],
+                    [
+                        -122.577682,
+                        47.108768
+                    ],
+                    [
+                        -122.573944,
+                        47.103668
+                    ],
+                    [
+                        -122.578407,
+                        47.102264
+                    ],
+                    [
+                        -122.58342,
+                        47.106056
+                    ]
+                ]
+            ]
+        ]
+    }
+}

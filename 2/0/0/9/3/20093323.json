@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20093323,
+    "properties": {
+        "woe_id": 20093323,
+        "place_id": "Q8d7.zmbAZxSNIbyeQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wheelerstreet, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545845,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/20093323_20101217_1a36464b36.tar.gz"
+        },
+        "bbox": [
+            -0.65814900398254,
+            51.156280517578,
+            -0.64888000488281,
+            51.163360595703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.658149,
+                        51.161743
+                    ],
+                    [
+                        -0.657334,
+                        51.163361
+                    ],
+                    [
+                        -0.652098,
+                        51.161125
+                    ],
+                    [
+                        -0.649534,
+                        51.157318
+                    ],
+                    [
+                        -0.64888,
+                        51.156281
+                    ],
+                    [
+                        -0.658149,
+                        51.161743
+                    ]
+                ]
+            ]
+        ]
+    }
+}

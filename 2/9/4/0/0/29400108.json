@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29400108,
+    "properties": {
+        "woe_id": 29400108,
+        "place_id": "hk5POsWbCJjyJJq7UA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hrabusice, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248225485,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3435\/shapefiles\/29400108_20090722_84e32ac327.tar.gz"
+        },
+        "bbox": [
+            20.383071899414,
+            48.950691223145,
+            20.388050079346,
+            48.957748413086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        20.386162,
+                        48.950691
+                    ],
+                    [
+                        20.383072,
+                        48.953056
+                    ],
+                    [
+                        20.386848,
+                        48.953506
+                    ],
+                    [
+                        20.387148,
+                        48.957748
+                    ],
+                    [
+                        20.38805,
+                        48.953903
+                    ],
+                    [
+                        20.386162,
+                        48.950691
+                    ]
+                ]
+            ]
+        ]
+    }
+}

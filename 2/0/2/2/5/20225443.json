@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20225443,
+    "properties": {
+        "woe_id": 20225443,
+        "place_id": "ONC7qGmbAZ6fNNyJxA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Puerto de Etxegarate, Basque Country, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292431801,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/20225443_20101215_de36bf4361.tar.gz"
+        },
+        "bbox": [
+            -2.2293660640717,
+            42.946495056152,
+            -2.2268769741058,
+            42.952777862549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.229366,
+                        42.947063
+                    ],
+                    [
+                        -2.229366,
+                        42.947689
+                    ],
+                    [
+                        -2.228679,
+                        42.952778
+                    ],
+                    [
+                        -2.227199,
+                        42.949661
+                    ],
+                    [
+                        -2.226877,
+                        42.946495
+                    ],
+                    [
+                        -2.229366,
+                        42.947063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20191338,
+    "properties": {
+        "woe_id": 20191338,
+        "place_id": ".iQMFgebAZ3JZcW2Ig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Peyregrand, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532770,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20191338_20101216_aff44e189a.tar.gz"
+        },
+        "bbox": [
+            1.5573120117188,
+            42.643051147461,
+            1.5691560506821,
+            42.655296325684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.565208,
+                        42.653751
+                    ],
+                    [
+                        1.569156,
+                        42.655296
+                    ],
+                    [
+                        1.565551,
+                        42.650215
+                    ],
+                    [
+                        1.563491,
+                        42.643051
+                    ],
+                    [
+                        1.557312,
+                        42.652775
+                    ],
+                    [
+                        1.565208,
+                        42.653751
+                    ]
+                ]
+            ]
+        ]
+    }
+}

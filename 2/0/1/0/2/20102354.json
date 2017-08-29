@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20102354,
+    "properties": {
+        "woe_id": 20102354,
+        "place_id": "qlWVvYObAZ2MvubIYQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kaltbach, Canton of Lucerne, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530108,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/20102354_20101216_f854018993.tar.gz"
+        },
+        "bbox": [
+            8.0467185974121,
+            47.181221008301,
+            8.0647754669189,
+            47.183811187744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.054855,
+                        47.182037
+                    ],
+                    [
+                        8.046719,
+                        47.183613
+                    ],
+                    [
+                        8.058739,
+                        47.183811
+                    ],
+                    [
+                        8.064775,
+                        47.181221
+                    ],
+                    [
+                        8.062191,
+                        47.181538
+                    ],
+                    [
+                        8.054855,
+                        47.182037
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20119297,
+    "properties": {
+        "woe_id": 20119297,
+        "place_id": "BL0QL_abAZ2PNuKacA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castionetto, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522462,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/20119297_20101216_3d9332d582.tar.gz"
+        },
+        "bbox": [
+            9.9977359771729,
+            46.169876098633,
+            10.013264656067,
+            46.176708221436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.008201,
+                        46.176266
+                    ],
+                    [
+                        10.013265,
+                        46.173351
+                    ],
+                    [
+                        10.010046,
+                        46.169876
+                    ],
+                    [
+                        9.997736,
+                        46.172478
+                    ],
+                    [
+                        9.998416,
+                        46.17371
+                    ],
+                    [
+                        10.006785,
+                        46.176708
+                    ],
+                    [
+                        10.008201,
+                        46.176266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

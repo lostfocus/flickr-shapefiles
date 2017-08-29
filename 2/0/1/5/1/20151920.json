@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20151920,
+    "properties": {
+        "woe_id": 20151920,
+        "place_id": "XSxUU4KbAZ03kVt2AQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vigo, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495283,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/20151920_20101216_af9df8dfeb.tar.gz"
+        },
+        "bbox": [
+            10.980298042297,
+            45.97437286377,
+            10.986301422119,
+            45.983692169189
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.986301,
+                        45.979107
+                    ],
+                    [
+                        10.986059,
+                        45.978638
+                    ],
+                    [
+                        10.982583,
+                        45.975231
+                    ],
+                    [
+                        10.980298,
+                        45.974373
+                    ],
+                    [
+                        10.980824,
+                        45.983692
+                    ],
+                    [
+                        10.984965,
+                        45.982395
+                    ],
+                    [
+                        10.986301,
+                        45.979107
+                    ]
+                ]
+            ]
+        ]
+    }
+}

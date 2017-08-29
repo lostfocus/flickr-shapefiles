@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2362125,
+    "properties": {
+        "woe_id": 2362125,
+        "place_id": "XOcHxR6bAprq77Qg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Belltown, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468523,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2362125_20101216_8c447a5bee.tar.gz"
+        },
+        "bbox": [
+            -76.811790466309,
+            39.422752380371,
+            -76.804977416992,
+            39.427108764648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.806503,
+                        39.423332
+                    ],
+                    [
+                        -76.81179,
+                        39.427109
+                    ],
+                    [
+                        -76.804977,
+                        39.427048
+                    ],
+                    [
+                        -76.805679,
+                        39.422752
+                    ],
+                    [
+                        -76.806503,
+                        39.423332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

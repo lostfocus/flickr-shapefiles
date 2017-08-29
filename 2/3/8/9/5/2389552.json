@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2389552,
+    "properties": {
+        "woe_id": 2389552,
+        "place_id": "segMWVmbApSTJY06",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Davenport, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551480,
+        "alpha": 0.00015,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2389552_20101217_4d0e215ece.tar.gz"
+        },
+        "bbox": [
+            -74.93042755127,
+            42.443725585938,
+            -74.92113494873,
+            42.449554443359
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.929977,
+                        42.448002
+                    ],
+                    [
+                        -74.927269,
+                        42.449554
+                    ],
+                    [
+                        -74.921135,
+                        42.443726
+                    ],
+                    [
+                        -74.927834,
+                        42.445667
+                    ],
+                    [
+                        -74.930428,
+                        42.447418
+                    ],
+                    [
+                        -74.929977,
+                        42.448002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

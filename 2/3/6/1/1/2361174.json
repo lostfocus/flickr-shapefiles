@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2361174,
+    "properties": {
+        "woe_id": 2361174,
+        "place_id": "uSZ0Pz.bAppj6PFh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bedford, Wyoming, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292372764,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2361174_20101215_016bb115bd.tar.gz"
+        },
+        "bbox": [
+            -110.9881439209,
+            42.843185424805,
+            -110.97667694092,
+            42.854190826416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.988144,
+                        42.854187
+                    ],
+                    [
+                        -110.988144,
+                        42.854191
+                    ],
+                    [
+                        -110.988136,
+                        42.854172
+                    ],
+                    [
+                        -110.976677,
+                        42.843899
+                    ],
+                    [
+                        -110.977066,
+                        42.843185
+                    ],
+                    [
+                        -110.988136,
+                        42.854172
+                    ],
+                    [
+                        -110.988144,
+                        42.854187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

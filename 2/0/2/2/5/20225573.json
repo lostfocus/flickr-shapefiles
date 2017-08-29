@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20225573,
+    "properties": {
+        "woe_id": 20225573,
+        "place_id": "6F6bRdybAZ71c4mJQQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Raspay, Murcia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542678,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/20225573_20101216_2733febf7c.tar.gz"
+        },
+        "bbox": [
+            -1.091423034668,
+            38.441959381104,
+            -1.0890189409256,
+            38.444786071777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.089019,
+                        38.443909
+                    ],
+                    [
+                        -1.089985,
+                        38.441959
+                    ],
+                    [
+                        -1.090478,
+                        38.442631
+                    ],
+                    [
+                        -1.091423,
+                        38.443707
+                    ],
+                    [
+                        -1.089341,
+                        38.444786
+                    ],
+                    [
+                        -1.089019,
+                        38.443909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

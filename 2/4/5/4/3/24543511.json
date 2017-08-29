@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24543511,
+    "properties": {
+        "woe_id": 24543511,
+        "place_id": "Jo8TmBybBZnvvLk3cA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Serre Chevalier, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455257,
+        "alpha": 0.00015,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/24543511_20101215_890b5e2cd4.tar.gz"
+        },
+        "bbox": [
+            6.5856170654297,
+            44.930889129639,
+            6.5893068313599,
+            44.934059143066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.586561,
+                        44.931507
+                    ],
+                    [
+                        6.585617,
+                        44.932602
+                    ],
+                    [
+                        6.588191,
+                        44.934059
+                    ],
+                    [
+                        6.589307,
+                        44.931965
+                    ],
+                    [
+                        6.588873,
+                        44.930889
+                    ],
+                    [
+                        6.586561,
+                        44.931507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

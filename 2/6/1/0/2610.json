@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2610,
+    "properties": {
+        "woe_id": 2610,
+        "place_id": "xUCddQ6bB51w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Toutes Aides, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234937656,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3326\/shapefiles\/2610_20090218_f63730bc58.tar.gz"
+        },
+        "bbox": [
+            -99.560165405273,
+            51.541316986084,
+            -99.553123474121,
+            51.563732147217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.554497,
+                        51.563625
+                    ],
+                    [
+                        -99.553123,
+                        51.562504
+                    ],
+                    [
+                        -99.555016,
+                        51.541317
+                    ],
+                    [
+                        -99.560165,
+                        51.563732
+                    ],
+                    [
+                        -99.554497,
+                        51.563625
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20228242,
+    "properties": {
+        "woe_id": 20228242,
+        "place_id": "JQdol06bAZ7pz7O8Eg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parada, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452311,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/20228242_20101215_2b4cf3450d.tar.gz"
+        },
+        "bbox": [
+            -8.4977531433105,
+            42.501655578613,
+            -8.4788017272949,
+            42.527862548828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.497066,
+                        42.501656
+                    ],
+                    [
+                        -8.497753,
+                        42.516968
+                    ],
+                    [
+                        -8.493976,
+                        42.527863
+                    ],
+                    [
+                        -8.478802,
+                        42.516251
+                    ],
+                    [
+                        -8.486595,
+                        42.509563
+                    ],
+                    [
+                        -8.497066,
+                        42.501656
+                    ]
+                ]
+            ]
+        ]
+    }
+}

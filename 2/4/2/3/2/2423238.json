@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2423238,
+    "properties": {
+        "woe_id": 2423238,
+        "place_id": "AifKsEebBZ56lv1W",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hollowville, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248031682,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2492\/shapefiles\/2423238_20090719_aaf9e3288a.tar.gz"
+        },
+        "bbox": [
+            -73.695945739746,
+            42.205726623535,
+            -73.678352355957,
+            42.221622467041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.689697,
+                        42.205727
+                    ],
+                    [
+                        -73.695946,
+                        42.206268
+                    ],
+                    [
+                        -73.690369,
+                        42.212055
+                    ],
+                    [
+                        -73.678352,
+                        42.221622
+                    ],
+                    [
+                        -73.689697,
+                        42.205727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

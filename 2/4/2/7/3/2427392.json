@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2427392,
+    "properties": {
+        "woe_id": 2427392,
+        "place_id": "pB4JqSGbBZ4xZPCU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Iona, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456665,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2427392_20101215_ec044d45ed.tar.gz"
+        },
+        "bbox": [
+            -111.9928817749,
+            43.517559051514,
+            -111.96690368652,
+            43.533023834229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.978622,
+                        43.533024
+                    ],
+                    [
+                        -111.966904,
+                        43.517559
+                    ],
+                    [
+                        -111.984009,
+                        43.528515
+                    ],
+                    [
+                        -111.992111,
+                        43.522858
+                    ],
+                    [
+                        -111.992882,
+                        43.52306
+                    ],
+                    [
+                        -111.984276,
+                        43.528557
+                    ],
+                    [
+                        -111.978622,
+                        43.533024
+                    ]
+                ]
+            ]
+        ]
+    }
+}

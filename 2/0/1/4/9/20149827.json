@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20149827,
+    "properties": {
+        "woe_id": 20149827,
+        "place_id": "xyDq2c2bAZ3wo8AikA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ponte Nuovo, Umbria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234876578,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3443\/shapefiles\/20149827_20090217_006b183015.tar.gz"
+        },
+        "bbox": [
+            12.41678237915,
+            42.985687255859,
+            12.425880432129,
+            43.008285522461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.416782,
+                        42.987446
+                    ],
+                    [
+                        12.42588,
+                        43.008286
+                    ],
+                    [
+                        12.417812,
+                        42.987068
+                    ],
+                    [
+                        12.419185,
+                        42.985687
+                    ],
+                    [
+                        12.416782,
+                        42.987446
+                    ]
+                ]
+            ]
+        ]
+    }
+}

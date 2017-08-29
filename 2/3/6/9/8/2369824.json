@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2369824,
+    "properties": {
+        "woe_id": 2369824,
+        "place_id": "qAQuw9mbApq2Lujr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brookfield, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532579,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2369824_20101216_0e88148ae2.tar.gz"
+        },
+        "bbox": [
+            -75.360641479492,
+            42.826389312744,
+            -75.351387023926,
+            42.848266601562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.360641,
+                        42.848267
+                    ],
+                    [
+                        -75.360275,
+                        42.833332
+                    ],
+                    [
+                        -75.358887,
+                        42.832222
+                    ],
+                    [
+                        -75.351387,
+                        42.826389
+                    ],
+                    [
+                        -75.353615,
+                        42.827221
+                    ],
+                    [
+                        -75.358887,
+                        42.832222
+                    ],
+                    [
+                        -75.360275,
+                        42.833332
+                    ],
+                    [
+                        -75.360641,
+                        42.848267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

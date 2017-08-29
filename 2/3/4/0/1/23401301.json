@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23401301,
+    "properties": {
+        "woe_id": 23401301,
+        "place_id": "CJt5I4ubAphdhDuVNg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sebright, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521557,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/23401301_20101216_64b692aae2.tar.gz"
+        },
+        "bbox": [
+            -79.108856201172,
+            44.720390319824,
+            -79.097442626953,
+            44.727405548096
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.103966,
+                        44.727406
+                    ],
+                    [
+                        -79.099159,
+                        44.726856
+                    ],
+                    [
+                        -79.097443,
+                        44.722588
+                    ],
+                    [
+                        -79.108856,
+                        44.72039
+                    ],
+                    [
+                        -79.108429,
+                        44.72588
+                    ],
+                    [
+                        -79.103966,
+                        44.727406
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2511264,
+    "properties": {
+        "woe_id": 2511264,
+        "place_id": "xwOMW3mbBJ0bruFP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vandalia, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234490763,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3513\/shapefiles\/2511264_20090213_e9dbd3e7e6.tar.gz"
+        },
+        "bbox": [
+            -93.299942016602,
+            41.555080413818,
+            -93.279418945312,
+            41.564472198486
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.280533,
+                        41.559269
+                    ],
+                    [
+                        -93.299942,
+                        41.55508
+                    ],
+                    [
+                        -93.288498,
+                        41.564472
+                    ],
+                    [
+                        -93.279419,
+                        41.562
+                    ],
+                    [
+                        -93.280533,
+                        41.559269
+                    ]
+                ]
+            ]
+        ]
+    }
+}

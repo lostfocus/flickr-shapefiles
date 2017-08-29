@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2414139,
+    "properties": {
+        "woe_id": 2414139,
+        "place_id": "kxHjXnybBZ1D0ONI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Greenbriar, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234792099,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3335\/shapefiles\/2414139_20090216_49c855865f.tar.gz"
+        },
+        "bbox": [
+            -76.70076751709,
+            40.292087554932,
+            -76.690704345703,
+            40.304927825928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.690704,
+                        40.299568
+                    ],
+                    [
+                        -76.700645,
+                        40.292088
+                    ],
+                    [
+                        -76.700768,
+                        40.29229
+                    ],
+                    [
+                        -76.692444,
+                        40.304928
+                    ],
+                    [
+                        -76.690704,
+                        40.299568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

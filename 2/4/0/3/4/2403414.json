@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403414,
+    "properties": {
+        "woe_id": 2403414,
+        "place_id": "d7FEtCubBZzwIK0S",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fine, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542158,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2403414_20101216_1c15250619.tar.gz"
+        },
+        "bbox": [
+            -75.138412475586,
+            44.237083435059,
+            -75.110862731934,
+            44.252513885498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.110863,
+                        44.252514
+                    ],
+                    [
+                        -75.111382,
+                        44.237083
+                    ],
+                    [
+                        -75.134727,
+                        44.24268
+                    ],
+                    [
+                        -75.138412,
+                        44.250362
+                    ],
+                    [
+                        -75.1185,
+                        44.249489
+                    ],
+                    [
+                        -75.110863,
+                        44.252514
+                    ]
+                ]
+            ]
+        ]
+    }
+}

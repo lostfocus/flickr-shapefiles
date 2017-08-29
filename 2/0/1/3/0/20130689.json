@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20130689,
+    "properties": {
+        "woe_id": 20130689,
+        "place_id": "zQrLps6bAZ3YasmBLw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marina Lido, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495223,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20130689_20101216_c1612d2344.tar.gz"
+        },
+        "bbox": [
+            15.226534843445,
+            40.098426818848,
+            15.235203742981,
+            40.103309631348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.226535,
+                        40.101711
+                    ],
+                    [
+                        15.226643,
+                        40.10331
+                    ],
+                    [
+                        15.228295,
+                        40.102055
+                    ],
+                    [
+                        15.235204,
+                        40.098427
+                    ],
+                    [
+                        15.226535,
+                        40.101711
+                    ]
+                ]
+            ]
+        ]
+    }
+}

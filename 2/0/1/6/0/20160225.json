@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20160225,
+    "properties": {
+        "woe_id": 20160225,
+        "place_id": "ODgH.h2bAZ0Kfrsa.g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hanweiler, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234902965,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3514\/shapefiles\/20160225_20090217_55bc290130.tar.gz"
+        },
+        "bbox": [
+            9.3750705718994,
+            48.848648071289,
+            9.3754138946533,
+            48.851978302002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.375071,
+                        48.851727
+                    ],
+                    [
+                        9.375329,
+                        48.851978
+                    ],
+                    [
+                        9.375414,
+                        48.851936
+                    ],
+                    [
+                        9.375371,
+                        48.848648
+                    ],
+                    [
+                        9.375071,
+                        48.851727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

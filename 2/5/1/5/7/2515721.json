@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2515721,
+    "properties": {
+        "woe_id": 2515721,
+        "place_id": "oz9ngNabBJ3OkbJd",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Weatherby, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478497,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2515721_20101216_58352e5236.tar.gz"
+        },
+        "bbox": [
+            -94.227409362793,
+            39.88049697876,
+            -94.224884033203,
+            39.882717132568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.227394,
+                        39.881603
+                    ],
+                    [
+                        -94.227409,
+                        39.881828
+                    ],
+                    [
+                        -94.224884,
+                        39.882717
+                    ],
+                    [
+                        -94.22596,
+                        39.880497
+                    ],
+                    [
+                        -94.227394,
+                        39.881603
+                    ]
+                ]
+            ]
+        ]
+    }
+}

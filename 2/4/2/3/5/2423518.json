@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2423518,
+    "properties": {
+        "woe_id": 2423518,
+        "place_id": "T6k2QSObBZ5PWZ63",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Holmehurst, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234590725,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3526\/shapefiles\/2423518_20090214_ca086292f8.tar.gz"
+        },
+        "bbox": [
+            -76.809776306152,
+            38.942386627197,
+            -76.801826477051,
+            38.9626121521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.809776,
+                        38.962612
+                    ],
+                    [
+                        -76.805267,
+                        38.958195
+                    ],
+                    [
+                        -76.801826,
+                        38.942387
+                    ],
+                    [
+                        -76.80954,
+                        38.948463
+                    ],
+                    [
+                        -76.809776,
+                        38.962612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

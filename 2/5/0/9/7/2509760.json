@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2509760,
+    "properties": {
+        "woe_id": 2509760,
+        "place_id": "ur049N2bBJxgfYSF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Union City, Connecticut, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234623724,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3474\/shapefiles\/2509760_20090214_8c6a48049a.tar.gz"
+        },
+        "bbox": [
+            -73.054534912109,
+            41.48755645752,
+            -73.048309326172,
+            41.502468109131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.052559,
+                        41.492504
+                    ],
+                    [
+                        -73.054535,
+                        41.495262
+                    ],
+                    [
+                        -73.048782,
+                        41.502468
+                    ],
+                    [
+                        -73.048309,
+                        41.487556
+                    ],
+                    [
+                        -73.052559,
+                        41.492504
+                    ]
+                ]
+            ]
+        ]
+    }
+}

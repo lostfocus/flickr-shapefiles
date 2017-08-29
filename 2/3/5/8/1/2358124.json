@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2358124,
+    "properties": {
+        "woe_id": 2358124,
+        "place_id": "bbvOaCGbApnDzLGv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Back Bay, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525913,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2358124_20101216_af2ed10762.tar.gz"
+        },
+        "bbox": [
+            -76.544944763184,
+            38.829986572266,
+            -76.542152404785,
+            38.831256866455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.542824,
+                        38.831257
+                    ],
+                    [
+                        -76.542152,
+                        38.830948
+                    ],
+                    [
+                        -76.543739,
+                        38.829987
+                    ],
+                    [
+                        -76.544945,
+                        38.8312
+                    ],
+                    [
+                        -76.542824,
+                        38.831257
+                    ]
+                ]
+            ]
+        ]
+    }
+}

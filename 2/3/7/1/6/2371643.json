@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2371643,
+    "properties": {
+        "woe_id": 2371643,
+        "place_id": "JvYHoQObApuXPSGZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bull Run, Tennessee, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234569483,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3388\/shapefiles\/2371643_20090213_bb724b0055.tar.gz"
+        },
+        "bbox": [
+            -84.112098693848,
+            36.020500183105,
+            -84.092834472656,
+            36.037162780762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.105881,
+                        36.037163
+                    ],
+                    [
+                        -84.092834,
+                        36.029457
+                    ],
+                    [
+                        -84.095062,
+                        36.0205
+                    ],
+                    [
+                        -84.112099,
+                        36.03421
+                    ],
+                    [
+                        -84.105881,
+                        36.037163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

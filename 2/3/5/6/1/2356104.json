@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2356104,
+    "properties": {
+        "woe_id": 2356104,
+        "place_id": "7S85T1ebApkXHOXP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arnesen, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546289,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2356104_20101217_f817a7499a.tar.gz"
+        },
+        "bbox": [
+            -95.068588256836,
+            48.956832885742,
+            -95.059204101562,
+            48.960933685303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.067574,
+                        48.960934
+                    ],
+                    [
+                        -95.059204,
+                        48.958694
+                    ],
+                    [
+                        -95.068214,
+                        48.956833
+                    ],
+                    [
+                        -95.068588,
+                        48.959328
+                    ],
+                    [
+                        -95.067574,
+                        48.960934
+                    ]
+                ]
+            ]
+        ]
+    }
+}

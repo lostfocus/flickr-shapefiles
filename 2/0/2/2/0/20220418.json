@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20220418,
+    "properties": {
+        "woe_id": 20220418,
+        "place_id": "5QRpNyCbAZ5jWzXvJQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aguas Nuevas, Castille la Mancha, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471587,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20220418_20101216_c071b29f52.tar.gz"
+        },
+        "bbox": [
+            -1.9210410118103,
+            38.913070678711,
+            -1.914409995079,
+            38.924995422363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.921041,
+                        38.919209
+                    ],
+                    [
+                        -1.92089,
+                        38.922325
+                    ],
+                    [
+                        -1.91441,
+                        38.924995
+                    ],
+                    [
+                        -1.918895,
+                        38.913071
+                    ],
+                    [
+                        -1.921041,
+                        38.919209
+                    ]
+                ]
+            ]
+        ]
+    }
+}

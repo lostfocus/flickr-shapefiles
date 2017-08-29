@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2413955,
+    "properties": {
+        "woe_id": 2413955,
+        "place_id": "A2SoPjObBZ3dQ5fV",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Green Park, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229447533,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3283\/shapefiles\/2413955_20081216_ae34ecd9d7.tar.gz"
+        },
+        "bbox": [
+            -90.347442626953,
+            38.513893127441,
+            -90.339172363281,
+            38.532085418701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.339172,
+                        38.513893
+                    ],
+                    [
+                        -90.347443,
+                        38.522324
+                    ],
+                    [
+                        -90.344917,
+                        38.524063
+                    ],
+                    [
+                        -90.339203,
+                        38.532085
+                    ],
+                    [
+                        -90.339172,
+                        38.513893
+                    ]
+                ]
+            ]
+        ]
+    }
+}

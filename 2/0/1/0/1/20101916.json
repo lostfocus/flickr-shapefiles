@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20101916,
+    "properties": {
+        "woe_id": 20101916,
+        "place_id": ".At2vi2bAZ3wtchxVw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gorla, Canton of Ticino, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234496766,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3365\/shapefiles\/20101916_20090213_c1cf91768f.tar.gz"
+        },
+        "bbox": [
+            9.0023508071899,
+            45.852027893066,
+            9.0124788284302,
+            45.860038757324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.012479,
+                        45.856213
+                    ],
+                    [
+                        9.011535,
+                        45.852028
+                    ],
+                    [
+                        9.002351,
+                        45.860039
+                    ],
+                    [
+                        9.009926,
+                        45.859322
+                    ],
+                    [
+                        9.012479,
+                        45.856213
+                    ]
+                ]
+            ]
+        ]
+    }
+}

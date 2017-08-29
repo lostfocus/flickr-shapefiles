@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20151225,
+    "properties": {
+        "woe_id": 20151225,
+        "place_id": "PFHgOVabAZ1eRSk_fw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kolvik, Vastra Gotaland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530742,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/20151225_20101216_b68df70b54.tar.gz"
+        },
+        "bbox": [
+            11.541179656982,
+            58.320041656494,
+            11.559136390686,
+            58.334438323975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.558852,
+                        58.320065
+                    ],
+                    [
+                        11.557591,
+                        58.320042
+                    ],
+                    [
+                        11.557575,
+                        58.320049
+                    ],
+                    [
+                        11.54118,
+                        58.334438
+                    ],
+                    [
+                        11.558519,
+                        58.320873
+                    ],
+                    [
+                        11.559136,
+                        58.320175
+                    ],
+                    [
+                        11.558852,
+                        58.320065
+                    ]
+                ]
+            ]
+        ]
+    }
+}

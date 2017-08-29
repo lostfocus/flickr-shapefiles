@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2370086,
+    "properties": {
+        "woe_id": 2370086,
+        "place_id": "ilzkm_ybApuA7PkB",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brookside, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448983,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2370086_20101215_3218c2bba2.tar.gz"
+        },
+        "bbox": [
+            -76.377685546875,
+            40.498592376709,
+            -76.358757019043,
+            40.507793426514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.360641,
+                        40.498627
+                    ],
+                    [
+                        -76.377686,
+                        40.507793
+                    ],
+                    [
+                        -76.359726,
+                        40.500473
+                    ],
+                    [
+                        -76.359222,
+                        40.500221
+                    ],
+                    [
+                        -76.358757,
+                        40.498592
+                    ],
+                    [
+                        -76.360641,
+                        40.498627
+                    ]
+                ]
+            ]
+        ]
+    }
+}

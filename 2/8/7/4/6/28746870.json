@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746870,
+    "properties": {
+        "woe_id": 28746870,
+        "place_id": "1dXyK8GbCZvpCVMcuw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beechwood, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522351,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/28746870_20101216_87177b3cc1.tar.gz"
+        },
+        "bbox": [
+            -86.21484375,
+            41.983131408691,
+            -86.205337524414,
+            41.999050140381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.212036,
+                        41.983131
+                    ],
+                    [
+                        -86.214844,
+                        41.99905
+                    ],
+                    [
+                        -86.205338,
+                        41.99535
+                    ],
+                    [
+                        -86.208336,
+                        41.985527
+                    ],
+                    [
+                        -86.212036,
+                        41.983131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

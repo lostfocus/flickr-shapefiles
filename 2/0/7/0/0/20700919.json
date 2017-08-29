@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20700919,
+    "properties": {
+        "woe_id": 20700919,
+        "place_id": "j6RnVn6bAZtDp7ZD0A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Bourg, Channel Islands, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538280,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/20700919_20101216_3a9a704463.tar.gz"
+        },
+        "bbox": [
+            -2.5944890975952,
+            49.42013168335,
+            -2.585520029068,
+            49.433582305908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.594042,
+                        49.431076
+                    ],
+                    [
+                        -2.594489,
+                        49.433304
+                    ],
+                    [
+                        -2.587494,
+                        49.433582
+                    ],
+                    [
+                        -2.58552,
+                        49.43269
+                    ],
+                    [
+                        -2.591829,
+                        49.420132
+                    ],
+                    [
+                        -2.594042,
+                        49.431076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

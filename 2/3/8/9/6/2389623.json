@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2389623,
+    "properties": {
+        "woe_id": 2389623,
+        "place_id": "2AbW3GabApR7Tg1R",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Davis, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528276,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2389623_20101216_2557a93b68.tar.gz"
+        },
+        "bbox": [
+            -84.451248168945,
+            38.387954711914,
+            -84.449508666992,
+            38.389873504639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.450127,
+                        38.387955
+                    ],
+                    [
+                        -84.450699,
+                        38.38802
+                    ],
+                    [
+                        -84.451248,
+                        38.389874
+                    ],
+                    [
+                        -84.449585,
+                        38.388912
+                    ],
+                    [
+                        -84.449509,
+                        38.388527
+                    ],
+                    [
+                        -84.449608,
+                        38.388264
+                    ],
+                    [
+                        -84.450127,
+                        38.387955
+                    ]
+                ]
+            ]
+        ]
+    }
+}

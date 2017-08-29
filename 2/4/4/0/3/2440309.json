@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2440309,
+    "properties": {
+        "woe_id": 2440309,
+        "place_id": "wOMuE1ybBZhrBSVF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Little Rapids, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522108,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2440309_20101216_8df846073b.tar.gz"
+        },
+        "bbox": [
+            -74.919548034668,
+            43.903102874756,
+            -74.908561706543,
+            43.91304397583
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.908562,
+                        43.912361
+                    ],
+                    [
+                        -74.910255,
+                        43.903103
+                    ],
+                    [
+                        -74.919548,
+                        43.912178
+                    ],
+                    [
+                        -74.908562,
+                        43.913044
+                    ],
+                    [
+                        -74.908562,
+                        43.912361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

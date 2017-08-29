@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220722,
+    "properties": {
+        "woe_id": 20220722,
+        "place_id": "879sG.ybAZ77HYIwxQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Balcaide, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495527,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/20220722_20101216_2860ae6d86.tar.gz"
+        },
+        "bbox": [
+            -8.6069288253784,
+            42.820526123047,
+            -8.5925960540771,
+            42.835254669189
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.592596,
+                        42.820648
+                    ],
+                    [
+                        -8.592724,
+                        42.820526
+                    ],
+                    [
+                        -8.595224,
+                        42.822151
+                    ],
+                    [
+                        -8.595527,
+                        42.825382
+                    ],
+                    [
+                        -8.606929,
+                        42.835255
+                    ],
+                    [
+                        -8.593234,
+                        42.825607
+                    ],
+                    [
+                        -8.592596,
+                        42.820648
+                    ]
+                ]
+            ]
+        ]
+    }
+}

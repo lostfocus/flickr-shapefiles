@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20210433,
+    "properties": {
+        "woe_id": 20210433,
+        "place_id": "nUH2uxObAZ4sOedgfw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Toussuire, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443949,
+        "alpha": 0.00015,
+        "points": 33,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/20210433_20101215_b8be10b2b6.tar.gz"
+        },
+        "bbox": [
+            6.2403330802917,
+            45.252414703369,
+            6.266411781311,
+            45.263832092285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.256692,
+                        45.253178
+                    ],
+                    [
+                        6.251907,
+                        45.252415
+                    ],
+                    [
+                        6.240333,
+                        45.263832
+                    ],
+                    [
+                        6.258945,
+                        45.262199
+                    ],
+                    [
+                        6.266412,
+                        45.255405
+                    ],
+                    [
+                        6.26049,
+                        45.254829
+                    ],
+                    [
+                        6.256692,
+                        45.253178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

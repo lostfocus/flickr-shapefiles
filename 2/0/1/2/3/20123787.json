@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20123787,
+    "properties": {
+        "woe_id": 20123787,
+        "place_id": "JrR0AYCbAZ0JrZYxGA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fabbrica, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519021,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/20123787_20101216_b29b83c80e.tar.gz"
+        },
+        "bbox": [
+            10.761108398438,
+            43.48811340332,
+            10.773552894592,
+            43.496364593506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.761795,
+                        43.488174
+                    ],
+                    [
+                        10.761108,
+                        43.48917
+                    ],
+                    [
+                        10.761451,
+                        43.492844
+                    ],
+                    [
+                        10.773553,
+                        43.496365
+                    ],
+                    [
+                        10.765314,
+                        43.488113
+                    ],
+                    [
+                        10.761795,
+                        43.488174
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2378172,
+    "properties": {
+        "woe_id": 2378172,
+        "place_id": "4e9soTybApvRIBpC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chapin, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248096008,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2513\/shapefiles\/2378172_20090720_73e56062bd.tar.gz"
+        },
+        "bbox": [
+            -79.31526184082,
+            38.165504455566,
+            -79.305366516113,
+            38.166954040527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.315262,
+                        38.16584
+                    ],
+                    [
+                        -79.315109,
+                        38.166954
+                    ],
+                    [
+                        -79.314079,
+                        38.166397
+                    ],
+                    [
+                        -79.305367,
+                        38.165504
+                    ],
+                    [
+                        -79.315262,
+                        38.16584
+                    ]
+                ]
+            ]
+        ]
+    }
+}

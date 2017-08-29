@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2354285,
+    "properties": {
+        "woe_id": 2354285,
+        "place_id": "FcYaT2WbAplZCIfz",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ames, West Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532720,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2354285_20101216_023c4c69ef.tar.gz"
+        },
+        "bbox": [
+            -81.090385437012,
+            38.085594177246,
+            -81.079948425293,
+            38.095626831055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.086731,
+                        38.089821
+                    ],
+                    [
+                        -81.090385,
+                        38.094055
+                    ],
+                    [
+                        -81.086052,
+                        38.095627
+                    ],
+                    [
+                        -81.079948,
+                        38.085594
+                    ],
+                    [
+                        -81.083649,
+                        38.085762
+                    ],
+                    [
+                        -81.086731,
+                        38.089821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

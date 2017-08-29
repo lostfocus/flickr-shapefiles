@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2506160,
+    "properties": {
+        "woe_id": 2506160,
+        "place_id": "YIsKRZabBJyhfIqA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Thurman, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546108,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2506160_20101217_a971ff405a.tar.gz"
+        },
+        "bbox": [
+            -73.972396850586,
+            43.537738800049,
+            -73.962600708008,
+            43.548877716064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.962791,
+                        43.546246
+                    ],
+                    [
+                        -73.962601,
+                        43.544815
+                    ],
+                    [
+                        -73.966743,
+                        43.537739
+                    ],
+                    [
+                        -73.972397,
+                        43.548878
+                    ],
+                    [
+                        -73.967026,
+                        43.548347
+                    ],
+                    [
+                        -73.964897,
+                        43.548111
+                    ],
+                    [
+                        -73.962791,
+                        43.546246
+                    ]
+                ]
+            ]
+        ]
+    }
+}

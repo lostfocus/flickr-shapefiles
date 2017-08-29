@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2427615,
+    "properties": {
+        "woe_id": 2427615,
+        "place_id": "82sC5sibBZ5ZwvbI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ironshire, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456706,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2427615_20101215_76435ea09d.tar.gz"
+        },
+        "bbox": [
+            -75.232627868652,
+            38.281856536865,
+            -75.229393005371,
+            38.288822174072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.229393,
+                        38.288822
+                    ],
+                    [
+                        -75.229797,
+                        38.287819
+                    ],
+                    [
+                        -75.231903,
+                        38.28286
+                    ],
+                    [
+                        -75.232628,
+                        38.281857
+                    ],
+                    [
+                        -75.230682,
+                        38.288723
+                    ],
+                    [
+                        -75.229393,
+                        38.288822
+                    ]
+                ]
+            ]
+        ]
+    }
+}

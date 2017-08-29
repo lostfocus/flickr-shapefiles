@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23510998,
+    "properties": {
+        "woe_id": 23510998,
+        "place_id": "EQyet.ebApmkyUM9Tg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Point Clair, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441942,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/23510998_20101215_babb422efb.tar.gz"
+        },
+        "bbox": [
+            -91.171806335449,
+            30.189649581909,
+            -91.160041809082,
+            30.21598815918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.160431,
+                        30.18965
+                    ],
+                    [
+                        -91.171806,
+                        30.196512
+                    ],
+                    [
+                        -91.163399,
+                        30.215988
+                    ],
+                    [
+                        -91.160042,
+                        30.192556
+                    ],
+                    [
+                        -91.160431,
+                        30.18965
+                    ]
+                ]
+            ]
+        ]
+    }
+}

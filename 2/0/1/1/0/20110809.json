@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20110809,
+    "properties": {
+        "woe_id": 20110809,
+        "place_id": "qY9OWQ6bAZ27dPRpzg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bardassano, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488026,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/20110809_20101216_1672dc7933.tar.gz"
+        },
+        "bbox": [
+            7.8406758308411,
+            45.094165802002,
+            7.858314037323,
+            45.098064422607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.842242,
+                        45.09729
+                    ],
+                    [
+                        7.8428,
+                        45.096928
+                    ],
+                    [
+                        7.858314,
+                        45.098064
+                    ],
+                    [
+                        7.855499,
+                        45.094166
+                    ],
+                    [
+                        7.842017,
+                        45.096519
+                    ],
+                    [
+                        7.840676,
+                        45.097614
+                    ],
+                    [
+                        7.842242,
+                        45.09729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

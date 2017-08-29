@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20104256,
+    "properties": {
+        "woe_id": 20104256,
+        "place_id": "LeyLJk2bAZ0EMKToBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sorencino, Canton of Ticino, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234767243,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3448\/shapefiles\/20104256_20090216_9368b8ff82.tar.gz"
+        },
+        "bbox": [
+            8.9174861907959,
+            46.115310668945,
+            8.9224863052368,
+            46.118049621582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.920726,
+                        46.11805
+                    ],
+                    [
+                        8.922486,
+                        46.116608
+                    ],
+                    [
+                        8.921327,
+                        46.115948
+                    ],
+                    [
+                        8.917486,
+                        46.115311
+                    ],
+                    [
+                        8.920726,
+                        46.11805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

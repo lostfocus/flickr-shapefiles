@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20136919,
+    "properties": {
+        "woe_id": 20136919,
+        "place_id": "kSF3baqbAZ2ZIx75VA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pizzale, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445567,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/20136919_20101215_c096c376e5.tar.gz"
+        },
+        "bbox": [
+            9.0465536117554,
+            45.028770446777,
+            9.0572834014893,
+            45.037574768066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.048228,
+                        45.029308
+                    ],
+                    [
+                        9.046554,
+                        45.02877
+                    ],
+                    [
+                        9.049301,
+                        45.034107
+                    ],
+                    [
+                        9.057283,
+                        45.037575
+                    ],
+                    [
+                        9.049086,
+                        45.029942
+                    ],
+                    [
+                        9.048228,
+                        45.029308
+                    ]
+                ]
+            ]
+        ]
+    }
+}

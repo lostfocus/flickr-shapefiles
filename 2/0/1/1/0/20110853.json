@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20110853,
+    "properties": {
+        "woe_id": 20110853,
+        "place_id": "Y4BlnmObAZ3UaEM6iQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Baricetta, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540704,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/20110853_20101216_20f16e7fea.tar.gz"
+        },
+        "bbox": [
+            11.993926048279,
+            45.056438446045,
+            12.001726150513,
+            45.060615539551
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.994731,
+                        45.060616
+                    ],
+                    [
+                        12.001726,
+                        45.058987
+                    ],
+                    [
+                        12.001147,
+                        45.058601
+                    ],
+                    [
+                        11.998282,
+                        45.056438
+                    ],
+                    [
+                        11.993926,
+                        45.060402
+                    ],
+                    [
+                        11.994731,
+                        45.060616
+                    ]
+                ]
+            ]
+        ]
+    }
+}

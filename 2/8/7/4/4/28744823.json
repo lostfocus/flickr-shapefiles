@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28744823,
+    "properties": {
+        "woe_id": 28744823,
+        "place_id": "8l4NReabCZsMGUEvQA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lancaster, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551426,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/28744823_20101217_93229a6a40.tar.gz"
+        },
+        "bbox": [
+            -80.126724243164,
+            40.851402282715,
+            -80.108184814453,
+            40.867183685303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.119621,
+                        40.851402
+                    ],
+                    [
+                        -80.126724,
+                        40.85537
+                    ],
+                    [
+                        -80.112648,
+                        40.867184
+                    ],
+                    [
+                        -80.108185,
+                        40.857449
+                    ],
+                    [
+                        -80.119621,
+                        40.851402
+                    ]
+                ]
+            ]
+        ]
+    }
+}

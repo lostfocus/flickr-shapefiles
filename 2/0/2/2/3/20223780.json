@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20223780,
+    "properties": {
+        "woe_id": 20223780,
+        "place_id": "YEkKjUWbAZ5BxPsXvA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Pizarrera, Madrid, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523557,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/20223780_20101216_4f7e346896.tar.gz"
+        },
+        "bbox": [
+            -4.0802187919617,
+            40.549808502197,
+            -4.072151184082,
+            40.551242828369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.080219,
+                        40.549809
+                    ],
+                    [
+                        -4.078547,
+                        40.550373
+                    ],
+                    [
+                        -4.073181,
+                        40.551243
+                    ],
+                    [
+                        -4.072151,
+                        40.551113
+                    ],
+                    [
+                        -4.078815,
+                        40.550232
+                    ],
+                    [
+                        -4.080219,
+                        40.549809
+                    ]
+                ]
+            ]
+        ]
+    }
+}

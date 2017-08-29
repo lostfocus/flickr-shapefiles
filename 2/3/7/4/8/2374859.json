@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2374859,
+    "properties": {
+        "woe_id": 2374859,
+        "place_id": "yuadPyKbApt55EMF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Carbonton, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234701725,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3537\/shapefiles\/2374859_20090215_19f2604066.tar.gz"
+        },
+        "bbox": [
+            -79.348495483398,
+            35.518657684326,
+            -79.34107208252,
+            35.529502868652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.348145,
+                        35.519627
+                    ],
+                    [
+                        -79.348495,
+                        35.520561
+                    ],
+                    [
+                        -79.341072,
+                        35.529503
+                    ],
+                    [
+                        -79.347145,
+                        35.519573
+                    ],
+                    [
+                        -79.347244,
+                        35.518658
+                    ],
+                    [
+                        -79.348145,
+                        35.519627
+                    ]
+                ]
+            ]
+        ]
+    }
+}

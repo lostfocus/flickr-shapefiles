@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23403844,
+    "properties": {
+        "woe_id": 23403844,
+        "place_id": "yQeV9LGbApiW0Srd1w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sandy Beach, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247978644,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3198\/shapefiles\/23403844_20090719_8c5f8d0041.tar.gz"
+        },
+        "bbox": [
+            -103.6522064209,
+            50.723987579346,
+            -103.6379776001,
+            50.734119415283
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.649437,
+                        50.723988
+                    ],
+                    [
+                        -103.652206,
+                        50.727669
+                    ],
+                    [
+                        -103.637978,
+                        50.734119
+                    ],
+                    [
+                        -103.640488,
+                        50.726242
+                    ],
+                    [
+                        -103.649437,
+                        50.723988
+                    ]
+                ]
+            ]
+        ]
+    }
+}

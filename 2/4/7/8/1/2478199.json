@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2478199,
+    "properties": {
+        "woe_id": 2478199,
+        "place_id": "siF6wMqbBZsrpgSk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rainbow, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517526,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2478199_20101216_656ff283e2.tar.gz"
+        },
+        "bbox": [
+            -86.740447998047,
+            34.753353118896,
+            -86.734657287598,
+            34.758361816406
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.734657,
+                        34.758221
+                    ],
+                    [
+                        -86.737038,
+                        34.753353
+                    ],
+                    [
+                        -86.740448,
+                        34.753769
+                    ],
+                    [
+                        -86.736267,
+                        34.758362
+                    ],
+                    [
+                        -86.734657,
+                        34.758221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

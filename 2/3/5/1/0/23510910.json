@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23510910,
+    "properties": {
+        "woe_id": 23510910,
+        "place_id": "ahRkYXqbAplTu0bfww",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Knapp Lake, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445814,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/23510910_20101215_b1b7043027.tar.gz"
+        },
+        "bbox": [
+            -85.608039855957,
+            41.342601776123,
+            -85.602333068848,
+            41.344612121582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.604233,
+                        41.342602
+                    ],
+                    [
+                        -85.606445,
+                        41.342861
+                    ],
+                    [
+                        -85.60804,
+                        41.343952
+                    ],
+                    [
+                        -85.60537,
+                        41.344612
+                    ],
+                    [
+                        -85.602333,
+                        41.342663
+                    ],
+                    [
+                        -85.604233,
+                        41.342602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20093617,
+    "properties": {
+        "woe_id": 20093617,
+        "place_id": "G85mknmbAZwCUpN6mQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Drift, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536862,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/20093617_20101216_19f88faec8.tar.gz"
+        },
+        "bbox": [
+            -5.5879211425781,
+            50.101299285889,
+            -5.5825700759888,
+            50.104862213135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.585603,
+                        50.104862
+                    ],
+                    [
+                        -5.58257,
+                        50.101501
+                    ],
+                    [
+                        -5.58265,
+                        50.101299
+                    ],
+                    [
+                        -5.587921,
+                        50.103073
+                    ],
+                    [
+                        -5.585818,
+                        50.104752
+                    ],
+                    [
+                        -5.585603,
+                        50.104862
+                    ]
+                ]
+            ]
+        ]
+    }
+}

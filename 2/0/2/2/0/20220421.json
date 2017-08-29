@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220421,
+    "properties": {
+        "woe_id": 20220421,
+        "place_id": "D_gzVf.bAZ618mEtPg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aguerche, Canary Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441826,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/20220421_20101215_06e68bc644.tar.gz"
+        },
+        "bbox": [
+            -16.45059967041,
+            28.243841171265,
+            -16.434293746948,
+            28.250038146973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -16.435804,
+                        28.24954
+                    ],
+                    [
+                        -16.434294,
+                        28.248581
+                    ],
+                    [
+                        -16.434456,
+                        28.248425
+                    ],
+                    [
+                        -16.438822,
+                        28.249529
+                    ],
+                    [
+                        -16.4506,
+                        28.243841
+                    ],
+                    [
+                        -16.439026,
+                        28.250038
+                    ],
+                    [
+                        -16.435804,
+                        28.24954
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2405012,
+    "properties": {
+        "woe_id": 2405012,
+        "place_id": "2SlLuHqbBZxxftI1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539433,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2405012_20101216_dd0dfe3840.tar.gz"
+        },
+        "bbox": [
+            -77.69359588623,
+            40.9541015625,
+            -77.680374145508,
+            40.965667724609
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.686737,
+                        40.965668
+                    ],
+                    [
+                        -77.680374,
+                        40.957653
+                    ],
+                    [
+                        -77.681625,
+                        40.955498
+                    ],
+                    [
+                        -77.685059,
+                        40.954102
+                    ],
+                    [
+                        -77.693596,
+                        40.95673
+                    ],
+                    [
+                        -77.687134,
+                        40.965462
+                    ],
+                    [
+                        -77.686737,
+                        40.965668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518533,
+    "properties": {
+        "woe_id": 2518533,
+        "place_id": "ux2DKwubBJ0GCQpJ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Westry, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548694,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/2518533_20101217_965882427f.tar.gz"
+        },
+        "bbox": [
+            -77.904373168945,
+            35.955932617188,
+            -77.890502929688,
+            35.991027832031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.890503,
+                        35.9715
+                    ],
+                    [
+                        -77.904373,
+                        35.955933
+                    ],
+                    [
+                        -77.899544,
+                        35.972233
+                    ],
+                    [
+                        -77.901733,
+                        35.989361
+                    ],
+                    [
+                        -77.895332,
+                        35.991028
+                    ],
+                    [
+                        -77.890503,
+                        35.9715
+                    ]
+                ]
+            ]
+        ]
+    }
+}

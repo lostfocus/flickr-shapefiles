@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20090620,
+    "properties": {
+        "woe_id": 20090620,
+        "place_id": "JZq8_yubAZwt9cy0Fw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Whitemire, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441606,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/20090620_20101215_fc28e63620.tar.gz"
+        },
+        "bbox": [
+            -3.7954330444336,
+            57.553234100342,
+            -3.7902829647064,
+            57.55525970459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.794403,
+                        57.553879
+                    ],
+                    [
+                        -3.795433,
+                        57.55397
+                    ],
+                    [
+                        -3.793373,
+                        57.554432
+                    ],
+                    [
+                        -3.790283,
+                        57.55526
+                    ],
+                    [
+                        -3.791656,
+                        57.553234
+                    ],
+                    [
+                        -3.794403,
+                        57.553879
+                    ]
+                ]
+            ]
+        ]
+    }
+}

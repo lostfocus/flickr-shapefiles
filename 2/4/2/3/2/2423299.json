@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2423299,
+    "properties": {
+        "woe_id": 2423299,
+        "place_id": "JWyvljqbBZ5xGgRp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Holly Hill, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533267,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2423299_20101216_fe933b90c0.tar.gz"
+        },
+        "bbox": [
+            -77.176704406738,
+            39.003601074219,
+            -77.156562805176,
+            39.011833190918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.176704,
+                        39.008911
+                    ],
+                    [
+                        -77.175499,
+                        39.011833
+                    ],
+                    [
+                        -77.168915,
+                        39.010914
+                    ],
+                    [
+                        -77.156563,
+                        39.003601
+                    ],
+                    [
+                        -77.166512,
+                        39.006313
+                    ],
+                    [
+                        -77.176704,
+                        39.008911
+                    ]
+                ]
+            ]
+        ]
+    }
+}

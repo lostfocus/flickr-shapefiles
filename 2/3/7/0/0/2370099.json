@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2370099,
+    "properties": {
+        "woe_id": 2370099,
+        "place_id": "zCHeql.bApu1_U71",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brookside, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234761137,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3516\/shapefiles\/2370099_20090216_9388f66d10.tar.gz"
+        },
+        "bbox": [
+            -86.91919708252,
+            33.626697540283,
+            -86.914665222168,
+            33.638454437256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.919197,
+                        33.637901
+                    ],
+                    [
+                        -86.917931,
+                        33.638454
+                    ],
+                    [
+                        -86.914665,
+                        33.626698
+                    ],
+                    [
+                        -86.918678,
+                        33.637024
+                    ],
+                    [
+                        -86.919197,
+                        33.637901
+                    ]
+                ]
+            ]
+        ]
+    }
+}

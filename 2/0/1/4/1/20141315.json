@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20141315,
+    "properties": {
+        "woe_id": 20141315,
+        "place_id": "eUiLGeKbAZ1r6So5Ag",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Giovanni in Galilea, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521399,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/20141315_20101216_daf3bf589d.tar.gz"
+        },
+        "bbox": [
+            12.338848114014,
+            43.998989105225,
+            12.354125022888,
+            44.004299163818
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.350606,
+                        43.99976
+                    ],
+                    [
+                        12.346229,
+                        43.998989
+                    ],
+                    [
+                        12.338848,
+                        44.004299
+                    ],
+                    [
+                        12.348654,
+                        44.00053
+                    ],
+                    [
+                        12.354125,
+                        44.000679
+                    ],
+                    [
+                        12.350606,
+                        43.99976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

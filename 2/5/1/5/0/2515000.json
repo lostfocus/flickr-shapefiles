@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2515000,
+    "properties": {
+        "woe_id": 2515000,
+        "place_id": "M_d0qCybBJ1OoztE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Watauga, South Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538105,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2515000_20101216_9cde18cdf8.tar.gz"
+        },
+        "bbox": [
+            -101.5422744751,
+            45.92115020752,
+            -101.52877807617,
+            45.929183959961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.541702,
+                        45.921719
+                    ],
+                    [
+                        -101.542274,
+                        45.922749
+                    ],
+                    [
+                        -101.531525,
+                        45.929184
+                    ],
+                    [
+                        -101.528778,
+                        45.922977
+                    ],
+                    [
+                        -101.535912,
+                        45.92115
+                    ],
+                    [
+                        -101.541664,
+                        45.921665
+                    ],
+                    [
+                        -101.541702,
+                        45.921719
+                    ]
+                ]
+            ]
+        ]
+    }
+}

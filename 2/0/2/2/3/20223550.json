@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20223550,
+    "properties": {
+        "woe_id": 20223550,
+        "place_id": "2TZQ58ebAZ42uNdyfw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Calzada, Canary Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248197401,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2615\/shapefiles\/20223550_20090721_0dc0268af2.tar.gz"
+        },
+        "bbox": [
+            -15.469435691833,
+            28.056169509888,
+            -15.460081100464,
+            28.061660766602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -15.460081,
+                        28.060942
+                    ],
+                    [
+                        -15.460166,
+                        28.060013
+                    ],
+                    [
+                        -15.460853,
+                        28.058348
+                    ],
+                    [
+                        -15.463471,
+                        28.05617
+                    ],
+                    [
+                        -15.469436,
+                        28.05971
+                    ],
+                    [
+                        -15.46669,
+                        28.060999
+                    ],
+                    [
+                        -15.464544,
+                        28.061661
+                    ],
+                    [
+                        -15.460081,
+                        28.060942
+                    ]
+                ]
+            ]
+        ]
+    }
+}

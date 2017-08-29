@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20120245,
+    "properties": {
+        "woe_id": 20120245,
+        "place_id": "MRsUEkebAZ0CE_ycHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chiastra, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547515,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/20120245_20101217_cf9ff1748d.tar.gz"
+        },
+        "bbox": [
+            10.034230232239,
+            44.568992614746,
+            10.052231788635,
+            44.576198577881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.046558,
+                        44.576168
+                    ],
+                    [
+                        10.052232,
+                        44.571392
+                    ],
+                    [
+                        10.050129,
+                        44.56916
+                    ],
+                    [
+                        10.042683,
+                        44.568993
+                    ],
+                    [
+                        10.03423,
+                        44.569145
+                    ],
+                    [
+                        10.044463,
+                        44.576199
+                    ],
+                    [
+                        10.046558,
+                        44.576168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

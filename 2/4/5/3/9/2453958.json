@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2453958,
+    "properties": {
+        "woe_id": 2453958,
+        "place_id": "HqYXUZybBZkTOv7a",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moreland, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234636328,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3386\/shapefiles\/2453958_20090214_ea1a65c3a7.tar.gz"
+        },
+        "bbox": [
+            -81.324150085449,
+            40.742607116699,
+            -81.32347869873,
+            40.744575500488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.323479,
+                        40.744095
+                    ],
+                    [
+                        -81.323524,
+                        40.742607
+                    ],
+                    [
+                        -81.32415,
+                        40.744053
+                    ],
+                    [
+                        -81.32383,
+                        40.744576
+                    ],
+                    [
+                        -81.323479,
+                        40.744095
+                    ]
+                ]
+            ]
+        ]
+    }
+}

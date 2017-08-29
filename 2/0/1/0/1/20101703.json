@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20101703,
+    "properties": {
+        "woe_id": 20101703,
+        "place_id": "gnSUq8SbAZ0DNOzpbg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ferenberg bei Stettlen, Canton of Berne, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292429044,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/20101703_20101215_b855b238bd.tar.gz"
+        },
+        "bbox": [
+            7.5244188308716,
+            46.958530426025,
+            7.5328922271729,
+            46.968086242676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.530695,
+                        46.968079
+                    ],
+                    [
+                        7.531972,
+                        46.967999
+                    ],
+                    [
+                        7.532892,
+                        46.966751
+                    ],
+                    [
+                        7.524419,
+                        46.95853
+                    ],
+                    [
+                        7.530398,
+                        46.968086
+                    ],
+                    [
+                        7.530695,
+                        46.968079
+                    ]
+                ]
+            ]
+        ]
+    }
+}

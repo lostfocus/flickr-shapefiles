@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23412346,
+    "properties": {
+        "woe_id": 23412346,
+        "place_id": "7wigkfmbApj2Lc_0Bg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Briano, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480704,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/23412346_20101216_9f5de08d4f.tar.gz"
+        },
+        "bbox": [
+            14.319220542908,
+            41.090274810791,
+            14.329014778137,
+            41.098594665527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.328403,
+                        41.098595
+                    ],
+                    [
+                        14.328918,
+                        41.09798
+                    ],
+                    [
+                        14.329015,
+                        41.096825
+                    ],
+                    [
+                        14.319221,
+                        41.090275
+                    ],
+                    [
+                        14.321107,
+                        41.093582
+                    ],
+                    [
+                        14.328403,
+                        41.098595
+                    ]
+                ]
+            ]
+        ]
+    }
+}

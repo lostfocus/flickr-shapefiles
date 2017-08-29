@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28808845,
+    "properties": {
+        "woe_id": 28808845,
+        "place_id": "9YsOMXmbCZQCaVSAnw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nam-Myeon, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543192,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28808845_20101216_ffed2b3ba5.tar.gz"
+        },
+        "bbox": [
+            127.90473937988,
+            34.75036239624,
+            127.90776062012,
+            34.754974365234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.905457,
+                        34.754631
+                    ],
+                    [
+                        127.907761,
+                        34.750362
+                    ],
+                    [
+                        127.905571,
+                        34.751343
+                    ],
+                    [
+                        127.904739,
+                        34.753071
+                    ],
+                    [
+                        127.904793,
+                        34.754974
+                    ],
+                    [
+                        127.905457,
+                        34.754631
+                    ]
+                ]
+            ]
+        ]
+    }
+}

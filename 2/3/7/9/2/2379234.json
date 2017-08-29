@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2379234,
+    "properties": {
+        "woe_id": 2379234,
+        "place_id": "4lc7DMCbAptgWK3g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cheshire, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532484,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2379234_20101216_94ff7b9a3b.tar.gz"
+        },
+        "bbox": [
+            -82.122375488281,
+            38.935230255127,
+            -82.105026245117,
+            38.95287322998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.112328,
+                        38.951935
+                    ],
+                    [
+                        -82.105026,
+                        38.952873
+                    ],
+                    [
+                        -82.106583,
+                        38.935642
+                    ],
+                    [
+                        -82.114861,
+                        38.93523
+                    ],
+                    [
+                        -82.122375,
+                        38.945992
+                    ],
+                    [
+                        -82.112328,
+                        38.951935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

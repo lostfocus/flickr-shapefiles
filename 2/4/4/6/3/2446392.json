@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2446392,
+    "properties": {
+        "woe_id": 2446392,
+        "place_id": "q3X9AkybBZi9o5nd",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Martinsburg, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469541,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2446392_20101216_ce7c89d3bd.tar.gz"
+        },
+        "bbox": [
+            -78.339408874512,
+            40.293846130371,
+            -78.321105957031,
+            40.311668395996
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.325211,
+                        40.296661
+                    ],
+                    [
+                        -78.326744,
+                        40.293846
+                    ],
+                    [
+                        -78.328514,
+                        40.294125
+                    ],
+                    [
+                        -78.339409,
+                        40.303619
+                    ],
+                    [
+                        -78.321106,
+                        40.311668
+                    ],
+                    [
+                        -78.325211,
+                        40.296661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

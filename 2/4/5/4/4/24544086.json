@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24544086,
+    "properties": {
+        "woe_id": 24544086,
+        "place_id": "7gEaaWibBZn1wO05xA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Giannitsa, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449412,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/24544086_20101215_368de921e6.tar.gz"
+        },
+        "bbox": [
+            22.410026550293,
+            40.789905548096,
+            22.413482666016,
+            40.794254302979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.411293,
+                        40.790501
+                    ],
+                    [
+                        22.410027,
+                        40.789906
+                    ],
+                    [
+                        22.411278,
+                        40.791409
+                    ],
+                    [
+                        22.413483,
+                        40.794254
+                    ],
+                    [
+                        22.413439,
+                        40.790962
+                    ],
+                    [
+                        22.411293,
+                        40.790501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

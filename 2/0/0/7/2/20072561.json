@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20072561,
+    "properties": {
+        "woe_id": 20072561,
+        "place_id": "pyDnpoKbAZxpYT03VQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tullokyne, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292505195,
+        "alpha": 1.0e-5,
+        "points": 41,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/20072561_20101216_1a599ecf80.tar.gz"
+        },
+        "bbox": [
+            -9.1856212615967,
+            53.340148925781,
+            -9.1804504394531,
+            53.348091125488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.185621,
+                        53.342045
+                    ],
+                    [
+                        -9.183776,
+                        53.347271
+                    ],
+                    [
+                        -9.18045,
+                        53.348091
+                    ],
+                    [
+                        -9.180879,
+                        53.342094
+                    ],
+                    [
+                        -9.1856,
+                        53.340149
+                    ],
+                    [
+                        -9.185621,
+                        53.342045
+                    ]
+                ]
+            ]
+        ]
+    }
+}

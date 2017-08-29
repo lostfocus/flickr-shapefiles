@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403539,
+    "properties": {
+        "woe_id": 2403539,
+        "place_id": "A5_y6XObBZylyga6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "First Crossing, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248300488,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2673\/shapefiles\/2403539_20090722_4a16f15fb7.tar.gz"
+        },
+        "bbox": [
+            -99.712944030762,
+            29.493923187256,
+            -99.708305358887,
+            29.499452590942
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.710625,
+                        29.496389
+                    ],
+                    [
+                        -99.708305,
+                        29.493923
+                    ],
+                    [
+                        -99.712044,
+                        29.496128
+                    ],
+                    [
+                        -99.712944,
+                        29.496689
+                    ],
+                    [
+                        -99.712685,
+                        29.499453
+                    ],
+                    [
+                        -99.710625,
+                        29.496389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

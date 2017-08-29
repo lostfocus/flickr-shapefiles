@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2389655,
+    "properties": {
+        "woe_id": 2389655,
+        "place_id": "fxWISkabApS3lmq3",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Davis City, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527506,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2389655_20101216_9e8c40706b.tar.gz"
+        },
+        "bbox": [
+            -93.86100769043,
+            40.64372253418,
+            -93.85327911377,
+            40.655979156494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.853683,
+                        40.655743
+                    ],
+                    [
+                        -93.853279,
+                        40.653946
+                    ],
+                    [
+                        -93.861008,
+                        40.643723
+                    ],
+                    [
+                        -93.854309,
+                        40.655979
+                    ],
+                    [
+                        -93.853683,
+                        40.655743
+                    ]
+                ]
+            ]
+        ]
+    }
+}

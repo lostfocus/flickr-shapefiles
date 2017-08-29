@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23395669,
+    "properties": {
+        "woe_id": 23395669,
+        "place_id": "5VUOZPybAp8Y.w8GNg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Georges-Est, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502546,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/23395669_20101216_dd9fc25939.tar.gz"
+        },
+        "bbox": [
+            -70.674621582031,
+            46.114063262939,
+            -70.664665222168,
+            46.122005462646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.674019,
+                        46.117893
+                    ],
+                    [
+                        -70.674622,
+                        46.122005
+                    ],
+                    [
+                        -70.665436,
+                        46.116352
+                    ],
+                    [
+                        -70.664665,
+                        46.114063
+                    ],
+                    [
+                        -70.674019,
+                        46.117893
+                    ]
+                ]
+            ]
+        ]
+    }
+}

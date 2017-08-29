@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2473313,
+    "properties": {
+        "woe_id": 2473313,
+        "place_id": "QThjhJWbBZvZZ8Rb",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Places Corner, Rhode Island, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518706,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2473313_20101216_c93b276b25.tar.gz"
+        },
+        "bbox": [
+            -71.513328552246,
+            41.623760223389,
+            -71.512718200684,
+            41.624435424805
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.513084,
+                        41.624046
+                    ],
+                    [
+                        -71.513329,
+                        41.624382
+                    ],
+                    [
+                        -71.512901,
+                        41.624435
+                    ],
+                    [
+                        -71.512718,
+                        41.62376
+                    ],
+                    [
+                        -71.512878,
+                        41.623806
+                    ],
+                    [
+                        -71.513084,
+                        41.624046
+                    ]
+                ]
+            ]
+        ]
+    }
+}

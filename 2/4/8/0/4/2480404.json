@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2480404,
+    "properties": {
+        "woe_id": 2480404,
+        "place_id": "fSdq6YmbBZTtas.7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rex, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234708930,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3411\/shapefiles\/2480404_20090215_cf0fdc5dd0.tar.gz"
+        },
+        "bbox": [
+            -122.92003631592,
+            45.312534332275,
+            -122.91150665283,
+            45.316875457764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.917953,
+                        45.312534
+                    ],
+                    [
+                        -122.919128,
+                        45.312584
+                    ],
+                    [
+                        -122.920036,
+                        45.314102
+                    ],
+                    [
+                        -122.911507,
+                        45.316875
+                    ],
+                    [
+                        -122.917953,
+                        45.312534
+                    ]
+                ]
+            ]
+        ]
+    }
+}

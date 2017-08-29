@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150045,
+    "properties": {
+        "woe_id": 20150045,
+        "place_id": "UOPdNVubAZ3mGeIoHg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bettola, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441669,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1422\/shapefiles\/20150045_20101215_da82525b9e.tar.gz"
+        },
+        "bbox": [
+            9.4739799499512,
+            45.543998718262,
+            9.4982376098633,
+            45.563343048096
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.483786,
+                        45.543999
+                    ],
+                    [
+                        9.47398,
+                        45.555523
+                    ],
+                    [
+                        9.49253,
+                        45.563343
+                    ],
+                    [
+                        9.498238,
+                        45.558926
+                    ],
+                    [
+                        9.484741,
+                        45.547031
+                    ],
+                    [
+                        9.483786,
+                        45.543999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

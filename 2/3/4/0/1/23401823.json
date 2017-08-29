@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23401823,
+    "properties": {
+        "woe_id": 23401823,
+        "place_id": "kGyrWS6bApjMfJoc8g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sanford, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522161,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/23401823_20101216_dae69d8c81.tar.gz"
+        },
+        "bbox": [
+            -97.460403442383,
+            49.679290771484,
+            -97.432075500488,
+            49.700614929199
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.438431,
+                        49.685177
+                    ],
+                    [
+                        -97.435814,
+                        49.679291
+                    ],
+                    [
+                        -97.448128,
+                        49.682014
+                    ],
+                    [
+                        -97.460403,
+                        49.69595
+                    ],
+                    [
+                        -97.445122,
+                        49.699005
+                    ],
+                    [
+                        -97.432076,
+                        49.700615
+                    ],
+                    [
+                        -97.438431,
+                        49.685177
+                    ]
+                ]
+            ]
+        ]
+    }
+}

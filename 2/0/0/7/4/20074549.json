@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20074549,
+    "properties": {
+        "woe_id": 20074549,
+        "place_id": "1GzaevabAZwag4MlLA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "The Grange, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546855,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/20074549_20101217_0456669085.tar.gz"
+        },
+        "bbox": [
+            -6.7371940612793,
+            53.025417327881,
+            -6.7338461875916,
+            53.02717590332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.737194,
+                        53.025417
+                    ],
+                    [
+                        -6.735992,
+                        53.027176
+                    ],
+                    [
+                        -6.734018,
+                        53.026478
+                    ],
+                    [
+                        -6.733846,
+                        53.026348
+                    ],
+                    [
+                        -6.736164,
+                        53.025547
+                    ],
+                    [
+                        -6.737194,
+                        53.025417
+                    ]
+                ]
+            ]
+        ]
+    }
+}

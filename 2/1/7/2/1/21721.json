@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 21721,
+    "properties": {
+        "woe_id": 21721,
+        "place_id": "IDnKWPmbAJt80w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Great Shefford, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453222,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/21721_20101215_120be22265.tar.gz"
+        },
+        "bbox": [
+            -1.4539279937744,
+            51.474674224854,
+            -1.4428559541702,
+            51.479511260986
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.453671,
+                        51.47493
+                    ],
+                    [
+                        -1.453928,
+                        51.475769
+                    ],
+                    [
+                        -1.452727,
+                        51.476063
+                    ],
+                    [
+                        -1.442856,
+                        51.479511
+                    ],
+                    [
+                        -1.446418,
+                        51.475155
+                    ],
+                    [
+                        -1.447534,
+                        51.474674
+                    ],
+                    [
+                        -1.453671,
+                        51.47493
+                    ]
+                ]
+            ]
+        ]
+    }
+}

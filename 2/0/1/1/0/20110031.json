@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20110031,
+    "properties": {
+        "woe_id": 20110031,
+        "place_id": "0xy.nBqbAZ0GkvYhWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arena Metato, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543887,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/20110031_20101216_5ecfdcee35.tar.gz"
+        },
+        "bbox": [
+            10.363024711609,
+            43.772052764893,
+            10.373238563538,
+            43.784664154053
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.36647,
+                        43.773865
+                    ],
+                    [
+                        10.363025,
+                        43.783363
+                    ],
+                    [
+                        10.363165,
+                        43.784664
+                    ],
+                    [
+                        10.373239,
+                        43.772053
+                    ],
+                    [
+                        10.369609,
+                        43.772911
+                    ],
+                    [
+                        10.367918,
+                        43.773327
+                    ],
+                    [
+                        10.36647,
+                        43.773865
+                    ]
+                ]
+            ]
+        ]
+    }
+}

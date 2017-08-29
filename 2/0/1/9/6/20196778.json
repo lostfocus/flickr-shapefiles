@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20196778,
+    "properties": {
+        "woe_id": 20196778,
+        "place_id": "93U89YabAZ0fJHikig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beutre, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441773,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/20196778_20101215_000884c28f.tar.gz"
+        },
+        "bbox": [
+            -0.69484198093414,
+            44.817741394043,
+            -0.67918300628662,
+            44.833656311035
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.679183,
+                        44.818054
+                    ],
+                    [
+                        -0.679247,
+                        44.817867
+                    ],
+                    [
+                        -0.679709,
+                        44.817741
+                    ],
+                    [
+                        -0.679827,
+                        44.817745
+                    ],
+                    [
+                        -0.694842,
+                        44.833656
+                    ],
+                    [
+                        -0.679183,
+                        44.818054
+                    ]
+                ]
+            ]
+        ]
+    }
+}

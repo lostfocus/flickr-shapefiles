@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28338228,
+    "properties": {
+        "woe_id": 28338228,
+        "place_id": "zKvsp1ybCZ824ELPfg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shatuc, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463363,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28338228_20101216_cfbace1738.tar.gz"
+        },
+        "bbox": [
+            -89.359443664551,
+            38.618412017822,
+            -89.352493286133,
+            38.634037017822
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.359444,
+                        38.625957
+                    ],
+                    [
+                        -89.358971,
+                        38.627567
+                    ],
+                    [
+                        -89.352493,
+                        38.634037
+                    ],
+                    [
+                        -89.354683,
+                        38.618412
+                    ],
+                    [
+                        -89.359444,
+                        38.625957
+                    ]
+                ]
+            ]
+        ]
+    }
+}

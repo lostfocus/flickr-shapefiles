@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 27700,
+    "properties": {
+        "woe_id": 27700,
+        "place_id": "qkknWPGbBpuIBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lower Froyle, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448393,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/27700_20101215_3e2781dbbc.tar.gz"
+        },
+        "bbox": [
+            -0.88590097427368,
+            51.197147369385,
+            -0.88052397966385,
+            51.201290130615
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.880524,
+                        51.200813
+                    ],
+                    [
+                        -0.881137,
+                        51.197147
+                    ],
+                    [
+                        -0.885901,
+                        51.199203
+                    ],
+                    [
+                        -0.885257,
+                        51.19973
+                    ],
+                    [
+                        -0.882854,
+                        51.20129
+                    ],
+                    [
+                        -0.880524,
+                        51.200813
+                    ]
+                ]
+            ]
+        ]
+    }
+}

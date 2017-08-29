@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 28745657,
+    "properties": {
+        "woe_id": 28745657,
+        "place_id": "XP1rzAqbCZswDZ.29w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brownsville, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457643,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28745657_20101216_87fddd18a1.tar.gz"
+        },
+        "bbox": [
+            -87.264190673828,
+            30.41011428833,
+            -87.240005493164,
+            30.43835067749
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.244812,
+                        30.420589
+                    ],
+                    [
+                        -87.256165,
+                        30.410114
+                    ],
+                    [
+                        -87.257538,
+                        30.42144
+                    ],
+                    [
+                        -87.264191,
+                        30.42799
+                    ],
+                    [
+                        -87.260284,
+                        30.426176
+                    ],
+                    [
+                        -87.252312,
+                        30.423166
+                    ],
+                    [
+                        -87.240005,
+                        30.438351
+                    ],
+                    [
+                        -87.244812,
+                        30.420589
+                    ]
+                ]
+            ]
+        ]
+    }
+}

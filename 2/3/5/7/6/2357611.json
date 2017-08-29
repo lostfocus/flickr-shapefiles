@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2357611,
+    "properties": {
+        "woe_id": 2357611,
+        "place_id": "q5jd23ObApkpMU.k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Austinville, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234483803,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3486\/shapefiles\/2357611_20090213_189e49d63b.tar.gz"
+        },
+        "bbox": [
+            -80.872444152832,
+            36.871807098389,
+            -80.861511230469,
+            36.882301330566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.861534,
+                        36.882301
+                    ],
+                    [
+                        -80.861511,
+                        36.880753
+                    ],
+                    [
+                        -80.872444,
+                        36.871807
+                    ],
+                    [
+                        -80.872139,
+                        36.873329
+                    ],
+                    [
+                        -80.861534,
+                        36.882301
+                    ]
+                ]
+            ]
+        ]
+    }
+}

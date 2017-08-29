@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2425094,
+    "properties": {
+        "woe_id": 2425094,
+        "place_id": "CHXaFEubBZ6K9AhO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Howlandsburg, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234570806,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3381\/shapefiles\/2425094_20090214_3a184ea9be.tar.gz"
+        },
+        "bbox": [
+            -85.386276245117,
+            42.34769821167,
+            -85.384498596191,
+            42.348789215088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.384499,
+                        42.348789
+                    ],
+                    [
+                        -85.384666,
+                        42.348499
+                    ],
+                    [
+                        -85.386238,
+                        42.347713
+                    ],
+                    [
+                        -85.386276,
+                        42.347698
+                    ],
+                    [
+                        -85.384499,
+                        42.348789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

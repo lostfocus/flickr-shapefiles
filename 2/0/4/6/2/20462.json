@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20462,
+    "properties": {
+        "woe_id": 20462,
+        "place_id": "0OO95r.bAZjBPw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forston, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530400,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/20462_20101216_eddd47dac4.tar.gz"
+        },
+        "bbox": [
+            -2.4741549491882,
+            50.748729705811,
+            -2.4629969596863,
+            50.755680084229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.465164,
+                        50.75568
+                    ],
+                    [
+                        -2.462997,
+                        50.74873
+                    ],
+                    [
+                        -2.474155,
+                        50.750034
+                    ],
+                    [
+                        -2.473211,
+                        50.753292
+                    ],
+                    [
+                        -2.469713,
+                        50.755463
+                    ],
+                    [
+                        -2.465164,
+                        50.75568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28340200,
+    "properties": {
+        "woe_id": 28340200,
+        "place_id": "v3GJJIabCZ9YdkPleA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "East Matunuck, Rhode Island, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546863,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/28340200_20101217_cefbf561e0.tar.gz"
+        },
+        "bbox": [
+            -71.538063049316,
+            41.410202026367,
+            -71.52498626709,
+            41.427600860596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.525459,
+                        41.42384
+                    ],
+                    [
+                        -71.525208,
+                        41.422302
+                    ],
+                    [
+                        -71.524986,
+                        41.41943
+                    ],
+                    [
+                        -71.538063,
+                        41.410202
+                    ],
+                    [
+                        -71.536415,
+                        41.427601
+                    ],
+                    [
+                        -71.525909,
+                        41.42635
+                    ],
+                    [
+                        -71.525459,
+                        41.42384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

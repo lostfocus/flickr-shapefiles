@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2459303,
+    "properties": {
+        "woe_id": 2459303,
+        "place_id": "gWPURBibBZlHE8X6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Newaukum, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460301,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2459303_20101216_f319fe8bec.tar.gz"
+        },
+        "bbox": [
+            -122.96092224121,
+            46.622753143311,
+            -122.93752288818,
+            46.635360717773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.943748,
+                        46.635361
+                    ],
+                    [
+                        -122.943542,
+                        46.635319
+                    ],
+                    [
+                        -122.937523,
+                        46.630032
+                    ],
+                    [
+                        -122.960144,
+                        46.622753
+                    ],
+                    [
+                        -122.960922,
+                        46.623585
+                    ],
+                    [
+                        -122.943748,
+                        46.635361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

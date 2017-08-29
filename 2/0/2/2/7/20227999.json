@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20227999,
+    "properties": {
+        "woe_id": 20227999,
+        "place_id": "1NxEEZGbAZ5MK81_ew",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Vega, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234767489,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3164\/shapefiles\/20227999_20090216_2a72e863b5.tar.gz"
+        },
+        "bbox": [
+            -5.7924118041992,
+            43.205997467041,
+            -5.7840437889099,
+            43.214057922363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.792412,
+                        43.205997
+                    ],
+                    [
+                        -5.790052,
+                        43.208427
+                    ],
+                    [
+                        -5.784044,
+                        43.214058
+                    ],
+                    [
+                        -5.789966,
+                        43.206676
+                    ],
+                    [
+                        -5.792412,
+                        43.205997
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20151130,
+    "properties": {
+        "woe_id": 20151130,
+        "place_id": "hNXD3BmbAZ2NH6KCdg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "H\u00f6gger\u00f6d, Vastra Gotaland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522137,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/20151130_20101216_378e48690a.tar.gz"
+        },
+        "bbox": [
+            11.673509597778,
+            57.969673156738,
+            11.686406135559,
+            57.975135803223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.683938,
+                        57.974751
+                    ],
+                    [
+                        11.686406,
+                        57.97179
+                    ],
+                    [
+                        11.681578,
+                        57.969673
+                    ],
+                    [
+                        11.673939,
+                        57.969936
+                    ],
+                    [
+                        11.67351,
+                        57.975136
+                    ],
+                    [
+                        11.683938,
+                        57.974751
+                    ]
+                ]
+            ]
+        ]
+    }
+}

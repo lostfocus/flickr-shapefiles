@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2498967,
+    "properties": {
+        "woe_id": 2498967,
+        "place_id": "m3sDvFSbBZXAlHYh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stanley, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234636928,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3436\/shapefiles\/2498967_20090214_d61715036d.tar.gz"
+        },
+        "bbox": [
+            -78.155822753906,
+            39.693050384521,
+            -78.143867492676,
+            39.697982788086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.155823,
+                        39.693821
+                    ],
+                    [
+                        -78.155716,
+                        39.697983
+                    ],
+                    [
+                        -78.151169,
+                        39.696167
+                    ],
+                    [
+                        -78.143867,
+                        39.69305
+                    ],
+                    [
+                        -78.155823,
+                        39.693821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

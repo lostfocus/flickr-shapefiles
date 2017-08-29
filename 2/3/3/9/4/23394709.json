@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23394709,
+    "properties": {
+        "woe_id": 23394709,
+        "place_id": "ZNBZhzCbAp.5fkKY6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Puvirnituq, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524598,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/23394709_20101216_b74c77deae.tar.gz"
+        },
+        "bbox": [
+            -77.283302307129,
+            60.029098510742,
+            -77.271911621094,
+            60.04337310791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.283302,
+                        60.033298
+                    ],
+                    [
+                        -77.280838,
+                        60.043373
+                    ],
+                    [
+                        -77.271912,
+                        60.036133
+                    ],
+                    [
+                        -77.274567,
+                        60.033646
+                    ],
+                    [
+                        -77.282898,
+                        60.029099
+                    ],
+                    [
+                        -77.283302,
+                        60.033298
+                    ]
+                ]
+            ]
+        ]
+    }
+}

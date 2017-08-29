@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2358181,
+    "properties": {
+        "woe_id": 2358181,
+        "place_id": "j4kESbGbApkWoMK4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Baden, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517452,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2358181_20101216_7bd7c15906.tar.gz"
+        },
+        "bbox": [
+            -102.01316070557,
+            48.582057952881,
+            -101.99552154541,
+            48.613334655762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.00943,
+                        48.601131
+                    ],
+                    [
+                        -102.013161,
+                        48.613335
+                    ],
+                    [
+                        -101.995583,
+                        48.603065
+                    ],
+                    [
+                        -101.995522,
+                        48.598549
+                    ],
+                    [
+                        -102.003593,
+                        48.582058
+                    ],
+                    [
+                        -102.00943,
+                        48.601131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

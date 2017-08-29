@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20200833,
+    "properties": {
+        "woe_id": 20200833,
+        "place_id": "ReD3B6GbAZ4XOZZRPw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Irleau, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457308,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/20200833_20101215_822cfffb4f.tar.gz"
+        },
+        "bbox": [
+            -0.65213000774384,
+            46.307277679443,
+            -0.65106797218323,
+            46.307792663574
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.65213,
+                        46.307384
+                    ],
+                    [
+                        -0.652045,
+                        46.30772
+                    ],
+                    [
+                        -0.651669,
+                        46.307793
+                    ],
+                    [
+                        -0.651347,
+                        46.307793
+                    ],
+                    [
+                        -0.651068,
+                        46.307278
+                    ],
+                    [
+                        -0.65213,
+                        46.307384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

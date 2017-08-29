@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20221113,
+    "properties": {
+        "woe_id": 20221113,
+        "place_id": "VmCTnzmbAZ7fxcPjDA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cam\u00ed del Suanya, Catalonia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522511,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/20221113_20101216_f41b57317d.tar.gz"
+        },
+        "bbox": [
+            1.7924020290375,
+            41.718864440918,
+            1.8113490343094,
+            41.728553771973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.793861,
+                        41.721104
+                    ],
+                    [
+                        1.792402,
+                        41.728554
+                    ],
+                    [
+                        1.811349,
+                        41.727245
+                    ],
+                    [
+                        1.79841,
+                        41.718864
+                    ],
+                    [
+                        1.796436,
+                        41.719791
+                    ],
+                    [
+                        1.793861,
+                        41.721104
+                    ]
+                ]
+            ]
+        ]
+    }
+}

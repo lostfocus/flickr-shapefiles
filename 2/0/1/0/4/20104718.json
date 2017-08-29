@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20104718,
+    "properties": {
+        "woe_id": 20104718,
+        "place_id": "GZL8eFKbAZ2QnwrQNQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Zurich, Canton of Zurich, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441616,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/20104718_20101215_b57b18813c.tar.gz"
+        },
+        "bbox": [
+            8.5418272018433,
+            47.36935043335,
+            8.5528125762939,
+            47.37317276001
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.541827,
+                        47.36935
+                    ],
+                    [
+                        8.545196,
+                        47.372704
+                    ],
+                    [
+                        8.552813,
+                        47.373173
+                    ],
+                    [
+                        8.543286,
+                        47.369713
+                    ],
+                    [
+                        8.541827,
+                        47.36935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

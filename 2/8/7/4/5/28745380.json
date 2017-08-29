@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28745380,
+    "properties": {
+        "woe_id": 28745380,
+        "place_id": "Fmj21oibCZs9Qgdz.Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Perry, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529542,
+        "alpha": 0.000234375,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/28745380_20101216_acbe83a813.tar.gz"
+        },
+        "bbox": [
+            -75.999038696289,
+            40.519134521484,
+            -75.969184875488,
+            40.534931182861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.998055,
+                        40.522404
+                    ],
+                    [
+                        -75.999039,
+                        40.530045
+                    ],
+                    [
+                        -75.997627,
+                        40.530815
+                    ],
+                    [
+                        -75.984497,
+                        40.533333
+                    ],
+                    [
+                        -75.975601,
+                        40.534931
+                    ],
+                    [
+                        -75.969185,
+                        40.519135
+                    ],
+                    [
+                        -75.998055,
+                        40.522404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2465981,
+    "properties": {
+        "woe_id": 2465981,
+        "place_id": "p8ZPshebBZqjGc.x",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orchard, Nebraska, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234549923,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3518\/shapefiles\/2465981_20090213_27a8b8f6a5.tar.gz"
+        },
+        "bbox": [
+            -98.245079040527,
+            42.335178375244,
+            -98.239059448242,
+            42.341289520264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.245079,
+                        42.335178
+                    ],
+                    [
+                        -98.243179,
+                        42.337231
+                    ],
+                    [
+                        -98.239059,
+                        42.34129
+                    ],
+                    [
+                        -98.241135,
+                        42.335918
+                    ],
+                    [
+                        -98.245079,
+                        42.335178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

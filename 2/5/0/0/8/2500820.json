@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500820,
+    "properties": {
+        "woe_id": 2500820,
+        "place_id": "CD.uxHGbBJxNnEPv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Strawberry, South Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456815,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2500820_20101215_0115d66536.tar.gz"
+        },
+        "bbox": [
+            -80.039604187012,
+            33.08069229126,
+            -80.013916015625,
+            33.101249694824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.039604,
+                        33.10125
+                    ],
+                    [
+                        -80.030907,
+                        33.092247
+                    ],
+                    [
+                        -80.013916,
+                        33.082623
+                    ],
+                    [
+                        -80.015022,
+                        33.080692
+                    ],
+                    [
+                        -80.031464,
+                        33.089539
+                    ],
+                    [
+                        -80.039604,
+                        33.10125
+                    ]
+                ]
+            ]
+        ]
+    }
+}

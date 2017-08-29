@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2485280,
+    "properties": {
+        "woe_id": 2485280,
+        "place_id": "tIC0CPWbBZT6x0Sa",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rowell, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486352,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2485280_20101216_e9e3e6ec4c.tar.gz"
+        },
+        "bbox": [
+            -89.002502441406,
+            40.091167449951,
+            -89.001335144043,
+            40.092334747314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.001503,
+                        40.091167
+                    ],
+                    [
+                        -89.001663,
+                        40.091167
+                    ],
+                    [
+                        -89.001831,
+                        40.091331
+                    ],
+                    [
+                        -89.002502,
+                        40.091999
+                    ],
+                    [
+                        -89.002502,
+                        40.092335
+                    ],
+                    [
+                        -89.001503,
+                        40.091999
+                    ],
+                    [
+                        -89.001335,
+                        40.091499
+                    ],
+                    [
+                        -89.001503,
+                        40.091167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

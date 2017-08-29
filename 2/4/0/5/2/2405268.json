@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2405268,
+    "properties": {
+        "woe_id": 2405268,
+        "place_id": "68o2BmCbBZy9DWQS",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest Knolls, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229363050,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3183\/shapefiles\/2405268_20081215_2ca976e058.tar.gz"
+        },
+        "bbox": [
+            -120.9959487915,
+            39.232387542725,
+            -120.98274230957,
+            39.240562438965
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.987366,
+                        39.233418
+                    ],
+                    [
+                        -120.995949,
+                        39.240562
+                    ],
+                    [
+                        -120.982742,
+                        39.240257
+                    ],
+                    [
+                        -120.983459,
+                        39.232388
+                    ],
+                    [
+                        -120.987366,
+                        39.233418
+                    ]
+                ]
+            ]
+        ]
+    }
+}

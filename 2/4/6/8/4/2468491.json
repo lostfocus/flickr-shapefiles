@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2468491,
+    "properties": {
+        "woe_id": 2468491,
+        "place_id": "1tYP2cabBZri_3_E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parker, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507169,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/2468491_20101216_e222060726.tar.gz"
+        },
+        "bbox": [
+            -88.838798522949,
+            37.524360656738,
+            -88.834075927734,
+            37.535591125488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.838799,
+                        37.524361
+                    ],
+                    [
+                        -88.838799,
+                        37.525383
+                    ],
+                    [
+                        -88.834076,
+                        37.535591
+                    ],
+                    [
+                        -88.838516,
+                        37.524864
+                    ],
+                    [
+                        -88.838799,
+                        37.524361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

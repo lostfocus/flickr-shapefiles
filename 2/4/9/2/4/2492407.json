@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492407,
+    "properties": {
+        "woe_id": 2492407,
+        "place_id": "TBmpmZGbBZXTJkNe",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sheridan, New Mexico, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461752,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2492407_20101216_4d4bf0728b.tar.gz"
+        },
+        "bbox": [
+            -105.21211242676,
+            35.50463104248,
+            -105.21041870117,
+            35.505870819092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.212112,
+                        35.504963
+                    ],
+                    [
+                        -105.211967,
+                        35.505192
+                    ],
+                    [
+                        -105.210548,
+                        35.505871
+                    ],
+                    [
+                        -105.210419,
+                        35.505207
+                    ],
+                    [
+                        -105.211365,
+                        35.504631
+                    ],
+                    [
+                        -105.212112,
+                        35.504963
+                    ]
+                ]
+            ]
+        ]
+    }
+}

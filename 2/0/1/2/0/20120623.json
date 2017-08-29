@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20120623,
+    "properties": {
+        "woe_id": 20120623,
+        "place_id": "NRFreSGbAZ2Qf5V8ig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cinque Cerri, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229347082,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3252\/shapefiles\/20120623_20081215_7929e9a63d.tar.gz"
+        },
+        "bbox": [
+            11.284563064575,
+            44.354526519775,
+            11.289872169495,
+            44.372283935547
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.287525,
+                        44.372063
+                    ],
+                    [
+                        11.289872,
+                        44.354527
+                    ],
+                    [
+                        11.289716,
+                        44.354565
+                    ],
+                    [
+                        11.284563,
+                        44.372284
+                    ],
+                    [
+                        11.287525,
+                        44.372063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

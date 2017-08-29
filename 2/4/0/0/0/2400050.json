@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2400050,
+    "properties": {
+        "woe_id": 2400050,
+        "place_id": "aDEq0S.bBZzvoFAm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Erie, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468828,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2400050_20101216_dcb774ff52.tar.gz"
+        },
+        "bbox": [
+            -90.097206115723,
+            41.650726318359,
+            -90.075805664062,
+            41.661933898926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.080399,
+                        41.656906
+                    ],
+                    [
+                        -90.075806,
+                        41.650726
+                    ],
+                    [
+                        -90.08725,
+                        41.652355
+                    ],
+                    [
+                        -90.097206,
+                        41.661934
+                    ],
+                    [
+                        -90.085876,
+                        41.660706
+                    ],
+                    [
+                        -90.080399,
+                        41.656906
+                    ]
+                ]
+            ]
+        ]
+    }
+}

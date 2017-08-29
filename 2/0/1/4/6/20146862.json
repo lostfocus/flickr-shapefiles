@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20146862,
+    "properties": {
+        "woe_id": 20146862,
+        "place_id": "QcJZpXabAZ28lj0dug",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vaiano, Umbria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454918,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20146862_20101215_28199d6dcf.tar.gz"
+        },
+        "bbox": [
+            11.971321105957,
+            43.04838180542,
+            12.000212669373,
+            43.066631317139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.973209,
+                        43.048382
+                    ],
+                    [
+                        11.989002,
+                        43.060108
+                    ],
+                    [
+                        11.990203,
+                        43.066631
+                    ],
+                    [
+                        12.000213,
+                        43.059872
+                    ],
+                    [
+                        11.989002,
+                        43.060108
+                    ],
+                    [
+                        11.971921,
+                        43.050888
+                    ],
+                    [
+                        11.971321,
+                        43.050198
+                    ],
+                    [
+                        11.973209,
+                        43.048382
+                    ]
+                ]
+            ]
+        ]
+    }
+}

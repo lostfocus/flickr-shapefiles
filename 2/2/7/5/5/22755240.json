@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22755240,
+    "properties": {
+        "woe_id": 22755240,
+        "place_id": "YGcyZ6ebA5tydW1khg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Arcons-d'Allier, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445810,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/22755240_20101215_ae275c1cf7.tar.gz"
+        },
+        "bbox": [
+            3.5638608932495,
+            45.096668243408,
+            3.5672950744629,
+            45.10103225708
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.563861,
+                        45.100426
+                    ],
+                    [
+                        3.565406,
+                        45.101032
+                    ],
+                    [
+                        3.567295,
+                        45.096668
+                    ],
+                    [
+                        3.564548,
+                        45.099697
+                    ],
+                    [
+                        3.563947,
+                        45.09985
+                    ],
+                    [
+                        3.563861,
+                        45.100426
+                    ]
+                ]
+            ]
+        ]
+    }
+}

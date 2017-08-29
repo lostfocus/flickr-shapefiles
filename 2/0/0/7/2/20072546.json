@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20072546,
+    "properties": {
+        "woe_id": 20072546,
+        "place_id": "QMI2fCibAZx6dPAInQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Skannive, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540582,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/20072546_20101216_233f258d65.tar.gz"
+        },
+        "bbox": [
+            -9.7846117019653,
+            53.30101776123,
+            -9.7809858322144,
+            53.302722930908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.781265,
+                        53.301773
+                    ],
+                    [
+                        -9.780986,
+                        53.301781
+                    ],
+                    [
+                        -9.781436,
+                        53.301132
+                    ],
+                    [
+                        -9.782381,
+                        53.301018
+                    ],
+                    [
+                        -9.784612,
+                        53.302723
+                    ],
+                    [
+                        -9.781265,
+                        53.301773
+                    ]
+                ]
+            ]
+        ]
+    }
+}

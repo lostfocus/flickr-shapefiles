@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20150113,
+    "properties": {
+        "woe_id": 20150113,
+        "place_id": "vZ4z93CbAZ2LpruiKA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Saletto, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536844,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20150113_20101216_954a499a93.tar.gz"
+        },
+        "bbox": [
+            11.855621337891,
+            45.472591400146,
+            11.864247322083,
+            45.479572296143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.858239,
+                        45.476669
+                    ],
+                    [
+                        11.860513,
+                        45.477444
+                    ],
+                    [
+                        11.864247,
+                        45.479572
+                    ],
+                    [
+                        11.860964,
+                        45.474773
+                    ],
+                    [
+                        11.855621,
+                        45.472591
+                    ],
+                    [
+                        11.857337,
+                        45.475193
+                    ],
+                    [
+                        11.858239,
+                        45.476669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

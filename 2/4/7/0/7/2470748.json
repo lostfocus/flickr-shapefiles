@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2470748,
+    "properties": {
+        "woe_id": 2470748,
+        "place_id": "76pMwOGbBZuBMbME",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Perryopolis, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234913647,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3362\/shapefiles\/2470748_20090217_8b14629b41.tar.gz"
+        },
+        "bbox": [
+            -79.757286071777,
+            40.085590362549,
+            -79.750625610352,
+            40.093898773193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.754005,
+                        40.093899
+                    ],
+                    [
+                        -79.750626,
+                        40.08559
+                    ],
+                    [
+                        -79.751083,
+                        40.085884
+                    ],
+                    [
+                        -79.757286,
+                        40.088287
+                    ],
+                    [
+                        -79.754005,
+                        40.093899
+                    ]
+                ]
+            ]
+        ]
+    }
+}

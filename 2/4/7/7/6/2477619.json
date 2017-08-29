@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2477619,
+    "properties": {
+        "woe_id": 2477619,
+        "place_id": "R79PZdebBZt06HNO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Quaker Heights, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234489561,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3460\/shapefiles\/2477619_20090213_379ee696f8.tar.gz"
+        },
+        "bbox": [
+            -77.175437927246,
+            39.554931640625,
+            -77.165832519531,
+            39.567398071289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.169563,
+                        39.56403
+                    ],
+                    [
+                        -77.165833,
+                        39.554932
+                    ],
+                    [
+                        -77.170189,
+                        39.563461
+                    ],
+                    [
+                        -77.175438,
+                        39.567398
+                    ],
+                    [
+                        -77.169563,
+                        39.56403
+                    ]
+                ]
+            ]
+        ]
+    }
+}

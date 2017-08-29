@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2400264,
+    "properties": {
+        "woe_id": 2400264,
+        "place_id": "1oIbC.ybBZzOVPU8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Essex, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551132,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2400264_20101217_6fab85de60.tar.gz"
+        },
+        "bbox": [
+            -124.04884338379,
+            40.903942108154,
+            -124.02856445312,
+            40.910747528076
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -124.037315,
+                        40.907902
+                    ],
+                    [
+                        -124.045914,
+                        40.903942
+                    ],
+                    [
+                        -124.048843,
+                        40.910748
+                    ],
+                    [
+                        -124.038216,
+                        40.909683
+                    ],
+                    [
+                        -124.028564,
+                        40.906345
+                    ],
+                    [
+                        -124.037315,
+                        40.907902
+                    ]
+                ]
+            ]
+        ]
+    }
+}

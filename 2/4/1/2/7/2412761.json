@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2412761,
+    "properties": {
+        "woe_id": 2412761,
+        "place_id": "vbePyGybBZ2ag4Zu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grand Bayou, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521220,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2412761_20101216_7364646d26.tar.gz"
+        },
+        "bbox": [
+            -91.151161193848,
+            29.988878250122,
+            -91.130432128906,
+            30.017826080322
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.151161,
+                        29.996807
+                    ],
+                    [
+                        -91.148781,
+                        30.007776
+                    ],
+                    [
+                        -91.130432,
+                        30.017826
+                    ],
+                    [
+                        -91.145187,
+                        30.001701
+                    ],
+                    [
+                        -91.150986,
+                        29.988878
+                    ],
+                    [
+                        -91.151161,
+                        29.996807
+                    ]
+                ]
+            ]
+        ]
+    }
+}

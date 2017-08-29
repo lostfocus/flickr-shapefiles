@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500794,
+    "properties": {
+        "woe_id": 2500794,
+        "place_id": "eJneUHCbBJxhW2dd",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stratton, Colorado, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239452161,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3617\/shapefiles\/2500794_20090411_c2a0d4e039.tar.gz"
+        },
+        "bbox": [
+            -102.62595367432,
+            39.294918060303,
+            -102.59033203125,
+            39.307445526123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.610588,
+                        39.305611
+                    ],
+                    [
+                        -102.602798,
+                        39.305977
+                    ],
+                    [
+                        -102.590332,
+                        39.307446
+                    ],
+                    [
+                        -102.606972,
+                        39.297272
+                    ],
+                    [
+                        -102.625954,
+                        39.294918
+                    ],
+                    [
+                        -102.610588,
+                        39.305611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

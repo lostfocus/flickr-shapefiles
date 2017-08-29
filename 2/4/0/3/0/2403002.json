@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2403002,
+    "properties": {
+        "woe_id": 2403002,
+        "place_id": "s63pT86bBZxPaZJu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ferguson Spring, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523635,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2403002_20101216_31183c475a.tar.gz"
+        },
+        "bbox": [
+            -88.136444091797,
+            36.852436065674,
+            -88.126403808594,
+            36.858402252197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.135483,
+                        36.852436
+                    ],
+                    [
+                        -88.136444,
+                        36.858196
+                    ],
+                    [
+                        -88.127174,
+                        36.858402
+                    ],
+                    [
+                        -88.126404,
+                        36.854744
+                    ],
+                    [
+                        -88.135483,
+                        36.852436
+                    ]
+                ]
+            ]
+        ]
+    }
+}

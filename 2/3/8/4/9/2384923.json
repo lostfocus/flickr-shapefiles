@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2384923,
+    "properties": {
+        "woe_id": 2384923,
+        "place_id": "DBAAF5mbApT1gSBf",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Corbin, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456604,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2384923_20101215_bd11928974.tar.gz"
+        },
+        "bbox": [
+            -97.545104980469,
+            37.124397277832,
+            -97.542961120605,
+            37.127853393555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.544632,
+                        37.127735
+                    ],
+                    [
+                        -97.543442,
+                        37.126175
+                    ],
+                    [
+                        -97.542961,
+                        37.124397
+                    ],
+                    [
+                        -97.544174,
+                        37.126125
+                    ],
+                    [
+                        -97.545105,
+                        37.127853
+                    ],
+                    [
+                        -97.544632,
+                        37.127735
+                    ]
+                ]
+            ]
+        ]
+    }
+}

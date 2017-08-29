@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20123665,
+    "properties": {
+        "woe_id": 20123665,
+        "place_id": "Ljwcy5abAZ1FyjCVWg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ello, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508363,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/20123665_20101216_ccdba05408.tar.gz"
+        },
+        "bbox": [
+            9.36292552948,
+            45.779376983643,
+            9.3883323669434,
+            45.790988922119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.36468,
+                        45.78574
+                    ],
+                    [
+                        9.362926,
+                        45.786797
+                    ],
+                    [
+                        9.364128,
+                        45.790989
+                    ],
+                    [
+                        9.388332,
+                        45.788712
+                    ],
+                    [
+                        9.386787,
+                        45.779377
+                    ],
+                    [
+                        9.38138,
+                        45.779854
+                    ],
+                    [
+                        9.36468,
+                        45.78574
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20213043,
+    "properties": {
+        "woe_id": 20213043,
+        "place_id": "TT3tQrKbAZ5t0ntsvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bremendell, Lorraine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239587174,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3400\/shapefiles\/20213043_20090413_b1039a62d5.tar.gz"
+        },
+        "bbox": [
+            7.6233100891113,
+            49.057781219482,
+            7.6461410522461,
+            49.066555023193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.624619,
+                        49.057888
+                    ],
+                    [
+                        7.62331,
+                        49.057781
+                    ],
+                    [
+                        7.625091,
+                        49.059399
+                    ],
+                    [
+                        7.646141,
+                        49.066555
+                    ],
+                    [
+                        7.625799,
+                        49.05809
+                    ],
+                    [
+                        7.624619,
+                        49.057888
+                    ]
+                ]
+            ]
+        ]
+    }
+}

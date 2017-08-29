@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745297,
+    "properties": {
+        "woe_id": 28745297,
+        "place_id": "Zl5id3ybCZvf8EXE5g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Antrim, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534254,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28745297_20101216_b7b1e36155.tar.gz"
+        },
+        "bbox": [
+            -77.714836120605,
+            39.818344116211,
+            -77.700973510742,
+            39.835834503174
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.714836,
+                        39.834499
+                    ],
+                    [
+                        -77.713501,
+                        39.835835
+                    ],
+                    [
+                        -77.700974,
+                        39.827751
+                    ],
+                    [
+                        -77.702225,
+                        39.818344
+                    ],
+                    [
+                        -77.7145,
+                        39.834499
+                    ],
+                    [
+                        -77.714836,
+                        39.834499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

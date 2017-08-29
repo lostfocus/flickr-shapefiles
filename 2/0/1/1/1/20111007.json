@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20111007,
+    "properties": {
+        "woe_id": 20111007,
+        "place_id": "rO660KubAZ0UqaL5og",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bastia Mondov\u00ec, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525730,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/20111007_20101216_ed9888a281.tar.gz"
+        },
+        "bbox": [
+            7.8939552307129,
+            44.440879821777,
+            7.9008002281189,
+            44.446189880371
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.895028,
+                        44.445526
+                    ],
+                    [
+                        7.9008,
+                        44.44173
+                    ],
+                    [
+                        7.893955,
+                        44.44088
+                    ],
+                    [
+                        7.894395,
+                        44.44619
+                    ],
+                    [
+                        7.894631,
+                        44.445995
+                    ],
+                    [
+                        7.895028,
+                        44.445526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 24544229,
+    "properties": {
+        "woe_id": 24544229,
+        "place_id": "0nQkW1qbBZmc7YoNzg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marmari, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551237,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/24544229_20101217_36727f8e7c.tar.gz"
+        },
+        "bbox": [
+            24.316349029541,
+            38.043697357178,
+            24.321928024292,
+            38.050827026367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        24.32004,
+                        38.048767
+                    ],
+                    [
+                        24.316349,
+                        38.049847
+                    ],
+                    [
+                        24.316778,
+                        38.049984
+                    ],
+                    [
+                        24.321928,
+                        38.050827
+                    ],
+                    [
+                        24.321327,
+                        38.047955
+                    ],
+                    [
+                        24.321156,
+                        38.043697
+                    ],
+                    [
+                        24.32004,
+                        38.048767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20110420,
+    "properties": {
+        "woe_id": 20110420,
+        "place_id": "NOq6UUGbAZ1M8M7k0g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Baggero, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520185,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/20110420_20101216_b1c3b61498.tar.gz"
+        },
+        "bbox": [
+            9.2399091720581,
+            45.770305633545,
+            9.2478380203247,
+            45.77180480957
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.240059,
+                        45.771324
+                    ],
+                    [
+                        9.239909,
+                        45.771805
+                    ],
+                    [
+                        9.241647,
+                        45.771595
+                    ],
+                    [
+                        9.247838,
+                        45.771072
+                    ],
+                    [
+                        9.241604,
+                        45.770306
+                    ],
+                    [
+                        9.240059,
+                        45.771324
+                    ]
+                ]
+            ]
+        ]
+    }
+}

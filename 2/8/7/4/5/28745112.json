@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745112,
+    "properties": {
+        "woe_id": 28745112,
+        "place_id": "B6d7BPybCZtMUTsOvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Big Squaw, Maine, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248198126,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3528\/shapefiles\/28745112_20090721_e79084e6af.tar.gz"
+        },
+        "bbox": [
+            -69.726020812988,
+            45.581428527832,
+            -69.711898803711,
+            45.58617401123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.714622,
+                        45.586052
+                    ],
+                    [
+                        -69.711899,
+                        45.58461
+                    ],
+                    [
+                        -69.718719,
+                        45.583168
+                    ],
+                    [
+                        -69.726021,
+                        45.581429
+                    ],
+                    [
+                        -69.725418,
+                        45.586174
+                    ],
+                    [
+                        -69.714622,
+                        45.586052
+                    ]
+                ]
+            ]
+        ]
+    }
+}

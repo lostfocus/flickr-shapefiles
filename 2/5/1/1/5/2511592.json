@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2511592,
+    "properties": {
+        "woe_id": 2511592,
+        "place_id": "PAuFrmSbBJ0L4ENF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Venetia, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502372,
+        "alpha": 0.0001875,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2511592_20101216_286b54bfd0.tar.gz"
+        },
+        "bbox": [
+            -80.068748474121,
+            40.262187957764,
+            -80.052017211914,
+            40.275531768799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.052017,
+                        40.26445
+                    ],
+                    [
+                        -80.054314,
+                        40.262188
+                    ],
+                    [
+                        -80.061234,
+                        40.264282
+                    ],
+                    [
+                        -80.068748,
+                        40.275532
+                    ],
+                    [
+                        -80.052017,
+                        40.26445
+                    ]
+                ]
+            ]
+        ]
+    }
+}

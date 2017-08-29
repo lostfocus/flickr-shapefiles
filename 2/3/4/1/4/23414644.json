@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23414644,
+    "properties": {
+        "woe_id": 23414644,
+        "place_id": "s1TX256bAphcriicEw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pla de Quart (el), Valencia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455141,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/23414644_20101215_038ae76b6c.tar.gz"
+        },
+        "bbox": [
+            -0.53601199388504,
+            39.478206634521,
+            -0.52899998426437,
+            39.482147216797
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.536012,
+                        39.478207
+                    ],
+                    [
+                        -0.535326,
+                        39.478737
+                    ],
+                    [
+                        -0.53215,
+                        39.482147
+                    ],
+                    [
+                        -0.529,
+                        39.481335
+                    ],
+                    [
+                        -0.533008,
+                        39.479103
+                    ],
+                    [
+                        -0.536012,
+                        39.478207
+                    ]
+                ]
+            ]
+        ]
+    }
+}

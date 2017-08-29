@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2351518,
+    "properties": {
+        "woe_id": 2351518,
+        "place_id": "zQnxbuWbAplwGmqA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Abbottsburg, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234546562,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3492\/shapefiles\/2351518_20090213_e4333104dc.tar.gz"
+        },
+        "bbox": [
+            -78.737121582031,
+            34.518367767334,
+            -78.731628417969,
+            34.520557403564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.736435,
+                        34.518368
+                    ],
+                    [
+                        -78.737122,
+                        34.519642
+                    ],
+                    [
+                        -78.733864,
+                        34.520557
+                    ],
+                    [
+                        -78.731628,
+                        34.519993
+                    ],
+                    [
+                        -78.736435,
+                        34.518368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

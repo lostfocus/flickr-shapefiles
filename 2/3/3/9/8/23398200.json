@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23398200,
+    "properties": {
+        "woe_id": 23398200,
+        "place_id": "s_PtOASbAp8TL4bfqQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clearwater Bay, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543230,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/23398200_20101216_5556d7b0a4.tar.gz"
+        },
+        "bbox": [
+            -94.785919189453,
+            49.684860229492,
+            -94.762573242188,
+            49.710243225098
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.776649,
+                        49.703835
+                    ],
+                    [
+                        -94.785919,
+                        49.692951
+                    ],
+                    [
+                        -94.783173,
+                        49.710243
+                    ],
+                    [
+                        -94.764977,
+                        49.706055
+                    ],
+                    [
+                        -94.762573,
+                        49.68486
+                    ],
+                    [
+                        -94.776649,
+                        49.703835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

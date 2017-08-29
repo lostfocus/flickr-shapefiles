@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220943,
+    "properties": {
+        "woe_id": 20220943,
+        "place_id": "fXz.rgObAZ4LPpU4Nw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Biskarreta-Gerendiain, Navarre, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525823,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20220943_20101216_f41f2b36fe.tar.gz"
+        },
+        "bbox": [
+            -1.4182339906693,
+            42.967517852783,
+            -1.417181968689,
+            42.967956542969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.417579,
+                        42.967949
+                    ],
+                    [
+                        -1.417182,
+                        42.967957
+                    ],
+                    [
+                        -1.417496,
+                        42.967682
+                    ],
+                    [
+                        -1.418126,
+                        42.967518
+                    ],
+                    [
+                        -1.418234,
+                        42.967854
+                    ],
+                    [
+                        -1.417579,
+                        42.967949
+                    ]
+                ]
+            ]
+        ]
+    }
+}

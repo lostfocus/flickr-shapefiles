@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20281,
+    "properties": {
+        "woe_id": 20281,
+        "place_id": "4KyzkHGbAZ6mBA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Flashader, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247864643,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2660\/shapefiles\/20281_20090717_9c4d6d1a06.tar.gz"
+        },
+        "bbox": [
+            -6.4221949577332,
+            57.49055480957,
+            -6.4050288200378,
+            57.501483917236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.405029,
+                        57.501484
+                    ],
+                    [
+                        -6.407862,
+                        57.497242
+                    ],
+                    [
+                        -6.410007,
+                        57.496365
+                    ],
+                    [
+                        -6.422195,
+                        57.490555
+                    ],
+                    [
+                        -6.41962,
+                        57.500145
+                    ],
+                    [
+                        -6.405029,
+                        57.501484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

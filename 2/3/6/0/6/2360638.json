@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2360638,
+    "properties": {
+        "woe_id": 2360638,
+        "place_id": "zQk6ikSbAprK6qd8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bealville, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468462,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2360638_20101216_824f104cb4.tar.gz"
+        },
+        "bbox": [
+            -118.63066864014,
+            35.271934509277,
+            -118.62371063232,
+            35.280395507812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.625954,
+                        35.271935
+                    ],
+                    [
+                        -118.627235,
+                        35.272427
+                    ],
+                    [
+                        -118.628822,
+                        35.273407
+                    ],
+                    [
+                        -118.630669,
+                        35.274265
+                    ],
+                    [
+                        -118.623711,
+                        35.280396
+                    ],
+                    [
+                        -118.625954,
+                        35.271935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

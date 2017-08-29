@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20120072,
+    "properties": {
+        "woe_id": 20120072,
+        "place_id": "6edl6sGbAZ3xT3ufVQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Challand-St.-Victor, Valle d'Aosta, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445566,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/20120072_20101215_1a0fc95baa.tar.gz"
+        },
+        "bbox": [
+            7.6921458244324,
+            45.686740875244,
+            7.7053418159485,
+            45.69367980957
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.703464,
+                        45.690063
+                    ],
+                    [
+                        7.692146,
+                        45.686741
+                    ],
+                    [
+                        7.699828,
+                        45.69368
+                    ],
+                    [
+                        7.702274,
+                        45.69281
+                    ],
+                    [
+                        7.705342,
+                        45.690006
+                    ],
+                    [
+                        7.703464,
+                        45.690063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

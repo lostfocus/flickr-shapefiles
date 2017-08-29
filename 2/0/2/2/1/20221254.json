@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20221254,
+    "properties": {
+        "woe_id": 20221254,
+        "place_id": "AGc7ZJKbAZ41I6Ir7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cardet, Catalonia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530969,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/20221254_20101216_ef8c34455f.tar.gz"
+        },
+        "bbox": [
+            0.78380501270294,
+            42.496173858643,
+            0.78710997104645,
+            42.498901367188
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.785498,
+                        42.49831
+                    ],
+                    [
+                        0.786027,
+                        42.497833
+                    ],
+                    [
+                        0.78711,
+                        42.496174
+                    ],
+                    [
+                        0.783805,
+                        42.497162
+                    ],
+                    [
+                        0.784235,
+                        42.498806
+                    ],
+                    [
+                        0.784578,
+                        42.498901
+                    ],
+                    [
+                        0.785498,
+                        42.49831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

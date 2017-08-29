@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2506590,
+    "properties": {
+        "woe_id": 2506590,
+        "place_id": "IgTQjrObBJzsY5hZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tinkertown, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448724,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2506590_20101215_eb6112bf23.tar.gz"
+        },
+        "bbox": [
+            -79.873847961426,
+            37.954975128174,
+            -79.86540222168,
+            37.959461212158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.865402,
+                        37.958858
+                    ],
+                    [
+                        -79.867935,
+                        37.954975
+                    ],
+                    [
+                        -79.873848,
+                        37.959015
+                    ],
+                    [
+                        -79.870636,
+                        37.959461
+                    ],
+                    [
+                        -79.86541,
+                        37.958858
+                    ],
+                    [
+                        -79.865402,
+                        37.958858
+                    ]
+                ]
+            ]
+        ]
+    }
+}

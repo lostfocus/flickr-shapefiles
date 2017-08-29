@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2411012,
+    "properties": {
+        "woe_id": 2411012,
+        "place_id": "bzdyjOebBZ1tjy8m",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Glendale, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234548242,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3527\/shapefiles\/2411012_20090213_292d103218.tar.gz"
+        },
+        "bbox": [
+            -75.672454833984,
+            39.623077392578,
+            -75.66902923584,
+            39.63005065918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.671768,
+                        39.623142
+                    ],
+                    [
+                        -75.672455,
+                        39.623077
+                    ],
+                    [
+                        -75.669334,
+                        39.629707
+                    ],
+                    [
+                        -75.669029,
+                        39.630051
+                    ],
+                    [
+                        -75.671768,
+                        39.623142
+                    ]
+                ]
+            ]
+        ]
+    }
+}

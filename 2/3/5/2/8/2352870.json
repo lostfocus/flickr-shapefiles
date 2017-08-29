@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2352870,
+    "properties": {
+        "woe_id": 2352870,
+        "place_id": "yx9cbMGbApniJ76N",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alden, Kansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589284,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3535\/shapefiles\/2352870_20090214_3794caeaa4.tar.gz"
+        },
+        "bbox": [
+            -98.380859375,
+            38.217548370361,
+            -98.361488342285,
+            38.232326507568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.368172,
+                        38.232327
+                    ],
+                    [
+                        -98.361488,
+                        38.232136
+                    ],
+                    [
+                        -98.362968,
+                        38.217751
+                    ],
+                    [
+                        -98.380859,
+                        38.217548
+                    ],
+                    [
+                        -98.368172,
+                        38.232327
+                    ]
+                ]
+            ]
+        ]
+    }
+}

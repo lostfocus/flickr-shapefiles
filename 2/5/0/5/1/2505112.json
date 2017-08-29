@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2505112,
+    "properties": {
+        "woe_id": 2505112,
+        "place_id": "OtUBivebBJzuhlRE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "The Arbors, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451990,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2505112_20101215_2e83bd7414.tar.gz"
+        },
+        "bbox": [
+            -84.589973449707,
+            33.39966583252,
+            -84.57935333252,
+            33.401958465576
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.579788,
+                        33.400921
+                    ],
+                    [
+                        -84.579353,
+                        33.399712
+                    ],
+                    [
+                        -84.587173,
+                        33.399666
+                    ],
+                    [
+                        -84.589973,
+                        33.401958
+                    ],
+                    [
+                        -84.585571,
+                        33.401123
+                    ],
+                    [
+                        -84.579788,
+                        33.400921
+                    ]
+                ]
+            ]
+        ]
+    }
+}

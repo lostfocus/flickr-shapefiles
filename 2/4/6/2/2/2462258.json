@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2462258,
+    "properties": {
+        "woe_id": 2462258,
+        "place_id": "6i9kV4mbBZpPKN7G",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Norway, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517524,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2462258_20101216_a49c00b752.tar.gz"
+        },
+        "bbox": [
+            -86.760627746582,
+            40.777561187744,
+            -86.759033203125,
+            40.781078338623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.759033,
+                        40.780769
+                    ],
+                    [
+                        -86.759453,
+                        40.778374
+                    ],
+                    [
+                        -86.760628,
+                        40.777561
+                    ],
+                    [
+                        -86.759872,
+                        40.780476
+                    ],
+                    [
+                        -86.759163,
+                        40.781078
+                    ],
+                    [
+                        -86.759033,
+                        40.780769
+                    ]
+                ]
+            ]
+        ]
+    }
+}

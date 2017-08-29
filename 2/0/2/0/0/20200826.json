@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20200826,
+    "properties": {
+        "woe_id": 20200826,
+        "place_id": ".T6ZAWKbAZ5c.DYYjg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Garette, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457312,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/20200826_20101215_77650e952d.tar.gz"
+        },
+        "bbox": [
+            -0.5908579826355,
+            46.303718566895,
+            -0.58279001712799,
+            46.308578491211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.58674,
+                        46.304871
+                    ],
+                    [
+                        -0.58897,
+                        46.303719
+                    ],
+                    [
+                        -0.59,
+                        46.305141
+                    ],
+                    [
+                        -0.590858,
+                        46.306862
+                    ],
+                    [
+                        -0.58279,
+                        46.308578
+                    ],
+                    [
+                        -0.58674,
+                        46.304871
+                    ]
+                ]
+            ]
+        ]
+    }
+}

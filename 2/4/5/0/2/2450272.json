@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2450272,
+    "properties": {
+        "woe_id": 2450272,
+        "place_id": "4XHzjDubBZlW4s9u",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Middlebrook, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512688,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2450272_20101216_663aed5d5d.tar.gz"
+        },
+        "bbox": [
+            -90.691795349121,
+            37.653247833252,
+            -90.681838989258,
+            37.65990447998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.688095,
+                        37.655724
+                    ],
+                    [
+                        -90.681839,
+                        37.659904
+                    ],
+                    [
+                        -90.687897,
+                        37.65498
+                    ],
+                    [
+                        -90.689163,
+                        37.653252
+                    ],
+                    [
+                        -90.691795,
+                        37.653248
+                    ],
+                    [
+                        -90.688095,
+                        37.655724
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28644144,
+    "properties": {
+        "woe_id": 28644144,
+        "place_id": "OOLnCeKbCZobcK7I7w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Waimihia, Waikato, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248033962,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2659\/shapefiles\/28644144_20090719_c06e962acf.tar.gz"
+        },
+        "bbox": [
+            176.21435546875,
+            -38.776569366455,
+            176.22413635254,
+            -38.765460968018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        176.214355,
+                        -38.765862
+                    ],
+                    [
+                        176.216232,
+                        -38.765461
+                    ],
+                    [
+                        176.222412,
+                        -38.768139
+                    ],
+                    [
+                        176.224136,
+                        -38.776569
+                    ],
+                    [
+                        176.217102,
+                        -38.768406
+                    ],
+                    [
+                        176.214355,
+                        -38.765862
+                    ]
+                ]
+            ]
+        ]
+    }
+}

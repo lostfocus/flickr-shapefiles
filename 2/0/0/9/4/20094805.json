@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20094805,
+    "properties": {
+        "woe_id": 20094805,
+        "place_id": "O9V6VoSbAZzwE3koGg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Buch, Vorarlberg, Austria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452192,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/20094805_20101215_9b771c7e48.tar.gz"
+        },
+        "bbox": [
+            9.8437414169312,
+            47.481025695801,
+            9.8448324203491,
+            47.482357025146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.844832,
+                        47.48111
+                    ],
+                    [
+                        9.844813,
+                        47.481026
+                    ],
+                    [
+                        9.844768,
+                        47.481064
+                    ],
+                    [
+                        9.844038,
+                        47.481979
+                    ],
+                    [
+                        9.843741,
+                        47.482357
+                    ],
+                    [
+                        9.844832,
+                        47.48111
+                    ]
+                ]
+            ]
+        ]
+    }
+}

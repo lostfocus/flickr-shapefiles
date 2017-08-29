@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20123905,
+    "properties": {
+        "woe_id": 20123905,
+        "place_id": "REboLNWbAZ0.aKTOUA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Falesina, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545366,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/20123905_20101217_e4888117a7.tar.gz"
+        },
+        "bbox": [
+            11.276307106018,
+            46.069564819336,
+            11.278656005859,
+            46.070560455322
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.276779,
+                        46.07048
+                    ],
+                    [
+                        11.278409,
+                        46.07056
+                    ],
+                    [
+                        11.278656,
+                        46.070084
+                    ],
+                    [
+                        11.277894,
+                        46.069565
+                    ],
+                    [
+                        11.27651,
+                        46.069939
+                    ],
+                    [
+                        11.276307,
+                        46.070122
+                    ],
+                    [
+                        11.276779,
+                        46.07048
+                    ]
+                ]
+            ]
+        ]
+    }
+}

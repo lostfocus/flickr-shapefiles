@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 22756887,
+    "properties": {
+        "woe_id": 22756887,
+        "place_id": "6irLONmbA5sBZD2WtQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Vernet, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522515,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/22756887_20101216_6d1dd987ab.tar.gz"
+        },
+        "bbox": [
+            6.4032258987427,
+            44.276515960693,
+            6.4121098518372,
+            44.279220581055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.406917,
+                        44.277901
+                    ],
+                    [
+                        6.405372,
+                        44.276516
+                    ],
+                    [
+                        6.403226,
+                        44.277714
+                    ],
+                    [
+                        6.404449,
+                        44.277794
+                    ],
+                    [
+                        6.407089,
+                        44.278362
+                    ],
+                    [
+                        6.41211,
+                        44.279221
+                    ],
+                    [
+                        6.406917,
+                        44.277901
+                    ]
+                ]
+            ]
+        ]
+    }
+}

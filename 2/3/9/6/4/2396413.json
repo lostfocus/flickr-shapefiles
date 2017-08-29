@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396413,
+    "properties": {
+        "woe_id": 2396413,
+        "place_id": "q5I415ebApWegfhL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eastfield, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234520283,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3359\/shapefiles\/2396413_20090213_043f25dd45.tar.gz"
+        },
+        "bbox": [
+            -76.512588500977,
+            39.265518188477,
+            -76.509536743164,
+            39.267040252686
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.512268,
+                        39.266384
+                    ],
+                    [
+                        -76.509537,
+                        39.26704
+                    ],
+                    [
+                        -76.511108,
+                        39.26577
+                    ],
+                    [
+                        -76.512589,
+                        39.265518
+                    ],
+                    [
+                        -76.512268,
+                        39.266384
+                    ]
+                ]
+            ]
+        ]
+    }
+}

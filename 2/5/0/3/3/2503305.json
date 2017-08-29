@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503305,
+    "properties": {
+        "woe_id": 2503305,
+        "place_id": "8fbtGIubBJxstkTD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sykeston, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234669328,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3459\/shapefiles\/2503305_20090215_227ee0fa57.tar.gz"
+        },
+        "bbox": [
+            -99.400466918945,
+            47.461986541748,
+            -99.397346496582,
+            47.469005584717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.39949,
+                        47.461987
+                    ],
+                    [
+                        -99.400467,
+                        47.464153
+                    ],
+                    [
+                        -99.399406,
+                        47.466049
+                    ],
+                    [
+                        -99.397346,
+                        47.469006
+                    ],
+                    [
+                        -99.39949,
+                        47.461987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

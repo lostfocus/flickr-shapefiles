@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22475376,
+    "properties": {
+        "woe_id": 22475376,
+        "place_id": "8MBCb7ibA5gk642BZQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "London City Airport, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452305,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/22475376_20101215_014db575c6.tar.gz"
+        },
+        "bbox": [
+            0.044900000095367,
+            51.504432678223,
+            0.04755000025034,
+            51.50772857666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.046133,
+                        51.507729
+                    ],
+                    [
+                        0.04755,
+                        51.504971
+                    ],
+                    [
+                        0.047292,
+                        51.50499
+                    ],
+                    [
+                        0.0449,
+                        51.504433
+                    ],
+                    [
+                        0.046133,
+                        51.507729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

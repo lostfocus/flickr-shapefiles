@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2449433,
+    "properties": {
+        "woe_id": 2449433,
+        "place_id": "VXr1DKybBZhJB0ws",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Menlo, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539203,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2449433_20101216_cdd6f46d48.tar.gz"
+        },
+        "bbox": [
+            -85.480796813965,
+            34.483261108398,
+            -85.45482635498,
+            34.488414764404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.480797,
+                        34.483673
+                    ],
+                    [
+                        -85.480324,
+                        34.484097
+                    ],
+                    [
+                        -85.475677,
+                        34.488415
+                    ],
+                    [
+                        -85.454826,
+                        34.483261
+                    ],
+                    [
+                        -85.475456,
+                        34.483528
+                    ],
+                    [
+                        -85.480797,
+                        34.483673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

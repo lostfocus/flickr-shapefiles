@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2417311,
+    "properties": {
+        "woe_id": 2417311,
+        "place_id": "V7AeYgubBZ0hZw74",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Harbor Creek, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523307,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2417311_20101216_bb76f87e98.tar.gz"
+        },
+        "bbox": [
+            -80.981941223145,
+            32.014862060547,
+            -80.977653503418,
+            32.033256530762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.981224,
+                        32.015919
+                    ],
+                    [
+                        -80.981941,
+                        32.033257
+                    ],
+                    [
+                        -80.978119,
+                        32.027851
+                    ],
+                    [
+                        -80.977654,
+                        32.019333
+                    ],
+                    [
+                        -80.978065,
+                        32.014862
+                    ],
+                    [
+                        -80.981224,
+                        32.015919
+                    ]
+                ]
+            ]
+        ]
+    }
+}

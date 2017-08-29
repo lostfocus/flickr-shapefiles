@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2465816,
+    "properties": {
+        "woe_id": 2465816,
+        "place_id": "yEtWPUibBZqK6FbE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oppenheim, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507227,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2465816_20101216_1e5cb74c76.tar.gz"
+        },
+        "bbox": [
+            -74.772521972656,
+            43.094470977783,
+            -74.76789855957,
+            43.101734161377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.767899,
+                        43.094715
+                    ],
+                    [
+                        -74.768234,
+                        43.094471
+                    ],
+                    [
+                        -74.771622,
+                        43.095238
+                    ],
+                    [
+                        -74.772522,
+                        43.101734
+                    ],
+                    [
+                        -74.770393,
+                        43.101467
+                    ],
+                    [
+                        -74.767899,
+                        43.094715
+                    ]
+                ]
+            ]
+        ]
+    }
+}

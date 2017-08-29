@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2426301,
+    "properties": {
+        "woe_id": 2426301,
+        "place_id": "mrYWhfmbBZ5A6Lrr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hyde Park, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247900890,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2546\/shapefiles\/2426301_20090718_0d0e40b1c7.tar.gz"
+        },
+        "bbox": [
+            -72.618812561035,
+            44.592758178711,
+            -72.61653137207,
+            44.594150543213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.618301,
+                        44.593658
+                    ],
+                    [
+                        -72.618813,
+                        44.594044
+                    ],
+                    [
+                        -72.618256,
+                        44.594151
+                    ],
+                    [
+                        -72.616959,
+                        44.593994
+                    ],
+                    [
+                        -72.616531,
+                        44.592758
+                    ],
+                    [
+                        -72.618301,
+                        44.593658
+                    ]
+                ]
+            ]
+        ]
+    }
+}

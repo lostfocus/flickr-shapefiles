@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28339780,
+    "properties": {
+        "woe_id": 28339780,
+        "place_id": "4OKeMgSbCZ_1tagcow",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Providence, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536339,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/28339780_20101216_704003f562.tar.gz"
+        },
+        "bbox": [
+            -74.046478271484,
+            43.093524932861,
+            -74.021026611328,
+            43.103523254395
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.046478,
+                        43.093525
+                    ],
+                    [
+                        -74.03756,
+                        43.0952
+                    ],
+                    [
+                        -74.021027,
+                        43.103523
+                    ],
+                    [
+                        -74.035919,
+                        43.094307
+                    ],
+                    [
+                        -74.046478,
+                        43.093525
+                    ]
+                ]
+            ]
+        ]
+    }
+}

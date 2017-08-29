@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2491452,
+    "properties": {
+        "woe_id": 2491452,
+        "place_id": "VSL91DKbBZU7QCHN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shadyside, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234695006,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3577\/shapefiles\/2491452_20090215_39599bf296.tar.gz"
+        },
+        "bbox": [
+            -84.537132263184,
+            41.828624725342,
+            -84.530075073242,
+            41.831230163574
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.530075,
+                        41.829144
+                    ],
+                    [
+                        -84.531685,
+                        41.828625
+                    ],
+                    [
+                        -84.537132,
+                        41.830017
+                    ],
+                    [
+                        -84.532936,
+                        41.83123
+                    ],
+                    [
+                        -84.530075,
+                        41.829144
+                    ]
+                ]
+            ]
+        ]
+    }
+}

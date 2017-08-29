@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20072857,
+    "properties": {
+        "woe_id": 20072857,
+        "place_id": "_e6M9webAZyzVeaF8w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dunnamaggan, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508602,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/20072857_20101216_4a5eab7ffe.tar.gz"
+        },
+        "bbox": [
+            -7.3397040367126,
+            52.503997802734,
+            -7.3384380340576,
+            52.506870269775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.339704,
+                        52.504387
+                    ],
+                    [
+                        -7.339124,
+                        52.50687
+                    ],
+                    [
+                        -7.338953,
+                        52.505615
+                    ],
+                    [
+                        -7.338867,
+                        52.50507
+                    ],
+                    [
+                        -7.338438,
+                        52.503998
+                    ],
+                    [
+                        -7.339704,
+                        52.504387
+                    ]
+                ]
+            ]
+        ]
+    }
+}

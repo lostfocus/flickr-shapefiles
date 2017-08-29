@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2369038,
+    "properties": {
+        "woe_id": 2369038,
+        "place_id": "h6UgnBmbAprGiBA6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bridlewood, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234876926,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3446\/shapefiles\/2369038_20090217_37a2e4b84e.tar.gz"
+        },
+        "bbox": [
+            -76.620918273926,
+            39.418872833252,
+            -76.616134643555,
+            39.422416687012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.618095,
+                        39.422417
+                    ],
+                    [
+                        -76.616135,
+                        39.421612
+                    ],
+                    [
+                        -76.616753,
+                        39.420601
+                    ],
+                    [
+                        -76.620918,
+                        39.418873
+                    ],
+                    [
+                        -76.618095,
+                        39.422417
+                    ]
+                ]
+            ]
+        ]
+    }
+}

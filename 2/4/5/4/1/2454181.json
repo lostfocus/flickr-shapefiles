@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2454181,
+    "properties": {
+        "woe_id": 2454181,
+        "place_id": "prlcXDqbBZkFK9lX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Morning Sun Villas, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234571765,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3310\/shapefiles\/2454181_20090214_75d776a9c0.tar.gz"
+        },
+        "bbox": [
+            -86.699768066406,
+            33.417671203613,
+            -86.68822479248,
+            33.423210144043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.688225,
+                        33.418476
+                    ],
+                    [
+                        -86.691757,
+                        33.417671
+                    ],
+                    [
+                        -86.693085,
+                        33.418152
+                    ],
+                    [
+                        -86.699768,
+                        33.423168
+                    ],
+                    [
+                        -86.699516,
+                        33.42321
+                    ],
+                    [
+                        -86.688225,
+                        33.418476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

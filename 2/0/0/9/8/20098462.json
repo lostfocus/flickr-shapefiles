@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20098462,
+    "properties": {
+        "woe_id": 20098462,
+        "place_id": "p3A6dsebAZxjfe9sFQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "\u00c5rup, Syddanmark, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234555204,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3353\/shapefiles\/20098462_20090213_37030eda91.tar.gz"
+        },
+        "bbox": [
+            9.4054975509644,
+            55.012832641602,
+            9.4263334274292,
+            55.024234771729
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.426333,
+                        55.019165
+                    ],
+                    [
+                        9.4245,
+                        55.013832
+                    ],
+                    [
+                        9.423666,
+                        55.012833
+                    ],
+                    [
+                        9.405498,
+                        55.024235
+                    ],
+                    [
+                        9.426333,
+                        55.019165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

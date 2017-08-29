@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23402572,
+    "properties": {
+        "woe_id": 23402572,
+        "place_id": "1ynWukybApgWfOtN.g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Glenlea, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455103,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/23402572_20101215_b0ed296447.tar.gz"
+        },
+        "bbox": [
+            -97.111587524414,
+            49.620998382568,
+            -97.08935546875,
+            49.635452270508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.106049,
+                        49.635452
+                    ],
+                    [
+                        -97.089355,
+                        49.622223
+                    ],
+                    [
+                        -97.105362,
+                        49.620998
+                    ],
+                    [
+                        -97.111588,
+                        49.625278
+                    ],
+                    [
+                        -97.106049,
+                        49.635452
+                    ]
+                ]
+            ]
+        ]
+    }
+}

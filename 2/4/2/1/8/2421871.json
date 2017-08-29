@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2421871,
+    "properties": {
+        "woe_id": 2421871,
+        "place_id": "_ZTlJOGbBZ7Phxrs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hillcrest, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234658642,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3440\/shapefiles\/2421871_20090215_f01bc40729.tar.gz"
+        },
+        "bbox": [
+            -89.065818786621,
+            41.948463439941,
+            -89.06510925293,
+            41.949493408203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.06543,
+                        41.949493
+                    ],
+                    [
+                        -89.065109,
+                        41.949364
+                    ],
+                    [
+                        -89.065819,
+                        41.948463
+                    ],
+                    [
+                        -89.065758,
+                        41.949364
+                    ],
+                    [
+                        -89.06543,
+                        41.949493
+                    ]
+                ]
+            ]
+        ]
+    }
+}

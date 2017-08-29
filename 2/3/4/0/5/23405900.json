@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23405900,
+    "properties": {
+        "woe_id": 23405900,
+        "place_id": "bnAH7qibApi.EW7hjA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sanikiluaq, Nunavut, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529448,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/23405900_20101216_7e32af94ea.tar.gz"
+        },
+        "bbox": [
+            -79.234939575195,
+            56.539184570312,
+            -79.222412109375,
+            56.549263000488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.223953,
+                        56.544437
+                    ],
+                    [
+                        -79.229362,
+                        56.539326
+                    ],
+                    [
+                        -79.23494,
+                        56.539185
+                    ],
+                    [
+                        -79.231339,
+                        56.549263
+                    ],
+                    [
+                        -79.222412,
+                        56.545101
+                    ],
+                    [
+                        -79.223953,
+                        56.544437
+                    ]
+                ]
+            ]
+        ]
+    }
+}

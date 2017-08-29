@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23424696,
+    "properties": {
+        "woe_id": 23424696,
+        "place_id": "IYkbgIqbApi8uEXy2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hwaseong-Si, Kyeongki-Do, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542740,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/23424696_20101216_8985b913fa.tar.gz"
+        },
+        "bbox": [
+            126.86050415039,
+            37.14440536499,
+            126.88659667969,
+            37.160316467285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        126.881104,
+                        37.151562
+                    ],
+                    [
+                        126.886597,
+                        37.149372
+                    ],
+                    [
+                        126.875801,
+                        37.144405
+                    ],
+                    [
+                        126.860504,
+                        37.160316
+                    ],
+                    [
+                        126.87561,
+                        37.155937
+                    ],
+                    [
+                        126.881104,
+                        37.151562
+                    ]
+                ]
+            ]
+        ]
+    }
+}

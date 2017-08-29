@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2490113,
+    "properties": {
+        "woe_id": 2490113,
+        "place_id": "B598UGebBZW6jltv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Scranton, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234722853,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3573\/shapefiles\/2490113_20090215_e351f47a26.tar.gz"
+        },
+        "bbox": [
+            -103.14496612549,
+            46.145824432373,
+            -103.140625,
+            46.149467468262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.141068,
+                        46.147896
+                    ],
+                    [
+                        -103.144966,
+                        46.145824
+                    ],
+                    [
+                        -103.142998,
+                        46.148102
+                    ],
+                    [
+                        -103.140625,
+                        46.149467
+                    ],
+                    [
+                        -103.141068,
+                        46.147896
+                    ]
+                ]
+            ]
+        ]
+    }
+}

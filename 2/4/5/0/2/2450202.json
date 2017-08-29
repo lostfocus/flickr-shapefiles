@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2450202,
+    "properties": {
+        "woe_id": 2450202,
+        "place_id": "SS0Gs_abBZlRgSyU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Middle Creek, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234607526,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3533\/shapefiles\/2450202_20090214_6010ca091e.tar.gz"
+        },
+        "bbox": [
+            -77.237533569336,
+            40.772804260254,
+            -77.234443664551,
+            40.774951934814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.234444,
+                        40.772804
+                    ],
+                    [
+                        -77.236588,
+                        40.773262
+                    ],
+                    [
+                        -77.237534,
+                        40.773422
+                    ],
+                    [
+                        -77.235176,
+                        40.774952
+                    ],
+                    [
+                        -77.234444,
+                        40.772804
+                    ]
+                ]
+            ]
+        ]
+    }
+}

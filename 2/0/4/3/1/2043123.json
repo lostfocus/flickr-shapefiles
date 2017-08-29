@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2043123,
+    "properties": {
+        "woe_id": 2043123,
+        "place_id": "cM.7iuibAZiIkhOe",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marfino, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525429,
+        "alpha": 0.00015,
+        "points": 20,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2043123_20101216_d3940f8329.tar.gz"
+        },
+        "bbox": [
+            37.607643127441,
+            56.112503051758,
+            37.6174659729,
+            56.116580963135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.607643,
+                        56.114746
+                    ],
+                    [
+                        37.610256,
+                        56.116501
+                    ],
+                    [
+                        37.611343,
+                        56.116581
+                    ],
+                    [
+                        37.612659,
+                        56.115582
+                    ],
+                    [
+                        37.617466,
+                        56.112541
+                    ],
+                    [
+                        37.610069,
+                        56.112503
+                    ],
+                    [
+                        37.607643,
+                        56.114746
+                    ]
+                ]
+            ]
+        ]
+    }
+}

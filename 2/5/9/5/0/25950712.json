@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 25950712,
+    "properties": {
+        "woe_id": 25950712,
+        "place_id": "fajvDgKbBJV5ztM1uA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Koivuhaka, Western Finland, Finland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234672203,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3513\/shapefiles\/25950712_20090215_0b4a00384d.tar.gz"
+        },
+        "bbox": [
+            23.063091278076,
+            63.825775146484,
+            23.066396713257,
+            63.829654693604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        23.063263,
+                        63.826305
+                    ],
+                    [
+                        23.063091,
+                        63.829655
+                    ],
+                    [
+                        23.066397,
+                        63.825871
+                    ],
+                    [
+                        23.066267,
+                        63.825775
+                    ],
+                    [
+                        23.063263,
+                        63.826305
+                    ]
+                ]
+            ]
+        ]
+    }
+}

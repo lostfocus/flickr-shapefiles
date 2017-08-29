@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2414011,
+    "properties": {
+        "woe_id": 2414011,
+        "place_id": "x6cTDbebBZ3x3UH1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Green Spring Farm, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234621926,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3313\/shapefiles\/2414011_20090214_e4c230832a.tar.gz"
+        },
+        "bbox": [
+            -75.637557983398,
+            39.315734863281,
+            -75.621910095215,
+            39.334510803223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.622993,
+                        39.32822
+                    ],
+                    [
+                        -75.62191,
+                        39.325737
+                    ],
+                    [
+                        -75.637558,
+                        39.315735
+                    ],
+                    [
+                        -75.63121,
+                        39.334511
+                    ],
+                    [
+                        -75.622993,
+                        39.32822
+                    ]
+                ]
+            ]
+        ]
+    }
+}

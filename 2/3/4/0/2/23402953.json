@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23402953,
+    "properties": {
+        "woe_id": 23402953,
+        "place_id": "cJFpa22bApgHrGhYRw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crystal Springs, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234724525,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3580\/shapefiles\/23402953_20090215_f6f3ed81d2.tar.gz"
+        },
+        "bbox": [
+            -105.36650085449,
+            52.807975769043,
+            -105.36362457275,
+            52.816368103027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.366486,
+                        52.807976
+                    ],
+                    [
+                        -105.366501,
+                        52.816368
+                    ],
+                    [
+                        -105.363625,
+                        52.808384
+                    ],
+                    [
+                        -105.363907,
+                        52.80806
+                    ],
+                    [
+                        -105.366486,
+                        52.807976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

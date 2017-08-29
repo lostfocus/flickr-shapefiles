@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2424109,
+    "properties": {
+        "woe_id": 2424109,
+        "place_id": "bFWT9VubBZ4hOmkX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hoosick, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247937122,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2441\/shapefiles\/2424109_20090718_4ae603a0c3.tar.gz"
+        },
+        "bbox": [
+            -73.345977783203,
+            42.855598449707,
+            -73.326873779297,
+            42.864532470703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.326874,
+                        42.863632
+                    ],
+                    [
+                        -73.327705,
+                        42.8624
+                    ],
+                    [
+                        -73.333717,
+                        42.855598
+                    ],
+                    [
+                        -73.345978,
+                        42.857422
+                    ],
+                    [
+                        -73.341164,
+                        42.859333
+                    ],
+                    [
+                        -73.329254,
+                        42.864532
+                    ],
+                    [
+                        -73.326874,
+                        42.863632
+                    ]
+                ]
+            ]
+        ]
+    }
+}

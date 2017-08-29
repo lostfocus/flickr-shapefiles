@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2517679,
+    "properties": {
+        "woe_id": 2517679,
+        "place_id": "2xaoVkSbBJ3FgB7v",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Rush, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454679,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2517679_20101215_36cb45051b.tar.gz"
+        },
+        "bbox": [
+            -77.713890075684,
+            42.972694396973,
+            -77.693077087402,
+            42.985275268555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.707825,
+                        42.972694
+                    ],
+                    [
+                        -77.71389,
+                        42.985275
+                    ],
+                    [
+                        -77.710556,
+                        42.985275
+                    ],
+                    [
+                        -77.693077,
+                        42.976818
+                    ],
+                    [
+                        -77.698372,
+                        42.975025
+                    ],
+                    [
+                        -77.707825,
+                        42.972694
+                    ]
+                ]
+            ]
+        ]
+    }
+}

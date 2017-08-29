@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2011346,
+    "properties": {
+        "woe_id": 2011346,
+        "place_id": "SPl58FGbAZ1QLj87",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ignatovka, Arkhangelrskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444345,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2011346_20101215_12572722e9.tar.gz"
+        },
+        "bbox": [
+            42.420036315918,
+            61.472873687744,
+            42.420780181885,
+            61.473728179932
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        42.420036,
+                        61.472874
+                    ],
+                    [
+                        42.420174,
+                        61.473045
+                    ],
+                    [
+                        42.42078,
+                        61.473728
+                    ],
+                    [
+                        42.420528,
+                        61.473412
+                    ],
+                    [
+                        42.420151,
+                        61.472931
+                    ],
+                    [
+                        42.420036,
+                        61.472874
+                    ]
+                ]
+            ]
+        ]
+    }
+}

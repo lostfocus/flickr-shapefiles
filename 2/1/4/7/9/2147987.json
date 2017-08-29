@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2147987,
+    "properties": {
+        "woe_id": 2147987,
+        "place_id": "AlGHrjWbAJjyPYgr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fushun, Liaoning, China"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292499722,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2147987_20101216_b5c149bf5c.tar.gz"
+        },
+        "bbox": [
+            123.86415100098,
+            41.860740661621,
+            123.8833770752,
+            41.883365631104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        123.864151,
+                        41.864449
+                    ],
+                    [
+                        123.865013,
+                        41.869305
+                    ],
+                    [
+                        123.875656,
+                        41.883366
+                    ],
+                    [
+                        123.883377,
+                        41.869179
+                    ],
+                    [
+                        123.883034,
+                        41.860741
+                    ],
+                    [
+                        123.869133,
+                        41.865471
+                    ],
+                    [
+                        123.864151,
+                        41.864449
+                    ]
+                ]
+            ]
+        ]
+    }
+}

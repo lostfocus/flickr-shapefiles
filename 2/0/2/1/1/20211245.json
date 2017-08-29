@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20211245,
+    "properties": {
+        "woe_id": 20211245,
+        "place_id": "_MRcl5ybAZ44vOztHQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bois-Bercher, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524423,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/20211245_20101216_c43350b2d1.tar.gz"
+        },
+        "bbox": [
+            6.4342970848083,
+            45.954467773438,
+            6.445198059082,
+            45.964946746826
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.437467,
+                        45.954468
+                    ],
+                    [
+                        6.436958,
+                        45.954849
+                    ],
+                    [
+                        6.434297,
+                        45.964947
+                    ],
+                    [
+                        6.439404,
+                        45.956966
+                    ],
+                    [
+                        6.445198,
+                        45.954491
+                    ],
+                    [
+                        6.443052,
+                        45.954849
+                    ],
+                    [
+                        6.437467,
+                        45.954468
+                    ]
+                ]
+            ]
+        ]
+    }
+}

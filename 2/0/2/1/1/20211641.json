@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20211641,
+    "properties": {
+        "woe_id": 20211641,
+        "place_id": ".8OsKiKbAZ7dpMdcMQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Val-de-Cusance, Franche-Comte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445621,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/20211641_20101215_7b756746e3.tar.gz"
+        },
+        "bbox": [
+            6.435968875885,
+            47.3219871521,
+            6.4393839836121,
+            47.326267242432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.437327,
+                        47.321987
+                    ],
+                    [
+                        6.4367,
+                        47.32251
+                    ],
+                    [
+                        6.435969,
+                        47.323433
+                    ],
+                    [
+                        6.439384,
+                        47.326267
+                    ],
+                    [
+                        6.438369,
+                        47.323978
+                    ],
+                    [
+                        6.437327,
+                        47.321987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

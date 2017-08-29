@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483813,
+    "properties": {
+        "woe_id": 2483813,
+        "place_id": "pSFq0eybBZQrIrrE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rodgers Forge, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234592286,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3454\/shapefiles\/2483813_20090214_ea07071d9b.tar.gz"
+        },
+        "bbox": [
+            -76.619216918945,
+            39.377498626709,
+            -76.611114501953,
+            39.381721496582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.619217,
+                        39.378181
+                    ],
+                    [
+                        -76.614479,
+                        39.381721
+                    ],
+                    [
+                        -76.614037,
+                        39.381573
+                    ],
+                    [
+                        -76.611115,
+                        39.377499
+                    ],
+                    [
+                        -76.619217,
+                        39.378181
+                    ]
+                ]
+            ]
+        ]
+    }
+}

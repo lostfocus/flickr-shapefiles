@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29387763,
+    "properties": {
+        "woe_id": 29387763,
+        "place_id": "Wv5AIZybCJ8RAnA_dA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jean Airport, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528735,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/29387763_20101216_f1fb045c30.tar.gz"
+        },
+        "bbox": [
+            -115.33449554443,
+            35.772106170654,
+            -115.32981872559,
+            35.776546478271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.331169,
+                        35.776546
+                    ],
+                    [
+                        -115.329819,
+                        35.772106
+                    ],
+                    [
+                        -115.334496,
+                        35.772602
+                    ],
+                    [
+                        -115.332954,
+                        35.774097
+                    ],
+                    [
+                        -115.331169,
+                        35.776546
+                    ]
+                ]
+            ]
+        ]
+    }
+}

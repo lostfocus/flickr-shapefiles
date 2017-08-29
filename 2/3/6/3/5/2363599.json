@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2363599,
+    "properties": {
+        "woe_id": 2363599,
+        "place_id": "kMPq4qKbApq8f37E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bethwood, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524177,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2363599_20101216_3b7c90b484.tar.gz"
+        },
+        "bbox": [
+            -76.853141784668,
+            39.285148620605,
+            -76.852195739746,
+            39.290218353271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.852768,
+                        39.289581
+                    ],
+                    [
+                        -76.852325,
+                        39.290104
+                    ],
+                    [
+                        -76.852196,
+                        39.290218
+                    ],
+                    [
+                        -76.853035,
+                        39.285149
+                    ],
+                    [
+                        -76.853142,
+                        39.288975
+                    ],
+                    [
+                        -76.852768,
+                        39.289581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

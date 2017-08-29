@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2478297,
+    "properties": {
+        "woe_id": 2478297,
+        "place_id": "zA5LnNqbBZtgyEJD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Raleigh, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234950375,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3424\/shapefiles\/2478297_20090218_7099f72e92.tar.gz"
+        },
+        "bbox": [
+            -88.531776428223,
+            37.816902160645,
+            -88.497940063477,
+            37.827411651611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.531776,
+                        37.827412
+                    ],
+                    [
+                        -88.516502,
+                        37.824963
+                    ],
+                    [
+                        -88.49794,
+                        37.82465
+                    ],
+                    [
+                        -88.517448,
+                        37.816902
+                    ],
+                    [
+                        -88.531776,
+                        37.827412
+                    ]
+                ]
+            ]
+        ]
+    }
+}

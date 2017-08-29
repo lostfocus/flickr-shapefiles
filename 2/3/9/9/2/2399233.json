@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2399233,
+    "properties": {
+        "woe_id": 2399233,
+        "place_id": "5IzuFGWbApUMAL9h",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Elwood, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520678,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2399233_20101216_1109587d3f.tar.gz"
+        },
+        "bbox": [
+            -122.36820983887,
+            45.228698730469,
+            -122.36450958252,
+            45.230777740479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.365944,
+                        45.228813
+                    ],
+                    [
+                        -122.36821,
+                        45.230778
+                    ],
+                    [
+                        -122.367264,
+                        45.230354
+                    ],
+                    [
+                        -122.36451,
+                        45.228699
+                    ],
+                    [
+                        -122.365944,
+                        45.228813
+                    ]
+                ]
+            ]
+        ]
+    }
+}

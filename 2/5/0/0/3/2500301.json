@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2500301,
+    "properties": {
+        "woe_id": 2500301,
+        "place_id": "XvP9_cybBJzNxdR6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stonehedge, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534660,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2500301_20101216_db344669f5.tar.gz"
+        },
+        "bbox": [
+            -87.579231262207,
+            33.352115631104,
+            -87.577163696289,
+            33.355682373047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.577164,
+                        33.352165
+                    ],
+                    [
+                        -87.577248,
+                        33.352116
+                    ],
+                    [
+                        -87.577332,
+                        33.352165
+                    ],
+                    [
+                        -87.579231,
+                        33.354504
+                    ],
+                    [
+                        -87.578552,
+                        33.355682
+                    ],
+                    [
+                        -87.577217,
+                        33.352318
+                    ],
+                    [
+                        -87.577164,
+                        33.352165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

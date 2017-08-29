@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500396,
+    "properties": {
+        "woe_id": 2500396,
+        "place_id": "pPZYqXebBJz0Dwxy",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stonewall Manor, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234761727,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3140\/shapefiles\/2500396_20090216_f4e8dbaa03.tar.gz"
+        },
+        "bbox": [
+            -77.236877441406,
+            38.887557983398,
+            -77.230110168457,
+            38.895599365234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.233887,
+                        38.895309
+                    ],
+                    [
+                        -77.23011,
+                        38.891968
+                    ],
+                    [
+                        -77.230453,
+                        38.887558
+                    ],
+                    [
+                        -77.236877,
+                        38.895599
+                    ],
+                    [
+                        -77.233887,
+                        38.895309
+                    ]
+                ]
+            ]
+        ]
+    }
+}

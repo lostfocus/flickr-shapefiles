@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20220743,
+    "properties": {
+        "woe_id": 20220743,
+        "place_id": "LCv6XZSbAZ7CDNXd6A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Banast\u00f3n, Aragon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234626732,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3521\/shapefiles\/20220743_20090214_fb655df10c.tar.gz"
+        },
+        "bbox": [
+            0.16633899509907,
+            42.406028747559,
+            0.16741199791431,
+            42.406726837158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.166511,
+                        42.406029
+                    ],
+                    [
+                        0.166339,
+                        42.406727
+                    ],
+                    [
+                        0.167412,
+                        42.406666
+                    ],
+                    [
+                        0.167369,
+                        42.406284
+                    ],
+                    [
+                        0.166511,
+                        42.406029
+                    ]
+                ]
+            ]
+        ]
+    }
+}

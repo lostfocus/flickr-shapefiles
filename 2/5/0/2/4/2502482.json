@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502482,
+    "properties": {
+        "woe_id": 2502482,
+        "place_id": "_pmr5yubBJxSqQUN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sunset Landing, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536229,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2502482_20101216_0cd648026d.tar.gz"
+        },
+        "bbox": [
+            -123.96418762207,
+            44.879913330078,
+            -123.95999908447,
+            44.886100769043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.964188,
+                        44.879913
+                    ],
+                    [
+                        -123.964149,
+                        44.879955
+                    ],
+                    [
+                        -123.959999,
+                        44.886101
+                    ],
+                    [
+                        -123.962151,
+                        44.880505
+                    ],
+                    [
+                        -123.964188,
+                        44.879913
+                    ]
+                ]
+            ]
+        ]
+    }
+}

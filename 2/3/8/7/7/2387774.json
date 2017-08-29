@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2387774,
+    "properties": {
+        "woe_id": 2387774,
+        "place_id": "dtnImzKbApSFrXUi",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crowder, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248140539,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2502\/shapefiles\/2387774_20090721_a1c0d301e2.tar.gz"
+        },
+        "bbox": [
+            -76.815399169922,
+            39.230724334717,
+            -76.812576293945,
+            39.235977172852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.814766,
+                        39.230724
+                    ],
+                    [
+                        -76.815399,
+                        39.231907
+                    ],
+                    [
+                        -76.814903,
+                        39.235245
+                    ],
+                    [
+                        -76.813309,
+                        39.235977
+                    ],
+                    [
+                        -76.812576,
+                        39.230732
+                    ],
+                    [
+                        -76.814766,
+                        39.230724
+                    ]
+                ]
+            ]
+        ]
+    }
+}

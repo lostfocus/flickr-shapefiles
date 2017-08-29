@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26810522,
+    "properties": {
+        "woe_id": 26810522,
+        "place_id": "rToJzPibB5StWiHNWA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Saquisili, Ecuador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544915,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/26810522_20101217_6b8afa8bf7.tar.gz"
+        },
+        "bbox": [
+            -78.670860290527,
+            -0.83398699760437,
+            -78.665283203125,
+            -0.82677799463272
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.669662,
+                        -0.827808
+                    ],
+                    [
+                        -78.668976,
+                        -0.833987
+                    ],
+                    [
+                        -78.67086,
+                        -0.828151
+                    ],
+                    [
+                        -78.670349,
+                        -0.827035
+                    ],
+                    [
+                        -78.665283,
+                        -0.826778
+                    ],
+                    [
+                        -78.669662,
+                        -0.827808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

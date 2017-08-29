@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2355229,
+    "properties": {
+        "woe_id": 2355229,
+        "place_id": "dxE1ol2bApk9y6yg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aplington, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528225,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2355229_20101216_b2707f1c1b.tar.gz"
+        },
+        "bbox": [
+            -92.891418457031,
+            42.57901763916,
+            -92.868804931641,
+            42.584686279297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.885025,
+                        42.579018
+                    ],
+                    [
+                        -92.891418,
+                        42.584621
+                    ],
+                    [
+                        -92.885757,
+                        42.584053
+                    ],
+                    [
+                        -92.875755,
+                        42.584686
+                    ],
+                    [
+                        -92.868805,
+                        42.582031
+                    ],
+                    [
+                        -92.880302,
+                        42.582172
+                    ],
+                    [
+                        -92.885025,
+                        42.579018
+                    ]
+                ]
+            ]
+        ]
+    }
+}

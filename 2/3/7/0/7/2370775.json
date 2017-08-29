@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2370775,
+    "properties": {
+        "woe_id": 2370775,
+        "place_id": "v2LPCNybApuGNMEj",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Center Brunswick, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456593,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2370775_20101215_fa0f377d23.tar.gz"
+        },
+        "bbox": [
+            -73.623397827148,
+            42.744552612305,
+            -73.600456237793,
+            42.759769439697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.618958,
+                        42.756348
+                    ],
+                    [
+                        -73.608139,
+                        42.757347
+                    ],
+                    [
+                        -73.600456,
+                        42.759769
+                    ],
+                    [
+                        -73.607666,
+                        42.755772
+                    ],
+                    [
+                        -73.612091,
+                        42.744553
+                    ],
+                    [
+                        -73.623398,
+                        42.753361
+                    ],
+                    [
+                        -73.618958,
+                        42.756348
+                    ]
+                ]
+            ]
+        ]
+    }
+}

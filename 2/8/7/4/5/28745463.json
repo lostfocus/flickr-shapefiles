@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745463,
+    "properties": {
+        "woe_id": 28745463,
+        "place_id": "Pnhoj6KbCZtKJNDlMw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Adams, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472905,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28745463_20101216_a1e2aa4496.tar.gz"
+        },
+        "bbox": [
+            -77.180854797363,
+            40.804576873779,
+            -77.175796508789,
+            40.806297302246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.180428,
+                        40.804577
+                    ],
+                    [
+                        -77.180855,
+                        40.804642
+                    ],
+                    [
+                        -77.180328,
+                        40.806118
+                    ],
+                    [
+                        -77.175797,
+                        40.806297
+                    ],
+                    [
+                        -77.178421,
+                        40.805462
+                    ],
+                    [
+                        -77.180428,
+                        40.804577
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20160541,
+    "properties": {
+        "woe_id": 20160541,
+        "place_id": "1qutVrqbAZ2dQzWVng",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Heidelberg Kurpfalzhof, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539307,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/20160541_20101216_68a0702fda.tar.gz"
+        },
+        "bbox": [
+            8.6269493103027,
+            49.37190246582,
+            8.6270351409912,
+            49.371955871582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.626971,
+                        49.371906
+                    ],
+                    [
+                        8.626949,
+                        49.371948
+                    ],
+                    [
+                        8.626992,
+                        49.371956
+                    ],
+                    [
+                        8.627014,
+                        49.371929
+                    ],
+                    [
+                        8.627035,
+                        49.371902
+                    ],
+                    [
+                        8.626971,
+                        49.371906
+                    ]
+                ]
+            ]
+        ]
+    }
+}

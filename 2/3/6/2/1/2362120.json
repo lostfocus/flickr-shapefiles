@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2362120,
+    "properties": {
+        "woe_id": 2362120,
+        "place_id": "057bNQybApoIIoq8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Belltown, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234484163,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3489\/shapefiles\/2362120_20090213_eff9ae4d05.tar.gz"
+        },
+        "bbox": [
+            -117.38314056396,
+            34.004573822021,
+            -117.36557006836,
+            34.01681137085
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.383141,
+                        34.008961
+                    ],
+                    [
+                        -117.36557,
+                        34.016811
+                    ],
+                    [
+                        -117.381363,
+                        34.004574
+                    ],
+                    [
+                        -117.383026,
+                        34.008308
+                    ],
+                    [
+                        -117.383141,
+                        34.008961
+                    ]
+                ]
+            ]
+        ]
+    }
+}

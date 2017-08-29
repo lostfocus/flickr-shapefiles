@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20203044,
+    "properties": {
+        "woe_id": 20203044,
+        "place_id": "odhsrsWbAZ7MvckT8Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Borrys, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452300,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/20203044_20101215_f9d08b03de.tar.gz"
+        },
+        "bbox": [
+            5.2223019599915,
+            43.75638961792,
+            5.2375159263611,
+            43.759876251221
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.230891,
+                        43.75639
+                    ],
+                    [
+                        5.229836,
+                        43.756401
+                    ],
+                    [
+                        5.222302,
+                        43.756638
+                    ],
+                    [
+                        5.228786,
+                        43.756828
+                    ],
+                    [
+                        5.237516,
+                        43.759876
+                    ],
+                    [
+                        5.230891,
+                        43.75639
+                    ]
+                ]
+            ]
+        ]
+    }
+}

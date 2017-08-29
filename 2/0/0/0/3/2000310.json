@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2000310,
+    "properties": {
+        "woe_id": 2000310,
+        "place_id": "_guE8jmbAZx6cIyH",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dashkovka, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544732,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2000310_20101217_4de56eaa30.tar.gz"
+        },
+        "bbox": [
+            37.369331359863,
+            54.90336227417,
+            37.387847900391,
+            54.913166046143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.369331,
+                        54.911667
+                    ],
+                    [
+                        37.369999,
+                        54.913166
+                    ],
+                    [
+                        37.387848,
+                        54.903362
+                    ],
+                    [
+                        37.369835,
+                        54.911499
+                    ],
+                    [
+                        37.369331,
+                        54.911667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

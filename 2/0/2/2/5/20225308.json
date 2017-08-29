@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20225308,
+    "properties": {
+        "woe_id": 20225308,
+        "place_id": "nTmPQTebAZ4I0fe5aw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Playa del Rey, Valencia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529482,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20225308_20101216_0b33e7cb4e.tar.gz"
+        },
+        "bbox": [
+            -0.26264700293541,
+            39.241832733154,
+            -0.2548919916153,
+            39.249004364014
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.256,
+                        39.241833
+                    ],
+                    [
+                        -0.262647,
+                        39.245373
+                    ],
+                    [
+                        -0.259723,
+                        39.247875
+                    ],
+                    [
+                        -0.258307,
+                        39.249004
+                    ],
+                    [
+                        -0.254892,
+                        39.24258
+                    ],
+                    [
+                        -0.256,
+                        39.241833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

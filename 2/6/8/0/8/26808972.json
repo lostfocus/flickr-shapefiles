@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26808972,
+    "properties": {
+        "woe_id": 26808972,
+        "place_id": "ekRftuybB5RRfc5Bhg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Desamparados, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534228,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/26808972_20101216_2ce11237c7.tar.gz"
+        },
+        "bbox": [
+            -84.206001281738,
+            10.051833152771,
+            -84.203666687012,
+            10.053000450134
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.205666,
+                        10.052666
+                    ],
+                    [
+                        -84.205338,
+                        10.052833
+                    ],
+                    [
+                        -84.203667,
+                        10.053
+                    ],
+                    [
+                        -84.204002,
+                        10.052833
+                    ],
+                    [
+                        -84.206001,
+                        10.051833
+                    ],
+                    [
+                        -84.205666,
+                        10.052666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

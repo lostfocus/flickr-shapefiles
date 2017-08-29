@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2498004,
+    "properties": {
+        "woe_id": 2498004,
+        "place_id": "iLzflDybBZUNF35m",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Spring Lake, Tennessee, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545365,
+        "alpha": 0.0006103515625,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2498004_20101217_0ce1528fb1.tar.gz"
+        },
+        "bbox": [
+            -89.894706726074,
+            35.214561462402,
+            -89.850761413574,
+            35.252754211426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.857468,
+                        35.252754
+                    ],
+                    [
+                        -89.850761,
+                        35.239868
+                    ],
+                    [
+                        -89.874344,
+                        35.223743
+                    ],
+                    [
+                        -89.894211,
+                        35.214561
+                    ],
+                    [
+                        -89.894707,
+                        35.224026
+                    ],
+                    [
+                        -89.863907,
+                        35.249584
+                    ],
+                    [
+                        -89.857468,
+                        35.252754
+                    ]
+                ]
+            ]
+        ]
+    }
+}

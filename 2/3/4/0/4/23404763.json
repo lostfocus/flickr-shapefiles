@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23404763,
+    "properties": {
+        "woe_id": 23404763,
+        "place_id": "UyKWU5mbApiCk4lyvA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Itaska Beach, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531071,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/23404763_20101216_48869d07ee.tar.gz"
+        },
+        "bbox": [
+            -114.09404754639,
+            53.052097320557,
+            -114.07305908203,
+            53.073246002197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.093018,
+                        53.052097
+                    ],
+                    [
+                        -114.094048,
+                        53.073246
+                    ],
+                    [
+                        -114.086578,
+                        53.06649
+                    ],
+                    [
+                        -114.073059,
+                        53.062389
+                    ],
+                    [
+                        -114.093018,
+                        53.052097
+                    ]
+                ]
+            ]
+        ]
+    }
+}

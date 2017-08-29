@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2385013,
+    "properties": {
+        "woe_id": 2385013,
+        "place_id": "Djh3b2qbApQbYFU7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Coreze, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234901168,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3287\/shapefiles\/2385013_20090217_ff7955d844.tar.gz"
+        },
+        "bbox": [
+            -75.304512023926,
+            39.99161529541,
+            -75.299819946289,
+            39.998065948486
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.304512,
+                        39.994293
+                    ],
+                    [
+                        -75.29982,
+                        39.998066
+                    ],
+                    [
+                        -75.303352,
+                        39.991615
+                    ],
+                    [
+                        -75.304153,
+                        39.992146
+                    ],
+                    [
+                        -75.304512,
+                        39.994293
+                    ]
+                ]
+            ]
+        ]
+    }
+}

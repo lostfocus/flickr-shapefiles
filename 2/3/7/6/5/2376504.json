@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2376504,
+    "properties": {
+        "woe_id": 2376504,
+        "place_id": "_EEipyabApsQ0Bh_",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cayuga, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493309,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2376504_20101216_d4077fda09.tar.gz"
+        },
+        "bbox": [
+            -88.573715209961,
+            40.95223236084,
+            -88.559417724609,
+            40.966548919678
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.562164,
+                        40.96603
+                    ],
+                    [
+                        -88.559418,
+                        40.966549
+                    ],
+                    [
+                        -88.561821,
+                        40.962044
+                    ],
+                    [
+                        -88.573715,
+                        40.952232
+                    ],
+                    [
+                        -88.571091,
+                        40.960457
+                    ],
+                    [
+                        -88.562164,
+                        40.96603
+                    ]
+                ]
+            ]
+        ]
+    }
+}

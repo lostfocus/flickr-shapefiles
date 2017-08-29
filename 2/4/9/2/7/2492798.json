@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2492798,
+    "properties": {
+        "woe_id": 2492798,
+        "place_id": "TqWCWHmbBZWCx1jb",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shiloh, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534705,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2492798_20101216_e979eb37ef.tar.gz"
+        },
+        "bbox": [
+            -77.466575622559,
+            38.507610321045,
+            -77.459106445312,
+            38.536502838135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.459106,
+                        38.526344
+                    ],
+                    [
+                        -77.459442,
+                        38.525555
+                    ],
+                    [
+                        -77.461105,
+                        38.50761
+                    ],
+                    [
+                        -77.464752,
+                        38.522217
+                    ],
+                    [
+                        -77.466576,
+                        38.536503
+                    ],
+                    [
+                        -77.460373,
+                        38.530132
+                    ],
+                    [
+                        -77.459106,
+                        38.526344
+                    ]
+                ]
+            ]
+        ]
+    }
+}

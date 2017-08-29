@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20143462,
+    "properties": {
+        "woe_id": 20143462,
+        "place_id": "BstMPsebAZ3eifELtQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Seggiano, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234611617,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3337\/shapefiles\/20143462_20090214_56b1e0b01b.tar.gz"
+        },
+        "bbox": [
+            9.3184442520142,
+            45.487659454346,
+            9.3277349472046,
+            45.500827789307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.319796,
+                        45.49931
+                    ],
+                    [
+                        9.326319,
+                        45.500828
+                    ],
+                    [
+                        9.327735,
+                        45.496239
+                    ],
+                    [
+                        9.318444,
+                        45.487659
+                    ],
+                    [
+                        9.319796,
+                        45.49931
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2353125,
+    "properties": {
+        "woe_id": 2353125,
+        "place_id": "x7gFbQ6bApkNuW88",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alhambra, Mississippi, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589288,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3355\/shapefiles\/2353125_20090214_d703468851.tar.gz"
+        },
+        "bbox": [
+            -91.051132202148,
+            33.011795043945,
+            -91.049537658691,
+            33.014923095703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.050911,
+                        33.011852
+                    ],
+                    [
+                        -91.051132,
+                        33.011795
+                    ],
+                    [
+                        -91.049538,
+                        33.014923
+                    ],
+                    [
+                        -91.050842,
+                        33.011898
+                    ],
+                    [
+                        -91.050911,
+                        33.011852
+                    ]
+                ]
+            ]
+        ]
+    }
+}

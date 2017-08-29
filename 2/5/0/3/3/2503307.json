@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503307,
+    "properties": {
+        "woe_id": 2503307,
+        "place_id": "M9L2Ah.bBJwUEoFf",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sykesville, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1226485329,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3161\/shapefiles\/2503307_20081112_cc64ee44cf.tar.gz"
+        },
+        "bbox": [
+            -78.825698852539,
+            41.041191101074,
+            -78.806205749512,
+            41.059242248535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.811172,
+                        41.059242
+                    ],
+                    [
+                        -78.806206,
+                        41.041191
+                    ],
+                    [
+                        -78.825699,
+                        41.045052
+                    ],
+                    [
+                        -78.815475,
+                        41.055843
+                    ],
+                    [
+                        -78.811172,
+                        41.059242
+                    ]
+                ]
+            ]
+        ]
+    }
+}

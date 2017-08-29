@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20141247,
+    "properties": {
+        "woe_id": 20141247,
+        "place_id": "GktrPg2bAZ2ISgm9XQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Giorgio, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292386685,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/20141247_20101215_0eb5dce336.tar.gz"
+        },
+        "bbox": [
+            10.866153717041,
+            45.895206451416,
+            10.883158683777,
+            45.900821685791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.866765,
+                        45.897594
+                    ],
+                    [
+                        10.866154,
+                        45.899944
+                    ],
+                    [
+                        10.868911,
+                        45.900822
+                    ],
+                    [
+                        10.869855,
+                        45.900593
+                    ],
+                    [
+                        10.883159,
+                        45.895206
+                    ],
+                    [
+                        10.866765,
+                        45.897594
+                    ]
+                ]
+            ]
+        ]
+    }
+}

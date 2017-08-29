@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20102840,
+    "properties": {
+        "woe_id": 20102840,
+        "place_id": "4TJj.fmbAZ0GtiLpEQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Tailleres, Canton of Neuchatel, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234639327,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3396\/shapefiles\/20102840_20090214_dda12869ce.tar.gz"
+        },
+        "bbox": [
+            6.5787501335144,
+            46.968364715576,
+            6.5843510627747,
+            46.972522735596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.582956,
+                        46.968365
+                    ],
+                    [
+                        6.578836,
+                        46.972141
+                    ],
+                    [
+                        6.57875,
+                        46.972523
+                    ],
+                    [
+                        6.584351,
+                        46.970325
+                    ],
+                    [
+                        6.582956,
+                        46.968365
+                    ]
+                ]
+            ]
+        ]
+    }
+}

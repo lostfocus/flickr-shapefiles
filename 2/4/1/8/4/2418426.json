@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418426,
+    "properties": {
+        "woe_id": 2418426,
+        "place_id": "EsJNjt2bBZ3Lms7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Harvest Acres, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541043,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2418426_20101216_2f58f87056.tar.gz"
+        },
+        "bbox": [
+            -77.732048034668,
+            39.471050262451,
+            -77.713188171387,
+            39.487926483154
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.71389,
+                        39.487926
+                    ],
+                    [
+                        -77.713188,
+                        39.475925
+                    ],
+                    [
+                        -77.719086,
+                        39.474739
+                    ],
+                    [
+                        -77.725868,
+                        39.47105
+                    ],
+                    [
+                        -77.732048,
+                        39.475292
+                    ],
+                    [
+                        -77.71389,
+                        39.487926
+                    ]
+                ]
+            ]
+        ]
+    }
+}

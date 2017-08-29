@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369469,
+    "properties": {
+        "woe_id": 2369469,
+        "place_id": "8woEPaKbApreho9F",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Broad Fields, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444541,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2369469_20101215_7229a3aeb0.tar.gz"
+        },
+        "bbox": [
+            -85.655937194824,
+            38.24942779541,
+            -85.635734558105,
+            38.251937866211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.655075,
+                        38.249607
+                    ],
+                    [
+                        -85.655937,
+                        38.250362
+                    ],
+                    [
+                        -85.651718,
+                        38.251938
+                    ],
+                    [
+                        -85.635735,
+                        38.250992
+                    ],
+                    [
+                        -85.650459,
+                        38.249428
+                    ],
+                    [
+                        -85.655075,
+                        38.249607
+                    ]
+                ]
+            ]
+        ]
+    }
+}

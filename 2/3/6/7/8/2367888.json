@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2367888,
+    "properties": {
+        "woe_id": 2367888,
+        "place_id": "6kdxdfqbAppg1fxV",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bradley, South Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589769,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/2367888_20090214_60296e9067.tar.gz"
+        },
+        "bbox": [
+            -82.247428894043,
+            34.047832489014,
+            -82.242195129395,
+            34.051876068115
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.24427,
+                        34.047832
+                    ],
+                    [
+                        -82.246223,
+                        34.048107
+                    ],
+                    [
+                        -82.247429,
+                        34.048889
+                    ],
+                    [
+                        -82.242195,
+                        34.051876
+                    ],
+                    [
+                        -82.24427,
+                        34.047832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

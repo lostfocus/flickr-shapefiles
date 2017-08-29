@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20160227,
+    "properties": {
+        "woe_id": 20160227,
+        "place_id": "91Cq0lSbAZ0Ca_TfEA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aspach, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454966,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/20160227_20101215_18dfb44087.tar.gz"
+        },
+        "bbox": [
+            9.3835248947144,
+            48.949676513672,
+            9.4050531387329,
+            48.983539581299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.388418,
+                        48.949677
+                    ],
+                    [
+                        9.385779,
+                        48.96468
+                    ],
+                    [
+                        9.383525,
+                        48.967823
+                    ],
+                    [
+                        9.392108,
+                        48.98354
+                    ],
+                    [
+                        9.394575,
+                        48.961742
+                    ],
+                    [
+                        9.405053,
+                        48.950275
+                    ],
+                    [
+                        9.388418,
+                        48.949677
+                    ]
+                ]
+            ]
+        ]
+    }
+}

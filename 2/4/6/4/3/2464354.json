@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2464354,
+    "properties": {
+        "woe_id": 2464354,
+        "place_id": "hXmMJBibBZoafYfw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ogdensburg, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528345,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2464354_20101216_ee35f01d00.tar.gz"
+        },
+        "bbox": [
+            -89.085731506348,
+            44.430088043213,
+            -89.077537536621,
+            44.447383880615
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.077965,
+                        44.430088
+                    ],
+                    [
+                        -89.08017,
+                        44.43119
+                    ],
+                    [
+                        -89.085732,
+                        44.447384
+                    ],
+                    [
+                        -89.077538,
+                        44.433842
+                    ],
+                    [
+                        -89.077599,
+                        44.433289
+                    ],
+                    [
+                        -89.077965,
+                        44.430088
+                    ]
+                ]
+            ]
+        ]
+    }
+}

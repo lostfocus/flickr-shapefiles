@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29400834,
+    "properties": {
+        "woe_id": 29400834,
+        "place_id": "gCrl9G.bCJi0ToGR1w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Detva, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518088,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/29400834_20101216_e310281839.tar.gz"
+        },
+        "bbox": [
+            19.406833648682,
+            48.548446655273,
+            19.412412643433,
+            48.551898956299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.412155,
+                        48.549652
+                    ],
+                    [
+                        19.41151,
+                        48.548447
+                    ],
+                    [
+                        19.406834,
+                        48.550762
+                    ],
+                    [
+                        19.412413,
+                        48.551899
+                    ],
+                    [
+                        19.412155,
+                        48.549652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

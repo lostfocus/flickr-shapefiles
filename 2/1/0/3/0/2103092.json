@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2103092,
+    "properties": {
+        "woe_id": 2103092,
+        "place_id": "0gtZq8WbAJx5MqDT",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vasil'kasj, Chuvashiya, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456402,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2103092_20101215_ddd743d2c2.tar.gz"
+        },
+        "bbox": [
+            47.123241424561,
+            56.097942352295,
+            47.125419616699,
+            56.112606048584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        47.123241,
+                        56.110226
+                    ],
+                    [
+                        47.123444,
+                        56.110859
+                    ],
+                    [
+                        47.12542,
+                        56.112606
+                    ],
+                    [
+                        47.125103,
+                        56.099049
+                    ],
+                    [
+                        47.123875,
+                        56.097942
+                    ],
+                    [
+                        47.123245,
+                        56.110126
+                    ],
+                    [
+                        47.123241,
+                        56.110226
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2520412,
+    "properties": {
+        "woe_id": 2520412,
+        "place_id": "kGXzJDybBJ7a9h6y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wildwood, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542299,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2520412_20101216_a3459ee73f.tar.gz"
+        },
+        "bbox": [
+            -123.03919219971,
+            40.380748748779,
+            -123.02356719971,
+            40.386825561523
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.023567,
+                        40.383476
+                    ],
+                    [
+                        -123.023682,
+                        40.383133
+                    ],
+                    [
+                        -123.024902,
+                        40.381844
+                    ],
+                    [
+                        -123.039192,
+                        40.380749
+                    ],
+                    [
+                        -123.024216,
+                        40.386826
+                    ],
+                    [
+                        -123.023567,
+                        40.383476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

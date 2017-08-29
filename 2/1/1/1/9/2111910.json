@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2111910,
+    "properties": {
+        "woe_id": 2111910,
+        "place_id": "11hg6VCbAJ1TYPOu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Yazvishche, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454064,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2111910_20101215_26fa8ac9c1.tar.gz"
+        },
+        "bbox": [
+            36.209049224854,
+            55.981624603271,
+            36.218254089355,
+            55.991397857666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        36.218254,
+                        55.991398
+                    ],
+                    [
+                        36.216431,
+                        55.987267
+                    ],
+                    [
+                        36.215057,
+                        55.981625
+                    ],
+                    [
+                        36.209049,
+                        55.984219
+                    ],
+                    [
+                        36.215057,
+                        55.987865
+                    ],
+                    [
+                        36.218254,
+                        55.991398
+                    ]
+                ]
+            ]
+        ]
+    }
+}

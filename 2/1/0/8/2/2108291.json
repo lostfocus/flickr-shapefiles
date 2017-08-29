@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2108291,
+    "properties": {
+        "woe_id": 2108291,
+        "place_id": "WcOdx1mbAJx1ofXv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Voronki, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292416324,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2108291_20101215_8f331a782c.tar.gz"
+        },
+        "bbox": [
+            37.275440216064,
+            55.782432556152,
+            37.28364944458,
+            55.798164367676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.27544,
+                        55.782433
+                    ],
+                    [
+                        37.275997,
+                        55.798164
+                    ],
+                    [
+                        37.283649,
+                        55.795731
+                    ],
+                    [
+                        37.276295,
+                        55.782673
+                    ],
+                    [
+                        37.275913,
+                        55.782494
+                    ],
+                    [
+                        37.27544,
+                        55.782433
+                    ]
+                ]
+            ]
+        ]
+    }
+}

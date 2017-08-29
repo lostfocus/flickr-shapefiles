@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20170206,
+    "properties": {
+        "woe_id": 20170206,
+        "place_id": "1.x81NibAZ0npkveGQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Unterworbscheid, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523556,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/20170206_20101216_92bd52619f.tar.gz"
+        },
+        "bbox": [
+            7.8334231376648,
+            51.092292785645,
+            7.8375430107117,
+            51.096729278564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.837543,
+                        51.094143
+                    ],
+                    [
+                        7.837191,
+                        51.093006
+                    ],
+                    [
+                        7.834955,
+                        51.092293
+                    ],
+                    [
+                        7.833423,
+                        51.096729
+                    ],
+                    [
+                        7.837333,
+                        51.095501
+                    ],
+                    [
+                        7.837543,
+                        51.094143
+                    ]
+                ]
+            ]
+        ]
+    }
+}

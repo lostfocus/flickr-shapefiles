@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2376130,
+    "properties": {
+        "woe_id": 2376130,
+        "place_id": "Hn.9fNObApuVPJYI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castle Rock, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531585,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2376130_20101216_aa2a7bdb2c.tar.gz"
+        },
+        "bbox": [
+            -93.154273986816,
+            44.526954650879,
+            -93.148956298828,
+            44.550937652588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.148956,
+                        44.543995
+                    ],
+                    [
+                        -93.154274,
+                        44.526955
+                    ],
+                    [
+                        -93.152397,
+                        44.5439
+                    ],
+                    [
+                        -93.151016,
+                        44.548367
+                    ],
+                    [
+                        -93.150375,
+                        44.550938
+                    ],
+                    [
+                        -93.148956,
+                        44.543995
+                    ]
+                ]
+            ]
+        ]
+    }
+}

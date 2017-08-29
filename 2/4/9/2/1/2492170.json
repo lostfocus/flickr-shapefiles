@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2492170,
+    "properties": {
+        "woe_id": 2492170,
+        "place_id": "K2navIibBZUjJSRn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sheldon Junction, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234523887,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3500\/shapefiles\/2492170_20090213_d550424d3f.tar.gz"
+        },
+        "bbox": [
+            -72.951431274414,
+            44.896423339844,
+            -72.946662902832,
+            44.901557922363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.946877,
+                        44.901558
+                    ],
+                    [
+                        -72.946663,
+                        44.901302
+                    ],
+                    [
+                        -72.948486,
+                        44.896423
+                    ],
+                    [
+                        -72.951431,
+                        44.900356
+                    ],
+                    [
+                        -72.946877,
+                        44.901558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

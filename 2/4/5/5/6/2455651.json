@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2455651,
+    "properties": {
+        "woe_id": 2455651,
+        "place_id": "eOUWfPabBZmSSed.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mount Zion, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234549682,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3385\/shapefiles\/2455651_20090213_9e3c0f4568.tar.gz"
+        },
+        "bbox": [
+            -84.683280944824,
+            38.758693695068,
+            -84.683197021484,
+            38.758735656738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.683197,
+                        38.758701
+                    ],
+                    [
+                        -84.683197,
+                        38.758694
+                    ],
+                    [
+                        -84.683258,
+                        38.758694
+                    ],
+                    [
+                        -84.683281,
+                        38.758736
+                    ],
+                    [
+                        -84.683197,
+                        38.758701
+                    ]
+                ]
+            ]
+        ]
+    }
+}

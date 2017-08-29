@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499586,
+    "properties": {
+        "woe_id": 2499586,
+        "place_id": "UM0aNT2bBZVX17Hf",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stephens, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247817243,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2513\/shapefiles\/2499586_20090717_99eb0b1c8e.tar.gz"
+        },
+        "bbox": [
+            -83.166328430176,
+            33.788276672363,
+            -83.160484313965,
+            33.808071136475
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.160484,
+                        33.794361
+                    ],
+                    [
+                        -83.163239,
+                        33.788277
+                    ],
+                    [
+                        -83.163185,
+                        33.796059
+                    ],
+                    [
+                        -83.166328,
+                        33.802296
+                    ],
+                    [
+                        -83.164528,
+                        33.808071
+                    ],
+                    [
+                        -83.160484,
+                        33.794361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

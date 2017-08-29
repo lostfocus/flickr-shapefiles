@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20151382,
+    "properties": {
+        "woe_id": 20151382,
+        "place_id": "7wxnsd2bAZ3b8IHtWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mellby, Skane, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239523694,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3351\/shapefiles\/20151382_20090412_9d68452da9.tar.gz"
+        },
+        "bbox": [
+            13.734970092773,
+            56.069087982178,
+            13.749561309814,
+            56.075099945068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.735442,
+                        56.069641
+                    ],
+                    [
+                        13.73497,
+                        56.0751
+                    ],
+                    [
+                        13.749561,
+                        56.073509
+                    ],
+                    [
+                        13.740334,
+                        56.070072
+                    ],
+                    [
+                        13.738317,
+                        56.069088
+                    ],
+                    [
+                        13.735442,
+                        56.069641
+                    ]
+                ]
+            ]
+        ]
+    }
+}

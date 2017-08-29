@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20104006,
+    "properties": {
+        "woe_id": 20104006,
+        "place_id": "MiVHzcCbAZ0iYaGB4w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Anton, Canton of Appenzell Inner-Rhodes, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526712,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/20104006_20101216_350db37fbd.tar.gz"
+        },
+        "bbox": [
+            9.5278930664062,
+            47.408107757568,
+            9.5354461669922,
+            47.410171508789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.535424,
+                        47.410172
+                    ],
+                    [
+                        9.535446,
+                        47.409897
+                    ],
+                    [
+                        9.534997,
+                        47.409878
+                    ],
+                    [
+                        9.527893,
+                        47.408108
+                    ],
+                    [
+                        9.534259,
+                        47.40992
+                    ],
+                    [
+                        9.534642,
+                        47.410042
+                    ],
+                    [
+                        9.535424,
+                        47.410172
+                    ]
+                ]
+            ]
+        ]
+    }
+}

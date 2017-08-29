@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20120363,
+    "properties": {
+        "woe_id": 20120363,
+        "place_id": "o.8A8JCbAZ2YEckGlg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chignolo d'Isola, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445512,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/20120363_20101215_01ec4335e6.tar.gz"
+        },
+        "bbox": [
+            9.520393371582,
+            45.659698486328,
+            9.5323333740234,
+            45.671497344971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.527292,
+                        45.666725
+                    ],
+                    [
+                        9.527163,
+                        45.666561
+                    ],
+                    [
+                        9.520393,
+                        45.659698
+                    ],
+                    [
+                        9.526,
+                        45.668999
+                    ],
+                    [
+                        9.532333,
+                        45.671497
+                    ],
+                    [
+                        9.527292,
+                        45.666725
+                    ]
+                ]
+            ]
+        ]
+    }
+}

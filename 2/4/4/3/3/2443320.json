@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2443320,
+    "properties": {
+        "woe_id": 2443320,
+        "place_id": "ABy.TwSbBZi1emAW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lynbrook, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548666,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2443320_20101217_8784213968.tar.gz"
+        },
+        "bbox": [
+            -77.188568115234,
+            38.787273406982,
+            -77.178268432617,
+            38.795837402344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.182388,
+                        38.787273
+                    ],
+                    [
+                        -77.188568,
+                        38.791019
+                    ],
+                    [
+                        -77.182556,
+                        38.795406
+                    ],
+                    [
+                        -77.178268,
+                        38.795837
+                    ],
+                    [
+                        -77.182388,
+                        38.787273
+                    ]
+                ]
+            ]
+        ]
+    }
+}

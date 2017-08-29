@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745533,
+    "properties": {
+        "woe_id": 28745533,
+        "place_id": "NafV.ZWbCZv5Vh.w_w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Black Creek, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457779,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28745533_20101216_2ee48c6b12.tar.gz"
+        },
+        "bbox": [
+            -76.138832092285,
+            40.991832733154,
+            -76.136337280273,
+            40.992832183838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.137001,
+                        40.992332
+                    ],
+                    [
+                        -76.138832,
+                        40.991833
+                    ],
+                    [
+                        -76.136665,
+                        40.992832
+                    ],
+                    [
+                        -76.136337,
+                        40.992832
+                    ],
+                    [
+                        -76.136497,
+                        40.992664
+                    ],
+                    [
+                        -76.137001,
+                        40.992332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

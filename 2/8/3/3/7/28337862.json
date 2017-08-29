@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28337862,
+    "properties": {
+        "woe_id": 28337862,
+        "place_id": "HMqXQxCbCZ84haYvUQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Adelaide, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239460682,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/28337862_20090411_10948e5ca6.tar.gz"
+        },
+        "bbox": [
+            -120.70901489258,
+            35.587188720703,
+            -120.6782913208,
+            35.599174499512
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.695541,
+                        35.593853
+                    ],
+                    [
+                        -120.691994,
+                        35.599174
+                    ],
+                    [
+                        -120.678291,
+                        35.596252
+                    ],
+                    [
+                        -120.696892,
+                        35.587189
+                    ],
+                    [
+                        -120.709015,
+                        35.589497
+                    ],
+                    [
+                        -120.695541,
+                        35.593853
+                    ]
+                ]
+            ]
+        ]
+    }
+}

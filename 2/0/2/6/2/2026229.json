@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2026229,
+    "properties": {
+        "woe_id": 2026229,
+        "place_id": "8u4MiJSbAZ7CA5Zn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Korovino, Moskovskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517426,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2026229_20101216_d201516ba7.tar.gz"
+        },
+        "bbox": [
+            37.413833618164,
+            55.12899017334,
+            37.4375,
+            55.150165557861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        37.413834,
+                        55.149834
+                    ],
+                    [
+                        37.413834,
+                        55.150002
+                    ],
+                    [
+                        37.414165,
+                        55.150166
+                    ],
+                    [
+                        37.42939,
+                        55.137234
+                    ],
+                    [
+                        37.4375,
+                        55.137627
+                    ],
+                    [
+                        37.422352,
+                        55.12899
+                    ],
+                    [
+                        37.413834,
+                        55.149834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

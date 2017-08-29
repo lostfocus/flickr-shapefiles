@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20090791,
+    "properties": {
+        "woe_id": 20090791,
+        "place_id": "NbhB8iSbAZyJoaTmRw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clachbreck, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520136,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/20090791_20101216_1648694c62.tar.gz"
+        },
+        "bbox": [
+            -5.5917830467224,
+            55.911380767822,
+            -5.5767202377319,
+            55.925548553467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.591182,
+                        55.915497
+                    ],
+                    [
+                        -5.591783,
+                        55.919006
+                    ],
+                    [
+                        -5.5805,
+                        55.924667
+                    ],
+                    [
+                        -5.57672,
+                        55.925549
+                    ],
+                    [
+                        -5.58114,
+                        55.911381
+                    ],
+                    [
+                        -5.591182,
+                        55.915497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

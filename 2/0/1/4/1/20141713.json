@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20141713,
+    "properties": {
+        "woe_id": 20141713,
+        "place_id": "Q49dUmibAZ3KvXi4mA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Nicol\u00f2, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248049821,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2568\/shapefiles\/20141713_20090720_68db4f0f80.tar.gz"
+        },
+        "bbox": [
+            9.6101207733154,
+            45.05318069458,
+            9.6173706054688,
+            45.05689239502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.610121,
+                        45.054245
+                    ],
+                    [
+                        9.610655,
+                        45.056892
+                    ],
+                    [
+                        9.617371,
+                        45.053181
+                    ],
+                    [
+                        9.615011,
+                        45.053604
+                    ],
+                    [
+                        9.611116,
+                        45.054035
+                    ],
+                    [
+                        9.610121,
+                        45.054245
+                    ]
+                ]
+            ]
+        ]
+    }
+}

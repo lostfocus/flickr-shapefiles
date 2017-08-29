@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2428800,
+    "properties": {
+        "woe_id": 2428800,
+        "place_id": "cRDCQXmbBZ49Cpsn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jeddo, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524266,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2428800_20101216_0facd838d2.tar.gz"
+        },
+        "bbox": [
+            -97.330467224121,
+            29.807332992554,
+            -97.30899810791,
+            29.813093185425
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.316292,
+                        29.813093
+                    ],
+                    [
+                        -97.308998,
+                        29.807333
+                    ],
+                    [
+                        -97.311699,
+                        29.807693
+                    ],
+                    [
+                        -97.315437,
+                        29.809147
+                    ],
+                    [
+                        -97.330467,
+                        29.807358
+                    ],
+                    [
+                        -97.328125,
+                        29.809462
+                    ],
+                    [
+                        -97.316292,
+                        29.813093
+                    ]
+                ]
+            ]
+        ]
+    }
+}

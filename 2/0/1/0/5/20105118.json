@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20105118,
+    "properties": {
+        "woe_id": 20105118,
+        "place_id": "XgufJ1qbAZ1izrt6bQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Friedboesch, Diekirch, Luxembourg"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234496882,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3497\/shapefiles\/20105118_20090213_6486a667fd.tar.gz"
+        },
+        "bbox": [
+            6.0541958808899,
+            49.951854705811,
+            6.0586590766907,
+            49.952491760254
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.055912,
+                        49.951855
+                    ],
+                    [
+                        6.054196,
+                        49.952034
+                    ],
+                    [
+                        6.058659,
+                        49.952492
+                    ],
+                    [
+                        6.057715,
+                        49.952076
+                    ],
+                    [
+                        6.055912,
+                        49.951855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

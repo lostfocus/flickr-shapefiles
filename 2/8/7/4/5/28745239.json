@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745239,
+    "properties": {
+        "woe_id": 28745239,
+        "place_id": "UDFp9RWbCZtgAIIKcA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jackson, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536246,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28745239_20101216_af2d4463f4.tar.gz"
+        },
+        "bbox": [
+            -76.325538635254,
+            40.381641387939,
+            -76.307167053223,
+            40.390251159668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.318588,
+                        40.390251
+                    ],
+                    [
+                        -76.307167,
+                        40.381641
+                    ],
+                    [
+                        -76.318306,
+                        40.387768
+                    ],
+                    [
+                        -76.325539,
+                        40.389622
+                    ],
+                    [
+                        -76.318588,
+                        40.390251
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2488251,
+    "properties": {
+        "woe_id": 2488251,
+        "place_id": "gqHm7XybBZSg24zd",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sanborn, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500922,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2488251_20101216_4b9708deba.tar.gz"
+        },
+        "bbox": [
+            -118.11354827881,
+            35.02560043335,
+            -118.09549713135,
+            35.038780212402
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.113548,
+                        35.0256
+                    ],
+                    [
+                        -118.110085,
+                        35.03878
+                    ],
+                    [
+                        -118.100609,
+                        35.033928
+                    ],
+                    [
+                        -118.100098,
+                        35.033649
+                    ],
+                    [
+                        -118.095497,
+                        35.030914
+                    ],
+                    [
+                        -118.113548,
+                        35.0256
+                    ]
+                ]
+            ]
+        ]
+    }
+}

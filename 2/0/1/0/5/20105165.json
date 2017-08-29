@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20105165,
+    "properties": {
+        "woe_id": 20105165,
+        "place_id": "I3Ci2SGbAZ28pPyNUA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Nossa Senhora de F\u00e1tima, Lisbon, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551156,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/20105165_20101217_018c71dc38.tar.gz"
+        },
+        "bbox": [
+            -9.1625967025757,
+            38.734802246094,
+            -9.1488637924194,
+            38.743106842041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.150924,
+                        38.73748
+                    ],
+                    [
+                        -9.162597,
+                        38.734802
+                    ],
+                    [
+                        -9.149894,
+                        38.743107
+                    ],
+                    [
+                        -9.149208,
+                        38.739357
+                    ],
+                    [
+                        -9.148864,
+                        38.738018
+                    ],
+                    [
+                        -9.150924,
+                        38.73748
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745305,
+    "properties": {
+        "woe_id": 28745305,
+        "place_id": "p5C8SWSbCZtSLI4._g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Salem, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503508,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/28745305_20101216_ebaf793627.tar.gz"
+        },
+        "bbox": [
+            -76.233726501465,
+            41.053001403809,
+            -76.225601196289,
+            41.057220458984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.23333,
+                        41.054581
+                    ],
+                    [
+                        -76.233727,
+                        41.054646
+                    ],
+                    [
+                        -76.231392,
+                        41.05722
+                    ],
+                    [
+                        -76.225601,
+                        41.053001
+                    ],
+                    [
+                        -76.23333,
+                        41.054581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

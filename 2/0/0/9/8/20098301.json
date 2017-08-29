@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20098301,
+    "properties": {
+        "woe_id": 20098301,
+        "place_id": "7Bfwc1ubAZzm98amxQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Laakdal, Antwerp, Belgium"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488202,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/20098301_20101216_f7a4fabca2.tar.gz"
+        },
+        "bbox": [
+            5.0897588729858,
+            51.100448608398,
+            5.1046671867371,
+            51.104999542236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.104167,
+                        51.103001
+                    ],
+                    [
+                        5.104,
+                        51.102501
+                    ],
+                    [
+                        5.103833,
+                        51.102001
+                    ],
+                    [
+                        5.089759,
+                        51.100449
+                    ],
+                    [
+                        5.104667,
+                        51.105
+                    ],
+                    [
+                        5.104167,
+                        51.103001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

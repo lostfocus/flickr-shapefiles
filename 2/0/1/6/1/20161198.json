@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20161198,
+    "properties": {
+        "woe_id": 20161198,
+        "place_id": "F.SXDgKbAZ1zhVb48w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paulsdorf, Brandenburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531557,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/20161198_20101216_009405402e.tar.gz"
+        },
+        "bbox": [
+            13.692392349243,
+            52.580116271973,
+            13.698147773743,
+            52.58198928833
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.693068,
+                        52.581852
+                    ],
+                    [
+                        13.69442,
+                        52.581989
+                    ],
+                    [
+                        13.694999,
+                        52.581692
+                    ],
+                    [
+                        13.698148,
+                        52.580116
+                    ],
+                    [
+                        13.69737,
+                        52.58028
+                    ],
+                    [
+                        13.694388,
+                        52.580894
+                    ],
+                    [
+                        13.692392,
+                        52.581059
+                    ],
+                    [
+                        13.693068,
+                        52.581852
+                    ]
+                ]
+            ]
+        ]
+    }
+}

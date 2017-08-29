@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23393601,
+    "properties": {
+        "woe_id": 23393601,
+        "place_id": "XSVUEWabAp8k8IwqHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "French Lake, New Brunswick, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463008,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/23393601_20101216_5c28e3e1b2.tar.gz"
+        },
+        "bbox": [
+            -66.551078796387,
+            45.761848449707,
+            -66.54150390625,
+            45.76802444458
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.551079,
+                        45.766056
+                    ],
+                    [
+                        -66.551056,
+                        45.766296
+                    ],
+                    [
+                        -66.541832,
+                        45.768024
+                    ],
+                    [
+                        -66.541504,
+                        45.767914
+                    ],
+                    [
+                        -66.548393,
+                        45.761848
+                    ],
+                    [
+                        -66.549149,
+                        45.763062
+                    ],
+                    [
+                        -66.551079,
+                        45.766056
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20076138,
+    "properties": {
+        "woe_id": 20076138,
+        "place_id": "x9bWYkibAZy08hCFvQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mantello, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234555086,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3531\/shapefiles\/20076138_20090213_d6aca01636.tar.gz"
+        },
+        "bbox": [
+            9.4870367050171,
+            46.149871826172,
+            9.4917154312134,
+            46.156589508057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.489269,
+                        46.149872
+                    ],
+                    [
+                        9.487037,
+                        46.153259
+                    ],
+                    [
+                        9.491715,
+                        46.15659
+                    ],
+                    [
+                        9.4912,
+                        46.152901
+                    ],
+                    [
+                        9.489269,
+                        46.149872
+                    ]
+                ]
+            ]
+        ]
+    }
+}

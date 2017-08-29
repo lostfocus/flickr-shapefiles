@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2360402,
+    "properties": {
+        "woe_id": 2360402,
+        "place_id": "hDRS6PybAppKqWDM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bayshore, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534616,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2360402_20101216_cbd0076075.tar.gz"
+        },
+        "bbox": [
+            -123.04951477051,
+            47.243579864502,
+            -123.03131866455,
+            47.256214141846
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.042496,
+                        47.256214
+                    ],
+                    [
+                        -123.031319,
+                        47.255421
+                    ],
+                    [
+                        -123.034775,
+                        47.253544
+                    ],
+                    [
+                        -123.049515,
+                        47.24358
+                    ],
+                    [
+                        -123.042496,
+                        47.256214
+                    ]
+                ]
+            ]
+        ]
+    }
+}

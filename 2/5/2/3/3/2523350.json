@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2523350,
+    "properties": {
+        "woe_id": 2523350,
+        "place_id": "kGyuZCibBJ43zTLw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Woodlawn, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478607,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2523350_20101216_f38ef02984.tar.gz"
+        },
+        "bbox": [
+            -89.039985656738,
+            38.32967376709,
+            -89.025566101074,
+            38.336002349854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.036293,
+                        38.336002
+                    ],
+                    [
+                        -89.025566,
+                        38.329704
+                    ],
+                    [
+                        -89.031143,
+                        38.329674
+                    ],
+                    [
+                        -89.039986,
+                        38.329704
+                    ],
+                    [
+                        -89.036293,
+                        38.336002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20220728,
+    "properties": {
+        "woe_id": 20220728,
+        "place_id": "DPmvCnebAZ50JsH1uQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ballariain, Navarre, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234499287,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3417\/shapefiles\/20220728_20090213_6c02f5fb4b.tar.gz"
+        },
+        "bbox": [
+            -1.6992579698563,
+            42.875255584717,
+            -1.6962679624557,
+            42.876808166504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.697762,
+                        42.876621
+                    ],
+                    [
+                        -1.697586,
+                        42.876469
+                    ],
+                    [
+                        -1.696268,
+                        42.875256
+                    ],
+                    [
+                        -1.699258,
+                        42.876808
+                    ],
+                    [
+                        -1.697762,
+                        42.876621
+                    ]
+                ]
+            ]
+        ]
+    }
+}

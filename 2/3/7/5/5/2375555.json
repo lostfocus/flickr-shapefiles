@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2375555,
+    "properties": {
+        "woe_id": 2375555,
+        "place_id": "dKlmQbCbApsRbybQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Carrollwood, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234606086,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3348\/shapefiles\/2375555_20090214_78c4193008.tar.gz"
+        },
+        "bbox": [
+            -90.50129699707,
+            30.07155418396,
+            -90.496337890625,
+            30.077968597412
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.499474,
+                        30.071554
+                    ],
+                    [
+                        -90.500435,
+                        30.075964
+                    ],
+                    [
+                        -90.501297,
+                        30.077969
+                    ],
+                    [
+                        -90.496338,
+                        30.07472
+                    ],
+                    [
+                        -90.499474,
+                        30.071554
+                    ]
+                ]
+            ]
+        ]
+    }
+}

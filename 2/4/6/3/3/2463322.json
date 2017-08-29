@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2463322,
+    "properties": {
+        "woe_id": 2463322,
+        "place_id": "KQCc34abBZpwjfVF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oakbrook Station, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529171,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/2463322_20101216_3c4643b1f2.tar.gz"
+        },
+        "bbox": [
+            -84.199043273926,
+            33.923988342285,
+            -84.192008972168,
+            33.93327331543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.199043,
+                        33.933159
+                    ],
+                    [
+                        -84.198784,
+                        33.933273
+                    ],
+                    [
+                        -84.198723,
+                        33.933041
+                    ],
+                    [
+                        -84.192009,
+                        33.923988
+                    ],
+                    [
+                        -84.196899,
+                        33.925522
+                    ],
+                    [
+                        -84.199043,
+                        33.933159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

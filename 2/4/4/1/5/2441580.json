@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2441580,
+    "properties": {
+        "woe_id": 2441580,
+        "place_id": "hqcsu12bBZhybUzX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Long Lane, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469368,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2441580_20101216_658c8c14e6.tar.gz"
+        },
+        "bbox": [
+            -92.919097900391,
+            37.611740112305,
+            -92.908714294434,
+            37.612869262695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.908714,
+                        37.612869
+                    ],
+                    [
+                        -92.908714,
+                        37.611801
+                    ],
+                    [
+                        -92.908997,
+                        37.61174
+                    ],
+                    [
+                        -92.919098,
+                        37.612564
+                    ],
+                    [
+                        -92.908714,
+                        37.612869
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23418178,
+    "properties": {
+        "woe_id": 23418178,
+        "place_id": "6TGuR0ibApiYcBBStQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rocky Ridge, Utah, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502544,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/23418178_20101216_8c75df96d7.tar.gz"
+        },
+        "bbox": [
+            -111.81083679199,
+            39.932834625244,
+            -111.80456542969,
+            39.949619293213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.808205,
+                        39.949619
+                    ],
+                    [
+                        -111.804565,
+                        39.947754
+                    ],
+                    [
+                        -111.805519,
+                        39.947052
+                    ],
+                    [
+                        -111.810837,
+                        39.932835
+                    ],
+                    [
+                        -111.808205,
+                        39.949619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

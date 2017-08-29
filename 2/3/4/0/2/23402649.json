@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23402649,
+    "properties": {
+        "woe_id": 23402649,
+        "place_id": "0NM7DqebApi62IO44Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Riding Mountain, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449402,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/23402649_20101215_25ab8a8f29.tar.gz"
+        },
+        "bbox": [
+            -99.480514526367,
+            50.502182006836,
+            -99.467300415039,
+            50.531921386719
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.480515,
+                        50.523903
+                    ],
+                    [
+                        -99.4673,
+                        50.531921
+                    ],
+                    [
+                        -99.471756,
+                        50.519428
+                    ],
+                    [
+                        -99.479828,
+                        50.502182
+                    ],
+                    [
+                        -99.480515,
+                        50.523903
+                    ]
+                ]
+            ]
+        ]
+    }
+}

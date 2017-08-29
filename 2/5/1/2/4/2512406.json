@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2512406,
+    "properties": {
+        "woe_id": 2512406,
+        "place_id": "uWcHn7KbBJ0vL1ZM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villard Junction, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460963,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2512406_20101216_d4f8772df9.tar.gz"
+        },
+        "bbox": [
+            -118.98811340332,
+            46.162712097168,
+            -118.96751403809,
+            46.180423736572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.980385,
+                        46.168835
+                    ],
+                    [
+                        -118.988113,
+                        46.176144
+                    ],
+                    [
+                        -118.97644,
+                        46.180424
+                    ],
+                    [
+                        -118.967514,
+                        46.162712
+                    ],
+                    [
+                        -118.978004,
+                        46.167557
+                    ],
+                    [
+                        -118.980385,
+                        46.168835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23395690,
+    "properties": {
+        "woe_id": 23395690,
+        "place_id": "kgwOc.KbAp8EdWWUwQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Ulric-de-Matane, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488681,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/23395690_20101216_e5a00791fd.tar.gz"
+        },
+        "bbox": [
+            -67.589950561523,
+            48.7854347229,
+            -67.580337524414,
+            48.792953491211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -67.588745,
+                        48.789562
+                    ],
+                    [
+                        -67.585144,
+                        48.792953
+                    ],
+                    [
+                        -67.580338,
+                        48.788601
+                    ],
+                    [
+                        -67.584969,
+                        48.785435
+                    ],
+                    [
+                        -67.589951,
+                        48.785889
+                    ],
+                    [
+                        -67.588745,
+                        48.789562
+                    ]
+                ]
+            ]
+        ]
+    }
+}

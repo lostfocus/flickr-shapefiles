@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20202743,
+    "properties": {
+        "woe_id": 20202743,
+        "place_id": "iU4ZcrObAZ7omfV0MA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ar\u00e8ne Cros, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539361,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/20202743_20101216_34fea05dd5.tar.gz"
+        },
+        "bbox": [
+            5.6470370292664,
+            43.187156677246,
+            5.6537580490112,
+            43.189853668213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.649308,
+                        43.189854
+                    ],
+                    [
+                        5.652465,
+                        43.189156
+                    ],
+                    [
+                        5.653758,
+                        43.187225
+                    ],
+                    [
+                        5.651092,
+                        43.187157
+                    ],
+                    [
+                        5.647037,
+                        43.187592
+                    ],
+                    [
+                        5.649308,
+                        43.189854
+                    ]
+                ]
+            ]
+        ]
+    }
+}

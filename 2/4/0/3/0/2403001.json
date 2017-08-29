@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403001,
+    "properties": {
+        "woe_id": 2403001,
+        "place_id": "FSMy5QmbBZw9jxKs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ferguson Place Windmill, Arizona, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292374564,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2403001_20101215_179703343a.tar.gz"
+        },
+        "bbox": [
+            -112.70964050293,
+            34.311962127686,
+            -112.69789886475,
+            34.324653625488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.697899,
+                        34.32362
+                    ],
+                    [
+                        -112.699104,
+                        34.322296
+                    ],
+                    [
+                        -112.709641,
+                        34.311962
+                    ],
+                    [
+                        -112.699127,
+                        34.322456
+                    ],
+                    [
+                        -112.698051,
+                        34.324654
+                    ],
+                    [
+                        -112.697899,
+                        34.32362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

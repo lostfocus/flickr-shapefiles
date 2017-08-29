@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20220403,
+    "properties": {
+        "woe_id": 20220403,
+        "place_id": "27DANDibAZ6.iZYdBA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Adarra, Basque Country, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514007,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/20220403_20101216_aacf78be5a.tar.gz"
+        },
+        "bbox": [
+            -1.9694279432297,
+            43.204441070557,
+            -1.951789021492,
+            43.212024688721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.963763,
+                        43.207085
+                    ],
+                    [
+                        -1.969428,
+                        43.212025
+                    ],
+                    [
+                        -1.962089,
+                        43.208775
+                    ],
+                    [
+                        -1.951789,
+                        43.211308
+                    ],
+                    [
+                        -1.953506,
+                        43.206051
+                    ],
+                    [
+                        -1.961789,
+                        43.204441
+                    ],
+                    [
+                        -1.963462,
+                        43.206581
+                    ],
+                    [
+                        -1.963763,
+                        43.207085
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2366443,
+    "properties": {
+        "woe_id": 2366443,
+        "place_id": "31ioCbKbAppFWAKW",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bolivar, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485623,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2366443_20101216_0f666546a4.tar.gz"
+        },
+        "bbox": [
+            -97.246467590332,
+            33.358234405518,
+            -97.241027832031,
+            33.3786277771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.245285,
+                        33.358234
+                    ],
+                    [
+                        -97.246468,
+                        33.37455
+                    ],
+                    [
+                        -97.241844,
+                        33.378628
+                    ],
+                    [
+                        -97.241028,
+                        33.358299
+                    ],
+                    [
+                        -97.245285,
+                        33.358234
+                    ]
+                ]
+            ]
+        ]
+    }
+}

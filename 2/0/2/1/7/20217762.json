@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20217762,
+    "properties": {
+        "woe_id": 20217762,
+        "place_id": "ljmOZhebAZ4ORfLNBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hameau de Saint-Aubin, Nord-Pas-de-Calais, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517827,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/20217762_20101216_e3881d6613.tar.gz"
+        },
+        "bbox": [
+            2.7085590362549,
+            50.310981750488,
+            2.7168409824371,
+            50.315162658691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.713193,
+                        50.313927
+                    ],
+                    [
+                        2.716841,
+                        50.312565
+                    ],
+                    [
+                        2.708559,
+                        50.310982
+                    ],
+                    [
+                        2.710404,
+                        50.314114
+                    ],
+                    [
+                        2.711048,
+                        50.315163
+                    ],
+                    [
+                        2.713193,
+                        50.313927
+                    ]
+                ]
+            ]
+        ]
+    }
+}

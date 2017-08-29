@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2395501,
+    "properties": {
+        "woe_id": 2395501,
+        "place_id": "DcCbHP6bApVLC0gs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "East Dickson, Tennessee, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234485845,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3521\/shapefiles\/2395501_20090213_cb02ecbb45.tar.gz"
+        },
+        "bbox": [
+            -87.381134033203,
+            36.064365386963,
+            -87.373970031738,
+            36.07328414917
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.378754,
+                        36.069168
+                    ],
+                    [
+                        -87.37397,
+                        36.073284
+                    ],
+                    [
+                        -87.376495,
+                        36.067173
+                    ],
+                    [
+                        -87.381134,
+                        36.064365
+                    ],
+                    [
+                        -87.378754,
+                        36.069168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

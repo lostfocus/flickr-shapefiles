@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2466021,
+    "properties": {
+        "woe_id": 2466021,
+        "place_id": "FHH3duGbBZqCuSaZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orchard Heights Addition, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551208,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/2466021_20101217_2ddbe861d1.tar.gz"
+        },
+        "bbox": [
+            -86.25414276123,
+            41.598484039307,
+            -86.237098693848,
+            41.611408233643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.237099,
+                        41.605591
+                    ],
+                    [
+                        -86.237373,
+                        41.600842
+                    ],
+                    [
+                        -86.240562,
+                        41.598484
+                    ],
+                    [
+                        -86.254143,
+                        41.609177
+                    ],
+                    [
+                        -86.253296,
+                        41.611408
+                    ],
+                    [
+                        -86.237099,
+                        41.605591
+                    ]
+                ]
+            ]
+        ]
+    }
+}

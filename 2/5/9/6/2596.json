@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2596,
+    "properties": {
+        "woe_id": 2596,
+        "place_id": "9fUzBA2bBJUL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Warren, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239316342,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3645\/shapefiles\/2596_20090409_222a700c99.tar.gz"
+        },
+        "bbox": [
+            -97.548248291016,
+            50.130744934082,
+            -97.542991638184,
+            50.134651184082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.548248,
+                        50.134651
+                    ],
+                    [
+                        -97.542992,
+                        50.131699
+                    ],
+                    [
+                        -97.543884,
+                        50.131241
+                    ],
+                    [
+                        -97.546234,
+                        50.130745
+                    ],
+                    [
+                        -97.548248,
+                        50.134651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

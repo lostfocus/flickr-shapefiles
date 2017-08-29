@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2354343,
+    "properties": {
+        "woe_id": 2354343,
+        "place_id": "TKSwbDObAplGS3lP",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Amity, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468525,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2354343_20101216_71c5b7f342.tar.gz"
+        },
+        "bbox": [
+            -80.195861816406,
+            40.019035339355,
+            -80.171867370605,
+            40.021434783936
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.195862,
+                        40.019035
+                    ],
+                    [
+                        -80.195862,
+                        40.021336
+                    ],
+                    [
+                        -80.195557,
+                        40.021008
+                    ],
+                    [
+                        -80.171867,
+                        40.021435
+                    ],
+                    [
+                        -80.195862,
+                        40.019035
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2441744,
+    "properties": {
+        "woe_id": 2441744,
+        "place_id": "L4gw1zubBZiueHZE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Longview, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234765568,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/2441744_20090216_65a89f978c.tar.gz"
+        },
+        "bbox": [
+            -77.303153991699,
+            39.404731750488,
+            -77.293434143066,
+            39.408344268799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.293434,
+                        39.406322
+                    ],
+                    [
+                        -77.295059,
+                        39.404732
+                    ],
+                    [
+                        -77.303154,
+                        39.408012
+                    ],
+                    [
+                        -77.302292,
+                        39.408344
+                    ],
+                    [
+                        -77.293434,
+                        39.406322
+                    ]
+                ]
+            ]
+        ]
+    }
+}

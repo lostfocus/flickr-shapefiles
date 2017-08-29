@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2516258,
+    "properties": {
+        "woe_id": 2516258,
+        "place_id": "W3iskjSbBJ1v0Pi4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wellington Beach, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550123,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2516258_20101217_f66f754305.tar.gz"
+        },
+        "bbox": [
+            -77.186698913574,
+            38.366004943848,
+            -77.171119689941,
+            38.384433746338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.177101,
+                        38.384434
+                    ],
+                    [
+                        -77.17112,
+                        38.374748
+                    ],
+                    [
+                        -77.186699,
+                        38.366005
+                    ],
+                    [
+                        -77.186508,
+                        38.366695
+                    ],
+                    [
+                        -77.177101,
+                        38.384434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

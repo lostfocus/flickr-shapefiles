@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23403618,
+    "properties": {
+        "woe_id": 23403618,
+        "place_id": "3sSe3xCbAphRzkRR6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Plato, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527799,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/23403618_20101216_e2c3de2a48.tar.gz"
+        },
+        "bbox": [
+            -108.44509887695,
+            51.163444519043,
+            -108.4383392334,
+            51.165058135986
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -108.438339,
+                        51.165058
+                    ],
+                    [
+                        -108.441086,
+                        51.163445
+                    ],
+                    [
+                        -108.444344,
+                        51.163662
+                    ],
+                    [
+                        -108.445099,
+                        51.163792
+                    ],
+                    [
+                        -108.441254,
+                        51.164307
+                    ],
+                    [
+                        -108.438339,
+                        51.165058
+                    ]
+                ]
+            ]
+        ]
+    }
+}

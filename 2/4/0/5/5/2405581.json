@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2405581,
+    "properties": {
+        "woe_id": 2405581,
+        "place_id": "CkexwOqbBZwi82q3",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fort Apache Junction, Arizona, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537351,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2405581_20101216_b279826be8.tar.gz"
+        },
+        "bbox": [
+            -109.99649047852,
+            33.789348602295,
+            -109.98653411865,
+            33.802963256836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -109.99025,
+                        33.790604
+                    ],
+                    [
+                        -109.99649,
+                        33.791702
+                    ],
+                    [
+                        -109.994965,
+                        33.802963
+                    ],
+                    [
+                        -109.986946,
+                        33.791599
+                    ],
+                    [
+                        -109.986549,
+                        33.790905
+                    ],
+                    [
+                        -109.986534,
+                        33.789349
+                    ],
+                    [
+                        -109.99025,
+                        33.790604
+                    ]
+                ]
+            ]
+        ]
+    }
+}

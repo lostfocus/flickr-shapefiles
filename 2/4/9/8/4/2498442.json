@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2498442,
+    "properties": {
+        "woe_id": 2498442,
+        "place_id": "DY6c0MebBZXAGYzm",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Springport, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469963,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2498442_20101216_a7874867cd.tar.gz"
+        },
+        "bbox": [
+            -83.315673828125,
+            44.606113433838,
+            -83.29833984375,
+            44.628978729248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.307762,
+                        44.628929
+                    ],
+                    [
+                        -83.307762,
+                        44.628979
+                    ],
+                    [
+                        -83.29834,
+                        44.621754
+                    ],
+                    [
+                        -83.29834,
+                        44.606113
+                    ],
+                    [
+                        -83.315674,
+                        44.610329
+                    ],
+                    [
+                        -83.307762,
+                        44.628929
+                    ]
+                ]
+            ]
+        ]
+    }
+}

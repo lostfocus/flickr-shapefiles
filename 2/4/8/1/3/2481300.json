@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2481300,
+    "properties": {
+        "woe_id": 2481300,
+        "place_id": "kZavP_mbBZQcLSGa",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ridgeway, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234633333,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3508\/shapefiles\/2481300_20090214_b26d6f4a43.tar.gz"
+        },
+        "bbox": [
+            -81.970878601074,
+            26.655168533325,
+            -81.943244934082,
+            26.684543609619
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.943245,
+                        26.672619
+                    ],
+                    [
+                        -81.943916,
+                        26.666971
+                    ],
+                    [
+                        -81.951141,
+                        26.655628
+                    ],
+                    [
+                        -81.970879,
+                        26.655169
+                    ],
+                    [
+                        -81.963844,
+                        26.673845
+                    ],
+                    [
+                        -81.950111,
+                        26.684544
+                    ],
+                    [
+                        -81.943245,
+                        26.672619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

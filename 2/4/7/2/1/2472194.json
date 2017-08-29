@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2472194,
+    "properties": {
+        "woe_id": 2472194,
+        "place_id": "QRt5JDabBZvUkIEt",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pine Hill, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469664,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2472194_20101216_ce9252b5dd.tar.gz"
+        },
+        "bbox": [
+            -77.315551757812,
+            37.636787414551,
+            -77.306327819824,
+            37.651481628418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.312614,
+                        37.636787
+                    ],
+                    [
+                        -77.315552,
+                        37.637615
+                    ],
+                    [
+                        -77.310081,
+                        37.649223
+                    ],
+                    [
+                        -77.310234,
+                        37.651482
+                    ],
+                    [
+                        -77.306328,
+                        37.644573
+                    ],
+                    [
+                        -77.312614,
+                        37.636787
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20106817,
+    "properties": {
+        "woe_id": 20106817,
+        "place_id": "aLCRdFKbAZ3PvzwhOg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fontana, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234875607,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3633\/shapefiles\/20106817_20090217_6d2568d931.tar.gz"
+        },
+        "bbox": [
+            11.672653198242,
+            45.231357574463,
+            11.682499885559,
+            45.238246917725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.677825,
+                        45.238247
+                    ],
+                    [
+                        11.6825,
+                        45.231564
+                    ],
+                    [
+                        11.672653,
+                        45.231358
+                    ],
+                    [
+                        11.672898,
+                        45.231533
+                    ],
+                    [
+                        11.677825,
+                        45.238247
+                    ]
+                ]
+            ]
+        ]
+    }
+}

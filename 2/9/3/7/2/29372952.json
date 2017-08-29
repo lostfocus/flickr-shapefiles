@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29372952,
+    "properties": {
+        "woe_id": 29372952,
+        "place_id": "5u3T6Q6bCJ.YJ.hokg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parkland County, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234536363,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3466\/shapefiles\/29372952_20090213_99d55bd472.tar.gz"
+        },
+        "bbox": [
+            -114.07894134521,
+            53.600044250488,
+            -114.07207489014,
+            53.616104125977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.074394,
+                        53.615829
+                    ],
+                    [
+                        -114.072075,
+                        53.616104
+                    ],
+                    [
+                        -114.074135,
+                        53.600143
+                    ],
+                    [
+                        -114.078941,
+                        53.600044
+                    ],
+                    [
+                        -114.074394,
+                        53.615829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

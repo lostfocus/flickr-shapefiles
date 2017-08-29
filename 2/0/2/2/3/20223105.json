@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20223105,
+    "properties": {
+        "woe_id": 20223105,
+        "place_id": "OTpDDaKbAZ4k50vY3A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fueva, Aragon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247952131,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2480\/shapefiles\/20223105_20090718_66484d0923.tar.gz"
+        },
+        "bbox": [
+            0.25380098819733,
+            42.369831085205,
+            0.27397099137306,
+            42.373508453369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.273971,
+                        42.373508
+                    ],
+                    [
+                        0.272233,
+                        42.369831
+                    ],
+                    [
+                        0.270538,
+                        42.370464
+                    ],
+                    [
+                        0.253801,
+                        42.370182
+                    ],
+                    [
+                        0.268821,
+                        42.372368
+                    ],
+                    [
+                        0.273971,
+                        42.373508
+                    ]
+                ]
+            ]
+        ]
+    }
+}

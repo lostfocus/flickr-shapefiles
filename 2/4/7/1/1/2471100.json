@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2471100,
+    "properties": {
+        "woe_id": 2471100,
+        "place_id": "A.8m3kObBZsKp53I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pewabic, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292422204,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2471100_20101215_3db4c87eb8.tar.gz"
+        },
+        "bbox": [
+            -88.570419311523,
+            47.142444610596,
+            -88.564910888672,
+            47.146968841553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.566551,
+                        47.146969
+                    ],
+                    [
+                        -88.564911,
+                        47.145832
+                    ],
+                    [
+                        -88.566544,
+                        47.143673
+                    ],
+                    [
+                        -88.570419,
+                        47.142445
+                    ],
+                    [
+                        -88.570229,
+                        47.143555
+                    ],
+                    [
+                        -88.566551,
+                        47.146969
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20091116,
+    "properties": {
+        "woe_id": 20091116,
+        "place_id": "RIgh8FCbAZyJ4z1tVw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kinnaird Castle, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527686,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/20091116_20101216_f827e42f4c.tar.gz"
+        },
+        "bbox": [
+            -2.5415670871735,
+            56.725769042969,
+            -2.5371389389038,
+            56.729816436768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.540823,
+                        56.72979
+                    ],
+                    [
+                        -2.539987,
+                        56.729183
+                    ],
+                    [
+                        -2.537139,
+                        56.725769
+                    ],
+                    [
+                        -2.541567,
+                        56.729519
+                    ],
+                    [
+                        -2.540912,
+                        56.729816
+                    ],
+                    [
+                        -2.540823,
+                        56.72979
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2380787,
+    "properties": {
+        "woe_id": 2380787,
+        "place_id": "rFic8LObApSzyWRv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clarks Green, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234934645,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3465\/shapefiles\/2380787_20090218_64995c4926.tar.gz"
+        },
+        "bbox": [
+            -75.701766967773,
+            41.493824005127,
+            -75.685668945312,
+            41.498355865479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.701767,
+                        41.493824
+                    ],
+                    [
+                        -75.701744,
+                        41.494072
+                    ],
+                    [
+                        -75.696144,
+                        41.498356
+                    ],
+                    [
+                        -75.685669,
+                        41.49659
+                    ],
+                    [
+                        -75.701767,
+                        41.493824
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500743,
+    "properties": {
+        "woe_id": 2500743,
+        "place_id": "Ok9ORwObBJxop4iq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stratford, Oklahoma, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494329,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2500743_20101216_b7dd8ed26f.tar.gz"
+        },
+        "bbox": [
+            -96.967651367188,
+            34.793151855469,
+            -96.943496704102,
+            34.799251556396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.967651,
+                        34.795639
+                    ],
+                    [
+                        -96.967651,
+                        34.797363
+                    ],
+                    [
+                        -96.96756,
+                        34.799252
+                    ],
+                    [
+                        -96.943497,
+                        34.79649
+                    ],
+                    [
+                        -96.967522,
+                        34.793152
+                    ],
+                    [
+                        -96.967651,
+                        34.795639
+                    ]
+                ]
+            ]
+        ]
+    }
+}

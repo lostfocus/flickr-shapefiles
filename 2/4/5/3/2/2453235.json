@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2453235,
+    "properties": {
+        "woe_id": 2453235,
+        "place_id": "2u1y3cybBZnORqmo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Montegut, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549040,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2453235_20101217_434f8a0248.tar.gz"
+        },
+        "bbox": [
+            -90.574035644531,
+            29.470781326294,
+            -90.553604125977,
+            29.482492446899
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.553604,
+                        29.474947
+                    ],
+                    [
+                        -90.55719,
+                        29.470781
+                    ],
+                    [
+                        -90.558586,
+                        29.475843
+                    ],
+                    [
+                        -90.574036,
+                        29.481895
+                    ],
+                    [
+                        -90.556007,
+                        29.482492
+                    ],
+                    [
+                        -90.553604,
+                        29.474947
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2246,
+    "properties": {
+        "woe_id": 2246,
+        "place_id": "PQ8DLw6bA5he",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Davidson, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234653245,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3158\/shapefiles\/2246_20090214_41292ca500.tar.gz"
+        },
+        "bbox": [
+            -105.99620056152,
+            51.263847351074,
+            -105.98870849609,
+            51.270614624023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.988708,
+                        51.26519
+                    ],
+                    [
+                        -105.994743,
+                        51.263847
+                    ],
+                    [
+                        -105.996201,
+                        51.264599
+                    ],
+                    [
+                        -105.98983,
+                        51.270615
+                    ],
+                    [
+                        -105.988708,
+                        51.26519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20109071,
+    "properties": {
+        "woe_id": 20109071,
+        "place_id": "UNQh.XabAZ3BB56QDA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vigna, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234555324,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3378\/shapefiles\/20109071_20090213_3152bcc7ab.tar.gz"
+        },
+        "bbox": [
+            7.6663970947266,
+            44.281280517578,
+            7.6743359565735,
+            44.283798217773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.666697,
+                        44.281281
+                    ],
+                    [
+                        7.666397,
+                        44.281647
+                    ],
+                    [
+                        7.670688,
+                        44.283306
+                    ],
+                    [
+                        7.674336,
+                        44.283798
+                    ],
+                    [
+                        7.666697,
+                        44.281281
+                    ]
+                ]
+            ]
+        ]
+    }
+}

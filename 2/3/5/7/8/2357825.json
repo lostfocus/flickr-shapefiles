@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2357825,
+    "properties": {
+        "woe_id": 2357825,
+        "place_id": "blt8XRqbApnD.rfQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Avon, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589409,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3514\/shapefiles\/2357825_20090214_2d6a7e1996.tar.gz"
+        },
+        "bbox": [
+            -94.305908203125,
+            38.826946258545,
+            -94.295135498047,
+            38.847537994385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.299492,
+                        38.826946
+                    ],
+                    [
+                        -94.299301,
+                        38.827221
+                    ],
+                    [
+                        -94.305908,
+                        38.847538
+                    ],
+                    [
+                        -94.295135,
+                        38.827671
+                    ],
+                    [
+                        -94.299492,
+                        38.826946
+                    ]
+                ]
+            ]
+        ]
+    }
+}

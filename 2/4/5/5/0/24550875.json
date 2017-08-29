@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24550875,
+    "properties": {
+        "woe_id": 24550875,
+        "place_id": "4ue_LPKbBZmvsSFJBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Playa, A\u00f1asco, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537049,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/24550875_20101216_a329105f1b.tar.gz"
+        },
+        "bbox": [
+            -67.221435546875,
+            18.295860290527,
+            -67.215171813965,
+            18.297979354858
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -67.218346,
+                        18.296677
+                    ],
+                    [
+                        -67.221436,
+                        18.296909
+                    ],
+                    [
+                        -67.221199,
+                        18.297125
+                    ],
+                    [
+                        -67.218559,
+                        18.297979
+                    ],
+                    [
+                        -67.215172,
+                        18.29586
+                    ],
+                    [
+                        -67.218346,
+                        18.296677
+                    ]
+                ]
+            ]
+        ]
+    }
+}

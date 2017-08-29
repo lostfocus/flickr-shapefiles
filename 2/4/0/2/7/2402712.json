@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2402712,
+    "properties": {
+        "woe_id": 2402712,
+        "place_id": "5u4XfVWbBZwyV1uQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fayette Park, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234932007,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3616\/shapefiles\/2402712_20090218_12ee638dae.tar.gz"
+        },
+        "bbox": [
+            -77.419967651367,
+            37.59171295166,
+            -77.41919708252,
+            37.593585968018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.419884,
+                        37.591713
+                    ],
+                    [
+                        -77.419968,
+                        37.592335
+                    ],
+                    [
+                        -77.419502,
+                        37.593586
+                    ],
+                    [
+                        -77.419197,
+                        37.591858
+                    ],
+                    [
+                        -77.419884,
+                        37.591713
+                    ]
+                ]
+            ]
+        ]
+    }
+}

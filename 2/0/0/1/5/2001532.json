@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2001532,
+    "properties": {
+        "woe_id": 2001532,
+        "place_id": "FeaEURabAZx1BlLe",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dmitriyevskoye, Yaroslavskaya Oblast, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248005412,
+        "alpha": 0.00015,
+        "points": 23,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2623\/shapefiles\/2001532_20090719_3e3eb0c628.tar.gz"
+        },
+        "bbox": [
+            38.593479156494,
+            57.091304779053,
+            38.597679138184,
+            57.095676422119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        38.597679,
+                        57.095676
+                    ],
+                    [
+                        38.596333,
+                        57.091305
+                    ],
+                    [
+                        38.594437,
+                        57.091721
+                    ],
+                    [
+                        38.593479,
+                        57.094513
+                    ],
+                    [
+                        38.597679,
+                        57.095676
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745528,
+    "properties": {
+        "woe_id": 28745528,
+        "place_id": "L4ot916bCZuWhKd_uQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Watson, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446286,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28745528_20101215_5e4aabb7bb.tar.gz"
+        },
+        "bbox": [
+            -77.333320617676,
+            41.238021850586,
+            -77.333297729492,
+            41.23876953125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.333313,
+                        41.238701
+                    ],
+                    [
+                        -77.333298,
+                        41.23877
+                    ],
+                    [
+                        -77.333321,
+                        41.238022
+                    ],
+                    [
+                        -77.333313,
+                        41.238678
+                    ],
+                    [
+                        -77.333313,
+                        41.238701
+                    ]
+                ]
+            ]
+        ]
+    }
+}

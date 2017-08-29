@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20119767,
+    "properties": {
+        "woe_id": 20119767,
+        "place_id": "ztYGNZubAZ3an4IAcw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cercivento, Friuli-Venezia Giulia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292429281,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/20119767_20101215_723e785917.tar.gz"
+        },
+        "bbox": [
+            12.980116844177,
+            46.525077819824,
+            12.998477935791,
+            46.531940460205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.989959,
+                        46.53194
+                    ],
+                    [
+                        12.998478,
+                        46.525078
+                    ],
+                    [
+                        12.986955,
+                        46.527512
+                    ],
+                    [
+                        12.980117,
+                        46.527218
+                    ],
+                    [
+                        12.983608,
+                        46.528103
+                    ],
+                    [
+                        12.989959,
+                        46.53194
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2518348,
+    "properties": {
+        "woe_id": 2518348,
+        "place_id": "qaSHKoibBJ0xQhNT",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Westminster Station, Vermont, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460964,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2518348_20101216_873e7b6104.tar.gz"
+        },
+        "bbox": [
+            -72.459808349609,
+            43.083572387695,
+            -72.432907104492,
+            43.091869354248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.440758,
+                        43.090233
+                    ],
+                    [
+                        -72.432907,
+                        43.089355
+                    ],
+                    [
+                        -72.439171,
+                        43.085342
+                    ],
+                    [
+                        -72.455315,
+                        43.083572
+                    ],
+                    [
+                        -72.458687,
+                        43.087841
+                    ],
+                    [
+                        -72.459808,
+                        43.091869
+                    ],
+                    [
+                        -72.440758,
+                        43.090233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

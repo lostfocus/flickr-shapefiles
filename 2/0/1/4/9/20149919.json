@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20149919,
+    "properties": {
+        "woe_id": 20149919,
+        "place_id": "dbB4xDWbAZ0GTGMh4Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Paolo, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527742,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/20149919_20101216_61952251bd.tar.gz"
+        },
+        "bbox": [
+            11.256779670715,
+            46.473114013672,
+            11.261458396912,
+            46.477592468262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.261458,
+                        46.473953
+                    ],
+                    [
+                        11.261329,
+                        46.473114
+                    ],
+                    [
+                        11.25678,
+                        46.475227
+                    ],
+                    [
+                        11.257853,
+                        46.477238
+                    ],
+                    [
+                        11.258566,
+                        46.477592
+                    ],
+                    [
+                        11.261458,
+                        46.473953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

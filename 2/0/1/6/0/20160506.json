@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20160506,
+    "properties": {
+        "woe_id": 20160506,
+        "place_id": "U3eF0MObAZ3.8nCNTw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Waldbronn, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544345,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/20160506_20101217_25e4e6f9f5.tar.gz"
+        },
+        "bbox": [
+            8.4744997024536,
+            48.917537689209,
+            8.4943189620972,
+            48.931632995605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.483666,
+                        48.920666
+                    ],
+                    [
+                        8.494319,
+                        48.931633
+                    ],
+                    [
+                        8.4855,
+                        48.918999
+                    ],
+                    [
+                        8.482475,
+                        48.917538
+                    ],
+                    [
+                        8.4745,
+                        48.923164
+                    ],
+                    [
+                        8.483666,
+                        48.920666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2427190,
+    "properties": {
+        "woe_id": 2427190,
+        "place_id": "PguBw.mbBZ6esoGn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Inglesmith, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234521246,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3347\/shapefiles\/2427190_20090213_d0282bcb31.tar.gz"
+        },
+        "bbox": [
+            -78.383071899414,
+            39.752395629883,
+            -78.374359130859,
+            39.753475189209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.376221,
+                        39.752396
+                    ],
+                    [
+                        -78.383072,
+                        39.753475
+                    ],
+                    [
+                        -78.375481,
+                        39.753105
+                    ],
+                    [
+                        -78.374359,
+                        39.752903
+                    ],
+                    [
+                        -78.375244,
+                        39.752628
+                    ],
+                    [
+                        -78.376221,
+                        39.752396
+                    ]
+                ]
+            ]
+        ]
+    }
+}

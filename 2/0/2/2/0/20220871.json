@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220871,
+    "properties": {
+        "woe_id": 20220871,
+        "place_id": "HQ0sL5KbAZ4LNuf9pA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Benaque, Andalusia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452300,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20220871_20101215_846f3e768c.tar.gz"
+        },
+        "bbox": [
+            -4.2162170410156,
+            36.768730163574,
+            -4.2081060409546,
+            36.7712059021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.215834,
+                        36.769001
+                    ],
+                    [
+                        -4.216217,
+                        36.76926
+                    ],
+                    [
+                        -4.210166,
+                        36.771206
+                    ],
+                    [
+                        -4.208106,
+                        36.770241
+                    ],
+                    [
+                        -4.215402,
+                        36.76873
+                    ],
+                    [
+                        -4.215834,
+                        36.769001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

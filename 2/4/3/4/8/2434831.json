@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2434831,
+    "properties": {
+        "woe_id": 2434831,
+        "place_id": "h8yRtmubBZ8.YvsL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lake Cumberland West, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234785127,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3199\/shapefiles\/2434831_20090216_3fd2d1081b.tar.gz"
+        },
+        "bbox": [
+            -82.203994750977,
+            33.57279586792,
+            -82.186828613281,
+            33.594245910645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.203995,
+                        33.592171
+                    ],
+                    [
+                        -82.201637,
+                        33.594246
+                    ],
+                    [
+                        -82.19799,
+                        33.592743
+                    ],
+                    [
+                        -82.186829,
+                        33.586666
+                    ],
+                    [
+                        -82.191895,
+                        33.572796
+                    ],
+                    [
+                        -82.203995,
+                        33.592171
+                    ]
+                ]
+            ]
+        ]
+    }
+}

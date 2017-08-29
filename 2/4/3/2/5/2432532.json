@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432532,
+    "properties": {
+        "woe_id": 2432532,
+        "place_id": "VPVC6GWbBZ.abLu1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "King William, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523101,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2432532_20101216_2316b4f3be.tar.gz"
+        },
+        "bbox": [
+            -77.014846801758,
+            37.679035186768,
+            -76.999214172363,
+            37.691837310791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.013084,
+                        37.687904
+                    ],
+                    [
+                        -76.999214,
+                        37.691837
+                    ],
+                    [
+                        -77.002487,
+                        37.679035
+                    ],
+                    [
+                        -77.007721,
+                        37.679878
+                    ],
+                    [
+                        -77.014847,
+                        37.688271
+                    ],
+                    [
+                        -77.013084,
+                        37.687904
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2415978,
+    "properties": {
+        "woe_id": 2415978,
+        "place_id": "wE4B_dibBZ2MoV8r",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hadley Farms, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455595,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2415978_20101215_bb82f3fa2c.tar.gz"
+        },
+        "bbox": [
+            -77.165092468262,
+            39.172924041748,
+            -77.152435302734,
+            39.185832977295
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.161201,
+                        39.183788
+                    ],
+                    [
+                        -77.153503,
+                        39.185833
+                    ],
+                    [
+                        -77.152962,
+                        39.184151
+                    ],
+                    [
+                        -77.152435,
+                        39.181252
+                    ],
+                    [
+                        -77.158058,
+                        39.172924
+                    ],
+                    [
+                        -77.165092,
+                        39.175518
+                    ],
+                    [
+                        -77.161201,
+                        39.183788
+                    ]
+                ]
+            ]
+        ]
+    }
+}

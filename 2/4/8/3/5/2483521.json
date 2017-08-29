@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483521,
+    "properties": {
+        "woe_id": 2483521,
+        "place_id": "OIQ9kDmbBZQcvWIq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rockville, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519253,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2483521_20101216_28e388ac1c.tar.gz"
+        },
+        "bbox": [
+            -94.350807189941,
+            45.470031738281,
+            -94.335395812988,
+            45.481903076172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.342209,
+                        45.47678
+                    ],
+                    [
+                        -94.335396,
+                        45.476624
+                    ],
+                    [
+                        -94.338913,
+                        45.472652
+                    ],
+                    [
+                        -94.344414,
+                        45.470032
+                    ],
+                    [
+                        -94.350807,
+                        45.481903
+                    ],
+                    [
+                        -94.342209,
+                        45.47678
+                    ]
+                ]
+            ]
+        ]
+    }
+}

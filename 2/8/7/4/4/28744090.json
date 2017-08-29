@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28744090,
+    "properties": {
+        "woe_id": 28744090,
+        "place_id": "S42a6VGbCZvJ.rZBYA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Peaine, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248015722,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3428\/shapefiles\/28744090_20090719_d042b9075d.tar.gz"
+        },
+        "bbox": [
+            -85.518608093262,
+            45.710613250732,
+            -85.486503601074,
+            45.726135253906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.486504,
+                        45.721279
+                    ],
+                    [
+                        -85.498779,
+                        45.710613
+                    ],
+                    [
+                        -85.503204,
+                        45.718662
+                    ],
+                    [
+                        -85.518608,
+                        45.719723
+                    ],
+                    [
+                        -85.500282,
+                        45.726135
+                    ],
+                    [
+                        -85.486504,
+                        45.721279
+                    ]
+                ]
+            ]
+        ]
+    }
+}

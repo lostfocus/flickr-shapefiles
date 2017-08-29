@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23418228,
+    "properties": {
+        "woe_id": 23418228,
+        "place_id": "OBrAj12bApj9ApMogg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Port Angeles East, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523654,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/23418228_20101216_0a9398a768.tar.gz"
+        },
+        "bbox": [
+            -123.39981079102,
+            48.105770111084,
+            -123.39431762695,
+            48.114162445068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.395264,
+                        48.106113
+                    ],
+                    [
+                        -123.399811,
+                        48.10577
+                    ],
+                    [
+                        -123.397621,
+                        48.114162
+                    ],
+                    [
+                        -123.394318,
+                        48.111557
+                    ],
+                    [
+                        -123.395264,
+                        48.106113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

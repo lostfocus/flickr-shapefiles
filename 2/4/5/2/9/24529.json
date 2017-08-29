@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 24529,
+    "properties": {
+        "woe_id": 24529,
+        "place_id": "pEM4oEybBZkMzg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ireland, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455685,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/24529_20101215_d994986bd1.tar.gz"
+        },
+        "bbox": [
+            -0.3483000099659,
+            52.058479309082,
+            -0.34667000174522,
+            52.061462402344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.347957,
+                        52.060669
+                    ],
+                    [
+                        -0.3483,
+                        52.061462
+                    ],
+                    [
+                        -0.34745,
+                        52.060711
+                    ],
+                    [
+                        -0.34698,
+                        52.059978
+                    ],
+                    [
+                        -0.346927,
+                        52.059879
+                    ],
+                    [
+                        -0.34667,
+                        52.058479
+                    ],
+                    [
+                        -0.347957,
+                        52.060669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

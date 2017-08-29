@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20090380,
+    "properties": {
+        "woe_id": 20090380,
+        "place_id": "wE5DkiSbAZytBKHjYg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Candacraig Ho, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234610764,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3472\/shapefiles\/20090380_20090214_6d1d6d3f1e.tar.gz"
+        },
+        "bbox": [
+            -3.0938529968262,
+            57.183158874512,
+            -3.0801200866699,
+            57.186786651611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.093853,
+                        57.18576
+                    ],
+                    [
+                        -3.080635,
+                        57.186787
+                    ],
+                    [
+                        -3.08012,
+                        57.185295
+                    ],
+                    [
+                        -3.093338,
+                        57.183159
+                    ],
+                    [
+                        -3.093853,
+                        57.18576
+                    ]
+                ]
+            ]
+        ]
+    }
+}

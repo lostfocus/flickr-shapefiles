@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28747508,
+    "properties": {
+        "woe_id": 28747508,
+        "place_id": "JRpXsSObCZuxFW0kuQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Yakt, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519166,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28747508_20101216_eb4c99528f.tar.gz"
+        },
+        "bbox": [
+            -115.98794555664,
+            48.551151275635,
+            -115.96206665039,
+            48.582370758057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -115.981186,
+                        48.564163
+                    ],
+                    [
+                        -115.987946,
+                        48.582371
+                    ],
+                    [
+                        -115.9785,
+                        48.564735
+                    ],
+                    [
+                        -115.962067,
+                        48.551613
+                    ],
+                    [
+                        -115.972771,
+                        48.551151
+                    ],
+                    [
+                        -115.981186,
+                        48.564163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

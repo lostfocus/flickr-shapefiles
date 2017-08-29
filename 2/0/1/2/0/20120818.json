@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20120818,
+    "properties": {
+        "woe_id": 20120818,
+        "place_id": "P7Yuy8ubAZ270WQTDw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Clusio, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480164,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/20120818_20101216_2b975b2854.tar.gz"
+        },
+        "bbox": [
+            10.521641731262,
+            46.690662384033,
+            10.525816917419,
+            46.69388961792
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.521642,
+                        46.693127
+                    ],
+                    [
+                        10.521783,
+                        46.69389
+                    ],
+                    [
+                        10.525817,
+                        46.692101
+                    ],
+                    [
+                        10.525716,
+                        46.692017
+                    ],
+                    [
+                        10.522842,
+                        46.690662
+                    ],
+                    [
+                        10.521642,
+                        46.693127
+                    ]
+                ]
+            ]
+        ]
+    }
+}

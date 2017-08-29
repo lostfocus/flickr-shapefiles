@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20071315,
+    "properties": {
+        "woe_id": 20071315,
+        "place_id": "WDK67H6bAZxDbg8Pbw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stradone, Ireland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517945,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/20071315_20101216_fe84c51429.tar.gz"
+        },
+        "bbox": [
+            -7.2224798202515,
+            53.978702545166,
+            -7.221794128418,
+            53.978805541992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.222137,
+                        53.978703
+                    ],
+                    [
+                        -7.22248,
+                        53.978756
+                    ],
+                    [
+                        -7.222223,
+                        53.978806
+                    ],
+                    [
+                        -7.221794,
+                        53.978703
+                    ],
+                    [
+                        -7.222137,
+                        53.978703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

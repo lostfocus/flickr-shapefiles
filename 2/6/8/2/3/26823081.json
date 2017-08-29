@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 26823081,
+    "properties": {
+        "woe_id": 26823081,
+        "place_id": "HPN3G8ybB5RYY2rWYA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stadtteil Obergiesing, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434205,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/26823081_20101215_706f073ea7.tar.gz"
+        },
+        "bbox": [
+            11.574558258057,
+            48.110454559326,
+            11.575566291809,
+            48.11137008667
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.575523,
+                        48.111183
+                    ],
+                    [
+                        11.575566,
+                        48.110996
+                    ],
+                    [
+                        11.57548,
+                        48.110813
+                    ],
+                    [
+                        11.574954,
+                        48.110455
+                    ],
+                    [
+                        11.574558,
+                        48.110474
+                    ],
+                    [
+                        11.57533,
+                        48.11137
+                    ],
+                    [
+                        11.575523,
+                        48.111183
+                    ]
+                ]
+            ]
+        ]
+    }
+}

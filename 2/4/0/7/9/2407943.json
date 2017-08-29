@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407943,
+    "properties": {
+        "woe_id": 2407943,
+        "place_id": "P47Cy36bBZzm7FsE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fruitland, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525591,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2407943_20101216_4f1a1b7674.tar.gz"
+        },
+        "bbox": [
+            -81.653648376465,
+            29.411832809448,
+            -81.630264282227,
+            29.441652297974
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.653648,
+                        29.417843
+                    ],
+                    [
+                        -81.646378,
+                        29.424402
+                    ],
+                    [
+                        -81.630264,
+                        29.441652
+                    ],
+                    [
+                        -81.646301,
+                        29.424334
+                    ],
+                    [
+                        -81.633499,
+                        29.411833
+                    ],
+                    [
+                        -81.653648,
+                        29.417843
+                    ]
+                ]
+            ]
+        ]
+    }
+}

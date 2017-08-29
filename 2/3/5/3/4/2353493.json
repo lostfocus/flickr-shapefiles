@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2353493,
+    "properties": {
+        "woe_id": 2353493,
+        "place_id": "F3_WsY.bApkIigMs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Allison, Texas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234483685,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3364\/shapefiles\/2353493_20090213_44b8ca023b.tar.gz"
+        },
+        "bbox": [
+            -100.10081481934,
+            35.606941223145,
+            -100.10037231445,
+            35.607578277588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.100777,
+                        35.607521
+                    ],
+                    [
+                        -100.100372,
+                        35.607578
+                    ],
+                    [
+                        -100.100433,
+                        35.607178
+                    ],
+                    [
+                        -100.100815,
+                        35.606941
+                    ],
+                    [
+                        -100.100777,
+                        35.607521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

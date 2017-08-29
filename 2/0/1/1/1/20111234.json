@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20111234,
+    "properties": {
+        "woe_id": 20111234,
+        "place_id": "0Uaq9KmbAZ0JfbNORQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bellusco, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541479,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/20111234_20101216_d4db3b4288.tar.gz"
+        },
+        "bbox": [
+            9.4172058105469,
+            45.617008209229,
+            9.4269227981567,
+            45.618839263916
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.417206,
+                        45.617008
+                    ],
+                    [
+                        9.418383,
+                        45.618839
+                    ],
+                    [
+                        9.419334,
+                        45.618504
+                    ],
+                    [
+                        9.426923,
+                        45.617535
+                    ],
+                    [
+                        9.417206,
+                        45.617008
+                    ]
+                ]
+            ]
+        ]
+    }
+}

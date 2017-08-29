@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2384688,
+    "properties": {
+        "woe_id": 2384688,
+        "place_id": "wGu83yubApSJkFxc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Coopersville, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456599,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2384688_20101215_bf6c42945d.tar.gz"
+        },
+        "bbox": [
+            -76.750228881836,
+            39.554222106934,
+            -76.743942260742,
+            39.556701660156
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.743942,
+                        39.556702
+                    ],
+                    [
+                        -76.744736,
+                        39.554222
+                    ],
+                    [
+                        -76.750229,
+                        39.554321
+                    ],
+                    [
+                        -76.748436,
+                        39.556431
+                    ],
+                    [
+                        -76.743942,
+                        39.556702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

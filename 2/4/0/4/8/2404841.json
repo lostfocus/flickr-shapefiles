@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2404841,
+    "properties": {
+        "woe_id": 2404841,
+        "place_id": "LceQEQebBZznYgSt",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fontainbleau Forest, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234722249,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3249\/shapefiles\/2404841_20090215_abe7c1018a.tar.gz"
+        },
+        "bbox": [
+            -84.274772644043,
+            33.955337524414,
+            -84.273056030273,
+            33.958312988281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.274017,
+                        33.955338
+                    ],
+                    [
+                        -84.274773,
+                        33.958313
+                    ],
+                    [
+                        -84.273056,
+                        33.957973
+                    ],
+                    [
+                        -84.273544,
+                        33.955391
+                    ],
+                    [
+                        -84.274017,
+                        33.955338
+                    ]
+                ]
+            ]
+        ]
+    }
+}

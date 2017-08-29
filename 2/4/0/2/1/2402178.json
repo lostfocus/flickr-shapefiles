@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402178,
+    "properties": {
+        "woe_id": 2402178,
+        "place_id": "EXHhYZqbBZwh78Mn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fallston, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546288,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2402178_20101217_8c8d49837b.tar.gz"
+        },
+        "bbox": [
+            -80.330589294434,
+            40.711807250977,
+            -80.309219360352,
+            40.723014831543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.321548,
+                        40.723015
+                    ],
+                    [
+                        -80.309219,
+                        40.723
+                    ],
+                    [
+                        -80.322342,
+                        40.711807
+                    ],
+                    [
+                        -80.322731,
+                        40.711994
+                    ],
+                    [
+                        -80.330589,
+                        40.715248
+                    ],
+                    [
+                        -80.321548,
+                        40.723015
+                    ]
+                ]
+            ]
+        ]
+    }
+}

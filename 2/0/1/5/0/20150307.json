@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150307,
+    "properties": {
+        "woe_id": 20150307,
+        "place_id": "T33ZEyqbAZ07FQQSiA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villaggio Borromeo, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449211,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/20150307_20101215_7e5fb51bb7.tar.gz"
+        },
+        "bbox": [
+            9.0644073486328,
+            45.477466583252,
+            9.0717220306396,
+            45.492710113525
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.064407,
+                        45.477467
+                    ],
+                    [
+                        9.067691,
+                        45.487003
+                    ],
+                    [
+                        9.066532,
+                        45.49271
+                    ],
+                    [
+                        9.07093,
+                        45.483364
+                    ],
+                    [
+                        9.071722,
+                        45.482681
+                    ],
+                    [
+                        9.064407,
+                        45.477467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745479,
+    "properties": {
+        "woe_id": 28745479,
+        "place_id": "Vva3MGebCZswXmugAw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Union, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549953,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/28745479_20101217_9c2f73cf05.tar.gz"
+        },
+        "bbox": [
+            -77.981117248535,
+            40.916500091553,
+            -77.977638244629,
+            40.918968200684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.977638,
+                        40.918331
+                    ],
+                    [
+                        -77.97818,
+                        40.917671
+                    ],
+                    [
+                        -77.978615,
+                        40.917519
+                    ],
+                    [
+                        -77.981117,
+                        40.9165
+                    ],
+                    [
+                        -77.980637,
+                        40.918968
+                    ],
+                    [
+                        -77.977638,
+                        40.918331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

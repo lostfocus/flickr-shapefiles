@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2365419,
+    "properties": {
+        "woe_id": 2365419,
+        "place_id": "EbxZhYybApoqXnWp",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bleecker, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536620,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2365419_20101216_014afdba9d.tar.gz"
+        },
+        "bbox": [
+            -74.379325866699,
+            43.104305267334,
+            -74.368034362793,
+            43.128551483154
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.369888,
+                        43.128551
+                    ],
+                    [
+                        -74.368034,
+                        43.120285
+                    ],
+                    [
+                        -74.379326,
+                        43.104305
+                    ],
+                    [
+                        -74.379028,
+                        43.127563
+                    ],
+                    [
+                        -74.369888,
+                        43.128551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

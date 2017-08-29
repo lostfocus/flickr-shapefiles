@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2426413,
+    "properties": {
+        "woe_id": 2426413,
+        "place_id": "bXwuIU6bBZ4F1GED",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Iceland, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234548965,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3317\/shapefiles\/2426413_20090213_dfd6686ce1.tar.gz"
+        },
+        "bbox": [
+            -120.02975463867,
+            39.378894805908,
+            -120.0235748291,
+            39.384201049805
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.023743,
+                        39.379143
+                    ],
+                    [
+                        -120.029755,
+                        39.378895
+                    ],
+                    [
+                        -120.027695,
+                        39.379955
+                    ],
+                    [
+                        -120.023575,
+                        39.384201
+                    ],
+                    [
+                        -120.023743,
+                        39.379143
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2359129,
+    "properties": {
+        "woe_id": 2359129,
+        "place_id": "qrWYrLibApmgR6ZD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Barbours Creek, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234569246,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3312\/shapefiles\/2359129_20090213_0f66aa6bcf.tar.gz"
+        },
+        "bbox": [
+            -80.073509216309,
+            37.562267303467,
+            -80.052642822266,
+            37.574180603027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.052643,
+                        37.563789
+                    ],
+                    [
+                        -80.05481,
+                        37.565563
+                    ],
+                    [
+                        -80.073509,
+                        37.562267
+                    ],
+                    [
+                        -80.055145,
+                        37.569695
+                    ],
+                    [
+                        -80.054886,
+                        37.571037
+                    ],
+                    [
+                        -80.054405,
+                        37.574181
+                    ],
+                    [
+                        -80.052643,
+                        37.563789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220563,
+    "properties": {
+        "woe_id": 20220563,
+        "place_id": "gH87B6ebAZ6IkqtDMQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Antxoritz, Navarre, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462884,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/20220563_20101216_2cdea87114.tar.gz"
+        },
+        "bbox": [
+            -1.5694990158081,
+            42.868595123291,
+            -1.5687750577927,
+            42.873905181885
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.568775,
+                        42.868835
+                    ],
+                    [
+                        -1.568795,
+                        42.868595
+                    ],
+                    [
+                        -1.569,
+                        42.869026
+                    ],
+                    [
+                        -1.569499,
+                        42.871811
+                    ],
+                    [
+                        -1.56915,
+                        42.873905
+                    ],
+                    [
+                        -1.568995,
+                        42.871189
+                    ],
+                    [
+                        -1.568775,
+                        42.868835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

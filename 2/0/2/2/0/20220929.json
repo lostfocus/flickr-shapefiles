@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220929,
+    "properties": {
+        "woe_id": 20220929,
+        "place_id": "vpYdXl2bAZ4f4gWLdA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bidegoyan, Basque Country, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545421,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/20220929_20101217_115aa7c602.tar.gz"
+        },
+        "bbox": [
+            -2.1620750427246,
+            43.133983612061,
+            -2.1586201190948,
+            43.144836425781
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.16178,
+                        43.139019
+                    ],
+                    [
+                        -2.162075,
+                        43.144836
+                    ],
+                    [
+                        -2.16002,
+                        43.139839
+                    ],
+                    [
+                        -2.15862,
+                        43.135315
+                    ],
+                    [
+                        -2.159843,
+                        43.133984
+                    ],
+                    [
+                        -2.16178,
+                        43.139019
+                    ]
+                ]
+            ]
+        ]
+    }
+}

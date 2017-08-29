@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2304,
+    "properties": {
+        "woe_id": 2304,
+        "place_id": "rkfZc2ybApwq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hazlet, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455543,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2304_20101215_051c2e25bd.tar.gz"
+        },
+        "bbox": [
+            -108.60191345215,
+            50.39799118042,
+            -108.59526824951,
+            50.401294708252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -108.596245,
+                        50.401024
+                    ],
+                    [
+                        -108.595734,
+                        50.399982
+                    ],
+                    [
+                        -108.595268,
+                        50.397991
+                    ],
+                    [
+                        -108.601913,
+                        50.401295
+                    ],
+                    [
+                        -108.596245,
+                        50.401024
+                    ]
+                ]
+            ]
+        ]
+    }
+}

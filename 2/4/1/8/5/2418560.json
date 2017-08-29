@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2418560,
+    "properties": {
+        "woe_id": 2418560,
+        "place_id": "6rlnl56bBZ2mopM8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hastings, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517450,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2418560_20101216_586bfc749b.tar.gz"
+        },
+        "bbox": [
+            -84.340278625488,
+            33.447448730469,
+            -84.323760986328,
+            33.449703216553
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.323761,
+                        33.449131
+                    ],
+                    [
+                        -84.325607,
+                        33.447449
+                    ],
+                    [
+                        -84.340279,
+                        33.448631
+                    ],
+                    [
+                        -84.324448,
+                        33.449703
+                    ],
+                    [
+                        -84.323761,
+                        33.449131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

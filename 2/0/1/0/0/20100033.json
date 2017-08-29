@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20100033,
+    "properties": {
+        "woe_id": 20100033,
+        "place_id": "N0iPsZqbAZ3PocymHQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gata, Hedmark Fylke, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239500643,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3297\/shapefiles\/20100033_20090412_0668e4096a.tar.gz"
+        },
+        "bbox": [
+            11.331194877625,
+            60.648029327393,
+            11.349991798401,
+            60.654739379883
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.343469,
+                        60.649269
+                    ],
+                    [
+                        11.349992,
+                        60.654739
+                    ],
+                    [
+                        11.344413,
+                        60.648701
+                    ],
+                    [
+                        11.331195,
+                        60.648029
+                    ],
+                    [
+                        11.343469,
+                        60.649269
+                    ]
+                ]
+            ]
+        ]
+    }
+}

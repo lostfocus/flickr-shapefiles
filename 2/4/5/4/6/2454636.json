@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2454636,
+    "properties": {
+        "woe_id": 2454636,
+        "place_id": "6Fx.dQKbBZk5HZ3A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Motley, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493901,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/2454636_20101216_24a69b7a62.tar.gz"
+        },
+        "bbox": [
+            -94.173042297363,
+            37.072559356689,
+            -94.161628723145,
+            37.080814361572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.163162,
+                        37.080727
+                    ],
+                    [
+                        -94.161629,
+                        37.072659
+                    ],
+                    [
+                        -94.165306,
+                        37.072559
+                    ],
+                    [
+                        -94.173042,
+                        37.079762
+                    ],
+                    [
+                        -94.165749,
+                        37.080814
+                    ],
+                    [
+                        -94.163162,
+                        37.080727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

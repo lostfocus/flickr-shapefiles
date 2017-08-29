@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2385761,
+    "properties": {
+        "woe_id": 2385761,
+        "place_id": "angMrR6bApRHZFtU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Country Acres, South Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523193,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2385761_20101216_aeb379c30f.tar.gz"
+        },
+        "bbox": [
+            -96.894493103027,
+            43.50345993042,
+            -96.888938903809,
+            43.516956329346
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.888939,
+                        43.50349
+                    ],
+                    [
+                        -96.891685,
+                        43.50346
+                    ],
+                    [
+                        -96.894493,
+                        43.508297
+                    ],
+                    [
+                        -96.890305,
+                        43.516956
+                    ],
+                    [
+                        -96.888939,
+                        43.50349
+                    ]
+                ]
+            ]
+        ]
+    }
+}

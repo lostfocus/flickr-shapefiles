@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483312,
+    "properties": {
+        "woe_id": 2483312,
+        "place_id": "TRKZnjqbBZTCoAyH",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rockdale, Tennessee, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234607889,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3307\/shapefiles\/2483312_20090214_76f2d3823f.tar.gz"
+        },
+        "bbox": [
+            -87.271591186523,
+            35.462505340576,
+            -87.267753601074,
+            35.466159820557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.269623,
+                        35.46468
+                    ],
+                    [
+                        -87.267754,
+                        35.462505
+                    ],
+                    [
+                        -87.270546,
+                        35.462879
+                    ],
+                    [
+                        -87.271591,
+                        35.46616
+                    ],
+                    [
+                        -87.269623,
+                        35.46468
+                    ]
+                ]
+            ]
+        ]
+    }
+}

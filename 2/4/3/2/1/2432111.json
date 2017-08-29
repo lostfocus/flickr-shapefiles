@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432111,
+    "properties": {
+        "woe_id": 2432111,
+        "place_id": "ZImWiqSbBZ.YVpyN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Keystone, Wyoming, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239629896,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3637\/shapefiles\/2432111_20090413_db29c2df53.tar.gz"
+        },
+        "bbox": [
+            -106.26201629639,
+            41.201889038086,
+            -106.23846435547,
+            41.222312927246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.248825,
+                        41.213253
+                    ],
+                    [
+                        -106.238464,
+                        41.219227
+                    ],
+                    [
+                        -106.243767,
+                        41.201889
+                    ],
+                    [
+                        -106.254913,
+                        41.208038
+                    ],
+                    [
+                        -106.262016,
+                        41.222313
+                    ],
+                    [
+                        -106.248825,
+                        41.213253
+                    ]
+                ]
+            ]
+        ]
+    }
+}

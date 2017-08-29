@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23511219,
+    "properties": {
+        "woe_id": 23511219,
+        "place_id": "tOK6JHObApldj1HI3w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Crystal, Nevada, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530239,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/23511219_20101216_b88e45a5cc.tar.gz"
+        },
+        "bbox": [
+            -116.16050720215,
+            36.484935760498,
+            -116.15622711182,
+            36.492317199707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.159805,
+                        36.491077
+                    ],
+                    [
+                        -116.160507,
+                        36.492317
+                    ],
+                    [
+                        -116.156227,
+                        36.491112
+                    ],
+                    [
+                        -116.15699,
+                        36.484936
+                    ],
+                    [
+                        -116.157204,
+                        36.485161
+                    ],
+                    [
+                        -116.159805,
+                        36.491077
+                    ]
+                ]
+            ]
+        ]
+    }
+}

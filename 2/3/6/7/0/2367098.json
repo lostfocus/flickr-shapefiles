@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2367098,
+    "properties": {
+        "woe_id": 2367098,
+        "place_id": "t_g2RkebApp0ctMk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Boston, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544970,
+        "alpha": 0.00015,
+        "points": 19,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2367098_20101217_ffc5909ed8.tar.gz"
+        },
+        "bbox": [
+            -79.829696655273,
+            40.302928924561,
+            -79.81721496582,
+            40.316673278809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.829247,
+                        40.310604
+                    ],
+                    [
+                        -79.829697,
+                        40.31181
+                    ],
+                    [
+                        -79.826317,
+                        40.31337
+                    ],
+                    [
+                        -79.819321,
+                        40.316673
+                    ],
+                    [
+                        -79.817215,
+                        40.302929
+                    ],
+                    [
+                        -79.826721,
+                        40.304714
+                    ],
+                    [
+                        -79.829247,
+                        40.310604
+                    ]
+                ]
+            ]
+        ]
+    }
+}

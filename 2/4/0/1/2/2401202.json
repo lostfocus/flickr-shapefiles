@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401202,
+    "properties": {
+        "woe_id": 2401202,
+        "place_id": "JKcp3nSbBZz2L4dL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fair Haven, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530748,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2401202_20101216_ded0921c57.tar.gz"
+        },
+        "bbox": [
+            -77.08073425293,
+            38.783843994141,
+            -77.071578979492,
+            38.78999710083
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.075272,
+                        38.784332
+                    ],
+                    [
+                        -77.080734,
+                        38.789997
+                    ],
+                    [
+                        -77.073982,
+                        38.786804
+                    ],
+                    [
+                        -77.071579,
+                        38.786404
+                    ],
+                    [
+                        -77.074509,
+                        38.783844
+                    ],
+                    [
+                        -77.075272,
+                        38.784332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

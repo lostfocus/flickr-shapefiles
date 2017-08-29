@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20110631,
+    "properties": {
+        "woe_id": 20110631,
+        "place_id": "zqfaX5ubAZ0tMNILiA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bando, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445502,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/20110631_20101215_204ec70c74.tar.gz"
+        },
+        "bbox": [
+            11.883257865906,
+            44.643115997314,
+            11.890070915222,
+            44.654609680176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.885753,
+                        44.643116
+                    ],
+                    [
+                        11.883258,
+                        44.645512
+                    ],
+                    [
+                        11.889266,
+                        44.65461
+                    ],
+                    [
+                        11.890071,
+                        44.650291
+                    ],
+                    [
+                        11.886329,
+                        44.643349
+                    ],
+                    [
+                        11.885753,
+                        44.643116
+                    ]
+                ]
+            ]
+        ]
+    }
+}

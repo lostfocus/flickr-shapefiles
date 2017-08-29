@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2415108,
+    "properties": {
+        "woe_id": 2415108,
+        "place_id": "jA0ZWAObBZ0YxSZo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Grimstead, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234773728,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3392\/shapefiles\/2415108_20090216_db4375efe3.tar.gz"
+        },
+        "bbox": [
+            -76.303482055664,
+            37.495288848877,
+            -76.297302246094,
+            37.509658813477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.303482,
+                        37.509045
+                    ],
+                    [
+                        -76.297302,
+                        37.509659
+                    ],
+                    [
+                        -76.29818,
+                        37.506405
+                    ],
+                    [
+                        -76.298843,
+                        37.495289
+                    ],
+                    [
+                        -76.303482,
+                        37.509045
+                    ]
+                ]
+            ]
+        ]
+    }
+}

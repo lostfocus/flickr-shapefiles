@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2356751,
+    "properties": {
+        "woe_id": 2356751,
+        "place_id": "7eLH60mbApmSfJ.c",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ashton Manor, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234866003,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3171\/shapefiles\/2356751_20090217_94cfe87a78.tar.gz"
+        },
+        "bbox": [
+            -77.016563415527,
+            39.142375946045,
+            -77.008079528809,
+            39.149089813232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.013504,
+                        39.14909
+                    ],
+                    [
+                        -77.008163,
+                        39.143307
+                    ],
+                    [
+                        -77.00808,
+                        39.142376
+                    ],
+                    [
+                        -77.016563,
+                        39.148285
+                    ],
+                    [
+                        -77.013504,
+                        39.14909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20091305,
+    "properties": {
+        "woe_id": 20091305,
+        "place_id": "CavE8DubAZwg8ZbGig",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mansfield, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542325,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/20091305_20101216_44df6749aa.tar.gz"
+        },
+        "bbox": [
+            -4.1844167709351,
+            55.40047454834,
+            -4.1730880737305,
+            55.404361724854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.184417,
+                        55.402412
+                    ],
+                    [
+                        -4.183559,
+                        55.403095
+                    ],
+                    [
+                        -4.180469,
+                        55.404362
+                    ],
+                    [
+                        -4.173088,
+                        55.40229
+                    ],
+                    [
+                        -4.183234,
+                        55.400475
+                    ],
+                    [
+                        -4.184417,
+                        55.402412
+                    ]
+                ]
+            ]
+        ]
+    }
+}

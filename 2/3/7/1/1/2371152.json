@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2371152,
+    "properties": {
+        "woe_id": 2371152,
+        "place_id": "ddnn3m6bAptM2ZTA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Buckingham, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533921,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2371152_20101216_ec52e9febf.tar.gz"
+        },
+        "bbox": [
+            -111.14121246338,
+            46.54581451416,
+            -111.13993835449,
+            46.546642303467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.140266,
+                        46.546642
+                    ],
+                    [
+                        -111.139938,
+                        46.546593
+                    ],
+                    [
+                        -111.140358,
+                        46.546169
+                    ],
+                    [
+                        -111.141212,
+                        46.545815
+                    ],
+                    [
+                        -111.140266,
+                        46.546642
+                    ]
+                ]
+            ]
+        ]
+    }
+}

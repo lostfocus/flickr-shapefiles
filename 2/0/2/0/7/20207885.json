@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20207885,
+    "properties": {
+        "woe_id": 20207885,
+        "place_id": "83rNYzGbAZ6d6lD0cw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Boirin, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513945,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20207885_20101216_8666cc5f9a.tar.gz"
+        },
+        "bbox": [
+            5.7248210906982,
+            45.945301055908,
+            5.7265372276306,
+            45.946136474609
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.726516,
+                        45.945629
+                    ],
+                    [
+                        5.726108,
+                        45.945301
+                    ],
+                    [
+                        5.72525,
+                        45.945419
+                    ],
+                    [
+                        5.724821,
+                        45.946136
+                    ],
+                    [
+                        5.726537,
+                        45.945801
+                    ],
+                    [
+                        5.726516,
+                        45.945629
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492451,
+    "properties": {
+        "woe_id": 2492451,
+        "place_id": "CmLLf0abBZWlgbYq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sherman, New Mexico, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551516,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2492451_20101217_e0fd50090a.tar.gz"
+        },
+        "bbox": [
+            -107.87102508545,
+            32.758323669434,
+            -107.86170959473,
+            32.770614624023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -107.863594,
+                        32.766808
+                    ],
+                    [
+                        -107.863213,
+                        32.766365
+                    ],
+                    [
+                        -107.86171,
+                        32.758324
+                    ],
+                    [
+                        -107.864304,
+                        32.764748
+                    ],
+                    [
+                        -107.871025,
+                        32.770615
+                    ],
+                    [
+                        -107.863594,
+                        32.766808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

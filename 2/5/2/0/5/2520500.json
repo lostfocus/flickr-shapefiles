@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2520500,
+    "properties": {
+        "woe_id": 2520500,
+        "place_id": "7_TZgNGbBJ4LNS9Y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wildwoods, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542317,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2520500_20101216_f512433f8f.tar.gz"
+        },
+        "bbox": [
+            -75.549575805664,
+            38.160190582275,
+            -75.542205810547,
+            38.174850463867
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.549461,
+                        38.160191
+                    ],
+                    [
+                        -75.549576,
+                        38.161343
+                    ],
+                    [
+                        -75.542206,
+                        38.17485
+                    ],
+                    [
+                        -75.546486,
+                        38.162266
+                    ],
+                    [
+                        -75.546516,
+                        38.162117
+                    ],
+                    [
+                        -75.549461,
+                        38.160191
+                    ]
+                ]
+            ]
+        ]
+    }
+}

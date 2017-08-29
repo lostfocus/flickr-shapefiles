@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 26822514,
+    "properties": {
+        "woe_id": 26822514,
+        "place_id": "nlEKsICbB5Qh72ci0Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Pauli, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452549,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/26822514_20101215_b5975cfd9f.tar.gz"
+        },
+        "bbox": [
+            9.9668521881104,
+            53.545303344727,
+            9.9676675796509,
+            53.545726776123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.967389,
+                        53.545349
+                    ],
+                    [
+                        9.966852,
+                        53.545727
+                    ],
+                    [
+                        9.967603,
+                        53.545364
+                    ],
+                    [
+                        9.967668,
+                        53.545303
+                    ],
+                    [
+                        9.967389,
+                        53.545349
+                    ]
+                ]
+            ]
+        ]
+    }
+}

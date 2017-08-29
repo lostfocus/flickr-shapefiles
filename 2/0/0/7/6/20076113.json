@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20076113,
+    "properties": {
+        "woe_id": 20076113,
+        "place_id": "HsYEVH.bAZxRbkxcOA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monguzzo, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531791,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/20076113_20101216_d443620e27.tar.gz"
+        },
+        "bbox": [
+            9.2283430099487,
+            45.777042388916,
+            9.2340078353882,
+            45.780933380127
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.231262,
+                        45.777882
+                    ],
+                    [
+                        9.230747,
+                        45.777042
+                    ],
+                    [
+                        9.228343,
+                        45.779167
+                    ],
+                    [
+                        9.234008,
+                        45.780933
+                    ],
+                    [
+                        9.231262,
+                        45.777882
+                    ]
+                ]
+            ]
+        ]
+    }
+}

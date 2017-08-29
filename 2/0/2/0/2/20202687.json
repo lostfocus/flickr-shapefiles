@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20202687,
+    "properties": {
+        "woe_id": 20202687,
+        "place_id": "s_pi5nCbAZ5G4KBnRQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Napollon, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441775,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/20202687_20101215_1af76bbc35.tar.gz"
+        },
+        "bbox": [
+            5.5589199066162,
+            43.315746307373,
+            5.5816121101379,
+            43.333854675293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.572772,
+                        43.315746
+                    ],
+                    [
+                        5.55892,
+                        43.322529
+                    ],
+                    [
+                        5.573844,
+                        43.333855
+                    ],
+                    [
+                        5.581612,
+                        43.326706
+                    ],
+                    [
+                        5.581166,
+                        43.318832
+                    ],
+                    [
+                        5.572772,
+                        43.315746
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2355422,
+    "properties": {
+        "woe_id": 2355422,
+        "place_id": "HJutAbybApmC5gCE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ararat, Louisiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234693444,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3472\/shapefiles\/2355422_20090215_53b5341757.tar.gz"
+        },
+        "bbox": [
+            -93.25855255127,
+            30.293497085571,
+            -93.256332397461,
+            30.298240661621
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.257683,
+                        30.293497
+                    ],
+                    [
+                        -93.258324,
+                        30.293959
+                    ],
+                    [
+                        -93.258553,
+                        30.2948
+                    ],
+                    [
+                        -93.256332,
+                        30.298241
+                    ],
+                    [
+                        -93.257683,
+                        30.293497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

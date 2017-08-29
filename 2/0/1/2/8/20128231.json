@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20128231,
+    "properties": {
+        "woe_id": 20128231,
+        "place_id": "x8QO2TabAZ3weKNAMg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Pedraia, Sardinia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234925171,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3364\/shapefiles\/20128231_20090218_ccd6b4edc0.tar.gz"
+        },
+        "bbox": [
+            8.1602659225464,
+            40.784854888916,
+            8.1782913208008,
+            40.792694091797
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.164558,
+                        40.786156
+                    ],
+                    [
+                        8.160266,
+                        40.792694
+                    ],
+                    [
+                        8.172712,
+                        40.787525
+                    ],
+                    [
+                        8.178291,
+                        40.784855
+                    ],
+                    [
+                        8.164558,
+                        40.786156
+                    ]
+                ]
+            ]
+        ]
+    }
+}

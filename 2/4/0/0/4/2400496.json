@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400496,
+    "properties": {
+        "woe_id": 2400496,
+        "place_id": "noPFVWSbBZxVJg5r",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eubank Corner, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529943,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2400496_20101216_4b62938821.tar.gz"
+        },
+        "bbox": [
+            -77.313835144043,
+            38.138000488281,
+            -77.311660766602,
+            38.143863677979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.312004,
+                        38.143864
+                    ],
+                    [
+                        -77.311661,
+                        38.143349
+                    ],
+                    [
+                        -77.313835,
+                        38.138
+                    ],
+                    [
+                        -77.312935,
+                        38.142826
+                    ],
+                    [
+                        -77.312004,
+                        38.143864
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2450016,
+    "properties": {
+        "woe_id": 2450016,
+        "place_id": "1GlFBPybBZnBU21q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Miami, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456764,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2450016_20101215_60fa39aaed.tar.gz"
+        },
+        "bbox": [
+            -93.229637145996,
+            39.325565338135,
+            -93.22566986084,
+            39.332187652588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.228523,
+                        39.325565
+                    ],
+                    [
+                        -93.229637,
+                        39.325832
+                    ],
+                    [
+                        -93.228294,
+                        39.332188
+                    ],
+                    [
+                        -93.22567,
+                        39.327209
+                    ],
+                    [
+                        -93.228523,
+                        39.325565
+                    ]
+                ]
+            ]
+        ]
+    }
+}

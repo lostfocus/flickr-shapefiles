@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20108426,
+    "properties": {
+        "woe_id": 20108426,
+        "place_id": "IN4rzkObAZ0gSZj5Tw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Pietro, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239637207,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3585\/shapefiles\/20108426_20090413_a8b3345561.tar.gz"
+        },
+        "bbox": [
+            7.3405828475952,
+            45.093399047852,
+            7.3505401611328,
+            45.100303649902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.342472,
+                        45.098366
+                    ],
+                    [
+                        7.344102,
+                        45.100304
+                    ],
+                    [
+                        7.35054,
+                        45.095215
+                    ],
+                    [
+                        7.345132,
+                        45.093399
+                    ],
+                    [
+                        7.340583,
+                        45.094669
+                    ],
+                    [
+                        7.342472,
+                        45.098366
+                    ]
+                ]
+            ]
+        ]
+    }
+}

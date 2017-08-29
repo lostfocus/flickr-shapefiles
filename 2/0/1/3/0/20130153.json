@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20130153,
+    "properties": {
+        "woe_id": 20130153,
+        "place_id": "D2z8rpubAZ1G78y4hA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Margreid  an der Weinstrasse, Trentino-Alto Adige, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513823,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/20130153_20101216_faa009beaa.tar.gz"
+        },
+        "bbox": [
+            11.201657295227,
+            46.287052154541,
+            11.211376190186,
+            46.289924621582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.209723,
+                        46.287113
+                    ],
+                    [
+                        11.201657,
+                        46.288052
+                    ],
+                    [
+                        11.20505,
+                        46.289925
+                    ],
+                    [
+                        11.210228,
+                        46.287804
+                    ],
+                    [
+                        11.211376,
+                        46.287052
+                    ],
+                    [
+                        11.209723,
+                        46.287113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

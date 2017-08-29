@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20151198,
+    "properties": {
+        "woe_id": 20151198,
+        "place_id": "7XGBED2bAZ2kB5wXCA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "K\u00e4ttinge, Ostergotland, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459128,
+        "alpha": 0.00015,
+        "points": 29,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/20151198_20101216_0ffc26fa41.tar.gz"
+        },
+        "bbox": [
+            16.708322525024,
+            58.483913421631,
+            16.745567321777,
+            58.504367828369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.728588,
+                        58.486481
+                    ],
+                    [
+                        16.708323,
+                        58.486725
+                    ],
+                    [
+                        16.715569,
+                        58.504368
+                    ],
+                    [
+                        16.724667,
+                        58.495533
+                    ],
+                    [
+                        16.745567,
+                        58.497822
+                    ],
+                    [
+                        16.731897,
+                        58.487301
+                    ],
+                    [
+                        16.731319,
+                        58.483913
+                    ],
+                    [
+                        16.728588,
+                        58.486481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

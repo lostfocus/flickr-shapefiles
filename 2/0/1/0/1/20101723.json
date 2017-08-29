@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20101723,
+    "properties": {
+        "woe_id": 20101723,
+        "place_id": "8J37fKqbAZ1D3jmakg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Finstersee, Canton of Zug, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533442,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/20101723_20101216_0fe85241f4.tar.gz"
+        },
+        "bbox": [
+            8.6431503295898,
+            47.151084899902,
+            8.6491041183472,
+            47.157539367676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.6435,
+                        47.151501
+                    ],
+                    [
+                        8.64315,
+                        47.15237
+                    ],
+                    [
+                        8.64639,
+                        47.154793
+                    ],
+                    [
+                        8.648504,
+                        47.157539
+                    ],
+                    [
+                        8.649104,
+                        47.151085
+                    ],
+                    [
+                        8.6435,
+                        47.151501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

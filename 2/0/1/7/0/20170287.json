@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20170287,
+    "properties": {
+        "woe_id": 20170287,
+        "place_id": "36g8NPCbAZ1Ko6_gzQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "F\u00fcrwiggetalsperre, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502309,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20170287_20101216_bf76b042a6.tar.gz"
+        },
+        "bbox": [
+            7.680408000946,
+            51.145217895508,
+            7.689377784729,
+            51.15221786499
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.689378,
+                        51.147686
+                    ],
+                    [
+                        7.689142,
+                        51.145218
+                    ],
+                    [
+                        7.683997,
+                        51.145618
+                    ],
+                    [
+                        7.680408,
+                        51.152027
+                    ],
+                    [
+                        7.687854,
+                        51.152218
+                    ],
+                    [
+                        7.689378,
+                        51.147686
+                    ]
+                ]
+            ]
+        ]
+    }
+}

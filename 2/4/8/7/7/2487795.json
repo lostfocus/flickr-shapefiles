@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2487795,
+    "properties": {
+        "woe_id": 2487795,
+        "place_id": "FS.cUdSbBZRsH.gN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Antonio, New Mexico, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530510,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2487795_20101216_a931f9ec7e.tar.gz"
+        },
+        "bbox": [
+            -105.22711181641,
+            35.640468597412,
+            -105.2248916626,
+            35.644504547119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.224892,
+                        35.640717
+                    ],
+                    [
+                        -105.225151,
+                        35.640469
+                    ],
+                    [
+                        -105.226181,
+                        35.640644
+                    ],
+                    [
+                        -105.226448,
+                        35.640739
+                    ],
+                    [
+                        -105.227112,
+                        35.644505
+                    ],
+                    [
+                        -105.224892,
+                        35.640717
+                    ]
+                ]
+            ]
+        ]
+    }
+}

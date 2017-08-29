@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20211858,
+    "properties": {
+        "woe_id": 20211858,
+        "place_id": "YleK5oKbAZ6HIOp3.w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Molunes, Franche-Comte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449275,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20211858_20101215_5dd214dc8a.tar.gz"
+        },
+        "bbox": [
+            5.9232301712036,
+            46.340766906738,
+            5.9396982192993,
+            46.345031738281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.928153,
+                        46.340767
+                    ],
+                    [
+                        5.92323,
+                        46.344872
+                    ],
+                    [
+                        5.93296,
+                        46.345032
+                    ],
+                    [
+                        5.93399,
+                        46.344795
+                    ],
+                    [
+                        5.939698,
+                        46.344559
+                    ],
+                    [
+                        5.928153,
+                        46.340767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2500615,
+    "properties": {
+        "woe_id": 2500615,
+        "place_id": "0ty5WKibBJzx2CPU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stout, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522234,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2500615_20101216_fed13562be.tar.gz"
+        },
+        "bbox": [
+            -92.71199798584,
+            42.523334503174,
+            -92.708999633789,
+            42.52766418457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.709503,
+                        42.527664
+                    ],
+                    [
+                        -92.709,
+                        42.525002
+                    ],
+                    [
+                        -92.711502,
+                        42.523335
+                    ],
+                    [
+                        -92.711998,
+                        42.523666
+                    ],
+                    [
+                        -92.711998,
+                        42.526333
+                    ],
+                    [
+                        -92.709663,
+                        42.527664
+                    ],
+                    [
+                        -92.709503,
+                        42.527664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

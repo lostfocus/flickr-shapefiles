@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2409253,
+    "properties": {
+        "woe_id": 2409253,
+        "place_id": "ol00r4ybBZwv29md",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gates Corner, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234635728,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3465\/shapefiles\/2409253_20090214_6df43e90bc.tar.gz"
+        },
+        "bbox": [
+            -87.150817871094,
+            41.439338684082,
+            -87.146598815918,
+            41.442470550537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.150818,
+                        41.439953
+                    ],
+                    [
+                        -87.146599,
+                        41.442471
+                    ],
+                    [
+                        -87.148788,
+                        41.439503
+                    ],
+                    [
+                        -87.150574,
+                        41.439339
+                    ],
+                    [
+                        -87.150818,
+                        41.439953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

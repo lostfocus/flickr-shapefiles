@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407807,
+    "properties": {
+        "woe_id": 2407807,
+        "place_id": "oYohR8ObBZyxHrOD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Frizzellburg, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469246,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2407807_20101216_276e35ee65.tar.gz"
+        },
+        "bbox": [
+            -77.064796447754,
+            39.605026245117,
+            -77.054672241211,
+            39.608863830566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.055962,
+                        39.606316
+                    ],
+                    [
+                        -77.058792,
+                        39.605026
+                    ],
+                    [
+                        -77.064796,
+                        39.605145
+                    ],
+                    [
+                        -77.058617,
+                        39.608864
+                    ],
+                    [
+                        -77.054672,
+                        39.608696
+                    ],
+                    [
+                        -77.055962,
+                        39.606316
+                    ]
+                ]
+            ]
+        ]
+    }
+}

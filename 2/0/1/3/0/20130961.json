@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20130961,
+    "properties": {
+        "woe_id": 20130961,
+        "place_id": "FIEw1pebAZ3UjbP73w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Maserada sul Piave, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457263,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/20130961_20101215_ca8244362d.tar.gz"
+        },
+        "bbox": [
+            12.314043045044,
+            45.737339019775,
+            12.318978309631,
+            45.738117218018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.318978,
+                        45.738117
+                    ],
+                    [
+                        12.318205,
+                        45.73761
+                    ],
+                    [
+                        12.315244,
+                        45.737339
+                    ],
+                    [
+                        12.314043,
+                        45.737354
+                    ],
+                    [
+                        12.316617,
+                        45.737667
+                    ],
+                    [
+                        12.318978,
+                        45.738117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

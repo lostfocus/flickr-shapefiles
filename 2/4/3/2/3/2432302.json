@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432302,
+    "properties": {
+        "woe_id": 2432302,
+        "place_id": "cvxqtk2bBZ91qe7a",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kilmanagh, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533288,
+        "alpha": 0.00015,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2432302_20101216_705e31a620.tar.gz"
+        },
+        "bbox": [
+            -83.360305786133,
+            43.755737304688,
+            -83.356170654297,
+            43.758594512939
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.356735,
+                        43.756325
+                    ],
+                    [
+                        -83.356171,
+                        43.755737
+                    ],
+                    [
+                        -83.358849,
+                        43.756481
+                    ],
+                    [
+                        -83.360306,
+                        43.758595
+                    ],
+                    [
+                        -83.356842,
+                        43.756435
+                    ],
+                    [
+                        -83.356735,
+                        43.756325
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2521673,
+    "properties": {
+        "woe_id": 2521673,
+        "place_id": "5VttiBWbBJ6goZhN",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Winchester, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234491242,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3442\/shapefiles\/2521673_20090213_47db6a5ee0.tar.gz"
+        },
+        "bbox": [
+            -76.495643615723,
+            39.012432098389,
+            -76.495506286621,
+            39.015853881836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.495567,
+                        39.015854
+                    ],
+                    [
+                        -76.495506,
+                        39.015617
+                    ],
+                    [
+                        -76.495644,
+                        39.012432
+                    ],
+                    [
+                        -76.495567,
+                        39.015572
+                    ],
+                    [
+                        -76.495567,
+                        39.015854
+                    ]
+                ]
+            ]
+        ]
+    }
+}

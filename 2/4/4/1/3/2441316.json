@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2441316,
+    "properties": {
+        "woe_id": 2441316,
+        "place_id": "OiN4A9ebBZggRsJy",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Londontown Terrace, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525530,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2441316_20101216_0f4f06bbb0.tar.gz"
+        },
+        "bbox": [
+            -76.545509338379,
+            38.933292388916,
+            -76.540718078613,
+            38.938056945801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.541031,
+                        38.935097
+                    ],
+                    [
+                        -76.540718,
+                        38.933292
+                    ],
+                    [
+                        -76.544968,
+                        38.933819
+                    ],
+                    [
+                        -76.545509,
+                        38.933846
+                    ],
+                    [
+                        -76.542206,
+                        38.938057
+                    ],
+                    [
+                        -76.541031,
+                        38.935097
+                    ]
+                ]
+            ]
+        ]
+    }
+}

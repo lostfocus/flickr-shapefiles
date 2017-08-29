@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20076973,
+    "properties": {
+        "woe_id": 20076973,
+        "place_id": "7EHgNDybAZzUrw6ELA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Statte, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529428,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/20076973_20101216_93e0881978.tar.gz"
+        },
+        "bbox": [
+            17.307662963867,
+            40.596755981445,
+            17.307863235474,
+            40.596946716309
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.307688,
+                        40.596924
+                    ],
+                    [
+                        17.307863,
+                        40.596756
+                    ],
+                    [
+                        17.307713,
+                        40.596897
+                    ],
+                    [
+                        17.307663,
+                        40.596947
+                    ],
+                    [
+                        17.307688,
+                        40.596924
+                    ]
+                ]
+            ]
+        ]
+    }
+}

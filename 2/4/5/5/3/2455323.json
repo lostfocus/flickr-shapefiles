@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2455323,
+    "properties": {
+        "woe_id": 2455323,
+        "place_id": "HZ6GKL2bBZn_Mv2a",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mount Pleasant, North Carolina, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234488364,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3389\/shapefiles\/2455323_20090213_31b171902b.tar.gz"
+        },
+        "bbox": [
+            -78.116683959961,
+            35.8251953125,
+            -78.115745544434,
+            35.825569152832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.11615,
+                        35.825336
+                    ],
+                    [
+                        -78.116684,
+                        35.825195
+                    ],
+                    [
+                        -78.116669,
+                        35.825569
+                    ],
+                    [
+                        -78.115746,
+                        35.825466
+                    ],
+                    [
+                        -78.11615,
+                        35.825336
+                    ]
+                ]
+            ]
+        ]
+    }
+}

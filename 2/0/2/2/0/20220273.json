@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220273,
+    "properties": {
+        "woe_id": 20220273,
+        "place_id": "EcWx.lybAZ4lOBNvJg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "S'hort De La Plana, Balearic Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471587,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/20220273_20101216_8429033c97.tar.gz"
+        },
+        "bbox": [
+            1.3552659749985,
+            39.016250610352,
+            1.3642469644547,
+            39.021640777588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.362819,
+                        39.019318
+                    ],
+                    [
+                        1.355266,
+                        39.016251
+                    ],
+                    [
+                        1.362819,
+                        39.021641
+                    ],
+                    [
+                        1.363977,
+                        39.021465
+                    ],
+                    [
+                        1.364247,
+                        39.021286
+                    ],
+                    [
+                        1.362819,
+                        39.019318
+                    ]
+                ]
+            ]
+        ]
+    }
+}

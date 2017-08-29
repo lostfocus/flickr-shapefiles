@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20120168,
+    "properties": {
+        "woe_id": 20120168,
+        "place_id": "hWBaJDGbAZ04FheBHA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chiaicis, Friuli-Venezia Giulia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449179,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20120168_20101215_8ebbb7b5db.tar.gz"
+        },
+        "bbox": [
+            12.972792625427,
+            46.37854385376,
+            12.980259895325,
+            46.381160736084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.974209,
+                        46.379444
+                    ],
+                    [
+                        12.972793,
+                        46.380508
+                    ],
+                    [
+                        12.97348,
+                        46.381042
+                    ],
+                    [
+                        12.98026,
+                        46.381161
+                    ],
+                    [
+                        12.979531,
+                        46.378544
+                    ],
+                    [
+                        12.975883,
+                        46.379253
+                    ],
+                    [
+                        12.974209,
+                        46.379444
+                    ]
+                ]
+            ]
+        ]
+    }
+}

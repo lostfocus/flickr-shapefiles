@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 28745485,
+    "properties": {
+        "woe_id": 28745485,
+        "place_id": "9YHIz76bCZtePuxDCQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moore, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544917,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/28745485_20101217_d4562dcbbd.tar.gz"
+        },
+        "bbox": [
+            -75.437324523926,
+            40.75756072998,
+            -75.421485900879,
+            40.794319152832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.434631,
+                        40.757561
+                    ],
+                    [
+                        -75.434647,
+                        40.757622
+                    ],
+                    [
+                        -75.437325,
+                        40.777794
+                    ],
+                    [
+                        -75.430672,
+                        40.788242
+                    ],
+                    [
+                        -75.425865,
+                        40.794319
+                    ],
+                    [
+                        -75.421486,
+                        40.776871
+                    ],
+                    [
+                        -75.434334,
+                        40.757778
+                    ],
+                    [
+                        -75.434631,
+                        40.757561
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20130324,
+    "properties": {
+        "woe_id": 20130324,
+        "place_id": "LrnxB1ObAZ0ZcAXInw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Malvaglio, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234661410,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3461\/shapefiles\/20130324_20090215_91362e7d10.tar.gz"
+        },
+        "bbox": [
+            8.7718744277954,
+            45.493232727051,
+            8.7828817367554,
+            45.506946563721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.782882,
+                        45.499126
+                    ],
+                    [
+                        8.778934,
+                        45.493233
+                    ],
+                    [
+                        8.771874,
+                        45.494194
+                    ],
+                    [
+                        8.772583,
+                        45.506947
+                    ],
+                    [
+                        8.782882,
+                        45.499126
+                    ]
+                ]
+            ]
+        ]
+    }
+}

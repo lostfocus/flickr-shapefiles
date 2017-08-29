@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2452822,
+    "properties": {
+        "woe_id": 2452822,
+        "place_id": "TTN5ZVmbBZlV7B1N",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monaca, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451845,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2452822_20101215_f09908e1c0.tar.gz"
+        },
+        "bbox": [
+            -80.291175842285,
+            40.691310882568,
+            -80.265937805176,
+            40.694339752197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.280762,
+                        40.691727
+                    ],
+                    [
+                        -80.265938,
+                        40.69434
+                    ],
+                    [
+                        -80.280182,
+                        40.691311
+                    ],
+                    [
+                        -80.291176,
+                        40.693069
+                    ],
+                    [
+                        -80.280762,
+                        40.691727
+                    ]
+                ]
+            ]
+        ]
+    }
+}

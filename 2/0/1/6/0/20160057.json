@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20160057,
+    "properties": {
+        "woe_id": 20160057,
+        "place_id": "W7c9pRGbAZ1jo8rdvg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hausen, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445584,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/20160057_20101215_414aabaf2b.tar.gz"
+        },
+        "bbox": [
+            9.0275001525879,
+            48.082332611084,
+            9.0438499450684,
+            48.0908203125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.038057,
+                        48.09082
+                    ],
+                    [
+                        9.04385,
+                        48.087368
+                    ],
+                    [
+                        9.038915,
+                        48.084846
+                    ],
+                    [
+                        9.0275,
+                        48.082333
+                    ],
+                    [
+                        9.031534,
+                        48.084957
+                    ],
+                    [
+                        9.038057,
+                        48.09082
+                    ]
+                ]
+            ]
+        ]
+    }
+}

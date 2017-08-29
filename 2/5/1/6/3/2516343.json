@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2516343,
+    "properties": {
+        "woe_id": 2516343,
+        "place_id": "98tcHFubBJ2ou0yD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wellsdale, Oregon, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234678328,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3192\/shapefiles\/2516343_20090215_b450cfddfe.tar.gz"
+        },
+        "bbox": [
+            -123.18270111084,
+            44.718898773193,
+            -123.18167114258,
+            44.723686218262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -123.181717,
+                        44.721977
+                    ],
+                    [
+                        -123.181671,
+                        44.720303
+                    ],
+                    [
+                        -123.182426,
+                        44.718899
+                    ],
+                    [
+                        -123.182701,
+                        44.723686
+                    ],
+                    [
+                        -123.181717,
+                        44.721977
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26809922,
+    "properties": {
+        "woe_id": 26809922,
+        "place_id": "X.Xa7mibB5T5ZW.bUg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dr. Miguel Egas Cabezas, Ecuador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550267,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/26809922_20101217_4336164c9e.tar.gz"
+        },
+        "bbox": [
+            -78.182655334473,
+            0.25722399353981,
+            -78.179054260254,
+            0.26040899753571
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.179054,
+                        0.257405
+                    ],
+                    [
+                        -78.17923,
+                        0.257224
+                    ],
+                    [
+                        -78.179909,
+                        0.258006
+                    ],
+                    [
+                        -78.182655,
+                        0.260409
+                    ],
+                    [
+                        -78.179489,
+                        0.258076
+                    ],
+                    [
+                        -78.179054,
+                        0.257405
+                    ]
+                ]
+            ]
+        ]
+    }
+}

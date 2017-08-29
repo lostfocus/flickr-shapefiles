@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2008260,
+    "properties": {
+        "woe_id": 2008260,
+        "place_id": ".7fLPSibAZxw0BCv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gorbunki, St. Peterburg, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500082,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2008260_20101216_1bb76f1b2e.tar.gz"
+        },
+        "bbox": [
+            29.985851287842,
+            59.860515594482,
+            30.000658035278,
+            59.864570617676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        29.994993,
+                        59.864571
+                    ],
+                    [
+                        29.99761,
+                        59.864319
+                    ],
+                    [
+                        30.000658,
+                        59.863522
+                    ],
+                    [
+                        29.996023,
+                        59.861454
+                    ],
+                    [
+                        29.993641,
+                        59.860516
+                    ],
+                    [
+                        29.985851,
+                        59.864029
+                    ],
+                    [
+                        29.994993,
+                        59.864571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

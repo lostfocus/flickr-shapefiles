@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23416962,
+    "properties": {
+        "woe_id": 23416962,
+        "place_id": "qr6m0WibAphI0kYsxQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brant, Alberta, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488684,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/23416962_20101216_3a7d050621.tar.gz"
+        },
+        "bbox": [
+            -113.51245880127,
+            50.517681121826,
+            -113.50730895996,
+            50.521995544434
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -113.512199,
+                        50.518528
+                    ],
+                    [
+                        -113.512459,
+                        50.519375
+                    ],
+                    [
+                        -113.507309,
+                        50.521996
+                    ],
+                    [
+                        -113.508339,
+                        50.517681
+                    ],
+                    [
+                        -113.510223,
+                        50.517982
+                    ],
+                    [
+                        -113.512199,
+                        50.518528
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425998,
+    "properties": {
+        "woe_id": 2425998,
+        "place_id": "fkLOEhqbBZ6eLOdG",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Huntsville, Ohio, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539802,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2425998_20101216_6d38301c3f.tar.gz"
+        },
+        "bbox": [
+            -83.807655334473,
+            40.411403656006,
+            -83.791351318359,
+            40.416698455811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.807144,
+                        40.414673
+                    ],
+                    [
+                        -83.807655,
+                        40.414932
+                    ],
+                    [
+                        -83.804565,
+                        40.416698
+                    ],
+                    [
+                        -83.791351,
+                        40.411404
+                    ],
+                    [
+                        -83.803024,
+                        40.413563
+                    ],
+                    [
+                        -83.807144,
+                        40.414673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

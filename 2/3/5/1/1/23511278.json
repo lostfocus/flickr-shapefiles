@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 23511278,
+    "properties": {
+        "woe_id": 23511278,
+        "place_id": "XT2vtd2bApnwvlCD8Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Center Square, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525495,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/23511278_20101216_b04c292f76.tar.gz"
+        },
+        "bbox": [
+            -75.303329467773,
+            40.160213470459,
+            -75.284797668457,
+            40.173645019531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.288795,
+                        40.165813
+                    ],
+                    [
+                        -75.295273,
+                        40.160213
+                    ],
+                    [
+                        -75.30098,
+                        40.163265
+                    ],
+                    [
+                        -75.303329,
+                        40.17033
+                    ],
+                    [
+                        -75.301407,
+                        40.173645
+                    ],
+                    [
+                        -75.288857,
+                        40.170151
+                    ],
+                    [
+                        -75.284798,
+                        40.168774
+                    ],
+                    [
+                        -75.288795,
+                        40.165813
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20151055,
+    "properties": {
+        "woe_id": 20151055,
+        "place_id": "tcQ3iAubAZ3tTZUZ5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gudo, Stockholm, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524632,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/20151055_20101216_46fb1df3c8.tar.gz"
+        },
+        "bbox": [
+            18.193874359131,
+            59.204334259033,
+            18.211250305176,
+            59.220012664795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.194332,
+                        59.217999
+                    ],
+                    [
+                        18.193874,
+                        59.220013
+                    ],
+                    [
+                        18.205503,
+                        59.211849
+                    ],
+                    [
+                        18.21125,
+                        59.211929
+                    ],
+                    [
+                        18.199833,
+                        59.204498
+                    ],
+                    [
+                        18.199165,
+                        59.204334
+                    ],
+                    [
+                        18.194332,
+                        59.217999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

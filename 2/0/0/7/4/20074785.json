@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20074785,
+    "properties": {
+        "woe_id": 20074785,
+        "place_id": "nVCzfImbAZxSTA7Rzw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste.-Marie-du-Mont, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547518,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/20074785_20101217_1f203752f7.tar.gz"
+        },
+        "bbox": [
+            -1.226734995842,
+            49.38907623291,
+            -1.2205120325089,
+            49.391536712646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.226735,
+                        49.39106
+                    ],
+                    [
+                        -1.224632,
+                        49.391033
+                    ],
+                    [
+                        -1.223216,
+                        49.391537
+                    ],
+                    [
+                        -1.220512,
+                        49.389076
+                    ],
+                    [
+                        -1.225576,
+                        49.389832
+                    ],
+                    [
+                        -1.226735,
+                        49.39106
+                    ]
+                ]
+            ]
+        ]
+    }
+}

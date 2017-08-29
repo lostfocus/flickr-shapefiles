@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23394540,
+    "properties": {
+        "woe_id": 23394540,
+        "place_id": "eZUys8qbAp9Lzovy4w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste.-M\u00e9lanie, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488683,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/23394540_20101216_8a2674882e.tar.gz"
+        },
+        "bbox": [
+            -73.514228820801,
+            46.133739471436,
+            -73.498962402344,
+            46.143268585205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.514229,
+                        46.133739
+                    ],
+                    [
+                        -73.512299,
+                        46.134781
+                    ],
+                    [
+                        -73.498962,
+                        46.143269
+                    ],
+                    [
+                        -73.512085,
+                        46.134556
+                    ],
+                    [
+                        -73.514229,
+                        46.133739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

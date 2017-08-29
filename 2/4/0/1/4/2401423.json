@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401423,
+    "properties": {
+        "woe_id": 2401423,
+        "place_id": "VnRPd42bBZw4lubS",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fairfield, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444683,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2401423_20101215_30f6006a0b.tar.gz"
+        },
+        "bbox": [
+            -117.1753692627,
+            47.373447418213,
+            -117.1720199585,
+            47.386001586914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.173134,
+                        47.386002
+                    ],
+                    [
+                        -117.17202,
+                        47.385506
+                    ],
+                    [
+                        -117.172447,
+                        47.38504
+                    ],
+                    [
+                        -117.175369,
+                        47.373447
+                    ],
+                    [
+                        -117.17511,
+                        47.385826
+                    ],
+                    [
+                        -117.173134,
+                        47.386002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

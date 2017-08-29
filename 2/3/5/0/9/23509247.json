@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23509247,
+    "properties": {
+        "woe_id": 23509247,
+        "place_id": "zTOm8xybApnfbbi6rg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Etters, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551368,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/23509247_20101217_e1b9ca9759.tar.gz"
+        },
+        "bbox": [
+            -76.843444824219,
+            40.148700714111,
+            -76.819236755371,
+            40.171463012695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.827736,
+                        40.153229
+                    ],
+                    [
+                        -76.843445,
+                        40.171463
+                    ],
+                    [
+                        -76.825333,
+                        40.155785
+                    ],
+                    [
+                        -76.820015,
+                        40.153542
+                    ],
+                    [
+                        -76.819237,
+                        40.148701
+                    ],
+                    [
+                        -76.827736,
+                        40.153229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

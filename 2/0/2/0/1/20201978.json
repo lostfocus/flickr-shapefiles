@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20201978,
+    "properties": {
+        "woe_id": 20201978,
+        "place_id": "r5EHvXmbAZ5DDcKnIQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Suare, Corsica, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457312,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20201978_20101215_1040ccc958.tar.gz"
+        },
+        "bbox": [
+            8.7727537155151,
+            42.483112335205,
+            8.8048028945923,
+            42.495895385742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.804803,
+                        42.487206
+                    ],
+                    [
+                        8.79277,
+                        42.487797
+                    ],
+                    [
+                        8.772754,
+                        42.483112
+                    ],
+                    [
+                        8.784942,
+                        42.495644
+                    ],
+                    [
+                        8.801078,
+                        42.495895
+                    ],
+                    [
+                        8.804803,
+                        42.487206
+                    ]
+                ]
+            ]
+        ]
+    }
+}

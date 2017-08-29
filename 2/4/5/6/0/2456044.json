@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2456044,
+    "properties": {
+        "woe_id": 2456044,
+        "place_id": "ikBA0VWbBZmSkl9F",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mowersville, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519936,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2456044_20101216_3396a717f7.tar.gz"
+        },
+        "bbox": [
+            -77.571197509766,
+            40.096702575684,
+            -77.566993713379,
+            40.11060333252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.571198,
+                        40.096722
+                    ],
+                    [
+                        -77.571159,
+                        40.09705
+                    ],
+                    [
+                        -77.566994,
+                        40.110603
+                    ],
+                    [
+                        -77.570969,
+                        40.096901
+                    ],
+                    [
+                        -77.57103,
+                        40.096703
+                    ],
+                    [
+                        -77.571198,
+                        40.096722
+                    ]
+                ]
+            ]
+        ]
+    }
+}

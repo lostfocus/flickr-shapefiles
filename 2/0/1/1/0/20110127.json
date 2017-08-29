@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20110127,
+    "properties": {
+        "woe_id": 20110127,
+        "place_id": "wKIujD6bAZ3F3DJU6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arpy, Valle d'Aosta, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526800,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/20110127_20101216_a28d22b837.tar.gz"
+        },
+        "bbox": [
+            6.9886770248413,
+            45.739734649658,
+            7.0114979743958,
+            45.751113891602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.011498,
+                        45.74847
+                    ],
+                    [
+                        7.011337,
+                        45.746593
+                    ],
+                    [
+                        7.010908,
+                        45.742371
+                    ],
+                    [
+                        7.002754,
+                        45.739735
+                    ],
+                    [
+                        6.988677,
+                        45.747162
+                    ],
+                    [
+                        7.002067,
+                        45.751114
+                    ],
+                    [
+                        7.011498,
+                        45.74847
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20116111,
+    "properties": {
+        "woe_id": 20116111,
+        "place_id": "0iIl7BGbAZ2dFyWdlQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Casa del Diavolo, Umbria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530119,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20116111_20101216_c4dffe2a59.tar.gz"
+        },
+        "bbox": [
+            12.443002700806,
+            43.181831359863,
+            12.456666946411,
+            43.19059753418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.456333,
+                        43.181831
+                    ],
+                    [
+                        12.443003,
+                        43.182678
+                    ],
+                    [
+                        12.443647,
+                        43.190598
+                    ],
+                    [
+                        12.4565,
+                        43.181999
+                    ],
+                    [
+                        12.456667,
+                        43.181999
+                    ],
+                    [
+                        12.4565,
+                        43.181831
+                    ],
+                    [
+                        12.456333,
+                        43.181831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

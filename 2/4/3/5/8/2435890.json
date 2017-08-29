@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2435890,
+    "properties": {
+        "woe_id": 2435890,
+        "place_id": "5PtE44WbBZ8jiAfo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lamartine, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239678606,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3645\/shapefiles\/2435890_20090414_37d2c12576.tar.gz"
+        },
+        "bbox": [
+            -79.661689758301,
+            41.208717346191,
+            -79.65111541748,
+            41.210834503174
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.66169,
+                        41.209621
+                    ],
+                    [
+                        -79.66169,
+                        41.209686
+                    ],
+                    [
+                        -79.651115,
+                        41.210835
+                    ],
+                    [
+                        -79.661263,
+                        41.208717
+                    ],
+                    [
+                        -79.66169,
+                        41.209621
+                    ]
+                ]
+            ]
+        ]
+    }
+}

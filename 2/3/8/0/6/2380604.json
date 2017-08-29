@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2380604,
+    "properties": {
+        "woe_id": 2380604,
+        "place_id": "oxD.TKibApRqVPQ6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Claraville, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477167,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2380604_20101216_b78687bb92.tar.gz"
+        },
+        "bbox": [
+            -118.30628204346,
+            35.663082122803,
+            -118.30360412598,
+            35.669002532959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.306282,
+                        35.667206
+                    ],
+                    [
+                        -118.304985,
+                        35.669003
+                    ],
+                    [
+                        -118.303604,
+                        35.666534
+                    ],
+                    [
+                        -118.304901,
+                        35.663082
+                    ],
+                    [
+                        -118.306274,
+                        35.665279
+                    ],
+                    [
+                        -118.306282,
+                        35.667206
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23401816,
+    "properties": {
+        "woe_id": 23401816,
+        "place_id": "uPsDljybApjNGQzg5Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Claude, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247941337,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2670\/shapefiles\/23401816_20090718_6164d1bba3.tar.gz"
+        },
+        "bbox": [
+            -98.345573425293,
+            49.656814575195,
+            -98.339027404785,
+            49.665794372559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.339394,
+                        49.662071
+                    ],
+                    [
+                        -98.339027,
+                        49.656815
+                    ],
+                    [
+                        -98.345573,
+                        49.657516
+                    ],
+                    [
+                        -98.343941,
+                        49.665794
+                    ],
+                    [
+                        -98.339394,
+                        49.662071
+                    ]
+                ]
+            ]
+        ]
+    }
+}

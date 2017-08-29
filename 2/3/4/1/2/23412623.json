@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23412623,
+    "properties": {
+        "woe_id": 23412623,
+        "place_id": "lIEpaP6bAphtSWB4cQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Serroni, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234531923,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3411\/shapefiles\/23412623_20090213_384c55787f.tar.gz"
+        },
+        "bbox": [
+            14.767769813538,
+            40.911632537842,
+            14.774689674377,
+            40.914810180664
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.76777,
+                        40.91481
+                    ],
+                    [
+                        14.77469,
+                        40.911697
+                    ],
+                    [
+                        14.774208,
+                        40.911633
+                    ],
+                    [
+                        14.770492,
+                        40.911667
+                    ],
+                    [
+                        14.76777,
+                        40.91481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

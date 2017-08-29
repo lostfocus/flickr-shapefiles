@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2405280,
+    "properties": {
+        "woe_id": 2405280,
+        "place_id": "7iPd1rybBZyRDjLv",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forest Lake, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234880407,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3628\/shapefiles\/2405280_20090217_a4e1726fa3.tar.gz"
+        },
+        "bbox": [
+            -122.717628479,
+            38.821739196777,
+            -122.71157073975,
+            38.822082519531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.711891,
+                        38.821739
+                    ],
+                    [
+                        -122.717628,
+                        38.821762
+                    ],
+                    [
+                        -122.711731,
+                        38.822083
+                    ],
+                    [
+                        -122.711571,
+                        38.821896
+                    ],
+                    [
+                        -122.711891,
+                        38.821739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

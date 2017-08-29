@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499000,
+    "properties": {
+        "woe_id": 2499000,
+        "place_id": "piOAYoabBZUgoToL",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stanleytown, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532558,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2499000_20101216_239aca6b2d.tar.gz"
+        },
+        "bbox": [
+            -79.956962585449,
+            36.742599487305,
+            -79.937362670898,
+            36.755897521973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.942963,
+                        36.742874
+                    ],
+                    [
+                        -79.956963,
+                        36.755112
+                    ],
+                    [
+                        -79.937386,
+                        36.755898
+                    ],
+                    [
+                        -79.937363,
+                        36.746071
+                    ],
+                    [
+                        -79.937553,
+                        36.742599
+                    ],
+                    [
+                        -79.942963,
+                        36.742874
+                    ]
+                ]
+            ]
+        ]
+    }
+}

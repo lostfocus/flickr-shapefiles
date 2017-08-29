@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20202751,
+    "properties": {
+        "woe_id": 20202751,
+        "place_id": "1ICQcG.bAZ6g_N1IBQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Massane, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234671371,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3517\/shapefiles\/20202751_20090215_4dc64a2bc3.tar.gz"
+        },
+        "bbox": [
+            5.0136380195618,
+            43.453300476074,
+            5.0141320228577,
+            43.455043792725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.014003,
+                        43.455044
+                    ],
+                    [
+                        5.014132,
+                        43.453892
+                    ],
+                    [
+                        5.014024,
+                        43.453705
+                    ],
+                    [
+                        5.013638,
+                        43.4533
+                    ],
+                    [
+                        5.014003,
+                        43.455044
+                    ]
+                ]
+            ]
+        ]
+    }
+}

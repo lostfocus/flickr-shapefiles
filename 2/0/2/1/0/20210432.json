@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20210432,
+    "properties": {
+        "woe_id": 20210432,
+        "place_id": "EqaYBPebAZ78npWyQA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Corbier, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449799,
+        "alpha": 0.00015,
+        "points": 26,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/20210432_20101215_4c07c05ae5.tar.gz"
+        },
+        "bbox": [
+            6.2628931999207,
+            45.235492706299,
+            6.2746520042419,
+            45.243106842041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.272946,
+                        45.240456
+                    ],
+                    [
+                        6.274652,
+                        45.238152
+                    ],
+                    [
+                        6.2677,
+                        45.235493
+                    ],
+                    [
+                        6.262893,
+                        45.235973
+                    ],
+                    [
+                        6.264095,
+                        45.241837
+                    ],
+                    [
+                        6.266326,
+                        45.243107
+                    ],
+                    [
+                        6.270103,
+                        45.242744
+                    ],
+                    [
+                        6.272946,
+                        45.240456
+                    ]
+                ]
+            ]
+        ]
+    }
+}

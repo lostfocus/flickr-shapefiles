@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20222249,
+    "properties": {
+        "woe_id": 20222249,
+        "place_id": "C6WIS_2bAZ6LUjRz7A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cotos de Monterrey, Madrid, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517810,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/20222249_20101216_ecb5640868.tar.gz"
+        },
+        "bbox": [
+            -3.6222259998322,
+            40.775211334229,
+            -3.6048030853271,
+            40.797409057617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.622226,
+                        40.775211
+                    ],
+                    [
+                        -3.611068,
+                        40.77742
+                    ],
+                    [
+                        -3.612871,
+                        40.781597
+                    ],
+                    [
+                        -3.605661,
+                        40.797409
+                    ],
+                    [
+                        -3.604803,
+                        40.796143
+                    ],
+                    [
+                        -3.612871,
+                        40.781597
+                    ],
+                    [
+                        -3.611068,
+                        40.77742
+                    ],
+                    [
+                        -3.622226,
+                        40.775211
+                    ]
+                ]
+            ]
+        ]
+    }
+}

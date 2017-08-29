@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2361911,
+    "properties": {
+        "woe_id": 2361911,
+        "place_id": "m3arHmWbAppkDSlu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bellefontaine, Mississippi, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234891809,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3355\/shapefiles\/2361911_20090217_50287a8aca.tar.gz"
+        },
+        "bbox": [
+            -89.311637878418,
+            33.648628234863,
+            -89.30094909668,
+            33.668853759766
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.310349,
+                        33.648781
+                    ],
+                    [
+                        -89.311516,
+                        33.648628
+                    ],
+                    [
+                        -89.311638,
+                        33.648888
+                    ],
+                    [
+                        -89.300949,
+                        33.668854
+                    ],
+                    [
+                        -89.310349,
+                        33.648781
+                    ]
+                ]
+            ]
+        ]
+    }
+}

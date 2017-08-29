@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2520267,
+    "properties": {
+        "woe_id": 2520267,
+        "place_id": "lBC9owubBJ7wOyk3",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wilbur, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234593008,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3399\/shapefiles\/2520267_20090214_986231c7bf.tar.gz"
+        },
+        "bbox": [
+            -86.50594329834,
+            39.481552124023,
+            -86.491897583008,
+            39.516300201416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.505943,
+                        39.497856
+                    ],
+                    [
+                        -86.494339,
+                        39.5163
+                    ],
+                    [
+                        -86.491898,
+                        39.501942
+                    ],
+                    [
+                        -86.493088,
+                        39.481552
+                    ],
+                    [
+                        -86.505943,
+                        39.497856
+                    ]
+                ]
+            ]
+        ]
+    }
+}

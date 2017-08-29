@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2441246,
+    "properties": {
+        "woe_id": 2441246,
+        "place_id": "ni9cZ1ObBZgOhaiD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lombard, Montana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456726,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2441246_20101215_7a1590286b.tar.gz"
+        },
+        "bbox": [
+            -111.42078399658,
+            46.105926513672,
+            -111.39308166504,
+            46.12621307373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.399673,
+                        46.106655
+                    ],
+                    [
+                        -111.393082,
+                        46.126213
+                    ],
+                    [
+                        -111.395447,
+                        46.107735
+                    ],
+                    [
+                        -111.400162,
+                        46.105927
+                    ],
+                    [
+                        -111.420784,
+                        46.109154
+                    ],
+                    [
+                        -111.399673,
+                        46.106655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

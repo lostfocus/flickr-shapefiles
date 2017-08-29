@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20210365,
+    "properties": {
+        "woe_id": 20210365,
+        "place_id": "eA9glTWbAZ5FGf5NiA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Staint-Pierre d'Extravache, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544381,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20210365_20101217_c0513e1a5b.tar.gz"
+        },
+        "bbox": [
+            6.7976608276367,
+            45.209495544434,
+            6.8255558013916,
+            45.22331237793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.805815,
+                        45.220078
+                    ],
+                    [
+                        6.825556,
+                        45.223312
+                    ],
+                    [
+                        6.822338,
+                        45.209496
+                    ],
+                    [
+                        6.802039,
+                        45.210041
+                    ],
+                    [
+                        6.797661,
+                        45.222614
+                    ],
+                    [
+                        6.805815,
+                        45.220078
+                    ]
+                ]
+            ]
+        ]
+    }
+}

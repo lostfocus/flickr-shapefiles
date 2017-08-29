@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2374113,
+    "properties": {
+        "woe_id": 2374113,
+        "place_id": "b.qT2JubApvLC0gR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Camptown, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500209,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2374113_20101216_e9f418ee40.tar.gz"
+        },
+        "bbox": [
+            -76.299362182617,
+            41.731353759766,
+            -76.297302246094,
+            41.735454559326
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.297989,
+                        41.733147
+                    ],
+                    [
+                        -76.299362,
+                        41.735455
+                    ],
+                    [
+                        -76.297989,
+                        41.734684
+                    ],
+                    [
+                        -76.297302,
+                        41.733402
+                    ],
+                    [
+                        -76.297302,
+                        41.731354
+                    ],
+                    [
+                        -76.297989,
+                        41.733147
+                    ]
+                ]
+            ]
+        ]
+    }
+}

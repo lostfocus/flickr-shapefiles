@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2524824,
+    "properties": {
+        "woe_id": 2524824,
+        "place_id": "oj3czaibBJ5c4eQ_",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "York, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234524724,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3527\/shapefiles\/2524824_20090213_d163c01330.tar.gz"
+        },
+        "bbox": [
+            -83.408760070801,
+            34.931735992432,
+            -83.390434265137,
+            34.949974060059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.390434,
+                        34.936131
+                    ],
+                    [
+                        -83.401581,
+                        34.931736
+                    ],
+                    [
+                        -83.40876,
+                        34.937031
+                    ],
+                    [
+                        -83.394127,
+                        34.949974
+                    ],
+                    [
+                        -83.390434,
+                        34.936131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

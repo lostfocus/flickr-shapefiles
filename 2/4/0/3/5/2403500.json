@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2403500,
+    "properties": {
+        "woe_id": 2403500,
+        "place_id": "WBu8SFCbBZyjC5bO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fir Grove, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247854330,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2566\/shapefiles\/2403500_20090717_e099c15299.tar.gz"
+        },
+        "bbox": [
+            -116.91049194336,
+            47.883396148682,
+            -116.90933990479,
+            47.893360137939
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.909538,
+                        47.89336
+                    ],
+                    [
+                        -116.90934,
+                        47.892799
+                    ],
+                    [
+                        -116.910492,
+                        47.883396
+                    ],
+                    [
+                        -116.909775,
+                        47.89323
+                    ],
+                    [
+                        -116.909538,
+                        47.89336
+                    ]
+                ]
+            ]
+        ]
+    }
+}

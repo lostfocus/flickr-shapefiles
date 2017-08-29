@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220239,
+    "properties": {
+        "woe_id": 20220239,
+        "place_id": "Q11PBMWbAZ5CLxxJPw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. Agusti de Vedra, Balearic Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457385,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/20220239_20101215_f2113ac527.tar.gz"
+        },
+        "bbox": [
+            1.2931250333786,
+            38.939785003662,
+            1.297415971756,
+            38.948310852051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.293833,
+                        38.940563
+                    ],
+                    [
+                        1.293125,
+                        38.941521
+                    ],
+                    [
+                        1.29364,
+                        38.943256
+                    ],
+                    [
+                        1.293768,
+                        38.948311
+                    ],
+                    [
+                        1.297416,
+                        38.939785
+                    ],
+                    [
+                        1.293833,
+                        38.940563
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20112592,
+    "properties": {
+        "woe_id": 20112592,
+        "place_id": "I7WtKq.bAZ2LeEKDCQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bosco di Piccione, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234704244,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3487\/shapefiles\/20112592_20090215_dbe827b3ce.tar.gz"
+        },
+        "bbox": [
+            10.669500350952,
+            43.690334320068,
+            10.671982765198,
+            43.690498352051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.669666,
+                        43.690498
+                    ],
+                    [
+                        10.671983,
+                        43.690388
+                    ],
+                    [
+                        10.669666,
+                        43.690334
+                    ],
+                    [
+                        10.6695,
+                        43.690498
+                    ],
+                    [
+                        10.669666,
+                        43.690498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503181,
+    "properties": {
+        "woe_id": 2503181,
+        "place_id": "3CFwM6SbBJx0stqw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Swink, Oklahoma, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546106,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2503181_20101217_f4576418aa.tar.gz"
+        },
+        "bbox": [
+            -95.175178527832,
+            34.050312042236,
+            -95.173988342285,
+            34.052959442139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -95.173988,
+                        34.052174
+                    ],
+                    [
+                        -95.174164,
+                        34.050312
+                    ],
+                    [
+                        -95.175179,
+                        34.052959
+                    ],
+                    [
+                        -95.174713,
+                        34.052757
+                    ],
+                    [
+                        -95.173988,
+                        34.052174
+                    ]
+                ]
+            ]
+        ]
+    }
+}

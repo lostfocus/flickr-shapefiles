@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2360510,
+    "properties": {
+        "woe_id": 2360510,
+        "place_id": "i_JKw5WbApq1X7nD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beach Haven, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292417646,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2360510_20101215_d84548ecf2.tar.gz"
+        },
+        "bbox": [
+            -76.159202575684,
+            41.046714782715,
+            -76.148216247559,
+            41.049774169922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.148216,
+                        41.046818
+                    ],
+                    [
+                        -76.148476,
+                        41.046715
+                    ],
+                    [
+                        -76.159203,
+                        41.047657
+                    ],
+                    [
+                        -76.154305,
+                        41.049774
+                    ],
+                    [
+                        -76.148216,
+                        41.046818
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2493781,
+    "properties": {
+        "woe_id": 2493781,
+        "place_id": "OqSpmXKbBZVBzEPQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Silver Springs, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234636804,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3443\/shapefiles\/2493781_20090214_a3cea1a283.tar.gz"
+        },
+        "bbox": [
+            -78.085708618164,
+            42.658973693848,
+            -78.083778381348,
+            42.664009094238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.085709,
+                        42.66053
+                    ],
+                    [
+                        -78.085243,
+                        42.664009
+                    ],
+                    [
+                        -78.083778,
+                        42.661831
+                    ],
+                    [
+                        -78.085625,
+                        42.658974
+                    ],
+                    [
+                        -78.085709,
+                        42.66053
+                    ]
+                ]
+            ]
+        ]
+    }
+}

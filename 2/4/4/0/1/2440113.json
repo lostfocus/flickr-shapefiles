@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2440113,
+    "properties": {
+        "woe_id": 2440113,
+        "place_id": "OUGSoumbBZiXCUqF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Little Boston, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239617286,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3639\/shapefiles\/2440113_20090413_2f9f4a435e.tar.gz"
+        },
+        "bbox": [
+            -122.56707763672,
+            47.832229614258,
+            -122.54149627686,
+            47.838729858398
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.559677,
+                        47.837517
+                    ],
+                    [
+                        -122.541496,
+                        47.83873
+                    ],
+                    [
+                        -122.559486,
+                        47.837009
+                    ],
+                    [
+                        -122.567078,
+                        47.83223
+                    ],
+                    [
+                        -122.559677,
+                        47.837517
+                    ]
+                ]
+            ]
+        ]
+    }
+}

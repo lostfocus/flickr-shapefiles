@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23399257,
+    "properties": {
+        "woe_id": 23399257,
+        "place_id": "cx9VHVGbAp.TMGUMPA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tarzwell, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234612688,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3387\/shapefiles\/23399257_20090214_bf6deb839f.tar.gz"
+        },
+        "bbox": [
+            -80.021408081055,
+            47.984462738037,
+            -80.017028808594,
+            48.003360748291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.021149,
+                        47.997501
+                    ],
+                    [
+                        -80.019432,
+                        48.001236
+                    ],
+                    [
+                        -80.018661,
+                        48.003361
+                    ],
+                    [
+                        -80.017029,
+                        47.99601
+                    ],
+                    [
+                        -80.021408,
+                        47.984463
+                    ],
+                    [
+                        -80.021149,
+                        47.997501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

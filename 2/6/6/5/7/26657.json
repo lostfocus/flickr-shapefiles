@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 26657,
+    "properties": {
+        "woe_id": 26657,
+        "place_id": "cBmTm7ubB5qDvQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Little Wakering, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465347,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/26657_20101216_e61e25776f.tar.gz"
+        },
+        "bbox": [
+            0.77058702707291,
+            51.547294616699,
+            0.78775399923325,
+            51.571868896484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.780715,
+                        51.571655
+                    ],
+                    [
+                        0.783934,
+                        51.571869
+                    ],
+                    [
+                        0.78741,
+                        51.562332
+                    ],
+                    [
+                        0.787754,
+                        51.553005
+                    ],
+                    [
+                        0.773849,
+                        51.547295
+                    ],
+                    [
+                        0.770587,
+                        51.558903
+                    ],
+                    [
+                        0.780715,
+                        51.571655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

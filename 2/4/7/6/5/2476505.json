@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2476505,
+    "properties": {
+        "woe_id": 2476505,
+        "place_id": "vLKxfCObBZsaESbJ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Preston, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454544,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2476505_20101215_e7c3d0c32f.tar.gz"
+        },
+        "bbox": [
+            -90.535194396973,
+            43.003784179688,
+            -90.527725219727,
+            43.010074615479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.535194,
+                        43.003784
+                    ],
+                    [
+                        -90.534851,
+                        43.006145
+                    ],
+                    [
+                        -90.529663,
+                        43.010075
+                    ],
+                    [
+                        -90.529449,
+                        43.009827
+                    ],
+                    [
+                        -90.527725,
+                        43.007103
+                    ],
+                    [
+                        -90.535194,
+                        43.003784
+                    ]
+                ]
+            ]
+        ]
+    }
+}

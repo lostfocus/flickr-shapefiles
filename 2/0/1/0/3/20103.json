@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20103,
+    "properties": {
+        "woe_id": 20103,
+        "place_id": "4FxxazSbAZ3APg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fernybank, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523857,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/20103_20101216_fd0af834ca.tar.gz"
+        },
+        "bbox": [
+            -2.7780809402466,
+            56.891143798828,
+            -2.7424619197845,
+            56.918746948242
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.757568,
+                        56.901237
+                    ],
+                    [
+                        -2.762546,
+                        56.897568
+                    ],
+                    [
+                        -2.778081,
+                        56.891144
+                    ],
+                    [
+                        -2.762718,
+                        56.904053
+                    ],
+                    [
+                        -2.760486,
+                        56.91383
+                    ],
+                    [
+                        -2.742462,
+                        56.918747
+                    ],
+                    [
+                        -2.757568,
+                        56.901237
+                    ]
+                ]
+            ]
+        ]
+    }
+}

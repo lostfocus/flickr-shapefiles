@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2444401,
+    "properties": {
+        "woe_id": 2444401,
+        "place_id": "YhGqfGubBZiZK2r7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Makleys Corner, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234910646,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3584\/shapefiles\/2444401_20090217_a45e55c73f.tar.gz"
+        },
+        "bbox": [
+            -77.347946166992,
+            38.753276824951,
+            -77.339302062988,
+            38.76318359375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.340233,
+                        38.76215
+                    ],
+                    [
+                        -77.339302,
+                        38.758739
+                    ],
+                    [
+                        -77.347946,
+                        38.753277
+                    ],
+                    [
+                        -77.341286,
+                        38.763184
+                    ],
+                    [
+                        -77.340233,
+                        38.76215
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2498423,
+    "properties": {
+        "woe_id": 2498423,
+        "place_id": "Uap1eXWbBZVPUUJo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Springhill Beach, Massachusetts, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234709642,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3493\/shapefiles\/2498423_20090215_b8a12905ec.tar.gz"
+        },
+        "bbox": [
+            -70.454765319824,
+            41.754322052002,
+            -70.447929382324,
+            41.755962371826
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.447929,
+                        41.754322
+                    ],
+                    [
+                        -70.451263,
+                        41.754715
+                    ],
+                    [
+                        -70.454765,
+                        41.755962
+                    ],
+                    [
+                        -70.4524,
+                        41.755306
+                    ],
+                    [
+                        -70.447929,
+                        41.754322
+                    ]
+                ]
+            ]
+        ]
+    }
+}

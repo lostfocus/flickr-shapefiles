@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26808941,
+    "properties": {
+        "woe_id": 26808941,
+        "place_id": "pUw2oPmbB5Tjsdff0Q",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cinco Esquinas, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526889,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/26808941_20101216_4751842ff6.tar.gz"
+        },
+        "bbox": [
+            -84.090728759766,
+            9.941798210144,
+            -84.087295532227,
+            9.947208404541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.090729,
+                        9.942474
+                    ],
+                    [
+                        -84.090042,
+                        9.944227
+                    ],
+                    [
+                        -84.087296,
+                        9.947208
+                    ],
+                    [
+                        -84.089355,
+                        9.942474
+                    ],
+                    [
+                        -84.089355,
+                        9.941798
+                    ],
+                    [
+                        -84.090729,
+                        9.942474
+                    ]
+                ]
+            ]
+        ]
+    }
+}

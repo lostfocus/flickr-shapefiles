@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2460784,
+    "properties": {
+        "woe_id": 2460784,
+        "place_id": "M2CsUpybBZoRLQCi",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "North Chatham, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451864,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2460784_20101215_ab7642fd3a.tar.gz"
+        },
+        "bbox": [
+            -73.677452087402,
+            42.475395202637,
+            -73.661483764648,
+            42.484336853027
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.67099,
+                        42.484337
+                    ],
+                    [
+                        -73.661697,
+                        42.483524
+                    ],
+                    [
+                        -73.661484,
+                        42.475395
+                    ],
+                    [
+                        -73.670929,
+                        42.479836
+                    ],
+                    [
+                        -73.677452,
+                        42.481911
+                    ],
+                    [
+                        -73.67099,
+                        42.484337
+                    ]
+                ]
+            ]
+        ]
+    }
+}

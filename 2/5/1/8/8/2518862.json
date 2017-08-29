@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2518862,
+    "properties": {
+        "woe_id": 2518862,
+        "place_id": "JdAdFgSbBJ1BIclJ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wheatfield Way, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546786,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2518862_20101217_ba8887b399.tar.gz"
+        },
+        "bbox": [
+            -76.819152832031,
+            39.241626739502,
+            -76.806274414062,
+            39.248340606689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.806274,
+                        39.248341
+                    ],
+                    [
+                        -76.806534,
+                        39.245781
+                    ],
+                    [
+                        -76.813004,
+                        39.241627
+                    ],
+                    [
+                        -76.819153,
+                        39.246181
+                    ],
+                    [
+                        -76.806274,
+                        39.248341
+                    ]
+                ]
+            ]
+        ]
+    }
+}

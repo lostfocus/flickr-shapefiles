@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2771,
+    "properties": {
+        "woe_id": 2771,
+        "place_id": "kGQxAKWbBpue",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Goose Cove, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490602,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2771_20101216_20679e7e56.tar.gz"
+        },
+        "bbox": [
+            -55.641201019287,
+            51.295524597168,
+            -55.624229431152,
+            51.30590057373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -55.640701,
+                        51.304901
+                    ],
+                    [
+                        -55.641201,
+                        51.305302
+                    ],
+                    [
+                        -55.640999,
+                        51.305901
+                    ],
+                    [
+                        -55.635078,
+                        51.304691
+                    ],
+                    [
+                        -55.624229,
+                        51.302765
+                    ],
+                    [
+                        -55.628586,
+                        51.295525
+                    ],
+                    [
+                        -55.640701,
+                        51.304901
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745396,
+    "properties": {
+        "woe_id": 28745396,
+        "place_id": "A.c1fHWbCZveZqxAHg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fox, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538305,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/28745396_20101216_86556f6860.tar.gz"
+        },
+        "bbox": [
+            -76.753921508789,
+            41.484020233154,
+            -76.713798522949,
+            41.489643096924
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.753922,
+                        41.48402
+                    ],
+                    [
+                        -76.753838,
+                        41.484886
+                    ],
+                    [
+                        -76.733543,
+                        41.486744
+                    ],
+                    [
+                        -76.713799,
+                        41.489643
+                    ],
+                    [
+                        -76.733482,
+                        41.486656
+                    ],
+                    [
+                        -76.753922,
+                        41.48402
+                    ]
+                ]
+            ]
+        ]
+    }
+}

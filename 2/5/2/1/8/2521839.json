@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2521839,
+    "properties": {
+        "woe_id": 2521839,
+        "place_id": "_1bMmeybBJ52px8B",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Windsor, Indiana, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531659,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2521839_20101216_e8b05c46a0.tar.gz"
+        },
+        "bbox": [
+            -85.211845397949,
+            40.11873626709,
+            -85.206314086914,
+            40.119834899902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.211845,
+                        40.118736
+                    ],
+                    [
+                        -85.209839,
+                        40.119835
+                    ],
+                    [
+                        -85.206314,
+                        40.119251
+                    ],
+                    [
+                        -85.209122,
+                        40.119205
+                    ],
+                    [
+                        -85.211845,
+                        40.118736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

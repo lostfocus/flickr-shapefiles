@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2482004,
+    "properties": {
+        "woe_id": 2482004,
+        "place_id": "P7ZAAMabBZTIz5Lr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Riverdale, Delaware, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470383,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2482004_20101216_d9fc5b5548.tar.gz"
+        },
+        "bbox": [
+            -75.195243835449,
+            38.5751953125,
+            -75.178581237793,
+            38.593662261963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.189445,
+                        38.593376
+                    ],
+                    [
+                        -75.178581,
+                        38.589931
+                    ],
+                    [
+                        -75.195244,
+                        38.575195
+                    ],
+                    [
+                        -75.189568,
+                        38.590309
+                    ],
+                    [
+                        -75.190933,
+                        38.593662
+                    ],
+                    [
+                        -75.189445,
+                        38.593376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

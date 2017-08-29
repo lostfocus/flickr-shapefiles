@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20140939,
+    "properties": {
+        "woe_id": 20140939,
+        "place_id": "1mWHKkmbAZ0_gzWQOg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Bovio, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480104,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20140939_20101216_360c0dbaf4.tar.gz"
+        },
+        "bbox": [
+            9.3095388412476,
+            45.462333679199,
+            9.3122863769531,
+            45.465427398682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.312286,
+                        45.463982
+                    ],
+                    [
+                        9.310833,
+                        45.462334
+                    ],
+                    [
+                        9.309539,
+                        45.465427
+                    ],
+                    [
+                        9.310226,
+                        45.465065
+                    ],
+                    [
+                        9.312286,
+                        45.463982
+                    ]
+                ]
+            ]
+        ]
+    }
+}

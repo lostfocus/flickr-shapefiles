@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20076969,
+    "properties": {
+        "woe_id": 20076969,
+        "place_id": "p_JBQpKbAZz8mVPRIQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Castellaneta, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522874,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/20076969_20101216_578e6977f4.tar.gz"
+        },
+        "bbox": [
+            16.936798095703,
+            40.463794708252,
+            16.941572189331,
+            40.470195770264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.936798,
+                        40.470196
+                    ],
+                    [
+                        16.940063,
+                        40.469711
+                    ],
+                    [
+                        16.940117,
+                        40.469601
+                    ],
+                    [
+                        16.940401,
+                        40.466213
+                    ],
+                    [
+                        16.937742,
+                        40.463795
+                    ],
+                    [
+                        16.941572,
+                        40.464924
+                    ],
+                    [
+                        16.940401,
+                        40.466213
+                    ],
+                    [
+                        16.936798,
+                        40.470196
+                    ]
+                ]
+            ]
+        ]
+    }
+}

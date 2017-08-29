@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29381544,
+    "properties": {
+        "woe_id": 29381544,
+        "place_id": "hnOyJuubCJ8oISnFcA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Porto Ribeiro, Viana do Castelo, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436664,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/29381544_20101215_186003db32.tar.gz"
+        },
+        "bbox": [
+            -8.202880859375,
+            42.035842895508,
+            -8.1951141357422,
+            42.051044464111
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.197345,
+                        42.035843
+                    ],
+                    [
+                        -8.202881,
+                        42.044712
+                    ],
+                    [
+                        -8.195114,
+                        42.051044
+                    ],
+                    [
+                        -8.195586,
+                        42.039268
+                    ],
+                    [
+                        -8.196144,
+                        42.037052
+                    ],
+                    [
+                        -8.197345,
+                        42.035843
+                    ]
+                ]
+            ]
+        ]
+    }
+}

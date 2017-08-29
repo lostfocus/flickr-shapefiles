@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20149608,
+    "properties": {
+        "woe_id": 20149608,
+        "place_id": "DaHrmEebAZ2EKu6O8w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Casatico, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234556642,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3326\/shapefiles\/20149608_20090213_cf7d810826.tar.gz"
+        },
+        "bbox": [
+            9.139744758606,
+            45.27710723877,
+            9.146803855896,
+            45.280895233154
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.146804,
+                        45.277485
+                    ],
+                    [
+                        9.140152,
+                        45.277107
+                    ],
+                    [
+                        9.139745,
+                        45.280895
+                    ],
+                    [
+                        9.146761,
+                        45.277596
+                    ],
+                    [
+                        9.146804,
+                        45.277485
+                    ]
+                ]
+            ]
+        ]
+    }
+}

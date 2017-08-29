@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403561,
+    "properties": {
+        "woe_id": 2403561,
+        "place_id": "ugUh9umbBZwFl7qx",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fish, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529108,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2403561_20101216_9ce3e5f2af.tar.gz"
+        },
+        "bbox": [
+            -85.173545837402,
+            33.976043701172,
+            -85.165748596191,
+            33.980377197266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.165749,
+                        33.977139
+                    ],
+                    [
+                        -85.166153,
+                        33.97691
+                    ],
+                    [
+                        -85.169975,
+                        33.976337
+                    ],
+                    [
+                        -85.173546,
+                        33.976044
+                    ],
+                    [
+                        -85.167389,
+                        33.980377
+                    ],
+                    [
+                        -85.165749,
+                        33.977139
+                    ]
+                ]
+            ]
+        ]
+    }
+}

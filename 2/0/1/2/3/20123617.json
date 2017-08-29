@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20123617,
+    "properties": {
+        "woe_id": 20123617,
+        "place_id": "pGU.Fa6bAZ0Ir5hlAQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dune Iv, Sicily, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495524,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/20123617_20101216_42ec123dd1.tar.gz"
+        },
+        "bbox": [
+            13.604892730713,
+            37.240459442139,
+            13.615498542786,
+            37.249675750732
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.609743,
+                        37.246334
+                    ],
+                    [
+                        13.615499,
+                        37.240459
+                    ],
+                    [
+                        13.609657,
+                        37.245361
+                    ],
+                    [
+                        13.604893,
+                        37.249676
+                    ],
+                    [
+                        13.609743,
+                        37.246334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

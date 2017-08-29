@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2047402,
+    "properties": {
+        "woe_id": 2047402,
+        "place_id": "HoQPgCSbAZgzCrO8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moldovka, Krasnodarskiy Kray, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234620488,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3308\/shapefiles\/2047402_20090214_594af0ccce.tar.gz"
+        },
+        "bbox": [
+            39.93616104126,
+            43.435344696045,
+            39.942512512207,
+            43.448558807373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        39.936161,
+                        43.440269
+                    ],
+                    [
+                        39.940624,
+                        43.448559
+                    ],
+                    [
+                        39.942513,
+                        43.448307
+                    ],
+                    [
+                        39.941139,
+                        43.435345
+                    ],
+                    [
+                        39.936161,
+                        43.440269
+                    ]
+                ]
+            ]
+        ]
+    }
+}

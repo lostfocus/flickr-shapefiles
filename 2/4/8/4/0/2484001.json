@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484001,
+    "properties": {
+        "woe_id": 2484001,
+        "place_id": "PcZJ2habBZRoVe6a",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Roland, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521260,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2484001_20101216_73b04ed0d8.tar.gz"
+        },
+        "bbox": [
+            -93.568977355957,
+            42.13069152832,
+            -93.542793273926,
+            42.1383934021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.557747,
+                        42.130692
+                    ],
+                    [
+                        -93.567413,
+                        42.137218
+                    ],
+                    [
+                        -93.568977,
+                        42.1381
+                    ],
+                    [
+                        -93.561928,
+                        42.137409
+                    ],
+                    [
+                        -93.542793,
+                        42.138393
+                    ],
+                    [
+                        -93.557747,
+                        42.130692
+                    ]
+                ]
+            ]
+        ]
+    }
+}

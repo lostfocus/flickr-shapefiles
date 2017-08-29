@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2451280,
+    "properties": {
+        "woe_id": 2451280,
+        "place_id": "ktZy5DWbBZmbxrQ5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Miller, Illinois, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546771,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/2451280_20101217_bb2bed91cd.tar.gz"
+        },
+        "bbox": [
+            -89.943778991699,
+            38.523593902588,
+            -89.930221557617,
+            38.549911499023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.930222,
+                        38.549911
+                    ],
+                    [
+                        -89.935532,
+                        38.540218
+                    ],
+                    [
+                        -89.943779,
+                        38.523594
+                    ],
+                    [
+                        -89.940453,
+                        38.543968
+                    ],
+                    [
+                        -89.930222,
+                        38.549911
+                    ]
+                ]
+            ]
+        ]
+    }
+}

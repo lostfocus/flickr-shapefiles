@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2445011,
+    "properties": {
+        "woe_id": 2445011,
+        "place_id": "svtMppibBZhH_lhr",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mansford, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522131,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2445011_20101216_184152aca8.tar.gz"
+        },
+        "bbox": [
+            -121.54861450195,
+            48.301067352295,
+            -121.52938842773,
+            48.306034088135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -121.548615,
+                        48.305119
+                    ],
+                    [
+                        -121.547195,
+                        48.305779
+                    ],
+                    [
+                        -121.529388,
+                        48.306034
+                    ],
+                    [
+                        -121.542152,
+                        48.301067
+                    ],
+                    [
+                        -121.548615,
+                        48.305119
+                    ]
+                ]
+            ]
+        ]
+    }
+}

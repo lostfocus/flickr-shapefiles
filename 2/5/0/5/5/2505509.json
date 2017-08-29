@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505509,
+    "properties": {
+        "woe_id": 2505509,
+        "place_id": "vhq099CbBJwPu0tK",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "The Willows, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234716490,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3486\/shapefiles\/2505509_20090215_133e5b3754.tar.gz"
+        },
+        "bbox": [
+            -76.856056213379,
+            39.244564056396,
+            -76.848937988281,
+            39.248683929443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.848938,
+                        39.247009
+                    ],
+                    [
+                        -76.855438,
+                        39.244564
+                    ],
+                    [
+                        -76.855843,
+                        39.246262
+                    ],
+                    [
+                        -76.856056,
+                        39.248684
+                    ],
+                    [
+                        -76.848938,
+                        39.247009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

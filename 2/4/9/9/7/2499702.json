@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499702,
+    "properties": {
+        "woe_id": 2499702,
+        "place_id": "9bLgx9mbBZVUsvKR",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Steuben, New York, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454680,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2499702_20101215_3d0398af27.tar.gz"
+        },
+        "bbox": [
+            -75.27335357666,
+            43.323944091797,
+            -75.270988464355,
+            43.334384918213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.273354,
+                        43.323944
+                    ],
+                    [
+                        -75.273323,
+                        43.334385
+                    ],
+                    [
+                        -75.272255,
+                        43.331383
+                    ],
+                    [
+                        -75.271667,
+                        43.329773
+                    ],
+                    [
+                        -75.270988,
+                        43.328411
+                    ],
+                    [
+                        -75.273354,
+                        43.323944
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2433919,
+    "properties": {
+        "woe_id": 2433919,
+        "place_id": "aSPHPuWbBZ_OX6Hb",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kremlin, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444826,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2433919_20101215_744b4c511a.tar.gz"
+        },
+        "bbox": [
+            -87.845390319824,
+            45.656497955322,
+            -87.822814941406,
+            45.66051864624
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.822815,
+                        45.656918
+                    ],
+                    [
+                        -87.823593,
+                        45.656498
+                    ],
+                    [
+                        -87.84539,
+                        45.660519
+                    ],
+                    [
+                        -87.823845,
+                        45.658028
+                    ],
+                    [
+                        -87.823074,
+                        45.658539
+                    ],
+                    [
+                        -87.822815,
+                        45.656918
+                    ]
+                ]
+            ]
+        ]
+    }
+}

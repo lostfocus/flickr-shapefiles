@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20141770,
+    "properties": {
+        "woe_id": 20141770,
+        "place_id": "6XCzchObAZ2BYcBYVg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Piero in Frassino, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445568,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/20141770_20101215_2dba382750.tar.gz"
+        },
+        "bbox": [
+            11.756056785583,
+            43.687797546387,
+            11.760562896729,
+            43.702381134033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.756057,
+                        43.693943
+                    ],
+                    [
+                        11.757946,
+                        43.702381
+                    ],
+                    [
+                        11.759319,
+                        43.694283
+                    ],
+                    [
+                        11.760563,
+                        43.687798
+                    ],
+                    [
+                        11.756057,
+                        43.693943
+                    ]
+                ]
+            ]
+        ]
+    }
+}

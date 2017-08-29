@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2383250,
+    "properties": {
+        "woe_id": 2383250,
+        "place_id": "1Jds4HabApTgLDgq",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cologne, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448543,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2383250_20101215_7ae4ca2707.tar.gz"
+        },
+        "bbox": [
+            -76.696784973145,
+            37.521423339844,
+            -76.680137634277,
+            37.530681610107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.696152,
+                        37.521423
+                    ],
+                    [
+                        -76.696785,
+                        37.523251
+                    ],
+                    [
+                        -76.685631,
+                        37.530682
+                    ],
+                    [
+                        -76.680138,
+                        37.521698
+                    ],
+                    [
+                        -76.696152,
+                        37.521423
+                    ]
+                ]
+            ]
+        ]
+    }
+}

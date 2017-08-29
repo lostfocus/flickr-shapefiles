@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2415006,
+    "properties": {
+        "woe_id": 2415006,
+        "place_id": "iy9w5JCbBZ0NdYF5",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Griffin, Florida, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229339051,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3197\/shapefiles\/2415006_20081215_1434719c95.tar.gz"
+        },
+        "bbox": [
+            -81.996162414551,
+            28.073873519897,
+            -81.982894897461,
+            28.088298797607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.996162,
+                        28.088299
+                    ],
+                    [
+                        -81.993118,
+                        28.086569
+                    ],
+                    [
+                        -81.982895,
+                        28.073874
+                    ],
+                    [
+                        -81.993637,
+                        28.086523
+                    ],
+                    [
+                        -81.996162,
+                        28.088299
+                    ]
+                ]
+            ]
+        ]
+    }
+}

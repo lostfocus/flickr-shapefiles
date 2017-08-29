@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23400628,
+    "properties": {
+        "woe_id": 23400628,
+        "place_id": "YVlh76abAphVcnjHcw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hartington, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452507,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/23400628_20101215_40fdd4ceb7.tar.gz"
+        },
+        "bbox": [
+            -76.633926391602,
+            44.44401550293,
+            -76.62459564209,
+            44.470462799072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.633926,
+                        44.458042
+                    ],
+                    [
+                        -76.628395,
+                        44.470463
+                    ],
+                    [
+                        -76.624596,
+                        44.455688
+                    ],
+                    [
+                        -76.631439,
+                        44.444016
+                    ],
+                    [
+                        -76.633926,
+                        44.458042
+                    ]
+                ]
+            ]
+        ]
+    }
+}

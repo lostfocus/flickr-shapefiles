@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2465976,
+    "properties": {
+        "woe_id": 2465976,
+        "place_id": "bRzNZTebBZoAnCD1",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orchard, California, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444942,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2465976_20101215_58e5ca5a37.tar.gz"
+        },
+        "bbox": [
+            -122.77060699463,
+            38.329689025879,
+            -122.76466369629,
+            38.343166351318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.764999,
+                        38.343166
+                    ],
+                    [
+                        -122.764664,
+                        38.342999
+                    ],
+                    [
+                        -122.770607,
+                        38.329689
+                    ],
+                    [
+                        -122.765335,
+                        38.343166
+                    ],
+                    [
+                        -122.764999,
+                        38.343166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

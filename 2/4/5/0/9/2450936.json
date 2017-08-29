@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2450936,
+    "properties": {
+        "woe_id": 2450936,
+        "place_id": "INBNh5ybBZkZ6ztD",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Milesburg, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527504,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2450936_20101216_db1077ce1e.tar.gz"
+        },
+        "bbox": [
+            -77.803375244141,
+            40.931427001953,
+            -77.785522460938,
+            40.942497253418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.797966,
+                        40.942497
+                    ],
+                    [
+                        -77.785561,
+                        40.941879
+                    ],
+                    [
+                        -77.785522,
+                        40.931427
+                    ],
+                    [
+                        -77.803375,
+                        40.940212
+                    ],
+                    [
+                        -77.797966,
+                        40.942497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

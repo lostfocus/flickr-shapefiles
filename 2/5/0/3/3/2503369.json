@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2503369,
+    "properties": {
+        "woe_id": 2503369,
+        "place_id": "Q01pkPqbBJw82XD7",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sylvania, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525677,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2503369_20101216_f4bb8e9316.tar.gz"
+        },
+        "bbox": [
+            -94.008850097656,
+            37.495426177979,
+            -93.972114562988,
+            37.507919311523
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.983398,
+                        37.495426
+                    ],
+                    [
+                        -93.992157,
+                        37.496105
+                    ],
+                    [
+                        -94.00885,
+                        37.507919
+                    ],
+                    [
+                        -93.990135,
+                        37.507511
+                    ],
+                    [
+                        -93.972115,
+                        37.507069
+                    ],
+                    [
+                        -93.983398,
+                        37.495426
+                    ]
+                ]
+            ]
+        ]
+    }
+}

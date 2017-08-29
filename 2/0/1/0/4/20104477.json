@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20104477,
+    "properties": {
+        "woe_id": 20104477,
+        "place_id": "lTqf4MabAZ1YxdFXtA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Uelikon, Canton of Zurich, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234650726,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3323\/shapefiles\/20104477_20090214_9eceb0dddc.tar.gz"
+        },
+        "bbox": [
+            8.7098827362061,
+            47.244060516357,
+            8.7232751846313,
+            47.257160186768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.723275,
+                        47.253414
+                    ],
+                    [
+                        8.718273,
+                        47.248474
+                    ],
+                    [
+                        8.709883,
+                        47.244061
+                    ],
+                    [
+                        8.718928,
+                        47.25716
+                    ],
+                    [
+                        8.723275,
+                        47.253414
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23390570,
+    "properties": {
+        "woe_id": 23390570,
+        "place_id": "DwxeB6qbAp.NDl1CVw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "West Pennant, Nova Scotia, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247799845,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2583\/shapefiles\/23390570_20090717_f972a4c14c.tar.gz"
+        },
+        "bbox": [
+            -63.658390045166,
+            44.466129302979,
+            -63.645000457764,
+            44.472408294678
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -63.647747,
+                        44.467049
+                    ],
+                    [
+                        -63.648605,
+                        44.466129
+                    ],
+                    [
+                        -63.65839,
+                        44.469193
+                    ],
+                    [
+                        -63.651524,
+                        44.469746
+                    ],
+                    [
+                        -63.645,
+                        44.472408
+                    ],
+                    [
+                        -63.647747,
+                        44.467049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

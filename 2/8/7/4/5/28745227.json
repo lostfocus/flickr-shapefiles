@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28745227,
+    "properties": {
+        "woe_id": 28745227,
+        "place_id": "FmJ_RDubCZthmoHeDw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Caernarvon, Pennsylvania, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528771,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28745227_20101216_ca60d8a635.tar.gz"
+        },
+        "bbox": [
+            -75.89183807373,
+            40.144763946533,
+            -75.876243591309,
+            40.158908843994
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.891838,
+                        40.156151
+                    ],
+                    [
+                        -75.891495,
+                        40.158909
+                    ],
+                    [
+                        -75.886871,
+                        40.156246
+                    ],
+                    [
+                        -75.877846,
+                        40.156639
+                    ],
+                    [
+                        -75.876244,
+                        40.156147
+                    ],
+                    [
+                        -75.877548,
+                        40.144764
+                    ],
+                    [
+                        -75.891838,
+                        40.156151
+                    ]
+                ]
+            ]
+        ]
+    }
+}

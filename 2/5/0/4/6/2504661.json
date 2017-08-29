@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2504661,
+    "properties": {
+        "woe_id": 2504661,
+        "place_id": "X6E1xLCbBJzpa6Zk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Temple, North Dakota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234608371,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3428\/shapefiles\/2504661_20090214_c092b0feef.tar.gz"
+        },
+        "bbox": [
+            -103.06266021729,
+            48.387634277344,
+            -103.05450439453,
+            48.397525787354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -103.060341,
+                        48.397526
+                    ],
+                    [
+                        -103.054504,
+                        48.387894
+                    ],
+                    [
+                        -103.056564,
+                        48.387634
+                    ],
+                    [
+                        -103.06266,
+                        48.396614
+                    ],
+                    [
+                        -103.060341,
+                        48.397526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

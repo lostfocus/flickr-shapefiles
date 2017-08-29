@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 211,
+    "properties": {
+        "woe_id": 211,
+        "place_id": "o5MyaRObAJ0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Canora, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453059,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/211_20101215_33c2435ed2.tar.gz"
+        },
+        "bbox": [
+            -102.43789672852,
+            51.626541137695,
+            -102.43016815186,
+            51.637622833252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.437019,
+                        51.63464
+                    ],
+                    [
+                        -102.431541,
+                        51.637623
+                    ],
+                    [
+                        -102.430168,
+                        51.627075
+                    ],
+                    [
+                        -102.437897,
+                        51.626541
+                    ],
+                    [
+                        -102.437019,
+                        51.63464
+                    ]
+                ]
+            ]
+        ]
+    }
+}

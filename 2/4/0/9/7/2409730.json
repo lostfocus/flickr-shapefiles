@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2409730,
+    "properties": {
+        "woe_id": 2409730,
+        "place_id": "pP2Z4ISbBZw4CkC2",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Georgiana, Alabama, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247854926,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2632\/shapefiles\/2409730_20090717_dc00c152b4.tar.gz"
+        },
+        "bbox": [
+            -86.743751525879,
+            31.635534286499,
+            -86.74063873291,
+            31.639585494995
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.742271,
+                        31.635534
+                    ],
+                    [
+                        -86.742867,
+                        31.637064
+                    ],
+                    [
+                        -86.743752,
+                        31.639585
+                    ],
+                    [
+                        -86.741859,
+                        31.639563
+                    ],
+                    [
+                        -86.740639,
+                        31.63579
+                    ],
+                    [
+                        -86.742271,
+                        31.635534
+                    ]
+                ]
+            ]
+        ]
+    }
+}

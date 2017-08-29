@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2470496,
+    "properties": {
+        "woe_id": 2470496,
+        "place_id": "eUU3nvqbBZuGMawJ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pepper, Virginia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234858937,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3570\/shapefiles\/2470496_20090217_17970172ec.tar.gz"
+        },
+        "bbox": [
+            -80.554161071777,
+            37.161220550537,
+            -80.545234680176,
+            37.17399597168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.553154,
+                        37.161221
+                    ],
+                    [
+                        -80.554161,
+                        37.173996
+                    ],
+                    [
+                        -80.545235,
+                        37.165104
+                    ],
+                    [
+                        -80.552818,
+                        37.161324
+                    ],
+                    [
+                        -80.553154,
+                        37.161221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2468801,
+    "properties": {
+        "woe_id": 2468801,
+        "place_id": "KZrIDKGbBZpPtydx",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parkwood East, Washington, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530801,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/2468801_20101216_ec78883159.tar.gz"
+        },
+        "bbox": [
+            -122.65381622314,
+            47.637046813965,
+            -122.6446685791,
+            47.639213562012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.650261,
+                        47.637047
+                    ],
+                    [
+                        -122.653816,
+                        47.63707
+                    ],
+                    [
+                        -122.650833,
+                        47.639214
+                    ],
+                    [
+                        -122.644669,
+                        47.638847
+                    ],
+                    [
+                        -122.650261,
+                        47.637047
+                    ]
+                ]
+            ]
+        ]
+    }
+}

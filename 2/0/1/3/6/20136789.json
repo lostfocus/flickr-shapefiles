@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20136789,
+    "properties": {
+        "woe_id": 20136789,
+        "place_id": "d2y1Z6ubAZ2K3o9xGA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Piovere, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234596249,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3503\/shapefiles\/20136789_20090214_9fd245a1f7.tar.gz"
+        },
+        "bbox": [
+            10.699652671814,
+            45.713729858398,
+            10.712698936462,
+            45.730030059814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.699653,
+                        45.71373
+                    ],
+                    [
+                        10.701627,
+                        45.721882
+                    ],
+                    [
+                        10.707378,
+                        45.73003
+                    ],
+                    [
+                        10.712699,
+                        45.725491
+                    ],
+                    [
+                        10.710639,
+                        45.716248
+                    ],
+                    [
+                        10.699653,
+                        45.71373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369279,
+    "properties": {
+        "woe_id": 2369279,
+        "place_id": "fd0kavObApqLvG8Z",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Brinklow, Maryland, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477224,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2369279_20101216_8c90b91a4a.tar.gz"
+        },
+        "bbox": [
+            -77.007804870605,
+            39.190498352051,
+            -77.004333496094,
+            39.193683624268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.00502,
+                        39.193016
+                    ],
+                    [
+                        -77.004631,
+                        39.192551
+                    ],
+                    [
+                        -77.004333,
+                        39.190498
+                    ],
+                    [
+                        -77.007805,
+                        39.192093
+                    ],
+                    [
+                        -77.007141,
+                        39.193684
+                    ],
+                    [
+                        -77.00502,
+                        39.193016
+                    ]
+                ]
+            ]
+        ]
+    }
+}

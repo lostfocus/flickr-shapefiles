@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2431363,
+    "properties": {
+        "woe_id": 2431363,
+        "place_id": "POa8YUybBZ9jdG0P",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Kemper, Iowa, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292375282,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2431363_20101215_9a57fec578.tar.gz"
+        },
+        "bbox": [
+            -91.125991821289,
+            40.743648529053,
+            -91.101707458496,
+            40.751777648926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.123177,
+                        40.743649
+                    ],
+                    [
+                        -91.125992,
+                        40.751011
+                    ],
+                    [
+                        -91.101906,
+                        40.751591
+                    ],
+                    [
+                        -91.101784,
+                        40.751778
+                    ],
+                    [
+                        -91.101707,
+                        40.751385
+                    ],
+                    [
+                        -91.101906,
+                        40.751591
+                    ],
+                    [
+                        -91.125992,
+                        40.751011
+                    ],
+                    [
+                        -91.123177,
+                        40.743649
+                    ]
+                ]
+            ]
+        ]
+    }
+}

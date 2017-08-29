@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150718,
+    "properties": {
+        "woe_id": 20150718,
+        "place_id": "u32Q3hqbAZ1sG4C7gw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gyllebo, Skane, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537641,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/20150718_20101216_e732e2853f.tar.gz"
+        },
+        "bbox": [
+            14.194978713989,
+            55.592071533203,
+            14.204463005066,
+            55.60657119751
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.200172,
+                        55.592072
+                    ],
+                    [
+                        14.194979,
+                        55.597263
+                    ],
+                    [
+                        14.204463,
+                        55.606571
+                    ],
+                    [
+                        14.201524,
+                        55.600899
+                    ],
+                    [
+                        14.200833,
+                        55.598
+                    ],
+                    [
+                        14.200172,
+                        55.592072
+                    ]
+                ]
+            ]
+        ]
+    }
+}

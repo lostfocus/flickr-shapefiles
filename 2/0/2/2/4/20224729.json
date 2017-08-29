@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20224729,
+    "properties": {
+        "woe_id": 20224729,
+        "place_id": "R4xNUZKbAZ4.tfugmQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Miraflores, Madrid, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538708,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20224729_20101216_d39ed23b35.tar.gz"
+        },
+        "bbox": [
+            -3.8431971073151,
+            40.314582824707,
+            -3.8333270549774,
+            40.333343505859
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.8375,
+                        40.315029
+                    ],
+                    [
+                        -3.843197,
+                        40.327129
+                    ],
+                    [
+                        -3.838605,
+                        40.333344
+                    ],
+                    [
+                        -3.833327,
+                        40.330204
+                    ],
+                    [
+                        -3.835601,
+                        40.314583
+                    ],
+                    [
+                        -3.8375,
+                        40.315029
+                    ]
+                ]
+            ]
+        ]
+    }
+}

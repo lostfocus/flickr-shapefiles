@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 26342915,
+    "properties": {
+        "woe_id": 26342915,
+        "place_id": "Tgo73tWbB59qOkg5sw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lenox, Michigan, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457604,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/26342915_20101216_1874838c70.tar.gz"
+        },
+        "bbox": [
+            -82.758445739746,
+            42.806484222412,
+            -82.753143310547,
+            42.815174102783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.754578,
+                        42.815117
+                    ],
+                    [
+                        -82.753143,
+                        42.815174
+                    ],
+                    [
+                        -82.753143,
+                        42.806484
+                    ],
+                    [
+                        -82.757866,
+                        42.812119
+                    ],
+                    [
+                        -82.758446,
+                        42.812523
+                    ],
+                    [
+                        -82.754578,
+                        42.815117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

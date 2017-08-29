@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2437300,
+    "properties": {
+        "woe_id": 2437300,
+        "place_id": "ewLMrZWbBZ9qfLHu",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lawrenceville, Arkansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454379,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2437300_20101215_1711f40818.tar.gz"
+        },
+        "bbox": [
+            -91.182167053223,
+            34.509666442871,
+            -91.180168151855,
+            34.509834289551
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.181664,
+                        34.509834
+                    ],
+                    [
+                        -91.180168,
+                        34.509834
+                    ],
+                    [
+                        -91.180832,
+                        34.509666
+                    ],
+                    [
+                        -91.182167,
+                        34.509834
+                    ],
+                    [
+                        -91.181831,
+                        34.509834
+                    ],
+                    [
+                        -91.181664,
+                        34.509834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

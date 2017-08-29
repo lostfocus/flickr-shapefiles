@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396780,
+    "properties": {
+        "woe_id": 2396780,
+        "place_id": "KAEGi06bApUuDLGh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ebon, Kentucky, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234893255,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3112\/shapefiles\/2396780_20090217_fd4a457cc9.tar.gz"
+        },
+        "bbox": [
+            -83.423568725586,
+            37.969776153564,
+            -83.418075561523,
+            37.975463867188
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.420303,
+                        37.975464
+                    ],
+                    [
+                        -83.418076,
+                        37.973125
+                    ],
+                    [
+                        -83.421852,
+                        37.969776
+                    ],
+                    [
+                        -83.423569,
+                        37.973907
+                    ],
+                    [
+                        -83.420303,
+                        37.975464
+                    ]
+                ]
+            ]
+        ]
+    }
+}

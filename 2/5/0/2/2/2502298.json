@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2502298,
+    "properties": {
+        "woe_id": 2502298,
+        "place_id": "t0pR5NubBJzjeLJ6",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sunrise, Minnesota, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507350,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/2502298_20101216_e016581f12.tar.gz"
+        },
+        "bbox": [
+            -92.868629455566,
+            45.545116424561,
+            -92.852325439453,
+            45.567337036133
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.868629,
+                        45.567337
+                    ],
+                    [
+                        -92.862411,
+                        45.566544
+                    ],
+                    [
+                        -92.857323,
+                        45.548431
+                    ],
+                    [
+                        -92.852409,
+                        45.545929
+                    ],
+                    [
+                        -92.852325,
+                        45.545116
+                    ],
+                    [
+                        -92.857323,
+                        45.548431
+                    ],
+                    [
+                        -92.862411,
+                        45.566544
+                    ],
+                    [
+                        -92.868629,
+                        45.567337
+                    ]
+                ]
+            ]
+        ]
+    }
+}

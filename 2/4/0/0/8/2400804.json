@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2400804,
+    "properties": {
+        "woe_id": 2400804,
+        "place_id": "aH7mZ3SbBZz7yHJO",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eve, Missouri, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485922,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2400804_20101216_69dedae3cc.tar.gz"
+        },
+        "bbox": [
+            -94.622573852539,
+            37.840698242188,
+            -94.585502624512,
+            37.844833374023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.617004,
+                        37.843952
+                    ],
+                    [
+                        -94.5952,
+                        37.844833
+                    ],
+                    [
+                        -94.585503,
+                        37.844055
+                    ],
+                    [
+                        -94.595779,
+                        37.843704
+                    ],
+                    [
+                        -94.616249,
+                        37.841759
+                    ],
+                    [
+                        -94.622574,
+                        37.840698
+                    ],
+                    [
+                        -94.617004,
+                        37.843952
+                    ]
+                ]
+            ]
+        ]
+    }
+}

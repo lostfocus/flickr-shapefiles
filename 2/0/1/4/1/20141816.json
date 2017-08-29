@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20141816,
+    "properties": {
+        "woe_id": 20141816,
+        "place_id": "lZtstlubAZ236vifIQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Pietro in Cerro, Emilia Romagna, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533447,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/20141816_20101216_29bfcb5be3.tar.gz"
+        },
+        "bbox": [
+            9.9443426132202,
+            45.02054977417,
+            9.9512195587158,
+            45.023551940918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.949911,
+                        45.022526
+                    ],
+                    [
+                        9.95122,
+                        45.02121
+                    ],
+                    [
+                        9.95034,
+                        45.02055
+                    ],
+                    [
+                        9.947179,
+                        45.02182
+                    ],
+                    [
+                        9.944343,
+                        45.023552
+                    ],
+                    [
+                        9.949911,
+                        45.022526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

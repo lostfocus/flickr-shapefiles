@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24543810,
+    "properties": {
+        "woe_id": 24543810,
+        "place_id": "nWvWrvabBZkOTKZX6A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Katerini, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532083,
+        "alpha": 1.0e-5,
+        "points": 28,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/24543810_20101216_237c9eb2a5.tar.gz"
+        },
+        "bbox": [
+            22.50678062439,
+            40.266952514648,
+            22.509956359863,
+            40.273368835449
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.508926,
+                        40.270031
+                    ],
+                    [
+                        22.509956,
+                        40.269833
+                    ],
+                    [
+                        22.506952,
+                        40.266953
+                    ],
+                    [
+                        22.50721,
+                        40.270824
+                    ],
+                    [
+                        22.506781,
+                        40.273369
+                    ],
+                    [
+                        22.508926,
+                        40.270031
+                    ]
+                ]
+            ]
+        ]
+    }
+}

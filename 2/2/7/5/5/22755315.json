@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22755315,
+    "properties": {
+        "woe_id": 22755315,
+        "place_id": "BUE4xhebA5sT1WEYWg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Pour\u00e7ain-sur-Besbre, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458046,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/22755315_20101216_65b9e1be5e.tar.gz"
+        },
+        "bbox": [
+            3.624715089798,
+            46.501110076904,
+            3.6299510002136,
+            46.507606506348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.624715,
+                        46.506428
+                    ],
+                    [
+                        3.629951,
+                        46.507607
+                    ],
+                    [
+                        3.626089,
+                        46.504478
+                    ],
+                    [
+                        3.625745,
+                        46.50111
+                    ],
+                    [
+                        3.625059,
+                        46.504936
+                    ],
+                    [
+                        3.624715,
+                        46.506428
+                    ]
+                ]
+            ]
+        ]
+    }
+}

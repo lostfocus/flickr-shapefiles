@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2400451,
+    "properties": {
+        "woe_id": 2400451,
+        "place_id": "3Q7WeL6bBZwJDI9u",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Etna, Wyoming, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541624,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2400451_20101216_7bec085dc3.tar.gz"
+        },
+        "bbox": [
+            -111.02558135986,
+            43.017951965332,
+            -111.0115737915,
+            43.031810760498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.011574,
+                        43.02655
+                    ],
+                    [
+                        -111.011864,
+                        43.017952
+                    ],
+                    [
+                        -111.025581,
+                        43.023743
+                    ],
+                    [
+                        -111.01236,
+                        43.031811
+                    ],
+                    [
+                        -111.011574,
+                        43.02655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

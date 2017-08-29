@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24543626,
+    "properties": {
+        "woe_id": 24543626,
+        "place_id": "V85.8_mbBZlhtAaNPQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pefka, Greece"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522530,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/24543626_20101216_64f3a48f80.tar.gz"
+        },
+        "bbox": [
+            22.981338500977,
+            40.659294128418,
+            22.982475280762,
+            40.664371490479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.982475,
+                        40.664371
+                    ],
+                    [
+                        22.982191,
+                        40.664001
+                    ],
+                    [
+                        22.982058,
+                        40.659294
+                    ],
+                    [
+                        22.981789,
+                        40.659473
+                    ],
+                    [
+                        22.981339,
+                        40.664021
+                    ],
+                    [
+                        22.982475,
+                        40.664371
+                    ]
+                ]
+            ]
+        ]
+    }
+}

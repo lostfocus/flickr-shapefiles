@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2514200,
+    "properties": {
+        "woe_id": 2514200,
+        "place_id": "QOYgyE2bBJ0AzwNn",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wardboro, Idaho, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247925609,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3507\/shapefiles\/2514200_20090718_b165d5274f.tar.gz"
+        },
+        "bbox": [
+            -111.27983093262,
+            42.241733551025,
+            -111.26420593262,
+            42.270801544189
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.27964,
+                        42.270802
+                    ],
+                    [
+                        -111.279144,
+                        42.270195
+                    ],
+                    [
+                        -111.264206,
+                        42.260921
+                    ],
+                    [
+                        -111.275024,
+                        42.241734
+                    ],
+                    [
+                        -111.279831,
+                        42.259144
+                    ],
+                    [
+                        -111.27964,
+                        42.270802
+                    ]
+                ]
+            ]
+        ]
+    }
+}

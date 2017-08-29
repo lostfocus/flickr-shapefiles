@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23413112,
+    "properties": {
+        "woe_id": 23413112,
+        "place_id": "BY1d8r2bApi92HWiAg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vila Franca da Beira, Coimbra, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457402,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/23413112_20101215_f961ef6f45.tar.gz"
+        },
+        "bbox": [
+            -7.8638501167297,
+            40.441459655762,
+            -7.8636360168457,
+            40.441589355469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.863721,
+                        40.441467
+                    ],
+                    [
+                        -7.86385,
+                        40.44146
+                    ],
+                    [
+                        -7.86385,
+                        40.441589
+                    ],
+                    [
+                        -7.863636,
+                        40.441525
+                    ],
+                    [
+                        -7.863678,
+                        40.441475
+                    ],
+                    [
+                        -7.863721,
+                        40.441467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

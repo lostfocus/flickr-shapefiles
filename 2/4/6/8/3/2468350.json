@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2468350,
+    "properties": {
+        "woe_id": 2468350,
+        "place_id": "yZuHDACbBZomWfgx",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Park Forest, Georgia, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522222,
+        "alpha": 0.00015,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2468350_20101216_d0a760370e.tar.gz"
+        },
+        "bbox": [
+            -84.361526489258,
+            33.567646026611,
+            -84.349899291992,
+            33.580856323242
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.353561,
+                        33.579231
+                    ],
+                    [
+                        -84.35199,
+                        33.578884
+                    ],
+                    [
+                        -84.349899,
+                        33.573463
+                    ],
+                    [
+                        -84.353287,
+                        33.567646
+                    ],
+                    [
+                        -84.361526,
+                        33.580856
+                    ],
+                    [
+                        -84.35582,
+                        33.579624
+                    ],
+                    [
+                        -84.353561,
+                        33.579231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2357532,
+    "properties": {
+        "woe_id": 2357532,
+        "place_id": "gLL2RMWbApkVt.sY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Austin, Arkansas, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533919,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2357532_20101216_aab8ca1651.tar.gz"
+        },
+        "bbox": [
+            -91.98371887207,
+            34.991306304932,
+            -91.979484558105,
+            34.999626159668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.979492,
+                        34.992592
+                    ],
+                    [
+                        -91.979485,
+                        34.992565
+                    ],
+                    [
+                        -91.979485,
+                        34.992561
+                    ],
+                    [
+                        -91.982399,
+                        34.991306
+                    ],
+                    [
+                        -91.983376,
+                        34.998222
+                    ],
+                    [
+                        -91.983719,
+                        34.999626
+                    ],
+                    [
+                        -91.979492,
+                        34.992592
+                    ]
+                ]
+            ]
+        ]
+    }
+}

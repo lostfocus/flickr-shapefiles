@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2370601,
+    "properties": {
+        "woe_id": 2370601,
+        "place_id": "f2Qz0fWbAptdgKVX",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Browntown, Wisconsin, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546044,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2370601_20101217_35b186e27d.tar.gz"
+        },
+        "bbox": [
+            -89.769454956055,
+            42.582630157471,
+            -89.766258239746,
+            42.583862304688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.767052,
+                        42.582947
+                    ],
+                    [
+                        -89.7677,
+                        42.58263
+                    ],
+                    [
+                        -89.769455,
+                        42.582851
+                    ],
+                    [
+                        -89.767998,
+                        42.583817
+                    ],
+                    [
+                        -89.766258,
+                        42.583862
+                    ],
+                    [
+                        -89.767052,
+                        42.582947
+                    ]
+                ]
+            ]
+        ]
+    }
+}

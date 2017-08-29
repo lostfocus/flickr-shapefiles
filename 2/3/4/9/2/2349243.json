@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2349243,
+    "properties": {
+        "woe_id": 2349243,
+        "place_id": "xXaGSsCbAphbqyUC",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moutere, Tasman, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234745523,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3469\/shapefiles\/2349243_20090216_dc0707ab25.tar.gz"
+        },
+        "bbox": [
+            172.97819519043,
+            -41.144145965576,
+            172.99157714844,
+            -41.122158050537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        172.991577,
+                        -41.122158
+                    ],
+                    [
+                        172.987808,
+                        -41.132126
+                    ],
+                    [
+                        172.979904,
+                        -41.144146
+                    ],
+                    [
+                        172.978195,
+                        -41.124496
+                    ],
+                    [
+                        172.985138,
+                        -41.124882
+                    ],
+                    [
+                        172.991577,
+                        -41.122158
+                    ]
+                ]
+            ]
+        ]
+    }
+}

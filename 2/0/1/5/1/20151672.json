@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20151672,
+    "properties": {
+        "woe_id": 20151672,
+        "place_id": "6mL5KVibAZ3T9M.qQw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "S\u00f6dra Lagn\u00f6, Stockholm, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480167,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/20151672_20101216_f6f608d677.tar.gz"
+        },
+        "bbox": [
+            18.452524185181,
+            59.300601959229,
+            18.458404541016,
+            59.303680419922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.458061,
+                        59.301041
+                    ],
+                    [
+                        18.458405,
+                        59.300602
+                    ],
+                    [
+                        18.458061,
+                        59.30069
+                    ],
+                    [
+                        18.452524,
+                        59.301018
+                    ],
+                    [
+                        18.453522,
+                        59.30368
+                    ],
+                    [
+                        18.458061,
+                        59.301041
+                    ]
+                ]
+            ]
+        ]
+    }
+}
