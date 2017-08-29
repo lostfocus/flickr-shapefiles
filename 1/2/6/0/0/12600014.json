@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12600014,
+    "properties": {
+        "woe_id": 12600014,
+        "place_id": "0eSo7TyYA5oO1LL1eQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Romita, Guanajuato, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461321,
+        "alpha": 0.0015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/12600014_20101216_b33bf333c3.tar.gz"
+        },
+        "bbox": [
+            -101.55270385742,
+            20.870861053467,
+            -101.513671875,
+            20.895210266113
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -101.516754,
+                        20.872425
+                    ],
+                    [
+                        -101.513672,
+                        20.871643
+                    ],
+                    [
+                        -101.516289,
+                        20.870861
+                    ],
+                    [
+                        -101.518845,
+                        20.871424
+                    ],
+                    [
+                        -101.552704,
+                        20.89521
+                    ],
+                    [
+                        -101.516754,
+                        20.872425
+                    ]
+                ]
+            ]
+        ]
+    }
+}

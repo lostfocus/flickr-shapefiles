@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 56000800,
+    "properties": {
+        "woe_id": 56000800,
+        "place_id": "b_bc6L.cB5z8BX8QTQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Kota Pasuruan, East Java, Indonesia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522951,
+        "alpha": 0.0015,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/56000800_20101216_cd071fdc90.tar.gz"
+        },
+        "bbox": [
+            112.88726806641,
+            -7.6756072044373,
+            112.9430847168,
+            -7.6272888183594
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        112.921173,
+                        -7.635031
+                    ],
+                    [
+                        112.943085,
+                        -7.651236
+                    ],
+                    [
+                        112.925957,
+                        -7.655564
+                    ],
+                    [
+                        112.895508,
+                        -7.675607
+                    ],
+                    [
+                        112.887527,
+                        -7.675437
+                    ],
+                    [
+                        112.887268,
+                        -7.627289
+                    ],
+                    [
+                        112.921173,
+                        -7.635031
+                    ]
+                ]
+            ]
+        ]
+    }
+}

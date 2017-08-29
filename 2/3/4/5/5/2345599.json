@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2345599,
+    "properties": {
+        "woe_id": 2345599,
+        "place_id": "pSEwDlubApj5kXNt",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Siguiri, Kankan, Guinea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537566,
+        "alpha": 0.0015,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2345599_20101216_8516023e88.tar.gz"
+        },
+        "bbox": [
+            -9.2065420150757,
+            11.419624328613,
+            -9.1213979721069,
+            11.501556396484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.166202,
+                        11.419624
+                    ],
+                    [
+                        -9.181823,
+                        11.431571
+                    ],
+                    [
+                        -9.206542,
+                        11.501556
+                    ],
+                    [
+                        -9.159167,
+                        11.4565
+                    ],
+                    [
+                        -9.121398,
+                        11.430225
+                    ],
+                    [
+                        -9.166202,
+                        11.419624
+                    ]
+                ]
+            ]
+        ]
+    }
+}

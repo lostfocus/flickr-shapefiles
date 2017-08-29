@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20070829,
+    "properties": {
+        "woe_id": 20070829,
+        "place_id": "Nn0oT0KbAZw5hNYmVQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "San Roque, Corrientes, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479983,
+        "alpha": 0.0015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20070829_20101216_75acd10cf3.tar.gz"
+        },
+        "bbox": [
+            -58.607509613037,
+            -29.021951675415,
+            -58.548889160156,
+            -28.93147277832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.553696,
+                        -28.989222
+                    ],
+                    [
+                        -58.566742,
+                        -28.985317
+                    ],
+                    [
+                        -58.601074,
+                        -28.979313
+                    ],
+                    [
+                        -58.60751,
+                        -28.931473
+                    ],
+                    [
+                        -58.566742,
+                        -28.985317
+                    ],
+                    [
+                        -58.548889,
+                        -29.021952
+                    ],
+                    [
+                        -58.553696,
+                        -28.989222
+                    ]
+                ]
+            ]
+        ]
+    }
+}

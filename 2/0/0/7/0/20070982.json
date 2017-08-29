@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070982,
+    "properties": {
+        "woe_id": 20070982,
+        "place_id": "YpEiKkCbAZwQRXCwvQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "San Cayetano, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248227419,
+        "alpha": 0.0015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2666\/shapefiles\/20070982_20090722_0c732bd8f8.tar.gz"
+        },
+        "bbox": [
+            -59.622459411621,
+            -38.372615814209,
+            -59.606838226318,
+            -38.342395782471
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -59.609413,
+                        -38.342396
+                    ],
+                    [
+                        -59.609585,
+                        -38.34576
+                    ],
+                    [
+                        -59.606838,
+                        -38.372616
+                    ],
+                    [
+                        -59.622459,
+                        -38.350002
+                    ],
+                    [
+                        -59.614906,
+                        -38.345627
+                    ],
+                    [
+                        -59.609413,
+                        -38.342396
+                    ]
+                ]
+            ]
+        ]
+    }
+}

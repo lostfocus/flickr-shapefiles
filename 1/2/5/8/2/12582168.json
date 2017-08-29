@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12582168,
+    "properties": {
+        "woe_id": 12582168,
+        "place_id": "tWCazQKYA5kbYAn26Q",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Panorama, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517561,
+        "alpha": 0.0015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/12582168_20101216_aa6a1cab83.tar.gz"
+        },
+        "bbox": [
+            -51.910400390625,
+            -21.386150360107,
+            -51.845855712891,
+            -21.337989807129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.88448,
+                        -21.373802
+                    ],
+                    [
+                        -51.9104,
+                        -21.33799
+                    ],
+                    [
+                        -51.856155,
+                        -21.355097
+                    ],
+                    [
+                        -51.845856,
+                        -21.365009
+                    ],
+                    [
+                        -51.883621,
+                        -21.38615
+                    ],
+                    [
+                        -51.88448,
+                        -21.373802
+                    ]
+                ]
+            ]
+        ]
+    }
+}

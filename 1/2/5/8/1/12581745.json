@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12581745,
+    "properties": {
+        "woe_id": 12581745,
+        "place_id": "4m_NkYCYA5loP9_FEQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Pouso Redondo, Santa Catarina, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508005,
+        "alpha": 0.0015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/12581745_20101216_65377db3e8.tar.gz"
+        },
+        "bbox": [
+            -49.983673095703,
+            -27.301162719727,
+            -49.950000762939,
+            -27.25
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -49.983673,
+                        -27.276602
+                    ],
+                    [
+                        -49.950001,
+                        -27.25
+                    ],
+                    [
+                        -49.971657,
+                        -27.301163
+                    ],
+                    [
+                        -49.973591,
+                        -27.29557
+                    ],
+                    [
+                        -49.974403,
+                        -27.29369
+                    ],
+                    [
+                        -49.983673,
+                        -27.276602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

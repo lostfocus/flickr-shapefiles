@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 55999904,
+    "properties": {
+        "woe_id": 55999904,
+        "place_id": "XlWRXbmcBJWITDgSVA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Shatt Al Arab, Al Basrah, Iraq"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490548,
+        "alpha": 0.0015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/55999904_20101216_99dfb20866.tar.gz"
+        },
+        "bbox": [
+            47.858505249023,
+            30.491708755493,
+            47.929229736328,
+            30.530918121338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        47.858505,
+                        30.493208
+                    ],
+                    [
+                        47.861938,
+                        30.507257
+                    ],
+                    [
+                        47.92923,
+                        30.530918
+                    ],
+                    [
+                        47.875671,
+                        30.496017
+                    ],
+                    [
+                        47.863869,
+                        30.491709
+                    ],
+                    [
+                        47.858505,
+                        30.493208
+                    ]
+                ]
+            ]
+        ]
+    }
+}

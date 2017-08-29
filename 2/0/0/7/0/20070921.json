@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070921,
+    "properties": {
+        "woe_id": 20070921,
+        "place_id": "98vM0k2bAZwGJh9HbQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Rawson, San Juan, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234796526,
+        "alpha": 0.0015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3549\/shapefiles\/20070921_20090216_2a91b717b1.tar.gz"
+        },
+        "bbox": [
+            -68.541984558105,
+            -31.588771820068,
+            -68.522071838379,
+            -31.550451278687
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.541985,
+                        -31.561422
+                    ],
+                    [
+                        -68.523102,
+                        -31.550598
+                    ],
+                    [
+                        -68.522072,
+                        -31.550451
+                    ],
+                    [
+                        -68.528595,
+                        -31.573854
+                    ],
+                    [
+                        -68.52636,
+                        -31.588772
+                    ],
+                    [
+                        -68.541985,
+                        -31.561422
+                    ]
+                ]
+            ]
+        ]
+    }
+}

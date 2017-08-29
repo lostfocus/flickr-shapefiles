@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2345576,
+    "properties": {
+        "woe_id": 2345576,
+        "place_id": "5M7MTJSbApiDKNQ4",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Boke, Bok\u00e9, Guinea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452930,
+        "alpha": 0.0015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2345576_20101215_22d071c46d.tar.gz"
+        },
+        "bbox": [
+            -14.619541168213,
+            10.646520614624,
+            -14.56169128418,
+            10.669716835022
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -14.576797,
+                        10.6655
+                    ],
+                    [
+                        -14.561691,
+                        10.652088
+                    ],
+                    [
+                        -14.619541,
+                        10.646521
+                    ],
+                    [
+                        -14.5998,
+                        10.660861
+                    ],
+                    [
+                        -14.584522,
+                        10.669717
+                    ],
+                    [
+                        -14.576797,
+                        10.6655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

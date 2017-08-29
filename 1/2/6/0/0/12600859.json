@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12600859,
+    "properties": {
+        "woe_id": 12600859,
+        "place_id": "PGUggySYA5oZgonQtA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "San Juan Guelavia, Oaxaca, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521354,
+        "alpha": 0.0015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/12600859_20101216_e59a7fc6e8.tar.gz"
+        },
+        "bbox": [
+            -96.538063049316,
+            16.961164474487,
+            -96.519012451172,
+            16.986532211304
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.519012,
+                        16.986532
+                    ],
+                    [
+                        -96.520386,
+                        16.982592
+                    ],
+                    [
+                        -96.526222,
+                        16.961164
+                    ],
+                    [
+                        -96.538063,
+                        16.969622
+                    ],
+                    [
+                        -96.522789,
+                        16.983084
+                    ],
+                    [
+                        -96.519012,
+                        16.986532
+                    ]
+                ]
+            ]
+        ]
+    }
+}

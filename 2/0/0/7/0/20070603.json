@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20070603,
+    "properties": {
+        "woe_id": 20070603,
+        "place_id": "f6VgUM6bAZzv6tJjNQ",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Lincoln, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527764,
+        "alpha": 0.0015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/20070603_20101216_3bbed7ee2e.tar.gz"
+        },
+        "bbox": [
+            -61.539916992188,
+            -34.863960266113,
+            -61.477603912354,
+            -34.801307678223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.531334,
+                        -34.86396
+                    ],
+                    [
+                        -61.536484,
+                        -34.863255
+                    ],
+                    [
+                        -61.539917,
+                        -34.858891
+                    ],
+                    [
+                        -61.518528,
+                        -34.801308
+                    ],
+                    [
+                        -61.477604,
+                        -34.836208
+                    ],
+                    [
+                        -61.530304,
+                        -34.863186
+                    ],
+                    [
+                        -61.531334,
+                        -34.86396
+                    ]
+                ]
+            ]
+        ]
+    }
+}

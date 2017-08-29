@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12600213,
+    "properties": {
+        "woe_id": 12600213,
+        "place_id": "nHgx1C6YA5rF7qiS5Q",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Canadas de Obregon, Jalisco, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517929,
+        "alpha": 0.0015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/12600213_20101216_b16c78d41a.tar.gz"
+        },
+        "bbox": [
+            -102.70752716064,
+            21.147302627563,
+            -102.68609619141,
+            21.190473556519
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -102.707527,
+                        21.188049
+                    ],
+                    [
+                        -102.707146,
+                        21.188423
+                    ],
+                    [
+                        -102.693481,
+                        21.190474
+                    ],
+                    [
+                        -102.686096,
+                        21.147303
+                    ],
+                    [
+                        -102.706978,
+                        21.186932
+                    ],
+                    [
+                        -102.707527,
+                        21.188049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

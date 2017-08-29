@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12582204,
+    "properties": {
+        "woe_id": 12582204,
+        "place_id": "NUm_qi.YA5n_yGMtvA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Pirapozinho, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456960,
+        "alpha": 0.0015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/12582204_20101215_144aeca9e8.tar.gz"
+        },
+        "bbox": [
+            -51.50390625,
+            -22.280498504639,
+            -51.496353149414,
+            -22.262647628784
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.502018,
+                        -22.262648
+                    ],
+                    [
+                        -51.496353,
+                        -22.263363
+                    ],
+                    [
+                        -51.497768,
+                        -22.280499
+                    ],
+                    [
+                        -51.501461,
+                        -22.273888
+                    ],
+                    [
+                        -51.503906,
+                        -22.268764
+                    ],
+                    [
+                        -51.502018,
+                        -22.262648
+                    ]
+                ]
+            ]
+        ]
+    }
+}

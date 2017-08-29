@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12582329,
+    "properties": {
+        "woe_id": 12582329,
+        "place_id": "A7mbmyaYA5nTCj3EhA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Sete Barras, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551142,
+        "alpha": 0.0015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/12582329_20101217_33b364540a.tar.gz"
+        },
+        "bbox": [
+            -47.936996459961,
+            -24.415891647339,
+            -47.889404296875,
+            -24.377119064331
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -47.936996,
+                        -24.395941
+                    ],
+                    [
+                        -47.93026,
+                        -24.381968
+                    ],
+                    [
+                        -47.889404,
+                        -24.377119
+                    ],
+                    [
+                        -47.905796,
+                        -24.390409
+                    ],
+                    [
+                        -47.931976,
+                        -24.415892
+                    ],
+                    [
+                        -47.936996,
+                        -24.395941
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 12582224,
+    "properties": {
+        "woe_id": 12582224,
+        "place_id": "ybnb3SeYA5lkWqYhVA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Presidente Bernardes, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536963,
+        "alpha": 0.0015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/12582224_20101216_0da4e505e2.tar.gz"
+        },
+        "bbox": [
+            -51.567420959473,
+            -22.039821624756,
+            -51.551113128662,
+            -21.990566253662
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.566563,
+                        -21.991043
+                    ],
+                    [
+                        -51.55875,
+                        -21.990566
+                    ],
+                    [
+                        -51.551113,
+                        -22.00688
+                    ],
+                    [
+                        -51.553516,
+                        -22.015314
+                    ],
+                    [
+                        -51.565533,
+                        -22.039822
+                    ],
+                    [
+                        -51.567421,
+                        -21.998684
+                    ],
+                    [
+                        -51.566563,
+                        -21.991043
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12600023,
+    "properties": {
+        "woe_id": 12600023,
+        "place_id": "9DjKS5eYA5pkhs9y1w",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Santa Cruz de Juventino Rosas, Guanajuato, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541326,
+        "alpha": 0.0015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/12600023_20101216_6c8ca9773e.tar.gz"
+        },
+        "bbox": [
+            -101.02143096924,
+            20.579002380371,
+            -100.95336914062,
+            20.663785934448
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -100.988388,
+                        20.663786
+                    ],
+                    [
+                        -100.953369,
+                        20.629572
+                    ],
+                    [
+                        -100.967445,
+                        20.579002
+                    ],
+                    [
+                        -101.021431,
+                        20.585545
+                    ],
+                    [
+                        -101.018517,
+                        20.645393
+                    ],
+                    [
+                        -100.988388,
+                        20.663786
+                    ]
+                ]
+            ]
+        ]
+    }
+}

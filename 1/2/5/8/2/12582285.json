@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12582285,
+    "properties": {
+        "woe_id": 12582285,
+        "place_id": "t_X6snOYA5ku1fXl6A",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Santa Rosa de Viterbo, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536682,
+        "alpha": 0.0015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/12582285_20101216_94a1c0d4f6.tar.gz"
+        },
+        "bbox": [
+            -47.381286621094,
+            -21.491327285767,
+            -47.361072540283,
+            -21.454345703125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -47.361073,
+                        -21.480705
+                    ],
+                    [
+                        -47.369099,
+                        -21.491327
+                    ],
+                    [
+                        -47.381287,
+                        -21.490129
+                    ],
+                    [
+                        -47.36824,
+                        -21.471281
+                    ],
+                    [
+                        -47.362061,
+                        -21.454346
+                    ],
+                    [
+                        -47.361073,
+                        -21.480705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

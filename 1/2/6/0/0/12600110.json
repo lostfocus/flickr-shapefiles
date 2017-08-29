@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 12600110,
+    "properties": {
+        "woe_id": 12600110,
+        "place_id": "2eAl1h6YA5qB4XcEUw",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Acatlan, Hidalgo, Mexico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452021,
+        "alpha": 0.0015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/12600110_20101215_046bd5d942.tar.gz"
+        },
+        "bbox": [
+            -98.516807556152,
+            20.060123443604,
+            -98.470970153809,
+            20.151834487915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.516808,
+                        20.120256
+                    ],
+                    [
+                        -98.511658,
+                        20.151834
+                    ],
+                    [
+                        -98.47097,
+                        20.139839
+                    ],
+                    [
+                        -98.472519,
+                        20.092047
+                    ],
+                    [
+                        -98.488998,
+                        20.060123
+                    ],
+                    [
+                        -98.516808,
+                        20.120256
+                    ]
+                ]
+            ]
+        ]
+    }
+}

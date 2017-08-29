@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070915,
+    "properties": {
+        "woe_id": 20070915,
+        "place_id": "YLlVXGCbAZxPAEM4vA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Santa Luc\u00eda, San Juan, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518937,
+        "alpha": 0.0015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/20070915_20101216_dca06eb19f.tar.gz"
+        },
+        "bbox": [
+            -68.505249023438,
+            -31.585554122925,
+            -68.480529785156,
+            -31.527481079102
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.505249,
+                        -31.544601
+                    ],
+                    [
+                        -68.493744,
+                        -31.527481
+                    ],
+                    [
+                        -68.481133,
+                        -31.548624
+                    ],
+                    [
+                        -68.48053,
+                        -31.585554
+                    ],
+                    [
+                        -68.493233,
+                        -31.566763
+                    ],
+                    [
+                        -68.505249,
+                        -31.544601
+                    ]
+                ]
+            ]
+        ]
+    }
+}

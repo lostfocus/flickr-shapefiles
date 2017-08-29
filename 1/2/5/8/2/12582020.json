@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 12582020,
+    "properties": {
+        "woe_id": 12582020,
+        "place_id": "lzK4cdmYA5keHGTtDA",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Indiana, Sao Paulo, Brazil"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292380203,
+        "alpha": 0.0015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/12582020_20101215_c973ec420c.tar.gz"
+        },
+        "bbox": [
+            -51.292419433594,
+            -22.18510055542,
+            -51.253452301025,
+            -22.13271522522
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -51.260147,
+                        -22.185101
+                    ],
+                    [
+                        -51.292419,
+                        -22.132715
+                    ],
+                    [
+                        -51.255039,
+                        -22.14801
+                    ],
+                    [
+                        -51.253452,
+                        -22.174847
+                    ],
+                    [
+                        -51.260147,
+                        -22.185101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

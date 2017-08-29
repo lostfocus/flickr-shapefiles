@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20070903,
+    "properties": {
+        "woe_id": 20070903,
+        "place_id": "G2UyhaabAZy5zjdkVg",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Nogoy\u00e1, Entre Rios, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529268,
+        "alpha": 0.0015,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20070903_20101216_fb5a6b7d9a.tar.gz"
+        },
+        "bbox": [
+            -59.746570587158,
+            -32.573146820068,
+            -59.73575592041,
+            -32.55708694458
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -59.742107,
+                        -32.573147
+                    ],
+                    [
+                        -59.746571,
+                        -32.572784
+                    ],
+                    [
+                        -59.736271,
+                        -32.557087
+                    ],
+                    [
+                        -59.735756,
+                        -32.561138
+                    ],
+                    [
+                        -59.738159,
+                        -32.566345
+                    ],
+                    [
+                        -59.742107,
+                        -32.573147
+                    ]
+                ]
+            ]
+        ]
+    }
+}

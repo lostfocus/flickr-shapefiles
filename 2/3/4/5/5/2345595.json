@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2345595,
+    "properties": {
+        "woe_id": 2345595,
+        "place_id": "33W_X6SbApjppoPC",
+        "place_type": "county",
+        "place_type_id": 9,
+        "label": "Mali, Lab\u00e9, Guinea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539734,
+        "alpha": 0.0015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2345595_20101216_91d593a41f.tar.gz"
+        },
+        "bbox": [
+            -12.325972557068,
+            12.323902130127,
+            -12.280912399292,
+            12.419141769409
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -12.280912,
+                        12.375849
+                    ],
+                    [
+                        -12.30194,
+                        12.323902
+                    ],
+                    [
+                        -12.325973,
+                        12.361465
+                    ],
+                    [
+                        -12.315673,
+                        12.417968
+                    ],
+                    [
+                        -12.283401,
+                        12.419142
+                    ],
+                    [
+                        -12.280912,
+                        12.375849
+                    ]
+                ]
+            ]
+        ]
+    }
+}
