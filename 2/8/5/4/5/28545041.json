@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28545041,
+    "properties": {
+        "woe_id": 28545041,
+        "place_id": "ggi9npybCZlz.BxkvA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arai 1 Chome, Ito-shi, Shizuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449564,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28545041_20101215_09606582f4.tar.gz"
+        },
+        "bbox": [
+            139.10508728027,
+            34.96911239624,
+            139.10641479492,
+            34.969654083252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.105087,
+                        34.969479
+                    ],
+                    [
+                        139.105682,
+                        34.969654
+                    ],
+                    [
+                        139.106415,
+                        34.969147
+                    ],
+                    [
+                        139.106201,
+                        34.969112
+                    ],
+                    [
+                        139.105499,
+                        34.969227
+                    ],
+                    [
+                        139.105087,
+                        34.969479
+                    ]
+                ]
+            ]
+        ]
+    }
+}

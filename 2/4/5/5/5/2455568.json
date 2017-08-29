@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2455568,
+    "properties": {
+        "woe_id": 2455568,
+        "place_id": "AFrXNdebBZmuMp46",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mount Vernon, Hamburg, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522266,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2455568_20101216_d3776fd199.tar.gz"
+        },
+        "bbox": [
+            -78.879165649414,
+            42.763729095459,
+            -78.878746032715,
+            42.764404296875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.879005,
+                        42.764091
+                    ],
+                    [
+                        -78.879166,
+                        42.764332
+                    ],
+                    [
+                        -78.878746,
+                        42.764404
+                    ],
+                    [
+                        -78.878792,
+                        42.763729
+                    ],
+                    [
+                        -78.879005,
+                        42.764091
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2461153,
+    "properties": {
+        "woe_id": 2461153,
+        "place_id": "GdE5VxmbBZr0aU7K",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Hillsdale, Hillsdale, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438470,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2461153_20101215_1b7cf67824.tar.gz"
+        },
+        "bbox": [
+            -73.508193969727,
+            42.253490447998,
+            -73.502159118652,
+            42.257999420166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.502174,
+                        42.255112
+                    ],
+                    [
+                        -73.502159,
+                        42.255024
+                    ],
+                    [
+                        -73.50351,
+                        42.25349
+                    ],
+                    [
+                        -73.503685,
+                        42.253647
+                    ],
+                    [
+                        -73.504868,
+                        42.255363
+                    ],
+                    [
+                        -73.508057,
+                        42.256302
+                    ],
+                    [
+                        -73.508194,
+                        42.257999
+                    ],
+                    [
+                        -73.503723,
+                        42.256672
+                    ],
+                    [
+                        -73.503342,
+                        42.256577
+                    ],
+                    [
+                        -73.502174,
+                        42.255112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

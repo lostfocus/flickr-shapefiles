@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369601,
+    "properties": {
+        "woe_id": 2369601,
+        "place_id": "_GKTir6bApqb4tBc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Broadwood Manor, Rockville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247834768,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3473\/shapefiles\/2369601_20090717_ae169b840c.tar.gz"
+        },
+        "bbox": [
+            -77.123565673828,
+            39.075538635254,
+            -77.114105224609,
+            39.078205108643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.114151,
+                        39.077187
+                    ],
+                    [
+                        -77.115303,
+                        39.075539
+                    ],
+                    [
+                        -77.116737,
+                        39.075809
+                    ],
+                    [
+                        -77.123566,
+                        39.076599
+                    ],
+                    [
+                        -77.114105,
+                        39.078205
+                    ],
+                    [
+                        -77.114151,
+                        39.077187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

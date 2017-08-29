@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2515912,
+    "properties": {
+        "woe_id": 2515912,
+        "place_id": ".6P9aCCbBJ1L9_.l",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Webster Square, Worcester, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523344,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2515912_20101216_78406d4bda.tar.gz"
+        },
+        "bbox": [
+            -71.84481048584,
+            42.241691589355,
+            -71.840057373047,
+            42.244621276855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.842499,
+                        42.241703
+                    ],
+                    [
+                        -71.84481,
+                        42.244621
+                    ],
+                    [
+                        -71.840057,
+                        42.243664
+                    ],
+                    [
+                        -71.841103,
+                        42.243027
+                    ],
+                    [
+                        -71.842056,
+                        42.241692
+                    ],
+                    [
+                        -71.842499,
+                        42.241703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2364451,
+    "properties": {
+        "woe_id": 2364451,
+        "place_id": "DUxH2hubApoG4WEj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Birchwood, Windsor, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537588,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2364451_20101216_c1a2396bca.tar.gz"
+        },
+        "bbox": [
+            -72.707092285156,
+            41.897422790527,
+            -72.702285766602,
+            41.90198135376
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.703224,
+                        41.899719
+                    ],
+                    [
+                        -72.702286,
+                        41.897423
+                    ],
+                    [
+                        -72.704346,
+                        41.898586
+                    ],
+                    [
+                        -72.707092,
+                        41.900536
+                    ],
+                    [
+                        -72.703697,
+                        41.901981
+                    ],
+                    [
+                        -72.703224,
+                        41.899719
+                    ]
+                ]
+            ]
+        ]
+    }
+}

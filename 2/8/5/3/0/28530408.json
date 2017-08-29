@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530408,
+    "properties": {
+        "woe_id": 28530408,
+        "place_id": "pHc5q1ibCZmAk5ZQMQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinmachi 2 Chome, Ome-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449543,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/28530408_20101215_a928ce0259.tar.gz"
+        },
+        "bbox": [
+            139.29907226562,
+            35.785152435303,
+            139.30317687988,
+            35.790634155273
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.303177,
+                        35.787342
+                    ],
+                    [
+                        139.299652,
+                        35.785152
+                    ],
+                    [
+                        139.299072,
+                        35.790619
+                    ],
+                    [
+                        139.299347,
+                        35.790634
+                    ],
+                    [
+                        139.302368,
+                        35.787865
+                    ],
+                    [
+                        139.303177,
+                        35.787342
+                    ]
+                ]
+            ]
+        ]
+    }
+}

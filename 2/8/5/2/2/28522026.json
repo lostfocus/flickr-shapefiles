@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522026,
+    "properties": {
+        "woe_id": 28522026,
+        "place_id": "RYEIWP6bCZnc1NNO5g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tokiwa 6 Chome, Saitama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452682,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/28522026_20101215_80c5b2a7a0.tar.gz"
+        },
+        "bbox": [
+            139.64364624023,
+            35.860664367676,
+            139.64599609375,
+            35.86255645752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.645996,
+                        35.861279
+                    ],
+                    [
+                        139.644913,
+                        35.860855
+                    ],
+                    [
+                        139.643997,
+                        35.860664
+                    ],
+                    [
+                        139.643646,
+                        35.862556
+                    ],
+                    [
+                        139.64537,
+                        35.861622
+                    ],
+                    [
+                        139.645996,
+                        35.861279
+                    ]
+                ]
+            ]
+        ]
+    }
+}

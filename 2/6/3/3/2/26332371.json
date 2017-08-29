@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 26332371,
+    "properties": {
+        "woe_id": 26332371,
+        "place_id": "R3KOuMybB5.rdaFXTQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bloor West Village, Toronto, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549944,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/26332371_20101217_fca947735e.tar.gz"
+        },
+        "bbox": [
+            -79.470558166504,
+            43.648078918457,
+            -79.46654510498,
+            43.65287399292
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.468239,
+                        43.652363
+                    ],
+                    [
+                        -79.466545,
+                        43.652874
+                    ],
+                    [
+                        -79.467598,
+                        43.650223
+                    ],
+                    [
+                        -79.470558,
+                        43.648079
+                    ],
+                    [
+                        -79.468239,
+                        43.652363
+                    ]
+                ]
+            ]
+        ]
+    }
+}

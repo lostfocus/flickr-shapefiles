@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483538,
+    "properties": {
+        "woe_id": 2483538,
+        "place_id": "6cOZL22bBZSWku5M",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockville, Belleville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549102,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2483538_20101217_a5c1c481ef.tar.gz"
+        },
+        "bbox": [
+            -77.761833190918,
+            40.646911621094,
+            -77.757659912109,
+            40.649257659912
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.757973,
+                        40.649258
+                    ],
+                    [
+                        -77.75766,
+                        40.649071
+                    ],
+                    [
+                        -77.758858,
+                        40.648647
+                    ],
+                    [
+                        -77.761833,
+                        40.646912
+                    ],
+                    [
+                        -77.759216,
+                        40.649029
+                    ],
+                    [
+                        -77.757973,
+                        40.649258
+                    ]
+                ]
+            ]
+        ]
+    }
+}

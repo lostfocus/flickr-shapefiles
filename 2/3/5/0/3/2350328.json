@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2350328,
+    "properties": {
+        "woe_id": 2350328,
+        "place_id": "VNS1lSabApmSpKEp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rangi Point, Kohukohu, Northland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519781,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2350328_20101216_1c5e71def7.tar.gz"
+        },
+        "bbox": [
+            173.35459899902,
+            -35.518253326416,
+            173.3576965332,
+            -35.51420211792
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        173.357269,
+                        -35.515076
+                    ],
+                    [
+                        173.355331,
+                        -35.518253
+                    ],
+                    [
+                        173.354599,
+                        -35.514484
+                    ],
+                    [
+                        173.355164,
+                        -35.514202
+                    ],
+                    [
+                        173.357697,
+                        -35.514797
+                    ],
+                    [
+                        173.357269,
+                        -35.515076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

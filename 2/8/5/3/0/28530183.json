@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530183,
+    "properties": {
+        "woe_id": 28530183,
+        "place_id": "CFNqDyubCZmUELUXKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kashiwacho 3 Chome, Tachikawa-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457716,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/28530183_20101216_c0a908a1a5.tar.gz"
+        },
+        "bbox": [
+            139.4178314209,
+            35.723667144775,
+            139.41833496094,
+            35.725833892822
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.418335,
+                        35.724167
+                    ],
+                    [
+                        139.418335,
+                        35.723999
+                    ],
+                    [
+                        139.418167,
+                        35.723831
+                    ],
+                    [
+                        139.417953,
+                        35.723667
+                    ],
+                    [
+                        139.417831,
+                        35.725834
+                    ],
+                    [
+                        139.418335,
+                        35.724167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2423294,
+    "properties": {
+        "woe_id": 2423294,
+        "place_id": "YVKyPcibBZ4o0uSn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holly Heights, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530954,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2423294_20101216_497e70b893.tar.gz"
+        },
+        "bbox": [
+            -111.86431884766,
+            40.634700775146,
+            -111.86193084717,
+            40.635372161865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.86393,
+                        40.635044
+                    ],
+                    [
+                        -111.864319,
+                        40.635296
+                    ],
+                    [
+                        -111.863853,
+                        40.635372
+                    ],
+                    [
+                        -111.86245,
+                        40.635319
+                    ],
+                    [
+                        -111.861931,
+                        40.634701
+                    ],
+                    [
+                        -111.86393,
+                        40.635044
+                    ]
+                ]
+            ]
+        ]
+    }
+}

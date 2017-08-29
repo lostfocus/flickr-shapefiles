@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2444999,
+    "properties": {
+        "woe_id": 2444999,
+        "place_id": "SPI6zk.bBZg6yGq_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mansfield City, Mansfield Center, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469422,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2444999_20101216_883a677f36.tar.gz"
+        },
+        "bbox": [
+            -72.183059692383,
+            41.756275177002,
+            -72.181350708008,
+            41.756832122803
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.18306,
+                        41.75629
+                    ],
+                    [
+                        -72.182404,
+                        41.756832
+                    ],
+                    [
+                        -72.181351,
+                        41.756748
+                    ],
+                    [
+                        -72.181808,
+                        41.756363
+                    ],
+                    [
+                        -72.183029,
+                        41.756275
+                    ],
+                    [
+                        -72.18306,
+                        41.75629
+                    ]
+                ]
+            ]
+        ]
+    }
+}

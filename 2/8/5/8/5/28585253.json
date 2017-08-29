@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28585253,
+    "properties": {
+        "woe_id": 28585253,
+        "place_id": "SA9XiqybCZmMPwmKiQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Golden Square, Bendigo, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523706,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/28585253_20101216_3e99a58d70.tar.gz"
+        },
+        "bbox": [
+            144.25541687012,
+            -36.77339553833,
+            144.26062011719,
+            -36.769691467285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.26062,
+                        -36.772511
+                    ],
+                    [
+                        144.260437,
+                        -36.773266
+                    ],
+                    [
+                        144.257294,
+                        -36.773396
+                    ],
+                    [
+                        144.255417,
+                        -36.769691
+                    ],
+                    [
+                        144.259506,
+                        -36.770294
+                    ],
+                    [
+                        144.26062,
+                        -36.772511
+                    ]
+                ]
+            ]
+        ]
+    }
+}

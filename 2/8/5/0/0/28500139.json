@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28500139,
+    "properties": {
+        "woe_id": 28500139,
+        "place_id": "wxyCV66bCZn2EMoHmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hoshiokichijo 7 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442115,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/28500139_20101215_721991e958.tar.gz"
+        },
+        "bbox": [
+            141.19731140137,
+            43.133331298828,
+            141.19989013672,
+            43.134815216064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.199371,
+                        43.134689
+                    ],
+                    [
+                        141.19989,
+                        43.134312
+                    ],
+                    [
+                        141.198837,
+                        43.133331
+                    ],
+                    [
+                        141.198517,
+                        43.133812
+                    ],
+                    [
+                        141.197311,
+                        43.134815
+                    ],
+                    [
+                        141.199371,
+                        43.134689
+                    ]
+                ]
+            ]
+        ]
+    }
+}

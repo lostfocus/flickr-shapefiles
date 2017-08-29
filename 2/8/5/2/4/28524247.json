@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524247,
+    "properties": {
+        "woe_id": 28524247,
+        "place_id": "RCsD1fubCZkBx7XoRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Musashidai 5 Chome, Hidaka-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503026,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/28524247_20101216_99662b288b.tar.gz"
+        },
+        "bbox": [
+            139.30841064453,
+            35.86194229126,
+            139.31413269043,
+            35.867618560791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.31102,
+                        35.867619
+                    ],
+                    [
+                        139.311661,
+                        35.867573
+                    ],
+                    [
+                        139.314133,
+                        35.864082
+                    ],
+                    [
+                        139.30899,
+                        35.861942
+                    ],
+                    [
+                        139.308411,
+                        35.862072
+                    ],
+                    [
+                        139.31102,
+                        35.867619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

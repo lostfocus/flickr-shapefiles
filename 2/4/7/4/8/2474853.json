@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2474853,
+    "properties": {
+        "woe_id": 2474853,
+        "place_id": "maomj4ibBZsc1L7k",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pomeroy Heights, Coatesville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525600,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/2474853_20101216_ece383fa37.tar.gz"
+        },
+        "bbox": [
+            -75.87126159668,
+            39.974277496338,
+            -75.869575500488,
+            39.974983215332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.869896,
+                        39.974277
+                    ],
+                    [
+                        -75.870163,
+                        39.974304
+                    ],
+                    [
+                        -75.871262,
+                        39.974983
+                    ],
+                    [
+                        -75.870499,
+                        39.974884
+                    ],
+                    [
+                        -75.869576,
+                        39.974636
+                    ],
+                    [
+                        -75.869896,
+                        39.974277
+                    ]
+                ]
+            ]
+        ]
+    }
+}

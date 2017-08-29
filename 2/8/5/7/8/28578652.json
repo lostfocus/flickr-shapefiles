@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28578652,
+    "properties": {
+        "woe_id": 28578652,
+        "place_id": "m9mclx.bCZkgIFTj.g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ropponmatsu 2 Chome, Fukuoka-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449615,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/28578652_20101215_0209acd349.tar.gz"
+        },
+        "bbox": [
+            130.37690734863,
+            33.577838897705,
+            130.37922668457,
+            33.578762054443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.377319,
+                        33.577839
+                    ],
+                    [
+                        130.376907,
+                        33.577927
+                    ],
+                    [
+                        130.377502,
+                        33.578587
+                    ],
+                    [
+                        130.379227,
+                        33.578762
+                    ],
+                    [
+                        130.378159,
+                        33.578335
+                    ],
+                    [
+                        130.377319,
+                        33.577839
+                    ]
+                ]
+            ]
+        ]
+    }
+}

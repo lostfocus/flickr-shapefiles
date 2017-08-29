@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2358567,
+    "properties": {
+        "woe_id": 2358567,
+        "place_id": "N0kTZcWbApn_Jgiw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Balcony Falls, Glasgow, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547434,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2358567_20101217_95eabff686.tar.gz"
+        },
+        "bbox": [
+            -79.456443786621,
+            37.62682723999,
+            -79.450546264648,
+            37.631496429443
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.451408,
+                        37.631496
+                    ],
+                    [
+                        -79.450592,
+                        37.631344
+                    ],
+                    [
+                        -79.450546,
+                        37.627556
+                    ],
+                    [
+                        -79.456444,
+                        37.626827
+                    ],
+                    [
+                        -79.452599,
+                        37.630436
+                    ],
+                    [
+                        -79.451408,
+                        37.631496
+                    ]
+                ]
+            ]
+        ]
+    }
+}

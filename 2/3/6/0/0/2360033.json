@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2360033,
+    "properties": {
+        "woe_id": 2360033,
+        "place_id": "TPVc7QabApp0Q_wH",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Battery Hill, Bridgeport, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506924,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2360033_20101216_6910fdfeb4.tar.gz"
+        },
+        "bbox": [
+            -85.714904785156,
+            34.947601318359,
+            -85.711410522461,
+            34.949241638184
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.713005,
+                        34.948616
+                    ],
+                    [
+                        -85.714531,
+                        34.947601
+                    ],
+                    [
+                        -85.714905,
+                        34.949238
+                    ],
+                    [
+                        -85.712868,
+                        34.949242
+                    ],
+                    [
+                        -85.711411,
+                        34.94873
+                    ],
+                    [
+                        -85.713005,
+                        34.948616
+                    ]
+                ]
+            ]
+        ]
+    }
+}

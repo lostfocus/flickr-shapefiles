@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2489561,
+    "properties": {
+        "woe_id": 2489561,
+        "place_id": "nKclAMabBZSbx1fb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scarsdale Downs, Scarsdale, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451903,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2489561_20101215_a7b9d2f4b5.tar.gz"
+        },
+        "bbox": [
+            -73.782836914062,
+            40.982166290283,
+            -73.777656555176,
+            40.986331939697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.782837,
+                        40.986332
+                    ],
+                    [
+                        -73.78167,
+                        40.986
+                    ],
+                    [
+                        -73.777657,
+                        40.98539
+                    ],
+                    [
+                        -73.782166,
+                        40.982166
+                    ],
+                    [
+                        -73.782501,
+                        40.985832
+                    ],
+                    [
+                        -73.782837,
+                        40.986332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

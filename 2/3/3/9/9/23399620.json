@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 23399620,
+    "properties": {
+        "woe_id": 23399620,
+        "place_id": "izXOFvybAp8VNOli5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Keelesdale, York, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247952122,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3428\/shapefiles\/23399620_20090718_ec773ddb53.tar.gz"
+        },
+        "bbox": [
+            -79.482971191406,
+            43.680553436279,
+            -79.474349975586,
+            43.685150146484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.479904,
+                        43.683434
+                    ],
+                    [
+                        -79.474579,
+                        43.68515
+                    ],
+                    [
+                        -79.47435,
+                        43.680553
+                    ],
+                    [
+                        -79.475998,
+                        43.681667
+                    ],
+                    [
+                        -79.480591,
+                        43.682739
+                    ],
+                    [
+                        -79.482971,
+                        43.680984
+                    ],
+                    [
+                        -79.481964,
+                        43.683624
+                    ],
+                    [
+                        -79.479904,
+                        43.683434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

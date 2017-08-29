@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2465585,
+    "properties": {
+        "woe_id": 2465585,
+        "place_id": "DDJLMZabBZprsuZW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Omi, Ghent, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544738,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2465585_20101217_c92b4edbff.tar.gz"
+        },
+        "bbox": [
+            -73.673332214355,
+            42.331092834473,
+            -73.670036315918,
+            42.336040496826
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.67144,
+                        42.331581
+                    ],
+                    [
+                        -73.672195,
+                        42.331093
+                    ],
+                    [
+                        -73.673332,
+                        42.334167
+                    ],
+                    [
+                        -73.672897,
+                        42.33604
+                    ],
+                    [
+                        -73.670036,
+                        42.332176
+                    ],
+                    [
+                        -73.67144,
+                        42.331581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

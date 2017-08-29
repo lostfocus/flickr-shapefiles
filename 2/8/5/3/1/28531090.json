@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531090,
+    "properties": {
+        "woe_id": 28531090,
+        "place_id": "4dssgN2bCZmKqvYrmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamidaira 9 Chome, Hino-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391966,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28531090_20101215_21efa37601.tar.gz"
+        },
+        "bbox": [
+            139.39517211914,
+            35.648166656494,
+            139.39625549316,
+            35.648906707764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.395493,
+                        35.648167
+                    ],
+                    [
+                        139.395172,
+                        35.648335
+                    ],
+                    [
+                        139.395645,
+                        35.648907
+                    ],
+                    [
+                        139.396255,
+                        35.648403
+                    ],
+                    [
+                        139.396164,
+                        35.648357
+                    ],
+                    [
+                        139.395493,
+                        35.648167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

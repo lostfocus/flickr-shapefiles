@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2480102,
+    "properties": {
+        "woe_id": 2480102,
+        "place_id": "dR3CLPqbBZRq4EdZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Remington Place, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522128,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2480102_20101216_2c544246fe.tar.gz"
+        },
+        "bbox": [
+            -111.95149993896,
+            40.672420501709,
+            -111.94424438477,
+            40.678207397461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.944244,
+                        40.675602
+                    ],
+                    [
+                        -111.945274,
+                        40.672825
+                    ],
+                    [
+                        -111.945724,
+                        40.67334
+                    ],
+                    [
+                        -111.9515,
+                        40.672421
+                    ],
+                    [
+                        -111.94825,
+                        40.676212
+                    ],
+                    [
+                        -111.94516,
+                        40.678207
+                    ],
+                    [
+                        -111.944244,
+                        40.675602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

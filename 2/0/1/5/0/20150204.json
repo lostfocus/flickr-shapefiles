@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20150204,
+    "properties": {
+        "woe_id": 20150204,
+        "place_id": "cyePKA.bAZ1VGRT3vg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monte Cuccolino, Bologna, ER, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495287,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/20150204_20101216_2ac4e7fb9e.tar.gz"
+        },
+        "bbox": [
+            11.332480430603,
+            44.457565307617,
+            11.33251285553,
+            44.457580566406
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.332486,
+                        44.457581
+                    ],
+                    [
+                        11.332513,
+                        44.457565
+                    ],
+                    [
+                        11.332483,
+                        44.457577
+                    ],
+                    [
+                        11.33248,
+                        44.457581
+                    ],
+                    [
+                        11.332486,
+                        44.457581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

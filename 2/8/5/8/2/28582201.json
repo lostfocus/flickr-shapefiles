@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28582201,
+    "properties": {
+        "woe_id": 28582201,
+        "place_id": "dKWBBGCbCZlcF4kayg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ishigakihigashi 1 Chome, Beppu-shi, Oita Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455284,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/28582201_20101215_839fafe390.tar.gz"
+        },
+        "bbox": [
+            131.50120544434,
+            33.286365509033,
+            131.50379943848,
+            33.289138793945
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        131.502563,
+                        33.289139
+                    ],
+                    [
+                        131.503799,
+                        33.288265
+                    ],
+                    [
+                        131.503799,
+                        33.28817
+                    ],
+                    [
+                        131.501205,
+                        33.286366
+                    ],
+                    [
+                        131.501938,
+                        33.287643
+                    ],
+                    [
+                        131.502563,
+                        33.289139
+                    ]
+                ]
+            ]
+        ]
+    }
+}

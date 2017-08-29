@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2507615,
+    "properties": {
+        "woe_id": 2507615,
+        "place_id": "GShIy1ibBJx9TYDw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Trailwood, Clinton, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542621,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2507615_20101216_8bc300c21d.tar.gz"
+        },
+        "bbox": [
+            -90.326957702637,
+            32.320556640625,
+            -90.319763183594,
+            32.325019836426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.325653,
+                        32.323372
+                    ],
+                    [
+                        -90.326958,
+                        32.32502
+                    ],
+                    [
+                        -90.325226,
+                        32.324265
+                    ],
+                    [
+                        -90.319763,
+                        32.322498
+                    ],
+                    [
+                        -90.325073,
+                        32.320557
+                    ],
+                    [
+                        -90.325653,
+                        32.323372
+                    ]
+                ]
+            ]
+        ]
+    }
+}

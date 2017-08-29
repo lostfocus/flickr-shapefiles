@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745670,
+    "properties": {
+        "woe_id": 28745670,
+        "place_id": "Zx2yOwSbCZtw0onr6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Port Malabar, Palm Bay, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448936,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28745670_20101215_6696dfcbfa.tar.gz"
+        },
+        "bbox": [
+            -80.653038024902,
+            28.031312942505,
+            -80.649871826172,
+            28.033727645874
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.649872,
+                        28.031712
+                    ],
+                    [
+                        -80.650681,
+                        28.031313
+                    ],
+                    [
+                        -80.651398,
+                        28.031738
+                    ],
+                    [
+                        -80.653038,
+                        28.033728
+                    ],
+                    [
+                        -80.650459,
+                        28.033728
+                    ],
+                    [
+                        -80.649872,
+                        28.031712
+                    ]
+                ]
+            ]
+        ]
+    }
+}

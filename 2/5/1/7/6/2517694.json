@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2517694,
+    "properties": {
+        "woe_id": 2517694,
+        "place_id": "uvWRHDibBJ3g33x3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Salem, Winston-Salem, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292501287,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2517694_20101216_60a703770c.tar.gz"
+        },
+        "bbox": [
+            -80.251411437988,
+            36.084812164307,
+            -80.24942779541,
+            36.088436126709
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.251411,
+                        36.086311
+                    ],
+                    [
+                        -80.249428,
+                        36.088436
+                    ],
+                    [
+                        -80.249504,
+                        36.087543
+                    ],
+                    [
+                        -80.249428,
+                        36.084812
+                    ],
+                    [
+                        -80.251411,
+                        36.086311
+                    ]
+                ]
+            ]
+        ]
+    }
+}

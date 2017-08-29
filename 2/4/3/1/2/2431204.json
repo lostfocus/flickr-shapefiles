@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2431204,
+    "properties": {
+        "woe_id": 2431204,
+        "place_id": "q4CY3cObBZ881I_a",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kelleys Corner, Chichester, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292461091,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2431204_20101216_8a5cd2e75e.tar.gz"
+        },
+        "bbox": [
+            -71.325546264648,
+            43.305828094482,
+            -71.32341003418,
+            43.30823135376
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.324982,
+                        43.308231
+                    ],
+                    [
+                        -71.323524,
+                        43.307686
+                    ],
+                    [
+                        -71.32341,
+                        43.307106
+                    ],
+                    [
+                        -71.32547,
+                        43.305828
+                    ],
+                    [
+                        -71.325546,
+                        43.307308
+                    ],
+                    [
+                        -71.324982,
+                        43.308231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

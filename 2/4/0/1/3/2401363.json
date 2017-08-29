@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2401363,
+    "properties": {
+        "woe_id": 2401363,
+        "place_id": "TfLFA0ebBZzO3wPl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairfax Hills, Raleigh, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527476,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2401363_20101216_d686843cc8.tar.gz"
+        },
+        "bbox": [
+            -78.629974365234,
+            35.856456756592,
+            -78.623001098633,
+            35.864273071289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.62867,
+                        35.862331
+                    ],
+                    [
+                        -78.628662,
+                        35.864044
+                    ],
+                    [
+                        -78.624168,
+                        35.864273
+                    ],
+                    [
+                        -78.623001,
+                        35.860523
+                    ],
+                    [
+                        -78.626945,
+                        35.856457
+                    ],
+                    [
+                        -78.629974,
+                        35.858856
+                    ],
+                    [
+                        -78.62867,
+                        35.862331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

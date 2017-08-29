@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2411809,
+    "properties": {
+        "woe_id": 2411809,
+        "place_id": "8x0E4KubBZ0cYNO4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Golden Meadows, Woods Cross, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292492102,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2411809_20101216_48b9c3cae0.tar.gz"
+        },
+        "bbox": [
+            -111.91799926758,
+            40.871772766113,
+            -111.91241455078,
+            40.874446868896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.915665,
+                        40.871807
+                    ],
+                    [
+                        -111.916008,
+                        40.871773
+                    ],
+                    [
+                        -111.917999,
+                        40.874447
+                    ],
+                    [
+                        -111.912468,
+                        40.873425
+                    ],
+                    [
+                        -111.912415,
+                        40.873329
+                    ],
+                    [
+                        -111.915665,
+                        40.871807
+                    ]
+                ]
+            ]
+        ]
+    }
+}

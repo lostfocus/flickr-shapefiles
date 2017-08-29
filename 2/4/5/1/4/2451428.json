@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451428,
+    "properties": {
+        "woe_id": 2451428,
+        "place_id": "hNFhAAebBZmEIeyZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millersville, Fairmont, WV, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548691,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2451428_20101217_b1bcc4cfe1.tar.gz"
+        },
+        "bbox": [
+            -80.156394958496,
+            39.445148468018,
+            -80.151000976562,
+            39.44947052002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.152527,
+                        39.445148
+                    ],
+                    [
+                        -80.154335,
+                        39.446667
+                    ],
+                    [
+                        -80.156395,
+                        39.449471
+                    ],
+                    [
+                        -80.151001,
+                        39.448166
+                    ],
+                    [
+                        -80.151833,
+                        39.445332
+                    ],
+                    [
+                        -80.152527,
+                        39.445148
+                    ]
+                ]
+            ]
+        ]
+    }
+}

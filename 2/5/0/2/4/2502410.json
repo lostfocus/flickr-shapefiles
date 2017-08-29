@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502410,
+    "properties": {
+        "woe_id": 2502410,
+        "place_id": "uKTxa4ibBJwsxUmG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunset Acres, Greeneville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494266,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2502410_20101216_bb44d76513.tar.gz"
+        },
+        "bbox": [
+            -82.857620239258,
+            36.136833190918,
+            -82.856224060059,
+            36.137588500977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.857559,
+                        36.137344
+                    ],
+                    [
+                        -82.856636,
+                        36.137501
+                    ],
+                    [
+                        -82.856224,
+                        36.137589
+                    ],
+                    [
+                        -82.857491,
+                        36.136917
+                    ],
+                    [
+                        -82.85762,
+                        36.136833
+                    ],
+                    [
+                        -82.857559,
+                        36.137344
+                    ]
+                ]
+            ]
+        ]
+    }
+}

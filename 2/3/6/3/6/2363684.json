@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2363684,
+    "properties": {
+        "woe_id": 2363684,
+        "place_id": "kRASEWabAprs.hn.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beulah Beach, Vermilion, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531523,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2363684_20101216_71975196b0.tar.gz"
+        },
+        "bbox": [
+            -82.446983337402,
+            41.390460968018,
+            -82.441856384277,
+            41.393356323242
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.444321,
+                        41.392616
+                    ],
+                    [
+                        -82.441856,
+                        41.392891
+                    ],
+                    [
+                        -82.442093,
+                        41.390461
+                    ],
+                    [
+                        -82.446152,
+                        41.39183
+                    ],
+                    [
+                        -82.446983,
+                        41.393356
+                    ],
+                    [
+                        -82.444321,
+                        41.392616
+                    ]
+                ]
+            ]
+        ]
+    }
+}

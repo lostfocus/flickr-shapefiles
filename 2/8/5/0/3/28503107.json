@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28503107,
+    "properties": {
+        "woe_id": 28503107,
+        "place_id": "rvhWO8ybCZk76.LY9A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tottoriodori 2 Chome, Kushiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446084,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28503107_20101215_a637e4887d.tar.gz"
+        },
+        "bbox": [
+            144.3595123291,
+            43.010036468506,
+            144.36166381836,
+            43.013332366943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.361664,
+                        43.011333
+                    ],
+                    [
+                        144.361359,
+                        43.010036
+                    ],
+                    [
+                        144.359512,
+                        43.010876
+                    ],
+                    [
+                        144.360504,
+                        43.011665
+                    ],
+                    [
+                        144.361664,
+                        43.013332
+                    ],
+                    [
+                        144.361664,
+                        43.011333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

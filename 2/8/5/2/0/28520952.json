@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28520952,
+    "properties": {
+        "woe_id": 28520952,
+        "place_id": "h7ZhUhWbCZlcx5b0bQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishikawata 7 Chome, Utsunomiya-shi, Tochigi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452585,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28520952_20101215_3cd93b37b7.tar.gz"
+        },
+        "bbox": [
+            139.86033630371,
+            36.504833221436,
+            139.86166381836,
+            36.507499694824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.860336,
+                        36.505833
+                    ],
+                    [
+                        139.860336,
+                        36.5075
+                    ],
+                    [
+                        139.861664,
+                        36.507168
+                    ],
+                    [
+                        139.86084,
+                        36.505001
+                    ],
+                    [
+                        139.860504,
+                        36.504833
+                    ],
+                    [
+                        139.860336,
+                        36.505833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

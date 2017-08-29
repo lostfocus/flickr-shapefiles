@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532315,
+    "properties": {
+        "woe_id": 28532315,
+        "place_id": "MjKNhjubCZmG3KUrQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sannocho 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452628,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/28532315_20101215_870a353660.tar.gz"
+        },
+        "bbox": [
+            139.61474609375,
+            35.434749603271,
+            139.61563110352,
+            35.435611724854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.614838,
+                        35.435299
+                    ],
+                    [
+                        139.615082,
+                        35.435612
+                    ],
+                    [
+                        139.615631,
+                        35.435379
+                    ],
+                    [
+                        139.614975,
+                        35.43494
+                    ],
+                    [
+                        139.614746,
+                        35.43475
+                    ],
+                    [
+                        139.614838,
+                        35.435299
+                    ]
+                ]
+            ]
+        ]
+    }
+}

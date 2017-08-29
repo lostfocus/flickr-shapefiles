@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28558572,
+    "properties": {
+        "woe_id": 28558572,
+        "place_id": "clMvugmbCZmdZzfK2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakagawa 1 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496787,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28558572_20101216_ed9c6f4364.tar.gz"
+        },
+        "bbox": [
+            135.54225158691,
+            34.662998199463,
+            135.54350280762,
+            34.665500640869
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.543167,
+                        34.663834
+                    ],
+                    [
+                        135.543503,
+                        34.662998
+                    ],
+                    [
+                        135.542252,
+                        34.663582
+                    ],
+                    [
+                        135.542328,
+                        34.665501
+                    ],
+                    [
+                        135.542831,
+                        34.664333
+                    ],
+                    [
+                        135.543167,
+                        34.663834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

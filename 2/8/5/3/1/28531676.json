@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531676,
+    "properties": {
+        "woe_id": 28531676,
+        "place_id": "RZnudNGbCZkOli9hEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sakaecho 1 Chome, Hamura-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442153,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/28531676_20101215_cbc78cf56c.tar.gz"
+        },
+        "bbox": [
+            139.30578613281,
+            35.773998260498,
+            139.30982971191,
+            35.776252746582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.306595,
+                        35.775318
+                    ],
+                    [
+                        139.305786,
+                        35.775833
+                    ],
+                    [
+                        139.307037,
+                        35.776253
+                    ],
+                    [
+                        139.30983,
+                        35.773998
+                    ],
+                    [
+                        139.309494,
+                        35.773998
+                    ],
+                    [
+                        139.306595,
+                        35.775318
+                    ]
+                ]
+            ]
+        ]
+    }
+}

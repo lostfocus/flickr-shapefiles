@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407026,
+    "properties": {
+        "woe_id": 2407026,
+        "place_id": "2.hvmy6bBZyQJhdF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Franklin Place Addition, Ogden, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247924886,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2675\/shapefiles\/2407026_20090718_319d83249f.tar.gz"
+        },
+        "bbox": [
+            -111.9754486084,
+            41.19702911377,
+            -111.97192382812,
+            41.199558258057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.972267,
+                        41.199558
+                    ],
+                    [
+                        -111.971924,
+                        41.197361
+                    ],
+                    [
+                        -111.972359,
+                        41.197224
+                    ],
+                    [
+                        -111.975449,
+                        41.197029
+                    ],
+                    [
+                        -111.973907,
+                        41.199322
+                    ],
+                    [
+                        -111.972267,
+                        41.199558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2496450,
+    "properties": {
+        "woe_id": 2496450,
+        "place_id": "OCisUQGbBZUPl3lX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Lincoln, Lincoln, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521257,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2496450_20101216_3ed11ca84f.tar.gz"
+        },
+        "bbox": [
+            -68.504730224609,
+            45.36185836792,
+            -68.504531860352,
+            45.362419128418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.504539,
+                        45.362419
+                    ],
+                    [
+                        -68.504532,
+                        45.361858
+                    ],
+                    [
+                        -68.50473,
+                        45.362209
+                    ],
+                    [
+                        -68.50473,
+                        45.362347
+                    ],
+                    [
+                        -68.504539,
+                        45.362419
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150514,
+    "properties": {
+        "woe_id": 20150514,
+        "place_id": "yxPzHh.bAZ1QqSAc5A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Croce, Reggio nell'Emilia, ER, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548382,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/20150514_20101217_198c09f11b.tar.gz"
+        },
+        "bbox": [
+            10.639078140259,
+            44.704593658447,
+            10.643433570862,
+            44.707233428955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.643134,
+                        44.704914
+                    ],
+                    [
+                        10.643434,
+                        44.704838
+                    ],
+                    [
+                        10.642855,
+                        44.704594
+                    ],
+                    [
+                        10.640795,
+                        44.705048
+                    ],
+                    [
+                        10.639078,
+                        44.707233
+                    ],
+                    [
+                        10.643134,
+                        44.704914
+                    ]
+                ]
+            ]
+        ]
+    }
+}

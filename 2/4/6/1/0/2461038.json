@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461038,
+    "properties": {
+        "woe_id": 2461038,
+        "place_id": "gNA.zu.bBZo_AZVY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Grantham, Grantham, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248243131,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2515\/shapefiles\/2461038_20090722_1773d980d4.tar.gz"
+        },
+        "bbox": [
+            -72.140190124512,
+            43.52604675293,
+            -72.114944458008,
+            43.549125671387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.120224,
+                        43.538639
+                    ],
+                    [
+                        -72.114944,
+                        43.530876
+                    ],
+                    [
+                        -72.137863,
+                        43.526047
+                    ],
+                    [
+                        -72.14019,
+                        43.549126
+                    ],
+                    [
+                        -72.129189,
+                        43.537971
+                    ],
+                    [
+                        -72.120224,
+                        43.538639
+                    ]
+                ]
+            ]
+        ]
+    }
+}

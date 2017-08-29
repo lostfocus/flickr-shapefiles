@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2515231,
+    "properties": {
+        "woe_id": 2515231,
+        "place_id": "BrDgIk.bBJ22kM7K",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waterville, Middleboro, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513044,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2515231_20101216_b132381815.tar.gz"
+        },
+        "bbox": [
+            -70.806541442871,
+            41.91975402832,
+            -70.80069732666,
+            41.921375274658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.801476,
+                        41.920338
+                    ],
+                    [
+                        -70.800697,
+                        41.919785
+                    ],
+                    [
+                        -70.801392,
+                        41.919754
+                    ],
+                    [
+                        -70.806541,
+                        41.921375
+                    ],
+                    [
+                        -70.801476,
+                        41.920338
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524273,
+    "properties": {
+        "woe_id": 28524273,
+        "place_id": "iNr2wSWbCZnbg2XV6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kiuri 1 Chome, Yoshikawa-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442142,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28524273_20101215_2eb7c4216e.tar.gz"
+        },
+        "bbox": [
+            139.84272766113,
+            35.876533508301,
+            139.84475708008,
+            35.877277374268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.843979,
+                        35.877277
+                    ],
+                    [
+                        139.844757,
+                        35.877178
+                    ],
+                    [
+                        139.844193,
+                        35.876629
+                    ],
+                    [
+                        139.842911,
+                        35.876534
+                    ],
+                    [
+                        139.842728,
+                        35.876804
+                    ],
+                    [
+                        139.843979,
+                        35.877277
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2444162,
+    "properties": {
+        "woe_id": 2444162,
+        "place_id": "500_s3ebBZiNkLGw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Magnolia, Morganton, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542317,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2444162_20101216_dd246687c3.tar.gz"
+        },
+        "bbox": [
+            -81.689056396484,
+            35.742610931396,
+            -81.686340332031,
+            35.746757507324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.688255,
+                        35.744049
+                    ],
+                    [
+                        -81.689056,
+                        35.742611
+                    ],
+                    [
+                        -81.689049,
+                        35.744598
+                    ],
+                    [
+                        -81.687553,
+                        35.746758
+                    ],
+                    [
+                        -81.68634,
+                        35.745075
+                    ],
+                    [
+                        -81.688255,
+                        35.744049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

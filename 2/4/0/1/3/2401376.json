@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2401376,
+    "properties": {
+        "woe_id": 2401376,
+        "place_id": "E4v64F6bBZw4hqcr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairfield, Savannah, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459823,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2401376_20101216_52655d8567.tar.gz"
+        },
+        "bbox": [
+            -81.091110229492,
+            32.027801513672,
+            -81.086906433105,
+            32.031253814697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.089485,
+                        32.031101
+                    ],
+                    [
+                        -81.089104,
+                        32.031216
+                    ],
+                    [
+                        -81.088501,
+                        32.031254
+                    ],
+                    [
+                        -81.086906,
+                        32.029842
+                    ],
+                    [
+                        -81.089302,
+                        32.027802
+                    ],
+                    [
+                        -81.09111,
+                        32.029446
+                    ],
+                    [
+                        -81.089485,
+                        32.031101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

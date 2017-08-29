@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2506317,
+    "properties": {
+        "woe_id": 2506317,
+        "place_id": "bPkQJyKbBJxAgboP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tigua, El Paso, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529984,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2506317_20101216_94e5ffa511.tar.gz"
+        },
+        "bbox": [
+            -106.37218475342,
+            31.73323059082,
+            -106.36683654785,
+            31.735248565674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.371109,
+                        31.735138
+                    ],
+                    [
+                        -106.366837,
+                        31.734718
+                    ],
+                    [
+                        -106.372185,
+                        31.733231
+                    ],
+                    [
+                        -106.372078,
+                        31.733732
+                    ],
+                    [
+                        -106.371689,
+                        31.735249
+                    ],
+                    [
+                        -106.371109,
+                        31.735138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

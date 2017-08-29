@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559953,
+    "properties": {
+        "woe_id": 28559953,
+        "place_id": "nir2eZebCZkhYZiWog",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shukuinchonishi 1cho, Sakai-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452681,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28559953_20101215_587ddbbe64.tar.gz"
+        },
+        "bbox": [
+            135.47044372559,
+            34.575317382812,
+            135.47135925293,
+            34.576099395752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.470444,
+                        34.575882
+                    ],
+                    [
+                        135.47052,
+                        34.575916
+                    ],
+                    [
+                        135.471329,
+                        34.576099
+                    ],
+                    [
+                        135.471359,
+                        34.576046
+                    ],
+                    [
+                        135.470627,
+                        34.575317
+                    ],
+                    [
+                        135.470444,
+                        34.575882
+                    ]
+                ]
+            ]
+        ]
+    }
+}

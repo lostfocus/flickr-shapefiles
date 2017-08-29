@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2508425,
+    "properties": {
+        "woe_id": 2508425,
+        "place_id": "aeNf.5qbBJxDVBoj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tuckertown Four Corners, Wakefield, RI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531610,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/2508425_20101216_d7dd4b4c4d.tar.gz"
+        },
+        "bbox": [
+            -71.557647705078,
+            41.426872253418,
+            -71.556663513184,
+            41.42777633667
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.556664,
+                        41.427498
+                    ],
+                    [
+                        -71.556664,
+                        41.427223
+                    ],
+                    [
+                        -71.556946,
+                        41.426945
+                    ],
+                    [
+                        -71.557648,
+                        41.426872
+                    ],
+                    [
+                        -71.556946,
+                        41.427776
+                    ],
+                    [
+                        -71.556664,
+                        41.427498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

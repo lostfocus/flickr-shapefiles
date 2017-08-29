@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528235,
+    "properties": {
+        "woe_id": 28528235,
+        "place_id": "O141KwibCZmgdCfYKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sanno 3 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519224,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/28528235_20101216_60e61e8571.tar.gz"
+        },
+        "bbox": [
+            139.72145080566,
+            35.583084106445,
+            139.72532653809,
+            35.58606338501
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.725159,
+                        35.584999
+                    ],
+                    [
+                        139.725327,
+                        35.584595
+                    ],
+                    [
+                        139.724579,
+                        35.583084
+                    ],
+                    [
+                        139.721451,
+                        35.584404
+                    ],
+                    [
+                        139.724319,
+                        35.586063
+                    ],
+                    [
+                        139.725159,
+                        35.584999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

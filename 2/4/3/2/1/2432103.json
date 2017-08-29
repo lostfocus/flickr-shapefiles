@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432103,
+    "properties": {
+        "woe_id": 2432103,
+        "place_id": "3XvVhhObBZ.do1DN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Keystone, Meyersdale, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525593,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2432103_20101216_287df7ff02.tar.gz"
+        },
+        "bbox": [
+            -78.966911315918,
+            39.802833557129,
+            -78.964057922363,
+            39.808303833008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.965866,
+                        39.804974
+                    ],
+                    [
+                        -78.964058,
+                        39.808304
+                    ],
+                    [
+                        -78.965027,
+                        39.805172
+                    ],
+                    [
+                        -78.964706,
+                        39.804184
+                    ],
+                    [
+                        -78.966911,
+                        39.802834
+                    ],
+                    [
+                        -78.965866,
+                        39.804974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

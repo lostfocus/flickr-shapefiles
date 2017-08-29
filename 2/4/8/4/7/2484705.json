@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484705,
+    "properties": {
+        "woe_id": 2484705,
+        "place_id": "4nTVwg.bBZSA3.A8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rosehill, Summerville, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451893,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2484705_20101215_d7dbca4f79.tar.gz"
+        },
+        "bbox": [
+            -80.185844421387,
+            33.009204864502,
+            -80.184852600098,
+            33.010208129883
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.185379,
+                        33.009575
+                    ],
+                    [
+                        -80.185844,
+                        33.010056
+                    ],
+                    [
+                        -80.185555,
+                        33.010208
+                    ],
+                    [
+                        -80.184853,
+                        33.009216
+                    ],
+                    [
+                        -80.18486,
+                        33.009205
+                    ],
+                    [
+                        -80.185379,
+                        33.009575
+                    ]
+                ]
+            ]
+        ]
+    }
+}

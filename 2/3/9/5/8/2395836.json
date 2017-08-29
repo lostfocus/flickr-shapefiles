@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395836,
+    "properties": {
+        "woe_id": 2395836,
+        "place_id": "5AZFAXebApXhOsLZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Limington, Steep Falls, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532035,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2395836_20101216_50663c7133.tar.gz"
+        },
+        "bbox": [
+            -70.654792785645,
+            43.731349945068,
+            -70.652938842773,
+            43.734203338623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.65313,
+                        43.732761
+                    ],
+                    [
+                        -70.654106,
+                        43.73135
+                    ],
+                    [
+                        -70.654793,
+                        43.734203
+                    ],
+                    [
+                        -70.653717,
+                        43.733391
+                    ],
+                    [
+                        -70.652939,
+                        43.733017
+                    ],
+                    [
+                        -70.65313,
+                        43.732761
+                    ]
+                ]
+            ]
+        ]
+    }
+}

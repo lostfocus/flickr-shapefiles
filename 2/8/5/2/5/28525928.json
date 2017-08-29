@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28525928,
+    "properties": {
+        "woe_id": 28525928,
+        "place_id": "CVLU4S2bCZmdY_yJPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyamae 3 Chome, Sakura-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534296,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28525928_20101216_621fc468fa.tar.gz"
+        },
+        "bbox": [
+            140.22845458984,
+            35.723667144775,
+            140.23049926758,
+            35.725883483887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.229553,
+                        35.725883
+                    ],
+                    [
+                        140.230499,
+                        35.725334
+                    ],
+                    [
+                        140.230331,
+                        35.723667
+                    ],
+                    [
+                        140.229446,
+                        35.724686
+                    ],
+                    [
+                        140.228455,
+                        35.725193
+                    ],
+                    [
+                        140.229553,
+                        35.725883
+                    ]
+                ]
+            ]
+        ]
+    }
+}

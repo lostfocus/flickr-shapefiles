@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2479263,
+    "properties": {
+        "woe_id": 2479263,
+        "place_id": "doLaQ2qbBZvHbYVP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Red Cedar Hill, Levittown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519261,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2479263_20101216_594cde5e99.tar.gz"
+        },
+        "bbox": [
+            -74.849006652832,
+            40.152156829834,
+            -74.844688415527,
+            40.156631469727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.844688,
+                        40.155674
+                    ],
+                    [
+                        -74.845238,
+                        40.152157
+                    ],
+                    [
+                        -74.846497,
+                        40.154331
+                    ],
+                    [
+                        -74.849007,
+                        40.156239
+                    ],
+                    [
+                        -74.847099,
+                        40.156631
+                    ],
+                    [
+                        -74.844688,
+                        40.155674
+                    ]
+                ]
+            ]
+        ]
+    }
+}

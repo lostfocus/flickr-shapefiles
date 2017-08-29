@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2501222,
+    "properties": {
+        "woe_id": 2501222,
+        "place_id": "Z9IUsyubBJzfqkJp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Suckerville, Gray, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543011,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2501222_20101216_7062a565c1.tar.gz"
+        },
+        "bbox": [
+            -70.383354187012,
+            43.927909851074,
+            -70.38272857666,
+            43.928199768066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.382965,
+                        43.928158
+                    ],
+                    [
+                        -70.382866,
+                        43.9282
+                    ],
+                    [
+                        -70.382729,
+                        43.927975
+                    ],
+                    [
+                        -70.383354,
+                        43.92791
+                    ],
+                    [
+                        -70.383072,
+                        43.928089
+                    ],
+                    [
+                        -70.382965,
+                        43.928158
+                    ]
+                ]
+            ]
+        ]
+    }
+}

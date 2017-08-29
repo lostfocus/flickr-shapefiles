@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2474642,
+    "properties": {
+        "woe_id": 2474642,
+        "place_id": "aUHfx_SbBZsGWz6T",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Point Pleasant, Hopatcong, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456933,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2474642_20101215_1f02ef5360.tar.gz"
+        },
+        "bbox": [
+            -74.661003112793,
+            40.926597595215,
+            -74.659172058105,
+            40.932876586914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.661003,
+                        40.927334
+                    ],
+                    [
+                        -74.660851,
+                        40.927456
+                    ],
+                    [
+                        -74.659325,
+                        40.932877
+                    ],
+                    [
+                        -74.659172,
+                        40.926781
+                    ],
+                    [
+                        -74.659698,
+                        40.926598
+                    ],
+                    [
+                        -74.661003,
+                        40.927334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

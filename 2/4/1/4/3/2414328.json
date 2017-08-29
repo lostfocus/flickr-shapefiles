@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2414328,
+    "properties": {
+        "woe_id": 2414328,
+        "place_id": "PGx9ADubBZ1wh55Z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greenfields, Kingsport, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464693,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2414328_20101216_fb593e102f.tar.gz"
+        },
+        "bbox": [
+            -82.529235839844,
+            36.532115936279,
+            -82.525543212891,
+            36.536262512207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.529236,
+                        36.533825
+                    ],
+                    [
+                        -82.529236,
+                        36.533829
+                    ],
+                    [
+                        -82.528908,
+                        36.53521
+                    ],
+                    [
+                        -82.525543,
+                        36.536263
+                    ],
+                    [
+                        -82.527351,
+                        36.532116
+                    ],
+                    [
+                        -82.529236,
+                        36.533825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

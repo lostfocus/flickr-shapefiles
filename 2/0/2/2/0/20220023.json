@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220023,
+    "properties": {
+        "woe_id": 20220023,
+        "place_id": "KCuVrZWbAZ4j016L4A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pedroches, Cordoba, Andalusia, ES, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522526,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/20220023_20101216_b7ea539a81.tar.gz"
+        },
+        "bbox": [
+            -4.7713270187378,
+            37.916660308838,
+            -4.7686672210693,
+            37.923820495605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.770105,
+                        37.917767
+                    ],
+                    [
+                        -4.770105,
+                        37.917755
+                    ],
+                    [
+                        -4.770426,
+                        37.916981
+                    ],
+                    [
+                        -4.771327,
+                        37.91666
+                    ],
+                    [
+                        -4.770641,
+                        37.917931
+                    ],
+                    [
+                        -4.768667,
+                        37.92382
+                    ],
+                    [
+                        -4.770105,
+                        37.917767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

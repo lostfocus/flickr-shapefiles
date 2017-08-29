@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526482,
+    "properties": {
+        "woe_id": 28526482,
+        "place_id": "u59PquqbCZnczn8Ptg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagareyama 8 Chome, Nagareyama-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463429,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28526482_20101216_aece75382c.tar.gz"
+        },
+        "bbox": [
+            139.89143371582,
+            35.844661712646,
+            139.89717102051,
+            35.846900939941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.893509,
+                        35.844662
+                    ],
+                    [
+                        139.891434,
+                        35.845592
+                    ],
+                    [
+                        139.893036,
+                        35.846901
+                    ],
+                    [
+                        139.897171,
+                        35.845165
+                    ],
+                    [
+                        139.895615,
+                        35.844799
+                    ],
+                    [
+                        139.893509,
+                        35.844662
+                    ]
+                ]
+            ]
+        ]
+    }
+}

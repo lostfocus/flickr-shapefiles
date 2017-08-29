@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2485034,
+    "properties": {
+        "woe_id": 2485034,
+        "place_id": "IbMLpBCbBZQUvmyF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rossview, Clarksville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522126,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2485034_20101216_3206d7c914.tar.gz"
+        },
+        "bbox": [
+            -87.240539550781,
+            36.557647705078,
+            -87.233871459961,
+            36.564014434814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.233871,
+                        36.560909
+                    ],
+                    [
+                        -87.238228,
+                        36.557972
+                    ],
+                    [
+                        -87.24054,
+                        36.557648
+                    ],
+                    [
+                        -87.238586,
+                        36.56316
+                    ],
+                    [
+                        -87.238121,
+                        36.564014
+                    ],
+                    [
+                        -87.233871,
+                        36.560909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

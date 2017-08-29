@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523583,
+    "properties": {
+        "woe_id": 28523583,
+        "place_id": "3avmJ_GbCZl9TH17aQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honcho 1 Chome, Hatogaya-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434985,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28523583_20101215_e9ac62d8be.tar.gz"
+        },
+        "bbox": [
+            139.73649597168,
+            35.832664489746,
+            139.73983764648,
+            35.834667205811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.736496,
+                        35.834167
+                    ],
+                    [
+                        139.736496,
+                        35.834667
+                    ],
+                    [
+                        139.738663,
+                        35.833332
+                    ],
+                    [
+                        139.739838,
+                        35.832664
+                    ],
+                    [
+                        139.738831,
+                        35.833164
+                    ],
+                    [
+                        139.736496,
+                        35.834167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

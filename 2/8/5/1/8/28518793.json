@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28518793,
+    "properties": {
+        "woe_id": 28518793,
+        "place_id": "InAUSHqbCZnUqMs6qQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Omachi 1 Chome, Koriyama-shi, Fukushima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442124,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28518793_20101215_4011e5eaba.tar.gz"
+        },
+        "bbox": [
+            140.38417053223,
+            37.398666381836,
+            140.38554382324,
+            37.400203704834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.384171,
+                        37.399166
+                    ],
+                    [
+                        140.384171,
+                        37.400002
+                    ],
+                    [
+                        140.384308,
+                        37.400204
+                    ],
+                    [
+                        140.385544,
+                        37.398926
+                    ],
+                    [
+                        140.385162,
+                        37.398666
+                    ],
+                    [
+                        140.384171,
+                        37.399166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

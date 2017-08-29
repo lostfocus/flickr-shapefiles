@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2380196,
+    "properties": {
+        "woe_id": 2380196,
+        "place_id": "D9QLWFebApSbtgqG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chufar Acres, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523304,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2380196_20101216_5c5c6ede83.tar.gz"
+        },
+        "bbox": [
+            -111.89202880859,
+            40.587833404541,
+            -111.89060211182,
+            40.589710235596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.891975,
+                        40.588734
+                    ],
+                    [
+                        -111.892029,
+                        40.589394
+                    ],
+                    [
+                        -111.890602,
+                        40.58971
+                    ],
+                    [
+                        -111.891167,
+                        40.587833
+                    ],
+                    [
+                        -111.891426,
+                        40.588009
+                    ],
+                    [
+                        -111.891975,
+                        40.588734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

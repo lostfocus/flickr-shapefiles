@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28525626,
+    "properties": {
+        "woe_id": 28525626,
+        "place_id": ".1MLN.6bCZllDHhzhA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashichuo 1 Chome, Kisarazu-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391726,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/28525626_20101215_1598330505.tar.gz"
+        },
+        "bbox": [
+            139.9270324707,
+            35.381198883057,
+            139.92907714844,
+            35.381988525391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.927139,
+                        35.381199
+                    ],
+                    [
+                        139.927032,
+                        35.381332
+                    ],
+                    [
+                        139.927414,
+                        35.381905
+                    ],
+                    [
+                        139.927734,
+                        35.381989
+                    ],
+                    [
+                        139.929077,
+                        35.381634
+                    ],
+                    [
+                        139.927139,
+                        35.381199
+                    ]
+                ]
+            ]
+        ]
+    }
+}

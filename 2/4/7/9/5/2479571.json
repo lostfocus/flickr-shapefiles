@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2479571,
+    "properties": {
+        "woe_id": 2479571,
+        "place_id": "FooEEuWbBZuxVd.F",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Redding Hills, Asheboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494027,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2479571_20101216_1576e487f5.tar.gz"
+        },
+        "bbox": [
+            -79.833938598633,
+            35.727405548096,
+            -79.831764221191,
+            35.727619171143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.833839,
+                        35.727505
+                    ],
+                    [
+                        -79.833908,
+                        35.72757
+                    ],
+                    [
+                        -79.833939,
+                        35.727619
+                    ],
+                    [
+                        -79.833832,
+                        35.727619
+                    ],
+                    [
+                        -79.831764,
+                        35.727406
+                    ],
+                    [
+                        -79.833839,
+                        35.727505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 29229564,
+    "properties": {
+        "woe_id": 29229564,
+        "place_id": "f5EL4bKbCJ6mRmCOyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belford, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522594,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/29229564_20101216_c991efdbf6.tar.gz"
+        },
+        "bbox": [
+            -76.555244445801,
+            39.348941802979,
+            -76.547843933105,
+            39.351516723633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.547844,
+                        39.35096
+                    ],
+                    [
+                        -76.548965,
+                        39.348942
+                    ],
+                    [
+                        -76.551987,
+                        39.351025
+                    ],
+                    [
+                        -76.554901,
+                        39.350739
+                    ],
+                    [
+                        -76.555244,
+                        39.351517
+                    ],
+                    [
+                        -76.551987,
+                        39.351025
+                    ],
+                    [
+                        -76.548965,
+                        39.348942
+                    ],
+                    [
+                        -76.547844,
+                        39.35096
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2417142,
+    "properties": {
+        "woe_id": 2417142,
+        "place_id": "GNC0jtabBZ3KLySR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hanover Center, Hanover, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542621,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2417142_20101216_2608c2d013.tar.gz"
+        },
+        "bbox": [
+            -70.841903686523,
+            42.115741729736,
+            -70.83731842041,
+            42.117702484131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.841904,
+                        42.117325
+                    ],
+                    [
+                        -70.840683,
+                        42.117607
+                    ],
+                    [
+                        -70.837631,
+                        42.117702
+                    ],
+                    [
+                        -70.837318,
+                        42.115742
+                    ],
+                    [
+                        -70.841385,
+                        42.117008
+                    ],
+                    [
+                        -70.841904,
+                        42.117325
+                    ]
+                ]
+            ]
+        ]
+    }
+}

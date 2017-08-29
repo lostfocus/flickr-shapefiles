@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2433543,
+    "properties": {
+        "woe_id": 2433543,
+        "place_id": "8VYJO8ybBZ8u7uxn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Knollwood, Hyattsville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247913128,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2570\/shapefiles\/2433543_20090718_17693d7feb.tar.gz"
+        },
+        "bbox": [
+            -76.947242736816,
+            39.016780853271,
+            -76.93815612793,
+            39.026035308838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.940819,
+                        39.021835
+                    ],
+                    [
+                        -76.938156,
+                        39.016842
+                    ],
+                    [
+                        -76.938454,
+                        39.016781
+                    ],
+                    [
+                        -76.946869,
+                        39.019318
+                    ],
+                    [
+                        -76.947243,
+                        39.026035
+                    ],
+                    [
+                        -76.940819,
+                        39.021835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29500,
+    "properties": {
+        "woe_id": 29500,
+        "place_id": "dF5MM2ybCJnzCw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moxley, Wednesbury, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523025,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/29500_20101216_4fa698e505.tar.gz"
+        },
+        "bbox": [
+            -2.0633690357208,
+            52.567848205566,
+            -2.0625319480896,
+            52.569778442383
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.063369,
+                        52.56863
+                    ],
+                    [
+                        -2.062726,
+                        52.569778
+                    ],
+                    [
+                        -2.062532,
+                        52.569672
+                    ],
+                    [
+                        -2.063326,
+                        52.567848
+                    ],
+                    [
+                        -2.063369,
+                        52.56863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

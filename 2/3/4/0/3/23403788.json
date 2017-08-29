@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23403788,
+    "properties": {
+        "woe_id": 23403788,
+        "place_id": "yyAwnX.bApiaaZVpYA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westmount, Saskatoon, SK, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536018,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/23403788_20101216_033601aabd.tar.gz"
+        },
+        "bbox": [
+            -106.68780517578,
+            52.129062652588,
+            -106.68162536621,
+            52.132781982422
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.684555,
+                        52.132782
+                    ],
+                    [
+                        -106.681625,
+                        52.131012
+                    ],
+                    [
+                        -106.685669,
+                        52.129139
+                    ],
+                    [
+                        -106.686256,
+                        52.129063
+                    ],
+                    [
+                        -106.687805,
+                        52.1315
+                    ],
+                    [
+                        -106.684555,
+                        52.132782
+                    ]
+                ]
+            ]
+        ]
+    }
+}

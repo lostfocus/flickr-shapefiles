@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22721234,
+    "properties": {
+        "woe_id": 22721234,
+        "place_id": "I80w_zCbA5sOv_1SUw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Padstow Heights, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523833,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/22721234_20101216_0c30edf88d.tar.gz"
+        },
+        "bbox": [
+            151.03591918945,
+            -34.004287719727,
+            151.03762817383,
+            -33.997741699219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.037628,
+                        -33.999451
+                    ],
+                    [
+                        151.035919,
+                        -34.004288
+                    ],
+                    [
+                        151.036942,
+                        -33.998882
+                    ],
+                    [
+                        151.037628,
+                        -33.997742
+                    ],
+                    [
+                        151.037628,
+                        -33.999451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

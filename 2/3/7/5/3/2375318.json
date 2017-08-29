@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2375318,
+    "properties": {
+        "woe_id": 2375318,
+        "place_id": "EyAPaCGbApuFVLb_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Caroline Center, Brooktondale, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248214572,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2550\/shapefiles\/2375318_20090721_1f8ae12476.tar.gz"
+        },
+        "bbox": [
+            -76.353088378906,
+            42.323364257812,
+            -76.322494506836,
+            42.336013793945
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.353088,
+                        42.331264
+                    ],
+                    [
+                        -76.343521,
+                        42.332863
+                    ],
+                    [
+                        -76.322495,
+                        42.336014
+                    ],
+                    [
+                        -76.335625,
+                        42.323696
+                    ],
+                    [
+                        -76.339531,
+                        42.323364
+                    ],
+                    [
+                        -76.353088,
+                        42.331264
+                    ]
+                ]
+            ]
+        ]
+    }
+}

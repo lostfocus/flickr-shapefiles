@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533296,
+    "properties": {
+        "woe_id": 28533296,
+        "place_id": "6kjZCk.bCZnwKFfoyw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mizonokuchi 5 Chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449535,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/28533296_20101215_4daeca62d5.tar.gz"
+        },
+        "bbox": [
+            139.61254882812,
+            35.606616973877,
+            139.61489868164,
+            35.607585906982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.614761,
+                        35.606617
+                    ],
+                    [
+                        139.614685,
+                        35.606651
+                    ],
+                    [
+                        139.612549,
+                        35.607185
+                    ],
+                    [
+                        139.613831,
+                        35.607586
+                    ],
+                    [
+                        139.614899,
+                        35.606754
+                    ],
+                    [
+                        139.614761,
+                        35.606617
+                    ]
+                ]
+            ]
+        ]
+    }
+}

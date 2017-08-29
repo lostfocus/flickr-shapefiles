@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2497872,
+    "properties": {
+        "woe_id": 2497872,
+        "place_id": "pUWCuGybBZXor24J",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Glen, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455258,
+        "alpha": 1.0e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2497872_20101215_55a003e9e6.tar.gz"
+        },
+        "bbox": [
+            -111.78147125244,
+            40.760730743408,
+            -111.77833557129,
+            40.76416015625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.780716,
+                        40.761734
+                    ],
+                    [
+                        -111.781471,
+                        40.760731
+                    ],
+                    [
+                        -111.781105,
+                        40.761887
+                    ],
+                    [
+                        -111.781425,
+                        40.76416
+                    ],
+                    [
+                        -111.778336,
+                        40.762623
+                    ],
+                    [
+                        -111.780716,
+                        40.761734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

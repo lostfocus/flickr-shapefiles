@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496924,
+    "properties": {
+        "woe_id": 2496924,
+        "place_id": "lnRSS_SbBZWe5W5h",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Windermire, Charleston, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512985,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2496924_20101216_29c5d6a70c.tar.gz"
+        },
+        "bbox": [
+            -79.981170654297,
+            32.775833129883,
+            -79.976165771484,
+            32.778057098389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.978127,
+                        32.778057
+                    ],
+                    [
+                        -79.978058,
+                        32.777988
+                    ],
+                    [
+                        -79.976166,
+                        32.775833
+                    ],
+                    [
+                        -79.978355,
+                        32.777802
+                    ],
+                    [
+                        -79.981171,
+                        32.778
+                    ],
+                    [
+                        -79.978127,
+                        32.778057
+                    ]
+                ]
+            ]
+        ]
+    }
+}

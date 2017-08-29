@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28995033,
+    "properties": {
+        "woe_id": 28995033,
+        "place_id": "fGwkg.GbCZUtN.PcfQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uc9c4\uad00\uc678\ub3d9, Seoul, Seoul, KR, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522598,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/28995033_20101216_bfd43b22ac.tar.gz"
+        },
+        "bbox": [
+            126.97388458252,
+            37.631664276123,
+            126.97444152832,
+            37.631942749023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        126.974442,
+                        37.631943
+                    ],
+                    [
+                        126.974167,
+                        37.631664
+                    ],
+                    [
+                        126.973885,
+                        37.631664
+                    ],
+                    [
+                        126.973885,
+                        37.631943
+                    ],
+                    [
+                        126.974167,
+                        37.631943
+                    ],
+                    [
+                        126.974442,
+                        37.631943
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2465713,
+    "properties": {
+        "woe_id": 2465713,
+        "place_id": "QBzi3d2bBZrkQUui",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ontario, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548647,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2465713_20101217_3caf90a8d7.tar.gz"
+        },
+        "bbox": [
+            -111.9015045166,
+            40.743225097656,
+            -111.89900970459,
+            40.747501373291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.901505,
+                        40.746475
+                    ],
+                    [
+                        -111.900719,
+                        40.747501
+                    ],
+                    [
+                        -111.899872,
+                        40.747257
+                    ],
+                    [
+                        -111.89946,
+                        40.746185
+                    ],
+                    [
+                        -111.89901,
+                        40.743225
+                    ],
+                    [
+                        -111.901505,
+                        40.746475
+                    ]
+                ]
+            ]
+        ]
+    }
+}

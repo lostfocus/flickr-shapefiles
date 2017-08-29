@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2497211,
+    "properties": {
+        "woe_id": 2497211,
+        "place_id": "8ks.sxebBZWIaF_I",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southwood, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445038,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2497211_20101215_1aa124d234.tar.gz"
+        },
+        "bbox": [
+            -111.86611175537,
+            40.636100769043,
+            -111.86250305176,
+            40.636665344238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.862503,
+                        40.636333
+                    ],
+                    [
+                        -111.862564,
+                        40.636265
+                    ],
+                    [
+                        -111.863235,
+                        40.636101
+                    ],
+                    [
+                        -111.866112,
+                        40.636135
+                    ],
+                    [
+                        -111.864418,
+                        40.636566
+                    ],
+                    [
+                        -111.862663,
+                        40.636665
+                    ],
+                    [
+                        -111.862503,
+                        40.636333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2445128,
+    "properties": {
+        "woe_id": 2445128,
+        "place_id": "pm1wO_abBZhRunP2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maple Beach, Geneseo, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234825215,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3208\/shapefiles\/2445128_20090216_2ed294ceaf.tar.gz"
+        },
+        "bbox": [
+            -77.725311279297,
+            42.721794128418,
+            -77.712348937988,
+            42.742473602295
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.712349,
+                        42.728447
+                    ],
+                    [
+                        -77.714584,
+                        42.722961
+                    ],
+                    [
+                        -77.715393,
+                        42.721794
+                    ],
+                    [
+                        -77.719856,
+                        42.728603
+                    ],
+                    [
+                        -77.723106,
+                        42.732624
+                    ],
+                    [
+                        -77.725311,
+                        42.736801
+                    ],
+                    [
+                        -77.719002,
+                        42.742474
+                    ],
+                    [
+                        -77.712349,
+                        42.728447
+                    ]
+                ]
+            ]
+        ]
+    }
+}

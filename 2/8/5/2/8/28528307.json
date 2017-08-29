@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528307,
+    "properties": {
+        "woe_id": 28528307,
+        "place_id": "1Ecm1ombCZk67forKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haneda 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391603,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28528307_20101215_a640e5d067.tar.gz"
+        },
+        "bbox": [
+            139.74082946777,
+            35.548820495605,
+            139.74409484863,
+            35.551834106445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.740829,
+                        35.551498
+                    ],
+                    [
+                        139.741669,
+                        35.551834
+                    ],
+                    [
+                        139.743668,
+                        35.549107
+                    ],
+                    [
+                        139.744095,
+                        35.54882
+                    ],
+                    [
+                        139.741928,
+                        35.549023
+                    ],
+                    [
+                        139.740829,
+                        35.551498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2522917,
+    "properties": {
+        "woe_id": 2522917,
+        "place_id": "6WCfAfCbBJ5U0SWm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodbrook, Aberdeen, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547114,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2522917_20101217_3e10efa134.tar.gz"
+        },
+        "bbox": [
+            -76.232498168945,
+            39.496761322021,
+            -76.230972290039,
+            39.498508453369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.232155,
+                        39.497883
+                    ],
+                    [
+                        -76.230972,
+                        39.498508
+                    ],
+                    [
+                        -76.231606,
+                        39.496887
+                    ],
+                    [
+                        -76.232224,
+                        39.496761
+                    ],
+                    [
+                        -76.232498,
+                        39.497185
+                    ],
+                    [
+                        -76.232155,
+                        39.497883
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418126,
+    "properties": {
+        "woe_id": 2418126,
+        "place_id": "Q592DWybBZ0MNzak",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harrisonville, Pennsville, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248289202,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3500\/shapefiles\/2418126_20090722_2538bd683d.tar.gz"
+        },
+        "bbox": [
+            -75.50594329834,
+            39.608001708984,
+            -75.499244689941,
+            39.614555358887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.505943,
+                        39.614483
+                    ],
+                    [
+                        -75.502731,
+                        39.614555
+                    ],
+                    [
+                        -75.502335,
+                        39.613281
+                    ],
+                    [
+                        -75.499245,
+                        39.608002
+                    ],
+                    [
+                        -75.50174,
+                        39.611443
+                    ],
+                    [
+                        -75.505943,
+                        39.614483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

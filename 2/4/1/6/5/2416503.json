@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2416503,
+    "properties": {
+        "woe_id": 2416503,
+        "place_id": "3n2ZraqbBZ3rQ1b3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hamburg, Sellersburg, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247790486,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2590\/shapefiles\/2416503_20090717_1b966f623b.tar.gz"
+        },
+        "bbox": [
+            -85.774810791016,
+            38.366870880127,
+            -85.756103515625,
+            38.383716583252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.77095,
+                        38.383247
+                    ],
+                    [
+                        -85.767342,
+                        38.383717
+                    ],
+                    [
+                        -85.756104,
+                        38.370731
+                    ],
+                    [
+                        -85.765862,
+                        38.366871
+                    ],
+                    [
+                        -85.774811,
+                        38.371807
+                    ],
+                    [
+                        -85.77095,
+                        38.383247
+                    ]
+                ]
+            ]
+        ]
+    }
+}

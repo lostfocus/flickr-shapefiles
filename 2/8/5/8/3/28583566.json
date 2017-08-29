@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28583566,
+    "properties": {
+        "woe_id": 28583566,
+        "place_id": "5t2WPIubCZl8GZqXbg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Goya 1 Chome, Okinawa-shi, Okinawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549274,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/28583566_20101217_c86126f4e4.tar.gz"
+        },
+        "bbox": [
+            127.80131530762,
+            26.335832595825,
+            127.80258178711,
+            26.337358474731
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.802238,
+                        26.337358
+                    ],
+                    [
+                        127.802582,
+                        26.336653
+                    ],
+                    [
+                        127.801392,
+                        26.335833
+                    ],
+                    [
+                        127.801315,
+                        26.336498
+                    ],
+                    [
+                        127.801903,
+                        26.337324
+                    ],
+                    [
+                        127.802238,
+                        26.337358
+                    ]
+                ]
+            ]
+        ]
+    }
+}

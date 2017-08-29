@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483270,
+    "properties": {
+        "woe_id": 2483270,
+        "place_id": "zm9MtR.bBZRP3fVT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockaway Park, New York, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529964,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2483270_20101216_d7b447ca78.tar.gz"
+        },
+        "bbox": [
+            -73.816368103027,
+            40.582733154297,
+            -73.811988830566,
+            40.58540725708
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.812157,
+                        40.585407
+                    ],
+                    [
+                        -73.811989,
+                        40.584267
+                    ],
+                    [
+                        -73.816368,
+                        40.582733
+                    ],
+                    [
+                        -73.8125,
+                        40.584496
+                    ],
+                    [
+                        -73.812157,
+                        40.585407
+                    ]
+                ]
+            ]
+        ]
+    }
+}

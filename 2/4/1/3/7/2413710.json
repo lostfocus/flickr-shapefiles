@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2413710,
+    "properties": {
+        "woe_id": 2413710,
+        "place_id": "vD0eGyObBZ2QajGS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Green Acres, Butler, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469007,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2413710_20101216_75cdf451d3.tar.gz"
+        },
+        "bbox": [
+            -88.222938537598,
+            32.088718414307,
+            -88.220054626465,
+            32.092678070068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.221558,
+                        32.089348
+                    ],
+                    [
+                        -88.222321,
+                        32.089046
+                    ],
+                    [
+                        -88.222939,
+                        32.088718
+                    ],
+                    [
+                        -88.222336,
+                        32.090244
+                    ],
+                    [
+                        -88.22084,
+                        32.092678
+                    ],
+                    [
+                        -88.220055,
+                        32.090328
+                    ],
+                    [
+                        -88.221558,
+                        32.089348
+                    ]
+                ]
+            ]
+        ]
+    }
+}

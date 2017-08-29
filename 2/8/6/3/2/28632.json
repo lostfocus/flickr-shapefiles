@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28632,
+    "properties": {
+        "woe_id": 28632,
+        "place_id": "jN6CK8ObCZqtgA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meir Heath, Stoke-on-Trent, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248205698,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3480\/shapefiles\/28632_20090721_514bac27a5.tar.gz"
+        },
+        "bbox": [
+            -2.1047399044037,
+            52.95804977417,
+            -2.1034429073334,
+            52.960903167725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.103645,
+                        52.960903
+                    ],
+                    [
+                        -2.103443,
+                        52.960621
+                    ],
+                    [
+                        -2.104338,
+                        52.958328
+                    ],
+                    [
+                        -2.10474,
+                        52.95805
+                    ],
+                    [
+                        -2.104375,
+                        52.96072
+                    ],
+                    [
+                        -2.103645,
+                        52.960903
+                    ]
+                ]
+            ]
+        ]
+    }
+}

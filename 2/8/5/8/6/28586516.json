@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28586516,
+    "properties": {
+        "woe_id": 28586516,
+        "place_id": "Hm0TDcabCZn8BCguHQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mysterton, Townsville, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543381,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/28586516_20101216_89727db104.tar.gz"
+        },
+        "bbox": [
+            146.79737854004,
+            -19.288946151733,
+            146.79957580566,
+            -19.283580780029
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        146.799576,
+                        -19.288015
+                    ],
+                    [
+                        146.798965,
+                        -19.288946
+                    ],
+                    [
+                        146.798203,
+                        -19.288576
+                    ],
+                    [
+                        146.797379,
+                        -19.283621
+                    ],
+                    [
+                        146.797592,
+                        -19.283581
+                    ],
+                    [
+                        146.799576,
+                        -19.288015
+                    ]
+                ]
+            ]
+        ]
+    }
+}

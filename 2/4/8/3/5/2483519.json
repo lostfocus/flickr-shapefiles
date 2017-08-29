@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483519,
+    "properties": {
+        "woe_id": 2483519,
+        "place_id": "GWUMY3ubBZRjLwma",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockville, Rockport, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550795,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2483519_20101217_b325cf9cc0.tar.gz"
+        },
+        "bbox": [
+            -69.104133605957,
+            44.167346954346,
+            -69.101951599121,
+            44.168876647949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.103722,
+                        44.167992
+                    ],
+                    [
+                        -69.104134,
+                        44.168877
+                    ],
+                    [
+                        -69.102219,
+                        44.168278
+                    ],
+                    [
+                        -69.101952,
+                        44.168167
+                    ],
+                    [
+                        -69.103432,
+                        44.167347
+                    ],
+                    [
+                        -69.103722,
+                        44.167992
+                    ]
+                ]
+            ]
+        ]
+    }
+}

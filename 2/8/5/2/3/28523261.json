@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523261,
+    "properties": {
+        "woe_id": 28523261,
+        "place_id": "wWwhQuqbCZkK97yLmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hanaguri 1 Chome, Soka-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434867,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/28523261_20101215_c3bedc1f21.tar.gz"
+        },
+        "bbox": [
+            139.79223632812,
+            35.826473236084,
+            139.79483032227,
+            35.833332061768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.792236,
+                        35.830902
+                    ],
+                    [
+                        139.792328,
+                        35.833332
+                    ],
+                    [
+                        139.792999,
+                        35.833168
+                    ],
+                    [
+                        139.79483,
+                        35.830833
+                    ],
+                    [
+                        139.79335,
+                        35.826473
+                    ],
+                    [
+                        139.792236,
+                        35.830902
+                    ]
+                ]
+            ]
+        ]
+    }
+}

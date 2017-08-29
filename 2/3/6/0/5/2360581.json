@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2360581,
+    "properties": {
+        "woe_id": 2360581,
+        "place_id": "oyQKwNebApoBPL8H",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beacon Hill, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247853488,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3493\/shapefiles\/2360581_20090717_77eebc4ca0.tar.gz"
+        },
+        "bbox": [
+            -91.060585021973,
+            30.408939361572,
+            -91.057334899902,
+            30.414777755737
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.057335,
+                        30.41087
+                    ],
+                    [
+                        -91.057487,
+                        30.4098
+                    ],
+                    [
+                        -91.057472,
+                        30.408939
+                    ],
+                    [
+                        -91.057747,
+                        30.410166
+                    ],
+                    [
+                        -91.060585,
+                        30.414778
+                    ],
+                    [
+                        -91.057335,
+                        30.41087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

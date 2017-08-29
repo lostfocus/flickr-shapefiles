@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20151636,
+    "properties": {
+        "woe_id": 20151636,
+        "place_id": "d8hOUPWbAZ3J1_z7oA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Skogalund, Nacka, Stockholm, SE, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480583,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20151636_20101216_fbbb9259da.tar.gz"
+        },
+        "bbox": [
+            18.176166534424,
+            59.309345245361,
+            18.181449890137,
+            59.312168121338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.176537,
+                        59.309345
+                    ],
+                    [
+                        18.176167,
+                        59.311501
+                    ],
+                    [
+                        18.1765,
+                        59.312168
+                    ],
+                    [
+                        18.18145,
+                        59.31213
+                    ],
+                    [
+                        18.177481,
+                        59.309937
+                    ],
+                    [
+                        18.176537,
+                        59.309345
+                    ]
+                ]
+            ]
+        ]
+    }
+}

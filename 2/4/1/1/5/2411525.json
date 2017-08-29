@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2411525,
+    "properties": {
+        "woe_id": 2411525,
+        "place_id": "ldPn.vGbBZ0NeDZ.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gloucester Heights, Gloucester City, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459945,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2411525_20101216_f4246939a2.tar.gz"
+        },
+        "bbox": [
+            -75.107330322266,
+            39.89400100708,
+            -75.102500915527,
+            39.897254943848
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.106499,
+                        39.894833
+                    ],
+                    [
+                        -75.10334,
+                        39.897255
+                    ],
+                    [
+                        -75.102501,
+                        39.894333
+                    ],
+                    [
+                        -75.105835,
+                        39.894001
+                    ],
+                    [
+                        -75.10733,
+                        39.894833
+                    ],
+                    [
+                        -75.106499,
+                        39.894833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

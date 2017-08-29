@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 26332866,
+    "properties": {
+        "woe_id": 26332866,
+        "place_id": "o5dKdDmbB59hxURUMA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ridgedale, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541779,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/26332866_20101216_ddc20270dd.tar.gz"
+        },
+        "bbox": [
+            -97.266960144043,
+            49.87092590332,
+            -97.263809204102,
+            49.872940063477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.264107,
+                        49.870926
+                    ],
+                    [
+                        -97.264816,
+                        49.871395
+                    ],
+                    [
+                        -97.265739,
+                        49.871849
+                    ],
+                    [
+                        -97.26696,
+                        49.87294
+                    ],
+                    [
+                        -97.264282,
+                        49.872208
+                    ],
+                    [
+                        -97.264107,
+                        49.872223
+                    ],
+                    [
+                        -97.263809,
+                        49.872211
+                    ],
+                    [
+                        -97.264107,
+                        49.870926
+                    ]
+                ]
+            ]
+        ]
+    }
+}

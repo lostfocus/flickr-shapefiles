@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461510,
+    "properties": {
+        "woe_id": 2461510,
+        "place_id": "hv.GM6ybBZr8QDqC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Pugh, Lexington, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247855522,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2431\/shapefiles\/2461510_20090717_5ba7202bf0.tar.gz"
+        },
+        "bbox": [
+            -80.245460510254,
+            35.830703735352,
+            -80.243667602539,
+            35.834968566895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.244492,
+                        35.830708
+                    ],
+                    [
+                        -80.245461,
+                        35.830704
+                    ],
+                    [
+                        -80.24543,
+                        35.834656
+                    ],
+                    [
+                        -80.243668,
+                        35.834969
+                    ],
+                    [
+                        -80.243752,
+                        35.832043
+                    ],
+                    [
+                        -80.244492,
+                        35.830708
+                    ]
+                ]
+            ]
+        ]
+    }
+}

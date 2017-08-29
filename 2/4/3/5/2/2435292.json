@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435292,
+    "properties": {
+        "woe_id": 2435292,
+        "place_id": "58O0kpabBZ.2PPc8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakefield, Grafton, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457824,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/2435292_20101216_d226a65d79.tar.gz"
+        },
+        "bbox": [
+            -87.942008972168,
+            43.310195922852,
+            -87.941841125488,
+            43.310562133789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.941849,
+                        43.310196
+                    ],
+                    [
+                        -87.941856,
+                        43.310196
+                    ],
+                    [
+                        -87.942009,
+                        43.310356
+                    ],
+                    [
+                        -87.941978,
+                        43.310562
+                    ],
+                    [
+                        -87.941841,
+                        43.310204
+                    ],
+                    [
+                        -87.941849,
+                        43.310196
+                    ]
+                ]
+            ]
+        ]
+    }
+}

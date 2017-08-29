@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150361,
+    "properties": {
+        "woe_id": 20150361,
+        "place_id": "kRXmPLSbAZ0GdIzTLw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bonifica di Agnano, Naples, CM, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529362,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/20150361_20101216_4f7bb59a77.tar.gz"
+        },
+        "bbox": [
+            14.169230461121,
+            40.823894500732,
+            14.172406196594,
+            40.828025817871
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.170968,
+                        40.827839
+                    ],
+                    [
+                        14.17203,
+                        40.828026
+                    ],
+                    [
+                        14.172406,
+                        40.827751
+                    ],
+                    [
+                        14.169337,
+                        40.823895
+                    ],
+                    [
+                        14.16923,
+                        40.827435
+                    ],
+                    [
+                        14.170968,
+                        40.827839
+                    ]
+                ]
+            ]
+        ]
+    }
+}

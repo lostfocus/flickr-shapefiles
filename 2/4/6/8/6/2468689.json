@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2468689,
+    "properties": {
+        "woe_id": 2468689,
+        "place_id": "HK78vuibBZqgRYOU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkstone, Charlotte, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525588,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2468689_20101216_119a226a09.tar.gz"
+        },
+        "bbox": [
+            -80.857269287109,
+            35.146949768066,
+            -80.848915100098,
+            35.152408599854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.857231,
+                        35.149265
+                    ],
+                    [
+                        -80.853493,
+                        35.149792
+                    ],
+                    [
+                        -80.850403,
+                        35.152409
+                    ],
+                    [
+                        -80.850533,
+                        35.149845
+                    ],
+                    [
+                        -80.848915,
+                        35.14695
+                    ],
+                    [
+                        -80.853493,
+                        35.149792
+                    ],
+                    [
+                        -80.857269,
+                        35.149582
+                    ],
+                    [
+                        -80.857231,
+                        35.149265
+                    ]
+                ]
+            ]
+        ]
+    }
+}

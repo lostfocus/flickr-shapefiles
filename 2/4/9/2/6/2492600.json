@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492600,
+    "properties": {
+        "woe_id": 2492600,
+        "place_id": "NnP_rDCbBZWELQRS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Forest, Macon, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529993,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2492600_20101216_7c77fb57a5.tar.gz"
+        },
+        "bbox": [
+            -83.761054992676,
+            32.878902435303,
+            -83.758239746094,
+            32.88236618042
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.759628,
+                        32.882366
+                    ],
+                    [
+                        -83.75824,
+                        32.879265
+                    ],
+                    [
+                        -83.758392,
+                        32.879253
+                    ],
+                    [
+                        -83.760712,
+                        32.878902
+                    ],
+                    [
+                        -83.761055,
+                        32.882111
+                    ],
+                    [
+                        -83.759628,
+                        32.882366
+                    ]
+                ]
+            ]
+        ]
+    }
+}

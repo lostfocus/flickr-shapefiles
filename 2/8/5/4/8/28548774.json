@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28548774,
+    "properties": {
+        "woe_id": 28548774,
+        "place_id": "suWIM3KbCZlLhpKKig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Toyoda 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435045,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28548774_20101215_8c8a44f880.tar.gz"
+        },
+        "bbox": [
+            136.91372680664,
+            35.105667114258,
+            136.91720581055,
+            35.107482910156
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.914001,
+                        35.105831
+                    ],
+                    [
+                        136.913727,
+                        35.107483
+                    ],
+                    [
+                        136.914963,
+                        35.106567
+                    ],
+                    [
+                        136.917206,
+                        35.105667
+                    ],
+                    [
+                        136.914627,
+                        35.105785
+                    ],
+                    [
+                        136.914001,
+                        35.105831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28520340,
+    "properties": {
+        "woe_id": 28520340,
+        "place_id": "a7uv4s.bCZmiqTWwsg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chuo 5 Chome, Ushiku-shi, Ibaraki Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452670,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/28520340_20101215_557044e29e.tar.gz"
+        },
+        "bbox": [
+            140.13934326172,
+            35.974914550781,
+            140.14343261719,
+            35.976760864258
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.140793,
+                        35.974915
+                    ],
+                    [
+                        140.139587,
+                        35.975658
+                    ],
+                    [
+                        140.139343,
+                        35.976761
+                    ],
+                    [
+                        140.141144,
+                        35.976284
+                    ],
+                    [
+                        140.143433,
+                        35.976418
+                    ],
+                    [
+                        140.140793,
+                        35.974915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

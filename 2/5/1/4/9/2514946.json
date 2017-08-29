@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2514946,
+    "properties": {
+        "woe_id": 2514946,
+        "place_id": "1kJAVl2bBJ2t6Cwx",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Washington Square, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523354,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2514946_20101216_df26e3c237.tar.gz"
+        },
+        "bbox": [
+            -111.87399291992,
+            40.578460693359,
+            -111.86894989014,
+            40.580505371094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.873993,
+                        40.579647
+                    ],
+                    [
+                        -111.873329,
+                        40.580505
+                    ],
+                    [
+                        -111.86895,
+                        40.578808
+                    ],
+                    [
+                        -111.871307,
+                        40.578461
+                    ],
+                    [
+                        -111.872414,
+                        40.579021
+                    ],
+                    [
+                        -111.873993,
+                        40.579647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

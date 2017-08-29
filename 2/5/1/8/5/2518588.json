@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518588,
+    "properties": {
+        "woe_id": 2518588,
+        "place_id": "JARk9fubBJ07BikA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westville, Southbridge, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523388,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2518588_20101216_0f350cf064.tar.gz"
+        },
+        "bbox": [
+            -72.062538146973,
+            42.072456359863,
+            -72.060249328613,
+            42.075965881348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.061386,
+                        42.074932
+                    ],
+                    [
+                        -72.060249,
+                        42.073826
+                    ],
+                    [
+                        -72.061897,
+                        42.072456
+                    ],
+                    [
+                        -72.062538,
+                        42.075966
+                    ],
+                    [
+                        -72.062096,
+                        42.075554
+                    ],
+                    [
+                        -72.061386,
+                        42.074932
+                    ]
+                ]
+            ]
+        ]
+    }
+}

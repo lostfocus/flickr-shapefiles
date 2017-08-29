@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519340,
+    "properties": {
+        "woe_id": 2519340,
+        "place_id": "2wTAwV6bBJ3Wlypb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "White Island Shores, East Wareham, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248131646,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2444\/shapefiles\/2519340_20090720_ab54563ccb.tar.gz"
+        },
+        "bbox": [
+            -70.644943237305,
+            41.793167114258,
+            -70.638442993164,
+            41.799854278564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.638702,
+                        41.799648
+                    ],
+                    [
+                        -70.638481,
+                        41.799854
+                    ],
+                    [
+                        -70.638443,
+                        41.799519
+                    ],
+                    [
+                        -70.644661,
+                        41.793167
+                    ],
+                    [
+                        -70.644943,
+                        41.793663
+                    ],
+                    [
+                        -70.638702,
+                        41.799648
+                    ]
+                ]
+            ]
+        ]
+    }
+}

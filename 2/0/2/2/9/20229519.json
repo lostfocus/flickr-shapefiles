@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229519,
+    "properties": {
+        "woe_id": 20229519,
+        "place_id": ".e9tBeybAZ5IuzTtAA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Voldboligerne, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548805,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/20229519_20101217_88a933cfbb.tar.gz"
+        },
+        "bbox": [
+            12.597411155701,
+            55.671001434326,
+            12.600999832153,
+            55.672065734863
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.597713,
+                        55.671474
+                    ],
+                    [
+                        12.597411,
+                        55.671448
+                    ],
+                    [
+                        12.597455,
+                        55.671776
+                    ],
+                    [
+                        12.597895,
+                        55.672066
+                    ],
+                    [
+                        12.599387,
+                        55.671753
+                    ],
+                    [
+                        12.601,
+                        55.671001
+                    ],
+                    [
+                        12.597713,
+                        55.671474
+                    ]
+                ]
+            ]
+        ]
+    }
+}

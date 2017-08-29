@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528128,
+    "properties": {
+        "woe_id": 28528128,
+        "place_id": "ZTVNJXGbCZnkRxLuaw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashigaoka 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546902,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/28528128_20101217_e121e5d4eb.tar.gz"
+        },
+        "bbox": [
+            139.66732788086,
+            35.627998352051,
+            139.6693572998,
+            35.630702972412
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.668991,
+                        35.628426
+                    ],
+                    [
+                        139.667328,
+                        35.627998
+                    ],
+                    [
+                        139.668777,
+                        35.630703
+                    ],
+                    [
+                        139.668808,
+                        35.630619
+                    ],
+                    [
+                        139.669357,
+                        35.628403
+                    ],
+                    [
+                        139.668991,
+                        35.628426
+                    ]
+                ]
+            ]
+        ]
+    }
+}

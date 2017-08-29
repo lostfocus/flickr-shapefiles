@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28579085,
+    "properties": {
+        "woe_id": 28579085,
+        "place_id": "PmSB8zqbCZmKuy6z_A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Noke 1 Chome, Fukuoka-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446208,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/28579085_20101215_01e07d14f6.tar.gz"
+        },
+        "bbox": [
+            130.34736633301,
+            33.546333312988,
+            130.34767150879,
+            33.548000335693
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.347366,
+                        33.547249
+                    ],
+                    [
+                        130.347504,
+                        33.548
+                    ],
+                    [
+                        130.347504,
+                        33.547665
+                    ],
+                    [
+                        130.347672,
+                        33.546333
+                    ],
+                    [
+                        130.347504,
+                        33.546665
+                    ],
+                    [
+                        130.347366,
+                        33.547249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

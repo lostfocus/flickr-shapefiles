@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28499784,
+    "properties": {
+        "woe_id": 28499784,
+        "place_id": "1sSf0E6bCZhIWNfJMg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Atsubetsuchuosanjo 5 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526813,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/28499784_20101216_15d5ca1793.tar.gz"
+        },
+        "bbox": [
+            141.47099304199,
+            43.040664672852,
+            141.47305297852,
+            43.041732788086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.473053,
+                        43.041496
+                    ],
+                    [
+                        141.473007,
+                        43.041164
+                    ],
+                    [
+                        141.470993,
+                        43.040665
+                    ],
+                    [
+                        141.471283,
+                        43.041733
+                    ],
+                    [
+                        141.472595,
+                        43.041557
+                    ],
+                    [
+                        141.473053,
+                        43.041496
+                    ]
+                ]
+            ]
+        ]
+    }
+}

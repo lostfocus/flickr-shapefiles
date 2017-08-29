@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2463350,
+    "properties": {
+        "woe_id": 2463350,
+        "place_id": "gpINkC2bBZok9adj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakdale, Louisville, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519917,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2463350_20101216_61aafa9cc4.tar.gz"
+        },
+        "bbox": [
+            -85.775100708008,
+            38.19849395752,
+            -85.769958496094,
+            38.205612182617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.773827,
+                        38.200855
+                    ],
+                    [
+                        -85.770531,
+                        38.205612
+                    ],
+                    [
+                        -85.769958,
+                        38.199841
+                    ],
+                    [
+                        -85.773521,
+                        38.198494
+                    ],
+                    [
+                        -85.775101,
+                        38.200573
+                    ],
+                    [
+                        -85.773827,
+                        38.200855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

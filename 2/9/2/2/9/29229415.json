@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29229415,
+    "properties": {
+        "woe_id": 29229415,
+        "place_id": "P5Og6TGbCJ5y3mCXoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saint Paul, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526039,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/29229415_20101216_eb3ed8a2be.tar.gz"
+        },
+        "bbox": [
+            -76.643447875977,
+            39.265319824219,
+            -76.639099121094,
+            39.270767211914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.640709,
+                        39.270004
+                    ],
+                    [
+                        -76.639099,
+                        39.268909
+                    ],
+                    [
+                        -76.640671,
+                        39.268078
+                    ],
+                    [
+                        -76.643417,
+                        39.26532
+                    ],
+                    [
+                        -76.643448,
+                        39.270767
+                    ],
+                    [
+                        -76.640709,
+                        39.270004
+                    ]
+                ]
+            ]
+        ]
+    }
+}

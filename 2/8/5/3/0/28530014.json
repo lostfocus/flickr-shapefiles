@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530014,
+    "properties": {
+        "woe_id": 28530014,
+        "place_id": "CszIWMebCZnkAvVGuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamikasai 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434807,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/28530014_20101215_2ea79800c1.tar.gz"
+        },
+        "bbox": [
+            139.8741607666,
+            35.651832580566,
+            139.8784942627,
+            35.653667449951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.874451,
+                        35.652805
+                    ],
+                    [
+                        139.874161,
+                        35.653435
+                    ],
+                    [
+                        139.876205,
+                        35.653667
+                    ],
+                    [
+                        139.878494,
+                        35.651833
+                    ],
+                    [
+                        139.875671,
+                        35.6525
+                    ],
+                    [
+                        139.874451,
+                        35.652805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

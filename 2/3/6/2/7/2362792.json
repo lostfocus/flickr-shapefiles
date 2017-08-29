@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2362792,
+    "properties": {
+        "woe_id": 2362792,
+        "place_id": "x6oGLXGbApp575ZS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Benton Corners, Gardiner, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543128,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2362792_20101216_4397bd3300.tar.gz"
+        },
+        "bbox": [
+            -74.193733215332,
+            41.698585510254,
+            -74.191764831543,
+            41.703628540039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.191818,
+                        41.698647
+                    ],
+                    [
+                        -74.191765,
+                        41.698635
+                    ],
+                    [
+                        -74.191895,
+                        41.698586
+                    ],
+                    [
+                        -74.191856,
+                        41.698643
+                    ],
+                    [
+                        -74.193733,
+                        41.703629
+                    ],
+                    [
+                        -74.191818,
+                        41.698647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

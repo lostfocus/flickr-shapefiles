@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2458232,
+    "properties": {
+        "woe_id": 2458232,
+        "place_id": "WbUfsW.bBZn61D3e",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "New Dover, Edison, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448628,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2458232_20101215_797bd2898c.tar.gz"
+        },
+        "bbox": [
+            -74.341003417969,
+            40.584819793701,
+            -74.33837890625,
+            40.585704803467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.340874,
+                        40.58482
+                    ],
+                    [
+                        -74.341003,
+                        40.584984
+                    ],
+                    [
+                        -74.340942,
+                        40.585327
+                    ],
+                    [
+                        -74.338379,
+                        40.585705
+                    ],
+                    [
+                        -74.340187,
+                        40.585049
+                    ],
+                    [
+                        -74.340874,
+                        40.58482
+                    ]
+                ]
+            ]
+        ]
+    }
+}

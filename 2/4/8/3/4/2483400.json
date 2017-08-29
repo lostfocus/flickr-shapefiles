@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483400,
+    "properties": {
+        "woe_id": 2483400,
+        "place_id": "l5ruPbqbBZRlG6Fu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockland, Madison, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538685,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2483400_20101216_877a64ec35.tar.gz"
+        },
+        "bbox": [
+            -72.635330200195,
+            41.425998687744,
+            -72.634162902832,
+            41.426834106445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.634666,
+                        41.426834
+                    ],
+                    [
+                        -72.634163,
+                        41.425999
+                    ],
+                    [
+                        -72.635002,
+                        41.426167
+                    ],
+                    [
+                        -72.63533,
+                        41.426498
+                    ],
+                    [
+                        -72.634758,
+                        41.426834
+                    ],
+                    [
+                        -72.634666,
+                        41.426834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

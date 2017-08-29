@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492601,
+    "properties": {
+        "woe_id": 2492601,
+        "place_id": "IVLjY_qbBZUMSCss",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Forest, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455444,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2492601_20101215_75f897c2e0.tar.gz"
+        },
+        "bbox": [
+            -84.525421142578,
+            34.103630065918,
+            -84.522888183594,
+            34.109531402588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.525383,
+                        34.106087
+                    ],
+                    [
+                        -84.525421,
+                        34.106136
+                    ],
+                    [
+                        -84.522888,
+                        34.109531
+                    ],
+                    [
+                        -84.523659,
+                        34.107113
+                    ],
+                    [
+                        -84.523659,
+                        34.10363
+                    ],
+                    [
+                        -84.525383,
+                        34.106087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

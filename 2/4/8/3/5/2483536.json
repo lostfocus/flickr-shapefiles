@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483536,
+    "properties": {
+        "woe_id": 2483536,
+        "place_id": "DAFamImbBZT0HmI9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockville, Mifflin, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480357,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2483536_20101216_cdaa4f93ab.tar.gz"
+        },
+        "bbox": [
+            -77.407402038574,
+            40.569183349609,
+            -77.405654907227,
+            40.571716308594
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.405655,
+                        40.571701
+                    ],
+                    [
+                        -77.405754,
+                        40.570805
+                    ],
+                    [
+                        -77.40641,
+                        40.569183
+                    ],
+                    [
+                        -77.407402,
+                        40.570816
+                    ],
+                    [
+                        -77.405701,
+                        40.571716
+                    ],
+                    [
+                        -77.405655,
+                        40.571701
+                    ]
+                ]
+            ]
+        ]
+    }
+}

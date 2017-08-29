@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2489959,
+    "properties": {
+        "woe_id": 2489959,
+        "place_id": "pyyQGMubBZSkZHTs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scott Acres, Myrtle Beach, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548702,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2489959_20101217_315bd103df.tar.gz"
+        },
+        "bbox": [
+            -78.90843963623,
+            33.683853149414,
+            -78.902389526367,
+            33.687782287598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.905182,
+                        33.687782
+                    ],
+                    [
+                        -78.903236,
+                        33.687237
+                    ],
+                    [
+                        -78.90239,
+                        33.683853
+                    ],
+                    [
+                        -78.906898,
+                        33.68478
+                    ],
+                    [
+                        -78.90844,
+                        33.68478
+                    ],
+                    [
+                        -78.905182,
+                        33.687782
+                    ]
+                ]
+            ]
+        ]
+    }
+}

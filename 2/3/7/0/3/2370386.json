@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2370386,
+    "properties": {
+        "woe_id": 2370386,
+        "place_id": "tmGLtNObApuWwOry",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brownlee, Bossier City, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462476,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2370386_20101216_3710dc745d.tar.gz"
+        },
+        "bbox": [
+            -93.702186584473,
+            32.587642669678,
+            -93.70198059082,
+            32.587833404541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.702126,
+                        32.587654
+                    ],
+                    [
+                        -93.702187,
+                        32.587685
+                    ],
+                    [
+                        -93.702164,
+                        32.587833
+                    ],
+                    [
+                        -93.701981,
+                        32.587643
+                    ],
+                    [
+                        -93.702126,
+                        32.587654
+                    ]
+                ]
+            ]
+        ]
+    }
+}

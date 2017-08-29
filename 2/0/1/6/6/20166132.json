@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20166132,
+    "properties": {
+        "woe_id": 20166132,
+        "place_id": "SEQtcFqbAZ2sVOEzMg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "R\u00fchme-Ost, Braunschweig, NI, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529437,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/20166132_20101216_2e697e2e59.tar.gz"
+        },
+        "bbox": [
+            10.499666213989,
+            52.308742523193,
+            10.505676269531,
+            52.311664581299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.505676,
+                        52.310471
+                    ],
+                    [
+                        10.505136,
+                        52.309105
+                    ],
+                    [
+                        10.504388,
+                        52.308743
+                    ],
+                    [
+                        10.499666,
+                        52.311665
+                    ],
+                    [
+                        10.504166,
+                        52.310665
+                    ],
+                    [
+                        10.505676,
+                        52.310471
+                    ]
+                ]
+            ]
+        ]
+    }
+}

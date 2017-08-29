@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28527941,
+    "properties": {
+        "woe_id": 28527941,
+        "place_id": "Z8I0a4GbCZl1NLDhMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Morishita 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522536,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/28527941_20101216_22cc3060ed.tar.gz"
+        },
+        "bbox": [
+            139.80361938477,
+            35.685501098633,
+            139.80616760254,
+            35.687175750732
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.805771,
+                        35.687042
+                    ],
+                    [
+                        139.805862,
+                        35.686977
+                    ],
+                    [
+                        139.806168,
+                        35.685501
+                    ],
+                    [
+                        139.803619,
+                        35.685616
+                    ],
+                    [
+                        139.805496,
+                        35.687176
+                    ],
+                    [
+                        139.805771,
+                        35.687042
+                    ]
+                ]
+            ]
+        ]
+    }
+}

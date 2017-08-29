@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2439710,
+    "properties": {
+        "woe_id": 2439710,
+        "place_id": "nM4AA22bBZ8jkqOG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Linden Hill, Wilmington, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234734376,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3422\/shapefiles\/2439710_20090215_e694e4fd4a.tar.gz"
+        },
+        "bbox": [
+            -75.69612121582,
+            39.727077484131,
+            -75.689811706543,
+            39.732139587402
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.696098,
+                        39.73214
+                    ],
+                    [
+                        -75.690651,
+                        39.729237
+                    ],
+                    [
+                        -75.689812,
+                        39.727077
+                    ],
+                    [
+                        -75.696121,
+                        39.73011
+                    ],
+                    [
+                        -75.696098,
+                        39.73214
+                    ]
+                ]
+            ]
+        ]
+    }
+}

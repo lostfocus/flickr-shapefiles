@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2362045,
+    "properties": {
+        "woe_id": 2362045,
+        "place_id": "qUvKi3WbApqFrdjm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bellewood, Wilmington, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493244,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2362045_20101216_c5013e4cd5.tar.gz"
+        },
+        "bbox": [
+            -75.53929901123,
+            39.788208007812,
+            -75.538040161133,
+            39.793830871582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.539299,
+                        39.793228
+                    ],
+                    [
+                        -75.539291,
+                        39.793831
+                    ],
+                    [
+                        -75.538933,
+                        39.793461
+                    ],
+                    [
+                        -75.53804,
+                        39.788208
+                    ],
+                    [
+                        -75.539299,
+                        39.793228
+                    ]
+                ]
+            ]
+        ]
+    }
+}

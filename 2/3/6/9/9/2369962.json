@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2369962,
+    "properties": {
+        "woe_id": 2369962,
+        "place_id": "wf2xUbmbApqGxt5f",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brooklyn, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548320,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2369962_20101217_d2357cb817.tar.gz"
+        },
+        "bbox": [
+            -111.90819549561,
+            40.747745513916,
+            -111.89834594727,
+            40.750789642334
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.904503,
+                        40.747746
+                    ],
+                    [
+                        -111.908195,
+                        40.750053
+                    ],
+                    [
+                        -111.903549,
+                        40.748676
+                    ],
+                    [
+                        -111.899368,
+                        40.75079
+                    ],
+                    [
+                        -111.898346,
+                        40.750004
+                    ],
+                    [
+                        -111.903259,
+                        40.748573
+                    ],
+                    [
+                        -111.904503,
+                        40.747746
+                    ]
+                ]
+            ]
+        ]
+    }
+}

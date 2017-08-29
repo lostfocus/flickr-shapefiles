@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28518730,
+    "properties": {
+        "woe_id": 28518730,
+        "place_id": "79DaN66bCZn12ZJ0vg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hanamigaoka 2 Chome, Aizuwakamatsu-shi, Fukushima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509143,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28518730_20101216_2db72a155d.tar.gz"
+        },
+        "bbox": [
+            139.95266723633,
+            37.480499267578,
+            139.9574432373,
+            37.485664367676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.953171,
+                        37.485664
+                    ],
+                    [
+                        139.953995,
+                        37.485188
+                    ],
+                    [
+                        139.957443,
+                        37.481136
+                    ],
+                    [
+                        139.95517,
+                        37.480499
+                    ],
+                    [
+                        139.952667,
+                        37.485332
+                    ],
+                    [
+                        139.953171,
+                        37.485664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2416651,
+    "properties": {
+        "woe_id": 2416651,
+        "place_id": "kr3DInubBZ3PUX2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hamiltons, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543727,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2416651_20101216_5ff39ce7c5.tar.gz"
+        },
+        "bbox": [
+            -111.92324829102,
+            40.744026184082,
+            -111.92012786865,
+            40.747776031494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.922714,
+                        40.747128
+                    ],
+                    [
+                        -111.920921,
+                        40.747631
+                    ],
+                    [
+                        -111.920128,
+                        40.747776
+                    ],
+                    [
+                        -111.92131,
+                        40.744678
+                    ],
+                    [
+                        -111.923248,
+                        40.744026
+                    ],
+                    [
+                        -111.922714,
+                        40.747128
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407985,
+    "properties": {
+        "woe_id": 2407985,
+        "place_id": "hAdZWWebBZztlijg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Frush Valley, Temple, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448378,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2407985_20101215_99b0b45873.tar.gz"
+        },
+        "bbox": [
+            -75.912055969238,
+            40.408359527588,
+            -75.910789489746,
+            40.408882141113
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.910789,
+                        40.408688
+                    ],
+                    [
+                        -75.912056,
+                        40.40836
+                    ],
+                    [
+                        -75.911896,
+                        40.408489
+                    ],
+                    [
+                        -75.911713,
+                        40.408653
+                    ],
+                    [
+                        -75.911072,
+                        40.408882
+                    ],
+                    [
+                        -75.910789,
+                        40.408688
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23511960,
+    "properties": {
+        "woe_id": 23511960,
+        "place_id": "Dx7Yq_GbApl6Kw_pvQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "9th District Unity, Los Angeles, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471767,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/23511960_20101216_ba34345fc0.tar.gz"
+        },
+        "bbox": [
+            -118.26992797852,
+            33.974285125732,
+            -118.26488494873,
+            33.977600097656
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.266273,
+                        33.97472
+                    ],
+                    [
+                        -118.264885,
+                        33.9776
+                    ],
+                    [
+                        -118.265205,
+                        33.975681
+                    ],
+                    [
+                        -118.266106,
+                        33.974285
+                    ],
+                    [
+                        -118.269928,
+                        33.974327
+                    ],
+                    [
+                        -118.266273,
+                        33.97472
+                    ]
+                ]
+            ]
+        ]
+    }
+}

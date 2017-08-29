@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403961,
+    "properties": {
+        "woe_id": 2403961,
+        "place_id": ".r79MsebBZwJ28tK",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Five Points, Sugarloaf, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548318,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2403961_20101217_f37e47560f.tar.gz"
+        },
+        "bbox": [
+            -76.138832092285,
+            40.991832733154,
+            -76.136337280273,
+            40.992832183838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.137001,
+                        40.992332
+                    ],
+                    [
+                        -76.138832,
+                        40.991833
+                    ],
+                    [
+                        -76.136665,
+                        40.992832
+                    ],
+                    [
+                        -76.136337,
+                        40.992832
+                    ],
+                    [
+                        -76.136497,
+                        40.992664
+                    ],
+                    [
+                        -76.137001,
+                        40.992332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

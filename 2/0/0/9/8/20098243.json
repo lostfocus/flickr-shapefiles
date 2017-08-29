@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20098243,
+    "properties": {
+        "woe_id": 20098243,
+        "place_id": "WtL50W6bAZx1CFFQIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burenville, Liege, Liege, BE, Belgium"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544193,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/20098243_20101217_8091f4d14c.tar.gz"
+        },
+        "bbox": [
+            5.5476660728455,
+            50.637786865234,
+            5.5504770278931,
+            50.645740509033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.548009,
+                        50.642059
+                    ],
+                    [
+                        5.548353,
+                        50.645489
+                    ],
+                    [
+                        5.550477,
+                        50.645741
+                    ],
+                    [
+                        5.549123,
+                        50.641525
+                    ],
+                    [
+                        5.547666,
+                        50.637787
+                    ],
+                    [
+                        5.548009,
+                        50.642059
+                    ]
+                ]
+            ]
+        ]
+    }
+}

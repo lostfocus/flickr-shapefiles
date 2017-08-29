@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2399398,
+    "properties": {
+        "woe_id": 2399398,
+        "place_id": "gnfHKICbApXhfdlq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Emery Park, Tucson, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234519805,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3398\/shapefiles\/2399398_20090213_65a77dd730.tar.gz"
+        },
+        "bbox": [
+            -110.94216918945,
+            32.115295410156,
+            -110.93750762939,
+            32.120826721191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -110.937508,
+                        32.120827
+                    ],
+                    [
+                        -110.937729,
+                        32.120407
+                    ],
+                    [
+                        -110.942169,
+                        32.115295
+                    ],
+                    [
+                        -110.938408,
+                        32.120388
+                    ],
+                    [
+                        -110.937508,
+                        32.120827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531392,
+    "properties": {
+        "woe_id": 28531392,
+        "place_id": "NR6eGRObCZnTClFA4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Asahigaoka 4 Chome, Kiyose-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434985,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28531392_20101215_4057dcc315.tar.gz"
+        },
+        "bbox": [
+            139.53852844238,
+            35.800411224365,
+            139.54086303711,
+            35.800762176514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.539093,
+                        35.800411
+                    ],
+                    [
+                        139.538528,
+                        35.800545
+                    ],
+                    [
+                        139.539139,
+                        35.800453
+                    ],
+                    [
+                        139.540787,
+                        35.800762
+                    ],
+                    [
+                        139.540863,
+                        35.800705
+                    ],
+                    [
+                        139.539093,
+                        35.800411
+                    ]
+                ]
+            ]
+        ]
+    }
+}

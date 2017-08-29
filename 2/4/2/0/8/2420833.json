@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2420833,
+    "properties": {
+        "woe_id": 2420833,
+        "place_id": "psF7vFybBZ7DEhso",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hickory Hills, Slidell, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247763482,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2448\/shapefiles\/2420833_20090716_933ccd956f.tar.gz"
+        },
+        "bbox": [
+            -89.702186584473,
+            30.30898475647,
+            -89.701118469238,
+            30.31282043457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.701118,
+                        30.309179
+                    ],
+                    [
+                        -89.702187,
+                        30.308985
+                    ],
+                    [
+                        -89.701973,
+                        30.309595
+                    ],
+                    [
+                        -89.701118,
+                        30.31282
+                    ],
+                    [
+                        -89.701439,
+                        30.309984
+                    ],
+                    [
+                        -89.701118,
+                        30.309179
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528884,
+    "properties": {
+        "woe_id": 28528884,
+        "place_id": ".2D2JXqbCZlMfnpwiA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takaidohigashi 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446153,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/28528884_20101215_74e501731f.tar.gz"
+        },
+        "bbox": [
+            139.62171936035,
+            35.677780151367,
+            139.62452697754,
+            35.68253326416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.622559,
+                        35.682533
+                    ],
+                    [
+                        139.624527,
+                        35.682182
+                    ],
+                    [
+                        139.623062,
+                        35.67778
+                    ],
+                    [
+                        139.621719,
+                        35.679783
+                    ],
+                    [
+                        139.621796,
+                        35.682465
+                    ],
+                    [
+                        139.622559,
+                        35.682533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

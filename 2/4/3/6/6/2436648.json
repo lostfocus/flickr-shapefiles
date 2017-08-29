@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2436648,
+    "properties": {
+        "woe_id": 2436648,
+        "place_id": "2fYWOlObBZ_ZmhjB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Larson Mill, Bellingham, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532660,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2436648_20101216_bb597d9149.tar.gz"
+        },
+        "bbox": [
+            -122.40161895752,
+            48.74800491333,
+            -122.40121459961,
+            48.748226165771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.401367,
+                        48.748215
+                    ],
+                    [
+                        -122.401291,
+                        48.748226
+                    ],
+                    [
+                        -122.401215,
+                        48.748119
+                    ],
+                    [
+                        -122.401329,
+                        48.748089
+                    ],
+                    [
+                        -122.401619,
+                        48.748005
+                    ],
+                    [
+                        -122.401367,
+                        48.748215
+                    ]
+                ]
+            ]
+        ]
+    }
+}

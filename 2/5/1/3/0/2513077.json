@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2513077,
+    "properties": {
+        "woe_id": 2513077,
+        "place_id": "lGubepibBJ1rje8R",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wago Junction, Mount Wolf, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547486,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2513077_20101217_24fd38cc1e.tar.gz"
+        },
+        "bbox": [
+            -76.677619934082,
+            40.099838256836,
+            -76.671524047852,
+            40.104583740234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.676933,
+                        40.104584
+                    ],
+                    [
+                        -76.675499,
+                        40.103664
+                    ],
+                    [
+                        -76.671524,
+                        40.102085
+                    ],
+                    [
+                        -76.674782,
+                        40.099838
+                    ],
+                    [
+                        -76.67762,
+                        40.101398
+                    ],
+                    [
+                        -76.676933,
+                        40.104584
+                    ]
+                ]
+            ]
+        ]
+    }
+}

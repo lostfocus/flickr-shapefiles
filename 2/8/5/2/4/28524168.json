@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524168,
+    "properties": {
+        "woe_id": 28524168,
+        "place_id": "tEru.lWbCZk6QB_r3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishisakado 5 Chome, Sakado-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452579,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/28524168_20101215_0941793075.tar.gz"
+        },
+        "bbox": [
+            139.3420715332,
+            35.92028427124,
+            139.34226989746,
+            35.920475006104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.342239,
+                        35.920475
+                    ],
+                    [
+                        139.34227,
+                        35.920319
+                    ],
+                    [
+                        139.342194,
+                        35.920284
+                    ],
+                    [
+                        139.342117,
+                        35.920364
+                    ],
+                    [
+                        139.342072,
+                        35.920422
+                    ],
+                    [
+                        139.342239,
+                        35.920475
+                    ]
+                ]
+            ]
+        ]
+    }
+}

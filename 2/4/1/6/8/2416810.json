@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2416810,
+    "properties": {
+        "woe_id": 2416810,
+        "place_id": "GAypBh2bBZ0R2HHe",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hampshire Road, Salem, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450558,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/2416810_20101215_ffc4139449.tar.gz"
+        },
+        "bbox": [
+            -71.210372924805,
+            42.743255615234,
+            -71.209495544434,
+            42.744110107422
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.209946,
+                        42.743546
+                    ],
+                    [
+                        -71.210289,
+                        42.743732
+                    ],
+                    [
+                        -71.210373,
+                        42.74411
+                    ],
+                    [
+                        -71.21003,
+                        42.743797
+                    ],
+                    [
+                        -71.209496,
+                        42.743256
+                    ],
+                    [
+                        -71.209946,
+                        42.743546
+                    ]
+                ]
+            ]
+        ]
+    }
+}

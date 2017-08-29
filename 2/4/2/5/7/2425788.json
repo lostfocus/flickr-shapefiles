@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425788,
+    "properties": {
+        "woe_id": 2425788,
+        "place_id": "XckbOV2bBZ7cxPrl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hunting Ridge, Stamford, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529669,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2425788_20101216_a988286510.tar.gz"
+        },
+        "bbox": [
+            -73.548355102539,
+            41.125129699707,
+            -73.546836853027,
+            41.127834320068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.547668,
+                        41.127834
+                    ],
+                    [
+                        -73.546837,
+                        41.126331
+                    ],
+                    [
+                        -73.547211,
+                        41.12513
+                    ],
+                    [
+                        -73.548332,
+                        41.1255
+                    ],
+                    [
+                        -73.548355,
+                        41.12706
+                    ],
+                    [
+                        -73.547668,
+                        41.127834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

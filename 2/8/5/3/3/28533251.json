@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533251,
+    "properties": {
+        "woe_id": 28533251,
+        "place_id": "vsGGWJ.bCZnPNLsCSw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyauchi 1 Chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531105,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28533251_20101216_a30ddd87ef.tar.gz"
+        },
+        "bbox": [
+            139.64237976074,
+            35.593189239502,
+            139.6468963623,
+            35.595584869385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.64502,
+                        35.59362
+                    ],
+                    [
+                        139.64238,
+                        35.595585
+                    ],
+                    [
+                        139.645248,
+                        35.595139
+                    ],
+                    [
+                        139.646896,
+                        35.594017
+                    ],
+                    [
+                        139.646713,
+                        35.593189
+                    ],
+                    [
+                        139.64502,
+                        35.59362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

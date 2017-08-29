@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24550993,
+    "properties": {
+        "woe_id": 24550993,
+        "place_id": "k_QI1GybBZn7HT_lsA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Martin's Court, Guaynabo, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292433125,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/24550993_20101215_2e11fb6853.tar.gz"
+        },
+        "bbox": [
+            -66.107429504395,
+            18.384481430054,
+            -66.10472869873,
+            18.393058776855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.107155,
+                        18.388882
+                    ],
+                    [
+                        -66.10743,
+                        18.393059
+                    ],
+                    [
+                        -66.104729,
+                        18.388996
+                    ],
+                    [
+                        -66.105934,
+                        18.384481
+                    ],
+                    [
+                        -66.107117,
+                        18.388851
+                    ],
+                    [
+                        -66.107155,
+                        18.388882
+                    ]
+                ]
+            ]
+        ]
+    }
+}

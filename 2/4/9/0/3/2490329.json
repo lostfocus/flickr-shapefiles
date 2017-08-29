@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2490329,
+    "properties": {
+        "woe_id": 2490329,
+        "place_id": "LJ3scoKbBZVhhBw0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Searsville, Montgomery, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507522,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2490329_20101216_ed27284405.tar.gz"
+        },
+        "bbox": [
+            -74.31071472168,
+            41.550045013428,
+            -74.309814453125,
+            41.550598144531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.309921,
+                        41.550106
+                    ],
+                    [
+                        -74.310715,
+                        41.550045
+                    ],
+                    [
+                        -74.310036,
+                        41.550533
+                    ],
+                    [
+                        -74.309814,
+                        41.550598
+                    ],
+                    [
+                        -74.309921,
+                        41.550106
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28546248,
+    "properties": {
+        "woe_id": 28546248,
+        "place_id": "GO4V3TabCZmW9YTQVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagono 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536222,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/28546248_20101216_eb72de4718.tar.gz"
+        },
+        "bbox": [
+            136.88746643066,
+            35.175422668457,
+            136.88970947266,
+            35.177276611328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.889694,
+                        35.17651
+                    ],
+                    [
+                        136.889709,
+                        35.176468
+                    ],
+                    [
+                        136.889008,
+                        35.175423
+                    ],
+                    [
+                        136.888885,
+                        35.175556
+                    ],
+                    [
+                        136.887466,
+                        35.177277
+                    ],
+                    [
+                        136.889694,
+                        35.17651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

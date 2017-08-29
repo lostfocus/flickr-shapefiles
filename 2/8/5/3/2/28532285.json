@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532285,
+    "properties": {
+        "woe_id": 28532285,
+        "place_id": "XPG19aqbCZkyj9VthQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yayoicho 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452621,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/28532285_20101215_4fd5ef3eac.tar.gz"
+        },
+        "bbox": [
+            139.6241607666,
+            35.437282562256,
+            139.62501525879,
+            35.437831878662
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.624908,
+                        35.43734
+                    ],
+                    [
+                        139.624161,
+                        35.437283
+                    ],
+                    [
+                        139.625015,
+                        35.437832
+                    ],
+                    [
+                        139.625015,
+                        35.437824
+                    ],
+                    [
+                        139.624924,
+                        35.437344
+                    ],
+                    [
+                        139.624908,
+                        35.43734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

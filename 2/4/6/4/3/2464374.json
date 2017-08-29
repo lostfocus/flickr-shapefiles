@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2464374,
+    "properties": {
+        "woe_id": 2464374,
+        "place_id": "G7FGBOebBZovl7Fu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ogles, Belleville, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507706,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2464374_20101216_9a464b9374.tar.gz"
+        },
+        "bbox": [
+            -90.056571960449,
+            38.536865234375,
+            -90.055786132812,
+            38.539775848389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.056221,
+                        38.537663
+                    ],
+                    [
+                        -90.055786,
+                        38.539776
+                    ],
+                    [
+                        -90.056046,
+                        38.537518
+                    ],
+                    [
+                        -90.056252,
+                        38.537048
+                    ],
+                    [
+                        -90.056572,
+                        38.536865
+                    ],
+                    [
+                        -90.056221,
+                        38.537663
+                    ]
+                ]
+            ]
+        ]
+    }
+}

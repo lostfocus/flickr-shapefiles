@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2355473,
+    "properties": {
+        "woe_id": 2355473,
+        "place_id": "0cSrHkWbAplaGXfa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arbor Terrace, St. Louis, MO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546770,
+        "alpha": 2.44140625e-5,
+        "points": 17,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2355473_20101217_bcf339f6fd.tar.gz"
+        },
+        "bbox": [
+            -90.306335449219,
+            38.69917678833,
+            -90.287315368652,
+            38.710025787354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.306335,
+                        38.701683
+                    ],
+                    [
+                        -90.305496,
+                        38.703083
+                    ],
+                    [
+                        -90.299637,
+                        38.709297
+                    ],
+                    [
+                        -90.295792,
+                        38.710026
+                    ],
+                    [
+                        -90.289734,
+                        38.707684
+                    ],
+                    [
+                        -90.287315,
+                        38.699177
+                    ],
+                    [
+                        -90.293648,
+                        38.70401
+                    ],
+                    [
+                        -90.297455,
+                        38.70705
+                    ],
+                    [
+                        -90.304878,
+                        38.701637
+                    ],
+                    [
+                        -90.306335,
+                        38.701683
+                    ]
+                ]
+            ]
+        ]
+    }
+}

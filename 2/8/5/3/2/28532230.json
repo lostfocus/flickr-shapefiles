@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532230,
+    "properties": {
+        "woe_id": 28532230,
+        "place_id": "q7fefnGbCZlj3AuEoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honcho 3 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522549,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28532230_20101216_8a489bc3f9.tar.gz"
+        },
+        "bbox": [
+            139.63829040527,
+            35.448505401611,
+            139.63945007324,
+            35.448993682861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.638626,
+                        35.448677
+                    ],
+                    [
+                        139.63829,
+                        35.448994
+                    ],
+                    [
+                        139.63945,
+                        35.448799
+                    ],
+                    [
+                        139.638977,
+                        35.448574
+                    ],
+                    [
+                        139.638809,
+                        35.448505
+                    ],
+                    [
+                        139.638626,
+                        35.448677
+                    ]
+                ]
+            ]
+        ]
+    }
+}

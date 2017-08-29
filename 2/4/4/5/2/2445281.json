@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2445281,
+    "properties": {
+        "woe_id": 2445281,
+        "place_id": "AP6.OW2bBZinr3xj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maple Shade, Saratoga Springs, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234943657,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3452\/shapefiles\/2445281_20090218_2434e3de0f.tar.gz"
+        },
+        "bbox": [
+            -73.741432189941,
+            43.016372680664,
+            -73.719291687012,
+            43.027770996094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.722137,
+                        43.016373
+                    ],
+                    [
+                        -73.741432,
+                        43.02021
+                    ],
+                    [
+                        -73.719376,
+                        43.027725
+                    ],
+                    [
+                        -73.719292,
+                        43.027771
+                    ],
+                    [
+                        -73.722137,
+                        43.016373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

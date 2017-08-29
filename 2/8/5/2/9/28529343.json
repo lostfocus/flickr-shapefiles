@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529343,
+    "properties": {
+        "woe_id": 28529343,
+        "place_id": "Jvn4zOKbCZkCwsnhmA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimoshakuji 6 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463429,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28529343_20101216_eb55cb380b.tar.gz"
+        },
+        "bbox": [
+            139.59982299805,
+            35.734874725342,
+            139.60427856445,
+            35.736461639404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.599823,
+                        35.73579
+                    ],
+                    [
+                        139.599838,
+                        35.736
+                    ],
+                    [
+                        139.600464,
+                        35.736462
+                    ],
+                    [
+                        139.604279,
+                        35.734875
+                    ],
+                    [
+                        139.600235,
+                        35.735073
+                    ],
+                    [
+                        139.599823,
+                        35.73579
+                    ]
+                ]
+            ]
+        ]
+    }
+}

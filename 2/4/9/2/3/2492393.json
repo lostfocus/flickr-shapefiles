@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2492393,
+    "properties": {
+        "woe_id": 2492393,
+        "place_id": "uMEzDfybBZX._IgW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherburne Four Corners, Smyrna, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234490161,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3471\/shapefiles\/2492393_20090213_1ab02dd308.tar.gz"
+        },
+        "bbox": [
+            -75.547378540039,
+            42.645915985107,
+            -75.546043395996,
+            42.648590087891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.547226,
+                        42.648155
+                    ],
+                    [
+                        -75.547379,
+                        42.64859
+                    ],
+                    [
+                        -75.546043,
+                        42.645916
+                    ],
+                    [
+                        -75.546562,
+                        42.646587
+                    ],
+                    [
+                        -75.547226,
+                        42.648155
+                    ]
+                ]
+            ]
+        ]
+    }
+}

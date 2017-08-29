@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28502833,
+    "properties": {
+        "woe_id": 28502833,
+        "place_id": "luSPOqmbCZlSmNalYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kaigancho 1 Chome, Muroran-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472124,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/28502833_20101216_ae3de2c898.tar.gz"
+        },
+        "bbox": [
+            140.97724914551,
+            42.322158813477,
+            140.97813415527,
+            42.32453918457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.97757,
+                        42.322159
+                    ],
+                    [
+                        140.977524,
+                        42.322495
+                    ],
+                    [
+                        140.977249,
+                        42.323448
+                    ],
+                    [
+                        140.977249,
+                        42.324539
+                    ],
+                    [
+                        140.978134,
+                        42.322269
+                    ],
+                    [
+                        140.97757,
+                        42.322159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

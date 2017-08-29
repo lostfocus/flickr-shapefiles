@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522464,
+    "properties": {
+        "woe_id": 28522464,
+        "place_id": "_xWG0gmbCZkv1sNVMA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kawaguchi 3 Chome, Kawaguchi-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496244,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28522464_20101216_de38eca873.tar.gz"
+        },
+        "bbox": [
+            139.71548461914,
+            35.800998687744,
+            139.71751403809,
+            35.803127288818
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.716217,
+                        35.803127
+                    ],
+                    [
+                        139.717514,
+                        35.801682
+                    ],
+                    [
+                        139.716827,
+                        35.801071
+                    ],
+                    [
+                        139.715668,
+                        35.800999
+                    ],
+                    [
+                        139.715485,
+                        35.802528
+                    ],
+                    [
+                        139.716217,
+                        35.803127
+                    ]
+                ]
+            ]
+        ]
+    }
+}

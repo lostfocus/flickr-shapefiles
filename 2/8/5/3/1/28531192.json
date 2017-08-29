@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531192,
+    "properties": {
+        "woe_id": 28531192,
+        "place_id": "71o5_iebCZnKP3IGHw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishikoigakubo 3 Chome, Kokubunji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452589,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28531192_20101215_5497ab3d46.tar.gz"
+        },
+        "bbox": [
+            139.4621887207,
+            35.702831268311,
+            139.46711730957,
+            35.705852508545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.466019,
+                        35.705853
+                    ],
+                    [
+                        139.467117,
+                        35.70451
+                    ],
+                    [
+                        139.466721,
+                        35.704296
+                    ],
+                    [
+                        139.462189,
+                        35.702831
+                    ],
+                    [
+                        139.462204,
+                        35.704697
+                    ],
+                    [
+                        139.466019,
+                        35.705853
+                    ]
+                ]
+            ]
+        ]
+    }
+}

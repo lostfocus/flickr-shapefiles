@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2366848,
+    "properties": {
+        "woe_id": 2366848,
+        "place_id": "lMk46cCbAppCAc7d",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boon Terrace, Strabane, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536609,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2366848_20101216_99fef37bc9.tar.gz"
+        },
+        "bbox": [
+            -80.194961547852,
+            40.255916595459,
+            -80.191543579102,
+            40.258323669434
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.191544,
+                        40.256523
+                    ],
+                    [
+                        -80.191933,
+                        40.255917
+                    ],
+                    [
+                        -80.194168,
+                        40.257999
+                    ],
+                    [
+                        -80.194962,
+                        40.258324
+                    ],
+                    [
+                        -80.193336,
+                        40.257999
+                    ],
+                    [
+                        -80.191544,
+                        40.256523
+                    ]
+                ]
+            ]
+        ]
+    }
+}

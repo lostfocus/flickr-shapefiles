@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2423744,
+    "properties": {
+        "woe_id": 2423744,
+        "place_id": "RNHHtTWbBZ6aK1pT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Homes Mills, Cream Ridge, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524264,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2423744_20101216_cb747fc130.tar.gz"
+        },
+        "bbox": [
+            -74.536499023438,
+            40.145332336426,
+            -74.535499572754,
+            40.145999908447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.535835,
+                        40.145664
+                    ],
+                    [
+                        -74.536499,
+                        40.145332
+                    ],
+                    [
+                        -74.536163,
+                        40.145832
+                    ],
+                    [
+                        -74.535667,
+                        40.146
+                    ],
+                    [
+                        -74.5355,
+                        40.146
+                    ],
+                    [
+                        -74.535835,
+                        40.145664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

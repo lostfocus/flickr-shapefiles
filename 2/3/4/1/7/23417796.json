@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417796,
+    "properties": {
+        "woe_id": 23417796,
+        "place_id": "BcTyphCbApi1hsWA3Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Duane Lake, Duanesburg, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536887,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/23417796_20101216_aa284d3873.tar.gz"
+        },
+        "bbox": [
+            -74.128700256348,
+            42.740467071533,
+            -74.123336791992,
+            42.743732452393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.124237,
+                        42.743732
+                    ],
+                    [
+                        -74.123337,
+                        42.742756
+                    ],
+                    [
+                        -74.124992,
+                        42.740902
+                    ],
+                    [
+                        -74.126129,
+                        42.740467
+                    ],
+                    [
+                        -74.1287,
+                        42.741844
+                    ],
+                    [
+                        -74.124237,
+                        42.743732
+                    ]
+                ]
+            ]
+        ]
+    }
+}

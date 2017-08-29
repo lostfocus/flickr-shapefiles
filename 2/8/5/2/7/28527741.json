@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28527741,
+    "properties": {
+        "woe_id": 28527741,
+        "place_id": "oNOD.tSbCZk.xLNFbQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tachibana 3 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489525,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/28527741_20101216_990ae7cf99.tar.gz"
+        },
+        "bbox": [
+            139.83299255371,
+            35.703048706055,
+            139.83735656738,
+            35.704833984375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.83316,
+                        35.703049
+                    ],
+                    [
+                        139.832993,
+                        35.704834
+                    ],
+                    [
+                        139.834106,
+                        35.704052
+                    ],
+                    [
+                        139.837357,
+                        35.704304
+                    ],
+                    [
+                        139.834549,
+                        35.703381
+                    ],
+                    [
+                        139.83316,
+                        35.703049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2417306,
+    "properties": {
+        "woe_id": 2417306,
+        "place_id": "Muq3N9mbBZ1oFYMx",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harbor Beach, Mattapoisett, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525896,
+        "alpha": 1.25e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2417306_20101216_ef2b7c834a.tar.gz"
+        },
+        "bbox": [
+            -70.765129089355,
+            41.666595458984,
+            -70.758880615234,
+            41.673141479492
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.759605,
+                        41.669834
+                    ],
+                    [
+                        -70.758881,
+                        41.669144
+                    ],
+                    [
+                        -70.762527,
+                        41.666595
+                    ],
+                    [
+                        -70.762787,
+                        41.667671
+                    ],
+                    [
+                        -70.765129,
+                        41.673141
+                    ],
+                    [
+                        -70.759605,
+                        41.669834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

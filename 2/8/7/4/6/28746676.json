@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28746676,
+    "properties": {
+        "woe_id": 28746676,
+        "place_id": "bxcsLQObCZsNaEWMWA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Browns Bridge, Potsdam, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514608,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/28746676_20101216_28fd605b78.tar.gz"
+        },
+        "bbox": [
+            -74.959106445312,
+            44.585941314697,
+            -74.957321166992,
+            44.586570739746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.958382,
+                        44.586372
+                    ],
+                    [
+                        -74.958176,
+                        44.586292
+                    ],
+                    [
+                        -74.957321,
+                        44.585941
+                    ],
+                    [
+                        -74.958099,
+                        44.586205
+                    ],
+                    [
+                        -74.959106,
+                        44.586571
+                    ],
+                    [
+                        -74.958733,
+                        44.586548
+                    ],
+                    [
+                        -74.958382,
+                        44.586372
+                    ]
+                ]
+            ]
+        ]
+    }
+}

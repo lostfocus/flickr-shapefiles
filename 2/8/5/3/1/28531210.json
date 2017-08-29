@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531210,
+    "properties": {
+        "woe_id": 28531210,
+        "place_id": "7wqzb4GbCZkDDO.peA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashikoigakubo 5 Chome, Kokubunji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391722,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/28531210_20101215_9a95e74585.tar.gz"
+        },
+        "bbox": [
+            139.4640045166,
+            35.709232330322,
+            139.46829223633,
+            35.711177825928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.468292,
+                        35.711178
+                    ],
+                    [
+                        139.467789,
+                        35.709232
+                    ],
+                    [
+                        139.467484,
+                        35.709362
+                    ],
+                    [
+                        139.464005,
+                        35.710262
+                    ],
+                    [
+                        139.464447,
+                        35.710842
+                    ],
+                    [
+                        139.468292,
+                        35.711178
+                    ]
+                ]
+            ]
+        ]
+    }
+}

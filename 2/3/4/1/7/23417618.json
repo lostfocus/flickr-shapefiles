@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417618,
+    "properties": {
+        "woe_id": 23417618,
+        "place_id": "Ykempo2bApiHlygDBw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Monroe, Monroe, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527740,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/23417618_20101216_73a6112f7b.tar.gz"
+        },
+        "bbox": [
+            -83.462760925293,
+            41.930130004883,
+            -83.460380554199,
+            41.935039520264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.461372,
+                        41.93013
+                    ],
+                    [
+                        -83.462761,
+                        41.931351
+                    ],
+                    [
+                        -83.462532,
+                        41.931847
+                    ],
+                    [
+                        -83.461243,
+                        41.934811
+                    ],
+                    [
+                        -83.460381,
+                        41.93504
+                    ],
+                    [
+                        -83.461372,
+                        41.93013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

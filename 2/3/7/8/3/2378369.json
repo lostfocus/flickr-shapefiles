@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2378369,
+    "properties": {
+        "woe_id": 2378369,
+        "place_id": "3UV5u4GbAptntLyw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Charleston East, Cherry Hill, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522068,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2378369_20101216_994d0e1664.tar.gz"
+        },
+        "bbox": [
+            -74.984832763672,
+            39.900043487549,
+            -74.980964660645,
+            39.902332305908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.980965,
+                        39.900066
+                    ],
+                    [
+                        -74.981155,
+                        39.900043
+                    ],
+                    [
+                        -74.984833,
+                        39.902332
+                    ],
+                    [
+                        -74.981026,
+                        39.900093
+                    ],
+                    [
+                        -74.980965,
+                        39.900066
+                    ]
+                ]
+            ]
+        ]
+    }
+}

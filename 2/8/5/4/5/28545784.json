@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28545784,
+    "properties": {
+        "woe_id": 28545784,
+        "place_id": "67k2GbabCZl9b8Dr5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aoi 1 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521460,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28545784_20101216_b9602a02cc.tar.gz"
+        },
+        "bbox": [
+            136.91937255859,
+            35.171165466309,
+            136.92283630371,
+            35.174617767334
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.921753,
+                        35.174301
+                    ],
+                    [
+                        136.922623,
+                        35.174618
+                    ],
+                    [
+                        136.922836,
+                        35.171165
+                    ],
+                    [
+                        136.919373,
+                        35.172493
+                    ],
+                    [
+                        136.91951,
+                        35.173386
+                    ],
+                    [
+                        136.921753,
+                        35.174301
+                    ]
+                ]
+            ]
+        ]
+    }
+}

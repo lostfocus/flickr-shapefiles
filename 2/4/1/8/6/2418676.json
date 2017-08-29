@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418676,
+    "properties": {
+        "woe_id": 2418676,
+        "place_id": "b2Cfre2bBZ22Et31",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hattertown, Newtown, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248231853,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2516\/shapefiles\/2418676_20090722_f8524545d2.tar.gz"
+        },
+        "bbox": [
+            -73.317390441895,
+            41.336238861084,
+            -73.295997619629,
+            41.343181610107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.300262,
+                        41.343182
+                    ],
+                    [
+                        -73.295998,
+                        41.339668
+                    ],
+                    [
+                        -73.305412,
+                        41.339314
+                    ],
+                    [
+                        -73.31739,
+                        41.336239
+                    ],
+                    [
+                        -73.310997,
+                        41.341633
+                    ],
+                    [
+                        -73.300262,
+                        41.343182
+                    ]
+                ]
+            ]
+        ]
+    }
+}

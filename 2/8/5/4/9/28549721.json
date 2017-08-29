@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28549721,
+    "properties": {
+        "woe_id": 28549721,
+        "place_id": "5YHyTzibCZlZGkjatw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakahira 4 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452690,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28549721_20101215_cec47f0a27.tar.gz"
+        },
+        "bbox": [
+            137.00166320801,
+            35.112499237061,
+            137.00305175781,
+            35.113334655762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.001938,
+                        35.112499
+                    ],
+                    [
+                        137.001663,
+                        35.113335
+                    ],
+                    [
+                        137.002228,
+                        35.113335
+                    ],
+                    [
+                        137.003052,
+                        35.112499
+                    ],
+                    [
+                        137.002777,
+                        35.112499
+                    ],
+                    [
+                        137.001938,
+                        35.112499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

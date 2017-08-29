@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533912,
+    "properties": {
+        "woe_id": 28533912,
+        "place_id": "qlKCckibCZmOlbS5kg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Megumigaoka 1 Chome, Hiratsuka-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542703,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/28533912_20101216_c4ffac33b6.tar.gz"
+        },
+        "bbox": [
+            139.31065368652,
+            35.356948852539,
+            139.31074523926,
+            35.357044219971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.310684,
+                        35.357025
+                    ],
+                    [
+                        139.310699,
+                        35.357044
+                    ],
+                    [
+                        139.310745,
+                        35.357002
+                    ],
+                    [
+                        139.310715,
+                        35.356949
+                    ],
+                    [
+                        139.310654,
+                        35.356956
+                    ],
+                    [
+                        139.310684,
+                        35.357025
+                    ]
+                ]
+            ]
+        ]
+    }
+}

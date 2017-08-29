@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22723813,
+    "properties": {
+        "woe_id": 22723813,
+        "place_id": "kzmcspybA5tedpT_zg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Encinos, San Jose, San Jose, CR, Costa Rica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534060,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/22723813_20101216_4bcf223d2a.tar.gz"
+        },
+        "bbox": [
+            -84.105171203613,
+            9.9451036453247,
+            -84.104919433594,
+            9.9466590881348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.105164,
+                        9.945333
+                    ],
+                    [
+                        -84.105171,
+                        9.94584
+                    ],
+                    [
+                        -84.104973,
+                        9.946659
+                    ],
+                    [
+                        -84.104919,
+                        9.945164
+                    ],
+                    [
+                        -84.10511,
+                        9.945104
+                    ],
+                    [
+                        -84.105164,
+                        9.945333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

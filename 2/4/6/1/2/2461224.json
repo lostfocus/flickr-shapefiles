@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461224,
+    "properties": {
+        "woe_id": 2461224,
+        "place_id": "MAYhjbGbBZr.1ei1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Kingston, Columbus, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478003,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2461224_20101216_098d35f3d7.tar.gz"
+        },
+        "bbox": [
+            -84.962593078613,
+            32.521751403809,
+            -84.957847595215,
+            32.526767730713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.958717,
+                        32.523533
+                    ],
+                    [
+                        -84.957848,
+                        32.521751
+                    ],
+                    [
+                        -84.958351,
+                        32.521961
+                    ],
+                    [
+                        -84.960869,
+                        32.522011
+                    ],
+                    [
+                        -84.962593,
+                        32.526768
+                    ],
+                    [
+                        -84.958717,
+                        32.523533
+                    ]
+                ]
+            ]
+        ]
+    }
+}

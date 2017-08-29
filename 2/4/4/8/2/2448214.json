@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2448214,
+    "properties": {
+        "woe_id": 2448214,
+        "place_id": "1GaCLoubBZiwBTP4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mcknightstown Station, Orrtanna, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292375882,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2448214_20101215_67499b91ea.tar.gz"
+        },
+        "bbox": [
+            -77.313285827637,
+            39.838199615479,
+            -77.311798095703,
+            39.840084075928
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.313217,
+                        39.8382
+                    ],
+                    [
+                        -77.313286,
+                        39.838432
+                    ],
+                    [
+                        -77.312302,
+                        39.839966
+                    ],
+                    [
+                        -77.312164,
+                        39.84
+                    ],
+                    [
+                        -77.311798,
+                        39.840084
+                    ],
+                    [
+                        -77.313217,
+                        39.8382
+                    ]
+                ]
+            ]
+        ]
+    }
+}

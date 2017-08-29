@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531605,
+    "properties": {
+        "woe_id": 28531605,
+        "place_id": "Qd.CxW.bCZmZZiL5jQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sekido 5 Chome, Tama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446142,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28531605_20101215_4c02f78f32.tar.gz"
+        },
+        "bbox": [
+            139.45001220703,
+            35.642459869385,
+            139.45350646973,
+            35.645164489746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.45134,
+                        35.64246
+                    ],
+                    [
+                        139.450012,
+                        35.643166
+                    ],
+                    [
+                        139.452271,
+                        35.644276
+                    ],
+                    [
+                        139.453506,
+                        35.645164
+                    ],
+                    [
+                        139.452728,
+                        35.644493
+                    ],
+                    [
+                        139.45134,
+                        35.64246
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531111,
+    "properties": {
+        "woe_id": 28531111,
+        "place_id": "QNb6bhqbCZnh_yv.EQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Manganji 4 Chome, Hino-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452677,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/28531111_20101215_369a2825cd.tar.gz"
+        },
+        "bbox": [
+            139.41122436523,
+            35.669696807861,
+            139.41481018066,
+            35.671474456787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.41481,
+                        35.671474
+                    ],
+                    [
+                        139.414581,
+                        35.669697
+                    ],
+                    [
+                        139.411224,
+                        35.670128
+                    ],
+                    [
+                        139.411224,
+                        35.670177
+                    ],
+                    [
+                        139.414413,
+                        35.671291
+                    ],
+                    [
+                        139.41481,
+                        35.671474
+                    ]
+                ]
+            ]
+        ]
+    }
+}

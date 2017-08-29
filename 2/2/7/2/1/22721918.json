@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721918,
+    "properties": {
+        "woe_id": 22721918,
+        "place_id": "A5I.qYmbA5u8oQkgyg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dandenong North, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521131,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/22721918_20101216_6d17bf0cb5.tar.gz"
+        },
+        "bbox": [
+            145.22637939453,
+            -37.96745300293,
+            145.2279510498,
+            -37.963687896729
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.227051,
+                        -37.967453
+                    ],
+                    [
+                        145.2267,
+                        -37.966415
+                    ],
+                    [
+                        145.226379,
+                        -37.964703
+                    ],
+                    [
+                        145.226547,
+                        -37.963688
+                    ],
+                    [
+                        145.227951,
+                        -37.965881
+                    ],
+                    [
+                        145.227051,
+                        -37.967453
+                    ]
+                ]
+            ]
+        ]
+    }
+}

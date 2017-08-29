@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2448730,
+    "properties": {
+        "woe_id": 2448730,
+        "place_id": "xYIDdIWbBZjeZXII",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meadows, Macon, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247815562,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3532\/shapefiles\/2448730_20090717_06f26efdd4.tar.gz"
+        },
+        "bbox": [
+            -83.712127685547,
+            32.754112243652,
+            -83.70728302002,
+            32.760356903076
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.711357,
+                        32.759418
+                    ],
+                    [
+                        -83.707283,
+                        32.760357
+                    ],
+                    [
+                        -83.708054,
+                        32.759201
+                    ],
+                    [
+                        -83.708908,
+                        32.758156
+                    ],
+                    [
+                        -83.712128,
+                        32.754112
+                    ],
+                    [
+                        -83.711357,
+                        32.759418
+                    ]
+                ]
+            ]
+        ]
+    }
+}

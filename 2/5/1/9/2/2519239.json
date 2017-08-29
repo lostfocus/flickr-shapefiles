@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519239,
+    "properties": {
+        "woe_id": 2519239,
+        "place_id": "kjY9GJqbBJ36nv3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "White City Subdivision Number 1, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542634,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2519239_20101216_db37e14c42.tar.gz"
+        },
+        "bbox": [
+            -111.86987304688,
+            40.568592071533,
+            -111.86500549316,
+            40.57194519043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.869835,
+                        40.569164
+                    ],
+                    [
+                        -111.869873,
+                        40.570381
+                    ],
+                    [
+                        -111.869164,
+                        40.571945
+                    ],
+                    [
+                        -111.865005,
+                        40.57143
+                    ],
+                    [
+                        -111.866364,
+                        40.568592
+                    ],
+                    [
+                        -111.869835,
+                        40.569164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

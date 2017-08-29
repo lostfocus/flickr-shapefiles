@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2378682,
+    "properties": {
+        "woe_id": 2378682,
+        "place_id": "Sc5m2uabAptivaJC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chatsworth Acres, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493364,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2378682_20101216_bd6b383604.tar.gz"
+        },
+        "bbox": [
+            -91.123458862305,
+            30.366876602173,
+            -91.117950439453,
+            30.370977401733
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.122925,
+                        30.368986
+                    ],
+                    [
+                        -91.123459,
+                        30.370228
+                    ],
+                    [
+                        -91.119537,
+                        30.370977
+                    ],
+                    [
+                        -91.118874,
+                        30.370226
+                    ],
+                    [
+                        -91.11795,
+                        30.366877
+                    ],
+                    [
+                        -91.122925,
+                        30.368986
+                    ]
+                ]
+            ]
+        ]
+    }
+}

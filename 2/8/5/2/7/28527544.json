@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28527544,
+    "properties": {
+        "woe_id": 28527544,
+        "place_id": "91sdiU6bCZnx6pc61w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kohinata 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452588,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/28527544_20101215_c35ef89702.tar.gz"
+        },
+        "bbox": [
+            139.73672485352,
+            35.712287902832,
+            139.74008178711,
+            35.713333129883
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.736877,
+                        35.712288
+                    ],
+                    [
+                        139.736725,
+                        35.712627
+                    ],
+                    [
+                        139.738327,
+                        35.713333
+                    ],
+                    [
+                        139.740021,
+                        35.71331
+                    ],
+                    [
+                        139.740082,
+                        35.713146
+                    ],
+                    [
+                        139.736877,
+                        35.712288
+                    ]
+                ]
+            ]
+        ]
+    }
+}

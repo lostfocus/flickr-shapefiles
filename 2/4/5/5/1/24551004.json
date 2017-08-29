@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551004,
+    "properties": {
+        "woe_id": 24551004,
+        "place_id": "9Bv2lBObBZn6tPikag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jardines Pueblo Viejo, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549224,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/24551004_20101217_c84605ef3e.tar.gz"
+        },
+        "bbox": [
+            -66.109985351562,
+            18.398668289185,
+            -66.10733795166,
+            18.400392532349
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.107338,
+                        18.399733
+                    ],
+                    [
+                        -66.107399,
+                        18.398876
+                    ],
+                    [
+                        -66.108284,
+                        18.398668
+                    ],
+                    [
+                        -66.109985,
+                        18.399059
+                    ],
+                    [
+                        -66.10865,
+                        18.400393
+                    ],
+                    [
+                        -66.107338,
+                        18.399733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

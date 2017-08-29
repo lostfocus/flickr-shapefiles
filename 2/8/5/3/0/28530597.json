@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530597,
+    "properties": {
+        "woe_id": 28530597,
+        "place_id": "SVIQco6bCZmcM3wbfw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honmachi 2 Chome, Fuchu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442146,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/28530597_20101215_5941d196f2.tar.gz"
+        },
+        "bbox": [
+            139.4736328125,
+            35.664535522461,
+            139.47682189941,
+            35.667469024658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.473633,
+                        35.667469
+                    ],
+                    [
+                        139.474091,
+                        35.667175
+                    ],
+                    [
+                        139.476822,
+                        35.665638
+                    ],
+                    [
+                        139.474991,
+                        35.664536
+                    ],
+                    [
+                        139.473953,
+                        35.666916
+                    ],
+                    [
+                        139.473633,
+                        35.667469
+                    ]
+                ]
+            ]
+        ]
+    }
+}

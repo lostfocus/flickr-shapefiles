@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2492605,
+    "properties": {
+        "woe_id": 2492605,
+        "place_id": "f2gZFmCbBZVzOnoA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Forest, Starkville, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520052,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2492605_20101216_cb2e9ea1aa.tar.gz"
+        },
+        "bbox": [
+            -88.792556762695,
+            33.442687988281,
+            -88.790031433105,
+            33.445247650146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.790047,
+                        33.445236
+                    ],
+                    [
+                        -88.790031,
+                        33.445171
+                    ],
+                    [
+                        -88.792557,
+                        33.442688
+                    ],
+                    [
+                        -88.790115,
+                        33.445248
+                    ],
+                    [
+                        -88.790047,
+                        33.445236
+                    ]
+                ]
+            ]
+        ]
+    }
+}

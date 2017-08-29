@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2516428,
+    "properties": {
+        "woe_id": 2516428,
+        "place_id": "a0k7eHybBJ0eOkm5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wendell Way, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512516,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2516428_20101216_a0e5595b99.tar.gz"
+        },
+        "bbox": [
+            -111.87921905518,
+            40.687252044678,
+            -111.87385559082,
+            40.69119644165
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.876266,
+                        40.687733
+                    ],
+                    [
+                        -111.877075,
+                        40.687252
+                    ],
+                    [
+                        -111.879219,
+                        40.689686
+                    ],
+                    [
+                        -111.876991,
+                        40.691196
+                    ],
+                    [
+                        -111.873856,
+                        40.68985
+                    ],
+                    [
+                        -111.876266,
+                        40.687733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

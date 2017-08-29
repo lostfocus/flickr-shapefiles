@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532540,
+    "properties": {
+        "woe_id": 28532540,
+        "place_id": "wPAHTJObCZn9nNXdJQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiasahina 2 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452623,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/28532540_20101215_8dca8f8a19.tar.gz"
+        },
+        "bbox": [
+            139.58628845215,
+            35.321918487549,
+            139.59115600586,
+            35.327571868896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.589035,
+                        35.327572
+                    ],
+                    [
+                        139.591156,
+                        35.327145
+                    ],
+                    [
+                        139.589874,
+                        35.321918
+                    ],
+                    [
+                        139.586288,
+                        35.324825
+                    ],
+                    [
+                        139.586426,
+                        35.324886
+                    ],
+                    [
+                        139.589035,
+                        35.327572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

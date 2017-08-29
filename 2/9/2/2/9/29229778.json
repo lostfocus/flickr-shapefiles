@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 29229778,
+    "properties": {
+        "woe_id": 29229778,
+        "place_id": "sZ6TRaebCJ7661XG0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fishkorn, Detroit, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523723,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/29229778_20101216_0536883f14.tar.gz"
+        },
+        "bbox": [
+            -83.199974060059,
+            42.351894378662,
+            -83.195007324219,
+            42.362461090088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.199974,
+                        42.357021
+                    ],
+                    [
+                        -83.199524,
+                        42.358543
+                    ],
+                    [
+                        -83.196823,
+                        42.362461
+                    ],
+                    [
+                        -83.195007,
+                        42.35817
+                    ],
+                    [
+                        -83.196884,
+                        42.357529
+                    ],
+                    [
+                        -83.196587,
+                        42.351894
+                    ],
+                    [
+                        -83.199974,
+                        42.357021
+                    ]
+                ]
+            ]
+        ]
+    }
+}

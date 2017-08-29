@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529173,
+    "properties": {
+        "woe_id": 28529173,
+        "place_id": "k7esAB.bCZnze90p5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Machiya 7 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446142,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28529173_20101215_7ce2c3e632.tar.gz"
+        },
+        "bbox": [
+            139.78750610352,
+            35.749542236328,
+            139.78846740723,
+            35.752716064453
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.787506,
+                        35.752655
+                    ],
+                    [
+                        139.788071,
+                        35.752716
+                    ],
+                    [
+                        139.788467,
+                        35.749542
+                    ],
+                    [
+                        139.787537,
+                        35.751392
+                    ],
+                    [
+                        139.787552,
+                        35.751575
+                    ],
+                    [
+                        139.787506,
+                        35.752655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

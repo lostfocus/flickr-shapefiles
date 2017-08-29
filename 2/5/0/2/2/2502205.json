@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502205,
+    "properties": {
+        "woe_id": 2502205,
+        "place_id": "JGTeFT2bBJyJpkr0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunnyside, Dudley, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517523,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2502205_20101216_54261f6107.tar.gz"
+        },
+        "bbox": [
+            -71.883712768555,
+            42.049514770508,
+            -71.880912780762,
+            42.054264068604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.881828,
+                        42.049515
+                    ],
+                    [
+                        -71.883713,
+                        42.051331
+                    ],
+                    [
+                        -71.881653,
+                        42.054264
+                    ],
+                    [
+                        -71.880913,
+                        42.049763
+                    ],
+                    [
+                        -71.881828,
+                        42.049515
+                    ]
+                ]
+            ]
+        ]
+    }
+}

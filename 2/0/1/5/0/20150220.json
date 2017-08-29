@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20150220,
+    "properties": {
+        "woe_id": 20150220,
+        "place_id": "QQlOJ8SbAZ09y.GFkQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Navile, Bologna, ER, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531790,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/20150220_20101216_c8f89d6c73.tar.gz"
+        },
+        "bbox": [
+            11.335357666016,
+            44.523376464844,
+            11.338844299316,
+            44.527797698975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.338534,
+                        44.527767
+                    ],
+                    [
+                        11.338844,
+                        44.527542
+                    ],
+                    [
+                        11.338577,
+                        44.525639
+                    ],
+                    [
+                        11.335358,
+                        44.523376
+                    ],
+                    [
+                        11.338276,
+                        44.527458
+                    ],
+                    [
+                        11.338491,
+                        44.527798
+                    ],
+                    [
+                        11.338534,
+                        44.527767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

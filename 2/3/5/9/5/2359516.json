@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2359516,
+    "properties": {
+        "woe_id": 2359516,
+        "place_id": "AkBRSUWbAplajBOX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barren Hill, Lafayette Hill, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525475,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2359516_20101216_a5103ce453.tar.gz"
+        },
+        "bbox": [
+            -75.251640319824,
+            40.082538604736,
+            -75.246475219727,
+            40.085994720459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.250336,
+                        40.084221
+                    ],
+                    [
+                        -75.25164,
+                        40.085995
+                    ],
+                    [
+                        -75.249809,
+                        40.084965
+                    ],
+                    [
+                        -75.246475,
+                        40.082539
+                    ],
+                    [
+                        -75.250298,
+                        40.08419
+                    ],
+                    [
+                        -75.250336,
+                        40.084221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

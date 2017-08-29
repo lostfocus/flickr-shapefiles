@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2478589,
+    "properties": {
+        "woe_id": 2478589,
+        "place_id": "wUiCkaSbBZshau9H",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Randelville, Goshen, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550556,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2478589_20101217_f611c0847e.tar.gz"
+        },
+        "bbox": [
+            -74.328819274902,
+            41.336452484131,
+            -74.323211669922,
+            41.337890625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.323212,
+                        41.336452
+                    ],
+                    [
+                        -74.323692,
+                        41.336674
+                    ],
+                    [
+                        -74.328819,
+                        41.336735
+                    ],
+                    [
+                        -74.324272,
+                        41.337891
+                    ],
+                    [
+                        -74.323479,
+                        41.336861
+                    ],
+                    [
+                        -74.323212,
+                        41.336452
+                    ]
+                ]
+            ]
+        ]
+    }
+}

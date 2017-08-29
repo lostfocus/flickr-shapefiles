@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2353435,
+    "properties": {
+        "woe_id": 2353435,
+        "place_id": "5VROczWbApmQ7DJP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allerton, Hull, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292487844,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2353435_20101216_fe40301917.tar.gz"
+        },
+        "bbox": [
+            -70.887771606445,
+            42.303642272949,
+            -70.882499694824,
+            42.310260772705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.88282,
+                        42.305904
+                    ],
+                    [
+                        -70.883018,
+                        42.305275
+                    ],
+                    [
+                        -70.884552,
+                        42.303642
+                    ],
+                    [
+                        -70.887772,
+                        42.303791
+                    ],
+                    [
+                        -70.885078,
+                        42.304482
+                    ],
+                    [
+                        -70.886108,
+                        42.310261
+                    ],
+                    [
+                        -70.8825,
+                        42.307266
+                    ],
+                    [
+                        -70.88282,
+                        42.305904
+                    ]
+                ]
+            ]
+        ]
+    }
+}

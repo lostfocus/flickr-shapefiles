@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2516257,
+    "properties": {
+        "woe_id": 2516257,
+        "place_id": "P9KONjGbBJ2sXnic",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wellington Addition, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544309,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2516257_20101217_3e63586c1a.tar.gz"
+        },
+        "bbox": [
+            -111.88421630859,
+            40.731731414795,
+            -111.87995147705,
+            40.738121032715
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.881851,
+                        40.738121
+                    ],
+                    [
+                        -111.881775,
+                        40.73737
+                    ],
+                    [
+                        -111.879951,
+                        40.733471
+                    ],
+                    [
+                        -111.881866,
+                        40.731731
+                    ],
+                    [
+                        -111.884216,
+                        40.736149
+                    ],
+                    [
+                        -111.881851,
+                        40.738121
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2520922,
+    "properties": {
+        "woe_id": 2520922,
+        "place_id": "SWQv8i.bBJ4O6sq.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Williamstown Junction, Berlin, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456887,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2520922_20101215_e13de30cde.tar.gz"
+        },
+        "bbox": [
+            -74.930335998535,
+            39.739166259766,
+            -74.930168151855,
+            39.739498138428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.930168,
+                        39.739498
+                    ],
+                    [
+                        -74.930168,
+                        39.739166
+                    ],
+                    [
+                        -74.930336,
+                        39.739166
+                    ],
+                    [
+                        -74.930336,
+                        39.739498
+                    ],
+                    [
+                        -74.930168,
+                        39.739498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28577335,
+    "properties": {
+        "woe_id": 28577335,
+        "place_id": "dgE75ambCZlZXySzXw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kanada 1 Chome, Kitakyushu-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522598,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/28577335_20101216_3aa48b5e98.tar.gz"
+        },
+        "bbox": [
+            130.86589050293,
+            33.877666473389,
+            130.87103271484,
+            33.881404876709
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.871033,
+                        33.879749
+                    ],
+                    [
+                        130.870163,
+                        33.877666
+                    ],
+                    [
+                        130.869293,
+                        33.878475
+                    ],
+                    [
+                        130.865891,
+                        33.879253
+                    ],
+                    [
+                        130.868866,
+                        33.881405
+                    ],
+                    [
+                        130.871033,
+                        33.879749
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2467684,
+    "properties": {
+        "woe_id": 2467684,
+        "place_id": "2Z2IDkqbBZrJzujD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Palm Lake, Slidell, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247968090,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2670\/shapefiles\/2467684_20090719_2a302545bd.tar.gz"
+        },
+        "bbox": [
+            -89.791427612305,
+            30.262828826904,
+            -89.78490447998,
+            30.267889022827
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.787994,
+                        30.267889
+                    ],
+                    [
+                        -89.784904,
+                        30.264849
+                    ],
+                    [
+                        -89.785851,
+                        30.262829
+                    ],
+                    [
+                        -89.791428,
+                        30.264034
+                    ],
+                    [
+                        -89.788277,
+                        30.266647
+                    ],
+                    [
+                        -89.787994,
+                        30.267889
+                    ]
+                ]
+            ]
+        ]
+    }
+}

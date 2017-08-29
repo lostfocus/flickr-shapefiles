@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496741,
+    "properties": {
+        "woe_id": 2496741,
+        "place_id": "M2orytibBZVRs1_q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Schenectady, Schenectady, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535752,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2496741_20101216_886722eeb8.tar.gz"
+        },
+        "bbox": [
+            -73.976638793945,
+            42.781143188477,
+            -73.976127624512,
+            42.782020568848
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.976135,
+                        42.782021
+                    ],
+                    [
+                        -73.976128,
+                        42.782021
+                    ],
+                    [
+                        -73.976295,
+                        42.781143
+                    ],
+                    [
+                        -73.976334,
+                        42.781166
+                    ],
+                    [
+                        -73.976639,
+                        42.781898
+                    ],
+                    [
+                        -73.976135,
+                        42.782021
+                    ]
+                ]
+            ]
+        ]
+    }
+}

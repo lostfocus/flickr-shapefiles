@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23405281,
+    "properties": {
+        "woe_id": 23405281,
+        "place_id": "NI9BUaCbApi6RYsmuQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hart, Prince George, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541462,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/23405281_20101216_7dbf5a84c6.tar.gz"
+        },
+        "bbox": [
+            -122.77169036865,
+            53.972995758057,
+            -122.76889801025,
+            53.975063323975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.77169,
+                        53.975063
+                    ],
+                    [
+                        -122.770996,
+                        53.974541
+                    ],
+                    [
+                        -122.768898,
+                        53.972996
+                    ],
+                    [
+                        -122.770996,
+                        53.974377
+                    ],
+                    [
+                        -122.77169,
+                        53.975063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

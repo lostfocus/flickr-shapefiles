@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2376789,
+    "properties": {
+        "woe_id": 2376789,
+        "place_id": "io_JKOibApsZjowI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cedar Heights, Danbury, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248274083,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3461\/shapefiles\/2376789_20090722_443bba037f.tar.gz"
+        },
+        "bbox": [
+            -73.437553405762,
+            41.445072174072,
+            -73.429740905762,
+            41.45051574707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.434181,
+                        41.450516
+                    ],
+                    [
+                        -73.429741,
+                        41.448574
+                    ],
+                    [
+                        -73.430237,
+                        41.44817
+                    ],
+                    [
+                        -73.434975,
+                        41.445072
+                    ],
+                    [
+                        -73.437553,
+                        41.449341
+                    ],
+                    [
+                        -73.434181,
+                        41.450516
+                    ]
+                ]
+            ]
+        ]
+    }
+}

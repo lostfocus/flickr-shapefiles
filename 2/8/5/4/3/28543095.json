@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28543095,
+    "properties": {
+        "woe_id": 28543095,
+        "place_id": "mXwM8E2bCZn7eBAbLw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sakuragaoka 2 Chome, Mino-shi, Gifu Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522547,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28543095_20101216_d8a307fabe.tar.gz"
+        },
+        "bbox": [
+            136.89743041992,
+            35.508777618408,
+            136.90132141113,
+            35.51350402832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.897659,
+                        35.508781
+                    ],
+                    [
+                        136.897644,
+                        35.508778
+                    ],
+                    [
+                        136.897552,
+                        35.508854
+                    ],
+                    [
+                        136.89743,
+                        35.509163
+                    ],
+                    [
+                        136.901321,
+                        35.513504
+                    ],
+                    [
+                        136.897659,
+                        35.508781
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2460190,
+    "properties": {
+        "woe_id": 2460190,
+        "place_id": "SY6uP3.bBZoMcjJW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nobleboro, Cold Brook, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535962,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2460190_20101216_7bac4a0d8a.tar.gz"
+        },
+        "bbox": [
+            -74.86060333252,
+            43.395244598389,
+            -74.860046386719,
+            43.396564483643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.860153,
+                        43.395809
+                    ],
+                    [
+                        -74.860046,
+                        43.39539
+                    ],
+                    [
+                        -74.860603,
+                        43.395245
+                    ],
+                    [
+                        -74.860596,
+                        43.395706
+                    ],
+                    [
+                        -74.860413,
+                        43.396564
+                    ],
+                    [
+                        -74.860153,
+                        43.395809
+                    ]
+                ]
+            ]
+        ]
+    }
+}

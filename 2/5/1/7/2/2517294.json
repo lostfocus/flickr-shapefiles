@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2517294,
+    "properties": {
+        "woe_id": 2517294,
+        "place_id": "9wBEnNybBJ1wmSag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Lancaster, Jeffersonville, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247902202,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2501\/shapefiles\/2517294_20090718_1cb930b964.tar.gz"
+        },
+        "bbox": [
+            -83.612968444824,
+            39.618515014648,
+            -83.603584289551,
+            39.622989654541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.611732,
+                        39.620647
+                    ],
+                    [
+                        -83.612968,
+                        39.621071
+                    ],
+                    [
+                        -83.609093,
+                        39.62299
+                    ],
+                    [
+                        -83.603584,
+                        39.620541
+                    ],
+                    [
+                        -83.604195,
+                        39.618515
+                    ],
+                    [
+                        -83.611732,
+                        39.620647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

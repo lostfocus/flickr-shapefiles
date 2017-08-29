@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2441015,
+    "properties": {
+        "woe_id": 2441015,
+        "place_id": "duOfKLKbBZgDuQ2a",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lodgeville, Bridgeport, WV, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247815566,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2666\/shapefiles\/2441015_20090717_9249c7f15a.tar.gz"
+        },
+        "bbox": [
+            -80.285682678223,
+            39.278511047363,
+            -80.273361206055,
+            39.312637329102
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.279831,
+                        39.299667
+                    ],
+                    [
+                        -80.273361,
+                        39.312637
+                    ],
+                    [
+                        -80.277786,
+                        39.299767
+                    ],
+                    [
+                        -80.279167,
+                        39.299168
+                    ],
+                    [
+                        -80.285683,
+                        39.278511
+                    ],
+                    [
+                        -80.279831,
+                        39.299667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

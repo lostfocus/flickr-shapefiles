@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28755011,
+    "properties": {
+        "woe_id": 28755011,
+        "place_id": "qgjznXebCZsCeuJ79w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\u7406\u60f3\u91cc, Tainan City, Taiwan, TW, Taiwan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481488,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28755011_20101216_19766bf5f9.tar.gz"
+        },
+        "bbox": [
+            120.18883514404,
+            23.034629821777,
+            120.19132232666,
+            23.038917541504
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        120.190254,
+                        23.03511
+                    ],
+                    [
+                        120.190071,
+                        23.034899
+                    ],
+                    [
+                        120.189301,
+                        23.03463
+                    ],
+                    [
+                        120.188835,
+                        23.036043
+                    ],
+                    [
+                        120.191322,
+                        23.038918
+                    ],
+                    [
+                        120.190254,
+                        23.03511
+                    ]
+                ]
+            ]
+        ]
+    }
+}

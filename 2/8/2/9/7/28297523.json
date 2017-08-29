@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297523,
+    "properties": {
+        "woe_id": 28297523,
+        "place_id": "S3_03ZibCZ5WWj_aYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Garfield Park, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442081,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28297523_20101215_b6201320ca.tar.gz"
+        },
+        "bbox": [
+            -87.735374450684,
+            41.873188018799,
+            -87.733032226562,
+            41.874229431152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.73494,
+                        41.874229
+                    ],
+                    [
+                        -87.734894,
+                        41.874229
+                    ],
+                    [
+                        -87.733032,
+                        41.873188
+                    ],
+                    [
+                        -87.735123,
+                        41.873489
+                    ],
+                    [
+                        -87.735374,
+                        41.87394
+                    ],
+                    [
+                        -87.73494,
+                        41.874229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

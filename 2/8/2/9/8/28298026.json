@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28298026,
+    "properties": {
+        "woe_id": 28298026,
+        "place_id": "wlrU2jabCZ4oNaUqOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westwood, Portsmouth, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524336,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/28298026_20101216_bef656425d.tar.gz"
+        },
+        "bbox": [
+            -76.380126953125,
+            36.852012634277,
+            -76.37703704834,
+            36.855056762695
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.379654,
+                        36.855057
+                    ],
+                    [
+                        -76.377037,
+                        36.853321
+                    ],
+                    [
+                        -76.378807,
+                        36.852032
+                    ],
+                    [
+                        -76.37928,
+                        36.852013
+                    ],
+                    [
+                        -76.380127,
+                        36.855057
+                    ],
+                    [
+                        -76.379654,
+                        36.855057
+                    ]
+                ]
+            ]
+        ]
+    }
+}

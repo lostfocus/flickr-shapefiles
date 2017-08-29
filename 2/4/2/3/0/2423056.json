@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2423056,
+    "properties": {
+        "woe_id": 2423056,
+        "place_id": "RPsa8GebBZ4GXYIv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holladay Heights, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546284,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2423056_20101217_ddb7dbcc7d.tar.gz"
+        },
+        "bbox": [
+            -111.82590484619,
+            40.686218261719,
+            -111.82434082031,
+            40.688991546631
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.825798,
+                        40.686432
+                    ],
+                    [
+                        -111.825714,
+                        40.688992
+                    ],
+                    [
+                        -111.824341,
+                        40.687008
+                    ],
+                    [
+                        -111.82489,
+                        40.686386
+                    ],
+                    [
+                        -111.825905,
+                        40.686218
+                    ],
+                    [
+                        -111.825798,
+                        40.686432
+                    ]
+                ]
+            ]
+        ]
+    }
+}

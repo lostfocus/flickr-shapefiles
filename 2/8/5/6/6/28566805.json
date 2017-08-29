@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28566805,
+    "properties": {
+        "woe_id": 28566805,
+        "place_id": "Mo0_F9ybCZn30Z1how",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimoyamatedori 7 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534222,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28566805_20101216_a68f372b1d.tar.gz"
+        },
+        "bbox": [
+            135.17655944824,
+            34.687538146973,
+            135.17846679688,
+            34.688999176025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.178329,
+                        34.688999
+                    ],
+                    [
+                        135.178467,
+                        34.688969
+                    ],
+                    [
+                        135.17836,
+                        34.687637
+                    ],
+                    [
+                        135.176559,
+                        34.687538
+                    ],
+                    [
+                        135.178162,
+                        34.688999
+                    ],
+                    [
+                        135.178329,
+                        34.688999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20150889,
+    "properties": {
+        "woe_id": 20150889,
+        "place_id": "vQvsf0CbAZ0q1YS6lA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Broangen, Tumba, Stockholm, SE, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525623,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/20150889_20101216_833aef3969.tar.gz"
+        },
+        "bbox": [
+            17.818901062012,
+            59.18335723877,
+            17.825746536255,
+            59.18921661377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.825747,
+                        59.185558
+                    ],
+                    [
+                        17.823965,
+                        59.184483
+                    ],
+                    [
+                        17.819511,
+                        59.183357
+                    ],
+                    [
+                        17.818901,
+                        59.183758
+                    ],
+                    [
+                        17.821325,
+                        59.189217
+                    ],
+                    [
+                        17.823107,
+                        59.186272
+                    ],
+                    [
+                        17.825747,
+                        59.185558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

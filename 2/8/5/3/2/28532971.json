@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532971,
+    "properties": {
+        "woe_id": 28532971,
+        "place_id": "kyo93WKbCZmQkiwlNg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Azaminominami 1 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514430,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28532971_20101216_80d41cbfe6.tar.gz"
+        },
+        "bbox": [
+            139.55342102051,
+            35.560161590576,
+            139.55532836914,
+            35.561210632324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.553513,
+                        35.561028
+                    ],
+                    [
+                        139.553589,
+                        35.561211
+                    ],
+                    [
+                        139.555328,
+                        35.560806
+                    ],
+                    [
+                        139.554123,
+                        35.560162
+                    ],
+                    [
+                        139.553421,
+                        35.560833
+                    ],
+                    [
+                        139.553513,
+                        35.561028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

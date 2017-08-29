@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2512628,
+    "properties": {
+        "woe_id": 2512628,
+        "place_id": "OjZqBjObBJ0bqRS3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Virginia Acres, Aiken, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292501405,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2512628_20101216_bbc6003f06.tar.gz"
+        },
+        "bbox": [
+            -81.719009399414,
+            33.519500732422,
+            -81.716110229492,
+            33.527942657471
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.71611,
+                        33.524166
+                    ],
+                    [
+                        -81.717239,
+                        33.522408
+                    ],
+                    [
+                        -81.716499,
+                        33.519501
+                    ],
+                    [
+                        -81.717384,
+                        33.521683
+                    ],
+                    [
+                        -81.719009,
+                        33.523685
+                    ],
+                    [
+                        -81.718025,
+                        33.527943
+                    ],
+                    [
+                        -81.71611,
+                        33.524166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

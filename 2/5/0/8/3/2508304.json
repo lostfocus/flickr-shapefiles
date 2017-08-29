@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2508304,
+    "properties": {
+        "woe_id": 2508304,
+        "place_id": "OKIiIWGbBJwKJ.kq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Trunkeyville, Tidioute, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247888048,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2674\/shapefiles\/2508304_20090718_9e942f790f.tar.gz"
+        },
+        "bbox": [
+            -79.400932312012,
+            41.616077423096,
+            -79.39616394043,
+            41.626342773438
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.396164,
+                        41.617142
+                    ],
+                    [
+                        -79.397713,
+                        41.616077
+                    ],
+                    [
+                        -79.400932,
+                        41.625999
+                    ],
+                    [
+                        -79.400841,
+                        41.626343
+                    ],
+                    [
+                        -79.400551,
+                        41.626068
+                    ],
+                    [
+                        -79.396164,
+                        41.617142
+                    ]
+                ]
+            ]
+        ]
+    }
+}

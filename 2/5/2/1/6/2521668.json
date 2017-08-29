@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521668,
+    "properties": {
+        "woe_id": 2521668,
+        "place_id": "u9N.l0GbBJ6e_fO.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winchester, Marshallville, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292487065,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2521668_20101216_747fbef4f4.tar.gz"
+        },
+        "bbox": [
+            -83.943473815918,
+            32.451461791992,
+            -83.940322875977,
+            32.456764221191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.940323,
+                        32.456467
+                    ],
+                    [
+                        -83.940399,
+                        32.456203
+                    ],
+                    [
+                        -83.943047,
+                        32.451462
+                    ],
+                    [
+                        -83.943474,
+                        32.456417
+                    ],
+                    [
+                        -83.942841,
+                        32.456764
+                    ],
+                    [
+                        -83.940323,
+                        32.456467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

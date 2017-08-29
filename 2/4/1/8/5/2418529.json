@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418529,
+    "properties": {
+        "woe_id": 2418529,
+        "place_id": "CAbSFA6bBZ17lnUS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haskell Flats, Cuba, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456662,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2418529_20101215_167132cd1e.tar.gz"
+        },
+        "bbox": [
+            -78.338668823242,
+            42.149810791016,
+            -78.338165283203,
+            42.150089263916
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.338463,
+                        42.150047
+                    ],
+                    [
+                        -78.338165,
+                        42.150089
+                    ],
+                    [
+                        -78.33831,
+                        42.149948
+                    ],
+                    [
+                        -78.338486,
+                        42.149811
+                    ],
+                    [
+                        -78.338669,
+                        42.150002
+                    ],
+                    [
+                        -78.338463,
+                        42.150047
+                    ]
+                ]
+            ]
+        ]
+    }
+}

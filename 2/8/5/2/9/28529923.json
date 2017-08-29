@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529923,
+    "properties": {
+        "woe_id": 28529923,
+        "place_id": "NXKc2eabCZmhgNVrzg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinozakimachi 5 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531889,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/28529923_20101216_c278d4bb51.tar.gz"
+        },
+        "bbox": [
+            139.90592956543,
+            35.701633453369,
+            139.90699768066,
+            35.702747344971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.906555,
+                        35.701691
+                    ],
+                    [
+                        139.906265,
+                        35.702103
+                    ],
+                    [
+                        139.90593,
+                        35.702747
+                    ],
+                    [
+                        139.906998,
+                        35.70171
+                    ],
+                    [
+                        139.906708,
+                        35.701633
+                    ],
+                    [
+                        139.906555,
+                        35.701691
+                    ]
+                ]
+            ]
+        ]
+    }
+}

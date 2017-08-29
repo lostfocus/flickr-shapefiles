@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28563351,
+    "properties": {
+        "woe_id": 28563351,
+        "place_id": "7Mk1FNSbCZkQrjN4eg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Onoharanishi 6 Chome, Mino-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463549,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/28563351_20101216_bd7c1bb785.tar.gz"
+        },
+        "bbox": [
+            135.51350402832,
+            34.826999664307,
+            135.51583862305,
+            34.829021453857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.513504,
+                        34.827034
+                    ],
+                    [
+                        135.51532,
+                        34.829021
+                    ],
+                    [
+                        135.515793,
+                        34.828442
+                    ],
+                    [
+                        135.515839,
+                        34.827168
+                    ],
+                    [
+                        135.515839,
+                        34.827
+                    ],
+                    [
+                        135.513504,
+                        34.827034
+                    ]
+                ]
+            ]
+        ]
+    }
+}

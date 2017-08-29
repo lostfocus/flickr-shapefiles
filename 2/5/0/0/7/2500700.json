@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500700,
+    "properties": {
+        "woe_id": 2500700,
+        "place_id": "3.UvBbCbBJwEi_fU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Straitsville, Naugatuck, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529246,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2500700_20101216_45e67887df.tar.gz"
+        },
+        "bbox": [
+            -73.012733459473,
+            41.449100494385,
+            -73.009429931641,
+            41.451881408691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.010628,
+                        41.4491
+                    ],
+                    [
+                        -73.010658,
+                        41.449356
+                    ],
+                    [
+                        -73.012733,
+                        41.451881
+                    ],
+                    [
+                        -73.009781,
+                        41.450024
+                    ],
+                    [
+                        -73.00943,
+                        41.449421
+                    ],
+                    [
+                        -73.010628,
+                        41.4491
+                    ]
+                ]
+            ]
+        ]
+    }
+}

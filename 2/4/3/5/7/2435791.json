@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2435791,
+    "properties": {
+        "woe_id": 2435791,
+        "place_id": "a1qTe2qbBZ9p96At",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakewood, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529963,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2435791_20101216_71e771af4c.tar.gz"
+        },
+        "bbox": [
+            -111.85082244873,
+            40.649616241455,
+            -111.84288024902,
+            40.655540466309
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.846375,
+                        40.651955
+                    ],
+                    [
+                        -111.848328,
+                        40.649616
+                    ],
+                    [
+                        -111.850822,
+                        40.65033
+                    ],
+                    [
+                        -111.850517,
+                        40.65554
+                    ],
+                    [
+                        -111.845711,
+                        40.654636
+                    ],
+                    [
+                        -111.84288,
+                        40.654568
+                    ],
+                    [
+                        -111.846375,
+                        40.651955
+                    ]
+                ]
+            ]
+        ]
+    }
+}

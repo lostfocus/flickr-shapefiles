@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 22725117,
+    "properties": {
+        "woe_id": 22725117,
+        "place_id": "HXlRVQWbA5vitRJgaQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tel Khayim, Tel Aviv, Tel Aviv, IL, Israel"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480589,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/22725117_20101216_6593864dbe.tar.gz"
+        },
+        "bbox": [
+            34.801769256592,
+            32.059856414795,
+            34.807777404785,
+            32.063301086426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        34.807434,
+                        32.061916
+                    ],
+                    [
+                        34.805191,
+                        32.059856
+                    ],
+                    [
+                        34.804516,
+                        32.060608
+                    ],
+                    [
+                        34.801769,
+                        32.063301
+                    ],
+                    [
+                        34.802799,
+                        32.063229
+                    ],
+                    [
+                        34.807777,
+                        32.0625
+                    ],
+                    [
+                        34.807434,
+                        32.061916
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2415807,
+    "properties": {
+        "woe_id": 2415807,
+        "place_id": "FI1Pi4abBZ2bovyY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gwathmey, Ashland, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494144,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2415807_20101216_c5941c91a3.tar.gz"
+        },
+        "bbox": [
+            -77.502861022949,
+            37.773464202881,
+            -77.502281188965,
+            37.773681640625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.502563,
+                        37.773666
+                    ],
+                    [
+                        -77.502342,
+                        37.773682
+                    ],
+                    [
+                        -77.502281,
+                        37.773464
+                    ],
+                    [
+                        -77.502785,
+                        37.773548
+                    ],
+                    [
+                        -77.502861,
+                        37.773605
+                    ],
+                    [
+                        -77.502777,
+                        37.773651
+                    ],
+                    [
+                        -77.502563,
+                        37.773666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

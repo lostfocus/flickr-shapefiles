@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2482592,
+    "properties": {
+        "woe_id": 2482592,
+        "place_id": "uukDOTybBZQttz67",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roanoke Station, Roanoke, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531600,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2482592_20101216_032fcf6f89.tar.gz"
+        },
+        "bbox": [
+            -85.378082275391,
+            40.96000289917,
+            -85.371086120605,
+            40.965446472168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.373566,
+                        40.961605
+                    ],
+                    [
+                        -85.378082,
+                        40.963451
+                    ],
+                    [
+                        -85.372864,
+                        40.965446
+                    ],
+                    [
+                        -85.373306,
+                        40.962276
+                    ],
+                    [
+                        -85.371086,
+                        40.960003
+                    ],
+                    [
+                        -85.373566,
+                        40.961605
+                    ]
+                ]
+            ]
+        ]
+    }
+}

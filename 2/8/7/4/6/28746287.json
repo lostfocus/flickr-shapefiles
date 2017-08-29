@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28746287,
+    "properties": {
+        "woe_id": 28746287,
+        "place_id": "YfifAXibCZud0o.8fw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jefferson Shores, Buzzards Bay, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522573,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/28746287_20101216_2222ec4137.tar.gz"
+        },
+        "bbox": [
+            -70.622169494629,
+            41.746368408203,
+            -70.619834899902,
+            41.750831604004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.622169,
+                        41.750332
+                    ],
+                    [
+                        -70.622002,
+                        41.750832
+                    ],
+                    [
+                        -70.619835,
+                        41.750332
+                    ],
+                    [
+                        -70.620087,
+                        41.746368
+                    ],
+                    [
+                        -70.622169,
+                        41.750168
+                    ],
+                    [
+                        -70.622169,
+                        41.750332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

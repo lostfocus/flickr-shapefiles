@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2371264,
+    "properties": {
+        "woe_id": 2371264,
+        "place_id": "uOEGmtSbApv0HeBw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Buckstown, Stoystown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521083,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2371264_20101216_9e30f74697.tar.gz"
+        },
+        "bbox": [
+            -78.869300842285,
+            40.072143554688,
+            -78.864883422852,
+            40.077381134033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.869301,
+                        40.074131
+                    ],
+                    [
+                        -78.869049,
+                        40.074688
+                    ],
+                    [
+                        -78.866302,
+                        40.077381
+                    ],
+                    [
+                        -78.864883,
+                        40.072777
+                    ],
+                    [
+                        -78.868515,
+                        40.072144
+                    ],
+                    [
+                        -78.869301,
+                        40.074131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

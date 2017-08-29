@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2371281,
+    "properties": {
+        "woe_id": 2371281,
+        "place_id": "YL3nUpibApv7qg1o",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bucktown, Pottstown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523269,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/2371281_20101216_eccdf0d2c6.tar.gz"
+        },
+        "bbox": [
+            -75.667831420898,
+            40.17166519165,
+            -75.660179138184,
+            40.176914215088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.662796,
+                        40.176136
+                    ],
+                    [
+                        -75.660179,
+                        40.176914
+                    ],
+                    [
+                        -75.661705,
+                        40.174259
+                    ],
+                    [
+                        -75.661942,
+                        40.171665
+                    ],
+                    [
+                        -75.662521,
+                        40.171692
+                    ],
+                    [
+                        -75.663055,
+                        40.172115
+                    ],
+                    [
+                        -75.667831,
+                        40.174309
+                    ],
+                    [
+                        -75.662796,
+                        40.176136
+                    ]
+                ]
+            ]
+        ]
+    }
+}

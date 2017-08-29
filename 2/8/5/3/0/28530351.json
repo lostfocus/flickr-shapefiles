@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530351,
+    "properties": {
+        "woe_id": 28530351,
+        "place_id": "oqzI77abCZkV86w9WQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jindaiji 2 Chome, Mitaka-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521457,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/28530351_20101216_73c7256b8b.tar.gz"
+        },
+        "bbox": [
+            139.53924560547,
+            35.687976837158,
+            139.54049682617,
+            35.689498901367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.539993,
+                        35.689301
+                    ],
+                    [
+                        139.540497,
+                        35.688499
+                    ],
+                    [
+                        139.539246,
+                        35.687977
+                    ],
+                    [
+                        139.539673,
+                        35.689335
+                    ],
+                    [
+                        139.539825,
+                        35.689499
+                    ],
+                    [
+                        139.539993,
+                        35.689301
+                    ]
+                ]
+            ]
+        ]
+    }
+}

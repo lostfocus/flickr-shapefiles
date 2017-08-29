@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2431434,
+    "properties": {
+        "woe_id": 2431434,
+        "place_id": "qjDeEY2bBZ_pWXCf",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kendigtown, Fountainville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542774,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2431434_20101216_9d32af5777.tar.gz"
+        },
+        "bbox": [
+            -75.143524169922,
+            40.360599517822,
+            -75.141990661621,
+            40.363689422607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.142097,
+                        40.363522
+                    ],
+                    [
+                        -75.141998,
+                        40.363422
+                    ],
+                    [
+                        -75.141991,
+                        40.363388
+                    ],
+                    [
+                        -75.143524,
+                        40.3606
+                    ],
+                    [
+                        -75.142372,
+                        40.363689
+                    ],
+                    [
+                        -75.142097,
+                        40.363522
+                    ]
+                ]
+            ]
+        ]
+    }
+}

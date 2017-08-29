@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29215112,
+    "properties": {
+        "woe_id": 29215112,
+        "place_id": "Fg9QURWbCJ69cBDEjw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Batla House, New Delhi, NCT, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463901,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/29215112_20101216_5ed4f68eb2.tar.gz"
+        },
+        "bbox": [
+            77.287956237793,
+            28.577587127686,
+            77.29027557373,
+            28.578868865967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        77.287956,
+                        28.578869
+                    ],
+                    [
+                        77.290276,
+                        28.578869
+                    ],
+                    [
+                        77.290237,
+                        28.577934
+                    ],
+                    [
+                        77.288841,
+                        28.577616
+                    ],
+                    [
+                        77.288132,
+                        28.577587
+                    ],
+                    [
+                        77.287956,
+                        28.578869
+                    ]
+                ]
+            ]
+        ]
+    }
+}

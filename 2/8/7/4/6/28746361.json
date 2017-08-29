@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28746361,
+    "properties": {
+        "woe_id": 28746361,
+        "place_id": "zOIES.SbCZvDomFisg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Barnstead, Center Barnstead, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542386,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/28746361_20101216_15a53c926a.tar.gz"
+        },
+        "bbox": [
+            -71.223052978516,
+            43.392223358154,
+            -71.220001220703,
+            43.394721984863
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.221115,
+                        43.393612
+                    ],
+                    [
+                        -71.220001,
+                        43.393333
+                    ],
+                    [
+                        -71.220558,
+                        43.392776
+                    ],
+                    [
+                        -71.22139,
+                        43.392223
+                    ],
+                    [
+                        -71.223053,
+                        43.394722
+                    ],
+                    [
+                        -71.222504,
+                        43.394444
+                    ],
+                    [
+                        -71.221115,
+                        43.393612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

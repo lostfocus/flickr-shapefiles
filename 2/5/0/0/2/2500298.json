@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500298,
+    "properties": {
+        "woe_id": 2500298,
+        "place_id": "pseuN4ubBJxn7N_7",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stonehaven, Charlotte, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549151,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2500298_20101217_e1ce00c2e7.tar.gz"
+        },
+        "bbox": [
+            -80.780860900879,
+            35.160091400146,
+            -80.779640197754,
+            35.166114807129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.77964,
+                        35.160091
+                    ],
+                    [
+                        -80.780861,
+                        35.161392
+                    ],
+                    [
+                        -80.7808,
+                        35.166115
+                    ],
+                    [
+                        -80.780426,
+                        35.161297
+                    ],
+                    [
+                        -80.77964,
+                        35.160091
+                    ]
+                ]
+            ]
+        ]
+    }
+}

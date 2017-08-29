@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2420952,
+    "properties": {
+        "woe_id": 2420952,
+        "place_id": "sUY9arWbBZ7qnLsQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hicksville, Jackson, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248193827,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3436\/shapefiles\/2420952_20090721_6d35a6b198.tar.gz"
+        },
+        "bbox": [
+            -88.832702636719,
+            35.638866424561,
+            -88.815994262695,
+            35.652484893799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.821846,
+                        35.638916
+                    ],
+                    [
+                        -88.831696,
+                        35.638866
+                    ],
+                    [
+                        -88.832703,
+                        35.64502
+                    ],
+                    [
+                        -88.830902,
+                        35.652485
+                    ],
+                    [
+                        -88.815994,
+                        35.64632
+                    ],
+                    [
+                        -88.821846,
+                        35.638916
+                    ]
+                ]
+            ]
+        ]
+    }
+}

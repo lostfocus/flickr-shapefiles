@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531640,
+    "properties": {
+        "woe_id": 28531640,
+        "place_id": "mid55TCbCZnq7uQhzQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Renkoji 5 Chome, Tama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517919,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28531640_20101216_4d176fdc69.tar.gz"
+        },
+        "bbox": [
+            139.45843505859,
+            35.635799407959,
+            139.46304321289,
+            35.638000488281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.460831,
+                        35.638
+                    ],
+                    [
+                        139.461838,
+                        35.637833
+                    ],
+                    [
+                        139.463043,
+                        35.636295
+                    ],
+                    [
+                        139.459473,
+                        35.635799
+                    ],
+                    [
+                        139.458435,
+                        35.637772
+                    ],
+                    [
+                        139.460831,
+                        35.638
+                    ]
+                ]
+            ]
+        ]
+    }
+}

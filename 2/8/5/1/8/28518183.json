@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28518183,
+    "properties": {
+        "woe_id": 28518183,
+        "place_id": "dDFlIjCbCZlNkP5PDQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashi 3 Chome, Yonezawa-shi, Yamagata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514364,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28518183_20101216_cea4396bf7.tar.gz"
+        },
+        "bbox": [
+            140.12608337402,
+            37.905632019043,
+            140.12825012207,
+            37.907619476318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.12822,
+                        37.90715
+                    ],
+                    [
+                        140.12825,
+                        37.907051
+                    ],
+                    [
+                        140.128204,
+                        37.906898
+                    ],
+                    [
+                        140.126862,
+                        37.905632
+                    ],
+                    [
+                        140.126083,
+                        37.907619
+                    ],
+                    [
+                        140.12822,
+                        37.90715
+                    ]
+                ]
+            ]
+        ]
+    }
+}

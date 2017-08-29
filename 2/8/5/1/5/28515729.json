@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28515729,
+    "properties": {
+        "woe_id": 28515729,
+        "place_id": "5BYo0ASbCZmJddwcnA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hachiman 1 Chome, Sendai-shi, Miyagi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455204,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/28515729_20101215_8502d3d002.tar.gz"
+        },
+        "bbox": [
+            140.85604858398,
+            38.267295837402,
+            140.8581237793,
+            38.270286560059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.856049,
+                        38.267769
+                    ],
+                    [
+                        140.856049,
+                        38.270287
+                    ],
+                    [
+                        140.858124,
+                        38.269375
+                    ],
+                    [
+                        140.857254,
+                        38.267971
+                    ],
+                    [
+                        140.856918,
+                        38.267296
+                    ],
+                    [
+                        140.856049,
+                        38.267769
+                    ]
+                ]
+            ]
+        ]
+    }
+}

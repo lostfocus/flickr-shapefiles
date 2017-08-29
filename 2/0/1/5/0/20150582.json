@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150582,
+    "properties": {
+        "woe_id": 20150582,
+        "place_id": "TgNavw.bAZ3ZwWR0EQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "S. Giovanni Inferiore, Trieste, FV, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480289,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/20150582_20101216_849c3a7d05.tar.gz"
+        },
+        "bbox": [
+            13.80251789093,
+            45.653625488281,
+            13.808365821838,
+            45.656547546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.805404,
+                        45.653625
+                    ],
+                    [
+                        13.802518,
+                        45.655109
+                    ],
+                    [
+                        13.804192,
+                        45.654945
+                    ],
+                    [
+                        13.80666,
+                        45.656548
+                    ],
+                    [
+                        13.808366,
+                        45.655792
+                    ],
+                    [
+                        13.805404,
+                        45.653625
+                    ]
+                ]
+            ]
+        ]
+    }
+}

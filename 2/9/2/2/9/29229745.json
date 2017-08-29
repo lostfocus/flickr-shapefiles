@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29229745,
+    "properties": {
+        "woe_id": 29229745,
+        "place_id": "EAU07PybCJ4wjtBgeA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cedar Crest, Dallas, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529353,
+        "alpha": 1.0e-5,
+        "points": 26,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/29229745_20101216_2382b347eb.tar.gz"
+        },
+        "bbox": [
+            -96.767730712891,
+            32.628475189209,
+            -96.767265319824,
+            32.629581451416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.767273,
+                        32.629135
+                    ],
+                    [
+                        -96.767265,
+                        32.628834
+                    ],
+                    [
+                        -96.767731,
+                        32.628475
+                    ],
+                    [
+                        -96.767532,
+                        32.629581
+                    ],
+                    [
+                        -96.767273,
+                        32.629135
+                    ]
+                ]
+            ]
+        ]
+    }
+}

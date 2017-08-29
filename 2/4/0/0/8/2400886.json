@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2400886,
+    "properties": {
+        "woe_id": 2400886,
+        "place_id": "AQ8lK_qbBZzvjI.z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Evergreen, Pittsburgh, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485987,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2400886_20101216_586be44fed.tar.gz"
+        },
+        "bbox": [
+            -79.993644714355,
+            40.507011413574,
+            -79.987335205078,
+            40.510345458984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.993645,
+                        40.510269
+                    ],
+                    [
+                        -79.993645,
+                        40.510345
+                    ],
+                    [
+                        -79.992805,
+                        40.510059
+                    ],
+                    [
+                        -79.991943,
+                        40.509724
+                    ],
+                    [
+                        -79.987335,
+                        40.507011
+                    ],
+                    [
+                        -79.991768,
+                        40.508591
+                    ],
+                    [
+                        -79.993645,
+                        40.510269
+                    ]
+                ]
+            ]
+        ]
+    }
+}

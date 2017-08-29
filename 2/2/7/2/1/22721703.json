@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721703,
+    "properties": {
+        "woe_id": 22721703,
+        "place_id": "z1LyXCKbA5tnQmLZaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Morphettville, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527276,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/22721703_20101216_e7f9987da6.tar.gz"
+        },
+        "bbox": [
+            138.53840637207,
+            -34.994255065918,
+            138.54278564453,
+            -34.990261077881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.538834,
+                        -34.990261
+                    ],
+                    [
+                        138.540955,
+                        -34.99062
+                    ],
+                    [
+                        138.542786,
+                        -34.993401
+                    ],
+                    [
+                        138.538849,
+                        -34.994255
+                    ],
+                    [
+                        138.538406,
+                        -34.991436
+                    ],
+                    [
+                        138.538834,
+                        -34.990261
+                    ]
+                ]
+            ]
+        ]
+    }
+}

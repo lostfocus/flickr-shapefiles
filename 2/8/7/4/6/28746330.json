@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746330,
+    "properties": {
+        "woe_id": 28746330,
+        "place_id": "C6EpARKbCZuJPLN4VA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Oxford, Oxford, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292484308,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28746330_20101216_dc0b72239b.tar.gz"
+        },
+        "bbox": [
+            -70.531967163086,
+            44.190773010254,
+            -70.530052185059,
+            44.193542480469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.531967,
+                        44.192696
+                    ],
+                    [
+                        -70.530724,
+                        44.193542
+                    ],
+                    [
+                        -70.530052,
+                        44.192787
+                    ],
+                    [
+                        -70.531548,
+                        44.190773
+                    ],
+                    [
+                        -70.531967,
+                        44.192696
+                    ]
+                ]
+            ]
+        ]
+    }
+}

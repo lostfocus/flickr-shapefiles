@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2462390,
+    "properties": {
+        "woe_id": 2462390,
+        "place_id": "i_jp3VObBZrfuD8M",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nottingham, Cleveland, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507167,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2462390_20101216_9532147a7e.tar.gz"
+        },
+        "bbox": [
+            -81.551383972168,
+            41.572277069092,
+            -81.545593261719,
+            41.577827453613
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.548347,
+                        41.57436
+                    ],
+                    [
+                        -81.545593,
+                        41.572746
+                    ],
+                    [
+                        -81.549522,
+                        41.572754
+                    ],
+                    [
+                        -81.550171,
+                        41.572277
+                    ],
+                    [
+                        -81.551384,
+                        41.576416
+                    ],
+                    [
+                        -81.549873,
+                        41.577827
+                    ],
+                    [
+                        -81.548347,
+                        41.57436
+                    ]
+                ]
+            ]
+        ]
+    }
+}

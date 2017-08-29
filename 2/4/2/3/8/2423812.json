@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2423812,
+    "properties": {
+        "woe_id": 2423812,
+        "place_id": "67qVi6SbBZ5zLJmd",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Homewood, Waterville, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479157,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2423812_20101216_e493520f67.tar.gz"
+        },
+        "bbox": [
+            -83.752662658691,
+            41.537628173828,
+            -83.751838684082,
+            41.539077758789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.752663,
+                        41.538834
+                    ],
+                    [
+                        -83.752533,
+                        41.539078
+                    ],
+                    [
+                        -83.751839,
+                        41.538906
+                    ],
+                    [
+                        -83.752541,
+                        41.537628
+                    ],
+                    [
+                        -83.752663,
+                        41.538834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

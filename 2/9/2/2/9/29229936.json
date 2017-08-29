@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29229936,
+    "properties": {
+        "woe_id": 29229936,
+        "place_id": "tcfwNSGbCJ7BMMdZpA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clifton, Jacksonville, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458391,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/29229936_20101216_c86229212c.tar.gz"
+        },
+        "bbox": [
+            -81.613395690918,
+            30.325210571289,
+            -81.610908508301,
+            30.329767227173
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.611008,
+                        30.327642
+                    ],
+                    [
+                        -81.611153,
+                        30.325211
+                    ],
+                    [
+                        -81.613396,
+                        30.327295
+                    ],
+                    [
+                        -81.613228,
+                        30.329767
+                    ],
+                    [
+                        -81.610909,
+                        30.328077
+                    ],
+                    [
+                        -81.611008,
+                        30.327642
+                    ]
+                ]
+            ]
+        ]
+    }
+}

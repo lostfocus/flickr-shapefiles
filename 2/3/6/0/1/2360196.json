@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2360196,
+    "properties": {
+        "woe_id": 2360196,
+        "place_id": "ZTUncHebApq038Yf",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bay Harbor, Panama City, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234620966,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/2360196_20090214_e96e617e60.tar.gz"
+        },
+        "bbox": [
+            -85.62572479248,
+            30.127830505371,
+            -85.61499786377,
+            30.142866134644
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.623322,
+                        30.127831
+                    ],
+                    [
+                        -85.623665,
+                        30.132954
+                    ],
+                    [
+                        -85.625725,
+                        30.141064
+                    ],
+                    [
+                        -85.618881,
+                        30.142866
+                    ],
+                    [
+                        -85.614998,
+                        30.137184
+                    ],
+                    [
+                        -85.620834,
+                        30.132954
+                    ],
+                    [
+                        -85.623322,
+                        30.127831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

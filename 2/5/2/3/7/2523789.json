@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2523789,
+    "properties": {
+        "woe_id": 2523789,
+        "place_id": "dSRsqlybBJ6mD4pq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodville, New Preston, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549270,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2523789_20101217_d4ff4297f2.tar.gz"
+        },
+        "bbox": [
+            -73.283912658691,
+            41.69539642334,
+            -73.278289794922,
+            41.703422546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.280243,
+                        41.697605
+                    ],
+                    [
+                        -73.282356,
+                        41.695396
+                    ],
+                    [
+                        -73.283913,
+                        41.699322
+                    ],
+                    [
+                        -73.281921,
+                        41.698982
+                    ],
+                    [
+                        -73.27829,
+                        41.703423
+                    ],
+                    [
+                        -73.280243,
+                        41.697605
+                    ]
+                ]
+            ]
+        ]
+    }
+}

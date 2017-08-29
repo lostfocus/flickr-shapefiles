@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2415849,
+    "properties": {
+        "woe_id": 2415849,
+        "place_id": "z2dQb8KbBZ0KVwxp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haags Mill, Newfoundland, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543710,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2415849_20101216_bc50745af2.tar.gz"
+        },
+        "bbox": [
+            -75.344482421875,
+            41.27912902832,
+            -75.340118408203,
+            41.283626556396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.342606,
+                        41.283386
+                    ],
+                    [
+                        -75.340118,
+                        41.283627
+                    ],
+                    [
+                        -75.340164,
+                        41.283367
+                    ],
+                    [
+                        -75.342911,
+                        41.279129
+                    ],
+                    [
+                        -75.344482,
+                        41.280949
+                    ],
+                    [
+                        -75.342606,
+                        41.283386
+                    ]
+                ]
+            ]
+        ]
+    }
+}

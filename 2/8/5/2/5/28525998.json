@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28525998,
+    "properties": {
+        "woe_id": 28525998,
+        "place_id": "5dBk4AubCZkg6hpoNQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akanehama 2 Chome, Narashino-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452595,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/28525998_20101215_4882fb20a6.tar.gz"
+        },
+        "bbox": [
+            140.01194763184,
+            35.665607452393,
+            140.01324462891,
+            35.667922973633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.012009,
+                        35.666985
+                    ],
+                    [
+                        140.011948,
+                        35.667923
+                    ],
+                    [
+                        140.012833,
+                        35.667332
+                    ],
+                    [
+                        140.012985,
+                        35.667267
+                    ],
+                    [
+                        140.013245,
+                        35.665607
+                    ],
+                    [
+                        140.012009,
+                        35.666985
+                    ]
+                ]
+            ]
+        ]
+    }
+}

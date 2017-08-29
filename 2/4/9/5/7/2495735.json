@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2495735,
+    "properties": {
+        "woe_id": 2495735,
+        "place_id": "XH6DMi2bBZXdRaiy",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Somerville, Philadelphia, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444640,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2495735_20101215_a5440dedfc.tar.gz"
+        },
+        "bbox": [
+            -75.162445068359,
+            40.048755645752,
+            -75.15389251709,
+            40.057132720947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.153893,
+                        40.056992
+                    ],
+                    [
+                        -75.154091,
+                        40.053875
+                    ],
+                    [
+                        -75.156227,
+                        40.056164
+                    ],
+                    [
+                        -75.160561,
+                        40.053898
+                    ],
+                    [
+                        -75.161964,
+                        40.048756
+                    ],
+                    [
+                        -75.162445,
+                        40.052616
+                    ],
+                    [
+                        -75.161438,
+                        40.057133
+                    ],
+                    [
+                        -75.157089,
+                        40.056602
+                    ],
+                    [
+                        -75.154022,
+                        40.057018
+                    ],
+                    [
+                        -75.153893,
+                        40.056992
+                    ]
+                ]
+            ]
+        ]
+    }
+}

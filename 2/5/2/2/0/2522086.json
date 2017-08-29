@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2522086,
+    "properties": {
+        "woe_id": 2522086,
+        "place_id": "K8fqpcmbBJ7j9XbW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wingerton, Waynesboro, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533390,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2522086_20101216_ebb53525a4.tar.gz"
+        },
+        "bbox": [
+            -77.675590515137,
+            39.720806121826,
+            -77.672676086426,
+            39.724559783936
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.672684,
+                        39.720829
+                    ],
+                    [
+                        -77.67276,
+                        39.720806
+                    ],
+                    [
+                        -77.675591,
+                        39.72456
+                    ],
+                    [
+                        -77.672676,
+                        39.72086
+                    ],
+                    [
+                        -77.672676,
+                        39.720852
+                    ],
+                    [
+                        -77.672684,
+                        39.720829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

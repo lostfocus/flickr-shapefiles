@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481929,
+    "properties": {
+        "woe_id": 2481929,
+        "place_id": "wwNIA8.bBZQ494en",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River Terrace, Hampton, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527628,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2481929_20101216_1234748f0d.tar.gz"
+        },
+        "bbox": [
+            -76.35765838623,
+            37.072540283203,
+            -76.353218078613,
+            37.075450897217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.353737,
+                        37.075451
+                    ],
+                    [
+                        -76.353218,
+                        37.074764
+                    ],
+                    [
+                        -76.3573,
+                        37.07254
+                    ],
+                    [
+                        -76.357658,
+                        37.073692
+                    ],
+                    [
+                        -76.355118,
+                        37.074875
+                    ],
+                    [
+                        -76.353737,
+                        37.075451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

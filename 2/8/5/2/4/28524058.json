@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524058,
+    "properties": {
+        "woe_id": 28524058,
+        "place_id": "ET2QqZWbCZlwpxzVRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takasu 4 Chome, Misato-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528539,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/28524058_20101216_888c06274f.tar.gz"
+        },
+        "bbox": [
+            139.88861083984,
+            35.784118652344,
+            139.89251708984,
+            35.78857421875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.888824,
+                        35.78548
+                    ],
+                    [
+                        139.892517,
+                        35.788574
+                    ],
+                    [
+                        139.89035,
+                        35.784119
+                    ],
+                    [
+                        139.888611,
+                        35.785198
+                    ],
+                    [
+                        139.888779,
+                        35.785465
+                    ],
+                    [
+                        139.888824,
+                        35.78548
+                    ]
+                ]
+            ]
+        ]
+    }
+}

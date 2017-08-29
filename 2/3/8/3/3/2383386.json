@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2383386,
+    "properties": {
+        "woe_id": 2383386,
+        "place_id": "dJDnCs.bApQ5VcLG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Colonial Village, Arlington, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529099,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2383386_20101216_a382277c6b.tar.gz"
+        },
+        "bbox": [
+            -77.091255187988,
+            38.888565063477,
+            -77.089080810547,
+            38.890380859375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.090561,
+                        38.888565
+                    ],
+                    [
+                        -77.091255,
+                        38.889446
+                    ],
+                    [
+                        -77.090271,
+                        38.889637
+                    ],
+                    [
+                        -77.089081,
+                        38.890381
+                    ],
+                    [
+                        -77.09024,
+                        38.888599
+                    ],
+                    [
+                        -77.090561,
+                        38.888565
+                    ]
+                ]
+            ]
+        ]
+    }
+}

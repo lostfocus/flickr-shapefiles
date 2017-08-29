@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2451820,
+    "properties": {
+        "woe_id": 2451820,
+        "place_id": "p6AYuaWbBZk9MU7d",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miltonville, Trenton, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448046,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2451820_20101215_4662fff783.tar.gz"
+        },
+        "bbox": [
+            -84.47550201416,
+            39.470729827881,
+            -84.474563598633,
+            39.471714019775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.475311,
+                        39.470863
+                    ],
+                    [
+                        -84.475418,
+                        39.47073
+                    ],
+                    [
+                        -84.475502,
+                        39.470924
+                    ],
+                    [
+                        -84.474564,
+                        39.471714
+                    ],
+                    [
+                        -84.475311,
+                        39.470863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

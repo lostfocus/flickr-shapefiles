@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2375071,
+    "properties": {
+        "woe_id": 2375071,
+        "place_id": "1cnSqIabAptwPnM5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Carlson, James City, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533263,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2375071_20101216_6102e019df.tar.gz"
+        },
+        "bbox": [
+            -78.823440551758,
+            41.578426361084,
+            -78.82080078125,
+            41.579322814941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.823097,
+                        41.578426
+                    ],
+                    [
+                        -78.823441,
+                        41.578606
+                    ],
+                    [
+                        -78.822594,
+                        41.57896
+                    ],
+                    [
+                        -78.821365,
+                        41.579323
+                    ],
+                    [
+                        -78.820801,
+                        41.578999
+                    ],
+                    [
+                        -78.823097,
+                        41.578426
+                    ]
+                ]
+            ]
+        ]
+    }
+}

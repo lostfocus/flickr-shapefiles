@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2498466,
+    "properties": {
+        "woe_id": 2498466,
+        "place_id": "PUJvw4ebBZXwpTt9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Springtown, Bridgeton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513107,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2498466_20101216_c911468bae.tar.gz"
+        },
+        "bbox": [
+            -75.346298217773,
+            39.410732269287,
+            -75.345268249512,
+            39.415042877197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.346298,
+                        39.410732
+                    ],
+                    [
+                        -75.345955,
+                        39.412987
+                    ],
+                    [
+                        -75.345436,
+                        39.415043
+                    ],
+                    [
+                        -75.345268,
+                        39.412189
+                    ],
+                    [
+                        -75.346298,
+                        39.410732
+                    ]
+                ]
+            ]
+        ]
+    }
+}

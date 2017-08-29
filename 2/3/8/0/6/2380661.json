@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2380661,
+    "properties": {
+        "woe_id": 2380661,
+        "place_id": "5JZyHlibApTqQqLU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clarendon Hill, Roslindale, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523148,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2380661_20101216_a8e107f242.tar.gz"
+        },
+        "bbox": [
+            -71.128150939941,
+            42.275211334229,
+            -71.126083374023,
+            42.277214050293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.126122,
+                        42.276012
+                    ],
+                    [
+                        -71.126251,
+                        42.27586
+                    ],
+                    [
+                        -71.127182,
+                        42.275211
+                    ],
+                    [
+                        -71.128151,
+                        42.277214
+                    ],
+                    [
+                        -71.126167,
+                        42.276165
+                    ],
+                    [
+                        -71.126083,
+                        42.276089
+                    ],
+                    [
+                        -71.126122,
+                        42.276012
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28565374,
+    "properties": {
+        "woe_id": 28565374,
+        "place_id": "IeLLV.GbCZnz9mjmaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiyamacho 2 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455268,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/28565374_20101215_a4751782ba.tar.gz"
+        },
+        "bbox": [
+            135.16235351562,
+            34.681316375732,
+            135.16461181641,
+            34.682926177979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.164612,
+                        34.681561
+                    ],
+                    [
+                        135.164612,
+                        34.681515
+                    ],
+                    [
+                        135.163589,
+                        34.681316
+                    ],
+                    [
+                        135.162735,
+                        34.681923
+                    ],
+                    [
+                        135.162354,
+                        34.682926
+                    ],
+                    [
+                        135.163849,
+                        34.682667
+                    ],
+                    [
+                        135.164612,
+                        34.681561
+                    ]
+                ]
+            ]
+        ]
+    }
+}

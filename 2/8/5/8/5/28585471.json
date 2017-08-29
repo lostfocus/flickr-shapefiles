@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28585471,
+    "properties": {
+        "woe_id": 28585471,
+        "place_id": "gvCQHfybCZmx6y_Udg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hunterview, Singleton, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435404,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28585471_20101215_fd3b1ca390.tar.gz"
+        },
+        "bbox": [
+            151.16621398926,
+            -32.546813964844,
+            151.16946411133,
+            -32.545799255371
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.167114,
+                        -32.546379
+                    ],
+                    [
+                        151.166214,
+                        -32.545799
+                    ],
+                    [
+                        151.169464,
+                        -32.545944
+                    ],
+                    [
+                        151.16861,
+                        -32.546452
+                    ],
+                    [
+                        151.167923,
+                        -32.546814
+                    ],
+                    [
+                        151.167114,
+                        -32.546379
+                    ]
+                ]
+            ]
+        ]
+    }
+}

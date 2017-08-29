@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2368453,
+    "properties": {
+        "woe_id": 2368453,
+        "place_id": "gCK1q6WbAporiSlb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Breezy Point, Warren, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524431,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2368453_20101216_581a9885ef.tar.gz"
+        },
+        "bbox": [
+            -71.818481445312,
+            43.99348449707,
+            -71.815223693848,
+            43.99658203125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.816521,
+                        43.993542
+                    ],
+                    [
+                        -71.818481,
+                        43.995037
+                    ],
+                    [
+                        -71.816986,
+                        43.996582
+                    ],
+                    [
+                        -71.815224,
+                        43.99408
+                    ],
+                    [
+                        -71.816017,
+                        43.993484
+                    ],
+                    [
+                        -71.816521,
+                        43.993542
+                    ]
+                ]
+            ]
+        ]
+    }
+}

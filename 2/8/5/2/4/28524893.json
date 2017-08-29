@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524893,
+    "properties": {
+        "woe_id": 28524893,
+        "place_id": "rW.voJKbCZnSrcBNjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oyumino 3 Chome, Chiba-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523665,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28524893_20101216_b8f44365a5.tar.gz"
+        },
+        "bbox": [
+            140.17733764648,
+            35.561000823975,
+            140.18016052246,
+            35.564334869385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.177338,
+                        35.564335
+                    ],
+                    [
+                        140.177826,
+                        35.564335
+                    ],
+                    [
+                        140.178833,
+                        35.562668
+                    ],
+                    [
+                        140.180161,
+                        35.561001
+                    ],
+                    [
+                        140.177505,
+                        35.562164
+                    ],
+                    [
+                        140.177338,
+                        35.564335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530730,
+    "properties": {
+        "woe_id": 28530730,
+        "place_id": "Xy7hTUGbCZn.oh_P8w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kojimacho 3 Chome, Chofu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455274,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/28530730_20101215_2298b130e6.tar.gz"
+        },
+        "bbox": [
+            139.53517150879,
+            35.647174835205,
+            139.5419921875,
+            35.650001525879
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.539093,
+                        35.647942
+                    ],
+                    [
+                        139.536362,
+                        35.647175
+                    ],
+                    [
+                        139.535172,
+                        35.647835
+                    ],
+                    [
+                        139.537506,
+                        35.650002
+                    ],
+                    [
+                        139.541992,
+                        35.647949
+                    ],
+                    [
+                        139.539093,
+                        35.647942
+                    ]
+                ]
+            ]
+        ]
+    }
+}

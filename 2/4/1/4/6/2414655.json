@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2414655,
+    "properties": {
+        "woe_id": 2414655,
+        "place_id": "QM0oCA.bBZ3Hf9lG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greenwich, Virginia Beach, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536628,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/2414655_20101216_f49b176d22.tar.gz"
+        },
+        "bbox": [
+            -76.188407897949,
+            36.843643188477,
+            -76.183952331543,
+            36.850025177002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.185173,
+                        36.843643
+                    ],
+                    [
+                        -76.188408,
+                        36.846138
+                    ],
+                    [
+                        -76.18615,
+                        36.850025
+                    ],
+                    [
+                        -76.187645,
+                        36.846149
+                    ],
+                    [
+                        -76.183952,
+                        36.844139
+                    ],
+                    [
+                        -76.185173,
+                        36.843643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

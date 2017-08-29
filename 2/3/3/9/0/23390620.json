@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23390620,
+    "properties": {
+        "woe_id": 23390620,
+        "place_id": "HDiqcH6bAp9FfjotRw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Balls Greek, North Sydney, NS, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496003,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/23390620_20101216_bc4d8aeb7a.tar.gz"
+        },
+        "bbox": [
+            -60.306015014648,
+            46.15177154541,
+            -60.303955078125,
+            46.152603149414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -60.305328,
+                        46.152603
+                    ],
+                    [
+                        -60.303955,
+                        46.152382
+                    ],
+                    [
+                        -60.304943,
+                        46.151787
+                    ],
+                    [
+                        -60.305241,
+                        46.151772
+                    ],
+                    [
+                        -60.306015,
+                        46.15189
+                    ],
+                    [
+                        -60.305328,
+                        46.152603
+                    ]
+                ]
+            ]
+        ]
+    }
+}

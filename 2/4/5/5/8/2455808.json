@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2455808,
+    "properties": {
+        "woe_id": 2455808,
+        "place_id": "1C3KvtCbBZlIzakA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mountain Meadows, Boulder, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234622771,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3369\/shapefiles\/2455808_20090214_b1b2719769.tar.gz"
+        },
+        "bbox": [
+            -105.38617706299,
+            40.017887115479,
+            -105.36781311035,
+            40.031032562256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.386177,
+                        40.030636
+                    ],
+                    [
+                        -105.370041,
+                        40.031033
+                    ],
+                    [
+                        -105.367813,
+                        40.017887
+                    ],
+                    [
+                        -105.384407,
+                        40.025146
+                    ],
+                    [
+                        -105.386177,
+                        40.030636
+                    ]
+                ]
+            ]
+        ]
+    }
+}

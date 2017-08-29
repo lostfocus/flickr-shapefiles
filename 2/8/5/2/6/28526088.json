@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526088,
+    "properties": {
+        "woe_id": 28526088,
+        "place_id": "7wn0QrSbCZnYjf5h2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akehara 2 Chome, Kashiwa-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434801,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/28526088_20101215_0fca62444c.tar.gz"
+        },
+        "bbox": [
+            139.96566772461,
+            35.864715576172,
+            139.9691619873,
+            35.867000579834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.965668,
+                        35.865334
+                    ],
+                    [
+                        139.965668,
+                        35.867001
+                    ],
+                    [
+                        139.966171,
+                        35.866833
+                    ],
+                    [
+                        139.969162,
+                        35.864716
+                    ],
+                    [
+                        139.967209,
+                        35.86496
+                    ],
+                    [
+                        139.965668,
+                        35.865334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

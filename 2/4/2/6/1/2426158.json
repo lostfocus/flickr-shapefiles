@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2426158,
+    "properties": {
+        "woe_id": 2426158,
+        "place_id": "V2lH._WbBZ4AOjCB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huskerville, Lincoln, NE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440591,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2426158_20101215_7bb638ddef.tar.gz"
+        },
+        "bbox": [
+            -96.808906555176,
+            40.867687225342,
+            -96.806243896484,
+            40.871143341064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.806274,
+                        40.868561
+                    ],
+                    [
+                        -96.807358,
+                        40.867687
+                    ],
+                    [
+                        -96.808907,
+                        40.867802
+                    ],
+                    [
+                        -96.806671,
+                        40.869633
+                    ],
+                    [
+                        -96.806244,
+                        40.871143
+                    ],
+                    [
+                        -96.806274,
+                        40.868561
+                    ]
+                ]
+            ]
+        ]
+    }
+}

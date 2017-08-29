@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20163583,
+    "properties": {
+        "woe_id": 20163583,
+        "place_id": "NnxAgZmbAZ3MpXGgoQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gartenstadt, Ludwigshafen am Rhein, RP, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525791,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/20163583_20101216_8d9f98aeb6.tar.gz"
+        },
+        "bbox": [
+            8.4086818695068,
+            49.457927703857,
+            8.4109354019165,
+            49.463634490967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.410034,
+                        49.460705
+                    ],
+                    [
+                        8.410549,
+                        49.463634
+                    ],
+                    [
+                        8.410935,
+                        49.459965
+                    ],
+                    [
+                        8.408682,
+                        49.457928
+                    ],
+                    [
+                        8.410034,
+                        49.460705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

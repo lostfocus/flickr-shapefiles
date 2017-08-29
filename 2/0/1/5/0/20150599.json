@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150599,
+    "properties": {
+        "woe_id": 20150599,
+        "place_id": "R7AbIj.bAZ33qJIbpw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Poggi S. Anna, Trieste, FV, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459056,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/20150599_20101216_c22f01358d.tar.gz"
+        },
+        "bbox": [
+            13.80409526825,
+            45.624084472656,
+            13.808488845825,
+            45.629661560059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.805898,
+                        45.625015
+                    ],
+                    [
+                        13.804095,
+                        45.624474
+                    ],
+                    [
+                        13.805106,
+                        45.628819
+                    ],
+                    [
+                        13.808376,
+                        45.629662
+                    ],
+                    [
+                        13.808489,
+                        45.624084
+                    ],
+                    [
+                        13.805898,
+                        45.625015
+                    ]
+                ]
+            ]
+        ]
+    }
+}

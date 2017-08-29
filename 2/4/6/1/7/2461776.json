@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2461776,
+    "properties": {
+        "woe_id": 2461776,
+        "place_id": "EQpqhd.bBZrbMtpm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Washington, Apollo, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528289,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/2461776_20101216_8549746af2.tar.gz"
+        },
+        "bbox": [
+            -79.595069885254,
+            40.517208099365,
+            -79.59130859375,
+            40.519180297852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.591309,
+                        40.51918
+                    ],
+                    [
+                        -79.594894,
+                        40.517208
+                    ],
+                    [
+                        -79.594917,
+                        40.517811
+                    ],
+                    [
+                        -79.59507,
+                        40.518887
+                    ],
+                    [
+                        -79.591309,
+                        40.51918
+                    ]
+                ]
+            ]
+        ]
+    }
+}

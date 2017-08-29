@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2384706,
+    "properties": {
+        "woe_id": 2384706,
+        "place_id": "VmMSLOSbApSqakT4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coos Canyon, Roxbury, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541020,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2384706_20101216_e290599088.tar.gz"
+        },
+        "bbox": [
+            -70.632369995117,
+            44.720600128174,
+            -70.63159942627,
+            44.72102355957
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.632286,
+                        44.720753
+                    ],
+                    [
+                        -70.63237,
+                        44.720852
+                    ],
+                    [
+                        -70.632034,
+                        44.721024
+                    ],
+                    [
+                        -70.631721,
+                        44.720802
+                    ],
+                    [
+                        -70.631599,
+                        44.7206
+                    ],
+                    [
+                        -70.632286,
+                        44.720753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

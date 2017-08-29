@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529235,
+    "properties": {
+        "woe_id": 28529235,
+        "place_id": "p_6V.C6bCZk0E_S_Mg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Toshincho 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503146,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28529235_20101216_dae7b2a6a1.tar.gz"
+        },
+        "bbox": [
+            139.68083190918,
+            35.757469177246,
+            139.68330383301,
+            35.760501861572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.682709,
+                        35.759258
+                    ],
+                    [
+                        139.682938,
+                        35.758327
+                    ],
+                    [
+                        139.683304,
+                        35.757469
+                    ],
+                    [
+                        139.682831,
+                        35.758335
+                    ],
+                    [
+                        139.680832,
+                        35.760502
+                    ],
+                    [
+                        139.682709,
+                        35.759258
+                    ]
+                ]
+            ]
+        ]
+    }
+}

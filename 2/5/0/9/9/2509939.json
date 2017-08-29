@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2509939,
+    "properties": {
+        "woe_id": 2509939,
+        "place_id": "q0FeXUubBJzEDuC7",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Union Wharf, Mirror Lake, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544792,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2509939_20101217_7637a514d4.tar.gz"
+        },
+        "bbox": [
+            -71.282897949219,
+            43.651538848877,
+            -71.279777526855,
+            43.652721405029
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.279778,
+                        43.651619
+                    ],
+                    [
+                        -71.279778,
+                        43.651539
+                    ],
+                    [
+                        -71.282898,
+                        43.652287
+                    ],
+                    [
+                        -71.28273,
+                        43.652721
+                    ],
+                    [
+                        -71.279808,
+                        43.651684
+                    ],
+                    [
+                        -71.279778,
+                        43.651619
+                    ]
+                ]
+            ]
+        ]
+    }
+}

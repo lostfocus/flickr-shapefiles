@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721974,
+    "properties": {
+        "woe_id": 22721974,
+        "place_id": "GY_UBI2bA5vEGUgKtQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Albans South, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248146407,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2437\/shapefiles\/22721974_20090721_0959a01d88.tar.gz"
+        },
+        "bbox": [
+            144.7993927002,
+            -37.763656616211,
+            144.80340576172,
+            -37.76033782959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.801239,
+                        -37.763657
+                    ],
+                    [
+                        144.801178,
+                        -37.763622
+                    ],
+                    [
+                        144.799393,
+                        -37.761333
+                    ],
+                    [
+                        144.803406,
+                        -37.760338
+                    ],
+                    [
+                        144.801346,
+                        -37.763641
+                    ],
+                    [
+                        144.801239,
+                        -37.763657
+                    ]
+                ]
+            ]
+        ]
+    }
+}

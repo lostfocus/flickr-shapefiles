@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2419386,
+    "properties": {
+        "woe_id": 2419386,
+        "place_id": "Afey4iWbBZ10oBlq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Heart Lake, Montrose, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450393,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2419386_20101215_846be50235.tar.gz"
+        },
+        "bbox": [
+            -75.788917541504,
+            41.863487243652,
+            -75.786262512207,
+            41.867046356201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.788628,
+                        41.866783
+                    ],
+                    [
+                        -75.788582,
+                        41.866474
+                    ],
+                    [
+                        -75.786263,
+                        41.863487
+                    ],
+                    [
+                        -75.788628,
+                        41.866474
+                    ],
+                    [
+                        -75.788918,
+                        41.867046
+                    ],
+                    [
+                        -75.788628,
+                        41.866783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528718,
+    "properties": {
+        "woe_id": 28528718,
+        "place_id": "cx1S1mSbCZkGlMe09g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Egota 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535533,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/28528718_20101216_25c3326acb.tar.gz"
+        },
+        "bbox": [
+            139.67280578613,
+            35.723556518555,
+            139.67543029785,
+            35.725994110107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.672943,
+                        35.725975
+                    ],
+                    [
+                        139.672958,
+                        35.725994
+                    ],
+                    [
+                        139.67543,
+                        35.724716
+                    ],
+                    [
+                        139.67366,
+                        35.723557
+                    ],
+                    [
+                        139.672806,
+                        35.725544
+                    ],
+                    [
+                        139.672943,
+                        35.725975
+                    ]
+                ]
+            ]
+        ]
+    }
+}

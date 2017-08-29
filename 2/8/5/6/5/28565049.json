@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28565049,
+    "properties": {
+        "woe_id": 28565049,
+        "place_id": "tp4rcDabCZmECMPjag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tsurukabuto 4 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472367,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28565049_20101216_475f705f0d.tar.gz"
+        },
+        "bbox": [
+            135.23338317871,
+            34.732009887695,
+            135.23583984375,
+            34.73645401001
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.235733,
+                        34.735203
+                    ],
+                    [
+                        135.23584,
+                        34.734119
+                    ],
+                    [
+                        135.233383,
+                        34.73201
+                    ],
+                    [
+                        135.233597,
+                        34.736443
+                    ],
+                    [
+                        135.234283,
+                        34.736454
+                    ],
+                    [
+                        135.235733,
+                        34.735203
+                    ]
+                ]
+            ]
+        ]
+    }
+}

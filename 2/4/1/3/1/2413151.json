@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2413151,
+    "properties": {
+        "woe_id": 2413151,
+        "place_id": "rIJZm1KbBZ1oLynO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Granthams, New Bern, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292419801,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2413151_20101215_4e127fec6b.tar.gz"
+        },
+        "bbox": [
+            -77.019172668457,
+            35.055252075195,
+            -77.018020629883,
+            35.056411743164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.018127,
+                        35.056412
+                    ],
+                    [
+                        -77.018021,
+                        35.056004
+                    ],
+                    [
+                        -77.018242,
+                        35.055809
+                    ],
+                    [
+                        -77.019035,
+                        35.055347
+                    ],
+                    [
+                        -77.019173,
+                        35.055252
+                    ],
+                    [
+                        -77.018127,
+                        35.056412
+                    ]
+                ]
+            ]
+        ]
+    }
+}

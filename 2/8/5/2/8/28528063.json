@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528063,
+    "properties": {
+        "woe_id": 28528063,
+        "place_id": "o2BKGWabCZkBGKHE7g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamishinagawa 5 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523669,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/28528063_20101216_c689b904a2.tar.gz"
+        },
+        "bbox": [
+            139.73858642578,
+            35.60778427124,
+            139.74140930176,
+            35.611698150635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.739105,
+                        35.607922
+                    ],
+                    [
+                        139.738586,
+                        35.60815
+                    ],
+                    [
+                        139.740097,
+                        35.611698
+                    ],
+                    [
+                        139.741409,
+                        35.607853
+                    ],
+                    [
+                        139.741257,
+                        35.607784
+                    ],
+                    [
+                        139.739105,
+                        35.607922
+                    ]
+                ]
+            ]
+        ]
+    }
+}

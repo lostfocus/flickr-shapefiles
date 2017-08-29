@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2500488,
+    "properties": {
+        "woe_id": 2500488,
+        "place_id": "LQMgVjybBJzzmgml",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stony Ford, Middletown, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533335,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2500488_20101216_8029d4a9a0.tar.gz"
+        },
+        "bbox": [
+            -74.298461914062,
+            41.454853057861,
+            -74.293243408203,
+            41.455909729004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.29834,
+                        41.455799
+                    ],
+                    [
+                        -74.298409,
+                        41.455811
+                    ],
+                    [
+                        -74.298462,
+                        41.455845
+                    ],
+                    [
+                        -74.298424,
+                        41.45591
+                    ],
+                    [
+                        -74.298363,
+                        41.455868
+                    ],
+                    [
+                        -74.293243,
+                        41.454853
+                    ],
+                    [
+                        -74.29834,
+                        41.455799
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528246,
+    "properties": {
+        "woe_id": 28528246,
+        "place_id": "pm0Ozj2bCZn94m.DGA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jonanjima 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463424,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28528246_20101216_2cf828315c.tar.gz"
+        },
+        "bbox": [
+            139.77166748047,
+            35.572658538818,
+            139.77220153809,
+            35.573425292969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.772202,
+                        35.572865
+                    ],
+                    [
+                        139.772018,
+                        35.572659
+                    ],
+                    [
+                        139.771667,
+                        35.573425
+                    ],
+                    [
+                        139.772202,
+                        35.572899
+                    ],
+                    [
+                        139.772202,
+                        35.572884
+                    ],
+                    [
+                        139.772202,
+                        35.572865
+                    ]
+                ]
+            ]
+        ]
+    }
+}

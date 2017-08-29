@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534215,
+    "properties": {
+        "woe_id": 28534215,
+        "place_id": "sQ08oa6bCZkWNO98qg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kozu 2 Chome, Odawara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496490,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/28534215_20101216_38eb300062.tar.gz"
+        },
+        "bbox": [
+            139.20469665527,
+            35.278831481934,
+            139.20747375488,
+            35.282020568848
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.207474,
+                        35.280361
+                    ],
+                    [
+                        139.205994,
+                        35.278831
+                    ],
+                    [
+                        139.204697,
+                        35.280346
+                    ],
+                    [
+                        139.207382,
+                        35.282021
+                    ],
+                    [
+                        139.207336,
+                        35.281712
+                    ],
+                    [
+                        139.207474,
+                        35.280361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

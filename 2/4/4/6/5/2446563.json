@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2446563,
+    "properties": {
+        "woe_id": 2446563,
+        "place_id": "j8_VhDObBZgLyjs.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marysville, Skaneateles, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456732,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2446563_20101215_472fc2cc87.tar.gz"
+        },
+        "bbox": [
+            -76.466728210449,
+            42.984088897705,
+            -76.45694732666,
+            42.987476348877
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.461235,
+                        42.987476
+                    ],
+                    [
+                        -76.456947,
+                        42.984089
+                    ],
+                    [
+                        -76.4627,
+                        42.984119
+                    ],
+                    [
+                        -76.466728,
+                        42.986317
+                    ],
+                    [
+                        -76.463387,
+                        42.985435
+                    ],
+                    [
+                        -76.461235,
+                        42.987476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

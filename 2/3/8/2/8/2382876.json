@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2382876,
+    "properties": {
+        "woe_id": 2382876,
+        "place_id": "ZHKxeXqbApQ2e4fv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coleman Heights, Lewisburg, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456596,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2382876_20101215_e5312882c7.tar.gz"
+        },
+        "bbox": [
+            -86.789070129395,
+            35.448978424072,
+            -86.788032531738,
+            35.449726104736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.78875,
+                        35.449368
+                    ],
+                    [
+                        -86.78907,
+                        35.449657
+                    ],
+                    [
+                        -86.788673,
+                        35.449726
+                    ],
+                    [
+                        -86.788239,
+                        35.449295
+                    ],
+                    [
+                        -86.788033,
+                        35.448978
+                    ],
+                    [
+                        -86.78875,
+                        35.449368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

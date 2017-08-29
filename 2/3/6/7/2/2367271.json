@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2367271,
+    "properties": {
+        "woe_id": 2367271,
+        "place_id": "jOSBlWebAprO8aIY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boulevard Park, Seattle, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523491,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2367271_20101216_84f52a0125.tar.gz"
+        },
+        "bbox": [
+            -122.30527496338,
+            47.477779388428,
+            -122.30313110352,
+            47.479804992676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.305229,
+                        47.479797
+                    ],
+                    [
+                        -122.303673,
+                        47.479515
+                    ],
+                    [
+                        -122.303131,
+                        47.478596
+                    ],
+                    [
+                        -122.303482,
+                        47.478226
+                    ],
+                    [
+                        -122.304749,
+                        47.477779
+                    ],
+                    [
+                        -122.305244,
+                        47.477985
+                    ],
+                    [
+                        -122.305275,
+                        47.479805
+                    ],
+                    [
+                        -122.305229,
+                        47.479797
+                    ]
+                ]
+            ]
+        ]
+    }
+}

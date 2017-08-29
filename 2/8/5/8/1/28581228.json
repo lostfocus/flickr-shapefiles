@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28581228,
+    "properties": {
+        "woe_id": 28581228,
+        "place_id": "WK20MYabCZki7q75yg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Koto 3 Chome, Kumamoto-shi, Kumamoto Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435405,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/28581228_20101215_3e3b16fc40.tar.gz"
+        },
+        "bbox": [
+            130.74119567871,
+            32.778121948242,
+            130.74157714844,
+            32.779628753662
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.741577,
+                        32.77813
+                    ],
+                    [
+                        130.741547,
+                        32.778122
+                    ],
+                    [
+                        130.741547,
+                        32.778175
+                    ],
+                    [
+                        130.741196,
+                        32.779629
+                    ],
+                    [
+                        130.741562,
+                        32.778172
+                    ],
+                    [
+                        130.741577,
+                        32.77813
+                    ]
+                ]
+            ]
+        ]
+    }
+}

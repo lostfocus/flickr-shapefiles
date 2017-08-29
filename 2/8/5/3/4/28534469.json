@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534469,
+    "properties": {
+        "woe_id": 28534469,
+        "place_id": "PMTKiW.bCZnVWEHhhA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kyowa 3 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521453,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28534469_20101216_59b2567c1c.tar.gz"
+        },
+        "bbox": [
+            139.39985656738,
+            35.559734344482,
+            139.40312194824,
+            35.563232421875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.401169,
+                        35.560333
+                    ],
+                    [
+                        139.40033,
+                        35.560749
+                    ],
+                    [
+                        139.399857,
+                        35.563232
+                    ],
+                    [
+                        139.402771,
+                        35.560997
+                    ],
+                    [
+                        139.403122,
+                        35.559734
+                    ],
+                    [
+                        139.401169,
+                        35.560333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

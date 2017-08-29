@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22726678,
+    "properties": {
+        "woe_id": 22726678,
+        "place_id": "6ma79iObA5tJHZoMYw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "New Lynn East, Waitakere, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457422,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/22726678_20101215_60fbb306b9.tar.gz"
+        },
+        "bbox": [
+            174.68721008301,
+            -36.913185119629,
+            174.68939208984,
+            -36.910339355469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.68721,
+                        -36.910343
+                    ],
+                    [
+                        174.68721,
+                        -36.910339
+                    ],
+                    [
+                        174.689392,
+                        -36.91238
+                    ],
+                    [
+                        174.689133,
+                        -36.913185
+                    ],
+                    [
+                        174.68721,
+                        -36.910343
+                    ]
+                ]
+            ]
+        ]
+    }
+}

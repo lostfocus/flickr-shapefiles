@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28505881,
+    "properties": {
+        "woe_id": 28505881,
+        "place_id": "MHBLqn6bCZkhxtKMpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Omachi 2 Chome, Rumoi-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509506,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28505881_20101216_61acf756ac.tar.gz"
+        },
+        "bbox": [
+            141.62950134277,
+            43.946998596191,
+            141.63368225098,
+            43.950317382812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.630005,
+                        43.946999
+                    ],
+                    [
+                        141.629501,
+                        43.947166
+                    ],
+                    [
+                        141.629669,
+                        43.947166
+                    ],
+                    [
+                        141.629837,
+                        43.947166
+                    ],
+                    [
+                        141.633682,
+                        43.950317
+                    ],
+                    [
+                        141.630005,
+                        43.946999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

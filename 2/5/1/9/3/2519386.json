@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519386,
+    "properties": {
+        "woe_id": 2519386,
+        "place_id": "aG9_U2SbBJ3YYN8q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "White Oak, Greensboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448727,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2519386_20101215_4a8c16256e.tar.gz"
+        },
+        "bbox": [
+            -79.778335571289,
+            36.107879638672,
+            -79.772331237793,
+            36.109741210938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.777496,
+                        36.108334
+                    ],
+                    [
+                        -79.778336,
+                        36.109741
+                    ],
+                    [
+                        -79.776772,
+                        36.108227
+                    ],
+                    [
+                        -79.772331,
+                        36.108875
+                    ],
+                    [
+                        -79.776886,
+                        36.10788
+                    ],
+                    [
+                        -79.777496,
+                        36.108334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

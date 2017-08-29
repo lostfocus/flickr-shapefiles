@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2367028,
+    "properties": {
+        "woe_id": 2367028,
+        "place_id": "wyHOtk6bApoxVmwc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Borough Park, New York, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456605,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2367028_20101215_ccc556951e.tar.gz"
+        },
+        "bbox": [
+            -73.99829864502,
+            40.629009246826,
+            -73.990432739258,
+            40.635711669922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.995369,
+                        40.631485
+                    ],
+                    [
+                        -73.991676,
+                        40.635712
+                    ],
+                    [
+                        -73.990433,
+                        40.631348
+                    ],
+                    [
+                        -73.995926,
+                        40.629913
+                    ],
+                    [
+                        -73.998299,
+                        40.629009
+                    ],
+                    [
+                        -73.99707,
+                        40.630711
+                    ],
+                    [
+                        -73.995369,
+                        40.631485
+                    ]
+                ]
+            ]
+        ]
+    }
+}

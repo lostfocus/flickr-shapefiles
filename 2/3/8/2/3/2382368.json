@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2382368,
+    "properties": {
+        "woe_id": 2382368,
+        "place_id": "Q.cx0e.bApTOmX75",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cobblestone, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234621924,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3392\/shapefiles\/2382368_20090214_7f00b07ce8.tar.gz"
+        },
+        "bbox": [
+            -111.9846572876,
+            40.663875579834,
+            -111.98089599609,
+            40.668285369873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.984657,
+                        40.666489
+                    ],
+                    [
+                        -111.982262,
+                        40.668285
+                    ],
+                    [
+                        -111.982094,
+                        40.667976
+                    ],
+                    [
+                        -111.980896,
+                        40.663876
+                    ],
+                    [
+                        -111.984657,
+                        40.666489
+                    ]
+                ]
+            ]
+        ]
+    }
+}

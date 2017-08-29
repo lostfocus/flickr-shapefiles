@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28527498,
+    "properties": {
+        "woe_id": 28527498,
+        "place_id": "qB5hIOKbCZnsgrmDRQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishiochiai 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442123,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/28527498_20101215_fb7c50d318.tar.gz"
+        },
+        "bbox": [
+            139.67904663086,
+            35.727935791016,
+            139.68058776855,
+            35.728931427002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.679047,
+                        35.728615
+                    ],
+                    [
+                        139.679504,
+                        35.728931
+                    ],
+                    [
+                        139.67981,
+                        35.728565
+                    ],
+                    [
+                        139.680588,
+                        35.727936
+                    ],
+                    [
+                        139.680054,
+                        35.728268
+                    ],
+                    [
+                        139.679047,
+                        35.728615
+                    ]
+                ]
+            ]
+        ]
+    }
+}

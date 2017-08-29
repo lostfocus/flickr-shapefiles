@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2385526,
+    "properties": {
+        "woe_id": 2385526,
+        "place_id": "6zfZrpibApREfkuU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cottageville, North Brunswick, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529907,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2385526_20101216_0cb793c84c.tar.gz"
+        },
+        "bbox": [
+            -74.499000549316,
+            40.407833099365,
+            -74.496917724609,
+            40.410488128662
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.497459,
+                        40.41003
+                    ],
+                    [
+                        -74.496918,
+                        40.408413
+                    ],
+                    [
+                        -74.499001,
+                        40.407833
+                    ],
+                    [
+                        -74.498726,
+                        40.408485
+                    ],
+                    [
+                        -74.498116,
+                        40.410488
+                    ],
+                    [
+                        -74.497459,
+                        40.41003
+                    ]
+                ]
+            ]
+        ]
+    }
+}

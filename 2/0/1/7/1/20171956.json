@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20171956,
+    "properties": {
+        "woe_id": 20171956,
+        "place_id": "dVkZ7q6bAZ0KjHVwSg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wehringhausen, Hagen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543213,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/20171956_20101216_20bb314f69.tar.gz"
+        },
+        "bbox": [
+            7.4551138877869,
+            51.350666046143,
+            7.4573612213135,
+            51.354122161865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.455114,
+                        51.354122
+                    ],
+                    [
+                        7.457361,
+                        51.353146
+                    ],
+                    [
+                        7.456197,
+                        51.350826
+                    ],
+                    [
+                        7.455543,
+                        51.350666
+                    ],
+                    [
+                        7.455114,
+                        51.354122
+                    ]
+                ]
+            ]
+        ]
+    }
+}

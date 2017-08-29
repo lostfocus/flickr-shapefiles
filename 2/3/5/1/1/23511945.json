@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23511945,
+    "properties": {
+        "woe_id": 23511945,
+        "place_id": "Oq8QVSebApntlu1fiQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Irving Park, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508844,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/23511945_20101216_e7dae502c8.tar.gz"
+        },
+        "bbox": [
+            -87.732276916504,
+            41.949848175049,
+            -87.727416992188,
+            41.953681945801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.727417,
+                        41.952709
+                    ],
+                    [
+                        -87.727531,
+                        41.951431
+                    ],
+                    [
+                        -87.732277,
+                        41.949848
+                    ],
+                    [
+                        -87.731834,
+                        41.953682
+                    ],
+                    [
+                        -87.730293,
+                        41.953602
+                    ],
+                    [
+                        -87.727417,
+                        41.952709
+                    ]
+                ]
+            ]
+        ]
+    }
+}

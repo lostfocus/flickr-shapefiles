@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229280,
+    "properties": {
+        "woe_id": 20229280,
+        "place_id": "6lUZ0aWbAZ74BLMVkw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "K\u00f8dboderne, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522501,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/20229280_20101216_e14a39469e.tar.gz"
+        },
+        "bbox": [
+            12.559110641479,
+            55.666728973389,
+            12.564432144165,
+            55.667957305908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.563333,
+                        55.667221
+                    ],
+                    [
+                        12.562694,
+                        55.666935
+                    ],
+                    [
+                        12.559111,
+                        55.666729
+                    ],
+                    [
+                        12.562689,
+                        55.667957
+                    ],
+                    [
+                        12.563837,
+                        55.667908
+                    ],
+                    [
+                        12.564432,
+                        55.667553
+                    ],
+                    [
+                        12.563333,
+                        55.667221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

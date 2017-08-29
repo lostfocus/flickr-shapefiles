@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528941,
+    "properties": {
+        "woe_id": 28528941,
+        "place_id": "nCZX2vibCZl2l62X4A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ikebukurohoncho 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391723,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/28528941_20101215_644ef1af3b.tar.gz"
+        },
+        "bbox": [
+            139.71318054199,
+            35.737319946289,
+            139.7166595459,
+            35.741039276123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.716507,
+                        35.740334
+                    ],
+                    [
+                        139.71666,
+                        35.740067
+                    ],
+                    [
+                        139.716339,
+                        35.738834
+                    ],
+                    [
+                        139.714325,
+                        35.73732
+                    ],
+                    [
+                        139.713181,
+                        35.741039
+                    ],
+                    [
+                        139.716507,
+                        35.740334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

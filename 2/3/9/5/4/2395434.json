@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395434,
+    "properties": {
+        "woe_id": 2395434,
+        "place_id": "3nkf7MqbApX95ywT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Chester, Chester, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537359,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2395434_20101216_d73b59a03e.tar.gz"
+        },
+        "bbox": [
+            -74.284896850586,
+            41.354831695557,
+            -74.278732299805,
+            41.360237121582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.282799,
+                        41.35659
+                    ],
+                    [
+                        -74.284897,
+                        41.358105
+                    ],
+                    [
+                        -74.283371,
+                        41.360237
+                    ],
+                    [
+                        -74.278732,
+                        41.357613
+                    ],
+                    [
+                        -74.281502,
+                        41.354832
+                    ],
+                    [
+                        -74.282799,
+                        41.35659
+                    ]
+                ]
+            ]
+        ]
+    }
+}

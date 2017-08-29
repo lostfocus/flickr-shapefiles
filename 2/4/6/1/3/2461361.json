@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461361,
+    "properties": {
+        "woe_id": 2461361,
+        "place_id": "gHuptVebBZqdrQct",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Mullins, Mullins, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440923,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/2461361_20101215_c04e3fcb27.tar.gz"
+        },
+        "bbox": [
+            -79.254455566406,
+            34.20539855957,
+            -79.248931884766,
+            34.206424713135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.254417,
+                        34.205559
+                    ],
+                    [
+                        -79.254456,
+                        34.205616
+                    ],
+                    [
+                        -79.254242,
+                        34.20554
+                    ],
+                    [
+                        -79.248932,
+                        34.206425
+                    ],
+                    [
+                        -79.254158,
+                        34.205399
+                    ],
+                    [
+                        -79.254417,
+                        34.205559
+                    ]
+                ]
+            ]
+        ]
+    }
+}

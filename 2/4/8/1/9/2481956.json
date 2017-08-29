@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481956,
+    "properties": {
+        "woe_id": 2481956,
+        "place_id": "tpdxTzGbBZS4p5hq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River West, Mansfield, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525598,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2481956_20101216_730410670e.tar.gz"
+        },
+        "bbox": [
+            -77.089111328125,
+            41.805522918701,
+            -77.080078125,
+            41.807964324951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.083084,
+                        41.805523
+                    ],
+                    [
+                        -77.084198,
+                        41.80587
+                    ],
+                    [
+                        -77.089111,
+                        41.807964
+                    ],
+                    [
+                        -77.083679,
+                        41.806522
+                    ],
+                    [
+                        -77.080078,
+                        41.807556
+                    ],
+                    [
+                        -77.083084,
+                        41.805523
+                    ]
+                ]
+            ]
+        ]
+    }
+}

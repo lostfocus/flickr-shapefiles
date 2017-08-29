@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451663,
+    "properties": {
+        "woe_id": 2451663,
+        "place_id": "_cmVbbCbBZnvthbv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millville, Exeter, RI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248190105,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2621\/shapefiles\/2451663_20090721_fd9275393b.tar.gz"
+        },
+        "bbox": [
+            -71.688018798828,
+            41.547355651855,
+            -71.679824829102,
+            41.561645507812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.682312,
+                        41.561646
+                    ],
+                    [
+                        -71.679825,
+                        41.5611
+                    ],
+                    [
+                        -71.680901,
+                        41.547356
+                    ],
+                    [
+                        -71.685188,
+                        41.556107
+                    ],
+                    [
+                        -71.688019,
+                        41.560684
+                    ],
+                    [
+                        -71.682312,
+                        41.561646
+                    ]
+                ]
+            ]
+        ]
+    }
+}

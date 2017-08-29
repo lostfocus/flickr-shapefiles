@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2498007,
+    "properties": {
+        "woe_id": 2498007,
+        "place_id": "O5AmHqqbBZWsqTlW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Lake, Rehoboth Beach, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452012,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2498007_20101215_3c98d36393.tar.gz"
+        },
+        "bbox": [
+            -75.091499328613,
+            38.701587677002,
+            -75.087303161621,
+            38.706760406494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.089333,
+                        38.704166
+                    ],
+                    [
+                        -75.087929,
+                        38.70676
+                    ],
+                    [
+                        -75.087303,
+                        38.703823
+                    ],
+                    [
+                        -75.088463,
+                        38.701588
+                    ],
+                    [
+                        -75.091499,
+                        38.702831
+                    ],
+                    [
+                        -75.089996,
+                        38.703667
+                    ],
+                    [
+                        -75.089333,
+                        38.704166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

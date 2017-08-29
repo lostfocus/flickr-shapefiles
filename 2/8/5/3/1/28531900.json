@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28531900,
+    "properties": {
+        "woe_id": 28531900,
+        "place_id": "wZOMUSCbCZmCJTPz1g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shioiricho 3 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496304,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/28531900_20101216_efc64b35bb.tar.gz"
+        },
+        "bbox": [
+            139.68952941895,
+            35.493591308594,
+            139.69271850586,
+            35.499034881592
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.689606,
+                        35.496147
+                    ],
+                    [
+                        139.689529,
+                        35.496292
+                    ],
+                    [
+                        139.689911,
+                        35.496944
+                    ],
+                    [
+                        139.691589,
+                        35.499035
+                    ],
+                    [
+                        139.692719,
+                        35.497971
+                    ],
+                    [
+                        139.690125,
+                        35.493591
+                    ],
+                    [
+                        139.689606,
+                        35.496147
+                    ]
+                ]
+            ]
+        ]
+    }
+}

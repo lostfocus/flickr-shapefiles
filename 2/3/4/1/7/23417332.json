@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417332,
+    "properties": {
+        "woe_id": 23417332,
+        "place_id": "PjKtAJCbApjlglJdhw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riverland, Fort Lauderdale, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549942,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/23417332_20101217_c51d301941.tar.gz"
+        },
+        "bbox": [
+            -80.170150756836,
+            26.114433288574,
+            -80.16902923584,
+            26.119760513306
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.169701,
+                        26.119452
+                    ],
+                    [
+                        -80.169685,
+                        26.119217
+                    ],
+                    [
+                        -80.169029,
+                        26.114433
+                    ],
+                    [
+                        -80.170151,
+                        26.119396
+                    ],
+                    [
+                        -80.169708,
+                        26.119761
+                    ],
+                    [
+                        -80.169701,
+                        26.119452
+                    ]
+                ]
+            ]
+        ]
+    }
+}

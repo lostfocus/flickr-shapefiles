@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23511965,
+    "properties": {
+        "woe_id": 23511965,
+        "place_id": "vRkaUi2bApkncZ0PPg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Central Area Ndc, Los Angeles, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519057,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/23511965_20101216_f4c1ec1f2a.tar.gz"
+        },
+        "bbox": [
+            -118.31349945068,
+            33.982051849365,
+            -118.30867767334,
+            33.989208221436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.308762,
+                        33.982052
+                    ],
+                    [
+                        -118.313499,
+                        33.984833
+                    ],
+                    [
+                        -118.311607,
+                        33.989208
+                    ],
+                    [
+                        -118.308846,
+                        33.984932
+                    ],
+                    [
+                        -118.308678,
+                        33.982796
+                    ],
+                    [
+                        -118.308762,
+                        33.982052
+                    ]
+                ]
+            ]
+        ]
+    }
+}

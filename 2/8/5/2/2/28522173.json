@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522173,
+    "properties": {
+        "woe_id": 28522173,
+        "place_id": "DAqaRiibCZmoM_nNWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ota 3 Chome, Saitama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455198,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/28522173_20101215_6b26d94660.tar.gz"
+        },
+        "bbox": [
+            139.70896911621,
+            35.950729370117,
+            139.71099853516,
+            35.952831268311
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.710831,
+                        35.952831
+                    ],
+                    [
+                        139.710999,
+                        35.952499
+                    ],
+                    [
+                        139.708969,
+                        35.950729
+                    ],
+                    [
+                        139.709366,
+                        35.952282
+                    ],
+                    [
+                        139.710159,
+                        35.952667
+                    ],
+                    [
+                        139.710831,
+                        35.952831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2445073,
+    "properties": {
+        "woe_id": 2445073,
+        "place_id": "n_SCVNqbBZjORRw4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mantyranta, Westminster, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234571644,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3317\/shapefiles\/2445073_20090214_1fb2c5ffec.tar.gz"
+        },
+        "bbox": [
+            -71.887664794922,
+            42.540298461914,
+            -71.883117675781,
+            42.549919128418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.886314,
+                        42.549427
+                    ],
+                    [
+                        -71.883118,
+                        42.540585
+                    ],
+                    [
+                        -71.883415,
+                        42.540298
+                    ],
+                    [
+                        -71.887665,
+                        42.549919
+                    ],
+                    [
+                        -71.886314,
+                        42.549427
+                    ]
+                ]
+            ]
+        ]
+    }
+}

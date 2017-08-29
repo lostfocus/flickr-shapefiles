@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746242,
+    "properties": {
+        "woe_id": 28746242,
+        "place_id": "P4N4vBubCZvdY9uNOg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barley Sheaf, Frenchtown, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247994733,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3495\/shapefiles\/28746242_20090719_883f36775c.tar.gz"
+        },
+        "bbox": [
+            -74.985107421875,
+            40.539066314697,
+            -74.97868347168,
+            40.556552886963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.978683,
+                        40.556553
+                    ],
+                    [
+                        -74.981346,
+                        40.539894
+                    ],
+                    [
+                        -74.984436,
+                        40.539112
+                    ],
+                    [
+                        -74.985107,
+                        40.539066
+                    ],
+                    [
+                        -74.978683,
+                        40.556553
+                    ]
+                ]
+            ]
+        ]
+    }
+}

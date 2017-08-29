@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2434619,
+    "properties": {
+        "woe_id": 2434619,
+        "place_id": "8z7mIZabBZ.nlVJN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lagoon Beach, Bay City, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451841,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2434619_20101215_c4a621d722.tar.gz"
+        },
+        "bbox": [
+            -83.904304504395,
+            43.662158966064,
+            -83.900871276855,
+            43.667621612549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.902931,
+                        43.662968
+                    ],
+                    [
+                        -83.904305,
+                        43.667126
+                    ],
+                    [
+                        -83.902504,
+                        43.667622
+                    ],
+                    [
+                        -83.900871,
+                        43.662624
+                    ],
+                    [
+                        -83.901382,
+                        43.662159
+                    ],
+                    [
+                        -83.902931,
+                        43.662968
+                    ]
+                ]
+            ]
+        ]
+    }
+}

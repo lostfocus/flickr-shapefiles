@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395722,
+    "properties": {
+        "woe_id": 2395722,
+        "place_id": "UXUWLO2bApV6xYlV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Honesdale, Honesdale, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248099489,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3461\/shapefiles\/2395722_20090720_6940f441a7.tar.gz"
+        },
+        "bbox": [
+            -75.25479888916,
+            41.558723449707,
+            -75.245498657227,
+            41.563411712646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.254028,
+                        41.558723
+                    ],
+                    [
+                        -75.254799,
+                        41.56216
+                    ],
+                    [
+                        -75.249718,
+                        41.563229
+                    ],
+                    [
+                        -75.248795,
+                        41.563412
+                    ],
+                    [
+                        -75.245499,
+                        41.561756
+                    ],
+                    [
+                        -75.254028,
+                        41.558723
+                    ]
+                ]
+            ]
+        ]
+    }
+}

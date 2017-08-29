@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492640,
+    "properties": {
+        "woe_id": 2492640,
+        "place_id": "NuktkeSbBZUFeHRt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sherwood Manor, Salisbury, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451999,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2492640_20101215_f23a28c3ef.tar.gz"
+        },
+        "bbox": [
+            -75.542976379395,
+            38.38399887085,
+            -75.541000366211,
+            38.388664245605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.542976,
+                        38.386398
+                    ],
+                    [
+                        -75.542503,
+                        38.388664
+                    ],
+                    [
+                        -75.541801,
+                        38.386887
+                    ],
+                    [
+                        -75.541336,
+                        38.385666
+                    ],
+                    [
+                        -75.541,
+                        38.383999
+                    ],
+                    [
+                        -75.542976,
+                        38.386398
+                    ]
+                ]
+            ]
+        ]
+    }
+}

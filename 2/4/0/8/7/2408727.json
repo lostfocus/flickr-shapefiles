@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2408727,
+    "properties": {
+        "woe_id": 2408727,
+        "place_id": "8nnAEi6bBZzDRO2X",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Garden Acres, Burleson, TX, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248142803,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2591\/shapefiles\/2408727_20090721_be16f0f1c8.tar.gz"
+        },
+        "bbox": [
+            -97.326560974121,
+            32.594638824463,
+            -97.299041748047,
+            32.613670349121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.319572,
+                        32.594639
+                    ],
+                    [
+                        -97.326561,
+                        32.598286
+                    ],
+                    [
+                        -97.321053,
+                        32.61367
+                    ],
+                    [
+                        -97.319183,
+                        32.598484
+                    ],
+                    [
+                        -97.299042,
+                        32.60236
+                    ],
+                    [
+                        -97.319572,
+                        32.594639
+                    ]
+                ]
+            ]
+        ]
+    }
+}

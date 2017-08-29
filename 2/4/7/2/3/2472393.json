@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2472393,
+    "properties": {
+        "woe_id": 2472393,
+        "place_id": "rNVjmaGbBZtNbpNm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Run, Doylestown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529387,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/2472393_20101216_fbef665a8b.tar.gz"
+        },
+        "bbox": [
+            -75.152038574219,
+            40.333656311035,
+            -75.151626586914,
+            40.334072113037
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.151627,
+                        40.333775
+                    ],
+                    [
+                        -75.151642,
+                        40.333721
+                    ],
+                    [
+                        -75.15168,
+                        40.333702
+                    ],
+                    [
+                        -75.15184,
+                        40.333656
+                    ],
+                    [
+                        -75.152039,
+                        40.334015
+                    ],
+                    [
+                        -75.151779,
+                        40.334072
+                    ],
+                    [
+                        -75.151627,
+                        40.333775
+                    ]
+                ]
+            ]
+        ]
+    }
+}

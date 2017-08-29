@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551032,
+    "properties": {
+        "woe_id": 24551032,
+        "place_id": "nud_FFibBZkbjC2NQA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "El Paraiso, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239584907,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3375\/shapefiles\/24551032_20090413_dc5fe4167d.tar.gz"
+        },
+        "bbox": [
+            -66.054496765137,
+            18.380352020264,
+            -66.05347442627,
+            18.381540298462
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.054443,
+                        18.380352
+                    ],
+                    [
+                        -66.054459,
+                        18.380352
+                    ],
+                    [
+                        -66.054497,
+                        18.38154
+                    ],
+                    [
+                        -66.053474,
+                        18.381083
+                    ],
+                    [
+                        -66.053673,
+                        18.380869
+                    ],
+                    [
+                        -66.054443,
+                        18.380352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

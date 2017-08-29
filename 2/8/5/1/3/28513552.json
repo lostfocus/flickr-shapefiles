@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28513552,
+    "properties": {
+        "woe_id": 28513552,
+        "place_id": "OPMgrXWbCZl5lyhdgA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maruyama 2 Chome, Nakashibetsu-cho, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452775,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28513552_20101215_20fffcfef0.tar.gz"
+        },
+        "bbox": [
+            144.97050476074,
+            43.553333282471,
+            144.97166442871,
+            43.555332183838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.970505,
+                        43.553665
+                    ],
+                    [
+                        144.970673,
+                        43.553833
+                    ],
+                    [
+                        144.971664,
+                        43.555332
+                    ],
+                    [
+                        144.970993,
+                        43.553333
+                    ],
+                    [
+                        144.970673,
+                        43.553333
+                    ],
+                    [
+                        144.970505,
+                        43.553665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

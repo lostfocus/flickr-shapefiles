@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2356159,
+    "properties": {
+        "woe_id": 2356159,
+        "place_id": "gIZjYLKbApkjzrAw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arnold Mill, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248290778,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3498\/shapefiles\/2356159_20090722_1a000d1aae.tar.gz"
+        },
+        "bbox": [
+            -84.49910736084,
+            34.129680633545,
+            -84.493942260742,
+            34.131416320801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.493942,
+                        34.130756
+                    ],
+                    [
+                        -84.493942,
+                        34.129681
+                    ],
+                    [
+                        -84.493965,
+                        34.129749
+                    ],
+                    [
+                        -84.499107,
+                        34.131416
+                    ],
+                    [
+                        -84.493942,
+                        34.130756
+                    ]
+                ]
+            ]
+        ]
+    }
+}

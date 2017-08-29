@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2391273,
+    "properties": {
+        "woe_id": 2391273,
+        "place_id": "vH0JiCebApW9aHGJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Denver, Norman, OK, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292484190,
+        "alpha": 1.0e-5,
+        "points": 47,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2391273_20101216_511ba59b6e.tar.gz"
+        },
+        "bbox": [
+            -97.253982543945,
+            35.208389282227,
+            -97.247200012207,
+            35.211475372314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.25248,
+                        35.210808
+                    ],
+                    [
+                        -97.2472,
+                        35.211475
+                    ],
+                    [
+                        -97.252266,
+                        35.208389
+                    ],
+                    [
+                        -97.253487,
+                        35.209591
+                    ],
+                    [
+                        -97.253983,
+                        35.211266
+                    ],
+                    [
+                        -97.25248,
+                        35.210808
+                    ]
+                ]
+            ]
+        ]
+    }
+}

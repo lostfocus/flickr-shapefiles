@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28537444,
+    "properties": {
+        "woe_id": 28537444,
+        "place_id": "EZOdklubCZn6NuplTg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sengokumachi 1 Chome, Toyama-shi, Toyama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524789,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/28537444_20101216_536305e681.tar.gz"
+        },
+        "bbox": [
+            137.21142578125,
+            36.686943054199,
+            137.21249389648,
+            36.688999176025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.212173,
+                        36.687164
+                    ],
+                    [
+                        137.211426,
+                        36.688999
+                    ],
+                    [
+                        137.212326,
+                        36.688332
+                    ],
+                    [
+                        137.212494,
+                        36.687332
+                    ],
+                    [
+                        137.212219,
+                        36.686943
+                    ],
+                    [
+                        137.212173,
+                        36.687164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

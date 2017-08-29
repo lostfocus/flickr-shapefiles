@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28567846,
+    "properties": {
+        "woe_id": 28567846,
+        "place_id": "25P_pfubCZn0aVfelg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamitsukaguchicho 1 Chome, Amagasaki-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446199,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/28567846_20101215_3083465fe0.tar.gz"
+        },
+        "bbox": [
+            135.41377258301,
+            34.748958587646,
+            135.41488647461,
+            34.752487182617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.413773,
+                        34.751793
+                    ],
+                    [
+                        135.414001,
+                        34.752487
+                    ],
+                    [
+                        135.414612,
+                        34.752422
+                    ],
+                    [
+                        135.414886,
+                        34.751991
+                    ],
+                    [
+                        135.414703,
+                        34.751446
+                    ],
+                    [
+                        135.414871,
+                        34.748959
+                    ],
+                    [
+                        135.413773,
+                        34.751793
+                    ]
+                ]
+            ]
+        ]
+    }
+}

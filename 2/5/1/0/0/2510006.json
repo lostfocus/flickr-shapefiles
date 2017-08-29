@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2510006,
+    "properties": {
+        "woe_id": 2510006,
+        "place_id": "4Z1q2T2bBJ0b6Uqn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unionville, Rochester, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247766003,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3445\/shapefiles\/2510006_20090716_94c32c227e.tar.gz"
+        },
+        "bbox": [
+            -80.210021972656,
+            40.736755371094,
+            -80.198394775391,
+            40.749282836914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.198395,
+                        40.739487
+                    ],
+                    [
+                        -80.198608,
+                        40.736755
+                    ],
+                    [
+                        -80.200195,
+                        40.741665
+                    ],
+                    [
+                        -80.210022,
+                        40.749283
+                    ],
+                    [
+                        -80.200668,
+                        40.74575
+                    ],
+                    [
+                        -80.198395,
+                        40.739487
+                    ]
+                ]
+            ]
+        ]
+    }
+}

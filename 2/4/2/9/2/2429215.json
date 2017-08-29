@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2429215,
+    "properties": {
+        "woe_id": 2429215,
+        "place_id": "DXL9WUGbBZ6Um9Mv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jerusalem, Poolesville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537361,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2429215_20101216_b65787104c.tar.gz"
+        },
+        "bbox": [
+            -77.389022827148,
+            39.164901733398,
+            -77.387855529785,
+            39.169681549072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.387939,
+                        39.165367
+                    ],
+                    [
+                        -77.387939,
+                        39.165337
+                    ],
+                    [
+                        -77.387939,
+                        39.164902
+                    ],
+                    [
+                        -77.389023,
+                        39.16573
+                    ],
+                    [
+                        -77.387856,
+                        39.169682
+                    ],
+                    [
+                        -77.387939,
+                        39.165367
+                    ]
+                ]
+            ]
+        ]
+    }
+}

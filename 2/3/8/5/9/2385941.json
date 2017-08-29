@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2385941,
+    "properties": {
+        "woe_id": 2385941,
+        "place_id": "KZHygYybApT37XUi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Country Manor, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539181,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2385941_20101216_ece7b69775.tar.gz"
+        },
+        "bbox": [
+            -91.03052520752,
+            30.408052444458,
+            -91.023544311523,
+            30.411500930786
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.025169,
+                        30.411501
+                    ],
+                    [
+                        -91.023544,
+                        30.409494
+                    ],
+                    [
+                        -91.026169,
+                        30.408339
+                    ],
+                    [
+                        -91.027321,
+                        30.408052
+                    ],
+                    [
+                        -91.030525,
+                        30.409725
+                    ],
+                    [
+                        -91.025169,
+                        30.411501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

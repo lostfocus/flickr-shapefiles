@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 2492343,
+    "properties": {
+        "woe_id": 2492343,
+        "place_id": "P99KiBGbBZWhFexQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shepherd Park, Washington, DC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542630,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/2492343_20101216_1445bb9ac4.tar.gz"
+        },
+        "bbox": [
+            -77.02791595459,
+            38.995948791504,
+            -77.025108337402,
+            38.997367858887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.025818,
+                        38.996483
+                    ],
+                    [
+                        -77.026207,
+                        38.996147
+                    ],
+                    [
+                        -77.027016,
+                        38.995949
+                    ],
+                    [
+                        -77.027916,
+                        38.996056
+                    ],
+                    [
+                        -77.027847,
+                        38.996216
+                    ],
+                    [
+                        -77.027397,
+                        38.99704
+                    ],
+                    [
+                        -77.027031,
+                        38.997368
+                    ],
+                    [
+                        -77.025108,
+                        38.996933
+                    ],
+                    [
+                        -77.025818,
+                        38.996483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

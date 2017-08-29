@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2412042,
+    "properties": {
+        "woe_id": 2412042,
+        "place_id": "FCYOHpabBZ2qlFFh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wells, St. Louis, MO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523291,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2412042_20101216_d659f26395.tar.gz"
+        },
+        "bbox": [
+            -90.286499023438,
+            38.678375244141,
+            -90.285003662109,
+            38.682327270508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.286499,
+                        38.681332
+                    ],
+                    [
+                        -90.285767,
+                        38.682327
+                    ],
+                    [
+                        -90.285004,
+                        38.681
+                    ],
+                    [
+                        -90.285301,
+                        38.678375
+                    ],
+                    [
+                        -90.2855,
+                        38.678501
+                    ],
+                    [
+                        -90.286499,
+                        38.681332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

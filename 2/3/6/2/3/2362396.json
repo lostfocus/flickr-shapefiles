@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2362396,
+    "properties": {
+        "woe_id": 2362396,
+        "place_id": "i8MHAsubApryz67q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belview Heights, Huntsville, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537331,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2362396_20101216_174b7f33a6.tar.gz"
+        },
+        "bbox": [
+            -86.547500610352,
+            34.643180847168,
+            -86.545799255371,
+            34.646331787109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.546646,
+                        34.645725
+                    ],
+                    [
+                        -86.545799,
+                        34.644798
+                    ],
+                    [
+                        -86.546577,
+                        34.643181
+                    ],
+                    [
+                        -86.546669,
+                        34.644833
+                    ],
+                    [
+                        -86.547501,
+                        34.646332
+                    ],
+                    [
+                        -86.546646,
+                        34.645725
+                    ]
+                ]
+            ]
+        ]
+    }
+}

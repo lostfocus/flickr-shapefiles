@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20150505,
+    "properties": {
+        "woe_id": 20150505,
+        "place_id": "fi8srr6bAZ04lAKbVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Villaggio Artigiani, Reggio nell'Emilia, ER, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527744,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/20150505_20101216_1e85170f96.tar.gz"
+        },
+        "bbox": [
+            10.604038238525,
+            44.733989715576,
+            10.61056137085,
+            44.737342834473
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.610561,
+                        44.73637
+                    ],
+                    [
+                        10.607514,
+                        44.73399
+                    ],
+                    [
+                        10.604038,
+                        44.737343
+                    ],
+                    [
+                        10.609874,
+                        44.736492
+                    ],
+                    [
+                        10.610561,
+                        44.73637
+                    ]
+                ]
+            ]
+        ]
+    }
+}

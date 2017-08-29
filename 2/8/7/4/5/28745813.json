@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745813,
+    "properties": {
+        "woe_id": 28745813,
+        "place_id": "Kx05522bCZtFbXjDKQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millers, Goldsboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528648,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/28745813_20101216_b703b802e5.tar.gz"
+        },
+        "bbox": [
+            -77.942329406738,
+            35.376331329346,
+            -77.941497802734,
+            35.377166748047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.941887,
+                        35.376652
+                    ],
+                    [
+                        -77.941498,
+                        35.376331
+                    ],
+                    [
+                        -77.941666,
+                        35.376331
+                    ],
+                    [
+                        -77.942291,
+                        35.376804
+                    ],
+                    [
+                        -77.942329,
+                        35.377167
+                    ],
+                    [
+                        -77.941887,
+                        35.376652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 24928613,
+    "properties": {
+        "woe_id": 24928613,
+        "place_id": "bx5.e1abBZXWTuSuTA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Prague 16, Prague 5, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292508483,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/24928613_20101216_0ed4820d46.tar.gz"
+        },
+        "bbox": [
+            14.356384277344,
+            49.982357025146,
+            14.366876602173,
+            49.988235473633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.356384,
+                        49.982357
+                    ],
+                    [
+                        14.3581,
+                        49.986221
+                    ],
+                    [
+                        14.362349,
+                        49.988029
+                    ],
+                    [
+                        14.366877,
+                        49.988235
+                    ],
+                    [
+                        14.362456,
+                        49.98782
+                    ],
+                    [
+                        14.358959,
+                        49.98473
+                    ],
+                    [
+                        14.356384,
+                        49.982357
+                    ]
+                ]
+            ]
+        ]
+    }
+}

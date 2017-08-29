@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559264,
+    "properties": {
+        "woe_id": 28559264,
+        "place_id": "qLRSVu2bCZlSTqfT4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nankohigashi 6 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519160,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28559264_20101216_015c29cb01.tar.gz"
+        },
+        "bbox": [
+            135.43824768066,
+            34.636455535889,
+            135.44488525391,
+            34.640071868896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.438248,
+                        34.636456
+                    ],
+                    [
+                        135.441711,
+                        34.640072
+                    ],
+                    [
+                        135.441864,
+                        34.639416
+                    ],
+                    [
+                        135.444885,
+                        34.637165
+                    ],
+                    [
+                        135.442184,
+                        34.638458
+                    ],
+                    [
+                        135.438248,
+                        34.636456
+                    ]
+                ]
+            ]
+        ]
+    }
+}

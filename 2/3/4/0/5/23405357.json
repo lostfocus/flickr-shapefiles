@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23405357,
+    "properties": {
+        "woe_id": 23405357,
+        "place_id": "dxUGoR.bAphdEY4b2Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westsyde, Kamloops, BC, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541816,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/23405357_20101216_ec55889c72.tar.gz"
+        },
+        "bbox": [
+            -120.34573364258,
+            50.782726287842,
+            -120.34194946289,
+            50.788208007812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -120.341949,
+                        50.785645
+                    ],
+                    [
+                        -120.342056,
+                        50.784531
+                    ],
+                    [
+                        -120.342255,
+                        50.784557
+                    ],
+                    [
+                        -120.345734,
+                        50.782726
+                    ],
+                    [
+                        -120.343887,
+                        50.788208
+                    ],
+                    [
+                        -120.341949,
+                        50.785645
+                    ]
+                ]
+            ]
+        ]
+    }
+}

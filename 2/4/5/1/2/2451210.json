@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451210,
+    "properties": {
+        "woe_id": 2451210,
+        "place_id": "KM0ELHybBZktQ1j.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millbrook, North Haven, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544314,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/2451210_20101217_95e8f469a5.tar.gz"
+        },
+        "bbox": [
+            -72.898498535156,
+            41.379253387451,
+            -72.89444732666,
+            41.385665893555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.898499,
+                        41.384499
+                    ],
+                    [
+                        -72.896835,
+                        41.385666
+                    ],
+                    [
+                        -72.894447,
+                        41.383644
+                    ],
+                    [
+                        -72.898232,
+                        41.379253
+                    ],
+                    [
+                        -72.898483,
+                        41.384434
+                    ],
+                    [
+                        -72.898499,
+                        41.384499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

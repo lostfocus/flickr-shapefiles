@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2386609,
+    "properties": {
+        "woe_id": 2386609,
+        "place_id": "NbHRGN6bApTxQTJn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Craigville, Chester, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517444,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2386609_20101216_5c04af1512.tar.gz"
+        },
+        "bbox": [
+            -74.238746643066,
+            41.378814697266,
+            -74.235321044922,
+            41.384761810303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.235321,
+                        41.38253
+                    ],
+                    [
+                        -74.238747,
+                        41.378815
+                    ],
+                    [
+                        -74.238708,
+                        41.384689
+                    ],
+                    [
+                        -74.237602,
+                        41.384762
+                    ],
+                    [
+                        -74.23645,
+                        41.384415
+                    ],
+                    [
+                        -74.235321,
+                        41.38253
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2377114,
+    "properties": {
+        "woe_id": 2377114,
+        "place_id": "xB8pyMCbApsJF267",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cedarwood, Rock Hill, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524190,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2377114_20101216_b0b7157b14.tar.gz"
+        },
+        "bbox": [
+            -80.987434387207,
+            34.979236602783,
+            -80.981895446777,
+            34.984035491943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.982285,
+                        34.979736
+                    ],
+                    [
+                        -80.981895,
+                        34.979675
+                    ],
+                    [
+                        -80.982231,
+                        34.979378
+                    ],
+                    [
+                        -80.987434,
+                        34.979237
+                    ],
+                    [
+                        -80.986359,
+                        34.984035
+                    ],
+                    [
+                        -80.982285,
+                        34.979736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

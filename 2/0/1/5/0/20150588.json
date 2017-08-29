@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150588,
+    "properties": {
+        "woe_id": 20150588,
+        "place_id": "qpA3OnubAZ0eotr8kA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valle di Rozzol, Trieste, FV, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292480283,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20150588_20101216_dfd6e12aba.tar.gz"
+        },
+        "bbox": [
+            13.795330047607,
+            45.639915466309,
+            13.802947044373,
+            45.64359664917
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.801403,
+                        45.643425
+                    ],
+                    [
+                        13.802947,
+                        45.642849
+                    ],
+                    [
+                        13.802883,
+                        45.639915
+                    ],
+                    [
+                        13.796875,
+                        45.640388
+                    ],
+                    [
+                        13.79533,
+                        45.643597
+                    ],
+                    [
+                        13.801403,
+                        45.643425
+                    ]
+                ]
+            ]
+        ]
+    }
+}

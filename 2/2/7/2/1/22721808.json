@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22721808,
+    "properties": {
+        "woe_id": 22721808,
+        "place_id": "sXWwvXSbA5uRgWIqRA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park Orchards, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455017,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/22721808_20101215_ffb46c9503.tar.gz"
+        },
+        "bbox": [
+            145.21496582031,
+            -37.78426361084,
+            145.21827697754,
+            -37.779071807861
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.215561,
+                        -37.782791
+                    ],
+                    [
+                        145.218277,
+                        -37.779072
+                    ],
+                    [
+                        145.216446,
+                        -37.782932
+                    ],
+                    [
+                        145.214966,
+                        -37.784264
+                    ],
+                    [
+                        145.215561,
+                        -37.782791
+                    ]
+                ]
+            ]
+        ]
+    }
+}

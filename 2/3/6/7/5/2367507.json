@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2367507,
+    "properties": {
+        "woe_id": 2367507,
+        "place_id": "t2dhPOObApqjqjCG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bowman Acres, Greenfield, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524190,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2367507_20101216_83bc7f0e9a.tar.gz"
+        },
+        "bbox": [
+            -85.773307800293,
+            39.784713745117,
+            -85.769317626953,
+            39.785552978516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.773193,
+                        39.784943
+                    ],
+                    [
+                        -85.773308,
+                        39.785191
+                    ],
+                    [
+                        -85.771103,
+                        39.785301
+                    ],
+                    [
+                        -85.769318,
+                        39.785553
+                    ],
+                    [
+                        -85.770264,
+                        39.784794
+                    ],
+                    [
+                        -85.772491,
+                        39.784714
+                    ],
+                    [
+                        -85.773193,
+                        39.784943
+                    ]
+                ]
+            ]
+        ]
+    }
+}

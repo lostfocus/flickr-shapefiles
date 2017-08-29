@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2450793,
+    "properties": {
+        "woe_id": 2450793,
+        "place_id": "BHGRpcybBZn6NHLl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midway Park, Bemus Point, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512741,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/2450793_20101216_1af1f06abd.tar.gz"
+        },
+        "bbox": [
+            -79.424263000488,
+            42.200958251953,
+            -79.420677185059,
+            42.202072143555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.421822,
+                        42.201992
+                    ],
+                    [
+                        -79.420677,
+                        42.202072
+                    ],
+                    [
+                        -79.421188,
+                        42.201622
+                    ],
+                    [
+                        -79.42218,
+                        42.20137
+                    ],
+                    [
+                        -79.424263,
+                        42.200958
+                    ],
+                    [
+                        -79.421822,
+                        42.201992
+                    ]
+                ]
+            ]
+        ]
+    }
+}

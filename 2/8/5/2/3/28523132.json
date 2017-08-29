@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523132,
+    "properties": {
+        "woe_id": 28523132,
+        "place_id": "0R4XlEebCZm0IYTNig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishijimacho 3 Chome, Fukaya-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247862609,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3605\/shapefiles\/28523132_20090717_21b8f00b67.tar.gz"
+        },
+        "bbox": [
+            139.27897644043,
+            36.191257476807,
+            139.28193664551,
+            36.191764831543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.279114,
+                        36.191257
+                    ],
+                    [
+                        139.278976,
+                        36.191608
+                    ],
+                    [
+                        139.281265,
+                        36.191765
+                    ],
+                    [
+                        139.281937,
+                        36.191608
+                    ],
+                    [
+                        139.279892,
+                        36.191284
+                    ],
+                    [
+                        139.279114,
+                        36.191257
+                    ]
+                ]
+            ]
+        ]
+    }
+}

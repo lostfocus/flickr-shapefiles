@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28556950,
+    "properties": {
+        "woe_id": 28556950,
+        "place_id": "7UFIUPubCZnpJmGLIg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Motomiya 1 Chome, Otsu-shi, Shiga Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446154,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28556950_20101215_13e5fd9df9.tar.gz"
+        },
+        "bbox": [
+            135.87350463867,
+            35.000366210938,
+            135.87692260742,
+            35.002075195312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.873505,
+                        35.00116
+                    ],
+                    [
+                        135.875214,
+                        35.002075
+                    ],
+                    [
+                        135.875992,
+                        35.001572
+                    ],
+                    [
+                        135.876495,
+                        35.000824
+                    ],
+                    [
+                        135.876923,
+                        35.000366
+                    ],
+                    [
+                        135.873505,
+                        35.00116
+                    ]
+                ]
+            ]
+        ]
+    }
+}

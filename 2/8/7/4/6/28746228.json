@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28746228,
+    "properties": {
+        "woe_id": 28746228,
+        "place_id": "Wob9wpKbCZtSlrEWpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bull Mine, Monroe, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547604,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/28746228_20101217_39041d5e54.tar.gz"
+        },
+        "bbox": [
+            -74.181335449219,
+            41.386596679688,
+            -74.180419921875,
+            41.386848449707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.180511,
+                        41.386745
+                    ],
+                    [
+                        -74.18042,
+                        41.386597
+                    ],
+                    [
+                        -74.181335,
+                        41.386833
+                    ],
+                    [
+                        -74.181168,
+                        41.386848
+                    ],
+                    [
+                        -74.180832,
+                        41.386833
+                    ],
+                    [
+                        -74.180511,
+                        41.386745
+                    ]
+                ]
+            ]
+        ]
+    }
+}

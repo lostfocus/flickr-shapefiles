@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28530726,
+    "properties": {
+        "woe_id": 28530726,
+        "place_id": "CcKxOyabCZmwJJjWKw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kokuryocho 7 Chome, Chofu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503206,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28530726_20101216_34bc0bc06a.tar.gz"
+        },
+        "bbox": [
+            139.55857849121,
+            35.644165039062,
+            139.56240844727,
+            35.646167755127
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.562408,
+                        35.646076
+                    ],
+                    [
+                        139.561172,
+                        35.644165
+                    ],
+                    [
+                        139.558578,
+                        35.645218
+                    ],
+                    [
+                        139.561356,
+                        35.645939
+                    ],
+                    [
+                        139.561829,
+                        35.646168
+                    ],
+                    [
+                        139.561996,
+                        35.646168
+                    ],
+                    [
+                        139.562408,
+                        35.646076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

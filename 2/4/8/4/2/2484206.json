@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2484206,
+    "properties": {
+        "woe_id": 2484206,
+        "place_id": "BfeRDq.bBZSumGH8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rollins Park, Rockville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546762,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/2484206_20101217_ef045dfef8.tar.gz"
+        },
+        "bbox": [
+            -77.128143310547,
+            39.059474945068,
+            -77.125770568848,
+            39.064746856689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.125771,
+                        39.062416
+                    ],
+                    [
+                        -77.125862,
+                        39.059475
+                    ],
+                    [
+                        -77.126938,
+                        39.062748
+                    ],
+                    [
+                        -77.128143,
+                        39.064747
+                    ],
+                    [
+                        -77.125771,
+                        39.062416
+                    ]
+                ]
+            ]
+        ]
+    }
+}

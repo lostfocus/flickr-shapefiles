@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2508339,
+    "properties": {
+        "woe_id": 2508339,
+        "place_id": "t._QoEKbBJxBbeWN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Trythall, Elverson, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535337,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2508339_20101216_e2ba210b51.tar.gz"
+        },
+        "bbox": [
+            -75.758750915527,
+            40.188346862793,
+            -75.753479003906,
+            40.193824768066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.757462,
+                        40.189709
+                    ],
+                    [
+                        -75.758751,
+                        40.191086
+                    ],
+                    [
+                        -75.753479,
+                        40.193825
+                    ],
+                    [
+                        -75.756546,
+                        40.189262
+                    ],
+                    [
+                        -75.756805,
+                        40.188347
+                    ],
+                    [
+                        -75.757462,
+                        40.189709
+                    ]
+                ]
+            ]
+        ]
+    }
+}

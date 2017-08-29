@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551194,
+    "properties": {
+        "woe_id": 24551194,
+        "place_id": "oGL4EKebBZmHPyWkjw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Los Choferes, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495882,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/24551194_20101216_61e3a99dec.tar.gz"
+        },
+        "bbox": [
+            -66.050491333008,
+            18.340166091919,
+            -66.049003601074,
+            18.344585418701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.049004,
+                        18.340334
+                    ],
+                    [
+                        -66.049004,
+                        18.340166
+                    ],
+                    [
+                        -66.049164,
+                        18.340334
+                    ],
+                    [
+                        -66.050491,
+                        18.342264
+                    ],
+                    [
+                        -66.049034,
+                        18.344585
+                    ],
+                    [
+                        -66.049004,
+                        18.340334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2399630,
+    "properties": {
+        "woe_id": 2399630,
+        "place_id": "1wtKCL6bApVvUaMl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Engel, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247814722,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3503\/shapefiles\/2399630_20090717_afba083f51.tar.gz"
+        },
+        "bbox": [
+            -111.97820281982,
+            40.69393157959,
+            -111.97360229492,
+            40.696792602539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.97789,
+                        40.693932
+                    ],
+                    [
+                        -111.978203,
+                        40.695698
+                    ],
+                    [
+                        -111.975357,
+                        40.696793
+                    ],
+                    [
+                        -111.973602,
+                        40.696552
+                    ],
+                    [
+                        -111.976089,
+                        40.69593
+                    ],
+                    [
+                        -111.97789,
+                        40.693932
+                    ]
+                ]
+            ]
+        ]
+    }
+}

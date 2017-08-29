@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2409978,
+    "properties": {
+        "woe_id": 2409978,
+        "place_id": "rth1AcqbBZziSP6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gibbsville, Sheboygan Falls, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533470,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2409978_20101216_7f490fe74c.tar.gz"
+        },
+        "bbox": [
+            -87.83065032959,
+            43.649894714355,
+            -87.82780456543,
+            43.6526222229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.830544,
+                        43.652138
+                    ],
+                    [
+                        -87.83065,
+                        43.652622
+                    ],
+                    [
+                        -87.827805,
+                        43.652199
+                    ],
+                    [
+                        -87.828484,
+                        43.649895
+                    ],
+                    [
+                        -87.829735,
+                        43.651234
+                    ],
+                    [
+                        -87.830544,
+                        43.652138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

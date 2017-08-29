@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2486054,
+    "properties": {
+        "woe_id": 2486054,
+        "place_id": "PjZ7wNCbBZRYYGcB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rustic Acres, Bountiful, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234722848,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3604\/shapefiles\/2486054_20090215_7f8b966092.tar.gz"
+        },
+        "bbox": [
+            -111.88925933838,
+            40.856666564941,
+            -111.88845825195,
+            40.857154846191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.889259,
+                        40.856667
+                    ],
+                    [
+                        -111.889099,
+                        40.856792
+                    ],
+                    [
+                        -111.888458,
+                        40.857155
+                    ],
+                    [
+                        -111.888771,
+                        40.856846
+                    ],
+                    [
+                        -111.889259,
+                        40.856667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

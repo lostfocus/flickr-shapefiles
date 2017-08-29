@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28515005,
+    "properties": {
+        "woe_id": 28515005,
+        "place_id": "qIiOt0ubCZmnGpazAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishimachi 1 Chome, Miyako-shi, Iwate Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520286,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28515005_20101216_95c06e5c9c.tar.gz"
+        },
+        "bbox": [
+            141.94338989258,
+            39.644847869873,
+            141.94746398926,
+            39.645702362061
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.943573,
+                        39.645691
+                    ],
+                    [
+                        141.947464,
+                        39.644886
+                    ],
+                    [
+                        141.947464,
+                        39.644848
+                    ],
+                    [
+                        141.943573,
+                        39.645138
+                    ],
+                    [
+                        141.94339,
+                        39.645702
+                    ],
+                    [
+                        141.943573,
+                        39.645691
+                    ]
+                ]
+            ]
+        ]
+    }
+}

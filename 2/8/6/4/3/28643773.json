@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28643773,
+    "properties": {
+        "woe_id": 28643773,
+        "place_id": "e6FWTVSbCZoIpl4OOQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Amisfield, Tokoroa, Waikato, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239366486,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3566\/shapefiles\/28643773_20090410_32742a65a4.tar.gz"
+        },
+        "bbox": [
+            175.87692260742,
+            -38.228607177734,
+            175.88081359863,
+            -38.226276397705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        175.876923,
+                        -38.226692
+                    ],
+                    [
+                        175.876968,
+                        -38.226276
+                    ],
+                    [
+                        175.877029,
+                        -38.226402
+                    ],
+                    [
+                        175.880814,
+                        -38.228065
+                    ],
+                    [
+                        175.877121,
+                        -38.228607
+                    ],
+                    [
+                        175.876923,
+                        -38.226692
+                    ]
+                ]
+            ]
+        ]
+    }
+}

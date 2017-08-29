@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2370548,
+    "properties": {
+        "woe_id": 2370548,
+        "place_id": "GfUoJAWbApt5N1mN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brownsville, Clementon, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455129,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2370548_20101215_040a27e625.tar.gz"
+        },
+        "bbox": [
+            -75.007949829102,
+            39.821422576904,
+            -75.006492614746,
+            39.824687957764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.00795,
+                        39.824688
+                    ],
+                    [
+                        -75.006752,
+                        39.823269
+                    ],
+                    [
+                        -75.006493,
+                        39.821423
+                    ],
+                    [
+                        -75.006813,
+                        39.822803
+                    ],
+                    [
+                        -75.00795,
+                        39.824688
+                    ]
+                ]
+            ]
+        ]
+    }
+}

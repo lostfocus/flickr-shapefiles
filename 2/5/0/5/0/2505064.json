@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505064,
+    "properties": {
+        "woe_id": 2505064,
+        "place_id": "lANJQGSbBJyf89sk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Thalia Shores, Virginia Beach, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537403,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2505064_20101216_623fd32948.tar.gz"
+        },
+        "bbox": [
+            -76.105087280273,
+            36.851295471191,
+            -76.097015380859,
+            36.855346679688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.097015,
+                        36.853268
+                    ],
+                    [
+                        -76.100746,
+                        36.851295
+                    ],
+                    [
+                        -76.105087,
+                        36.855347
+                    ],
+                    [
+                        -76.099472,
+                        36.854832
+                    ],
+                    [
+                        -76.097015,
+                        36.853268
+                    ]
+                ]
+            ]
+        ]
+    }
+}

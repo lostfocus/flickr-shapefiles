@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2451033,
+    "properties": {
+        "woe_id": 2451033,
+        "place_id": "5dEX09qbBZlQ_x5C",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mill Creek, Fort Smith, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522104,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2451033_20101216_ca7632aa87.tar.gz"
+        },
+        "bbox": [
+            -94.422943115234,
+            35.333263397217,
+            -94.420219421387,
+            35.341785430908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.422554,
+                        35.341473
+                    ],
+                    [
+                        -94.422928,
+                        35.341785
+                    ],
+                    [
+                        -94.422745,
+                        35.337193
+                    ],
+                    [
+                        -94.420219,
+                        35.335537
+                    ],
+                    [
+                        -94.422943,
+                        35.333263
+                    ],
+                    [
+                        -94.422745,
+                        35.337193
+                    ],
+                    [
+                        -94.422554,
+                        35.341473
+                    ]
+                ]
+            ]
+        ]
+    }
+}

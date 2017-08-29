@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28546436,
+    "properties": {
+        "woe_id": 28546436,
+        "place_id": "3RKrELWbCZluHK01BA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kamejima 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455266,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/28546436_20101215_a0b45a70a8.tar.gz"
+        },
+        "bbox": [
+            136.87866210938,
+            35.174911499023,
+            136.87951660156,
+            35.175666809082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.879517,
+                        35.175316
+                    ],
+                    [
+                        136.879303,
+                        35.174938
+                    ],
+                    [
+                        136.878967,
+                        35.174911
+                    ],
+                    [
+                        136.878662,
+                        35.175213
+                    ],
+                    [
+                        136.878662,
+                        35.175667
+                    ],
+                    [
+                        136.879517,
+                        35.175316
+                    ]
+                ]
+            ]
+        ]
+    }
+}

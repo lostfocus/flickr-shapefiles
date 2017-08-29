@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20150418,
+    "properties": {
+        "woe_id": 20150418,
+        "place_id": "FJSgSrKbAZ2V.NN70w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cassano, Naples, CM, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513883,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/20150418_20101216_71c227ca9c.tar.gz"
+        },
+        "bbox": [
+            14.269638061523,
+            40.901382446289,
+            14.272440910339,
+            40.903270721436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.269733,
+                        40.902828
+                    ],
+                    [
+                        14.269663,
+                        40.902889
+                    ],
+                    [
+                        14.269638,
+                        40.903271
+                    ],
+                    [
+                        14.269841,
+                        40.903042
+                    ],
+                    [
+                        14.272441,
+                        40.901382
+                    ],
+                    [
+                        14.269733,
+                        40.902828
+                    ]
+                ]
+            ]
+        ]
+    }
+}

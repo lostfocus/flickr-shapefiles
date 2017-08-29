@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28542464,
+    "properties": {
+        "woe_id": 28542464,
+        "place_id": "CL5_f2abCZlpaXtHsA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nanukamachi 1 Chome, Takayama-shi, Gifu Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519157,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/28542464_20101216_d8f899c79e.tar.gz"
+        },
+        "bbox": [
+            137.25682067871,
+            36.146331787109,
+            137.25733947754,
+            36.147556304932
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.256821,
+                        36.147404
+                    ],
+                    [
+                        137.256927,
+                        36.147556
+                    ],
+                    [
+                        137.257263,
+                        36.147491
+                    ],
+                    [
+                        137.257339,
+                        36.146332
+                    ],
+                    [
+                        137.256836,
+                        36.146332
+                    ],
+                    [
+                        137.256821,
+                        36.147404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

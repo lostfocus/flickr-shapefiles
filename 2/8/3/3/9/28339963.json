@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28339963,
+    "properties": {
+        "woe_id": 28339963,
+        "place_id": "ZyHgfKebCZ9_iBYWzw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Craigheads, Carlisle, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248079698,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2518\/shapefiles\/28339963_20090720_ae553f7b66.tar.gz"
+        },
+        "bbox": [
+            -77.176551818848,
+            40.139877319336,
+            -77.159942626953,
+            40.170833587646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.165405,
+                        40.150234
+                    ],
+                    [
+                        -77.165878,
+                        40.149727
+                    ],
+                    [
+                        -77.173851,
+                        40.139877
+                    ],
+                    [
+                        -77.176552,
+                        40.158279
+                    ],
+                    [
+                        -77.159943,
+                        40.170834
+                    ],
+                    [
+                        -77.165405,
+                        40.150234
+                    ]
+                ]
+            ]
+        ]
+    }
+}

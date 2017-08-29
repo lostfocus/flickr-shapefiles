@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28532839,
+    "properties": {
+        "woe_id": 28532839,
+        "place_id": "D6Av8f2bCZk6pj3mXw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hakusan 1 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472428,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/28532839_20101216_c70f461668.tar.gz"
+        },
+        "bbox": [
+            139.55526733398,
+            35.508331298828,
+            139.5597076416,
+            35.513885498047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.555267,
+                        35.508884
+                    ],
+                    [
+                        139.555328,
+                        35.509167
+                    ],
+                    [
+                        139.556335,
+                        35.509834
+                    ],
+                    [
+                        139.557587,
+                        35.513885
+                    ],
+                    [
+                        139.559708,
+                        35.508862
+                    ],
+                    [
+                        139.558838,
+                        35.508331
+                    ],
+                    [
+                        139.555267,
+                        35.508884
+                    ]
+                ]
+            ]
+        ]
+    }
+}

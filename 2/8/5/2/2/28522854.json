@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522854,
+    "properties": {
+        "woe_id": 28522854,
+        "place_id": "KznGO.WbCZnZ4XdR9A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honcho 1 Chome, Higashimatsuyama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526820,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28522854_20101216_caba6130e6.tar.gz"
+        },
+        "bbox": [
+            139.41394042969,
+            36.056137084961,
+            139.41514587402,
+            36.05806350708
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.414108,
+                        36.058064
+                    ],
+                    [
+                        139.414398,
+                        36.057636
+                    ],
+                    [
+                        139.415009,
+                        36.056801
+                    ],
+                    [
+                        139.415146,
+                        36.056137
+                    ],
+                    [
+                        139.41394,
+                        36.057796
+                    ],
+                    [
+                        139.414108,
+                        36.058064
+                    ]
+                ]
+            ]
+        ]
+    }
+}

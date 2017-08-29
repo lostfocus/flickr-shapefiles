@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 29388975,
+    "properties": {
+        "woe_id": 29388975,
+        "place_id": "7dB4R2ObCJ9261YnJA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Skyline, San Diego, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531525,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/29388975_20101216_8448b6db4a.tar.gz"
+        },
+        "bbox": [
+            -117.00982666016,
+            32.701137542725,
+            -117.0062713623,
+            32.707706451416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.006279,
+                        32.706593
+                    ],
+                    [
+                        -117.006271,
+                        32.706532
+                    ],
+                    [
+                        -117.007088,
+                        32.701138
+                    ],
+                    [
+                        -117.009827,
+                        32.706268
+                    ],
+                    [
+                        -117.007393,
+                        32.707706
+                    ],
+                    [
+                        -117.006752,
+                        32.707008
+                    ],
+                    [
+                        -117.006279,
+                        32.706593
+                    ]
+                ]
+            ]
+        ]
+    }
+}

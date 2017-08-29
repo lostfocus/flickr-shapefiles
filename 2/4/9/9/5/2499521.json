@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499521,
+    "properties": {
+        "woe_id": 2499521,
+        "place_id": "RrhhcJmbBZXzTvrg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Steins, Pottsville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234734847,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3597\/shapefiles\/2499521_20090215_ae7b6b6d0d.tar.gz"
+        },
+        "bbox": [
+            -76.303520202637,
+            40.645740509033,
+            -76.290351867676,
+            40.683166503906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.303413,
+                        40.666512
+                    ],
+                    [
+                        -76.30352,
+                        40.683167
+                    ],
+                    [
+                        -76.290352,
+                        40.665077
+                    ],
+                    [
+                        -76.2929,
+                        40.663208
+                    ],
+                    [
+                        -76.300049,
+                        40.645741
+                    ],
+                    [
+                        -76.303413,
+                        40.666512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

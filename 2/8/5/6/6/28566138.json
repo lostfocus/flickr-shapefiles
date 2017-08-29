@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28566138,
+    "properties": {
+        "woe_id": 28566138,
+        "place_id": "JpLE5cabCZkRRT8Rvg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wakamiyacho 1 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455284,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28566138_20101215_18d96019bb.tar.gz"
+        },
+        "bbox": [
+            135.12634277344,
+            34.642166137695,
+            135.12971496582,
+            34.645637512207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.129486,
+                        34.643913
+                    ],
+                    [
+                        135.129715,
+                        34.643681
+                    ],
+                    [
+                        135.129425,
+                        34.642811
+                    ],
+                    [
+                        135.129166,
+                        34.642166
+                    ],
+                    [
+                        135.128632,
+                        34.642834
+                    ],
+                    [
+                        135.126343,
+                        34.645638
+                    ],
+                    [
+                        135.129486,
+                        34.643913
+                    ]
+                ]
+            ]
+        ]
+    }
+}

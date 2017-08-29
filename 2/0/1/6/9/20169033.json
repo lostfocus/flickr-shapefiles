@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20169033,
+    "properties": {
+        "woe_id": 20169033,
+        "place_id": "1WxNtXubAZ07McbN5A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uppersberg, Leverkusen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542733,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20169033_20101216_a0b515029e.tar.gz"
+        },
+        "bbox": [
+            7.091833114624,
+            51.029834747314,
+            7.0929999351501,
+            51.032001495361
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.092499,
+                        51.032001
+                    ],
+                    [
+                        7.092833,
+                        51.031834
+                    ],
+                    [
+                        7.093,
+                        51.031502
+                    ],
+                    [
+                        7.093,
+                        51.029835
+                    ],
+                    [
+                        7.092166,
+                        51.031502
+                    ],
+                    [
+                        7.091833,
+                        51.032001
+                    ],
+                    [
+                        7.092499,
+                        51.032001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

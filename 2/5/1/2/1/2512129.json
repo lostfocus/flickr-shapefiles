@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2512129,
+    "properties": {
+        "woe_id": 2512129,
+        "place_id": "aNxqXA2bBJ0b6xE9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Victory Junction, Kansas City, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531268,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2512129_20101216_8ef46cba34.tar.gz"
+        },
+        "bbox": [
+            -94.879516601562,
+            39.110958099365,
+            -94.874481201172,
+            39.116474151611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.874481,
+                        39.113373
+                    ],
+                    [
+                        -94.874481,
+                        39.110958
+                    ],
+                    [
+                        -94.877411,
+                        39.111015
+                    ],
+                    [
+                        -94.878494,
+                        39.111938
+                    ],
+                    [
+                        -94.879517,
+                        39.115692
+                    ],
+                    [
+                        -94.877068,
+                        39.116474
+                    ],
+                    [
+                        -94.874481,
+                        39.113373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

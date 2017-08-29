@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 29230036,
+    "properties": {
+        "woe_id": 29230036,
+        "place_id": "a4fSX7.bCJ5qJcuLVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Park Place, Milwaukee, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239552008,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3569\/shapefiles\/29230036_20090412_7897cf7745.tar.gz"
+        },
+        "bbox": [
+            -88.061309814453,
+            43.165813446045,
+            -88.059387207031,
+            43.167129516602
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.060692,
+                        43.16713
+                    ],
+                    [
+                        -88.059387,
+                        43.165977
+                    ],
+                    [
+                        -88.059441,
+                        43.165813
+                    ],
+                    [
+                        -88.06131,
+                        43.167122
+                    ],
+                    [
+                        -88.060692,
+                        43.16713
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2364931,
+    "properties": {
+        "woe_id": 2364931,
+        "place_id": "WZ9nnKubApqCUT5e",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Blackbridge, Wells, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521142,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2364931_20101216_1cfe70b7fc.tar.gz"
+        },
+        "bbox": [
+            -74.293327331543,
+            43.390205383301,
+            -74.29061126709,
+            43.392807006836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.293327,
+                        43.390827
+                    ],
+                    [
+                        -74.290611,
+                        43.392807
+                    ],
+                    [
+                        -74.291008,
+                        43.390953
+                    ],
+                    [
+                        -74.291908,
+                        43.390694
+                    ],
+                    [
+                        -74.293152,
+                        43.390205
+                    ],
+                    [
+                        -74.293327,
+                        43.390827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

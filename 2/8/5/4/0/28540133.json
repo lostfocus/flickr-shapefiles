@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28540133,
+    "properties": {
+        "woe_id": 28540133,
+        "place_id": "v2san8mbCZnpPMNx1A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yunowaki 1 Chome, Suwa-shi, Nagano Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446147,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/28540133_20101215_23b0aea740.tar.gz"
+        },
+        "bbox": [
+            138.11891174316,
+            36.050487518311,
+            138.12295532227,
+            36.053607940674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.118912,
+                        36.050488
+                    ],
+                    [
+                        138.11908,
+                        36.053608
+                    ],
+                    [
+                        138.122955,
+                        36.053329
+                    ],
+                    [
+                        138.122345,
+                        36.050903
+                    ],
+                    [
+                        138.119766,
+                        36.050625
+                    ],
+                    [
+                        138.118912,
+                        36.050488
+                    ]
+                ]
+            ]
+        ]
+    }
+}

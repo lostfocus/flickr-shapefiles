@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28578564,
+    "properties": {
+        "woe_id": 28578564,
+        "place_id": "wtsmC0CbCZknBWUZsA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arato 2 Chome, Fukuoka-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520322,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/28578564_20101216_ce41a4252f.tar.gz"
+        },
+        "bbox": [
+            130.37515258789,
+            33.588882446289,
+            130.37672424316,
+            33.592742919922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.375885,
+                        33.588989
+                    ],
+                    [
+                        130.375381,
+                        33.589184
+                    ],
+                    [
+                        130.375153,
+                        33.590458
+                    ],
+                    [
+                        130.376648,
+                        33.592743
+                    ],
+                    [
+                        130.376724,
+                        33.588882
+                    ],
+                    [
+                        130.375885,
+                        33.588989
+                    ]
+                ]
+            ]
+        ]
+    }
+}

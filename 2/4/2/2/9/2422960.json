@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2422960,
+    "properties": {
+        "woe_id": 2422960,
+        "place_id": "ev7EPUObBZ57i8ue",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holiday Acres, Slidell, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533289,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2422960_20101216_defa6c7d2a.tar.gz"
+        },
+        "bbox": [
+            -89.744438171387,
+            30.270729064941,
+            -89.74137878418,
+            30.272409439087
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.741379,
+                        30.270729
+                    ],
+                    [
+                        -89.742165,
+                        30.271187
+                    ],
+                    [
+                        -89.743202,
+                        30.271568
+                    ],
+                    [
+                        -89.744438,
+                        30.272409
+                    ],
+                    [
+                        -89.741486,
+                        30.272032
+                    ],
+                    [
+                        -89.741379,
+                        30.270729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

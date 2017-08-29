@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28510851,
+    "properties": {
+        "woe_id": 28510851,
+        "place_id": "UlIOopObCZnGC3RN9A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wakakusacho 2 Chome, Shiraoi-cho, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517865,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/28510851_20101216_f38bb49b43.tar.gz"
+        },
+        "bbox": [
+            141.36366271973,
+            42.560447692871,
+            141.36709594727,
+            42.563953399658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.366699,
+                        42.561825
+                    ],
+                    [
+                        141.367096,
+                        42.560593
+                    ],
+                    [
+                        141.366882,
+                        42.560448
+                    ],
+                    [
+                        141.363663,
+                        42.560501
+                    ],
+                    [
+                        141.366409,
+                        42.563953
+                    ],
+                    [
+                        141.366699,
+                        42.561825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

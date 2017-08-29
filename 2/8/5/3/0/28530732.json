@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530732,
+    "properties": {
+        "woe_id": 28530732,
+        "place_id": "MdauvSWbCZmEJynxww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sazumachi 2 Chome, Chofu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442140,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28530732_20101215_f668294e44.tar.gz"
+        },
+        "bbox": [
+            139.55531311035,
+            35.65938949585,
+            139.55628967285,
+            35.660652160645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.555557,
+                        35.659389
+                    ],
+                    [
+                        139.555313,
+                        35.660652
+                    ],
+                    [
+                        139.555634,
+                        35.660484
+                    ],
+                    [
+                        139.55629,
+                        35.660229
+                    ],
+                    [
+                        139.555954,
+                        35.65942
+                    ],
+                    [
+                        139.555557,
+                        35.659389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

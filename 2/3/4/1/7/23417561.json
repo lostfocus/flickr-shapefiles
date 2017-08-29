@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417561,
+    "properties": {
+        "woe_id": 23417561,
+        "place_id": "rVLHC6mbApiJa8i_gw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Arrowhead, North Waterboro, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551691,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/23417561_20101217_81aaecd000.tar.gz"
+        },
+        "bbox": [
+            -70.739616394043,
+            43.643341064453,
+            -70.734527587891,
+            43.648746490479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.736183,
+                        43.646633
+                    ],
+                    [
+                        -70.735733,
+                        43.648746
+                    ],
+                    [
+                        -70.73539,
+                        43.646137
+                    ],
+                    [
+                        -70.734528,
+                        43.643341
+                    ],
+                    [
+                        -70.739616,
+                        43.643856
+                    ],
+                    [
+                        -70.736183,
+                        43.646633
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28517985,
+    "properties": {
+        "woe_id": 28517985,
+        "place_id": "wGl3X0KbCZlmaNrgQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiharamachi 1 Chome, Yamagata-shi, Yamagata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523709,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28517985_20101216_41239121fb.tar.gz"
+        },
+        "bbox": [
+            140.34461975098,
+            38.246479034424,
+            140.34745788574,
+            38.249435424805
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.344971,
+                        38.249435
+                    ],
+                    [
+                        140.347183,
+                        38.249409
+                    ],
+                    [
+                        140.347458,
+                        38.246479
+                    ],
+                    [
+                        140.346832,
+                        38.246666
+                    ],
+                    [
+                        140.34462,
+                        38.248749
+                    ],
+                    [
+                        140.344971,
+                        38.249435
+                    ]
+                ]
+            ]
+        ]
+    }
+}

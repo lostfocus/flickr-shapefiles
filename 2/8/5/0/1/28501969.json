@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28501969,
+    "properties": {
+        "woe_id": 28501969,
+        "place_id": "ecmBnDybCZk7HM.z0A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Toyokasanjo 4 Chome, Asahikawa-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546861,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28501969_20101217_13da67ed95.tar.gz"
+        },
+        "bbox": [
+            142.40042114258,
+            43.758163452148,
+            142.40142822266,
+            43.758865356445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        142.400848,
+                        43.758167
+                    ],
+                    [
+                        142.400757,
+                        43.758163
+                    ],
+                    [
+                        142.400421,
+                        43.758598
+                    ],
+                    [
+                        142.400497,
+                        43.758865
+                    ],
+                    [
+                        142.401428,
+                        43.758457
+                    ],
+                    [
+                        142.400848,
+                        43.758167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2353892,
+    "properties": {
+        "woe_id": 2353892,
+        "place_id": "222iu_KbApnGHcXL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Altawood Subdivision Number 3, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292476929,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2353892_20101216_f96a22031c.tar.gz"
+        },
+        "bbox": [
+            -111.80839538574,
+            40.576412200928,
+            -111.80305480957,
+            40.580585479736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.803352,
+                        40.578529
+                    ],
+                    [
+                        -111.803055,
+                        40.576412
+                    ],
+                    [
+                        -111.804375,
+                        40.577984
+                    ],
+                    [
+                        -111.808395,
+                        40.577724
+                    ],
+                    [
+                        -111.806999,
+                        40.580585
+                    ],
+                    [
+                        -111.803352,
+                        40.578529
+                    ]
+                ]
+            ]
+        ]
+    }
+}

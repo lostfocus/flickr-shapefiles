@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530300,
+    "properties": {
+        "woe_id": 28530300,
+        "place_id": "qpyihKubCZmORQso6Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midoricho 2 Chome, Musashino-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446068,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/28530300_20101215_0b6da17117.tar.gz"
+        },
+        "bbox": [
+            139.56240844727,
+            35.71549987793,
+            139.56500244141,
+            35.716674804688
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.56427,
+                        35.715702
+                    ],
+                    [
+                        139.565002,
+                        35.7155
+                    ],
+                    [
+                        139.562958,
+                        35.715504
+                    ],
+                    [
+                        139.562469,
+                        35.716579
+                    ],
+                    [
+                        139.562408,
+                        35.716675
+                    ],
+                    [
+                        139.56427,
+                        35.715702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20104593,
+    "properties": {
+        "woe_id": 20104593,
+        "place_id": "ZSNKT66bAZ0oTGjRkA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valency, Lausanne, VD, CH, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531790,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/20104593_20101216_bd5efbfcca.tar.gz"
+        },
+        "bbox": [
+            6.6084899902344,
+            46.528987884521,
+            6.6124172210693,
+            46.533267974854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.609735,
+                        46.532532
+                    ],
+                    [
+                        6.611881,
+                        46.533268
+                    ],
+                    [
+                        6.612417,
+                        46.531498
+                    ],
+                    [
+                        6.611366,
+                        46.528988
+                    ],
+                    [
+                        6.60849,
+                        46.531364
+                    ],
+                    [
+                        6.609735,
+                        46.532532
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2482374,
+    "properties": {
+        "woe_id": 2482374,
+        "place_id": "aWtos6qbBZRnbrm1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riverview, Wichita, KS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536275,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/2482374_20101216_260bba69d3.tar.gz"
+        },
+        "bbox": [
+            -97.344459533691,
+            37.758724212646,
+            -97.343254089355,
+            37.76082611084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.344109,
+                        37.758724
+                    ],
+                    [
+                        -97.34446,
+                        37.759274
+                    ],
+                    [
+                        -97.343933,
+                        37.760128
+                    ],
+                    [
+                        -97.343628,
+                        37.760406
+                    ],
+                    [
+                        -97.343254,
+                        37.760826
+                    ],
+                    [
+                        -97.344109,
+                        37.758724
+                    ]
+                ]
+            ]
+        ]
+    }
+}

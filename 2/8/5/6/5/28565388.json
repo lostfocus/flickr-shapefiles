@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28565388,
+    "properties": {
+        "woe_id": 28565388,
+        "place_id": "x.W68rabCZnaxJ.YoA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Matsumotodori 1 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446203,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/28565388_20101215_bf8f2832c7.tar.gz"
+        },
+        "bbox": [
+            135.16474914551,
+            34.679378509521,
+            135.1658782959,
+            34.681240081787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.165131,
+                        34.681026
+                    ],
+                    [
+                        135.165604,
+                        34.68124
+                    ],
+                    [
+                        135.165878,
+                        34.680992
+                    ],
+                    [
+                        135.165527,
+                        34.679752
+                    ],
+                    [
+                        135.164749,
+                        34.679379
+                    ],
+                    [
+                        135.165131,
+                        34.681026
+                    ]
+                ]
+            ]
+        ]
+    }
+}

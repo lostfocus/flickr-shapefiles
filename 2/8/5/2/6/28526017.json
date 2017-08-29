@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526017,
+    "properties": {
+        "woe_id": 28526017,
+        "place_id": "00oqk5GbCZlOorNqOA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kasumi 6 Chome, Narashino-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446148,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28526017_20101215_32b8477f0b.tar.gz"
+        },
+        "bbox": [
+            140.01524353027,
+            35.665000915527,
+            140.02003479004,
+            35.666889190674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.016006,
+                        35.665001
+                    ],
+                    [
+                        140.015244,
+                        35.666058
+                    ],
+                    [
+                        140.018463,
+                        35.666889
+                    ],
+                    [
+                        140.020035,
+                        35.665211
+                    ],
+                    [
+                        140.016144,
+                        35.665112
+                    ],
+                    [
+                        140.016006,
+                        35.665001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2499066,
+    "properties": {
+        "woe_id": 2499066,
+        "place_id": "aNIH0mybBZVQFSyT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Staples Corner, Palatine, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525425,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2499066_20101216_a51cc896e3.tar.gz"
+        },
+        "bbox": [
+            -88.03044128418,
+            42.151691436768,
+            -88.025924682617,
+            42.153697967529
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.025932,
+                        42.15176
+                    ],
+                    [
+                        -88.025925,
+                        42.151714
+                    ],
+                    [
+                        -88.026222,
+                        42.151691
+                    ],
+                    [
+                        -88.030441,
+                        42.153698
+                    ],
+                    [
+                        -88.026154,
+                        42.152058
+                    ],
+                    [
+                        -88.025932,
+                        42.15176
+                    ]
+                ]
+            ]
+        ]
+    }
+}

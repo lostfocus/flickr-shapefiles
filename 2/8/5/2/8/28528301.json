@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528301,
+    "properties": {
+        "woe_id": 28528301,
+        "place_id": "yC13fT6bCZnqP51hCg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishirokugo 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391606,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28528301_20101215_e07145740c.tar.gz"
+        },
+        "bbox": [
+            139.70385742188,
+            35.548065185547,
+            139.70878601074,
+            35.552165985107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.703857,
+                        35.548393
+                    ],
+                    [
+                        139.706787,
+                        35.552166
+                    ],
+                    [
+                        139.706924,
+                        35.551231
+                    ],
+                    [
+                        139.708786,
+                        35.548065
+                    ],
+                    [
+                        139.707062,
+                        35.549049
+                    ],
+                    [
+                        139.703857,
+                        35.548393
+                    ]
+                ]
+            ]
+        ]
+    }
+}

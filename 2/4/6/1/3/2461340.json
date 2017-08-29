@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461340,
+    "properties": {
+        "woe_id": 2461340,
+        "place_id": "YKqlWRmbBZo9nYN_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Milton, Ballston Spa, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248019691,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2613\/shapefiles\/2461340_20090719_29b99ea961.tar.gz"
+        },
+        "bbox": [
+            -73.901077270508,
+            43.067054748535,
+            -73.877571105957,
+            43.073402404785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.892754,
+                        43.071896
+                    ],
+                    [
+                        -73.877571,
+                        43.070206
+                    ],
+                    [
+                        -73.893784,
+                        43.068134
+                    ],
+                    [
+                        -73.901077,
+                        43.067055
+                    ],
+                    [
+                        -73.899536,
+                        43.073402
+                    ],
+                    [
+                        -73.892754,
+                        43.071896
+                    ]
+                ]
+            ]
+        ]
+    }
+}

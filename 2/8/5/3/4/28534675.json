@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534675,
+    "properties": {
+        "woe_id": 28534675,
+        "place_id": "HjeJndGbCZk.oTJwYg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kamitsurumahoncho 2 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520331,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/28534675_20101216_cf17268e8f.tar.gz"
+        },
+        "bbox": [
+            139.4409942627,
+            35.539566040039,
+            139.44267272949,
+            35.543998718262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.442673,
+                        35.541332
+                    ],
+                    [
+                        139.442505,
+                        35.540668
+                    ],
+                    [
+                        139.440994,
+                        35.539566
+                    ],
+                    [
+                        139.441055,
+                        35.542412
+                    ],
+                    [
+                        139.440994,
+                        35.543999
+                    ],
+                    [
+                        139.442673,
+                        35.541332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

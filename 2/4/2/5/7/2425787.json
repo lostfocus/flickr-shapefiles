@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425787,
+    "properties": {
+        "woe_id": 2425787,
+        "place_id": "9a_UNQibBZ7Wov23",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hunting Ridge, Cropwell, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531607,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2425787_20101216_ea9e39d0fd.tar.gz"
+        },
+        "bbox": [
+            -86.273315429688,
+            33.548439025879,
+            -86.266532897949,
+            33.550979614258
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.267654,
+                        33.550766
+                    ],
+                    [
+                        -86.266533,
+                        33.548439
+                    ],
+                    [
+                        -86.266685,
+                        33.548512
+                    ],
+                    [
+                        -86.269859,
+                        33.549137
+                    ],
+                    [
+                        -86.273315,
+                        33.55098
+                    ],
+                    [
+                        -86.267654,
+                        33.550766
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229448,
+    "properties": {
+        "woe_id": 20229448,
+        "place_id": "mT6ZMUGbAZ5keJhbng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Staldgade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530280,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/20229448_20101216_b200498aea.tar.gz"
+        },
+        "bbox": [
+            12.562437057495,
+            55.668125152588,
+            12.564499855042,
+            55.66911315918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.563906,
+                        55.668602
+                    ],
+                    [
+                        12.5645,
+                        55.668331
+                    ],
+                    [
+                        12.564469,
+                        55.668125
+                    ],
+                    [
+                        12.5633,
+                        55.668362
+                    ],
+                    [
+                        12.562437,
+                        55.669113
+                    ],
+                    [
+                        12.562823,
+                        55.669079
+                    ],
+                    [
+                        12.563906,
+                        55.668602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

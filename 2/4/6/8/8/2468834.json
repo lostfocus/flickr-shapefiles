@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468834,
+    "properties": {
+        "woe_id": 2468834,
+        "place_id": "jznCX6ebBZojfJp6",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parma Corners, Spencerport, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248230763,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2541\/shapefiles\/2468834_20090722_710b18e1b0.tar.gz"
+        },
+        "bbox": [
+            -77.803520202637,
+            43.198230743408,
+            -77.793800354004,
+            43.213493347168
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.80352,
+                        43.198261
+                    ],
+                    [
+                        -77.802429,
+                        43.210178
+                    ],
+                    [
+                        -77.7938,
+                        43.213493
+                    ],
+                    [
+                        -77.794601,
+                        43.2076
+                    ],
+                    [
+                        -77.800606,
+                        43.198231
+                    ],
+                    [
+                        -77.80352,
+                        43.198261
+                    ]
+                ]
+            ]
+        ]
+    }
+}

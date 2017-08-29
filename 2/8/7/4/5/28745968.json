@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745968,
+    "properties": {
+        "woe_id": 28745968,
+        "place_id": "3oNmF5qbCZuI3ikljg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pleasantville, Oley, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531149,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/28745968_20101216_14cefed8d7.tar.gz"
+        },
+        "bbox": [
+            -75.738723754883,
+            40.359577178955,
+            -75.734764099121,
+            40.362617492676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.736137,
+                        40.36198
+                    ],
+                    [
+                        -75.738724,
+                        40.359577
+                    ],
+                    [
+                        -75.737083,
+                        40.362209
+                    ],
+                    [
+                        -75.73661,
+                        40.362617
+                    ],
+                    [
+                        -75.734764,
+                        40.362404
+                    ],
+                    [
+                        -75.736137,
+                        40.36198
+                    ]
+                ]
+            ]
+        ]
+    }
+}

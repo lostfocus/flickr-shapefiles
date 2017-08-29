@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2423927,
+    "properties": {
+        "woe_id": 2423927,
+        "place_id": "BaBd27ibBZ5j4oVi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honeywood Hills, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522108,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2423927_20101216_ba211f9961.tar.gz"
+        },
+        "bbox": [
+            -111.79756164551,
+            40.605808258057,
+            -111.7952041626,
+            40.609848022461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.797348,
+                        40.608772
+                    ],
+                    [
+                        -111.797562,
+                        40.609848
+                    ],
+                    [
+                        -111.795998,
+                        40.609436
+                    ],
+                    [
+                        -111.795204,
+                        40.605808
+                    ],
+                    [
+                        -111.796959,
+                        40.607956
+                    ],
+                    [
+                        -111.797348,
+                        40.608772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

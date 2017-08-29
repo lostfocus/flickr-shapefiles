@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2476929,
+    "properties": {
+        "woe_id": 2476929,
+        "place_id": "N7e_v_ybBZt7xfxC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Prospect Heights, Trenton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247792404,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2424\/shapefiles\/2476929_20090717_af3462a08c.tar.gz"
+        },
+        "bbox": [
+            -74.769683837891,
+            40.236988067627,
+            -74.759864807129,
+            40.247547149658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.769684,
+                        40.247234
+                    ],
+                    [
+                        -74.767456,
+                        40.247547
+                    ],
+                    [
+                        -74.765694,
+                        40.246613
+                    ],
+                    [
+                        -74.764694,
+                        40.245869
+                    ],
+                    [
+                        -74.759865,
+                        40.236988
+                    ],
+                    [
+                        -74.769684,
+                        40.247234
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2462461,
+    "properties": {
+        "woe_id": 2462461,
+        "place_id": "txryd9WbBZpZzrI7",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Noxon, Poughkeepsie, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450143,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/2462461_20101215_aeeb920e14.tar.gz"
+        },
+        "bbox": [
+            -73.811172485352,
+            41.646389007568,
+            -73.810272216797,
+            41.648864746094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.810272,
+                        41.647614
+                    ],
+                    [
+                        -73.810966,
+                        41.646427
+                    ],
+                    [
+                        -73.811073,
+                        41.646389
+                    ],
+                    [
+                        -73.811172,
+                        41.648144
+                    ],
+                    [
+                        -73.811119,
+                        41.648865
+                    ],
+                    [
+                        -73.810486,
+                        41.648304
+                    ],
+                    [
+                        -73.810272,
+                        41.647614
+                    ]
+                ]
+            ]
+        ]
+    }
+}

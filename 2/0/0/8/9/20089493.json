@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20089493,
+    "properties": {
+        "woe_id": 20089493,
+        "place_id": "j2hpLBabAZwzRXXmpA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ditton Park, Slough, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452168,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/20089493_20101215_082fb5b0d8.tar.gz"
+        },
+        "bbox": [
+            -0.57409399747849,
+            51.488792419434,
+            -0.57363301515579,
+            51.489902496338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.574062,
+                        51.489105
+                    ],
+                    [
+                        -0.574094,
+                        51.489319
+                    ],
+                    [
+                        -0.573955,
+                        51.489735
+                    ],
+                    [
+                        -0.573697,
+                        51.489902
+                    ],
+                    [
+                        -0.573633,
+                        51.488792
+                    ],
+                    [
+                        -0.574062,
+                        51.489105
+                    ]
+                ]
+            ]
+        ]
+    }
+}

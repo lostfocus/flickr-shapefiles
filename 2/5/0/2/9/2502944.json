@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502944,
+    "properties": {
+        "woe_id": 2502944,
+        "place_id": "Ex_muVubBJwfcShN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swanson Mill, Ringgold, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445118,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2502944_20101215_a41ea6803f.tar.gz"
+        },
+        "bbox": [
+            -85.148002624512,
+            34.978500366211,
+            -85.143997192383,
+            34.982833862305
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.147835,
+                        34.982834
+                    ],
+                    [
+                        -85.147499,
+                        34.982334
+                    ],
+                    [
+                        -85.143997,
+                        34.9785
+                    ],
+                    [
+                        -85.148003,
+                        34.981834
+                    ],
+                    [
+                        -85.148003,
+                        34.982834
+                    ],
+                    [
+                        -85.147835,
+                        34.982834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

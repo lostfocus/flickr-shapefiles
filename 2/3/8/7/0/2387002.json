@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2387002,
+    "properties": {
+        "woe_id": 2387002,
+        "place_id": "SxQ6IWmbApSwt8I9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crescent Highlands, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544320,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2387002_20101217_fd49ec5d08.tar.gz"
+        },
+        "bbox": [
+            -111.84264373779,
+            40.544677734375,
+            -111.84011077881,
+            40.546516418457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.842545,
+                        40.544918
+                    ],
+                    [
+                        -111.842644,
+                        40.54504
+                    ],
+                    [
+                        -111.840111,
+                        40.546516
+                    ],
+                    [
+                        -111.84156,
+                        40.544998
+                    ],
+                    [
+                        -111.842278,
+                        40.544678
+                    ],
+                    [
+                        -111.842545,
+                        40.544918
+                    ]
+                ]
+            ]
+        ]
+    }
+}

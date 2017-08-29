@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369065,
+    "properties": {
+        "woe_id": 2369065,
+        "place_id": "pNDuiaKbApq36c_u",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Briergate, Highland Park, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506688,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2369065_20101216_627452e532.tar.gz"
+        },
+        "bbox": [
+            -87.815551757812,
+            42.177234649658,
+            -87.813804626465,
+            42.17992401123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.815437,
+                        42.177326
+                    ],
+                    [
+                        -87.815552,
+                        42.177235
+                    ],
+                    [
+                        -87.815514,
+                        42.177299
+                    ],
+                    [
+                        -87.815483,
+                        42.177334
+                    ],
+                    [
+                        -87.813805,
+                        42.179924
+                    ],
+                    [
+                        -87.815437,
+                        42.177326
+                    ]
+                ]
+            ]
+        ]
+    }
+}

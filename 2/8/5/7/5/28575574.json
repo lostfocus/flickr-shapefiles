@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28575574,
+    "properties": {
+        "woe_id": 28575574,
+        "place_id": "A9537HmbCZln0HKazA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Motomachi 1 Chome, Sakaide-shi, Kagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457790,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28575574_20101216_1d06119088.tar.gz"
+        },
+        "bbox": [
+            133.85633850098,
+            34.313091278076,
+            133.85687255859,
+            34.313407897949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        133.856354,
+                        34.313202
+                    ],
+                    [
+                        133.856522,
+                        34.313408
+                    ],
+                    [
+                        133.856873,
+                        34.313259
+                    ],
+                    [
+                        133.856354,
+                        34.313091
+                    ],
+                    [
+                        133.856339,
+                        34.313137
+                    ],
+                    [
+                        133.856354,
+                        34.313202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

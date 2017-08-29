@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496743,
+    "properties": {
+        "woe_id": 2496743,
+        "place_id": "vpIhI.ObBZXnMKI5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Schroon, Schroon Lake, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535366,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2496743_20101216_8b92167436.tar.gz"
+        },
+        "bbox": [
+            -73.7958984375,
+            43.791229248047,
+            -73.795379638672,
+            43.794857025146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.7957,
+                        43.79467
+                    ],
+                    [
+                        -73.79538,
+                        43.794857
+                    ],
+                    [
+                        -73.79541,
+                        43.791416
+                    ],
+                    [
+                        -73.795746,
+                        43.791229
+                    ],
+                    [
+                        -73.795898,
+                        43.794174
+                    ],
+                    [
+                        -73.7957,
+                        43.79467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

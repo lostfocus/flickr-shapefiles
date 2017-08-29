@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395742,
+    "properties": {
+        "woe_id": 2395742,
+        "place_id": "8W3mkHubApUH.owT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Jermyn, Jermyn, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485807,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2395742_20101216_3b3e4da4ba.tar.gz"
+        },
+        "bbox": [
+            -75.550338745117,
+            41.530914306641,
+            -75.547836303711,
+            41.537204742432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.550339,
+                        41.530914
+                    ],
+                    [
+                        -75.550247,
+                        41.531792
+                    ],
+                    [
+                        -75.549667,
+                        41.532345
+                    ],
+                    [
+                        -75.548645,
+                        41.537205
+                    ],
+                    [
+                        -75.547836,
+                        41.533001
+                    ],
+                    [
+                        -75.550339,
+                        41.530914
+                    ]
+                ]
+            ]
+        ]
+    }
+}

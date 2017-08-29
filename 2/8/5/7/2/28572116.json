@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28572116,
+    "properties": {
+        "woe_id": 28572116,
+        "place_id": "cOZ3nI6bCZnOfoF69A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakahiromachi 3 Chome, Hiroshima-shi, Hiroshima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449612,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/28572116_20101215_53be9b4f31.tar.gz"
+        },
+        "bbox": [
+            132.44326782227,
+            34.406826019287,
+            132.44505310059,
+            34.410167694092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.444916,
+                        34.407692
+                    ],
+                    [
+                        132.445053,
+                        34.406837
+                    ],
+                    [
+                        132.444672,
+                        34.406826
+                    ],
+                    [
+                        132.443939,
+                        34.407909
+                    ],
+                    [
+                        132.443268,
+                        34.410168
+                    ],
+                    [
+                        132.444916,
+                        34.407692
+                    ]
+                ]
+            ]
+        ]
+    }
+}

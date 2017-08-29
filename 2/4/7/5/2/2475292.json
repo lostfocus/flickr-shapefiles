@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2475292,
+    "properties": {
+        "woe_id": 2475292,
+        "place_id": "Uj3LuUObBZvQyAkN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Porcher Bluff, Mount Pleasant, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234677605,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3003\/shapefiles\/2475292_20090215_c8dee97c3d.tar.gz"
+        },
+        "bbox": [
+            -79.798873901367,
+            32.848945617676,
+            -79.778594970703,
+            32.868305206299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.790695,
+                        32.867908
+                    ],
+                    [
+                        -79.778595,
+                        32.868305
+                    ],
+                    [
+                        -79.779106,
+                        32.848946
+                    ],
+                    [
+                        -79.798874,
+                        32.856316
+                    ],
+                    [
+                        -79.790695,
+                        32.867908
+                    ]
+                ]
+            ]
+        ]
+    }
+}

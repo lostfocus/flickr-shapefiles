@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28581881,
+    "properties": {
+        "woe_id": 28581881,
+        "place_id": "eKF7bPmbCZl34HID6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Suehiromachi 2 Chome, Oita-shi, Oita Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472424,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/28581881_20101216_a94584da54.tar.gz"
+        },
+        "bbox": [
+            131.60203552246,
+            33.234775543213,
+            131.6039276123,
+            33.236312866211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        131.602066,
+                        33.236237
+                    ],
+                    [
+                        131.602036,
+                        33.236313
+                    ],
+                    [
+                        131.602646,
+                        33.236267
+                    ],
+                    [
+                        131.603928,
+                        33.234776
+                    ],
+                    [
+                        131.602814,
+                        33.235847
+                    ],
+                    [
+                        131.602066,
+                        33.236237
+                    ]
+                ]
+            ]
+        ]
+    }
+}

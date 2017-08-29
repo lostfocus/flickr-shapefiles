@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2411478,
+    "properties": {
+        "woe_id": 2411478,
+        "place_id": "PCCFONmbBZ0xcGdB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Globe, Calumet City, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547817,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2411478_20101217_fc033d4c59.tar.gz"
+        },
+        "bbox": [
+            -87.554336547852,
+            41.592105865479,
+            -87.552062988281,
+            41.595676422119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.552109,
+                        41.592434
+                    ],
+                    [
+                        -87.552063,
+                        41.592106
+                    ],
+                    [
+                        -87.552879,
+                        41.592594
+                    ],
+                    [
+                        -87.554337,
+                        41.595676
+                    ],
+                    [
+                        -87.552109,
+                        41.592434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

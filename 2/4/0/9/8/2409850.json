@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2409850,
+    "properties": {
+        "woe_id": 2409850,
+        "place_id": "uzWfCcCbBZwlvlrl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Germonds, New City, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537620,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2409850_20101216_25c9062231.tar.gz"
+        },
+        "bbox": [
+            -73.997062683105,
+            41.11841583252,
+            -73.990173339844,
+            41.1220703125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.992317,
+                        41.121109
+                    ],
+                    [
+                        -73.995003,
+                        41.118587
+                    ],
+                    [
+                        -73.995148,
+                        41.118416
+                    ],
+                    [
+                        -73.997063,
+                        41.121559
+                    ],
+                    [
+                        -73.992775,
+                        41.121876
+                    ],
+                    [
+                        -73.990173,
+                        41.12207
+                    ],
+                    [
+                        -73.992317,
+                        41.121109
+                    ]
+                ]
+            ]
+        ]
+    }
+}

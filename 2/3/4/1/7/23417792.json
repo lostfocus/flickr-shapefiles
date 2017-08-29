@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23417792,
+    "properties": {
+        "woe_id": 23417792,
+        "place_id": "7PW3.OmbApjJp4ur5g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Peach Lake, Brewster, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545812,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/23417792_20101217_cbaaa303a3.tar.gz"
+        },
+        "bbox": [
+            -73.578353881836,
+            41.363605499268,
+            -73.57080078125,
+            41.368629455566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.575836,
+                        41.366833
+                    ],
+                    [
+                        -73.570801,
+                        41.363605
+                    ],
+                    [
+                        -73.576469,
+                        41.363796
+                    ],
+                    [
+                        -73.578354,
+                        41.366051
+                    ],
+                    [
+                        -73.576042,
+                        41.368629
+                    ],
+                    [
+                        -73.575836,
+                        41.366833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

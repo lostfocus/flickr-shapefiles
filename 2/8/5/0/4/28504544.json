@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28504544,
+    "properties": {
+        "woe_id": 28504544,
+        "place_id": "N1fB6_ibCZnWnCziiA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midorigaoka 9 Chome, Obihiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434600,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/28504544_20101215_cb98430930.tar.gz"
+        },
+        "bbox": [
+            143.18324279785,
+            42.901500701904,
+            143.18461608887,
+            42.902164459229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        143.184326,
+                        42.902164
+                    ],
+                    [
+                        143.184616,
+                        42.902164
+                    ],
+                    [
+                        143.184006,
+                        42.901501
+                    ],
+                    [
+                        143.183701,
+                        42.901505
+                    ],
+                    [
+                        143.183243,
+                        42.901543
+                    ],
+                    [
+                        143.184326,
+                        42.902164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

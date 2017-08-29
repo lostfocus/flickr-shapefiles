@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2426500,
+    "properties": {
+        "woe_id": 2426500,
+        "place_id": "YUnw5F.bBZ7wUdYZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Idlewild, Easton, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551136,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2426500_20101217_750b5e77a1.tar.gz"
+        },
+        "bbox": [
+            -76.061302185059,
+            38.760166168213,
+            -76.058311462402,
+            38.764671325684
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.061302,
+                        38.760166
+                    ],
+                    [
+                        -76.061264,
+                        38.761246
+                    ],
+                    [
+                        -76.061165,
+                        38.763664
+                    ],
+                    [
+                        -76.06012,
+                        38.764671
+                    ],
+                    [
+                        -76.058311,
+                        38.760265
+                    ],
+                    [
+                        -76.061302,
+                        38.760166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

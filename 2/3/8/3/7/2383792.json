@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2383792,
+    "properties": {
+        "woe_id": 2383792,
+        "place_id": "fgFzH7ubApTnqjiW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cominsville, North Oxford, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493368,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2383792_20101216_15f708fd62.tar.gz"
+        },
+        "bbox": [
+            -71.901824951172,
+            42.179779052734,
+            -71.897583007812,
+            42.181594848633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.897797,
+                        42.179779
+                    ],
+                    [
+                        -71.901825,
+                        42.181595
+                    ],
+                    [
+                        -71.898315,
+                        42.181499
+                    ],
+                    [
+                        -71.898087,
+                        42.181461
+                    ],
+                    [
+                        -71.897583,
+                        42.181213
+                    ],
+                    [
+                        -71.897797,
+                        42.179779
+                    ]
+                ]
+            ]
+        ]
+    }
+}

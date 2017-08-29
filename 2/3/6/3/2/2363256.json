@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2363256,
+    "properties": {
+        "woe_id": 2363256,
+        "place_id": "uenxTWabAprXSogi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Besemer, Ithaca, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248161771,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2421\/shapefiles\/2363256_20090721_1514e375bc.tar.gz"
+        },
+        "bbox": [
+            -76.422958374023,
+            42.395065307617,
+            -76.397895812988,
+            42.410781860352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.411201,
+                        42.410782
+                    ],
+                    [
+                        -76.397896,
+                        42.397728
+                    ],
+                    [
+                        -76.412918,
+                        42.397537
+                    ],
+                    [
+                        -76.418068,
+                        42.395065
+                    ],
+                    [
+                        -76.422958,
+                        42.395321
+                    ],
+                    [
+                        -76.411201,
+                        42.410782
+                    ]
+                ]
+            ]
+        ]
+    }
+}

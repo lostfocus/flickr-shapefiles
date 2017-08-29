@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481884,
+    "properties": {
+        "woe_id": 2481884,
+        "place_id": "dhLmS5.bBZTt0ffA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River Oaks, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239464884,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3380\/shapefiles\/2481884_20090411_0a99c1e5fe.tar.gz"
+        },
+        "bbox": [
+            -111.91426849365,
+            40.633728027344,
+            -111.90798187256,
+            40.638038635254
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.909698,
+                        40.635647
+                    ],
+                    [
+                        -111.907982,
+                        40.633953
+                    ],
+                    [
+                        -111.908066,
+                        40.633854
+                    ],
+                    [
+                        -111.910912,
+                        40.633728
+                    ],
+                    [
+                        -111.914268,
+                        40.638039
+                    ],
+                    [
+                        -111.909698,
+                        40.635647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

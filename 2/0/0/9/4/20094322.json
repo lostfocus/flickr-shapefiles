@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 20094322,
+    "properties": {
+        "woe_id": 20094322,
+        "place_id": "GTSqQUKbAZzHoKNLuA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hatton Garden, London, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546166,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/20094322_20101217_77593ba090.tar.gz"
+        },
+        "bbox": [
+            -0.11293099820614,
+            51.515472412109,
+            -0.10738400369883,
+            51.520812988281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.107384,
+                        51.518421
+                    ],
+                    [
+                        -0.107663,
+                        51.517765
+                    ],
+                    [
+                        -0.108189,
+                        51.5163
+                    ],
+                    [
+                        -0.108318,
+                        51.515472
+                    ],
+                    [
+                        -0.109755,
+                        51.517609
+                    ],
+                    [
+                        -0.110893,
+                        51.518997
+                    ],
+                    [
+                        -0.112931,
+                        51.520813
+                    ],
+                    [
+                        -0.110818,
+                        51.519424
+                    ],
+                    [
+                        -0.107384,
+                        51.518421
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559614,
+    "properties": {
+        "woe_id": 28559614,
+        "place_id": "CaLrcvGbCZkVi2AP7Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tanimachi 2 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472370,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28559614_20101216_a11c8551ba.tar.gz"
+        },
+        "bbox": [
+            135.51713562012,
+            34.685558319092,
+            135.51847839355,
+            34.686531066895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.517487,
+                        34.685581
+                    ],
+                    [
+                        135.517136,
+                        34.686531
+                    ],
+                    [
+                        135.5177,
+                        34.686378
+                    ],
+                    [
+                        135.518478,
+                        34.685646
+                    ],
+                    [
+                        135.517746,
+                        34.685558
+                    ],
+                    [
+                        135.517487,
+                        34.685581
+                    ]
+                ]
+            ]
+        ]
+    }
+}

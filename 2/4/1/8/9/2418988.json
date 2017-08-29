@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2418988,
+    "properties": {
+        "woe_id": 2418988,
+        "place_id": "OOsp8mubBZ2tzgJ5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hayden, Windsor, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234777929,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3314\/shapefiles\/2418988_20090216_21598f0dc6.tar.gz"
+        },
+        "bbox": [
+            -72.634048461914,
+            41.889610290527,
+            -72.619415283203,
+            41.905151367188
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.634048,
+                        41.895123
+                    ],
+                    [
+                        -72.624908,
+                        41.905151
+                    ],
+                    [
+                        -72.619415,
+                        41.898125
+                    ],
+                    [
+                        -72.633324,
+                        41.88961
+                    ],
+                    [
+                        -72.634048,
+                        41.895123
+                    ]
+                ]
+            ]
+        ]
+    }
+}

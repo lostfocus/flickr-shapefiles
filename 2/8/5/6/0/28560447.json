@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28560447,
+    "properties": {
+        "woe_id": 28560447,
+        "place_id": "MxmmoTqbCZn161co4g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakamozucho 6cho, Sakai-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463548,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28560447_20101216_a859a2e75b.tar.gz"
+        },
+        "bbox": [
+            135.50633239746,
+            34.547164916992,
+            135.51043701172,
+            34.552375793457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.506332,
+                        34.548164
+                    ],
+                    [
+                        135.506454,
+                        34.550152
+                    ],
+                    [
+                        135.510437,
+                        34.552376
+                    ],
+                    [
+                        135.51001,
+                        34.550114
+                    ],
+                    [
+                        135.506332,
+                        34.547165
+                    ],
+                    [
+                        135.506332,
+                        34.548164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

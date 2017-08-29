@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 29229401,
+    "properties": {
+        "woe_id": 29229401,
+        "place_id": "cgTQuESbCJ48OqptMA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tremont, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546410,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/29229401_20101217_74cf531ebe.tar.gz"
+        },
+        "bbox": [
+            -76.697944641113,
+            39.280738830566,
+            -76.691757202148,
+            39.281749725342
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.696793,
+                        39.280739
+                    ],
+                    [
+                        -76.697945,
+                        39.281574
+                    ],
+                    [
+                        -76.697037,
+                        39.28175
+                    ],
+                    [
+                        -76.691757,
+                        39.281708
+                    ],
+                    [
+                        -76.696541,
+                        39.281036
+                    ],
+                    [
+                        -76.696709,
+                        39.280792
+                    ],
+                    [
+                        -76.696793,
+                        39.280739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

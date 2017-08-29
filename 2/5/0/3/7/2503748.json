@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503748,
+    "properties": {
+        "woe_id": 2503748,
+        "place_id": "lkRljFObBJydYW2y",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Talley Place, Chattanooga, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469907,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2503748_20101216_046977ac12.tar.gz"
+        },
+        "bbox": [
+            -85.202728271484,
+            35.033535003662,
+            -85.198211669922,
+            35.037719726562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.202728,
+                        35.033535
+                    ],
+                    [
+                        -85.200455,
+                        35.034943
+                    ],
+                    [
+                        -85.198212,
+                        35.03772
+                    ],
+                    [
+                        -85.20005,
+                        35.034599
+                    ],
+                    [
+                        -85.202728,
+                        35.033535
+                    ]
+                ]
+            ]
+        ]
+    }
+}

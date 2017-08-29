@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28747276,
+    "properties": {
+        "woe_id": 28747276,
+        "place_id": "4z9W0fubCZuZ6CJJtw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mildred, Springfield, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546982,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/28747276_20101217_b777e03c67.tar.gz"
+        },
+        "bbox": [
+            -89.64665222168,
+            39.754596710205,
+            -89.643157958984,
+            39.756690979004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.646637,
+                        39.755779
+                    ],
+                    [
+                        -89.646652,
+                        39.755917
+                    ],
+                    [
+                        -89.643242,
+                        39.756691
+                    ],
+                    [
+                        -89.643158,
+                        39.756493
+                    ],
+                    [
+                        -89.646141,
+                        39.754597
+                    ],
+                    [
+                        -89.646637,
+                        39.755779
+                    ]
+                ]
+            ]
+        ]
+    }
+}

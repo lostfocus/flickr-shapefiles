@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2365843,
+    "properties": {
+        "woe_id": 2365843,
+        "place_id": "Q93icEKbAppwXiPh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Blue Mountain, Saugerties, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248087974,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2487\/shapefiles\/2365843_20090720_4ef36c6e4d.tar.gz"
+        },
+        "bbox": [
+            -74.022789001465,
+            42.10990524292,
+            -74.013259887695,
+            42.116626739502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.022789,
+                        42.110703
+                    ],
+                    [
+                        -74.022659,
+                        42.113487
+                    ],
+                    [
+                        -74.017563,
+                        42.116627
+                    ],
+                    [
+                        -74.01326,
+                        42.11134
+                    ],
+                    [
+                        -74.015968,
+                        42.109905
+                    ],
+                    [
+                        -74.022789,
+                        42.110703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28546895,
+    "properties": {
+        "woe_id": 28546895,
+        "place_id": "eyspP5KbCZn3FmShhw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shirakane 3 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442194,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/28546895_20101215_066c8ce8a4.tar.gz"
+        },
+        "bbox": [
+            136.91758728027,
+            35.140968322754,
+            136.91813659668,
+            35.143550872803
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.918137,
+                        35.143303
+                    ],
+                    [
+                        136.918121,
+                        35.142448
+                    ],
+                    [
+                        136.917801,
+                        35.140968
+                    ],
+                    [
+                        136.917618,
+                        35.14193
+                    ],
+                    [
+                        136.917587,
+                        35.143551
+                    ],
+                    [
+                        136.918137,
+                        35.143303
+                    ]
+                ]
+            ]
+        ]
+    }
+}

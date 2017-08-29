@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2378825,
+    "properties": {
+        "woe_id": 2378825,
+        "place_id": "o3fc51qbAptEV0rI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chelsea, Huntsville, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519885,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2378825_20101216_bcee0ec0db.tar.gz"
+        },
+        "bbox": [
+            -86.598731994629,
+            34.697387695312,
+            -86.596626281738,
+            34.700828552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.596626,
+                        34.699036
+                    ],
+                    [
+                        -86.598457,
+                        34.697388
+                    ],
+                    [
+                        -86.598732,
+                        34.698311
+                    ],
+                    [
+                        -86.598724,
+                        34.699116
+                    ],
+                    [
+                        -86.598572,
+                        34.700356
+                    ],
+                    [
+                        -86.598511,
+                        34.700829
+                    ],
+                    [
+                        -86.596626,
+                        34.699036
+                    ]
+                ]
+            ]
+        ]
+    }
+}

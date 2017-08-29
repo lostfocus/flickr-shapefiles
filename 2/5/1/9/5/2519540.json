@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519540,
+    "properties": {
+        "woe_id": 2519540,
+        "place_id": "U78M4cWbBJ0hfd8_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "White Rock, Kirkwood, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519978,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2519540_20101216_47a58a81b4.tar.gz"
+        },
+        "bbox": [
+            -76.090103149414,
+            39.82458114624,
+            -76.088233947754,
+            39.825637817383
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.090004,
+                        39.825638
+                    ],
+                    [
+                        -76.089836,
+                        39.8256
+                    ],
+                    [
+                        -76.088234,
+                        39.825089
+                    ],
+                    [
+                        -76.090103,
+                        39.824581
+                    ],
+                    [
+                        -76.090096,
+                        39.824703
+                    ],
+                    [
+                        -76.090004,
+                        39.825638
+                    ]
+                ]
+            ]
+        ]
+    }
+}

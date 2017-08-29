@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2486590,
+    "properties": {
+        "woe_id": 2486590,
+        "place_id": "C4IgEuSbBZR0Ufpa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Andrew, Walden, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451896,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2486590_20101215_6b44bd83ae.tar.gz"
+        },
+        "bbox": [
+            -74.14981842041,
+            41.569889068604,
+            -74.145118713379,
+            41.571472167969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.145126,
+                        41.571102
+                    ],
+                    [
+                        -74.146683,
+                        41.569889
+                    ],
+                    [
+                        -74.149818,
+                        41.571472
+                    ],
+                    [
+                        -74.145157,
+                        41.57143
+                    ],
+                    [
+                        -74.145119,
+                        41.571316
+                    ],
+                    [
+                        -74.145126,
+                        41.571102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

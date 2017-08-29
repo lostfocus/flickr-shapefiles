@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28503135,
+    "properties": {
+        "woe_id": 28503135,
+        "place_id": "_CgNjPabCZmHgDpXWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Naniwacho 8 Chome, Kushiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517895,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/28503135_20101216_f3276eba69.tar.gz"
+        },
+        "bbox": [
+            144.37632751465,
+            42.984664916992,
+            144.37733459473,
+            42.985000610352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.376831,
+                        42.984665
+                    ],
+                    [
+                        144.376328,
+                        42.984665
+                    ],
+                    [
+                        144.377167,
+                        42.985001
+                    ],
+                    [
+                        144.377335,
+                        42.985001
+                    ],
+                    [
+                        144.376999,
+                        42.984665
+                    ],
+                    [
+                        144.376831,
+                        42.984665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

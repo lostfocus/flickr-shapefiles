@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20063895,
+    "properties": {
+        "woe_id": 20063895,
+        "place_id": "A7olLBmbAZxVVc1VOw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belgisch Park, The Hague, ZH, NL, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452144,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/20063895_20101215_055ae0e975.tar.gz"
+        },
+        "bbox": [
+            4.2829718589783,
+            52.1123046875,
+            4.2853760719299,
+            52.116916656494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.282972,
+                        52.115688
+                    ],
+                    [
+                        4.283423,
+                        52.11615
+                    ],
+                    [
+                        4.285376,
+                        52.116917
+                    ],
+                    [
+                        4.285075,
+                        52.114056
+                    ],
+                    [
+                        4.283981,
+                        52.112305
+                    ],
+                    [
+                        4.28338,
+                        52.115124
+                    ],
+                    [
+                        4.282972,
+                        52.115688
+                    ]
+                ]
+            ]
+        ]
+    }
+}

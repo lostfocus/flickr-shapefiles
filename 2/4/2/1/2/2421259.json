@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2421259,
+    "properties": {
+        "woe_id": 2421259,
+        "place_id": "gzCBnfybBZ7JWlf9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "High Ridge, Stamford, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542795,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2421259_20101216_923caae747.tar.gz"
+        },
+        "bbox": [
+            -73.57299041748,
+            41.15299987793,
+            -73.568664550781,
+            41.154552459717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.571175,
+                        41.154427
+                    ],
+                    [
+                        -73.570114,
+                        41.154552
+                    ],
+                    [
+                        -73.568665,
+                        41.153
+                    ],
+                    [
+                        -73.571465,
+                        41.153786
+                    ],
+                    [
+                        -73.57299,
+                        41.153965
+                    ],
+                    [
+                        -73.571175,
+                        41.154427
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2386003,
+    "properties": {
+        "woe_id": 2386003,
+        "place_id": "k7JSHfybApQnacdv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Country View Lane, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444682,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2386003_20101215_311ae8873e.tar.gz"
+        },
+        "bbox": [
+            -111.82830810547,
+            40.611526489258,
+            -111.82712554932,
+            40.612754821777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.827248,
+                        40.611526
+                    ],
+                    [
+                        -111.828308,
+                        40.612377
+                    ],
+                    [
+                        -111.82814,
+                        40.612698
+                    ],
+                    [
+                        -111.827904,
+                        40.612755
+                    ],
+                    [
+                        -111.827705,
+                        40.612324
+                    ],
+                    [
+                        -111.827126,
+                        40.611526
+                    ],
+                    [
+                        -111.827248,
+                        40.611526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

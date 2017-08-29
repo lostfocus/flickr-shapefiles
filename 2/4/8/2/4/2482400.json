@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2482400,
+    "properties": {
+        "woe_id": 2482400,
+        "place_id": "mbO06nqbBZSejQj4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riverview, Lock Haven, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440984,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2482400_20101215_592d5ccef7.tar.gz"
+        },
+        "bbox": [
+            -77.514167785645,
+            41.174167633057,
+            -77.513885498047,
+            41.174633026123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.514168,
+                        41.174442
+                    ],
+                    [
+                        -77.514015,
+                        41.174633
+                    ],
+                    [
+                        -77.513885,
+                        41.174168
+                    ],
+                    [
+                        -77.514168,
+                        41.174168
+                    ],
+                    [
+                        -77.514168,
+                        41.174442
+                    ]
+                ]
+            ]
+        ]
+    }
+}

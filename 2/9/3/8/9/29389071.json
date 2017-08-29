@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29389071,
+    "properties": {
+        "woe_id": 29389071,
+        "place_id": "qFhxbAKbCJ8RV.RrYw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Platt Park, Denver, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442487,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/29389071_20101215_eabc2c76dd.tar.gz"
+        },
+        "bbox": [
+            -104.98767089844,
+            39.694976806641,
+            -104.98712921143,
+            39.695728302002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.987328,
+                        39.695076
+                    ],
+                    [
+                        -104.98735,
+                        39.694977
+                    ],
+                    [
+                        -104.987541,
+                        39.695045
+                    ],
+                    [
+                        -104.987671,
+                        39.695103
+                    ],
+                    [
+                        -104.987129,
+                        39.695728
+                    ],
+                    [
+                        -104.987328,
+                        39.695076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

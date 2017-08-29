@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2391336,
+    "properties": {
+        "woe_id": 2391336,
+        "place_id": "RbToqjCbApU9nOLI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Denver Place, Ogden, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456648,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2391336_20101215_5a758c88ab.tar.gz"
+        },
+        "bbox": [
+            -111.93816375732,
+            41.217498779297,
+            -111.936668396,
+            41.218166351318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.936668,
+                        41.217999
+                    ],
+                    [
+                        -111.936668,
+                        41.217834
+                    ],
+                    [
+                        -111.938164,
+                        41.217499
+                    ],
+                    [
+                        -111.937332,
+                        41.218166
+                    ],
+                    [
+                        -111.936668,
+                        41.218166
+                    ],
+                    [
+                        -111.936668,
+                        41.217999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

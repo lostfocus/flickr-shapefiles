@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28642764,
+    "properties": {
+        "woe_id": 28642764,
+        "place_id": "2af55NybCZoI5w22iQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St Lukes, Auckland, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537093,
+        "alpha": 1.25e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28642764_20101216_b9611d61ab.tar.gz"
+        },
+        "bbox": [
+            174.72523498535,
+            -36.878486633301,
+            174.72673034668,
+            -36.872615814209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.725693,
+                        -36.878292
+                    ],
+                    [
+                        174.725235,
+                        -36.872616
+                    ],
+                    [
+                        174.72673,
+                        -36.876827
+                    ],
+                    [
+                        174.725708,
+                        -36.878487
+                    ],
+                    [
+                        174.725662,
+                        -36.878334
+                    ],
+                    [
+                        174.725693,
+                        -36.878292
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23399583,
+    "properties": {
+        "woe_id": 23399583,
+        "place_id": "Hp4IW8ubAp8POB5Jng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hampton Heights, Hamilton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292488684,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/23399583_20101216_087748f6ae.tar.gz"
+        },
+        "bbox": [
+            -79.840072631836,
+            43.218631744385,
+            -79.832389831543,
+            43.220565795898
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.83239,
+                        43.219257
+                    ],
+                    [
+                        -79.832718,
+                        43.218632
+                    ],
+                    [
+                        -79.8339,
+                        43.220348
+                    ],
+                    [
+                        -79.840073,
+                        43.220566
+                    ],
+                    [
+                        -79.8339,
+                        43.220566
+                    ],
+                    [
+                        -79.83239,
+                        43.219257
+                    ]
+                ]
+            ]
+        ]
+    }
+}

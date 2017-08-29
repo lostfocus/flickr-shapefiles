@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229419,
+    "properties": {
+        "woe_id": 20229419,
+        "place_id": "1N.cWtCbAZ7rPzKZQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Pauls Plads, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454969,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/20229419_20101215_a96f44becc.tar.gz"
+        },
+        "bbox": [
+            12.588003158569,
+            55.686988830566,
+            12.588717460632,
+            55.687480926514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.588717,
+                        55.687069
+                    ],
+                    [
+                        12.588704,
+                        55.687027
+                    ],
+                    [
+                        12.588057,
+                        55.686989
+                    ],
+                    [
+                        12.588003,
+                        55.687263
+                    ],
+                    [
+                        12.588272,
+                        55.687481
+                    ],
+                    [
+                        12.588717,
+                        55.687069
+                    ]
+                ]
+            ]
+        ]
+    }
+}

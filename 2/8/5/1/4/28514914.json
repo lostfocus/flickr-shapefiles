@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28514914,
+    "properties": {
+        "woe_id": 28514914,
+        "place_id": "mbLhcfibCZkJsRSoAQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiyama 1 Chome, Morioka-shi, Iwate Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472122,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/28514914_20101216_c2848da551.tar.gz"
+        },
+        "bbox": [
+            141.18716430664,
+            39.696357727051,
+            141.19467163086,
+            39.698665618896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.190506,
+                        39.696499
+                    ],
+                    [
+                        141.187164,
+                        39.698666
+                    ],
+                    [
+                        141.192001,
+                        39.698334
+                    ],
+                    [
+                        141.194672,
+                        39.696835
+                    ],
+                    [
+                        141.191483,
+                        39.696358
+                    ],
+                    [
+                        141.190506,
+                        39.696499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

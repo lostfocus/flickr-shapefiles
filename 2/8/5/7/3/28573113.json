@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28573113,
+    "properties": {
+        "woe_id": 28573113,
+        "place_id": "KfUmCFebCZk3NQ2GCQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akebonocho 6 Chome, Fukuyama-shi, Hiroshima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455300,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28573113_20101215_cfd0a8c8fe.tar.gz"
+        },
+        "bbox": [
+            133.40100097656,
+            34.466167449951,
+            133.40682983398,
+            34.467166900635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        133.401001,
+                        34.466331
+                    ],
+                    [
+                        133.401337,
+                        34.467167
+                    ],
+                    [
+                        133.40683,
+                        34.466331
+                    ],
+                    [
+                        133.40683,
+                        34.466167
+                    ],
+                    [
+                        133.401337,
+                        34.466167
+                    ],
+                    [
+                        133.401001,
+                        34.466331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

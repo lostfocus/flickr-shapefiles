@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2449801,
+    "properties": {
+        "woe_id": 2449801,
+        "place_id": "QiK5PFKbBZgtUp.x",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Merwinsville, Gaylordsville, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548312,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2449801_20101217_2037a9b0b3.tar.gz"
+        },
+        "bbox": [
+            -73.485824584961,
+            41.646076202393,
+            -73.482795715332,
+            41.648963928223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.48317,
+                        41.648399
+                    ],
+                    [
+                        -73.482796,
+                        41.647373
+                    ],
+                    [
+                        -73.48407,
+                        41.646076
+                    ],
+                    [
+                        -73.485825,
+                        41.648964
+                    ],
+                    [
+                        -73.484062,
+                        41.648457
+                    ],
+                    [
+                        -73.48317,
+                        41.648399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403375,
+    "properties": {
+        "woe_id": 2403375,
+        "place_id": "rLDdCZebBZzCNLhb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fillmore, Bellefonte, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518192,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2403375_20101216_fc610ccf63.tar.gz"
+        },
+        "bbox": [
+            -77.851348876953,
+            40.851554870605,
+            -77.846611022949,
+            40.856018066406
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.848305,
+                        40.853649
+                    ],
+                    [
+                        -77.851349,
+                        40.851555
+                    ],
+                    [
+                        -77.849464,
+                        40.856018
+                    ],
+                    [
+                        -77.847488,
+                        40.854427
+                    ],
+                    [
+                        -77.846611,
+                        40.853294
+                    ],
+                    [
+                        -77.848305,
+                        40.853649
+                    ]
+                ]
+            ]
+        ]
+    }
+}

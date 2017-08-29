@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402821,
+    "properties": {
+        "woe_id": 2402821,
+        "place_id": "hVOd92ibBZychbPZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Felch Corner, Limerick, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292468886,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2402821_20101216_0452da12cf.tar.gz"
+        },
+        "bbox": [
+            -70.786163330078,
+            43.674217224121,
+            -70.78604888916,
+            43.674476623535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.786156,
+                        43.674286
+                    ],
+                    [
+                        -70.786163,
+                        43.674297
+                    ],
+                    [
+                        -70.786163,
+                        43.674477
+                    ],
+                    [
+                        -70.786064,
+                        43.674332
+                    ],
+                    [
+                        -70.786049,
+                        43.674217
+                    ],
+                    [
+                        -70.786156,
+                        43.674286
+                    ]
+                ]
+            ]
+        ]
+    }
+}

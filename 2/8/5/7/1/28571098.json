@@ -1,0 +1,78 @@
+{
+    "type": "Feature",
+    "id": 28571098,
+    "properties": {
+        "woe_id": 28571098,
+        "place_id": "dzwlWSubCZkeIqyPDA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gakuen 1 Chome, Matsue-shi, Shimane Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547531,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 11,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28571098_20101217_f8d1cff592.tar.gz"
+        },
+        "bbox": [
+            133.05610656738,
+            35.47607421875,
+            133.06582641602,
+            35.480335235596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        133.056107,
+                        35.477936
+                    ],
+                    [
+                        133.056442,
+                        35.477936
+                    ],
+                    [
+                        133.059662,
+                        35.479
+                    ],
+                    [
+                        133.062332,
+                        35.480167
+                    ],
+                    [
+                        133.064163,
+                        35.480335
+                    ],
+                    [
+                        133.065369,
+                        35.479614
+                    ],
+                    [
+                        133.065826,
+                        35.477001
+                    ],
+                    [
+                        133.062195,
+                        35.476074
+                    ],
+                    [
+                        133.059662,
+                        35.479
+                    ],
+                    [
+                        133.056671,
+                        35.480167
+                    ],
+                    [
+                        133.056107,
+                        35.477936
+                    ]
+                ]
+            ]
+        ]
+    }
+}

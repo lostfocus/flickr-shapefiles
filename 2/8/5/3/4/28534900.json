@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534900,
+    "properties": {
+        "woe_id": 28534900,
+        "place_id": "6tYfJlKbCZm5O4d51w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yamatohigashi 2 Chome, Yamato-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524748,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28534900_20101216_854e2487ba.tar.gz"
+        },
+        "bbox": [
+            139.46025085449,
+            35.470664978027,
+            139.46133422852,
+            35.472599029541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.460999,
+                        35.471001
+                    ],
+                    [
+                        139.460251,
+                        35.472599
+                    ],
+                    [
+                        139.461136,
+                        35.472412
+                    ],
+                    [
+                        139.461166,
+                        35.4715
+                    ],
+                    [
+                        139.461334,
+                        35.470665
+                    ],
+                    [
+                        139.460999,
+                        35.471001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

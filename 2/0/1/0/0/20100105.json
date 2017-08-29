@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20100105,
+    "properties": {
+        "woe_id": 20100105,
+        "place_id": "eUn_UPabAZ3yaASEFQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hoeggen, Trondheim, Sor-Trondelag, NO, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545877,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/20100105_20101217_b5f9738e17.tar.gz"
+        },
+        "bbox": [
+            10.429544448853,
+            63.393745422363,
+            10.436924934387,
+            63.399101257324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.429544,
+                        63.394768
+                    ],
+                    [
+                        10.429608,
+                        63.397842
+                    ],
+                    [
+                        10.429544,
+                        63.399101
+                    ],
+                    [
+                        10.432583,
+                        63.399025
+                    ],
+                    [
+                        10.436925,
+                        63.398354
+                    ],
+                    [
+                        10.43453,
+                        63.393745
+                    ],
+                    [
+                        10.429544,
+                        63.394768
+                    ]
+                ]
+            ]
+        ]
+    }
+}

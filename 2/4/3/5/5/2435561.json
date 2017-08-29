@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435561,
+    "properties": {
+        "woe_id": 2435561,
+        "place_id": "7RxvmGSbBZ8w_Nmh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakeview, Fort Mitchell, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523321,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2435561_20101216_f093f00139.tar.gz"
+        },
+        "bbox": [
+            -84.537109375,
+            39.032348632812,
+            -84.533401489258,
+            39.040920257568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.533585,
+                        39.033447
+                    ],
+                    [
+                        -84.537109,
+                        39.032349
+                    ],
+                    [
+                        -84.536011,
+                        39.035637
+                    ],
+                    [
+                        -84.536705,
+                        39.04092
+                    ],
+                    [
+                        -84.533401,
+                        39.035934
+                    ],
+                    [
+                        -84.533585,
+                        39.033447
+                    ]
+                ]
+            ]
+        ]
+    }
+}

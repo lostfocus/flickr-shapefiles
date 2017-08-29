@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2495628,
+    "properties": {
+        "woe_id": 2495628,
+        "place_id": "XC_yHpebBZVJpUwK",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Solomon Heights, Dothan, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454585,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2495628_20101215_d3f56f7373.tar.gz"
+        },
+        "bbox": [
+            -85.435653686523,
+            31.239532470703,
+            -85.430488586426,
+            31.244075775146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.435654,
+                        31.244076
+                    ],
+                    [
+                        -85.430489,
+                        31.243443
+                    ],
+                    [
+                        -85.430725,
+                        31.241577
+                    ],
+                    [
+                        -85.43103,
+                        31.240892
+                    ],
+                    [
+                        -85.431549,
+                        31.239532
+                    ],
+                    [
+                        -85.435654,
+                        31.244076
+                    ]
+                ]
+            ]
+        ]
+    }
+}

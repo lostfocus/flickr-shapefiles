@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2491782,
+    "properties": {
+        "woe_id": 2491782,
+        "place_id": "CILdXcKbBZVA0_CD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sharon Station, Amenia, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544251,
+        "alpha": 1.0e-5,
+        "points": 36,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2491782_20101217_75e82f8b1a.tar.gz"
+        },
+        "bbox": [
+            -73.526390075684,
+            41.880462646484,
+            -73.520553588867,
+            41.883289337158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.521591,
+                        41.881138
+                    ],
+                    [
+                        -73.522476,
+                        41.880463
+                    ],
+                    [
+                        -73.52639,
+                        41.880688
+                    ],
+                    [
+                        -73.5233,
+                        41.88155
+                    ],
+                    [
+                        -73.520554,
+                        41.883289
+                    ],
+                    [
+                        -73.521591,
+                        41.881138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

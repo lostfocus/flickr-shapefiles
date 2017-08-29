@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483311,
+    "properties": {
+        "woe_id": 2483311,
+        "place_id": "RSYn2JmbBZSXnypr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockdale, Schnecksville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544300,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2483311_20101217_1db2ff112b.tar.gz"
+        },
+        "bbox": [
+            -75.54907989502,
+            40.702487945557,
+            -75.54362487793,
+            40.705383300781
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.548698,
+                        40.702564
+                    ],
+                    [
+                        -75.54908,
+                        40.702488
+                    ],
+                    [
+                        -75.547699,
+                        40.704067
+                    ],
+                    [
+                        -75.543625,
+                        40.705383
+                    ],
+                    [
+                        -75.546844,
+                        40.703739
+                    ],
+                    [
+                        -75.548698,
+                        40.702564
+                    ]
+                ]
+            ]
+        ]
+    }
+}

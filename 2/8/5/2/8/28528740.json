@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528740,
+    "properties": {
+        "woe_id": 28528740,
+        "place_id": "7dCfUtGbCZkM93LjNg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saginomiya 6 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496244,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/28528740_20101216_44c63d198d.tar.gz"
+        },
+        "bbox": [
+            139.62519836426,
+            35.723377227783,
+            139.62847900391,
+            35.725299835205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.625198,
+                        35.723732
+                    ],
+                    [
+                        139.625671,
+                        35.724674
+                    ],
+                    [
+                        139.626358,
+                        35.7253
+                    ],
+                    [
+                        139.628479,
+                        35.725098
+                    ],
+                    [
+                        139.626846,
+                        35.723377
+                    ],
+                    [
+                        139.625198,
+                        35.723732
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529752,
+    "properties": {
+        "woe_id": 28529752,
+        "place_id": "VXQdVqSbCZkwWMV5Mw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kanamachi 3 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472242,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28529752_20101216_268f5af62e.tar.gz"
+        },
+        "bbox": [
+            139.87503051758,
+            35.76575088501,
+            139.87913513184,
+            35.769401550293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.878098,
+                        35.767197
+                    ],
+                    [
+                        139.875031,
+                        35.769402
+                    ],
+                    [
+                        139.878525,
+                        35.768845
+                    ],
+                    [
+                        139.879135,
+                        35.766083
+                    ],
+                    [
+                        139.879135,
+                        35.765751
+                    ],
+                    [
+                        139.878098,
+                        35.767197
+                    ]
+                ]
+            ]
+        ]
+    }
+}

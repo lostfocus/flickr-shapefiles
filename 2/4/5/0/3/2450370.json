@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2450370,
+    "properties": {
+        "woe_id": 2450370,
+        "place_id": "QmGUnXKbBZlZqHnJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Middleton Heights, Laurinburg, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507345,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2450370_20101216_8a95af2e9d.tar.gz"
+        },
+        "bbox": [
+            -79.463592529297,
+            34.775459289551,
+            -79.45703125,
+            34.779125213623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.460503,
+                        34.779125
+                    ],
+                    [
+                        -79.457031,
+                        34.777431
+                    ],
+                    [
+                        -79.460518,
+                        34.776367
+                    ],
+                    [
+                        -79.463249,
+                        34.775459
+                    ],
+                    [
+                        -79.463593,
+                        34.777714
+                    ],
+                    [
+                        -79.460503,
+                        34.779125
+                    ]
+                ]
+            ]
+        ]
+    }
+}

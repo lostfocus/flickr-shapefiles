@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297402,
+    "properties": {
+        "woe_id": 28297402,
+        "place_id": "ymbMPoKbCZ7lvmmCCA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gano, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463550,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/28297402_20101216_51768b0863.tar.gz"
+        },
+        "bbox": [
+            -87.620819091797,
+            41.679153442383,
+            -87.620483398438,
+            41.682666778564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.620667,
+                        41.682667
+                    ],
+                    [
+                        -87.620483,
+                        41.682037
+                    ],
+                    [
+                        -87.620796,
+                        41.679153
+                    ],
+                    [
+                        -87.620781,
+                        41.681572
+                    ],
+                    [
+                        -87.620819,
+                        41.682652
+                    ],
+                    [
+                        -87.620667,
+                        41.682667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

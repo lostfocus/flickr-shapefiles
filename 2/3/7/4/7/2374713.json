@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2374713,
+    "properties": {
+        "woe_id": 2374713,
+        "place_id": "i4CEpKybApvOYHsI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Capitol Green, Dover, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521082,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2374713_20101216_5e7df01ee4.tar.gz"
+        },
+        "bbox": [
+            -75.51180267334,
+            39.154975891113,
+            -75.506652832031,
+            39.160850524902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.509392,
+                        39.158615
+                    ],
+                    [
+                        -75.507668,
+                        39.158669
+                    ],
+                    [
+                        -75.506653,
+                        39.154976
+                    ],
+                    [
+                        -75.508522,
+                        39.156509
+                    ],
+                    [
+                        -75.510178,
+                        39.157639
+                    ],
+                    [
+                        -75.511803,
+                        39.160851
+                    ],
+                    [
+                        -75.509392,
+                        39.158615
+                    ]
+                ]
+            ]
+        ]
+    }
+}

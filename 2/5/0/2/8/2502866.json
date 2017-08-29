@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502866,
+    "properties": {
+        "woe_id": 2502866,
+        "place_id": "ThO2OC.bBJyPWMFa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swan Avenue, Worcester, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544780,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2502866_20101217_b62f1215cb.tar.gz"
+        },
+        "bbox": [
+            -71.838394165039,
+            42.249607086182,
+            -71.836959838867,
+            42.251201629639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.83696,
+                        42.250771
+                    ],
+                    [
+                        -71.837227,
+                        42.249607
+                    ],
+                    [
+                        -71.837402,
+                        42.249989
+                    ],
+                    [
+                        -71.838394,
+                        42.251202
+                    ],
+                    [
+                        -71.83754,
+                        42.250916
+                    ],
+                    [
+                        -71.83696,
+                        42.250771
+                    ]
+                ]
+            ]
+        ]
+    }
+}

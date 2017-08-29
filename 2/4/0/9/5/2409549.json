@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2409549,
+    "properties": {
+        "woe_id": 2409549,
+        "place_id": "c3tbbfabBZwtCC5J",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gentilly Forest, Birmingham, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440623,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2409549_20101215_1988ea4b20.tar.gz"
+        },
+        "bbox": [
+            -86.80973815918,
+            33.419761657715,
+            -86.806350708008,
+            33.422130584717
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.806351,
+                        33.420132
+                    ],
+                    [
+                        -86.808449,
+                        33.419762
+                    ],
+                    [
+                        -86.809738,
+                        33.421181
+                    ],
+                    [
+                        -86.809181,
+                        33.422131
+                    ],
+                    [
+                        -86.807281,
+                        33.420757
+                    ],
+                    [
+                        -86.806351,
+                        33.420132
+                    ]
+                ]
+            ]
+        ]
+    }
+}

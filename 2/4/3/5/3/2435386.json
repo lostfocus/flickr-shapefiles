@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435386,
+    "properties": {
+        "woe_id": 2435386,
+        "place_id": "pvzHObubBZ9nbCVk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakeridge, Tuscaloosa, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543272,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2435386_20101216_2776101ef3.tar.gz"
+        },
+        "bbox": [
+            -87.508506774902,
+            33.265636444092,
+            -87.505645751953,
+            33.267124176025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.505646,
+                        33.266376
+                    ],
+                    [
+                        -87.506477,
+                        33.265636
+                    ],
+                    [
+                        -87.508507,
+                        33.26582
+                    ],
+                    [
+                        -87.507988,
+                        33.26704
+                    ],
+                    [
+                        -87.505997,
+                        33.267124
+                    ],
+                    [
+                        -87.505646,
+                        33.266376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

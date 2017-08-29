@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396616,
+    "properties": {
+        "woe_id": 2396616,
+        "place_id": "1fN7.LybApUIM_Q0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eastwood, Birmingham, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234751772,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3560\/shapefiles\/2396616_20090216_2710290856.tar.gz"
+        },
+        "bbox": [
+            -86.763191223145,
+            33.544239044189,
+            -86.754974365234,
+            33.552265167236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.754974,
+                        33.546303
+                    ],
+                    [
+                        -86.762558,
+                        33.544239
+                    ],
+                    [
+                        -86.763191,
+                        33.546829
+                    ],
+                    [
+                        -86.75766,
+                        33.552265
+                    ],
+                    [
+                        -86.754974,
+                        33.546303
+                    ]
+                ]
+            ]
+        ]
+    }
+}

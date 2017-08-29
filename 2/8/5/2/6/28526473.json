@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526473,
+    "properties": {
+        "woe_id": 28526473,
+        "place_id": "P7eWfnybCZmvbXtUyA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagasaki 1 Chome, Nagareyama-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457709,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/28526473_20101216_9996229028.tar.gz"
+        },
+        "bbox": [
+            139.93258666992,
+            35.864086151123,
+            139.9354095459,
+            35.867317199707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.932632,
+                        35.866512
+                    ],
+                    [
+                        139.932587,
+                        35.867317
+                    ],
+                    [
+                        139.933777,
+                        35.866966
+                    ],
+                    [
+                        139.933792,
+                        35.866783
+                    ],
+                    [
+                        139.93541,
+                        35.864086
+                    ],
+                    [
+                        139.932632,
+                        35.866512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

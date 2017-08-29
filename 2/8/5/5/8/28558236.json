@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28558236,
+    "properties": {
+        "woe_id": 28558236,
+        "place_id": "PdCvffSbCZm.HfcRuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shitennoji 2 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457715,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28558236_20101216_834e58d306.tar.gz"
+        },
+        "bbox": [
+            135.51741027832,
+            34.654697418213,
+            135.51959228516,
+            34.655944824219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.518005,
+                        34.655304
+                    ],
+                    [
+                        135.51741,
+                        34.655945
+                    ],
+                    [
+                        135.517838,
+                        34.655945
+                    ],
+                    [
+                        135.518051,
+                        34.655914
+                    ],
+                    [
+                        135.519592,
+                        34.654697
+                    ],
+                    [
+                        135.518005,
+                        34.655304
+                    ]
+                ]
+            ]
+        ]
+    }
+}

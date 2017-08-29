@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2423514,
+    "properties": {
+        "woe_id": 2423514,
+        "place_id": "Yd4k1iWbBZ5nabJF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holmansville, Jackson, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234869973,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3586\/shapefiles\/2423514_20090217_023f3408be.tar.gz"
+        },
+        "bbox": [
+            -74.294868469238,
+            40.10139465332,
+            -74.289123535156,
+            40.107025146484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.289124,
+                        40.10696
+                    ],
+                    [
+                        -74.291824,
+                        40.101395
+                    ],
+                    [
+                        -74.294868,
+                        40.106537
+                    ],
+                    [
+                        -74.289467,
+                        40.107025
+                    ],
+                    [
+                        -74.289124,
+                        40.10696
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2508708,
+    "properties": {
+        "woe_id": 2508708,
+        "place_id": "qn5IN_ubBJyQsOAm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Turkey Creek Meadows, Merrillville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541681,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2508708_20101216_17140f98b6.tar.gz"
+        },
+        "bbox": [
+            -87.346664428711,
+            41.495834350586,
+            -87.345832824707,
+            41.496112823486
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.34639,
+                        41.496113
+                    ],
+                    [
+                        -87.345833,
+                        41.496113
+                    ],
+                    [
+                        -87.34639,
+                        41.495834
+                    ],
+                    [
+                        -87.346664,
+                        41.495834
+                    ],
+                    [
+                        -87.346664,
+                        41.496113
+                    ],
+                    [
+                        -87.34639,
+                        41.496113
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2378573,
+    "properties": {
+        "woe_id": 2378573,
+        "place_id": ".phGY52bApuRLII2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chase Lane West, Centerville, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485690,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2378573_20101216_21126443d7.tar.gz"
+        },
+        "bbox": [
+            -111.88832855225,
+            40.93408203125,
+            -111.88205718994,
+            40.93949508667
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.88633,
+                        40.938499
+                    ],
+                    [
+                        -111.886116,
+                        40.938629
+                    ],
+                    [
+                        -111.882057,
+                        40.939495
+                    ],
+                    [
+                        -111.884468,
+                        40.93668
+                    ],
+                    [
+                        -111.888329,
+                        40.934082
+                    ],
+                    [
+                        -111.88633,
+                        40.938499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

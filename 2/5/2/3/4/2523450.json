@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2523450,
+    "properties": {
+        "woe_id": 2523450,
+        "place_id": "0X28jZCbBJ6M5ylu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodley Gardens, Rockville, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517548,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2523450_20101216_de7bd81c7d.tar.gz"
+        },
+        "bbox": [
+            -77.162757873535,
+            39.090393066406,
+            -77.160095214844,
+            39.092460632324
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.162743,
+                        39.092442
+                    ],
+                    [
+                        -77.160179,
+                        39.090641
+                    ],
+                    [
+                        -77.160095,
+                        39.090393
+                    ],
+                    [
+                        -77.160461,
+                        39.090534
+                    ],
+                    [
+                        -77.162743,
+                        39.092422
+                    ],
+                    [
+                        -77.162758,
+                        39.092461
+                    ],
+                    [
+                        -77.162743,
+                        39.092442
+                    ]
+                ]
+            ]
+        ]
+    }
+}

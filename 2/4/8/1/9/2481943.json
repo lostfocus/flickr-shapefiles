@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481943,
+    "properties": {
+        "woe_id": 2481943,
+        "place_id": "s92STgibBZR52lfZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River View, Warwick, RI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536806,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2481943_20101216_01a8e04888.tar.gz"
+        },
+        "bbox": [
+            -71.359405517578,
+            41.716876983643,
+            -71.356384277344,
+            41.717918395996
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.357918,
+                        41.716877
+                    ],
+                    [
+                        -71.359406,
+                        41.717018
+                    ],
+                    [
+                        -71.358788,
+                        41.717678
+                    ],
+                    [
+                        -71.356384,
+                        41.717918
+                    ],
+                    [
+                        -71.356934,
+                        41.717323
+                    ],
+                    [
+                        -71.357918,
+                        41.716877
+                    ]
+                ]
+            ]
+        ]
+    }
+}

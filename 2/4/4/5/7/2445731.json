@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2445731,
+    "properties": {
+        "woe_id": 2445731,
+        "place_id": "Vu6G.nqbBZi_6qnk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mariners Point, Annapolis, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507283,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2445731_20101216_c89f17b578.tar.gz"
+        },
+        "bbox": [
+            -76.491104125977,
+            38.953197479248,
+            -76.485168457031,
+            38.958576202393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.488167,
+                        38.954498
+                    ],
+                    [
+                        -76.488503,
+                        38.954666
+                    ],
+                    [
+                        -76.491104,
+                        38.958576
+                    ],
+                    [
+                        -76.488167,
+                        38.954666
+                    ],
+                    [
+                        -76.485168,
+                        38.953197
+                    ],
+                    [
+                        -76.488167,
+                        38.954498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

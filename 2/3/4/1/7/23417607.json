@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23417607,
+    "properties": {
+        "woe_id": 23417607,
+        "place_id": "FNvMEAabAph0x.pzdQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Fenton, Fenton, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531265,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/23417607_20101216_cd9c63307c.tar.gz"
+        },
+        "bbox": [
+            -83.71312713623,
+            42.844253540039,
+            -83.705345153809,
+            42.847187042236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.713127,
+                        42.847187
+                    ],
+                    [
+                        -83.710213,
+                        42.847023
+                    ],
+                    [
+                        -83.705345,
+                        42.844254
+                    ],
+                    [
+                        -83.710609,
+                        42.846142
+                    ],
+                    [
+                        -83.713127,
+                        42.847187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

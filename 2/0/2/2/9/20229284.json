@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229284,
+    "properties": {
+        "woe_id": 20229284,
+        "place_id": "toAuotabAZ5jV3S9kw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Krokodillegade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545134,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/20229284_20101217_778043bca1.tar.gz"
+        },
+        "bbox": [
+            12.588765144348,
+            55.688953399658,
+            12.590465545654,
+            55.689609527588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.590031,
+                        55.68935
+                    ],
+                    [
+                        12.590466,
+                        55.68927
+                    ],
+                    [
+                        12.590332,
+                        55.688953
+                    ],
+                    [
+                        12.58943,
+                        55.689098
+                    ],
+                    [
+                        12.588765,
+                        55.68961
+                    ],
+                    [
+                        12.590031,
+                        55.68935
+                    ]
+                ]
+            ]
+        ]
+    }
+}

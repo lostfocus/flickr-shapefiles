@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2507437,
+    "properties": {
+        "woe_id": 2507437,
+        "place_id": "E7ZJptabBJwWOCgV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Town Hill, Petersburg, WV, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518779,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2507437_20101216_464514d2ff.tar.gz"
+        },
+        "bbox": [
+            -79.12166595459,
+            38.995834350586,
+            -79.121284484863,
+            38.995914459229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.121307,
+                        38.995834
+                    ],
+                    [
+                        -79.121666,
+                        38.995834
+                    ],
+                    [
+                        -79.121315,
+                        38.995914
+                    ],
+                    [
+                        -79.121284,
+                        38.995914
+                    ],
+                    [
+                        -79.121307,
+                        38.995834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

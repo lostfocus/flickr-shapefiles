@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403919,
+    "properties": {
+        "woe_id": 2403919,
+        "place_id": "wtuH6rmbBZwanU9n",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Five Points, Cooperstown, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522101,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2403919_20101216_8524d7d6c6.tar.gz"
+        },
+        "bbox": [
+            -74.835296630859,
+            42.664688110352,
+            -74.831726074219,
+            42.66947555542
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.834122,
+                        42.664688
+                    ],
+                    [
+                        -74.835297,
+                        42.66568
+                    ],
+                    [
+                        -74.834045,
+                        42.665848
+                    ],
+                    [
+                        -74.831726,
+                        42.669476
+                    ],
+                    [
+                        -74.832855,
+                        42.665215
+                    ],
+                    [
+                        -74.834122,
+                        42.664688
+                    ]
+                ]
+            ]
+        ]
+    }
+}

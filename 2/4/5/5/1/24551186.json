@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551186,
+    "properties": {
+        "woe_id": 24551186,
+        "place_id": "tqwvpFObBZm_a2lZRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crown Hills, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527181,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/24551186_20101216_72b64ff763.tar.gz"
+        },
+        "bbox": [
+            -66.065246582031,
+            18.367666244507,
+            -66.061996459961,
+            18.369161605835
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.064003,
+                        18.367832
+                    ],
+                    [
+                        -66.065247,
+                        18.369162
+                    ],
+                    [
+                        -66.064331,
+                        18.368834
+                    ],
+                    [
+                        -66.061996,
+                        18.368668
+                    ],
+                    [
+                        -66.063332,
+                        18.367666
+                    ],
+                    [
+                        -66.064003,
+                        18.367832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

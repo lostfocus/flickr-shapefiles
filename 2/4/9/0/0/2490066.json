@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2490066,
+    "properties": {
+        "woe_id": 2490066,
+        "place_id": "usCKDRybBZXzGNj.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scottsdale Ranch, Scottsdale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532554,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2490066_20101216_ce8b2726c6.tar.gz"
+        },
+        "bbox": [
+            -111.86077880859,
+            33.571132659912,
+            -111.85579681396,
+            33.576782226562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.860779,
+                        33.574802
+                    ],
+                    [
+                        -111.860214,
+                        33.575298
+                    ],
+                    [
+                        -111.859207,
+                        33.576263
+                    ],
+                    [
+                        -111.857834,
+                        33.576782
+                    ],
+                    [
+                        -111.855797,
+                        33.574116
+                    ],
+                    [
+                        -111.860176,
+                        33.571133
+                    ],
+                    [
+                        -111.860779,
+                        33.574802
+                    ]
+                ]
+            ]
+        ]
+    }
+}

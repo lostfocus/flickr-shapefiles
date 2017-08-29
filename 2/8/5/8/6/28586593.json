@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28586593,
+    "properties": {
+        "woe_id": 28586593,
+        "place_id": "j9CGogubCZlgzqEoJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Newtown, Toowoomba, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523723,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28586593_20101216_b087cb33fa.tar.gz"
+        },
+        "bbox": [
+            151.92994689941,
+            -27.553024291992,
+            151.93324279785,
+            -27.550512313843
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.933014,
+                        -27.552967
+                    ],
+                    [
+                        151.929947,
+                        -27.551653
+                    ],
+                    [
+                        151.933014,
+                        -27.550512
+                    ],
+                    [
+                        151.933243,
+                        -27.553005
+                    ],
+                    [
+                        151.933151,
+                        -27.553024
+                    ],
+                    [
+                        151.933014,
+                        -27.552967
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2503169,
+    "properties": {
+        "woe_id": 2503169,
+        "place_id": "xEJhnpWbBJxi71JE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swifts Mills, Akron, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546281,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2503169_20101217_9d46173345.tar.gz"
+        },
+        "bbox": [
+            -78.530456542969,
+            43.069580078125,
+            -78.529884338379,
+            43.069839477539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.530167,
+                        43.069729
+                    ],
+                    [
+                        -78.529922,
+                        43.069633
+                    ],
+                    [
+                        -78.529884,
+                        43.06958
+                    ],
+                    [
+                        -78.530457,
+                        43.069839
+                    ],
+                    [
+                        -78.530167,
+                        43.069729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

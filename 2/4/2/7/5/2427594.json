@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2427594,
+    "properties": {
+        "woe_id": 2427594,
+        "place_id": "iaC_0m6bBZ7KaSHW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Irondale, Salisbury Center, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531581,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2427594_20101216_86cc9e4ccf.tar.gz"
+        },
+        "bbox": [
+            -74.754180908203,
+            43.1728515625,
+            -74.753150939941,
+            43.1735496521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.753365,
+                        43.173145
+                    ],
+                    [
+                        -74.753151,
+                        43.172958
+                    ],
+                    [
+                        -74.753304,
+                        43.17292
+                    ],
+                    [
+                        -74.753609,
+                        43.172852
+                    ],
+                    [
+                        -74.754181,
+                        43.17355
+                    ],
+                    [
+                        -74.753365,
+                        43.173145
+                    ]
+                ]
+            ]
+        ]
+    }
+}

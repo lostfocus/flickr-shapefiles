@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2430170,
+    "properties": {
+        "woe_id": 2430170,
+        "place_id": "UuTJDhGbBZ8gNi.Z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Judson, Raynham, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532522,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2430170_20101216_0b1307fc46.tar.gz"
+        },
+        "bbox": [
+            -70.966270446777,
+            41.901412963867,
+            -70.961578369141,
+            41.903011322021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.965546,
+                        41.902573
+                    ],
+                    [
+                        -70.96627,
+                        41.90242
+                    ],
+                    [
+                        -70.965714,
+                        41.903011
+                    ],
+                    [
+                        -70.963142,
+                        41.902786
+                    ],
+                    [
+                        -70.961578,
+                        41.901413
+                    ],
+                    [
+                        -70.965546,
+                        41.902573
+                    ]
+                ]
+            ]
+        ]
+    }
+}

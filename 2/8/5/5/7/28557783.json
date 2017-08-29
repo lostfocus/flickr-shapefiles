@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28557783,
+    "properties": {
+        "woe_id": 28557783,
+        "place_id": "tKTRM8WbCZnh1pkLbw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashikotari 1 Chome, Nagaokakyo-shi, Kyoto Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531141,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/28557783_20101216_381fdcf259.tar.gz"
+        },
+        "bbox": [
+            135.70175170898,
+            34.92211151123,
+            135.70552062988,
+            34.924602508545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.701752,
+                        34.924206
+                    ],
+                    [
+                        135.702133,
+                        34.924603
+                    ],
+                    [
+                        135.702499,
+                        34.924358
+                    ],
+                    [
+                        135.705521,
+                        34.922112
+                    ],
+                    [
+                        135.702606,
+                        34.922672
+                    ],
+                    [
+                        135.701752,
+                        34.924206
+                    ]
+                ]
+            ]
+        ]
+    }
+}

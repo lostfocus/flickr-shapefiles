@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2421290,
+    "properties": {
+        "woe_id": 2421290,
+        "place_id": "rjUWVFebBZ7JA.9l",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "High View, Bloomingburg, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518631,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2421290_20101216_5b1aee55e5.tar.gz"
+        },
+        "bbox": [
+            -74.458251953125,
+            41.555130004883,
+            -74.453018188477,
+            41.558563232422
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.458183,
+                        41.558548
+                    ],
+                    [
+                        -74.453018,
+                        41.556541
+                    ],
+                    [
+                        -74.453217,
+                        41.55513
+                    ],
+                    [
+                        -74.457932,
+                        41.556805
+                    ],
+                    [
+                        -74.458252,
+                        41.558563
+                    ],
+                    [
+                        -74.458183,
+                        41.558548
+                    ]
+                ]
+            ]
+        ]
+    }
+}

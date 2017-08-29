@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2524130,
+    "properties": {
+        "woe_id": 2524130,
+        "place_id": "bQNASWWbBJ443dWp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wright Subdivision 1-5, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521269,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2524130_20101216_61019a9779.tar.gz"
+        },
+        "bbox": [
+            -111.95560455322,
+            40.690090179443,
+            -111.95088195801,
+            40.694339752197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.954781,
+                        40.694012
+                    ],
+                    [
+                        -111.950882,
+                        40.691208
+                    ],
+                    [
+                        -111.95414,
+                        40.69009
+                    ],
+                    [
+                        -111.955605,
+                        40.691368
+                    ],
+                    [
+                        -111.955276,
+                        40.69434
+                    ],
+                    [
+                        -111.954781,
+                        40.694012
+                    ]
+                ]
+            ]
+        ]
+    }
+}

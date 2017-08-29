@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297551,
+    "properties": {
+        "woe_id": 28297551,
+        "place_id": "7NhQCYmbCZ58d4VWwg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Meadows, Altamont, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532047,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/28297551_20101216_3e1c0bab9a.tar.gz"
+        },
+        "bbox": [
+            -88.743858337402,
+            39.055332183838,
+            -88.736488342285,
+            39.059314727783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.736488,
+                        39.056301
+                    ],
+                    [
+                        -88.740173,
+                        39.055332
+                    ],
+                    [
+                        -88.743858,
+                        39.056484
+                    ],
+                    [
+                        -88.740173,
+                        39.059315
+                    ],
+                    [
+                        -88.736595,
+                        39.056499
+                    ],
+                    [
+                        -88.736488,
+                        39.056301
+                    ]
+                ]
+            ]
+        ]
+    }
+}

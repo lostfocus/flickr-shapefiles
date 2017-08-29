@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505360,
+    "properties": {
+        "woe_id": 2505360,
+        "place_id": "IrsOBAebBJwiXxvN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Mills, Woods Cross, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234572607,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3326\/shapefiles\/2505360_20090214_7d92399d75.tar.gz"
+        },
+        "bbox": [
+            -111.91218566895,
+            40.867523193359,
+            -111.9103012085,
+            40.868045806885
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.910751,
+                        40.867657
+                    ],
+                    [
+                        -111.912186,
+                        40.867523
+                    ],
+                    [
+                        -111.911095,
+                        40.868046
+                    ],
+                    [
+                        -111.910301,
+                        40.867737
+                    ],
+                    [
+                        -111.910751,
+                        40.867657
+                    ]
+                ]
+            ]
+        ]
+    }
+}

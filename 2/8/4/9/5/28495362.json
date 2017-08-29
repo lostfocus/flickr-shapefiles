@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28495362,
+    "properties": {
+        "woe_id": 28495362,
+        "place_id": "5_HRDU6bCZguOHp8AA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamikujonishi 5 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548395,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/28495362_20101217_41eb6b42b7.tar.gz"
+        },
+        "bbox": [
+            141.35153198242,
+            43.048629760742,
+            141.35284423828,
+            43.049186706543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.351807,
+                        43.04863
+                    ],
+                    [
+                        141.351532,
+                        43.048813
+                    ],
+                    [
+                        141.351807,
+                        43.048985
+                    ],
+                    [
+                        141.352173,
+                        43.049168
+                    ],
+                    [
+                        141.352844,
+                        43.049187
+                    ],
+                    [
+                        141.352173,
+                        43.048832
+                    ],
+                    [
+                        141.351807,
+                        43.04863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

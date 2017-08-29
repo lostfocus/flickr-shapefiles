@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529934,
+    "properties": {
+        "woe_id": 28529934,
+        "place_id": "qKzn7e.bCZlTlzjBGA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakakasai 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457680,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/28529934_20101216_59c97da05b.tar.gz"
+        },
+        "bbox": [
+            139.86532592773,
+            35.664165496826,
+            139.86582946777,
+            35.666831970215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.865662,
+                        35.664333
+                    ],
+                    [
+                        139.865326,
+                        35.665333
+                    ],
+                    [
+                        139.865662,
+                        35.666664
+                    ],
+                    [
+                        139.865829,
+                        35.666832
+                    ],
+                    [
+                        139.865829,
+                        35.664165
+                    ],
+                    [
+                        139.865662,
+                        35.664333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

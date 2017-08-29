@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531312,
+    "properties": {
+        "woe_id": 28531312,
+        "place_id": "R876uoGbCZlDMDKEOw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Komaimachi 3 Chome, Komae-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527801,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/28531312_20101216_15f54f37bd.tar.gz"
+        },
+        "bbox": [
+            139.58387756348,
+            35.619331359863,
+            139.58894348145,
+            35.623046875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.587189,
+                        35.620899
+                    ],
+                    [
+                        139.588943,
+                        35.620842
+                    ],
+                    [
+                        139.587494,
+                        35.619331
+                    ],
+                    [
+                        139.585495,
+                        35.619999
+                    ],
+                    [
+                        139.583878,
+                        35.623047
+                    ],
+                    [
+                        139.587189,
+                        35.620899
+                    ]
+                ]
+            ]
+        ]
+    }
+}

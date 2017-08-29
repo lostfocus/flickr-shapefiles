@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532681,
+    "properties": {
+        "woe_id": 28532681,
+        "place_id": "qAQGVFObCZlhnhZ4pA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gumizawa 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457684,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28532681_20101216_f4fc15da81.tar.gz"
+        },
+        "bbox": [
+            139.51452636719,
+            35.398109436035,
+            139.51536560059,
+            35.398517608643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.515366,
+                        35.398518
+                    ],
+                    [
+                        139.515167,
+                        35.398361
+                    ],
+                    [
+                        139.514526,
+                        35.398109
+                    ],
+                    [
+                        139.514832,
+                        35.398335
+                    ],
+                    [
+                        139.515167,
+                        35.398499
+                    ],
+                    [
+                        139.515366,
+                        35.398518
+                    ]
+                ]
+            ]
+        ]
+    }
+}

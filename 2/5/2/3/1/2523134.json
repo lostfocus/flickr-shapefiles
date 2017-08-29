@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2523134,
+    "properties": {
+        "woe_id": 2523134,
+        "place_id": "rWq9XnKbBJ6iCYPT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodinville, Pawling, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539227,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2523134_20101216_983c679aeb.tar.gz"
+        },
+        "bbox": [
+            -73.634490966797,
+            41.572910308838,
+            -73.62865447998,
+            41.576866149902
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.630112,
+                        41.57291
+                    ],
+                    [
+                        -73.634491,
+                        41.576866
+                    ],
+                    [
+                        -73.628754,
+                        41.576168
+                    ],
+                    [
+                        -73.628654,
+                        41.575871
+                    ],
+                    [
+                        -73.630112,
+                        41.57291
+                    ]
+                ]
+            ]
+        ]
+    }
+}

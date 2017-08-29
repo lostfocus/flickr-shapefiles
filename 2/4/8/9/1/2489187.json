@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2489187,
+    "properties": {
+        "woe_id": 2489187,
+        "place_id": "Z9GCyDebBZQvfx1U",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sato, Denmark, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500923,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2489187_20101216_82d0148db3.tar.gz"
+        },
+        "bbox": [
+            -81.14485168457,
+            33.32201385498,
+            -81.141288757324,
+            33.327911376953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.141289,
+                        33.326332
+                    ],
+                    [
+                        -81.142876,
+                        33.323788
+                    ],
+                    [
+                        -81.144852,
+                        33.322014
+                    ],
+                    [
+                        -81.144844,
+                        33.325687
+                    ],
+                    [
+                        -81.14373,
+                        33.325867
+                    ],
+                    [
+                        -81.141289,
+                        33.327911
+                    ],
+                    [
+                        -81.141289,
+                        33.326332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

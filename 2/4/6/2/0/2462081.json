@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2462081,
+    "properties": {
+        "woe_id": 2462081,
+        "place_id": "UEXViyabBZo2bGEC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northwest Hills, Jackson, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541066,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2462081_20101216_31213be1ed.tar.gz"
+        },
+        "bbox": [
+            -90.235168457031,
+            32.351665496826,
+            -90.229835510254,
+            32.356273651123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.232834,
+                        32.356167
+                    ],
+                    [
+                        -90.231743,
+                        32.356274
+                    ],
+                    [
+                        -90.229836,
+                        32.351665
+                    ],
+                    [
+                        -90.23317,
+                        32.353001
+                    ],
+                    [
+                        -90.235168,
+                        32.355999
+                    ],
+                    [
+                        -90.232834,
+                        32.356167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

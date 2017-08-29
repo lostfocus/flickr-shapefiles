@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532108,
+    "properties": {
+        "woe_id": 28532108,
+        "place_id": "mbcqw.KbCZnrE4Ag7A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Isezakicho 3 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509385,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/28532108_20101216_f9649b8dbd.tar.gz"
+        },
+        "bbox": [
+            139.6296081543,
+            35.442089080811,
+            139.63049316406,
+            35.442665100098
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.62999,
+                        35.442398
+                    ],
+                    [
+                        139.630493,
+                        35.442665
+                    ],
+                    [
+                        139.630325,
+                        35.442413
+                    ],
+                    [
+                        139.62973,
+                        35.442127
+                    ],
+                    [
+                        139.629608,
+                        35.442089
+                    ],
+                    [
+                        139.62999,
+                        35.442398
+                    ]
+                ]
+            ]
+        ]
+    }
+}

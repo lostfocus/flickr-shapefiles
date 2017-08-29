@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2369836,
+    "properties": {
+        "woe_id": 2369836,
+        "place_id": "LS5CbO2bAprZljci",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brookfield, Chattanooga, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500506,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2369836_20101216_dfd05caf35.tar.gz"
+        },
+        "bbox": [
+            -85.247848510742,
+            35.010597229004,
+            -85.244293212891,
+            35.014392852783
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.244293,
+                        35.010597
+                    ],
+                    [
+                        -85.247849,
+                        35.012589
+                    ],
+                    [
+                        -85.244553,
+                        35.014393
+                    ],
+                    [
+                        -85.244621,
+                        35.011597
+                    ],
+                    [
+                        -85.244293,
+                        35.010597
+                    ]
+                ]
+            ]
+        ]
+    }
+}

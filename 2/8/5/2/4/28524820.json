@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524820,
+    "properties": {
+        "woe_id": 28524820,
+        "place_id": "J1ILEcibCZlPgOv1cg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midoricho 1 Chome, Chiba-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446082,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/28524820_20101215_a956f0a417.tar.gz"
+        },
+        "bbox": [
+            140.10200500488,
+            35.625007629395,
+            140.10340881348,
+            35.626983642578
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.103165,
+                        35.625854
+                    ],
+                    [
+                        140.103409,
+                        35.625008
+                    ],
+                    [
+                        140.102875,
+                        35.625114
+                    ],
+                    [
+                        140.102005,
+                        35.625599
+                    ],
+                    [
+                        140.102051,
+                        35.626984
+                    ],
+                    [
+                        140.103165,
+                        35.625854
+                    ]
+                ]
+            ]
+        ]
+    }
+}

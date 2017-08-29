@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2507346,
+    "properties": {
+        "woe_id": 2507346,
+        "place_id": "m.1HJLSbBJzcLsxn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Towamensing Trails, Albrightsville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292492292,
+        "alpha": 1.0e-5,
+        "points": 31,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2507346_20101216_02e6df257b.tar.gz"
+        },
+        "bbox": [
+            -75.588684082031,
+            40.997257232666,
+            -75.587898254395,
+            40.998668670654
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.587906,
+                        40.997559
+                    ],
+                    [
+                        -75.587967,
+                        40.997433
+                    ],
+                    [
+                        -75.588264,
+                        40.997257
+                    ],
+                    [
+                        -75.588684,
+                        40.998669
+                    ],
+                    [
+                        -75.587898,
+                        40.997581
+                    ],
+                    [
+                        -75.587906,
+                        40.997559
+                    ]
+                ]
+            ]
+        ]
+    }
+}

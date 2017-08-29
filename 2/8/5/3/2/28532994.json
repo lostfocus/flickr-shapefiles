@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532994,
+    "properties": {
+        "woe_id": 28532994,
+        "place_id": "UKFoJEebCZlRLhuMaA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Katsuradai 1 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551025,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/28532994_20101217_e11dc9da11.tar.gz"
+        },
+        "bbox": [
+            139.50700378418,
+            35.545501708984,
+            139.50828552246,
+            35.549213409424
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.508255,
+                        35.54916
+                    ],
+                    [
+                        139.508286,
+                        35.548988
+                    ],
+                    [
+                        139.507004,
+                        35.545502
+                    ],
+                    [
+                        139.508148,
+                        35.549213
+                    ],
+                    [
+                        139.50824,
+                        35.549183
+                    ],
+                    [
+                        139.508255,
+                        35.54916
+                    ]
+                ]
+            ]
+        ]
+    }
+}

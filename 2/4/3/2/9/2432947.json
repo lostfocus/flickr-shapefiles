@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432947,
+    "properties": {
+        "woe_id": 2432947,
+        "place_id": "_niACAKbBZ9Ve9qC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kinsler, West Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456689,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2432947_20101215_66b245c500.tar.gz"
+        },
+        "bbox": [
+            -81.077682495117,
+            33.92854309082,
+            -81.076438903809,
+            33.933361053467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.077576,
+                        33.929344
+                    ],
+                    [
+                        -81.077682,
+                        33.933361
+                    ],
+                    [
+                        -81.077232,
+                        33.929749
+                    ],
+                    [
+                        -81.076439,
+                        33.928543
+                    ],
+                    [
+                        -81.077332,
+                        33.929001
+                    ],
+                    [
+                        -81.077576,
+                        33.929344
+                    ]
+                ]
+            ]
+        ]
+    }
+}

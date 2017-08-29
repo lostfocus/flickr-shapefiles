@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418490,
+    "properties": {
+        "woe_id": 2418490,
+        "place_id": "_OFr4dqbBZ22j0V3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harwood, Evansville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518587,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2418490_20101216_1cd9833095.tar.gz"
+        },
+        "bbox": [
+            -87.576774597168,
+            37.999652862549,
+            -87.574501037598,
+            38.006610870361
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.576775,
+                        38.002487
+                    ],
+                    [
+                        -87.574791,
+                        38.006611
+                    ],
+                    [
+                        -87.575005,
+                        38.003605
+                    ],
+                    [
+                        -87.574501,
+                        38.000301
+                    ],
+                    [
+                        -87.574692,
+                        37.999653
+                    ],
+                    [
+                        -87.576775,
+                        38.002487
+                    ]
+                ]
+            ]
+        ]
+    }
+}

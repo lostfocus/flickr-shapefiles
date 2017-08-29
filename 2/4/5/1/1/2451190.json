@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2451190,
+    "properties": {
+        "woe_id": 2451190,
+        "place_id": "Ud_6x06bBZnY80_G",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millard, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292512683,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2451190_20101216_92f89daa47.tar.gz"
+        },
+        "bbox": [
+            -111.83695983887,
+            40.620094299316,
+            -111.83103179932,
+            40.624767303467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.831032,
+                        40.620338
+                    ],
+                    [
+                        -111.831635,
+                        40.620094
+                    ],
+                    [
+                        -111.834465,
+                        40.622047
+                    ],
+                    [
+                        -111.83696,
+                        40.623058
+                    ],
+                    [
+                        -111.834808,
+                        40.624767
+                    ],
+                    [
+                        -111.834465,
+                        40.622047
+                    ],
+                    [
+                        -111.831635,
+                        40.620094
+                    ],
+                    [
+                        -111.831032,
+                        40.620338
+                    ]
+                ]
+            ]
+        ]
+    }
+}

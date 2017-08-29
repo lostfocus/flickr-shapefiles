@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721651,
+    "properties": {
+        "woe_id": 22721651,
+        "place_id": "JBlVB3ibA5uFXz1i_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fitzroy, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452338,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/22721651_20101215_92633c5e1e.tar.gz"
+        },
+        "bbox": [
+            138.58973693848,
+            -34.901348114014,
+            138.5910949707,
+            -34.895404815674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.590134,
+                        -34.901348
+                    ],
+                    [
+                        138.589737,
+                        -34.901249
+                    ],
+                    [
+                        138.590469,
+                        -34.895405
+                    ],
+                    [
+                        138.591064,
+                        -34.900715
+                    ],
+                    [
+                        138.591095,
+                        -34.900791
+                    ],
+                    [
+                        138.590134,
+                        -34.901348
+                    ]
+                ]
+            ]
+        ]
+    }
+}

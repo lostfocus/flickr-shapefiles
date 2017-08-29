@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381134,
+    "properties": {
+        "woe_id": 2381134,
+        "place_id": "AHGvs5.bApRa14qW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clayville, Jewett City, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500262,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2381134_20101216_7ae12f4106.tar.gz"
+        },
+        "bbox": [
+            -71.976264953613,
+            41.611068725586,
+            -71.975021362305,
+            41.615879058838
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.975021,
+                        41.615856
+                    ],
+                    [
+                        -71.975021,
+                        41.615849
+                    ],
+                    [
+                        -71.976265,
+                        41.611069
+                    ],
+                    [
+                        -71.975044,
+                        41.615856
+                    ],
+                    [
+                        -71.975021,
+                        41.615879
+                    ],
+                    [
+                        -71.975021,
+                        41.615856
+                    ]
+                ]
+            ]
+        ]
+    }
+}

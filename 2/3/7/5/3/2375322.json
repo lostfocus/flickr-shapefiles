@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2375322,
+    "properties": {
+        "woe_id": 2375322,
+        "place_id": "kQyjTzWbApvT8gFF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Carolwood, Northport, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531606,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2375322_20101216_b6d234fb7b.tar.gz"
+        },
+        "bbox": [
+            -87.570167541504,
+            33.307266235352,
+            -87.570022583008,
+            33.307456970215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.570152,
+                        33.307388
+                    ],
+                    [
+                        -87.570091,
+                        33.307457
+                    ],
+                    [
+                        -87.570023,
+                        33.307404
+                    ],
+                    [
+                        -87.570152,
+                        33.307266
+                    ],
+                    [
+                        -87.570168,
+                        33.307335
+                    ],
+                    [
+                        -87.570152,
+                        33.307388
+                    ]
+                ]
+            ]
+        ]
+    }
+}

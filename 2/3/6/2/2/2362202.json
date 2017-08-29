@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2362202,
+    "properties": {
+        "woe_id": 2362202,
+        "place_id": "Vm4UEXmbApoZJiLr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Belmar, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448224,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2362202_20101215_44969df86e.tar.gz"
+        },
+        "bbox": [
+            -76.540718078613,
+            39.345283508301,
+            -76.539665222168,
+            39.347332000732
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.539665,
+                        39.347332
+                    ],
+                    [
+                        -76.539665,
+                        39.346165
+                    ],
+                    [
+                        -76.540718,
+                        39.345284
+                    ],
+                    [
+                        -76.539948,
+                        39.34671
+                    ],
+                    [
+                        -76.539665,
+                        39.347332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

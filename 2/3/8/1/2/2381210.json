@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2381210,
+    "properties": {
+        "woe_id": 2381210,
+        "place_id": "vPeOhcybApRXg21P",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clear View Heights, Canton, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247937134,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3507\/shapefiles\/2381210_20090718_fd2fe7f15e.tar.gz"
+        },
+        "bbox": [
+            -81.341934204102,
+            40.793365478516,
+            -81.341766357422,
+            40.793556213379
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.341766,
+                        40.7934
+                    ],
+                    [
+                        -81.341789,
+                        40.793365
+                    ],
+                    [
+                        -81.341934,
+                        40.793556
+                    ],
+                    [
+                        -81.341927,
+                        40.793552
+                    ],
+                    [
+                        -81.341766,
+                        40.7934
+                    ]
+                ]
+            ]
+        ]
+    }
+}

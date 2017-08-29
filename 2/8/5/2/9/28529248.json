@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28529248,
+    "properties": {
+        "woe_id": 28529248,
+        "place_id": "bSRfzh2bCZnWVHwdYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tokumaru 8 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449526,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/28529248_20101215_13ff5f7662.tar.gz"
+        },
+        "bbox": [
+            139.65675354004,
+            35.784080505371,
+            139.65687561035,
+            35.784248352051
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.656876,
+                        35.784195
+                    ],
+                    [
+                        139.656845,
+                        35.784081
+                    ],
+                    [
+                        139.656769,
+                        35.784096
+                    ],
+                    [
+                        139.656754,
+                        35.784115
+                    ],
+                    [
+                        139.656769,
+                        35.784199
+                    ],
+                    [
+                        139.656845,
+                        35.784248
+                    ],
+                    [
+                        139.656876,
+                        35.784195
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2490320,
+    "properties": {
+        "woe_id": 2490320,
+        "place_id": "ps9DJ2CbBZVWcaSr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sears Addition, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513045,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2490320_20101216_42ac4dbd49.tar.gz"
+        },
+        "bbox": [
+            -111.83291625977,
+            40.666446685791,
+            -111.82566833496,
+            40.668937683105
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.82814,
+                        40.668938
+                    ],
+                    [
+                        -111.825668,
+                        40.668724
+                    ],
+                    [
+                        -111.82666,
+                        40.66732
+                    ],
+                    [
+                        -111.831718,
+                        40.666447
+                    ],
+                    [
+                        -111.832916,
+                        40.668552
+                    ],
+                    [
+                        -111.82814,
+                        40.668938
+                    ]
+                ]
+            ]
+        ]
+    }
+}

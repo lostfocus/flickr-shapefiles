@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2404360,
+    "properties": {
+        "woe_id": 2404360,
+        "place_id": "MDDC3jybBZziLOkz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Flint, Gardiner, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248213369,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2659\/shapefiles\/2404360_20090721_769b58f7ca.tar.gz"
+        },
+        "bbox": [
+            -74.125823974609,
+            41.631530761719,
+            -74.120834350586,
+            41.633331298828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.120995,
+                        41.632507
+                    ],
+                    [
+                        -74.120834,
+                        41.631763
+                    ],
+                    [
+                        -74.120888,
+                        41.631531
+                    ],
+                    [
+                        -74.125824,
+                        41.633331
+                    ],
+                    [
+                        -74.120995,
+                        41.632507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

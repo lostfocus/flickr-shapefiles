@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2421795,
+    "properties": {
+        "woe_id": 2421795,
+        "place_id": "FljE0o.bBZ6pmayD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hill Crest, Glenside, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292471412,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2421795_20101216_bd68d387d4.tar.gz"
+        },
+        "bbox": [
+            -75.180000305176,
+            40.087726593018,
+            -75.178779602051,
+            40.088207244873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.178787,
+                        40.088158
+                    ],
+                    [
+                        -75.17878,
+                        40.088146
+                    ],
+                    [
+                        -75.18,
+                        40.087727
+                    ],
+                    [
+                        -75.178848,
+                        40.0882
+                    ],
+                    [
+                        -75.178825,
+                        40.088207
+                    ],
+                    [
+                        -75.178787,
+                        40.088158
+                    ]
+                ]
+            ]
+        ]
+    }
+}

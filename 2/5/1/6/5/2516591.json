@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2516591,
+    "properties": {
+        "woe_id": 2516591,
+        "place_id": "LCYh_KabBJ3mn3yA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Abington, Abington, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530032,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2516591_20101216_e9d849da9d.tar.gz"
+        },
+        "bbox": [
+            -70.967002868652,
+            42.098667144775,
+            -70.962333679199,
+            42.099998474121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.966667,
+                        42.099998
+                    ],
+                    [
+                        -70.966164,
+                        42.099667
+                    ],
+                    [
+                        -70.962334,
+                        42.098667
+                    ],
+                    [
+                        -70.966331,
+                        42.099335
+                    ],
+                    [
+                        -70.967003,
+                        42.099499
+                    ],
+                    [
+                        -70.966667,
+                        42.099998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

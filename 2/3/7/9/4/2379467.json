@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2379467,
+    "properties": {
+        "woe_id": 2379467,
+        "place_id": "Rx_JX2ybApvDGsSi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chestnut Ridge, Dover Plains, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292418484,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2379467_20101215_3516636296.tar.gz"
+        },
+        "bbox": [
+            -73.626678466797,
+            41.733104705811,
+            -73.626480102539,
+            41.737888336182
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.626617,
+                        41.733166
+                    ],
+                    [
+                        -73.626678,
+                        41.737888
+                    ],
+                    [
+                        -73.62648,
+                        41.733105
+                    ],
+                    [
+                        -73.626556,
+                        41.733109
+                    ],
+                    [
+                        -73.626617,
+                        41.733166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

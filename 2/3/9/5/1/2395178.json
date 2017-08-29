@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395178,
+    "properties": {
+        "woe_id": 2395178,
+        "place_id": "9UvvJnqbApV1k_qc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Earle, Farmingdale, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522337,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2395178_20101216_49b1ff4deb.tar.gz"
+        },
+        "bbox": [
+            -74.153205871582,
+            40.217178344727,
+            -74.148078918457,
+            40.219165802002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.153,
+                        40.217426
+                    ],
+                    [
+                        -74.148079,
+                        40.219166
+                    ],
+                    [
+                        -74.152969,
+                        40.217285
+                    ],
+                    [
+                        -74.153137,
+                        40.217178
+                    ],
+                    [
+                        -74.153206,
+                        40.217289
+                    ],
+                    [
+                        -74.153,
+                        40.217426
+                    ]
+                ]
+            ]
+        ]
+    }
+}

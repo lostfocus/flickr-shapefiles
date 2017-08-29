@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2461787,
+    "properties": {
+        "woe_id": 2461787,
+        "place_id": "7DNl9QmbBZrA3Bwk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Wayne, Winthrop, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234889418,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3377\/shapefiles\/2461787_20090217_c687ed0341.tar.gz"
+        },
+        "bbox": [
+            -70.050201416016,
+            44.368656158447,
+            -70.035263061523,
+            44.375465393066
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.035263,
+                        44.375465
+                    ],
+                    [
+                        -70.035606,
+                        44.371723
+                    ],
+                    [
+                        -70.050201,
+                        44.368656
+                    ],
+                    [
+                        -70.037071,
+                        44.375065
+                    ],
+                    [
+                        -70.035263,
+                        44.375465
+                    ]
+                ]
+            ]
+        ]
+    }
+}

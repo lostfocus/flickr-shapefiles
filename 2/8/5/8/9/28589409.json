@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28589409,
+    "properties": {
+        "woe_id": 28589409,
+        "place_id": "HioCcOebCZkVettiwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Willagee Central, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527802,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/28589409_20101216_cfeb21fa00.tar.gz"
+        },
+        "bbox": [
+            115.80165863037,
+            -32.033687591553,
+            115.80939483643,
+            -32.031650543213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.803787,
+                        -32.033512
+                    ],
+                    [
+                        115.803665,
+                        -32.033688
+                    ],
+                    [
+                        115.801659,
+                        -32.031651
+                    ],
+                    [
+                        115.803665,
+                        -32.033291
+                    ],
+                    [
+                        115.809395,
+                        -32.031818
+                    ],
+                    [
+                        115.803787,
+                        -32.033512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

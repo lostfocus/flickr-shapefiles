@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2460160,
+    "properties": {
+        "woe_id": 2460160,
+        "place_id": "2P_6R86bBZozOG62",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nob Hill Addition, Ogden, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234591807,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3490\/shapefiles\/2460160_20090214_5e79ff8437.tar.gz"
+        },
+        "bbox": [
+            -111.93173980713,
+            41.22639465332,
+            -111.93074798584,
+            41.227222442627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.930748,
+                        41.22681
+                    ],
+                    [
+                        -111.93103,
+                        41.226635
+                    ],
+                    [
+                        -111.93174,
+                        41.226395
+                    ],
+                    [
+                        -111.931244,
+                        41.227222
+                    ],
+                    [
+                        -111.930748,
+                        41.22681
+                    ]
+                ]
+            ]
+        ]
+    }
+}

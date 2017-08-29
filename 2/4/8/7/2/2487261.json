@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2487261,
+    "properties": {
+        "woe_id": 2487261,
+        "place_id": "QHX7nZebBZRyIsyL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Vladimirs, Jackson, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543139,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2487261_20101216_551ccc7c27.tar.gz"
+        },
+        "bbox": [
+            -74.392593383789,
+            40.110824584961,
+            -74.390144348145,
+            40.115493774414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.390144,
+                        40.111477
+                    ],
+                    [
+                        -74.39109,
+                        40.110825
+                    ],
+                    [
+                        -74.392029,
+                        40.11274
+                    ],
+                    [
+                        -74.392593,
+                        40.115494
+                    ],
+                    [
+                        -74.390717,
+                        40.113419
+                    ],
+                    [
+                        -74.390144,
+                        40.111477
+                    ]
+                ]
+            ]
+        ]
+    }
+}

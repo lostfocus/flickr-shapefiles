@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229155,
+    "properties": {
+        "woe_id": 20229155,
+        "place_id": "aUPkqOKbAZ4qGXfZbg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Engtoftevej, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522503,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/20229155_20101216_2f2bfde2f6.tar.gz"
+        },
+        "bbox": [
+            12.544368743896,
+            55.671516418457,
+            12.545355796814,
+            55.673046112061
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.545347,
+                        55.671516
+                    ],
+                    [
+                        12.544369,
+                        55.671829
+                    ],
+                    [
+                        12.544691,
+                        55.672504
+                    ],
+                    [
+                        12.545356,
+                        55.673046
+                    ],
+                    [
+                        12.545333,
+                        55.672001
+                    ],
+                    [
+                        12.545347,
+                        55.671516
+                    ]
+                ]
+            ]
+        ]
+    }
+}

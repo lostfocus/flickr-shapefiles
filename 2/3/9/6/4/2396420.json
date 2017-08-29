@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2396420,
+    "properties": {
+        "woe_id": 2396420,
+        "place_id": "hUgqCu2bApUaZyZ0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eastgate, Baton Rouge, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531578,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2396420_20101216_69a663a959.tar.gz"
+        },
+        "bbox": [
+            -91.057670593262,
+            30.425214767456,
+            -91.052452087402,
+            30.429832458496
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.052467,
+                        30.426481
+                    ],
+                    [
+                        -91.056183,
+                        30.425215
+                    ],
+                    [
+                        -91.056274,
+                        30.425613
+                    ],
+                    [
+                        -91.057671,
+                        30.429832
+                    ],
+                    [
+                        -91.052452,
+                        30.426601
+                    ],
+                    [
+                        -91.052467,
+                        30.426481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

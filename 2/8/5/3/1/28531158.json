@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531158,
+    "properties": {
+        "woe_id": 28531158,
+        "place_id": "4wE3hvybCZmY2OWDwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honcho 2 Chome, Higashimurayama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496308,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/28531158_20101216_58cb680236.tar.gz"
+        },
+        "bbox": [
+            139.4658203125,
+            35.759864807129,
+            139.46832275391,
+            35.760665893555
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.465912,
+                        35.759865
+                    ],
+                    [
+                        139.46582,
+                        35.760258
+                    ],
+                    [
+                        139.466003,
+                        35.760666
+                    ],
+                    [
+                        139.468323,
+                        35.760551
+                    ],
+                    [
+                        139.465988,
+                        35.759907
+                    ],
+                    [
+                        139.465912,
+                        35.759865
+                    ]
+                ]
+            ]
+        ]
+    }
+}

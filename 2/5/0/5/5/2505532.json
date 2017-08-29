@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2505532,
+    "properties": {
+        "woe_id": 2505532,
+        "place_id": "H_YU.UmbBJwqTG4J",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Woods at Colony Crossing, Woodstock, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521263,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2505532_20101216_4643d55a82.tar.gz"
+        },
+        "bbox": [
+            -84.583801269531,
+            34.108646392822,
+            -84.582321166992,
+            34.109893798828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.58255,
+                        34.109318
+                    ],
+                    [
+                        -84.583,
+                        34.108803
+                    ],
+                    [
+                        -84.583801,
+                        34.108646
+                    ],
+                    [
+                        -84.583473,
+                        34.109657
+                    ],
+                    [
+                        -84.582321,
+                        34.109894
+                    ],
+                    [
+                        -84.58255,
+                        34.109318
+                    ]
+                ]
+            ]
+        ]
+    }
+}

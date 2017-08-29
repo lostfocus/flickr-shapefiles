@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2355169,
+    "properties": {
+        "woe_id": 2355169,
+        "place_id": "xrfmxBSbApkkaty1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Antrim, Suffern, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292417521,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2355169_20101215_36cf023707.tar.gz"
+        },
+        "bbox": [
+            -74.142051696777,
+            41.120166778564,
+            -74.137077331543,
+            41.122871398926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.142052,
+                        41.121399
+                    ],
+                    [
+                        -74.140671,
+                        41.121666
+                    ],
+                    [
+                        -74.137077,
+                        41.122871
+                    ],
+                    [
+                        -74.141167,
+                        41.120167
+                    ],
+                    [
+                        -74.142052,
+                        41.121399
+                    ]
+                ]
+            ]
+        ]
+    }
+}

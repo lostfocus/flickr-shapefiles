@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2436512,
+    "properties": {
+        "woe_id": 2436512,
+        "place_id": "eJ9zthCbBZ9elcjN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Laphams Mills, Peru, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526066,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2436512_20101216_2b272684ff.tar.gz"
+        },
+        "bbox": [
+            -73.427276611328,
+            44.567203521729,
+            -73.421653747559,
+            44.571914672852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.424484,
+                        44.570705
+                    ],
+                    [
+                        -73.421768,
+                        44.568657
+                    ],
+                    [
+                        -73.421654,
+                        44.567204
+                    ],
+                    [
+                        -73.425621,
+                        44.569023
+                    ],
+                    [
+                        -73.427277,
+                        44.571915
+                    ],
+                    [
+                        -73.424484,
+                        44.570705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

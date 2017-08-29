@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396836,
+    "properties": {
+        "woe_id": 2396836,
+        "place_id": "jn0Ex22bApUmonAP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Echo Farms, Wilmington, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537539,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2396836_20101216_514673c76a.tar.gz"
+        },
+        "bbox": [
+            -77.906593322754,
+            34.176219940186,
+            -77.903106689453,
+            34.177761077881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.903206,
+                        34.17622
+                    ],
+                    [
+                        -77.904434,
+                        34.176376
+                    ],
+                    [
+                        -77.906593,
+                        34.177094
+                    ],
+                    [
+                        -77.903107,
+                        34.177761
+                    ],
+                    [
+                        -77.903206,
+                        34.17622
+                    ]
+                ]
+            ]
+        ]
+    }
+}

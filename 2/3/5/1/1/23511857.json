@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23511857,
+    "properties": {
+        "woe_id": 23511857,
+        "place_id": "8sHq0TqbAplExxLKag",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Highland Park, New York, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531821,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/23511857_20101216_3d30cdf4c6.tar.gz"
+        },
+        "bbox": [
+            -73.883331298828,
+            40.685955047607,
+            -73.881240844727,
+            40.68835067749
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.881241,
+                        40.686291
+                    ],
+                    [
+                        -73.881294,
+                        40.685955
+                    ],
+                    [
+                        -73.883331,
+                        40.687824
+                    ],
+                    [
+                        -73.882454,
+                        40.688351
+                    ],
+                    [
+                        -73.881676,
+                        40.688114
+                    ],
+                    [
+                        -73.881241,
+                        40.686291
+                    ]
+                ]
+            ]
+        ]
+    }
+}

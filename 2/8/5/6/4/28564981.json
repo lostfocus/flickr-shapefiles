@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28564981,
+    "properties": {
+        "woe_id": 28564981,
+        "place_id": "gl1EcfqbCZnR6tNiaQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinoharakitamachi 4 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543913,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/28564981_20101216_25756a9425.tar.gz"
+        },
+        "bbox": [
+            135.22436523438,
+            34.723167419434,
+            135.22583007812,
+            34.724113464355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.225662,
+                        34.723331
+                    ],
+                    [
+                        135.22583,
+                        34.723167
+                    ],
+                    [
+                        135.225494,
+                        34.723167
+                    ],
+                    [
+                        135.225006,
+                        34.723167
+                    ],
+                    [
+                        135.224365,
+                        34.724113
+                    ],
+                    [
+                        135.225662,
+                        34.723331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

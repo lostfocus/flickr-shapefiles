@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396478,
+    "properties": {
+        "woe_id": 2396478,
+        "place_id": "qRPPDUqbApVLoahO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Eastmont, Montgomery, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234756563,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3640\/shapefiles\/2396478_20090216_52bfa3fc3a.tar.gz"
+        },
+        "bbox": [
+            -86.235038757324,
+            32.381454467773,
+            -86.23023223877,
+            32.385967254639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.231003,
+                        32.384167
+                    ],
+                    [
+                        -86.230232,
+                        32.381454
+                    ],
+                    [
+                        -86.231262,
+                        32.383984
+                    ],
+                    [
+                        -86.235039,
+                        32.385967
+                    ],
+                    [
+                        -86.231003,
+                        32.384167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

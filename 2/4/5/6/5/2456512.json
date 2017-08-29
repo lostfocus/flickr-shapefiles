@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2456512,
+    "properties": {
+        "woe_id": 2456512,
+        "place_id": "Kz8Tvo6bBZneLmaU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Murray Hill, Scarsdale, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543511,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/2456512_20101216_bcd179ce39.tar.gz"
+        },
+        "bbox": [
+            -73.790916442871,
+            40.996078491211,
+            -73.787528991699,
+            40.998943328857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.788429,
+                        40.998363
+                    ],
+                    [
+                        -73.790916,
+                        40.996078
+                    ],
+                    [
+                        -73.788567,
+                        40.998566
+                    ],
+                    [
+                        -73.788002,
+                        40.998943
+                    ],
+                    [
+                        -73.787529,
+                        40.998493
+                    ],
+                    [
+                        -73.788429,
+                        40.998363
+                    ]
+                ]
+            ]
+        ]
+    }
+}

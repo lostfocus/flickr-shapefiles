@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28644132,
+    "properties": {
+        "woe_id": 28644132,
+        "place_id": "eFi25RubCZrWyqpjIA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unsworth Heights, North Shore, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529550,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/28644132_20101216_2ba9702205.tar.gz"
+        },
+        "bbox": [
+            174.7043762207,
+            -36.756198883057,
+            174.71183776855,
+            -36.754001617432
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.709167,
+                        -36.754501
+                    ],
+                    [
+                        174.711838,
+                        -36.754002
+                    ],
+                    [
+                        174.708664,
+                        -36.755165
+                    ],
+                    [
+                        174.704376,
+                        -36.756199
+                    ],
+                    [
+                        174.708664,
+                        -36.754501
+                    ],
+                    [
+                        174.709167,
+                        -36.754501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

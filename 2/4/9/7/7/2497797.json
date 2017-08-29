@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2497797,
+    "properties": {
+        "woe_id": 2497797,
+        "place_id": "iHr5ermbBZUp1eL_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Spring Brook Station, Elma, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548229,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2497797_20101217_c870191a0a.tar.gz"
+        },
+        "bbox": [
+            -78.685302734375,
+            42.819736480713,
+            -78.681991577148,
+            42.822547912598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.683212,
+                        42.822548
+                    ],
+                    [
+                        -78.681999,
+                        42.822102
+                    ],
+                    [
+                        -78.681992,
+                        42.82209
+                    ],
+                    [
+                        -78.685303,
+                        42.819736
+                    ],
+                    [
+                        -78.683296,
+                        42.822498
+                    ],
+                    [
+                        -78.683212,
+                        42.822548
+                    ]
+                ]
+            ]
+        ]
+    }
+}

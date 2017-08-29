@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297424,
+    "properties": {
+        "woe_id": 28297424,
+        "place_id": "iu17jeWbCZ6HCMm3Uw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Italian Bowery, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449469,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28297424_20101215_a5a3c57f41.tar.gz"
+        },
+        "bbox": [
+            -87.599540710449,
+            41.750919342041,
+            -87.596954345703,
+            41.75341796875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.599541,
+                        41.751656
+                    ],
+                    [
+                        -87.597855,
+                        41.753418
+                    ],
+                    [
+                        -87.597305,
+                        41.752335
+                    ],
+                    [
+                        -87.597084,
+                        41.751591
+                    ],
+                    [
+                        -87.596954,
+                        41.750919
+                    ],
+                    [
+                        -87.599541,
+                        41.751656
+                    ]
+                ]
+            ]
+        ]
+    }
+}

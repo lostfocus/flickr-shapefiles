@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2379850,
+    "properties": {
+        "woe_id": 2379850,
+        "place_id": "cti0zeqbApv1O.pW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "China Lake, Ridgecrest, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542189,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2379850_20101216_554fa14c4d.tar.gz"
+        },
+        "bbox": [
+            -117.67054748535,
+            35.646797180176,
+            -117.66960144043,
+            35.650550842285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -117.670105,
+                        35.650173
+                    ],
+                    [
+                        -117.669838,
+                        35.650551
+                    ],
+                    [
+                        -117.669601,
+                        35.6483
+                    ],
+                    [
+                        -117.670547,
+                        35.646797
+                    ],
+                    [
+                        -117.67038,
+                        35.647549
+                    ],
+                    [
+                        -117.670105,
+                        35.650173
+                    ]
+                ]
+            ]
+        ]
+    }
+}

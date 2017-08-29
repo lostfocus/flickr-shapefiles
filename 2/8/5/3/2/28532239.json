@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532239,
+    "properties": {
+        "woe_id": 28532239,
+        "place_id": "BaRSArKbCZklRe3x6g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Masagocho 4 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509265,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28532239_20101216_21aca6228f.tar.gz"
+        },
+        "bbox": [
+            139.63478088379,
+            35.44554901123,
+            139.63555908203,
+            35.445999145508
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.634857,
+                        35.445702
+                    ],
+                    [
+                        139.634781,
+                        35.445999
+                    ],
+                    [
+                        139.635162,
+                        35.445873
+                    ],
+                    [
+                        139.635559,
+                        35.445679
+                    ],
+                    [
+                        139.635391,
+                        35.445549
+                    ],
+                    [
+                        139.634857,
+                        35.445702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

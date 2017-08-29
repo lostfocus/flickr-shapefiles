@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492704,
+    "properties": {
+        "woe_id": 2492704,
+        "place_id": "Ow0daP2bBZWYO27F",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shields, Leetsdale, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248043095,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2651\/shapefiles\/2492704_20090719_a3dc0f930b.tar.gz"
+        },
+        "bbox": [
+            -80.208885192871,
+            40.557350158691,
+            -80.206245422363,
+            40.563682556152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.208885,
+                        40.563324
+                    ],
+                    [
+                        -80.207672,
+                        40.563683
+                    ],
+                    [
+                        -80.206352,
+                        40.559532
+                    ],
+                    [
+                        -80.206245,
+                        40.558514
+                    ],
+                    [
+                        -80.207703,
+                        40.55735
+                    ],
+                    [
+                        -80.208885,
+                        40.563324
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2382880,
+    "properties": {
+        "woe_id": 2382880,
+        "place_id": "7FX0zgWbApT1fyAX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coleman Station, Millerton, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527442,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2382880_20101216_a4b91107d9.tar.gz"
+        },
+        "bbox": [
+            -73.518363952637,
+            41.914215087891,
+            -73.517562866211,
+            41.917568206787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.517563,
+                        41.917507
+                    ],
+                    [
+                        -73.517616,
+                        41.917183
+                    ],
+                    [
+                        -73.517822,
+                        41.914215
+                    ],
+                    [
+                        -73.518364,
+                        41.915852
+                    ],
+                    [
+                        -73.517609,
+                        41.917542
+                    ],
+                    [
+                        -73.517563,
+                        41.917568
+                    ],
+                    [
+                        -73.517563,
+                        41.917507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

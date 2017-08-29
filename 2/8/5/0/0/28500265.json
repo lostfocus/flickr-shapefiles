@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28500265,
+    "properties": {
+        "woe_id": 28500265,
+        "place_id": "zRULnJibCZmXsbdR9Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maedajujo 18 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434561,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28500265_20101215_720db4a928.tar.gz"
+        },
+        "bbox": [
+            141.25596618652,
+            43.147884368896,
+            141.25782775879,
+            43.149833679199
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.257813,
+                        43.149834
+                    ],
+                    [
+                        141.257828,
+                        43.149776
+                    ],
+                    [
+                        141.257813,
+                        43.14975
+                    ],
+                    [
+                        141.256378,
+                        43.147884
+                    ],
+                    [
+                        141.255966,
+                        43.147945
+                    ],
+                    [
+                        141.257813,
+                        43.149834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

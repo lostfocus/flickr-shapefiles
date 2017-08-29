@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28549971,
+    "properties": {
+        "woe_id": 28549971,
+        "place_id": "uccsoIqbCZkB3rhD3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sakaemachi 2 Chome, Okazaki-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435044,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28549971_20101215_9c54124208.tar.gz"
+        },
+        "bbox": [
+            137.17527770996,
+            34.945560455322,
+            137.17744445801,
+            34.948059082031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.177444,
+                        34.946747
+                    ],
+                    [
+                        137.177078,
+                        34.94556
+                    ],
+                    [
+                        137.176758,
+                        34.946564
+                    ],
+                    [
+                        137.175278,
+                        34.948059
+                    ],
+                    [
+                        137.176315,
+                        34.947514
+                    ],
+                    [
+                        137.177444,
+                        34.946747
+                    ]
+                ]
+            ]
+        ]
+    }
+}

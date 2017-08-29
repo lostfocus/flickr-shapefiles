@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2432636,
+    "properties": {
+        "woe_id": 2432636,
+        "place_id": "ib5kB6mbBZ9FO8jN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kings Landing, Norwell, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234647487,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3315\/shapefiles\/2432636_20090214_a7c36eb9e6.tar.gz"
+        },
+        "bbox": [
+            -70.785171508789,
+            42.155529022217,
+            -70.775619506836,
+            42.165882110596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.776932,
+                        42.159966
+                    ],
+                    [
+                        -70.77562,
+                        42.155529
+                    ],
+                    [
+                        -70.785172,
+                        42.156277
+                    ],
+                    [
+                        -70.779419,
+                        42.165882
+                    ],
+                    [
+                        -70.776932,
+                        42.159966
+                    ]
+                ]
+            ]
+        ]
+    }
+}

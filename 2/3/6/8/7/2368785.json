@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2368785,
+    "properties": {
+        "woe_id": 2368785,
+        "place_id": "vsaNUU6bApopet1j",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Briarwood Acres, Monroe, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451640,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2368785_20101215_1d7961ab72.tar.gz"
+        },
+        "bbox": [
+            -80.57999420166,
+            35.018962860107,
+            -80.575553894043,
+            35.019512176514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.579994,
+                        35.019466
+                    ],
+                    [
+                        -80.579994,
+                        35.019478
+                    ],
+                    [
+                        -80.579971,
+                        35.019512
+                    ],
+                    [
+                        -80.575554,
+                        35.018963
+                    ],
+                    [
+                        -80.579956,
+                        35.019466
+                    ],
+                    [
+                        -80.579994,
+                        35.019466
+                    ]
+                ]
+            ]
+        ]
+    }
+}

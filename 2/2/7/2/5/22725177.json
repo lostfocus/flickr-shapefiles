@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22725177,
+    "properties": {
+        "woe_id": 22725177,
+        "place_id": "EoM.UZmbA5u4OFNJuQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kiryat Ha-yeshiva, Tel Aviv, Tel Aviv, IL, Israel"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441470,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/22725177_20101215_d4d33c75c3.tar.gz"
+        },
+        "bbox": [
+            34.853096008301,
+            32.072830200195,
+            34.860134124756,
+            32.076030731201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        34.860134,
+                        32.073483
+                    ],
+                    [
+                        34.858246,
+                        32.07283
+                    ],
+                    [
+                        34.854126,
+                        32.074284
+                    ],
+                    [
+                        34.853096,
+                        32.075085
+                    ],
+                    [
+                        34.857903,
+                        32.076031
+                    ],
+                    [
+                        34.860134,
+                        32.073483
+                    ]
+                ]
+            ]
+        ]
+    }
+}

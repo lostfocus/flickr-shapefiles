@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2473648,
+    "properties": {
+        "woe_id": 2473648,
+        "place_id": "pWcdExObBZsKs8RZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pleasant Acres, Indianapolis, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533323,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2473648_20101216_d4d2a18271.tar.gz"
+        },
+        "bbox": [
+            -86.094581604004,
+            39.894886016846,
+            -86.092987060547,
+            39.895614624023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.093735,
+                        39.894886
+                    ],
+                    [
+                        -86.094582,
+                        39.895615
+                    ],
+                    [
+                        -86.093498,
+                        39.895283
+                    ],
+                    [
+                        -86.092987,
+                        39.895111
+                    ],
+                    [
+                        -86.093735,
+                        39.894886
+                    ]
+                ]
+            ]
+        ]
+    }
+}

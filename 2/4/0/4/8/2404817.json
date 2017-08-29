@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2404817,
+    "properties": {
+        "woe_id": 2404817,
+        "place_id": "1_lbDoabBZzBrT0D",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Folsons Addition, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451700,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2404817_20101215_5c9752481c.tar.gz"
+        },
+        "bbox": [
+            -111.92047119141,
+            40.803039550781,
+            -111.91888427734,
+            40.806549072266
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.920174,
+                        40.803463
+                    ],
+                    [
+                        -111.920471,
+                        40.804455
+                    ],
+                    [
+                        -111.918884,
+                        40.806549
+                    ],
+                    [
+                        -111.919601,
+                        40.803436
+                    ],
+                    [
+                        -111.919975,
+                        40.80304
+                    ],
+                    [
+                        -111.920174,
+                        40.803463
+                    ]
+                ]
+            ]
+        ]
+    }
+}

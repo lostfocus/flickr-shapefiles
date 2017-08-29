@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523502,
+    "properties": {
+        "woe_id": 28523502,
+        "place_id": "qpBe1VmbCZmGY6zm8A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honcho 2 Chome, Toda-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442124,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/28523502_20101215_9ec4062847.tar.gz"
+        },
+        "bbox": [
+            139.67399597168,
+            35.808689117432,
+            139.67802429199,
+            35.811130523682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.675827,
+                        35.809292
+                    ],
+                    [
+                        139.673996,
+                        35.811131
+                    ],
+                    [
+                        139.675293,
+                        35.810566
+                    ],
+                    [
+                        139.678024,
+                        35.810047
+                    ],
+                    [
+                        139.677322,
+                        35.808689
+                    ],
+                    [
+                        139.675827,
+                        35.809292
+                    ]
+                ]
+            ]
+        ]
+    }
+}

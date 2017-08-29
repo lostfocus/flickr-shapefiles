@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461605,
+    "properties": {
+        "woe_id": 2461605,
+        "place_id": "z5nrW3abBZp6Qvvf",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Scottdale, Scottdale, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454482,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2461605_20101215_19d6b1387b.tar.gz"
+        },
+        "bbox": [
+            -79.571502685547,
+            40.105319976807,
+            -79.568000793457,
+            40.105663299561
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.569992,
+                        40.10532
+                    ],
+                    [
+                        -79.571503,
+                        40.105484
+                    ],
+                    [
+                        -79.569595,
+                        40.105534
+                    ],
+                    [
+                        -79.569122,
+                        40.105663
+                    ],
+                    [
+                        -79.568001,
+                        40.105591
+                    ],
+                    [
+                        -79.569992,
+                        40.10532
+                    ]
+                ]
+            ]
+        ]
+    }
+}

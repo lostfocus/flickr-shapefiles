@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721669,
+    "properties": {
+        "woe_id": 22721669,
+        "place_id": "AUX0mrWbA5uTQISdFA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Skye, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526791,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/22721669_20101216_f5c9797722.tar.gz"
+        },
+        "bbox": [
+            138.69102478027,
+            -34.925983428955,
+            138.69638061523,
+            -34.920211791992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.692581,
+                        -34.923775
+                    ],
+                    [
+                        138.691025,
+                        -34.923252
+                    ],
+                    [
+                        138.692947,
+                        -34.920212
+                    ],
+                    [
+                        138.695953,
+                        -34.923027
+                    ],
+                    [
+                        138.696381,
+                        -34.925983
+                    ],
+                    [
+                        138.692581,
+                        -34.923775
+                    ]
+                ]
+            ]
+        ]
+    }
+}

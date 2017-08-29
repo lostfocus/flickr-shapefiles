@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28525471,
+    "properties": {
+        "woe_id": 28525471,
+        "place_id": "_G64XgebCZlRXMNB3Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyamoto 9 Chome, Funabashi-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442152,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28525471_20101215_0a84996690.tar.gz"
+        },
+        "bbox": [
+            139.99784851074,
+            35.685710906982,
+            140.00227355957,
+            35.689796447754
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.998001,
+                        35.689732
+                    ],
+                    [
+                        140.002274,
+                        35.687138
+                    ],
+                    [
+                        140.00148,
+                        35.685711
+                    ],
+                    [
+                        139.998047,
+                        35.689369
+                    ],
+                    [
+                        139.997849,
+                        35.689796
+                    ],
+                    [
+                        139.998001,
+                        35.689732
+                    ]
+                ]
+            ]
+        ]
+    }
+}

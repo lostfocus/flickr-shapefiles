@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2519666,
+    "properties": {
+        "woe_id": 2519666,
+        "place_id": "oaM3Kv2bBJ2UWuYM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Whitehall, Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459647,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2519666_20101216_0378589cf9.tar.gz"
+        },
+        "bbox": [
+            -81.147079467773,
+            34.053581237793,
+            -81.138069152832,
+            34.058326721191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.141167,
+                        34.056683
+                    ],
+                    [
+                        -81.138069,
+                        34.055645
+                    ],
+                    [
+                        -81.142784,
+                        34.053581
+                    ],
+                    [
+                        -81.147079,
+                        34.054153
+                    ],
+                    [
+                        -81.143639,
+                        34.058327
+                    ],
+                    [
+                        -81.141167,
+                        34.056683
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24551134,
+    "properties": {
+        "woe_id": 24551134,
+        "place_id": "3QBMDWibBZksMuL0VQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "El Alamo, Guaynabo, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545804,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/24551134_20101217_ec712e6350.tar.gz"
+        },
+        "bbox": [
+            -66.111289978027,
+            18.364166259766,
+            -66.108520507812,
+            18.367561340332
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.11129,
+                        18.366249
+                    ],
+                    [
+                        -66.111,
+                        18.367001
+                    ],
+                    [
+                        -66.108521,
+                        18.367561
+                    ],
+                    [
+                        -66.110497,
+                        18.364166
+                    ],
+                    [
+                        -66.11129,
+                        18.366249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

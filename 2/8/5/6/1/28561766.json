@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28561766,
+    "properties": {
+        "woe_id": 28561766,
+        "place_id": "0QRVgKKbCZn09ujXdA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyanosaka 5 Chome, Hirakata-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534732,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/28561766_20101216_8c85aaf423.tar.gz"
+        },
+        "bbox": [
+            135.65634155273,
+            34.808727264404,
+            135.65849304199,
+            34.812252044678
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.656433,
+                        34.810631
+                    ],
+                    [
+                        135.656342,
+                        34.811619
+                    ],
+                    [
+                        135.658401,
+                        34.812252
+                    ],
+                    [
+                        135.658493,
+                        34.811546
+                    ],
+                    [
+                        135.658493,
+                        34.811405
+                    ],
+                    [
+                        135.657028,
+                        34.808727
+                    ],
+                    [
+                        135.656433,
+                        34.810631
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2427495,
+    "properties": {
+        "woe_id": 2427495,
+        "place_id": "W_Xh30mbBZ66axjb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Iris Acres, Alcoa, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525522,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2427495_20101216_98b9671c13.tar.gz"
+        },
+        "bbox": [
+            -83.989273071289,
+            35.777679443359,
+            -83.985916137695,
+            35.784816741943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.986565,
+                        35.782341
+                    ],
+                    [
+                        -83.985916,
+                        35.777679
+                    ],
+                    [
+                        -83.988373,
+                        35.782738
+                    ],
+                    [
+                        -83.989273,
+                        35.784817
+                    ],
+                    [
+                        -83.98848,
+                        35.784103
+                    ],
+                    [
+                        -83.986565,
+                        35.782341
+                    ]
+                ]
+            ]
+        ]
+    }
+}

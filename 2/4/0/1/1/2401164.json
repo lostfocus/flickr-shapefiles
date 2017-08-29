@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401164,
+    "properties": {
+        "woe_id": 2401164,
+        "place_id": "VoRi3WebBZxmrO4J",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Factoryville, Bangor, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524389,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2401164_20101216_43a3d1fe7d.tar.gz"
+        },
+        "bbox": [
+            -75.242530822754,
+            40.826766967773,
+            -75.238838195801,
+            40.831768035889
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.242531,
+                        40.828846
+                    ],
+                    [
+                        -75.240982,
+                        40.831768
+                    ],
+                    [
+                        -75.240746,
+                        40.8302
+                    ],
+                    [
+                        -75.238838,
+                        40.826767
+                    ],
+                    [
+                        -75.242096,
+                        40.827839
+                    ],
+                    [
+                        -75.242531,
+                        40.828846
+                    ]
+                ]
+            ]
+        ]
+    }
+}

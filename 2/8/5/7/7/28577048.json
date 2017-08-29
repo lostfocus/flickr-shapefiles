@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28577048,
+    "properties": {
+        "woe_id": 28577048,
+        "place_id": "a6pyhvybCZmNehzAZg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Komorie 3 Chome, Kitakyushu-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509322,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28577048_20101216_5a27619161.tar.gz"
+        },
+        "bbox": [
+            130.93745422363,
+            33.915157318115,
+            130.94020080566,
+            33.919075012207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.937454,
+                        33.915516
+                    ],
+                    [
+                        130.938919,
+                        33.917332
+                    ],
+                    [
+                        130.939346,
+                        33.918293
+                    ],
+                    [
+                        130.940201,
+                        33.919075
+                    ],
+                    [
+                        130.939178,
+                        33.915157
+                    ],
+                    [
+                        130.937454,
+                        33.915516
+                    ]
+                ]
+            ]
+        ]
+    }
+}

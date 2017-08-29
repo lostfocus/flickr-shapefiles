@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2401900,
+    "properties": {
+        "woe_id": 2401900,
+        "place_id": "dxH8PGubBZyswgz3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairview Beach, Oshkosh, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523437,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2401900_20101216_b62487298a.tar.gz"
+        },
+        "bbox": [
+            -88.536354064941,
+            44.081851959229,
+            -88.530868530273,
+            44.086967468262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.534172,
+                        44.085953
+                    ],
+                    [
+                        -88.532898,
+                        44.084843
+                    ],
+                    [
+                        -88.530869,
+                        44.083496
+                    ],
+                    [
+                        -88.53199,
+                        44.08305
+                    ],
+                    [
+                        -88.534096,
+                        44.081852
+                    ],
+                    [
+                        -88.536354,
+                        44.083195
+                    ],
+                    [
+                        -88.535896,
+                        44.086967
+                    ],
+                    [
+                        -88.534172,
+                        44.085953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

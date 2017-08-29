@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23404839,
+    "properties": {
+        "woe_id": 23404839,
+        "place_id": "SuEAI6SbApi5HbIIEQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kelvin Grove, Calgary, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522514,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/23404839_20101216_89dda2449c.tar.gz"
+        },
+        "bbox": [
+            -114.0890045166,
+            50.986030578613,
+            -114.08393859863,
+            50.987453460693
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.085228,
+                        50.986031
+                    ],
+                    [
+                        -114.085464,
+                        50.986046
+                    ],
+                    [
+                        -114.089005,
+                        50.986111
+                    ],
+                    [
+                        -114.084496,
+                        50.987453
+                    ],
+                    [
+                        -114.083939,
+                        50.987354
+                    ],
+                    [
+                        -114.085228,
+                        50.986031
+                    ]
+                ]
+            ]
+        ]
+    }
+}

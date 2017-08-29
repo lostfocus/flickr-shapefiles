@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435783,
+    "properties": {
+        "woe_id": 2435783,
+        "place_id": "H6KsoJGbBZ8eV6ne",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakewood, Hattiesburg, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247991848,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2647\/shapefiles\/2435783_20090719_48fd29709c.tar.gz"
+        },
+        "bbox": [
+            -89.367813110352,
+            31.321269989014,
+            -89.363182067871,
+            31.323177337646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.363182,
+                        31.323177
+                    ],
+                    [
+                        -89.364555,
+                        31.321655
+                    ],
+                    [
+                        -89.364769,
+                        31.32127
+                    ],
+                    [
+                        -89.367813,
+                        31.322701
+                    ],
+                    [
+                        -89.36425,
+                        31.323067
+                    ],
+                    [
+                        -89.363182,
+                        31.323177
+                    ]
+                ]
+            ]
+        ]
+    }
+}

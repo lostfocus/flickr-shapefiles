@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2505323,
+    "properties": {
+        "woe_id": 2505323,
+        "place_id": "QiEvWKCbBJyZzZEq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Maples, Marlton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452000,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2505323_20101215_4114ce0714.tar.gz"
+        },
+        "bbox": [
+            -74.927864074707,
+            39.90601348877,
+            -74.925384521484,
+            39.908351898193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.927757,
+                        39.906029
+                    ],
+                    [
+                        -74.927864,
+                        39.906101
+                    ],
+                    [
+                        -74.926926,
+                        39.908352
+                    ],
+                    [
+                        -74.925385,
+                        39.907825
+                    ],
+                    [
+                        -74.927658,
+                        39.906013
+                    ],
+                    [
+                        -74.927757,
+                        39.906029
+                    ]
+                ]
+            ]
+        ]
+    }
+}

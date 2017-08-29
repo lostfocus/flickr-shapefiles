@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528244,
+    "properties": {
+        "woe_id": 28528244,
+        "place_id": "ARHweGibCZkBzWatZQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinkamata 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391602,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/28528244_20101215_6c82c750c6.tar.gz"
+        },
+        "bbox": [
+            139.70556640625,
+            35.558685302734,
+            139.70764160156,
+            35.560752868652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.705841,
+                        35.558685
+                    ],
+                    [
+                        139.705566,
+                        35.559124
+                    ],
+                    [
+                        139.707214,
+                        35.560753
+                    ],
+                    [
+                        139.707352,
+                        35.560406
+                    ],
+                    [
+                        139.707642,
+                        35.559322
+                    ],
+                    [
+                        139.705841,
+                        35.558685
+                    ]
+                ]
+            ]
+        ]
+    }
+}

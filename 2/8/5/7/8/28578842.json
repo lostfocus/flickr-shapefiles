@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28578842,
+    "properties": {
+        "woe_id": 28578842,
+        "place_id": "AzFt1pCbCZmSoyxxQQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yokohama 2 Chome, Fukuoka-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520309,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/28578842_20101216_cf1e5b482b.tar.gz"
+        },
+        "bbox": [
+            130.25566101074,
+            33.6061668396,
+            130.25917053223,
+            33.609001159668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.25766,
+                        33.609001
+                    ],
+                    [
+                        130.257996,
+                        33.608833
+                    ],
+                    [
+                        130.259171,
+                        33.606167
+                    ],
+                    [
+                        130.258026,
+                        33.606613
+                    ],
+                    [
+                        130.255661,
+                        33.607834
+                    ],
+                    [
+                        130.25766,
+                        33.609001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

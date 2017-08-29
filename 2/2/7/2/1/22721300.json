@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 22721300,
+    "properties": {
+        "woe_id": 22721300,
+        "place_id": "2P4G2BqbA5uCLVSpDg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wakeley, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524815,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/22721300_20101216_9b83d2387d.tar.gz"
+        },
+        "bbox": [
+            150.90408325195,
+            -33.86865234375,
+            150.90545654297,
+            -33.865615844727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        150.904083,
+                        -33.868652
+                    ],
+                    [
+                        150.904129,
+                        -33.867867
+                    ],
+                    [
+                        150.90477,
+                        -33.865616
+                    ],
+                    [
+                        150.905457,
+                        -33.86742
+                    ],
+                    [
+                        150.904083,
+                        -33.868652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

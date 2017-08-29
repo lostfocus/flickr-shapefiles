@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523225,
+    "properties": {
+        "woe_id": 28523225,
+        "place_id": "rA6weWqbCZlskcFzcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Asahicho 6 Chome, Soka-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434806,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28523225_20101215_25ca95dc09.tar.gz"
+        },
+        "bbox": [
+            139.78504943848,
+            35.848499298096,
+            139.7917175293,
+            35.853500366211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.791718,
+                        35.852249
+                    ],
+                    [
+                        139.78833,
+                        35.848499
+                    ],
+                    [
+                        139.787506,
+                        35.849335
+                    ],
+                    [
+                        139.785049,
+                        35.850876
+                    ],
+                    [
+                        139.790161,
+                        35.8535
+                    ],
+                    [
+                        139.791718,
+                        35.852249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

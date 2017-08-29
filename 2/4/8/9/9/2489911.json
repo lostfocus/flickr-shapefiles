@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2489911,
+    "properties": {
+        "woe_id": 2489911,
+        "place_id": "XYabKfObBZTxIjVX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scotland, Windham, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525948,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2489911_20101216_1b2289b5a2.tar.gz"
+        },
+        "bbox": [
+            -70.358673095703,
+            43.77853012085,
+            -70.353202819824,
+            43.781753540039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.353989,
+                        43.781754
+                    ],
+                    [
+                        -70.353569,
+                        43.7817
+                    ],
+                    [
+                        -70.35331,
+                        43.781212
+                    ],
+                    [
+                        -70.353203,
+                        43.779964
+                    ],
+                    [
+                        -70.358673,
+                        43.77853
+                    ],
+                    [
+                        -70.353989,
+                        43.781754
+                    ]
+                ]
+            ]
+        ]
+    }
+}

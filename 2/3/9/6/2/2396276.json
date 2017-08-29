@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2396276,
+    "properties": {
+        "woe_id": 2396276,
+        "place_id": "lb3NHmKbApVqa_hk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Verona, Rome, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451722,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2396276_20101215_25068773c4.tar.gz"
+        },
+        "bbox": [
+            -75.539352416992,
+            43.212684631348,
+            -75.538558959961,
+            43.213901519775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.539032,
+                        43.212788
+                    ],
+                    [
+                        -75.539322,
+                        43.212685
+                    ],
+                    [
+                        -75.539352,
+                        43.212746
+                    ],
+                    [
+                        -75.538559,
+                        43.213902
+                    ],
+                    [
+                        -75.539032,
+                        43.212788
+                    ]
+                ]
+            ]
+        ]
+    }
+}

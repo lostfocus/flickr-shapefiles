@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229261,
+    "properties": {
+        "woe_id": 20229261,
+        "place_id": "YJAyF9ybAZ5dSLkBCw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kaalundsgade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248039248,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3442\/shapefiles\/20229261_20090719_945c99169d.tar.gz"
+        },
+        "bbox": [
+            12.549346923828,
+            55.671009063721,
+            12.551643371582,
+            55.671962738037
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.54986,
+                        55.671009
+                    ],
+                    [
+                        12.549347,
+                        55.671082
+                    ],
+                    [
+                        12.549471,
+                        55.671703
+                    ],
+                    [
+                        12.551643,
+                        55.671963
+                    ],
+                    [
+                        12.551622,
+                        55.671932
+                    ],
+                    [
+                        12.551048,
+                        55.671501
+                    ],
+                    [
+                        12.54986,
+                        55.671009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

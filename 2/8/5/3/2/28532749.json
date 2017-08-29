@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532749,
+    "properties": {
+        "woe_id": 28532749,
+        "place_id": "qRR5cBCbCZmY7HIKDQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hinominami 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452688,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28532749_20101215_491faea198.tar.gz"
+        },
+        "bbox": [
+            139.56378173828,
+            35.376399993896,
+            139.56669616699,
+            35.381633758545
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.566544,
+                        35.379017
+                    ],
+                    [
+                        139.566559,
+                        35.378986
+                    ],
+                    [
+                        139.566696,
+                        35.3764
+                    ],
+                    [
+                        139.56636,
+                        35.378906
+                    ],
+                    [
+                        139.563782,
+                        35.381634
+                    ],
+                    [
+                        139.566544,
+                        35.379017
+                    ]
+                ]
+            ]
+        ]
+    }
+}

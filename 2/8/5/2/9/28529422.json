@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529422,
+    "properties": {
+        "woe_id": 28529422,
+        "place_id": "3ZnXD_ibCZmHtwwq6A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nukui 5 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481189,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/28529422_20101216_cbd7d789ba.tar.gz"
+        },
+        "bbox": [
+            139.63317871094,
+            35.741333007812,
+            139.63453674316,
+            35.743942260742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.633728,
+                        35.741714
+                    ],
+                    [
+                        139.633179,
+                        35.743942
+                    ],
+                    [
+                        139.634506,
+                        35.743031
+                    ],
+                    [
+                        139.634537,
+                        35.741779
+                    ],
+                    [
+                        139.634171,
+                        35.741333
+                    ],
+                    [
+                        139.633728,
+                        35.741714
+                    ]
+                ]
+            ]
+        ]
+    }
+}

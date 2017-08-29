@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2353299,
+    "properties": {
+        "woe_id": 2353299,
+        "place_id": "fXtxJdCbApmWf9xJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allen Hills, Charlotte, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529872,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2353299_20101216_5b9e035d5e.tar.gz"
+        },
+        "bbox": [
+            -80.801864624023,
+            35.296905517578,
+            -80.799537658691,
+            35.301361083984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.801689,
+                        35.300549
+                    ],
+                    [
+                        -80.801865,
+                        35.300976
+                    ],
+                    [
+                        -80.801178,
+                        35.301361
+                    ],
+                    [
+                        -80.801338,
+                        35.300465
+                    ],
+                    [
+                        -80.799538,
+                        35.296906
+                    ],
+                    [
+                        -80.801689,
+                        35.300549
+                    ]
+                ]
+            ]
+        ]
+    }
+}

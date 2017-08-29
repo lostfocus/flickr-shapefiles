@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28644227,
+    "properties": {
+        "woe_id": 28644227,
+        "place_id": "3asmNVObCZrfz8FMSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bay View, North Shore, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234747580,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3223\/shapefiles\/28644227_20090216_af70a32645.tar.gz"
+        },
+        "bbox": [
+            174.70532226562,
+            -36.775177001953,
+            174.71026611328,
+            -36.770957946777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.705322,
+                        -36.77132
+                    ],
+                    [
+                        174.706192,
+                        -36.770958
+                    ],
+                    [
+                        174.710266,
+                        -36.771175
+                    ],
+                    [
+                        174.708603,
+                        -36.775177
+                    ],
+                    [
+                        174.705322,
+                        -36.77132
+                    ]
+                ]
+            ]
+        ]
+    }
+}

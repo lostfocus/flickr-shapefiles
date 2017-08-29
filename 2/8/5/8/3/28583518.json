@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28583518,
+    "properties": {
+        "woe_id": 28583518,
+        "place_id": "RMaNfAibCZkX865KWw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minato 1 Chome, Nago-shi, Okinawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453961,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28583518_20101215_d50bc78399.tar.gz"
+        },
+        "bbox": [
+            127.97731781006,
+            26.589332580566,
+            127.9792175293,
+            26.591625213623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.979218,
+                        26.589678
+                    ],
+                    [
+                        127.978333,
+                        26.589333
+                    ],
+                    [
+                        127.978302,
+                        26.589359
+                    ],
+                    [
+                        127.977318,
+                        26.591547
+                    ],
+                    [
+                        127.977547,
+                        26.591625
+                    ],
+                    [
+                        127.979218,
+                        26.589678
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28544692,
+    "properties": {
+        "woe_id": 28544692,
+        "place_id": "FPJTNd2bCZlAoCnTqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Toyoda 1 Chome, Shizuoka-shi, Shizuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457752,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28544692_20101216_b2d218be35.tar.gz"
+        },
+        "bbox": [
+            138.40734863281,
+            34.970176696777,
+            138.41114807129,
+            34.971870422363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.407349,
+                        34.970333
+                    ],
+                    [
+                        138.4086,
+                        34.971569
+                    ],
+                    [
+                        138.410446,
+                        34.97187
+                    ],
+                    [
+                        138.411148,
+                        34.970844
+                    ],
+                    [
+                        138.409271,
+                        34.970177
+                    ],
+                    [
+                        138.407349,
+                        34.970333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

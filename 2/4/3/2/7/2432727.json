@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432727,
+    "properties": {
+        "woe_id": 2432727,
+        "place_id": "QxnMy0qbBZ_5fGJh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingsgate, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519899,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2432727_20101216_580861dc30.tar.gz"
+        },
+        "bbox": [
+            -111.98611450195,
+            40.653179168701,
+            -111.97992706299,
+            40.655117034912
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.979927,
+                        40.655025
+                    ],
+                    [
+                        -111.980942,
+                        40.653515
+                    ],
+                    [
+                        -111.986115,
+                        40.653179
+                    ],
+                    [
+                        -111.985107,
+                        40.654289
+                    ],
+                    [
+                        -111.98056,
+                        40.655117
+                    ],
+                    [
+                        -111.979927,
+                        40.655025
+                    ]
+                ]
+            ]
+        ]
+    }
+}

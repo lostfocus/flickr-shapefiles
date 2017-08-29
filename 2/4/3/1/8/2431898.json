@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2431898,
+    "properties": {
+        "woe_id": 2431898,
+        "place_id": "1RayQ6mbBZ8gcOxa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kerr, Clearfield, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448544,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2431898_20101215_cf3b808302.tar.gz"
+        },
+        "bbox": [
+            -78.399894714355,
+            41.036609649658,
+            -78.397918701172,
+            41.038967132568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.399025,
+                        41.03661
+                    ],
+                    [
+                        -78.399727,
+                        41.037025
+                    ],
+                    [
+                        -78.399895,
+                        41.038967
+                    ],
+                    [
+                        -78.397919,
+                        41.038578
+                    ],
+                    [
+                        -78.398285,
+                        41.038166
+                    ],
+                    [
+                        -78.399025,
+                        41.03661
+                    ]
+                ]
+            ]
+        ]
+    }
+}

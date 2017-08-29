@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2479437,
+    "properties": {
+        "woe_id": 2479437,
+        "place_id": "wxmSWUebBZvcMBeL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Red Oaks Mill, Poughkeepsie, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522403,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/2479437_20101216_8e90807c91.tar.gz"
+        },
+        "bbox": [
+            -73.874542236328,
+            41.652072906494,
+            -73.871467590332,
+            41.655246734619
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.872681,
+                        41.654499
+                    ],
+                    [
+                        -73.871468,
+                        41.655247
+                    ],
+                    [
+                        -73.871605,
+                        41.653027
+                    ],
+                    [
+                        -73.874046,
+                        41.652073
+                    ],
+                    [
+                        -73.874542,
+                        41.652199
+                    ],
+                    [
+                        -73.872681,
+                        41.654499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

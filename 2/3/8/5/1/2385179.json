@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2385179,
+    "properties": {
+        "woe_id": 2385179,
+        "place_id": "B8LR99ubApQjK3FO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Corning Manor, Corning, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525897,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2385179_20101216_1a7cfdd689.tar.gz"
+        },
+        "bbox": [
+            -77.011184692383,
+            42.120929718018,
+            -77.008369445801,
+            42.124202728271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.011185,
+                        42.123222
+                    ],
+                    [
+                        -77.01107,
+                        42.123363
+                    ],
+                    [
+                        -77.010811,
+                        42.123627
+                    ],
+                    [
+                        -77.010208,
+                        42.124203
+                    ],
+                    [
+                        -77.008369,
+                        42.12093
+                    ],
+                    [
+                        -77.011185,
+                        42.123222
+                    ]
+                ]
+            ]
+        ]
+    }
+}

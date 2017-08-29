@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2415302,
+    "properties": {
+        "woe_id": 2415302,
+        "place_id": "C5XwNpebBZ0tbtQk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Grove Park, Birmingham, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234880285,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3453\/shapefiles\/2415302_20090217_47af1b9d01.tar.gz"
+        },
+        "bbox": [
+            -86.806259155273,
+            33.474559783936,
+            -86.798492431641,
+            33.480548858643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.799545,
+                        33.476772
+                    ],
+                    [
+                        -86.798492,
+                        33.475677
+                    ],
+                    [
+                        -86.803612,
+                        33.475262
+                    ],
+                    [
+                        -86.806259,
+                        33.47456
+                    ],
+                    [
+                        -86.805374,
+                        33.480549
+                    ],
+                    [
+                        -86.799545,
+                        33.476772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

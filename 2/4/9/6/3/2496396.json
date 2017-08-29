@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496396,
+    "properties": {
+        "woe_id": 2496396,
+        "place_id": "HrxQkfWbBZWL9ICv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Jordan Heights, South Jordan, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229481366,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3284\/shapefiles\/2496396_20081217_644435dc74.tar.gz"
+        },
+        "bbox": [
+            -111.94677734375,
+            40.563453674316,
+            -111.93952178955,
+            40.567348480225
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.939522,
+                        40.565655
+                    ],
+                    [
+                        -111.939667,
+                        40.564762
+                    ],
+                    [
+                        -111.942574,
+                        40.564968
+                    ],
+                    [
+                        -111.946777,
+                        40.563454
+                    ],
+                    [
+                        -111.943291,
+                        40.567348
+                    ],
+                    [
+                        -111.939522,
+                        40.565655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

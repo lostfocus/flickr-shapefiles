@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484008,
+    "properties": {
+        "woe_id": 2484008,
+        "place_id": "AASPfACbBZQb5S81",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roland Park, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478126,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2484008_20101216_b2fb6e6e0a.tar.gz"
+        },
+        "bbox": [
+            -76.637641906738,
+            39.355621337891,
+            -76.631042480469,
+            39.357727050781
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.634491,
+                        39.355621
+                    ],
+                    [
+                        -76.637642,
+                        39.356682
+                    ],
+                    [
+                        -76.636078,
+                        39.357727
+                    ],
+                    [
+                        -76.632591,
+                        39.35667
+                    ],
+                    [
+                        -76.631042,
+                        39.356403
+                    ],
+                    [
+                        -76.634491,
+                        39.355621
+                    ]
+                ]
+            ]
+        ]
+    }
+}

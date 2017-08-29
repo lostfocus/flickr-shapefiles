@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528574,
+    "properties": {
+        "woe_id": 28528574,
+        "place_id": "v63wBSObCZlCeASnmw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tsurumaki 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463544,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/28528574_20101216_695641b876.tar.gz"
+        },
+        "bbox": [
+            139.6512298584,
+            35.633232116699,
+            139.65502929688,
+            35.636737823486
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.65123,
+                        35.63393
+                    ],
+                    [
+                        139.652451,
+                        35.636559
+                    ],
+                    [
+                        139.654922,
+                        35.636738
+                    ],
+                    [
+                        139.655029,
+                        35.634132
+                    ],
+                    [
+                        139.651245,
+                        35.633232
+                    ],
+                    [
+                        139.65123,
+                        35.63393
+                    ]
+                ]
+            ]
+        ]
+    }
+}

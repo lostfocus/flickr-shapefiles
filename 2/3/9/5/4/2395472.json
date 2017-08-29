@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395472,
+    "properties": {
+        "woe_id": 2395472,
+        "place_id": "fNPmMLabApU8SfeO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Creek, Little Falls, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519880,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2395472_20101216_0e1e2f7b37.tar.gz"
+        },
+        "bbox": [
+            -74.744903564453,
+            43.006450653076,
+            -74.742469787598,
+            43.007305145264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.744904,
+                        43.007236
+                    ],
+                    [
+                        -74.744789,
+                        43.007305
+                    ],
+                    [
+                        -74.744522,
+                        43.007305
+                    ],
+                    [
+                        -74.74247,
+                        43.007282
+                    ],
+                    [
+                        -74.744804,
+                        43.006451
+                    ],
+                    [
+                        -74.744904,
+                        43.007236
+                    ]
+                ]
+            ]
+        ]
+    }
+}

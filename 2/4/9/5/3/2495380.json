@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2495380,
+    "properties": {
+        "woe_id": 2495380,
+        "place_id": "c7jEJp2bBZXnK1Vb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Snowden, South Park, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529421,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2495380_20101216_8116743213.tar.gz"
+        },
+        "bbox": [
+            -79.981513977051,
+            40.282047271729,
+            -79.976547241211,
+            40.284355163574
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.979439,
+                        40.284355
+                    ],
+                    [
+                        -79.979408,
+                        40.284348
+                    ],
+                    [
+                        -79.976547,
+                        40.282925
+                    ],
+                    [
+                        -79.981514,
+                        40.282047
+                    ],
+                    [
+                        -79.979576,
+                        40.284225
+                    ],
+                    [
+                        -79.979507,
+                        40.284325
+                    ],
+                    [
+                        -79.979439,
+                        40.284355
+                    ]
+                ]
+            ]
+        ]
+    }
+}

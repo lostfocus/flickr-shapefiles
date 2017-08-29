@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28509442,
+    "properties": {
+        "woe_id": 28509442,
+        "place_id": "cYdgCnSbCZmQsiwvhw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kitaichijonishi 3 Chome, Kucchan-cho, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537644,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/28509442_20101216_52bb2fcb00.tar.gz"
+        },
+        "bbox": [
+            140.74534606934,
+            42.901695251465,
+            140.74661254883,
+            42.902000427246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.745346,
+                        42.901821
+                    ],
+                    [
+                        140.745499,
+                        42.902
+                    ],
+                    [
+                        140.745667,
+                        42.902
+                    ],
+                    [
+                        140.746613,
+                        42.901695
+                    ],
+                    [
+                        140.745834,
+                        42.901833
+                    ],
+                    [
+                        140.745346,
+                        42.901821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

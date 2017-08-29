@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28745899,
+    "properties": {
+        "woe_id": 28745899,
+        "place_id": "oYU9fIubCZuAHpAbxg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brownsville, Shenandoah, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548088,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28745899_20101217_e80138bb64.tar.gz"
+        },
+        "bbox": [
+            -76.205459594727,
+            40.81432723999,
+            -76.20044708252,
+            40.821754455566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.203293,
+                        40.821053
+                    ],
+                    [
+                        -76.200447,
+                        40.821754
+                    ],
+                    [
+                        -76.202332,
+                        40.8195
+                    ],
+                    [
+                        -76.20546,
+                        40.814327
+                    ],
+                    [
+                        -76.204498,
+                        40.819832
+                    ],
+                    [
+                        -76.203293,
+                        40.821053
+                    ]
+                ]
+            ]
+        ]
+    }
+}

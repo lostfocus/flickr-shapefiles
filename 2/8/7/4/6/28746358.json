@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746358,
+    "properties": {
+        "woe_id": 28746358,
+        "place_id": "AA.Lg62bCZuvBssbhA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pittston Farm, Jackman, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529545,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28746358_20101216_1dc6645576.tar.gz"
+        },
+        "bbox": [
+            -69.964584350586,
+            45.893501281738,
+            -69.964164733887,
+            45.894458770752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.964584,
+                        45.894459
+                    ],
+                    [
+                        -69.964165,
+                        45.893833
+                    ],
+                    [
+                        -69.964165,
+                        45.893665
+                    ],
+                    [
+                        -69.964165,
+                        45.893501
+                    ],
+                    [
+                        -69.964584,
+                        45.894459
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28571108,
+    "properties": {
+        "woe_id": 28571108,
+        "place_id": "wXf7g_ibCZkHvAfowQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Enyariharacho 2 Chome, Izumo-shi, Shimane Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435223,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/28571108_20101215_64beb22953.tar.gz"
+        },
+        "bbox": [
+            132.74438476562,
+            35.366516113281,
+            132.74751281738,
+            35.369888305664
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.745529,
+                        35.369526
+                    ],
+                    [
+                        132.74559,
+                        35.369244
+                    ],
+                    [
+                        132.747513,
+                        35.366516
+                    ],
+                    [
+                        132.746124,
+                        35.367176
+                    ],
+                    [
+                        132.744385,
+                        35.369888
+                    ],
+                    [
+                        132.745529,
+                        35.369526
+                    ]
+                ]
+            ]
+        ]
+    }
+}

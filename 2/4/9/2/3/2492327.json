@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2492327,
+    "properties": {
+        "woe_id": 2492327,
+        "place_id": "T8RK2r6bBZXhyWUa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shepardville, Plainville, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542264,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2492327_20101216_7aebe54ffe.tar.gz"
+        },
+        "bbox": [
+            -71.310302734375,
+            42.018669128418,
+            -71.310241699219,
+            42.01887512207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.310303,
+                        42.018822
+                    ],
+                    [
+                        -71.310303,
+                        42.018833
+                    ],
+                    [
+                        -71.310303,
+                        42.018875
+                    ],
+                    [
+                        -71.310242,
+                        42.018822
+                    ],
+                    [
+                        -71.310249,
+                        42.018669
+                    ],
+                    [
+                        -71.310303,
+                        42.018822
+                    ]
+                ]
+            ]
+        ]
+    }
+}

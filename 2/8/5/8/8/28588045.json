@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28588045,
+    "properties": {
+        "woe_id": 28588045,
+        "place_id": "vz1uVqubCZnjKcfWmg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Windradyne, Bathurst, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538823,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/28588045_20101216_8be9614ab1.tar.gz"
+        },
+        "bbox": [
+            149.54963684082,
+            -33.413112640381,
+            149.55310058594,
+            -33.409519195557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.552841,
+                        -33.412704
+                    ],
+                    [
+                        149.551804,
+                        -33.413113
+                    ],
+                    [
+                        149.550705,
+                        -33.412331
+                    ],
+                    [
+                        149.549637,
+                        -33.411732
+                    ],
+                    [
+                        149.553101,
+                        -33.409519
+                    ],
+                    [
+                        149.552841,
+                        -33.412704
+                    ]
+                ]
+            ]
+        ]
+    }
+}

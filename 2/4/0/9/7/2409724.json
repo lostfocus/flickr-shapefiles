@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2409724,
+    "properties": {
+        "woe_id": 2409724,
+        "place_id": "ijtPBTKbBZzaOsAE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Georgian Forest, Silver Spring, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247924649,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3521\/shapefiles\/2409724_20090718_4106c60a0c.tar.gz"
+        },
+        "bbox": [
+            -77.069854736328,
+            39.071544647217,
+            -77.060691833496,
+            39.081432342529
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.060692,
+                        39.074203
+                    ],
+                    [
+                        -77.061226,
+                        39.071545
+                    ],
+                    [
+                        -77.068428,
+                        39.076527
+                    ],
+                    [
+                        -77.069855,
+                        39.077534
+                    ],
+                    [
+                        -77.061981,
+                        39.081432
+                    ],
+                    [
+                        -77.060692,
+                        39.074203
+                    ]
+                ]
+            ]
+        ]
+    }
+}

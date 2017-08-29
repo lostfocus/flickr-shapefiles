@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481030,
+    "properties": {
+        "woe_id": 2481030,
+        "place_id": "Ci9Us1SbBZRM7Prd",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ricker Mills, Groton, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520965,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2481030_20101216_fe1267f474.tar.gz"
+        },
+        "bbox": [
+            -72.245407104492,
+            44.242115020752,
+            -72.24006652832,
+            44.246463775635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.24498,
+                        44.243233
+                    ],
+                    [
+                        -72.245407,
+                        44.24403
+                    ],
+                    [
+                        -72.244438,
+                        44.245968
+                    ],
+                    [
+                        -72.241585,
+                        44.246464
+                    ],
+                    [
+                        -72.240067,
+                        44.242115
+                    ],
+                    [
+                        -72.24498,
+                        44.243233
+                    ]
+                ]
+            ]
+        ]
+    }
+}

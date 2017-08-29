@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2405095,
+    "properties": {
+        "woe_id": 2405095,
+        "place_id": "2bySIPmbBZy7DdX2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Forest Glen Park, Silver Spring, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519883,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2405095_20101216_eb2ba2ff57.tar.gz"
+        },
+        "bbox": [
+            -77.057571411133,
+            39.010795593262,
+            -77.05485534668,
+            39.012977600098
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.05703,
+                        39.010796
+                    ],
+                    [
+                        -77.057571,
+                        39.012238
+                    ],
+                    [
+                        -77.055466,
+                        39.012978
+                    ],
+                    [
+                        -77.054855,
+                        39.012356
+                    ],
+                    [
+                        -77.05703,
+                        39.010796
+                    ]
+                ]
+            ]
+        ]
+    }
+}

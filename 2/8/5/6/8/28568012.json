@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28568012,
+    "properties": {
+        "woe_id": 28568012,
+        "place_id": "lxMwxi.bCZm7iUq5gQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tenmoncho 1 Chome, Akashi-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442198,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/28568012_20101215_d8777b85b4.tar.gz"
+        },
+        "bbox": [
+            134.99729919434,
+            34.647834777832,
+            135.00183105469,
+            34.649421691895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.001831,
+                        34.648998
+                    ],
+                    [
+                        135.001328,
+                        34.647835
+                    ],
+                    [
+                        135.001038,
+                        34.647923
+                    ],
+                    [
+                        134.997299,
+                        34.648384
+                    ],
+                    [
+                        135,
+                        34.649422
+                    ],
+                    [
+                        135.001831,
+                        34.648998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

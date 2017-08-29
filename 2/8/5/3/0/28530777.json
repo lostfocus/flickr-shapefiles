@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530777,
+    "properties": {
+        "woe_id": 28530777,
+        "place_id": "zM8NRLqbCZlt7KAPbQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fuda 4 Chome, Chofu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247843881,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2605\/shapefiles\/28530777_20090717_b0586f9581.tar.gz"
+        },
+        "bbox": [
+            139.54318237305,
+            35.64965057373,
+            139.54591369629,
+            35.651523590088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.545914,
+                        35.65134
+                    ],
+                    [
+                        139.54567,
+                        35.650833
+                    ],
+                    [
+                        139.545181,
+                        35.649651
+                    ],
+                    [
+                        139.543182,
+                        35.651367
+                    ],
+                    [
+                        139.544922,
+                        35.651524
+                    ],
+                    [
+                        139.545914,
+                        35.65134
+                    ]
+                ]
+            ]
+        ]
+    }
+}

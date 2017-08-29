@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2370954,
+    "properties": {
+        "woe_id": 2370954,
+        "place_id": "6eEXaU2bApthnt_P",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brynn Marr, Jacksonville, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547092,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2370954_20101217_42cc0a7abb.tar.gz"
+        },
+        "bbox": [
+            -77.391166687012,
+            34.744331359863,
+            -77.385803222656,
+            34.744998931885
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.390335,
+                        34.744835
+                    ],
+                    [
+                        -77.391167,
+                        34.744331
+                    ],
+                    [
+                        -77.390503,
+                        34.744999
+                    ],
+                    [
+                        -77.390335,
+                        34.744999
+                    ],
+                    [
+                        -77.385803,
+                        34.744576
+                    ],
+                    [
+                        -77.390335,
+                        34.744835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2354548,
+    "properties": {
+        "woe_id": 2354548,
+        "place_id": "NMiC7AqbApksP7da",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Anderson, Parksville, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477048,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2354548_20101216_983320bd2d.tar.gz"
+        },
+        "bbox": [
+            -74.702331542969,
+            41.907466888428,
+            -74.700660705566,
+            41.908664703369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.702164,
+                        41.908665
+                    ],
+                    [
+                        -74.702003,
+                        41.908665
+                    ],
+                    [
+                        -74.700661,
+                        41.907467
+                    ],
+                    [
+                        -74.700714,
+                        41.907482
+                    ],
+                    [
+                        -74.702332,
+                        41.908665
+                    ],
+                    [
+                        -74.702164,
+                        41.908665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

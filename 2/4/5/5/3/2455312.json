@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2455312,
+    "properties": {
+        "woe_id": 2455312,
+        "place_id": "nwNrW_qbBZmxRN_i",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mount Pleasant, Morganville, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542796,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2455312_20101216_194a96d4ef.tar.gz"
+        },
+        "bbox": [
+            -74.218566894531,
+            40.381855010986,
+            -74.218162536621,
+            40.382141113281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.218216,
+                        40.381927
+                    ],
+                    [
+                        -74.218163,
+                        40.381855
+                    ],
+                    [
+                        -74.218216,
+                        40.381866
+                    ],
+                    [
+                        -74.218567,
+                        40.382141
+                    ],
+                    [
+                        -74.218391,
+                        40.382034
+                    ],
+                    [
+                        -74.218216,
+                        40.381927
+                    ]
+                ]
+            ]
+        ]
+    }
+}

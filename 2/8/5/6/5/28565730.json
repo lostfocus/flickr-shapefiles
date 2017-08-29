@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28565730,
+    "properties": {
+        "woe_id": 28565730,
+        "place_id": "CC6siu.bCZmcYNJ7Mg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Futabacho 2 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463666,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/28565730_20101216_30146d3332.tar.gz"
+        },
+        "bbox": [
+            135.15060424805,
+            34.653888702393,
+            135.15083312988,
+            34.654720306396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.150726,
+                        34.654057
+                    ],
+                    [
+                        135.150604,
+                        34.65461
+                    ],
+                    [
+                        135.150757,
+                        34.65472
+                    ],
+                    [
+                        135.150833,
+                        34.654167
+                    ],
+                    [
+                        135.150833,
+                        34.653889
+                    ],
+                    [
+                        135.150726,
+                        34.654057
+                    ]
+                ]
+            ]
+        ]
+    }
+}

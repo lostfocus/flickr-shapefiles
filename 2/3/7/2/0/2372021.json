@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2372021,
+    "properties": {
+        "woe_id": 2372021,
+        "place_id": "j_IuZgGbApsXD9QD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burkley Manor, Aberdeen, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529416,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2372021_20101216_f95e17436e.tar.gz"
+        },
+        "bbox": [
+            -76.175086975098,
+            39.511623382568,
+            -76.169410705566,
+            39.516456604004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.171349,
+                        39.516457
+                    ],
+                    [
+                        -76.171257,
+                        39.515827
+                    ],
+                    [
+                        -76.169411,
+                        39.511623
+                    ],
+                    [
+                        -76.172157,
+                        39.514107
+                    ],
+                    [
+                        -76.175087,
+                        39.513618
+                    ],
+                    [
+                        -76.171349,
+                        39.516457
+                    ]
+                ]
+            ]
+        ]
+    }
+}

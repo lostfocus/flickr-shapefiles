@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23512170,
+    "properties": {
+        "woe_id": 23512170,
+        "place_id": "4Y6nJv.bApm_RNn72g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Viavant, New Orleans, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481003,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/23512170_20101216_7e7ab4e9de.tar.gz"
+        },
+        "bbox": [
+            -89.924812316895,
+            30.016883850098,
+            -89.917465209961,
+            30.022508621216
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.917465,
+                        30.018633
+                    ],
+                    [
+                        -89.919167,
+                        30.016884
+                    ],
+                    [
+                        -89.922966,
+                        30.019051
+                    ],
+                    [
+                        -89.924812,
+                        30.022509
+                    ],
+                    [
+                        -89.918633,
+                        30.022285
+                    ],
+                    [
+                        -89.918015,
+                        30.019716
+                    ],
+                    [
+                        -89.917465,
+                        30.018633
+                    ]
+                ]
+            ]
+        ]
+    }
+}

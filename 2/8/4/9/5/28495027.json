@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28495027,
+    "properties": {
+        "woe_id": 28495027,
+        "place_id": "fqES_TObCZixy5GU2w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kitakujonishi 15 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452553,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/28495027_20101215_3a5f78682e.tar.gz"
+        },
+        "bbox": [
+            141.33056640625,
+            43.068897247314,
+            141.33200073242,
+            43.069568634033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.331665,
+                        43.069149
+                    ],
+                    [
+                        141.331436,
+                        43.068966
+                    ],
+                    [
+                        141.330673,
+                        43.068897
+                    ],
+                    [
+                        141.330566,
+                        43.069569
+                    ],
+                    [
+                        141.332001,
+                        43.0695
+                    ],
+                    [
+                        141.331665,
+                        43.069149
+                    ]
+                ]
+            ]
+        ]
+    }
+}

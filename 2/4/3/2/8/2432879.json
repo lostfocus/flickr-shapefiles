@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432879,
+    "properties": {
+        "woe_id": 2432879,
+        "place_id": "0054eiCbBZ8SrjQe",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingview, Scottdale, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456736,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2432879_20101215_657b69c69a.tar.gz"
+        },
+        "bbox": [
+            -79.581504821777,
+            40.103416442871,
+            -79.572425842285,
+            40.10514831543
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.572426,
+                        40.105148
+                    ],
+                    [
+                        -79.575928,
+                        40.103416
+                    ],
+                    [
+                        -79.581337,
+                        40.104164
+                    ],
+                    [
+                        -79.581505,
+                        40.104351
+                    ],
+                    [
+                        -79.576912,
+                        40.104897
+                    ],
+                    [
+                        -79.572426,
+                        40.105148
+                    ]
+                ]
+            ]
+        ]
+    }
+}

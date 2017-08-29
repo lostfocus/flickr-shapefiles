@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2486875,
+    "properties": {
+        "woe_id": 2486875,
+        "place_id": "XUBTJhibBZRa4Gz2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. John, Rush Valley, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527513,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2486875_20101216_534dbabe76.tar.gz"
+        },
+        "bbox": [
+            -112.43654632568,
+            40.336074829102,
+            -112.43589782715,
+            40.337345123291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.436111,
+                        40.337345
+                    ],
+                    [
+                        -112.435898,
+                        40.337246
+                    ],
+                    [
+                        -112.436058,
+                        40.336849
+                    ],
+                    [
+                        -112.436226,
+                        40.336075
+                    ],
+                    [
+                        -112.436546,
+                        40.336926
+                    ],
+                    [
+                        -112.436111,
+                        40.337345
+                    ]
+                ]
+            ]
+        ]
+    }
+}

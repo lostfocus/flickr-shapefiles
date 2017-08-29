@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551046,
+    "properties": {
+        "woe_id": 24551046,
+        "place_id": "psPLCwabBZngH1ztIw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gonzalez, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550038,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/24551046_20101217_6b5ebb9c4e.tar.gz"
+        },
+        "bbox": [
+            -66.046745300293,
+            18.407333374023,
+            -66.042831420898,
+            18.413604736328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.043137,
+                        18.413605
+                    ],
+                    [
+                        -66.043396,
+                        18.411081
+                    ],
+                    [
+                        -66.042831,
+                        18.407333
+                    ],
+                    [
+                        -66.046745,
+                        18.408358
+                    ],
+                    [
+                        -66.045509,
+                        18.413315
+                    ],
+                    [
+                        -66.043137,
+                        18.413605
+                    ]
+                ]
+            ]
+        ]
+    }
+}

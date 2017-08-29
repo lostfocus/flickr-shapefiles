@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2459033,
+    "properties": {
+        "woe_id": 2459033,
+        "place_id": "WiBiKB6bBZkwU7sF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "New Town, Savannah, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542268,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2459033_20101216_cb0089b873.tar.gz"
+        },
+        "bbox": [
+            -88.251243591309,
+            35.224464416504,
+            -88.249641418457,
+            35.225505828857
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.250145,
+                        35.224464
+                    ],
+                    [
+                        -88.250984,
+                        35.225067
+                    ],
+                    [
+                        -88.251244,
+                        35.225506
+                    ],
+                    [
+                        -88.249641,
+                        35.225204
+                    ],
+                    [
+                        -88.250145,
+                        35.224464
+                    ]
+                ]
+            ]
+        ]
+    }
+}

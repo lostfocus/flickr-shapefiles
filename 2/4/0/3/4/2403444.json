@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403444,
+    "properties": {
+        "woe_id": 2403444,
+        "place_id": "lJ21Zw2bBZxAD1Xl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Finlandia, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542398,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2403444_20101216_3971b3eb3d.tar.gz"
+        },
+        "bbox": [
+            -111.80852508545,
+            40.601833343506,
+            -111.80537414551,
+            40.606784820557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.807831,
+                        40.603729
+                    ],
+                    [
+                        -111.808525,
+                        40.606785
+                    ],
+                    [
+                        -111.807365,
+                        40.605923
+                    ],
+                    [
+                        -111.805374,
+                        40.604404
+                    ],
+                    [
+                        -111.806114,
+                        40.601833
+                    ],
+                    [
+                        -111.807831,
+                        40.603729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

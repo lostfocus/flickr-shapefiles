@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746372,
+    "properties": {
+        "woe_id": 28746372,
+        "place_id": "ETU8ZxCbCZt0VsIFOQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jackman Station, Jackman, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455322,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/28746372_20101215_f584350dc6.tar.gz"
+        },
+        "bbox": [
+            -70.252586364746,
+            45.622440338135,
+            -70.251075744629,
+            45.623760223389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.251076,
+                        45.62373
+                    ],
+                    [
+                        -70.252586,
+                        45.62244
+                    ],
+                    [
+                        -70.252243,
+                        45.623283
+                    ],
+                    [
+                        -70.25116,
+                        45.62376
+                    ],
+                    [
+                        -70.251076,
+                        45.62373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

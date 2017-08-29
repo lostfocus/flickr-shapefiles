@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23417775,
+    "properties": {
+        "woe_id": 23417775,
+        "place_id": "hjR681ObApglP8zwkA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillside Lake, Wappingers Falls, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541786,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/23417775_20101216_9c82183fdf.tar.gz"
+        },
+        "bbox": [
+            -73.791213989258,
+            41.624984741211,
+            -73.791137695312,
+            41.625244140625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.791183,
+                        41.624985
+                    ],
+                    [
+                        -73.791214,
+                        41.624985
+                    ],
+                    [
+                        -73.791138,
+                        41.625244
+                    ],
+                    [
+                        -73.791161,
+                        41.62508
+                    ],
+                    [
+                        -73.791183,
+                        41.624985
+                    ]
+                ]
+            ]
+        ]
+    }
+}

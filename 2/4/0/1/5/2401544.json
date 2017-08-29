@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401544,
+    "properties": {
+        "woe_id": 2401544,
+        "place_id": "e1z7NPObBZws7w3j",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairlawn, Johnson City, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456629,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2401544_20101215_b99b3beb4e.tar.gz"
+        },
+        "bbox": [
+            -82.375877380371,
+            36.340595245361,
+            -82.371574401855,
+            36.345497131348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.373299,
+                        36.345497
+                    ],
+                    [
+                        -82.371819,
+                        36.344402
+                    ],
+                    [
+                        -82.371574,
+                        36.343304
+                    ],
+                    [
+                        -82.373474,
+                        36.340595
+                    ],
+                    [
+                        -82.375877,
+                        36.3433
+                    ],
+                    [
+                        -82.373299,
+                        36.345497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

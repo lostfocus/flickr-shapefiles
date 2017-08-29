@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2390763,
+    "properties": {
+        "woe_id": 2390763,
+        "place_id": "xR9bFGybApVvv3pn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Delavan Lake, Delavan, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525268,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2390763_20101216_bb1b2083dd.tar.gz"
+        },
+        "bbox": [
+            -88.645332336426,
+            42.565498352051,
+            -88.643333435059,
+            42.567165374756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.643669,
+                        42.566666
+                    ],
+                    [
+                        -88.643333,
+                        42.567165
+                    ],
+                    [
+                        -88.643333,
+                        42.566833
+                    ],
+                    [
+                        -88.643501,
+                        42.566666
+                    ],
+                    [
+                        -88.645332,
+                        42.565498
+                    ],
+                    [
+                        -88.643669,
+                        42.566666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

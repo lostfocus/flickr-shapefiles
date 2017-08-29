@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2366530,
+    "properties": {
+        "woe_id": 2366530,
+        "place_id": "1gNVJl.bAprxhyqL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bon Air Terrace, Sumter, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529868,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2366530_20101216_232b75e5af.tar.gz"
+        },
+        "bbox": [
+            -80.37816619873,
+            33.942974090576,
+            -80.372482299805,
+            33.948558807373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.377281,
+                        33.944397
+                    ],
+                    [
+                        -80.378166,
+                        33.946835
+                    ],
+                    [
+                        -80.374748,
+                        33.948559
+                    ],
+                    [
+                        -80.372482,
+                        33.943447
+                    ],
+                    [
+                        -80.372681,
+                        33.942974
+                    ],
+                    [
+                        -80.377281,
+                        33.944397
+                    ]
+                ]
+            ]
+        ]
+    }
+}

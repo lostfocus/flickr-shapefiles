@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531639,
+    "properties": {
+        "woe_id": 28531639,
+        "place_id": "znd5uPObCZkl102r3Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Renkoji 4 Chome, Tama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503144,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28531639_20101216_075c98b3ea.tar.gz"
+        },
+        "bbox": [
+            139.47401428223,
+            35.637371063232,
+            139.47491455078,
+            35.638328552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.474014,
+                        35.638237
+                    ],
+                    [
+                        139.474075,
+                        35.638329
+                    ],
+                    [
+                        139.474915,
+                        35.638023
+                    ],
+                    [
+                        139.474442,
+                        35.637371
+                    ],
+                    [
+                        139.474365,
+                        35.637405
+                    ],
+                    [
+                        139.474014,
+                        35.638237
+                    ]
+                ]
+            ]
+        ]
+    }
+}

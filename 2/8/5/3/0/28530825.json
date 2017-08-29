@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530825,
+    "properties": {
+        "woe_id": 28530825,
+        "place_id": "m8EUBbybCZncw6PIXQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tamagawagakuen 2 Chome, Machida-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452622,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/28530825_20101215_c336d2e398.tar.gz"
+        },
+        "bbox": [
+            139.45932006836,
+            35.560791015625,
+            139.46333312988,
+            35.563346862793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.462051,
+                        35.563347
+                    ],
+                    [
+                        139.463333,
+                        35.563332
+                    ],
+                    [
+                        139.462631,
+                        35.561928
+                    ],
+                    [
+                        139.462158,
+                        35.560791
+                    ],
+                    [
+                        139.45932,
+                        35.563038
+                    ],
+                    [
+                        139.462051,
+                        35.563347
+                    ]
+                ]
+            ]
+        ]
+    }
+}

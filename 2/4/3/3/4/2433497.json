@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2433497,
+    "properties": {
+        "woe_id": 2433497,
+        "place_id": "D38OBEebBZ8k.ZOA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Knob Hill, Blacksburg, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458706,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2433497_20101216_411986d3eb.tar.gz"
+        },
+        "bbox": [
+            -80.40404510498,
+            37.226623535156,
+            -80.39631652832,
+            37.232601165771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.404045,
+                        37.229637
+                    ],
+                    [
+                        -80.403702,
+                        37.230568
+                    ],
+                    [
+                        -80.403397,
+                        37.232601
+                    ],
+                    [
+                        -80.398071,
+                        37.230667
+                    ],
+                    [
+                        -80.396317,
+                        37.226624
+                    ],
+                    [
+                        -80.402115,
+                        37.228294
+                    ],
+                    [
+                        -80.404045,
+                        37.229637
+                    ]
+                ]
+            ]
+        ]
+    }
+}

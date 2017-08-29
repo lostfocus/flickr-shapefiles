@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28520901,
+    "properties": {
+        "woe_id": 28520901,
+        "place_id": "f3YAsOqbCZkWIbfh9g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Motoimaizumi 4 Chome, Utsunomiya-shi, Tochigi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542697,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/28520901_20101216_e251bce8fa.tar.gz"
+        },
+        "bbox": [
+            139.90650939941,
+            36.559703826904,
+            139.90745544434,
+            36.561107635498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.906601,
+                        36.560806
+                    ],
+                    [
+                        139.906509,
+                        36.561108
+                    ],
+                    [
+                        139.907104,
+                        36.560806
+                    ],
+                    [
+                        139.907455,
+                        36.559704
+                    ],
+                    [
+                        139.906937,
+                        36.559772
+                    ],
+                    [
+                        139.906601,
+                        36.560806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

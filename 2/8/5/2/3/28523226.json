@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523226,
+    "properties": {
+        "woe_id": 28523226,
+        "place_id": "fXyhXUubCZmU.uh7Vw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sakaecho 1 Chome, Soka-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434868,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/28523226_20101215_dabae759d8.tar.gz"
+        },
+        "bbox": [
+            139.80491638184,
+            35.837497711182,
+            139.80665588379,
+            35.838397979736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.806412,
+                        35.838398
+                    ],
+                    [
+                        139.806656,
+                        35.837982
+                    ],
+                    [
+                        139.805832,
+                        35.837666
+                    ],
+                    [
+                        139.804916,
+                        35.837498
+                    ],
+                    [
+                        139.805466,
+                        35.837921
+                    ],
+                    [
+                        139.806412,
+                        35.838398
+                    ]
+                ]
+            ]
+        ]
+    }
+}

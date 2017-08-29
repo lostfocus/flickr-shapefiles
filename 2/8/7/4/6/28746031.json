@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28746031,
+    "properties": {
+        "woe_id": 28746031,
+        "place_id": "T0e5bT.bCZu7NcxHQw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ingleside, Mclean, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538785,
+        "alpha": 1.25e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28746031_20101216_83912d3d2c.tar.gz"
+        },
+        "bbox": [
+            -77.187881469727,
+            38.937915802002,
+            -77.181274414062,
+            38.941333770752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.183998,
+                        38.941334
+                    ],
+                    [
+                        -77.181274,
+                        38.939537
+                    ],
+                    [
+                        -77.181892,
+                        38.939461
+                    ],
+                    [
+                        -77.187538,
+                        38.937916
+                    ],
+                    [
+                        -77.187881,
+                        38.938717
+                    ],
+                    [
+                        -77.183998,
+                        38.941334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

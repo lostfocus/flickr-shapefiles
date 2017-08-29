@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529206,
+    "properties": {
+        "woe_id": 28529206,
+        "place_id": "FCk6vECbCZlC4Sxg3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kamitabashi 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472423,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/28529206_20101216_2ff3a55af8.tar.gz"
+        },
+        "bbox": [
+            139.67633056641,
+            35.760711669922,
+            139.68031311035,
+            35.763206481934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.678894,
+                        35.762028
+                    ],
+                    [
+                        139.680313,
+                        35.761124
+                    ],
+                    [
+                        139.679901,
+                        35.760712
+                    ],
+                    [
+                        139.67868,
+                        35.761948
+                    ],
+                    [
+                        139.676331,
+                        35.763206
+                    ],
+                    [
+                        139.678894,
+                        35.762028
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28547374,
+    "properties": {
+        "woe_id": 28547374,
+        "place_id": "VdfZVfObCZno5JUMrQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yatomicho Azamikanyama, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449618,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/28547374_20101215_b30227e580.tar.gz"
+        },
+        "bbox": [
+            136.94303894043,
+            35.123706817627,
+            136.94654846191,
+            35.12878036499
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.946548,
+                        35.126648
+                    ],
+                    [
+                        136.943039,
+                        35.123707
+                    ],
+                    [
+                        136.944489,
+                        35.126499
+                    ],
+                    [
+                        136.944183,
+                        35.128147
+                    ],
+                    [
+                        136.944061,
+                        35.12878
+                    ],
+                    [
+                        136.946548,
+                        35.126648
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2373114,
+    "properties": {
+        "woe_id": 2373114,
+        "place_id": "2XIO8bebApuR7j_P",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cal-Vel, Roxboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538617,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2373114_20101216_dd848f7962.tar.gz"
+        },
+        "bbox": [
+            -78.980659484863,
+            36.431243896484,
+            -78.97972869873,
+            36.432331085205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.980659,
+                        36.432159
+                    ],
+                    [
+                        -78.979874,
+                        36.432331
+                    ],
+                    [
+                        -78.979729,
+                        36.431244
+                    ],
+                    [
+                        -78.980164,
+                        36.431465
+                    ],
+                    [
+                        -78.980659,
+                        36.432159
+                    ]
+                ]
+            ]
+        ]
+    }
+}

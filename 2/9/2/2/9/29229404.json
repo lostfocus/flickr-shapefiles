@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29229404,
+    "properties": {
+        "woe_id": 29229404,
+        "place_id": "diMqlyebCJ5PZKVyng",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shipley Hill, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464022,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/29229404_20101216_44da612faa.tar.gz"
+        },
+        "bbox": [
+            -76.656547546387,
+            39.28401184082,
+            -76.654182434082,
+            39.288341522217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.656548,
+                        39.285885
+                    ],
+                    [
+                        -76.654182,
+                        39.288342
+                    ],
+                    [
+                        -76.654465,
+                        39.28569
+                    ],
+                    [
+                        -76.655228,
+                        39.284012
+                    ],
+                    [
+                        -76.656174,
+                        39.285004
+                    ],
+                    [
+                        -76.656548,
+                        39.285885
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530508,
+    "properties": {
+        "woe_id": 28530508,
+        "place_id": "K5ChfsybCZlLYp.C5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Katamachi 3 Chome, Fuchu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531133,
+        "alpha": 1.0e-5,
+        "points": 26,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28530508_20101216_85982a170c.tar.gz"
+        },
+        "bbox": [
+            139.46871948242,
+            35.666458129883,
+            139.47160339355,
+            35.668609619141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.469315,
+                        35.66861
+                    ],
+                    [
+                        139.471603,
+                        35.668243
+                    ],
+                    [
+                        139.470566,
+                        35.666458
+                    ],
+                    [
+                        139.469574,
+                        35.6675
+                    ],
+                    [
+                        139.468719,
+                        35.668556
+                    ],
+                    [
+                        139.469315,
+                        35.66861
+                    ]
+                ]
+            ]
+        ]
+    }
+}

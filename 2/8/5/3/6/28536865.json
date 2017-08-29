@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28536865,
+    "properties": {
+        "woe_id": 28536865,
+        "place_id": "DSgu0bebCZlTPMt80A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kobashi 2 Chome, Kamo-shi, Niigata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442358,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/28536865_20101215_aa740f40e4.tar.gz"
+        },
+        "bbox": [
+            139.05151367188,
+            37.654823303223,
+            139.05163574219,
+            37.654979705811
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.051514,
+                        37.654823
+                    ],
+                    [
+                        139.051529,
+                        37.65493
+                    ],
+                    [
+                        139.051575,
+                        37.65498
+                    ],
+                    [
+                        139.051636,
+                        37.654881
+                    ],
+                    [
+                        139.051559,
+                        37.654831
+                    ],
+                    [
+                        139.051514,
+                        37.654823
+                    ]
+                ]
+            ]
+        ]
+    }
+}

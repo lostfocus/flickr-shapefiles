@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526004,
+    "properties": {
+        "woe_id": 28526004,
+        "place_id": "CWMsFAGbCZnbSB5CYQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akitsu 5 Chome, Narashino-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442144,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28526004_20101215_7c2f4bc490.tar.gz"
+        },
+        "bbox": [
+            140.00619506836,
+            35.672710418701,
+            140.01019287109,
+            35.676429748535
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.010193,
+                        35.67643
+                    ],
+                    [
+                        140.009247,
+                        35.674957
+                    ],
+                    [
+                        140.009308,
+                        35.67271
+                    ],
+                    [
+                        140.006195,
+                        35.675251
+                    ],
+                    [
+                        140.009766,
+                        35.676403
+                    ],
+                    [
+                        140.010193,
+                        35.67643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

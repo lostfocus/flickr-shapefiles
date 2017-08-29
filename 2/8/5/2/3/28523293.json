@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523293,
+    "properties": {
+        "woe_id": 28523293,
+        "place_id": "0ms4jSubCZlkzFyqsQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Akayamacho 1 Chome, Koshigaya-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442114,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28523293_20101215_65b7f75e3f.tar.gz"
+        },
+        "bbox": [
+            139.78350830078,
+            35.887210845947,
+            139.78555297852,
+            35.890281677246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.78418,
+                        35.887211
+                    ],
+                    [
+                        139.783508,
+                        35.887363
+                    ],
+                    [
+                        139.784775,
+                        35.890282
+                    ],
+                    [
+                        139.785553,
+                        35.888943
+                    ],
+                    [
+                        139.784821,
+                        35.888214
+                    ],
+                    [
+                        139.78418,
+                        35.887211
+                    ]
+                ]
+            ]
+        ]
+    }
+}

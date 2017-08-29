@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2376942,
+    "properties": {
+        "woe_id": 2376942,
+        "place_id": "d1q3t6ObApvcpsg2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cedar Ridge, New Oxford, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248195371,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2614\/shapefiles\/2376942_20090721_a814dc0829.tar.gz"
+        },
+        "bbox": [
+            -77.168395996094,
+            39.822067260742,
+            -77.163963317871,
+            39.836090087891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.165222,
+                        39.826756
+                    ],
+                    [
+                        -77.163963,
+                        39.822067
+                    ],
+                    [
+                        -77.167969,
+                        39.827984
+                    ],
+                    [
+                        -77.168396,
+                        39.83609
+                    ],
+                    [
+                        -77.167282,
+                        39.835037
+                    ],
+                    [
+                        -77.165222,
+                        39.826756
+                    ]
+                ]
+            ]
+        ]
+    }
+}

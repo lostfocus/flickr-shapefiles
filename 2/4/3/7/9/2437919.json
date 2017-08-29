@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2437919,
+    "properties": {
+        "woe_id": 2437919,
+        "place_id": "kEAcUCubBZ93yz2a",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Leesburg, Columbus, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541888,
+        "alpha": 1.0e-5,
+        "points": 36,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2437919_20101216_e7ac779b71.tar.gz"
+        },
+        "bbox": [
+            -84.894332885742,
+            32.533752441406,
+            -84.891418457031,
+            32.536548614502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.893547,
+                        32.536015
+                    ],
+                    [
+                        -84.891418,
+                        32.533752
+                    ],
+                    [
+                        -84.893593,
+                        32.535751
+                    ],
+                    [
+                        -84.894333,
+                        32.536514
+                    ],
+                    [
+                        -84.893661,
+                        32.536549
+                    ],
+                    [
+                        -84.893547,
+                        32.536015
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2474843,
+    "properties": {
+        "woe_id": 2474843,
+        "place_id": "ezFN79WbBZsSBbQC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pomeraug, Woodbury, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443339,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2474843_20101215_409ab350bf.tar.gz"
+        },
+        "bbox": [
+            -73.210945129395,
+            41.526206970215,
+            -73.21019744873,
+            41.5322265625
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.210197,
+                        41.526646
+                    ],
+                    [
+                        -73.210945,
+                        41.526207
+                    ],
+                    [
+                        -73.210915,
+                        41.526859
+                    ],
+                    [
+                        -73.210548,
+                        41.532227
+                    ],
+                    [
+                        -73.210197,
+                        41.526646
+                    ]
+                ]
+            ]
+        ]
+    }
+}

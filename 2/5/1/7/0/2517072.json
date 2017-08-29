@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2517072,
+    "properties": {
+        "woe_id": 2517072,
+        "place_id": "7FrFYm6bBJ0wC1C6",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Georgia, Fairfax, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525401,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2517072_20101216_79b0c574ce.tar.gz"
+        },
+        "bbox": [
+            -73.120880126953,
+            44.695106506348,
+            -73.119293212891,
+            44.697456359863
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.120392,
+                        44.695229
+                    ],
+                    [
+                        -73.120476,
+                        44.695393
+                    ],
+                    [
+                        -73.120491,
+                        44.695625
+                    ],
+                    [
+                        -73.12088,
+                        44.697456
+                    ],
+                    [
+                        -73.119751,
+                        44.695724
+                    ],
+                    [
+                        -73.119293,
+                        44.695107
+                    ],
+                    [
+                        -73.120392,
+                        44.695229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

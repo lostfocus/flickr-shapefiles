@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2391242,
+    "properties": {
+        "woe_id": 2391242,
+        "place_id": "6pRt2.ibApXrNeX4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Denton Hill, Coudersport, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517461,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2391242_20101216_ccc65c2ee5.tar.gz"
+        },
+        "bbox": [
+            -77.828964233398,
+            41.779487609863,
+            -77.827186584473,
+            41.78044128418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.828644,
+                        41.780441
+                    ],
+                    [
+                        -77.827301,
+                        41.780025
+                    ],
+                    [
+                        -77.827187,
+                        41.779594
+                    ],
+                    [
+                        -77.827858,
+                        41.779488
+                    ],
+                    [
+                        -77.828964,
+                        41.779667
+                    ],
+                    [
+                        -77.828644,
+                        41.780441
+                    ]
+                ]
+            ]
+        ]
+    }
+}

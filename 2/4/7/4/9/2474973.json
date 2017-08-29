@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2474973,
+    "properties": {
+        "woe_id": 2474973,
+        "place_id": "wRfvVgKbBZs9E3ty",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ponderosa, Elm City, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234907895,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3476\/shapefiles\/2474973_20090217_1e4279e2c8.tar.gz"
+        },
+        "bbox": [
+            -77.921089172363,
+            35.790630340576,
+            -77.920166015625,
+            35.796371459961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.920166,
+                        35.79063
+                    ],
+                    [
+                        -77.920555,
+                        35.792892
+                    ],
+                    [
+                        -77.921089,
+                        35.796371
+                    ],
+                    [
+                        -77.920448,
+                        35.792797
+                    ],
+                    [
+                        -77.920166,
+                        35.79063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

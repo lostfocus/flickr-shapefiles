@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20150168,
+    "properties": {
+        "woe_id": 20150168,
+        "place_id": "YtYQyp.bAZ11ns_pWg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Crocetta, Bologna, ER, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518993,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/20150168_20101216_3aab8366bf.tar.gz"
+        },
+        "bbox": [
+            11.299953460693,
+            44.525001525879,
+            11.307249069214,
+            44.533363342285
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.299953,
+                        44.5298
+                    ],
+                    [
+                        11.301412,
+                        44.533363
+                    ],
+                    [
+                        11.302528,
+                        44.530659
+                    ],
+                    [
+                        11.307249,
+                        44.528942
+                    ],
+                    [
+                        11.305897,
+                        44.525517
+                    ],
+                    [
+                        11.303667,
+                        44.525002
+                    ],
+                    [
+                        11.301155,
+                        44.526009
+                    ],
+                    [
+                        11.299953,
+                        44.5298
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2352590,
+    "properties": {
+        "woe_id": 2352590,
+        "place_id": "tP0_jU2bApn2Fcvk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alandale, Wilmington, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529871,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2352590_20101216_cfc039dfc0.tar.gz"
+        },
+        "bbox": [
+            -77.871864318848,
+            34.254524230957,
+            -77.866714477539,
+            34.261756896973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.870361,
+                        34.257446
+                    ],
+                    [
+                        -77.866714,
+                        34.256649
+                    ],
+                    [
+                        -77.870987,
+                        34.254524
+                    ],
+                    [
+                        -77.871864,
+                        34.258175
+                    ],
+                    [
+                        -77.871269,
+                        34.261757
+                    ],
+                    [
+                        -77.870361,
+                        34.257446
+                    ]
+                ]
+            ]
+        ]
+    }
+}

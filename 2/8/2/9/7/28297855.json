@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297855,
+    "properties": {
+        "woe_id": 28297855,
+        "place_id": "scm18CmbCZ6Od5fbZA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beckley Addition, Canal Winchester, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449479,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/28297855_20101215_11b22d711e.tar.gz"
+        },
+        "bbox": [
+            -82.811210632324,
+            39.828216552734,
+            -82.810539245605,
+            39.828506469727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.811211,
+                        39.828476
+                    ],
+                    [
+                        -82.811142,
+                        39.828506
+                    ],
+                    [
+                        -82.810669,
+                        39.828358
+                    ],
+                    [
+                        -82.810539,
+                        39.828217
+                    ],
+                    [
+                        -82.811165,
+                        39.828323
+                    ],
+                    [
+                        -82.811211,
+                        39.828476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

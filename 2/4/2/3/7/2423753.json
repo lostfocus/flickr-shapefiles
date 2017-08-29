@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2423753,
+    "properties": {
+        "woe_id": 2423753,
+        "place_id": "T6KiuzibBZ4zwiG2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Homestead, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549504,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2423753_20101217_27d5f33128.tar.gz"
+        },
+        "bbox": [
+            -76.591804504395,
+            39.316982269287,
+            -76.587493896484,
+            39.320499420166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.588165,
+                        39.319668
+                    ],
+                    [
+                        -76.587494,
+                        39.31916
+                    ],
+                    [
+                        -76.587502,
+                        39.318333
+                    ],
+                    [
+                        -76.591805,
+                        39.316982
+                    ],
+                    [
+                        -76.589668,
+                        39.320499
+                    ],
+                    [
+                        -76.589165,
+                        39.320168
+                    ],
+                    [
+                        -76.588165,
+                        39.319668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531140,
+    "properties": {
+        "woe_id": 28531140,
+        "place_id": "qFeMwmabCZlhdb1fBw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tamakocho 2 Chome, Higashimurayama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449534,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/28531140_20101215_869f467ea9.tar.gz"
+        },
+        "bbox": [
+            139.44166564941,
+            35.759098052979,
+            139.44416809082,
+            35.762001037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.441666,
+                        35.760666
+                    ],
+                    [
+                        139.442993,
+                        35.762001
+                    ],
+                    [
+                        139.443832,
+                        35.761833
+                    ],
+                    [
+                        139.444168,
+                        35.759167
+                    ],
+                    [
+                        139.444092,
+                        35.759098
+                    ],
+                    [
+                        139.441666,
+                        35.760666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

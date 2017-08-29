@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2449246,
+    "properties": {
+        "woe_id": 2449246,
+        "place_id": "Kt41c1ybBZiQy.yB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Melrose Park, Auburn, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234766042,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3319\/shapefiles\/2449246_20090216_e1032e301c.tar.gz"
+        },
+        "bbox": [
+            -76.548957824707,
+            42.901748657227,
+            -76.538917541504,
+            42.919506072998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.542259,
+                        42.913567
+                    ],
+                    [
+                        -76.538918,
+                        42.901749
+                    ],
+                    [
+                        -76.548958,
+                        42.910328
+                    ],
+                    [
+                        -76.548439,
+                        42.919506
+                    ],
+                    [
+                        -76.542259,
+                        42.913567
+                    ]
+                ]
+            ]
+        ]
+    }
+}

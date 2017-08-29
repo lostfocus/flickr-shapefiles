@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2392894,
+    "properties": {
+        "woe_id": 2392894,
+        "place_id": "LI2y3RSbApXIr2Yy",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Donnellytown, Carlisle, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521328,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2392894_20101216_b1285cc644.tar.gz"
+        },
+        "bbox": [
+            -77.112503051758,
+            40.263416290283,
+            -77.111663818359,
+            40.26583480835
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.112503,
+                        40.265556
+                    ],
+                    [
+                        -77.112503,
+                        40.265835
+                    ],
+                    [
+                        -77.111664,
+                        40.265556
+                    ],
+                    [
+                        -77.111664,
+                        40.264999
+                    ],
+                    [
+                        -77.111771,
+                        40.263416
+                    ],
+                    [
+                        -77.112396,
+                        40.265244
+                    ],
+                    [
+                        -77.112503,
+                        40.265556
+                    ]
+                ]
+            ]
+        ]
+    }
+}

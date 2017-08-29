@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2403258,
+    "properties": {
+        "woe_id": 2403258,
+        "place_id": "0SO4G0ObBZzh.Lbk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Field Corners, Carmel, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539136,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2403258_20101216_dd3c3b9c3a.tar.gz"
+        },
+        "bbox": [
+            -73.672576904297,
+            41.44945526123,
+            -73.671356201172,
+            41.450134277344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.671738,
+                        41.450127
+                    ],
+                    [
+                        -73.671356,
+                        41.449482
+                    ],
+                    [
+                        -73.672577,
+                        41.449455
+                    ],
+                    [
+                        -73.671814,
+                        41.450134
+                    ],
+                    [
+                        -73.671738,
+                        41.450127
+                    ]
+                ]
+            ]
+        ]
+    }
+}

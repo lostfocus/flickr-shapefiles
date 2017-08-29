@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229196,
+    "properties": {
+        "woe_id": 20229196,
+        "place_id": "btJx5UqbAZ4gL8OVig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Godsbanegade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292513949,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/20229196_20101216_1c99cdcdde.tar.gz"
+        },
+        "bbox": [
+            12.553853034973,
+            55.665954589844,
+            12.555483818054,
+            55.666725158691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.555098,
+                        55.666725
+                    ],
+                    [
+                        12.555345,
+                        55.666328
+                    ],
+                    [
+                        12.555463,
+                        55.666016
+                    ],
+                    [
+                        12.555484,
+                        55.665955
+                    ],
+                    [
+                        12.553853,
+                        55.665977
+                    ],
+                    [
+                        12.554166,
+                        55.666332
+                    ],
+                    [
+                        12.555098,
+                        55.666725
+                    ]
+                ]
+            ]
+        ]
+    }
+}

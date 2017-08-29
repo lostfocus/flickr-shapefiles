@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 24550942,
+    "properties": {
+        "woe_id": 24550942,
+        "place_id": "v9I21TubBZkoIdHC3A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pueblo Viejo, Guaynabo, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520880,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/24550942_20101216_deda798ae8.tar.gz"
+        },
+        "bbox": [
+            -66.110740661621,
+            18.407224655151,
+            -66.110275268555,
+            18.407508850098
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.110275,
+                        18.407368
+                    ],
+                    [
+                        -66.110741,
+                        18.407225
+                    ],
+                    [
+                        -66.110741,
+                        18.407469
+                    ],
+                    [
+                        -66.110741,
+                        18.407509
+                    ],
+                    [
+                        -66.110275,
+                        18.407368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

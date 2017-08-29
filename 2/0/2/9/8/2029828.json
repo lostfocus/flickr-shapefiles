@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2029828,
+    "properties": {
+        "woe_id": 2029828,
+        "place_id": "riXPA9WbAZ7UCmjl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Krasnyy Pereval, Yaroslavl', Yaroslavskaya Oblast, RU, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524174,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2029828_20101216_0308c028ea.tar.gz"
+        },
+        "bbox": [
+            39.794345855713,
+            57.717800140381,
+            39.794410705566,
+            57.717823028564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        39.794353,
+                        57.717815
+                    ],
+                    [
+                        39.794346,
+                        57.717823
+                    ],
+                    [
+                        39.794353,
+                        57.717823
+                    ],
+                    [
+                        39.794411,
+                        57.7178
+                    ],
+                    [
+                        39.794369,
+                        57.717804
+                    ],
+                    [
+                        39.794353,
+                        57.717815
+                    ]
+                ]
+            ]
+        ]
+    }
+}

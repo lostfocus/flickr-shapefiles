@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526205,
+    "properties": {
+        "woe_id": 28526205,
+        "place_id": "1HKYN_qbCZnzqopCug",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Matsubacho 6 Chome, Kashiwa-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472245,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/28526205_20101216_fdd3a25e8f.tar.gz"
+        },
+        "bbox": [
+            139.96432495117,
+            35.895404815674,
+            139.9674987793,
+            35.899501800537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.9646,
+                        35.895405
+                    ],
+                    [
+                        139.964325,
+                        35.895588
+                    ],
+                    [
+                        139.965164,
+                        35.896832
+                    ],
+                    [
+                        139.967499,
+                        35.899502
+                    ],
+                    [
+                        139.967117,
+                        35.896858
+                    ],
+                    [
+                        139.9646,
+                        35.895405
+                    ]
+                ]
+            ]
+        ]
+    }
+}

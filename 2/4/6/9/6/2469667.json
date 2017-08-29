@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2469667,
+    "properties": {
+        "woe_id": 2469667,
+        "place_id": "XXpbcuibBZq9Pe9w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Peanut, Derry, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448705,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2469667_20101215_aa9fb03b91.tar.gz"
+        },
+        "bbox": [
+            -79.314682006836,
+            40.339527130127,
+            -79.309112548828,
+            40.34224319458
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.312546,
+                        40.339527
+                    ],
+                    [
+                        -79.314682,
+                        40.339764
+                    ],
+                    [
+                        -79.313393,
+                        40.340214
+                    ],
+                    [
+                        -79.309769,
+                        40.342243
+                    ],
+                    [
+                        -79.309113,
+                        40.342243
+                    ],
+                    [
+                        -79.312546,
+                        40.339527
+                    ]
+                ]
+            ]
+        ]
+    }
+}

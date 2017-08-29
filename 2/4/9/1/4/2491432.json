@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2491432,
+    "properties": {
+        "woe_id": 2491432,
+        "place_id": "EvefNU6bBZW0r1bE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shady Rest, Sandy Hook, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239534846,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3401\/shapefiles\/2491432_20090412_7d1182a60b.tar.gz"
+        },
+        "bbox": [
+            -73.290481567383,
+            41.443820953369,
+            -73.267646789551,
+            41.45044708252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.267647,
+                        41.443821
+                    ],
+                    [
+                        -73.277863,
+                        41.447742
+                    ],
+                    [
+                        -73.290482,
+                        41.448387
+                    ],
+                    [
+                        -73.277176,
+                        41.450447
+                    ],
+                    [
+                        -73.267647,
+                        41.443821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

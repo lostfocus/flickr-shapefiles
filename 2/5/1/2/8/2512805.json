@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2512805,
+    "properties": {
+        "woe_id": 2512805,
+        "place_id": "8pDbAWebBJ34l2Xp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Volusia, Ripley, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534661,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2512805_20101216_1e5ec71fac.tar.gz"
+        },
+        "bbox": [
+            -79.589233398438,
+            42.237396240234,
+            -79.588500976562,
+            42.242130279541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.589218,
+                        42.241512
+                    ],
+                    [
+                        -79.589211,
+                        42.241608
+                    ],
+                    [
+                        -79.588501,
+                        42.24213
+                    ],
+                    [
+                        -79.588837,
+                        42.239853
+                    ],
+                    [
+                        -79.588707,
+                        42.237396
+                    ],
+                    [
+                        -79.589233,
+                        42.240082
+                    ],
+                    [
+                        -79.589218,
+                        42.241512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

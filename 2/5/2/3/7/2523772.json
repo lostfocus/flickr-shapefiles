@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2523772,
+    "properties": {
+        "woe_id": 2523772,
+        "place_id": "iJFs2UibBJ5JocnV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodsville, Hopewell, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549504,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2523772_20101217_718eedac6e.tar.gz"
+        },
+        "bbox": [
+            -74.806335449219,
+            40.369834899902,
+            -74.805335998535,
+            40.370666503906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.805664,
+                        40.370499
+                    ],
+                    [
+                        -74.805336,
+                        40.369835
+                    ],
+                    [
+                        -74.806335,
+                        40.370667
+                    ],
+                    [
+                        -74.806,
+                        40.370667
+                    ],
+                    [
+                        -74.805832,
+                        40.370667
+                    ],
+                    [
+                        -74.805664,
+                        40.370499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2477268,
+    "properties": {
+        "woe_id": 2477268,
+        "place_id": "r0fRYdabBZtj1eGp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pumpkin Hollow, Wells, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518712,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2477268_20101216_b4421e1eb1.tar.gz"
+        },
+        "bbox": [
+            -74.268577575684,
+            43.353256225586,
+            -74.263626098633,
+            43.357898712158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.264442,
+                        43.357899
+                    ],
+                    [
+                        -74.265045,
+                        43.355839
+                    ],
+                    [
+                        -74.263626,
+                        43.353256
+                    ],
+                    [
+                        -74.268578,
+                        43.353424
+                    ],
+                    [
+                        -74.267448,
+                        43.357273
+                    ],
+                    [
+                        -74.264442,
+                        43.357899
+                    ]
+                ]
+            ]
+        ]
+    }
+}

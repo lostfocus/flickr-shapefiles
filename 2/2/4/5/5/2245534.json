@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2245534,
+    "properties": {
+        "woe_id": 2245534,
+        "place_id": "gYW2VeybA5j07FyT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Raj\u0101'\u012bshahr, Karaj, Tehran, IR, Iran"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547050,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2245534_20101217_41acbd67f8.tar.gz"
+        },
+        "bbox": [
+            50.964031219482,
+            35.799396514893,
+            50.972343444824,
+            35.801525115967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        50.969524,
+                        35.800274
+                    ],
+                    [
+                        50.964031,
+                        35.801525
+                    ],
+                    [
+                        50.970085,
+                        35.801285
+                    ],
+                    [
+                        50.972343,
+                        35.799397
+                    ],
+                    [
+                        50.970039,
+                        35.799438
+                    ],
+                    [
+                        50.969524,
+                        35.800274
+                    ]
+                ]
+            ]
+        ]
+    }
+}

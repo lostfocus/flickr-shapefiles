@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2482994,
+    "properties": {
+        "woe_id": 2482994,
+        "place_id": "oezsifGbBZR10NOk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rochester Junction, Honeoye Falls, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545629,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2482994_20101217_c6c13202c0.tar.gz"
+        },
+        "bbox": [
+            -77.59610748291,
+            42.982563018799,
+            -77.59302520752,
+            42.983951568604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.594444,
+                        42.983334
+                    ],
+                    [
+                        -77.596107,
+                        42.983887
+                    ],
+                    [
+                        -77.59478,
+                        42.983952
+                    ],
+                    [
+                        -77.593025,
+                        42.983162
+                    ],
+                    [
+                        -77.593658,
+                        42.982563
+                    ],
+                    [
+                        -77.594444,
+                        42.983334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

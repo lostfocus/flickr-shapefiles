@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2440704,
+    "properties": {
+        "woe_id": 2440704,
+        "place_id": "pkFs2ESbBZiAFZyC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lobsterville, Chilmark, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547426,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2440704_20101217_866868f472.tar.gz"
+        },
+        "bbox": [
+            -70.80997467041,
+            41.354568481445,
+            -70.805931091309,
+            41.356647491455
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.807762,
+                        41.355553
+                    ],
+                    [
+                        -70.805931,
+                        41.354691
+                    ],
+                    [
+                        -70.809563,
+                        41.354568
+                    ],
+                    [
+                        -70.809975,
+                        41.356647
+                    ],
+                    [
+                        -70.807762,
+                        41.355553
+                    ]
+                ]
+            ]
+        ]
+    }
+}

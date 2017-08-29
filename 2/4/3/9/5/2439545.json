@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2439545,
+    "properties": {
+        "woe_id": 2439545,
+        "place_id": "6ZqKaIabBZ88z8XB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lincoln Hills, Valparaiso, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529944,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2439545_20101216_2e547fddf8.tar.gz"
+        },
+        "bbox": [
+            -87.115509033203,
+            41.486618041992,
+            -87.110893249512,
+            41.487941741943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.115211,
+                        41.487484
+                    ],
+                    [
+                        -87.110893,
+                        41.487942
+                    ],
+                    [
+                        -87.113716,
+                        41.486618
+                    ],
+                    [
+                        -87.115273,
+                        41.487362
+                    ],
+                    [
+                        -87.115509,
+                        41.487614
+                    ],
+                    [
+                        -87.115211,
+                        41.487484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

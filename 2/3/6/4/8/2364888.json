@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2364888,
+    "properties": {
+        "woe_id": 2364888,
+        "place_id": "8CGeauSbAprAsHIo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Black Ridge, Pittsburgh, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239278668,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3378\/shapefiles\/2364888_20090409_bba28c284b.tar.gz"
+        },
+        "bbox": [
+            -79.856086730957,
+            40.449840545654,
+            -79.85205078125,
+            40.453239440918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.856087,
+                        40.451519
+                    ],
+                    [
+                        -79.855835,
+                        40.451832
+                    ],
+                    [
+                        -79.852051,
+                        40.453239
+                    ],
+                    [
+                        -79.855576,
+                        40.449841
+                    ],
+                    [
+                        -79.856087,
+                        40.451519
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 2502782,
+    "properties": {
+        "woe_id": 2502782,
+        "place_id": "gEO3ISybBJycMsIC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sutton, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518220,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2502782_20101216_063f70ec3d.tar.gz"
+        },
+        "bbox": [
+            -111.79699707031,
+            40.587665557861,
+            -111.79441833496,
+            40.592166900635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.796501,
+                        40.592167
+                    ],
+                    [
+                        -111.795937,
+                        40.592163
+                    ],
+                    [
+                        -111.795601,
+                        40.592026
+                    ],
+                    [
+                        -111.795364,
+                        40.591927
+                    ],
+                    [
+                        -111.795502,
+                        40.591167
+                    ],
+                    [
+                        -111.794418,
+                        40.587666
+                    ],
+                    [
+                        -111.795998,
+                        40.591331
+                    ],
+                    [
+                        -111.796997,
+                        40.591667
+                    ],
+                    [
+                        -111.796501,
+                        40.592167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

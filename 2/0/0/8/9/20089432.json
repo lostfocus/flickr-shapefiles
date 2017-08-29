@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20089432,
+    "properties": {
+        "woe_id": 20089432,
+        "place_id": "dlfOxIabAZy3te9s4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northumberland Park, London, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534798,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/20089432_20101216_c10013a3ab.tar.gz"
+        },
+        "bbox": [
+            -0.065638996660709,
+            51.602951049805,
+            -0.064662002027035,
+            51.603729248047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.064727,
+                        51.603222
+                    ],
+                    [
+                        -0.064662,
+                        51.603138
+                    ],
+                    [
+                        -0.064759,
+                        51.602951
+                    ],
+                    [
+                        -0.065639,
+                        51.603729
+                    ],
+                    [
+                        -0.064952,
+                        51.603313
+                    ],
+                    [
+                        -0.064727,
+                        51.603222
+                    ]
+                ]
+            ]
+        ]
+    }
+}

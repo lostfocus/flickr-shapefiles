@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2384103,
+    "properties": {
+        "woe_id": 2384103,
+        "place_id": "TxYy6ZKbApSwuNDC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Conesus Lake Junction, Livonia, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247947932,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2610\/shapefiles\/2384103_20090718_b31c2896d4.tar.gz"
+        },
+        "bbox": [
+            -77.715393066406,
+            42.853378295898,
+            -77.703254699707,
+            42.868919372559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.703255,
+                        42.859676
+                    ],
+                    [
+                        -77.705276,
+                        42.855556
+                    ],
+                    [
+                        -77.705528,
+                        42.855583
+                    ],
+                    [
+                        -77.715393,
+                        42.853378
+                    ],
+                    [
+                        -77.713509,
+                        42.868919
+                    ],
+                    [
+                        -77.703255,
+                        42.859676
+                    ]
+                ]
+            ]
+        ]
+    }
+}

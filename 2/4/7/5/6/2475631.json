@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2475631,
+    "properties": {
+        "woe_id": 2475631,
+        "place_id": "tlRVddabBZt5XwcO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Porters Mill, Pottstown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530354,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2475631_20101216_4e423b0365.tar.gz"
+        },
+        "bbox": [
+            -75.646621704102,
+            40.191005706787,
+            -75.643409729004,
+            40.192607879639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.64341,
+                        40.192585
+                    ],
+                    [
+                        -75.643837,
+                        40.191212
+                    ],
+                    [
+                        -75.646622,
+                        40.191006
+                    ],
+                    [
+                        -75.643875,
+                        40.192257
+                    ],
+                    [
+                        -75.643456,
+                        40.192608
+                    ],
+                    [
+                        -75.64341,
+                        40.192585
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229139,
+    "properties": {
+        "woe_id": 20229139,
+        "place_id": "LQ4b3PSbAZ7SUImeIA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Delfingade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457385,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/20229139_20101215_71c2cb9902.tar.gz"
+        },
+        "bbox": [
+            12.587498664856,
+            55.688507080078,
+            12.589598655701,
+            55.689186096191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.589533,
+                        55.688686
+                    ],
+                    [
+                        12.58928,
+                        55.688507
+                    ],
+                    [
+                        12.587499,
+                        55.689186
+                    ],
+                    [
+                        12.589259,
+                        55.689041
+                    ],
+                    [
+                        12.589599,
+                        55.688801
+                    ],
+                    [
+                        12.589533,
+                        55.688686
+                    ]
+                ]
+            ]
+        ]
+    }
+}

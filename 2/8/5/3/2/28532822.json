@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532822,
+    "properties": {
+        "woe_id": 28532822,
+        "place_id": "U8X8F1qbCZkUkcto8g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagatsuta 4 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449568,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28532822_20101215_478f07c298.tar.gz"
+        },
+        "bbox": [
+            139.49340820312,
+            35.53150177002,
+            139.49450683594,
+            35.532188415527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.494293,
+                        35.531975
+                    ],
+                    [
+                        139.494507,
+                        35.531834
+                    ],
+                    [
+                        139.494003,
+                        35.531502
+                    ],
+                    [
+                        139.493408,
+                        35.531738
+                    ],
+                    [
+                        139.493958,
+                        35.532188
+                    ],
+                    [
+                        139.494293,
+                        35.531975
+                    ]
+                ]
+            ]
+        ]
+    }
+}

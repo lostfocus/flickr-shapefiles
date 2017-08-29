@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2516378,
+    "properties": {
+        "woe_id": 2516378,
+        "place_id": "J1Z9GpSbBJ3Ua1VB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Welsh Heights, Monroe, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456884,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2516378_20101215_c18ed13bdd.tar.gz"
+        },
+        "bbox": [
+            -80.552360534668,
+            34.984016418457,
+            -80.549827575684,
+            34.98588180542
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.549828,
+                        34.985249
+                    ],
+                    [
+                        -80.550049,
+                        34.985081
+                    ],
+                    [
+                        -80.550896,
+                        34.984016
+                    ],
+                    [
+                        -80.552361,
+                        34.985004
+                    ],
+                    [
+                        -80.550987,
+                        34.985882
+                    ],
+                    [
+                        -80.549828,
+                        34.985249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

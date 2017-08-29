@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518025,
+    "properties": {
+        "woe_id": 2518025,
+        "place_id": "ZsLbHo2bBJ2fDDYF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westbury, Greensboro, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551126,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/2518025_20101217_3401e3a9d1.tar.gz"
+        },
+        "bbox": [
+            -79.83975982666,
+            36.003902435303,
+            -79.835189819336,
+            36.013145446777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.83976,
+                        36.006775
+                    ],
+                    [
+                        -79.837387,
+                        36.007866
+                    ],
+                    [
+                        -79.836914,
+                        36.013145
+                    ],
+                    [
+                        -79.83519,
+                        36.007381
+                    ],
+                    [
+                        -79.839203,
+                        36.003902
+                    ],
+                    [
+                        -79.83976,
+                        36.006775
+                    ]
+                ]
+            ]
+        ]
+    }
+}

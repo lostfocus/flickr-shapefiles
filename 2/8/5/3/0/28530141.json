@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530141,
+    "properties": {
+        "woe_id": 28530141,
+        "place_id": "s4KeodGbCZmung9iRw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Motoyokoyamacho 1 Chome, Hachioji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531884,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/28530141_20101216_54d69e47ae.tar.gz"
+        },
+        "bbox": [
+            139.33979797363,
+            35.661861419678,
+            139.34373474121,
+            35.663974761963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.343338,
+                        35.662998
+                    ],
+                    [
+                        139.340317,
+                        35.661903
+                    ],
+                    [
+                        139.339798,
+                        35.661861
+                    ],
+                    [
+                        139.340103,
+                        35.662899
+                    ],
+                    [
+                        139.343735,
+                        35.663975
+                    ],
+                    [
+                        139.343338,
+                        35.662998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

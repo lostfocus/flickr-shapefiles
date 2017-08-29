@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2424201,
+    "properties": {
+        "woe_id": 2424201,
+        "place_id": "L33Q5webBZ4LaB5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hope Farm, Charlotte, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531586,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2424201_20101216_0351b847b7.tar.gz"
+        },
+        "bbox": [
+            -81.006172180176,
+            35.294357299805,
+            -81.003974914551,
+            35.298015594482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.003998,
+                        35.298016
+                    ],
+                    [
+                        -81.003975,
+                        35.297386
+                    ],
+                    [
+                        -81.005287,
+                        35.294357
+                    ],
+                    [
+                        -81.006172,
+                        35.297604
+                    ],
+                    [
+                        -81.006058,
+                        35.297626
+                    ],
+                    [
+                        -81.003998,
+                        35.298016
+                    ]
+                ]
+            ]
+        ]
+    }
+}

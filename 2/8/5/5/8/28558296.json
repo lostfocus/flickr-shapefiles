@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28558296,
+    "properties": {
+        "woe_id": 28558296,
+        "place_id": "nWluDVSbCZmIyO9Pkg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nanbanaka 3 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544002,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/28558296_20101217_e23d776cf2.tar.gz"
+        },
+        "bbox": [
+            135.49798583984,
+            34.659343719482,
+            135.5009765625,
+            34.662223815918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.497986,
+                        34.661736
+                    ],
+                    [
+                        135.497986,
+                        34.661945
+                    ],
+                    [
+                        135.500275,
+                        34.662224
+                    ],
+                    [
+                        135.500977,
+                        34.660194
+                    ],
+                    [
+                        135.498123,
+                        34.659344
+                    ],
+                    [
+                        135.497986,
+                        34.661736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

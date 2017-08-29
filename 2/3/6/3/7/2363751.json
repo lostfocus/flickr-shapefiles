@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2363751,
+    "properties": {
+        "woe_id": 2363751,
+        "place_id": "RB6haS2bAppoePVs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beverly Forest, Springfield, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234589522,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3507\/shapefiles\/2363751_20090214_0681e553ca.tar.gz"
+        },
+        "bbox": [
+            -77.189384460449,
+            38.75915145874,
+            -77.182991027832,
+            38.763385772705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.184273,
+                        38.759151
+                    ],
+                    [
+                        -77.189384,
+                        38.762264
+                    ],
+                    [
+                        -77.182991,
+                        38.763386
+                    ],
+                    [
+                        -77.183121,
+                        38.759937
+                    ],
+                    [
+                        -77.184273,
+                        38.759151
+                    ]
+                ]
+            ]
+        ]
+    }
+}

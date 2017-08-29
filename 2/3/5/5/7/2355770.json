@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2355770,
+    "properties": {
+        "woe_id": 2355770,
+        "place_id": "9IbXEL6bApmjFQWY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Argus, Green Lane, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247834527,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3499\/shapefiles\/2355770_20090717_522da2826c.tar.gz"
+        },
+        "bbox": [
+            -75.408866882324,
+            40.357860565186,
+            -75.391731262207,
+            40.372001647949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.398567,
+                        40.372002
+                    ],
+                    [
+                        -75.391731,
+                        40.362244
+                    ],
+                    [
+                        -75.408867,
+                        40.357861
+                    ],
+                    [
+                        -75.402344,
+                        40.364693
+                    ],
+                    [
+                        -75.398567,
+                        40.372002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

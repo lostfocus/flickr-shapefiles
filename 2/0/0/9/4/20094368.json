@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20094368,
+    "properties": {
+        "woe_id": 20094368,
+        "place_id": "2CP5J1KbAZy5ll1JZA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wimbledon Village, London, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538220,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/20094368_20101216_4613dbf215.tar.gz"
+        },
+        "bbox": [
+            -0.22083599865437,
+            51.420761108398,
+            -0.21333199739456,
+            51.429023742676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.217666,
+                        51.425362
+                    ],
+                    [
+                        -0.213332,
+                        51.429024
+                    ],
+                    [
+                        -0.2161,
+                        51.424515
+                    ],
+                    [
+                        -0.220836,
+                        51.420761
+                    ],
+                    [
+                        -0.217834,
+                        51.425331
+                    ],
+                    [
+                        -0.217666,
+                        51.425362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

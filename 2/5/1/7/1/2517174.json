@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2517174,
+    "properties": {
+        "woe_id": 2517174,
+        "place_id": "VRtS_w6bBJ0GpMVO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Highland, Albany, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234724763,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3565\/shapefiles\/2517174_20090215_29322bcf40.tar.gz"
+        },
+        "bbox": [
+            -84.169540405273,
+            31.574934005737,
+            -84.165397644043,
+            31.578973770142
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.16703,
+                        31.575134
+                    ],
+                    [
+                        -84.16954,
+                        31.578718
+                    ],
+                    [
+                        -84.165398,
+                        31.578974
+                    ],
+                    [
+                        -84.165573,
+                        31.574934
+                    ],
+                    [
+                        -84.16703,
+                        31.575134
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522528,
+    "properties": {
+        "woe_id": 28522528,
+        "place_id": "G1mleDKbCZkFBesgEA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamicho 1 Chome, Kawaguchi-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455197,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/28522528_20101215_cd961f9e0c.tar.gz"
+        },
+        "bbox": [
+            139.70249938965,
+            35.799331665039,
+            139.70567321777,
+            35.802436828613
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.702499,
+                        35.799831
+                    ],
+                    [
+                        139.703003,
+                        35.801167
+                    ],
+                    [
+                        139.705582,
+                        35.802437
+                    ],
+                    [
+                        139.705673,
+                        35.801334
+                    ],
+                    [
+                        139.703659,
+                        35.799332
+                    ],
+                    [
+                        139.702499,
+                        35.799831
+                    ]
+                ]
+            ]
+        ]
+    }
+}

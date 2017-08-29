@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2476359,
+    "properties": {
+        "woe_id": 2476359,
+        "place_id": "2N2JzNubBZu2XTKA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pratts, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239483008,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3369\/shapefiles\/2476359_20090411_8de823c654.tar.gz"
+        },
+        "bbox": [
+            -111.86443328857,
+            40.777160644531,
+            -111.85861968994,
+            40.778308868408
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.859314,
+                        40.778072
+                    ],
+                    [
+                        -111.85862,
+                        40.777298
+                    ],
+                    [
+                        -111.861244,
+                        40.777161
+                    ],
+                    [
+                        -111.864433,
+                        40.77813
+                    ],
+                    [
+                        -111.862762,
+                        40.778309
+                    ],
+                    [
+                        -111.859314,
+                        40.778072
+                    ]
+                ]
+            ]
+        ]
+    }
+}

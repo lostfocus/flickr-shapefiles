@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2360766,
+    "properties": {
+        "woe_id": 2360766,
+        "place_id": "4pgX2iObApqnsY_N",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beard Heights, Marlinton, WV, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527447,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2360766_20101216_e726f8d4e7.tar.gz"
+        },
+        "bbox": [
+            -80.096252441406,
+            38.222499847412,
+            -80.092872619629,
+            38.223819732666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.095169,
+                        38.222832
+                    ],
+                    [
+                        -80.096252,
+                        38.22382
+                    ],
+                    [
+                        -80.094482,
+                        38.223576
+                    ],
+                    [
+                        -80.093163,
+                        38.222916
+                    ],
+                    [
+                        -80.092873,
+                        38.2225
+                    ],
+                    [
+                        -80.095169,
+                        38.222832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

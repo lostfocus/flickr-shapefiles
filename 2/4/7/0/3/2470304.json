@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2470304,
+    "properties": {
+        "woe_id": 2470304,
+        "place_id": "HyBG4tqbBZsCIeGa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pennock, Newark, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543116,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2470304_20101216_10b22292e2.tar.gz"
+        },
+        "bbox": [
+            -75.702461242676,
+            39.700328826904,
+            -75.698036193848,
+            39.704551696777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.699364,
+                        39.702572
+                    ],
+                    [
+                        -75.698036,
+                        39.701946
+                    ],
+                    [
+                        -75.701752,
+                        39.700329
+                    ],
+                    [
+                        -75.702461,
+                        39.704552
+                    ],
+                    [
+                        -75.699364,
+                        39.702572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

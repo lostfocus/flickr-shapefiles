@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28754193,
+    "properties": {
+        "woe_id": 28754193,
+        "place_id": "bRY72CibCZtVkCOeMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\u6c38\u5eb7\u91cc, Kaohsiung City, Kaohsiung City, TW, Taiwan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519170,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28754193_20101216_ef17154dec.tar.gz"
+        },
+        "bbox": [
+            120.33006286621,
+            22.626558303833,
+            120.33200836182,
+            22.629274368286
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        120.331482,
+                        22.627373
+                    ],
+                    [
+                        120.332008,
+                        22.626558
+                    ],
+                    [
+                        120.331535,
+                        22.626686
+                    ],
+                    [
+                        120.330162,
+                        22.62748
+                    ],
+                    [
+                        120.330063,
+                        22.629274
+                    ],
+                    [
+                        120.331482,
+                        22.627373
+                    ]
+                ]
+            ]
+        ]
+    }
+}

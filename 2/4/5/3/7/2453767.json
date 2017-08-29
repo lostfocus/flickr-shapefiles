@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2453767,
+    "properties": {
+        "woe_id": 2453767,
+        "place_id": "CdUvf0ibBZkoJwPU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moores Corner, Salem, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528347,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2453767_20101216_6d1ca512d3.tar.gz"
+        },
+        "bbox": [
+            -75.467491149902,
+            39.570827484131,
+            -75.464660644531,
+            39.573905944824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.467171,
+                        39.571835
+                    ],
+                    [
+                        -75.467491,
+                        39.57222
+                    ],
+                    [
+                        -75.465858,
+                        39.573906
+                    ],
+                    [
+                        -75.464661,
+                        39.57159
+                    ],
+                    [
+                        -75.466461,
+                        39.570827
+                    ],
+                    [
+                        -75.467171,
+                        39.571835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

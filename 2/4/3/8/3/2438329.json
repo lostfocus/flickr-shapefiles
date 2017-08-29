@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2438329,
+    "properties": {
+        "woe_id": 2438329,
+        "place_id": "YzFqbjebBZ_TMK4_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lenox Park, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292420644,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2438329_20101215_dfb5fde5cd.tar.gz"
+        },
+        "bbox": [
+            -84.344024658203,
+            33.796695709229,
+            -84.340805053711,
+            33.798137664795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.340805,
+                        33.798138
+                    ],
+                    [
+                        -84.342278,
+                        33.796696
+                    ],
+                    [
+                        -84.344025,
+                        33.798
+                    ],
+                    [
+                        -84.342087,
+                        33.797943
+                    ],
+                    [
+                        -84.340805,
+                        33.798138
+                    ]
+                ]
+            ]
+        ]
+    }
+}

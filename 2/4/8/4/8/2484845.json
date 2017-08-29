@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484845,
+    "properties": {
+        "woe_id": 2484845,
+        "place_id": "lrJjrtmbBZTE0S79",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roseville, Glasgow, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522224,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2484845_20101216_538af13efb.tar.gz"
+        },
+        "bbox": [
+            -85.912773132324,
+            36.995239257812,
+            -85.911239624023,
+            36.99670791626
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.912773,
+                        36.995739
+                    ],
+                    [
+                        -85.912743,
+                        36.995983
+                    ],
+                    [
+                        -85.91124,
+                        36.996708
+                    ],
+                    [
+                        -85.911873,
+                        36.995926
+                    ],
+                    [
+                        -85.912529,
+                        36.995239
+                    ],
+                    [
+                        -85.912773,
+                        36.995739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

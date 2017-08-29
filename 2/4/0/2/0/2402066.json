@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402066,
+    "properties": {
+        "woe_id": 2402066,
+        "place_id": "aREpelebBZycp894",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Falconhurst, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522066,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2402066_20101216_bc3066053f.tar.gz"
+        },
+        "bbox": [
+            -111.83648681641,
+            40.568824768066,
+            -111.83358001709,
+            40.572498321533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.836487,
+                        40.571964
+                    ],
+                    [
+                        -111.836487,
+                        40.572353
+                    ],
+                    [
+                        -111.836403,
+                        40.572498
+                    ],
+                    [
+                        -111.834656,
+                        40.572212
+                    ],
+                    [
+                        -111.83358,
+                        40.568825
+                    ],
+                    [
+                        -111.836487,
+                        40.571964
+                    ]
+                ]
+            ]
+        ]
+    }
+}

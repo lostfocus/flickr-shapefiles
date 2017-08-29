@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529722,
+    "properties": {
+        "woe_id": 28529722,
+        "place_id": "sNL82dybCZlt8QPpoA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiko 3 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452627,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/28529722_20101215_98185681b1.tar.gz"
+        },
+        "bbox": [
+            139.79083251953,
+            35.799667358398,
+            139.79266357422,
+            35.803016662598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.792664,
+                        35.801167
+                    ],
+                    [
+                        139.790833,
+                        35.799667
+                    ],
+                    [
+                        139.790939,
+                        35.800205
+                    ],
+                    [
+                        139.791428,
+                        35.803017
+                    ],
+                    [
+                        139.792496,
+                        35.801334
+                    ],
+                    [
+                        139.792664,
+                        35.801167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

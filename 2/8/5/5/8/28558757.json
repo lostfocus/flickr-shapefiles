@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28558757,
+    "properties": {
+        "woe_id": 28558757,
+        "place_id": "ABAMoqWbCZnfiGmwTg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hannancho 6 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449617,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/28558757_20101215_efb6b79f95.tar.gz"
+        },
+        "bbox": [
+            135.5119934082,
+            34.620414733887,
+            135.51356506348,
+            34.620998382568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.511993,
+                        34.620834
+                    ],
+                    [
+                        135.511993,
+                        34.620998
+                    ],
+                    [
+                        135.512329,
+                        34.620998
+                    ],
+                    [
+                        135.513336,
+                        34.620998
+                    ],
+                    [
+                        135.513565,
+                        34.620415
+                    ],
+                    [
+                        135.511993,
+                        34.620834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

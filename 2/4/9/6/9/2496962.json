@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496962,
+    "properties": {
+        "woe_id": 2496962,
+        "place_id": "6sXpcGObBZW_jF0K",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southaven, Clarksville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544323,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2496962_20101217_4b463d8fdf.tar.gz"
+        },
+        "bbox": [
+            -87.410148620605,
+            36.567535400391,
+            -87.407241821289,
+            36.574111938477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.410149,
+                        36.569439
+                    ],
+                    [
+                        -87.409027,
+                        36.574112
+                    ],
+                    [
+                        -87.407242,
+                        36.574078
+                    ],
+                    [
+                        -87.408081,
+                        36.569862
+                    ],
+                    [
+                        -87.407562,
+                        36.567535
+                    ],
+                    [
+                        -87.410149,
+                        36.569439
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29230034,
+    "properties": {
+        "woe_id": 29230034,
+        "place_id": "gW4acDibCJ5bcjZt_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Little Menomonee Parkway, Milwaukee, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528656,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/29230034_20101216_ec739fed31.tar.gz"
+        },
+        "bbox": [
+            -88.043563842773,
+            43.124809265137,
+            -88.03978729248,
+            43.129081726074
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.042542,
+                        43.129051
+                    ],
+                    [
+                        -88.039787,
+                        43.129082
+                    ],
+                    [
+                        -88.039833,
+                        43.12896
+                    ],
+                    [
+                        -88.040932,
+                        43.127048
+                    ],
+                    [
+                        -88.043564,
+                        43.124809
+                    ],
+                    [
+                        -88.042542,
+                        43.129051
+                    ]
+                ]
+            ]
+        ]
+    }
+}

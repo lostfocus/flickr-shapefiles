@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20100410,
+    "properties": {
+        "woe_id": 20100410,
+        "place_id": "teD2t82bAZ33Rem8Bg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rydningem, Trondheim, Sor-Trondelag, NO, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551630,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/20100410_20101217_f57d138269.tar.gz"
+        },
+        "bbox": [
+            10.343215942383,
+            63.383312225342,
+            10.344847679138,
+            63.388187408447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.343216,
+                        63.388187
+                    ],
+                    [
+                        10.344848,
+                        63.384537
+                    ],
+                    [
+                        10.343444,
+                        63.383362
+                    ],
+                    [
+                        10.34338,
+                        63.383312
+                    ],
+                    [
+                        10.343216,
+                        63.388187
+                    ]
+                ]
+            ]
+        ]
+    }
+}

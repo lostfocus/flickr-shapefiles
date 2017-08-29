@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2372091,
+    "properties": {
+        "woe_id": 2372091,
+        "place_id": "h1jbKBybApsRHXEh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burlington Addition East, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247853602,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2599\/shapefiles\/2372091_20090717_46b6f4c00c.tar.gz"
+        },
+        "bbox": [
+            -111.92199707031,
+            40.747177124023,
+            -111.92092132568,
+            40.747707366943
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.921997,
+                        40.747498
+                    ],
+                    [
+                        -111.921082,
+                        40.747707
+                    ],
+                    [
+                        -111.920921,
+                        40.747631
+                    ],
+                    [
+                        -111.921669,
+                        40.747177
+                    ],
+                    [
+                        -111.921997,
+                        40.747498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

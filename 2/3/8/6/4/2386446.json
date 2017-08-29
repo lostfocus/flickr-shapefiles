@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2386446,
+    "properties": {
+        "woe_id": 2386446,
+        "place_id": "HWNR2tCbApScXCw9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coynes, Joliet, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448643,
+        "alpha": 1.0e-5,
+        "points": 31,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2386446_20101215_18a233bb99.tar.gz"
+        },
+        "bbox": [
+            -88.143951416016,
+            41.572601318359,
+            -88.141510009766,
+            41.576606750488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.142723,
+                        41.575874
+                    ],
+                    [
+                        -88.142387,
+                        41.575691
+                    ],
+                    [
+                        -88.14151,
+                        41.575199
+                    ],
+                    [
+                        -88.142349,
+                        41.572601
+                    ],
+                    [
+                        -88.143951,
+                        41.576607
+                    ],
+                    [
+                        -88.142723,
+                        41.575874
+                    ]
+                ]
+            ]
+        ]
+    }
+}

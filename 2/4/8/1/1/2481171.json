@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481171,
+    "properties": {
+        "woe_id": 2481171,
+        "place_id": "56u314ubBZTcav3y",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ridgefield, Montgomery, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539809,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2481171_20101216_f9830589ac.tar.gz"
+        },
+        "bbox": [
+            -86.25666809082,
+            32.348167419434,
+            -86.249496459961,
+            32.353618621826
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.256668,
+                        32.348167
+                    ],
+                    [
+                        -86.254669,
+                        32.350666
+                    ],
+                    [
+                        -86.253052,
+                        32.353619
+                    ],
+                    [
+                        -86.249496,
+                        32.350334
+                    ],
+                    [
+                        -86.253143,
+                        32.349586
+                    ],
+                    [
+                        -86.256668,
+                        32.348167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2356810,
+    "properties": {
+        "woe_id": 2356810,
+        "place_id": "WzzjMIGbApmHHE7i",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aspen Heights, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532258,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2356810_20101216_ec6fd02af0.tar.gz"
+        },
+        "bbox": [
+            -111.90991210938,
+            40.652202606201,
+            -111.90305328369,
+            40.654998779297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.903053,
+                        40.654999
+                    ],
+                    [
+                        -111.903564,
+                        40.653912
+                    ],
+                    [
+                        -111.903564,
+                        40.652203
+                    ],
+                    [
+                        -111.90519,
+                        40.652493
+                    ],
+                    [
+                        -111.909912,
+                        40.654499
+                    ],
+                    [
+                        -111.90461,
+                        40.654697
+                    ],
+                    [
+                        -111.903053,
+                        40.654999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

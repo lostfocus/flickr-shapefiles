@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28521539,
+    "properties": {
+        "woe_id": 28521539,
+        "place_id": "kdUapFmbCZl6sKkIsw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimowadamachi 3 Chome, Takasaki-shi, Gunma Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533556,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/28521539_20101216_f0e99a2032.tar.gz"
+        },
+        "bbox": [
+            139.00958251953,
+            36.310905456543,
+            139.01470947266,
+            36.313217163086
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.010422,
+                        36.311249
+                    ],
+                    [
+                        139.009583,
+                        36.313217
+                    ],
+                    [
+                        139.012299,
+                        36.312408
+                    ],
+                    [
+                        139.014709,
+                        36.311203
+                    ],
+                    [
+                        139.011627,
+                        36.310905
+                    ],
+                    [
+                        139.010422,
+                        36.311249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

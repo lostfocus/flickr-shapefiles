@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28746341,
+    "properties": {
+        "woe_id": 28746341,
+        "place_id": "r3TZJHGbCZun2.Y4Xg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Summit, Sutton, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234783334,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3585\/shapefiles\/28746341_20090216_0d25e2d37d.tar.gz"
+        },
+        "bbox": [
+            -72.061386108398,
+            44.721366882324,
+            -72.049026489258,
+            44.73112487793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.053833,
+                        44.731125
+                    ],
+                    [
+                        -72.050842,
+                        44.730278
+                    ],
+                    [
+                        -72.049026,
+                        44.721367
+                    ],
+                    [
+                        -72.061386,
+                        44.729176
+                    ],
+                    [
+                        -72.053833,
+                        44.731125
+                    ]
+                ]
+            ]
+        ]
+    }
+}

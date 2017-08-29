@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2524080,
+    "properties": {
+        "woe_id": 2524080,
+        "place_id": "n3ZahiWbBJ7nKkQY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wren Lane West, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486764,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2524080_20101216_e19aa109fd.tar.gz"
+        },
+        "bbox": [
+            -111.81858825684,
+            40.633365631104,
+            -111.81253814697,
+            40.634864807129
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.812538,
+                        40.634521
+                    ],
+                    [
+                        -111.813202,
+                        40.633419
+                    ],
+                    [
+                        -111.815178,
+                        40.633366
+                    ],
+                    [
+                        -111.818588,
+                        40.634865
+                    ],
+                    [
+                        -111.815002,
+                        40.63409
+                    ],
+                    [
+                        -111.812538,
+                        40.634521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

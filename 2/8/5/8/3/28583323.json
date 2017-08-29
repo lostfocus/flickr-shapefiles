@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28583323,
+    "properties": {
+        "woe_id": 28583323,
+        "place_id": "pm3AFUabCZnbckbS4Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mihara 2 Chome, Naha-shi, Okinawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534868,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/28583323_20101216_40cc8c3d30.tar.gz"
+        },
+        "bbox": [
+            127.69992828369,
+            26.211322784424,
+            127.70130157471,
+            26.213743209839
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.699928,
+                        26.21151
+                    ],
+                    [
+                        127.700783,
+                        26.213743
+                    ],
+                    [
+                        127.701302,
+                        26.213541
+                    ],
+                    [
+                        127.701126,
+                        26.211664
+                    ],
+                    [
+                        127.700958,
+                        26.211323
+                    ],
+                    [
+                        127.699928,
+                        26.21151
+                    ]
+                ]
+            ]
+        ]
+    }
+}

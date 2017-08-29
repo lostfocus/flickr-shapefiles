@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29230031,
+    "properties": {
+        "woe_id": 29230031,
+        "place_id": "zpHmoz.bCJ6gRoPzyg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Servite Woods, Milwaukee, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523802,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/29230031_20101216_e20077241e.tar.gz"
+        },
+        "bbox": [
+            -88.016448974609,
+            43.176124572754,
+            -88.014823913574,
+            43.17769241333
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.015785,
+                        43.177692
+                    ],
+                    [
+                        -88.014908,
+                        43.177376
+                    ],
+                    [
+                        -88.014824,
+                        43.177345
+                    ],
+                    [
+                        -88.015594,
+                        43.176125
+                    ],
+                    [
+                        -88.016449,
+                        43.177101
+                    ],
+                    [
+                        -88.015785,
+                        43.177692
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2405397,
+    "properties": {
+        "woe_id": 2405397,
+        "place_id": "O1j4FwebBZyXqwQJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Forest Villa, Annapolis, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524360,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/2405397_20101216_76ef96516f.tar.gz"
+        },
+        "bbox": [
+            -76.524925231934,
+            38.972610473633,
+            -76.519332885742,
+            38.975666046143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.519333,
+                        38.975666
+                    ],
+                    [
+                        -76.5205,
+                        38.974998
+                    ],
+                    [
+                        -76.522263,
+                        38.97261
+                    ],
+                    [
+                        -76.524925,
+                        38.974625
+                    ],
+                    [
+                        -76.521065,
+                        38.975533
+                    ],
+                    [
+                        -76.519333,
+                        38.975666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

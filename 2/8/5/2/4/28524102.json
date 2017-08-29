@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524102,
+    "properties": {
+        "woe_id": 28524102,
+        "place_id": "W2WRSBybCZl8_qrpaQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waseda 7 Chome, Misato-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524730,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/28524102_20101216_81395266ed.tar.gz"
+        },
+        "bbox": [
+            139.88919067383,
+            35.855766296387,
+            139.89418029785,
+            35.856914520264
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.892029,
+                        35.85598
+                    ],
+                    [
+                        139.889191,
+                        35.855766
+                    ],
+                    [
+                        139.891754,
+                        35.856915
+                    ],
+                    [
+                        139.89418,
+                        35.856003
+                    ],
+                    [
+                        139.893005,
+                        35.856052
+                    ],
+                    [
+                        139.892029,
+                        35.85598
+                    ]
+                ]
+            ]
+        ]
+    }
+}

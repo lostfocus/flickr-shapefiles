@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518401,
+    "properties": {
+        "woe_id": 2518401,
+        "place_id": "jz4zqM.bBJ08dHA.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Weston, Manville, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247838483,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3522\/shapefiles\/2518401_20090717_c703226657.tar.gz"
+        },
+        "bbox": [
+            -74.596633911133,
+            40.52352142334,
+            -74.582489013672,
+            40.528251647949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.582489,
+                        40.528252
+                    ],
+                    [
+                        -74.58532,
+                        40.523521
+                    ],
+                    [
+                        -74.596085,
+                        40.524632
+                    ],
+                    [
+                        -74.596634,
+                        40.526398
+                    ],
+                    [
+                        -74.585495,
+                        40.527893
+                    ],
+                    [
+                        -74.582489,
+                        40.528252
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2514257,
+    "properties": {
+        "woe_id": 2514257,
+        "place_id": "xVKnKXqbBJ0zpzYk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wareham Center, Wareham, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536040,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2514257_20101216_2515e10e18.tar.gz"
+        },
+        "bbox": [
+            -70.726264953613,
+            41.761325836182,
+            -70.724563598633,
+            41.766086578369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.725388,
+                        41.766087
+                    ],
+                    [
+                        -70.724648,
+                        41.766083
+                    ],
+                    [
+                        -70.724564,
+                        41.765987
+                    ],
+                    [
+                        -70.724747,
+                        41.761326
+                    ],
+                    [
+                        -70.726265,
+                        41.765877
+                    ],
+                    [
+                        -70.725388,
+                        41.766087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

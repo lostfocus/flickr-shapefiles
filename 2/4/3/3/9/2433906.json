@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2433906,
+    "properties": {
+        "woe_id": 2433906,
+        "place_id": "rKi3iRqbBZ_TxBZL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Krebs, West Decatur, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234607290,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3479\/shapefiles\/2433906_20090214_e37ab08ac5.tar.gz"
+        },
+        "bbox": [
+            -78.44002532959,
+            41.022480010986,
+            -78.438232421875,
+            41.023361206055
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.438431,
+                        41.023361
+                    ],
+                    [
+                        -78.438232,
+                        41.022842
+                    ],
+                    [
+                        -78.439903,
+                        41.02248
+                    ],
+                    [
+                        -78.440025,
+                        41.023258
+                    ],
+                    [
+                        -78.438431,
+                        41.023361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

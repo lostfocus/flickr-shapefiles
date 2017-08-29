@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2511465,
+    "properties": {
+        "woe_id": 2511465,
+        "place_id": "z8diKZCbBJ08giTT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vaughn, Bentonville, AR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538376,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2511465_20101216_cb35b5085c.tar.gz"
+        },
+        "bbox": [
+            -94.308525085449,
+            36.31128692627,
+            -94.303421020508,
+            36.314571380615
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -94.306297,
+                        36.314571
+                    ],
+                    [
+                        -94.303421,
+                        36.313931
+                    ],
+                    [
+                        -94.303764,
+                        36.311287
+                    ],
+                    [
+                        -94.305954,
+                        36.312496
+                    ],
+                    [
+                        -94.308525,
+                        36.314224
+                    ],
+                    [
+                        -94.306297,
+                        36.314571
+                    ]
+                ]
+            ]
+        ]
+    }
+}

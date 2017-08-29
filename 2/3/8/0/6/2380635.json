@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2380635,
+    "properties": {
+        "woe_id": 2380635,
+        "place_id": "NrJzIUibApTuIHQN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Claremont Manor, Spring Grove, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506809,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm2.static.flickr.com\/1434\/shapefiles\/2380635_20101216_992c319e85.tar.gz"
+        },
+        "bbox": [
+            -76.967979431152,
+            37.227832794189,
+            -76.96231842041,
+            37.232788085938
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.964722,
+                        37.227833
+                    ],
+                    [
+                        -76.964851,
+                        37.228058
+                    ],
+                    [
+                        -76.967979,
+                        37.232788
+                    ],
+                    [
+                        -76.962318,
+                        37.231319
+                    ],
+                    [
+                        -76.964546,
+                        37.228142
+                    ],
+                    [
+                        -76.964722,
+                        37.227833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

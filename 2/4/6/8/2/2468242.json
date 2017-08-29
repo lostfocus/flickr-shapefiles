@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468242,
+    "properties": {
+        "woe_id": 2468242,
+        "place_id": "JigLHyObBZqEyXB5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pardee, Santa Clarita, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542068,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2468242_20101216_c8f22e3c5e.tar.gz"
+        },
+        "bbox": [
+            -118.54398345947,
+            34.409175872803,
+            -118.54105377197,
+            34.416667938232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.541054,
+                        34.41201
+                    ],
+                    [
+                        -118.541451,
+                        34.409176
+                    ],
+                    [
+                        -118.543854,
+                        34.410309
+                    ],
+                    [
+                        -118.543983,
+                        34.414627
+                    ],
+                    [
+                        -118.543335,
+                        34.416668
+                    ],
+                    [
+                        -118.541054,
+                        34.41201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

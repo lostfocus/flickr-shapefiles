@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2430739,
+    "properties": {
+        "woe_id": 2430739,
+        "place_id": "sB.aS_abBZ9cUelw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kariotis, Bremerton, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517445,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/2430739_20101216_7a051634d3.tar.gz"
+        },
+        "bbox": [
+            -122.61468505859,
+            47.622493743896,
+            -122.60776519775,
+            47.629009246826
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.613808,
+                        47.622494
+                    ],
+                    [
+                        -122.614685,
+                        47.627029
+                    ],
+                    [
+                        -122.611542,
+                        47.623287
+                    ],
+                    [
+                        -122.609215,
+                        47.629009
+                    ],
+                    [
+                        -122.607765,
+                        47.628086
+                    ],
+                    [
+                        -122.611542,
+                        47.623287
+                    ],
+                    [
+                        -122.613808,
+                        47.622494
+                    ]
+                ]
+            ]
+        ]
+    }
+}

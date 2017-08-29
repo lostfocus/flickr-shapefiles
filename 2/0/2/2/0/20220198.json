@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20220198,
+    "properties": {
+        "woe_id": 20220198,
+        "place_id": "fczhrwSbAZ6jG5uCAQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nuestra Sra.de la Oliva, Seville, Andalusia, ES, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247994132,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3430\/shapefiles\/20220198_20090719_090ece070e.tar.gz"
+        },
+        "bbox": [
+            -5.9734621047974,
+            37.364315032959,
+            -5.9697217941284,
+            37.3688621521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.970897,
+                        37.368862
+                    ],
+                    [
+                        -5.969722,
+                        37.368053
+                    ],
+                    [
+                        -5.971648,
+                        37.364323
+                    ],
+                    [
+                        -5.972056,
+                        37.364315
+                    ],
+                    [
+                        -5.973462,
+                        37.36491
+                    ],
+                    [
+                        -5.970897,
+                        37.368862
+                    ]
+                ]
+            ]
+        ]
+    }
+}

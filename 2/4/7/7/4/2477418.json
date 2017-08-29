@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2477418,
+    "properties": {
+        "woe_id": 2477418,
+        "place_id": "Y_PI8SibBZufBBGi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Putnam Lake, Brewster, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520697,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2477418_20101216_8c50047e56.tar.gz"
+        },
+        "bbox": [
+            -73.54248046875,
+            41.461124420166,
+            -73.541488647461,
+            41.462661743164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.541817,
+                        41.461784
+                    ],
+                    [
+                        -73.541939,
+                        41.461639
+                    ],
+                    [
+                        -73.54248,
+                        41.461124
+                    ],
+                    [
+                        -73.542336,
+                        41.461651
+                    ],
+                    [
+                        -73.541489,
+                        41.462662
+                    ],
+                    [
+                        -73.541817,
+                        41.461784
+                    ]
+                ]
+            ]
+        ]
+    }
+}

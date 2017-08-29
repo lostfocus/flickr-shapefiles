@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2406351,
+    "properties": {
+        "woe_id": 2406351,
+        "place_id": "5v4va1ibBZz1yWmp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Four Corners, Medford, OR, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533308,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2406351_20101216_1d605b0225.tar.gz"
+        },
+        "bbox": [
+            -122.85971069336,
+            42.365333557129,
+            -122.85456848145,
+            42.368167877197
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.85833,
+                        42.365334
+                    ],
+                    [
+                        -122.859711,
+                        42.368042
+                    ],
+                    [
+                        -122.857002,
+                        42.368168
+                    ],
+                    [
+                        -122.854568,
+                        42.367043
+                    ],
+                    [
+                        -122.85833,
+                        42.365334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

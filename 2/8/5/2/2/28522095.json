@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522095,
+    "properties": {
+        "woe_id": 28522095,
+        "place_id": "QOMD1GubCZlrUeGnUA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Numakage 2 Chome, Saitama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452582,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28522095_20101215_9b2f0cfa2e.tar.gz"
+        },
+        "bbox": [
+            139.64399719238,
+            35.840114593506,
+            139.64566040039,
+            35.841037750244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.644791,
+                        35.841038
+                    ],
+                    [
+                        139.64566,
+                        35.841
+                    ],
+                    [
+                        139.645004,
+                        35.840332
+                    ],
+                    [
+                        139.644211,
+                        35.840115
+                    ],
+                    [
+                        139.643997,
+                        35.841
+                    ],
+                    [
+                        139.644791,
+                        35.841038
+                    ]
+                ]
+            ]
+        ]
+    }
+}

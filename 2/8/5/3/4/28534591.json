@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534591,
+    "properties": {
+        "woe_id": 28534591,
+        "place_id": "HspKYOWbCZmjSan27w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fuchinobe 3 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529545,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/28534591_20101216_4d91e9ed59.tar.gz"
+        },
+        "bbox": [
+            139.39349365234,
+            35.569625854492,
+            139.39585876465,
+            35.571334838867
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.395172,
+                        35.571335
+                    ],
+                    [
+                        139.395859,
+                        35.57058
+                    ],
+                    [
+                        139.395691,
+                        35.569626
+                    ],
+                    [
+                        139.393494,
+                        35.570213
+                    ],
+                    [
+                        139.394836,
+                        35.570999
+                    ],
+                    [
+                        139.395172,
+                        35.571335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

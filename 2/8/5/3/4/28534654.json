@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534654,
+    "properties": {
+        "woe_id": 28534654,
+        "place_id": "A2XN6ICbCZkPt5swIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yoshinodai 3 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490429,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/28534654_20101216_88b160de94.tar.gz"
+        },
+        "bbox": [
+            139.39309692383,
+            35.555488586426,
+            139.39659118652,
+            35.558876037598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.393097,
+                        35.557682
+                    ],
+                    [
+                        139.395142,
+                        35.558876
+                    ],
+                    [
+                        139.396591,
+                        35.555622
+                    ],
+                    [
+                        139.394455,
+                        35.555489
+                    ],
+                    [
+                        139.394272,
+                        35.555511
+                    ],
+                    [
+                        139.393097,
+                        35.557682
+                    ]
+                ]
+            ]
+        ]
+    }
+}

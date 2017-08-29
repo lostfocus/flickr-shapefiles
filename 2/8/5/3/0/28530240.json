@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 28530240,
+    "properties": {
+        "woe_id": 28530240,
+        "place_id": "9zB2UP6bCZlNHBeOjg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wakabacho 3 Chome, Tachikawa-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442145,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/28530240_20101215_1aaf412ddd.tar.gz"
+        },
+        "bbox": [
+            139.43733215332,
+            35.71883392334,
+            139.44232177734,
+            35.720333099365
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.437836,
+                        35.719864
+                    ],
+                    [
+                        139.439163,
+                        35.719501
+                    ],
+                    [
+                        139.442322,
+                        35.719162
+                    ],
+                    [
+                        139.440826,
+                        35.718834
+                    ],
+                    [
+                        139.439163,
+                        35.719501
+                    ],
+                    [
+                        139.438339,
+                        35.720001
+                    ],
+                    [
+                        139.437332,
+                        35.720333
+                    ],
+                    [
+                        139.437836,
+                        35.719864
+                    ]
+                ]
+            ]
+        ]
+    }
+}

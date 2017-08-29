@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29215810,
+    "properties": {
+        "woe_id": 29215810,
+        "place_id": "Gbd9TRKbCJ6nDjPJRQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dwarka Sector 12, New Delhi, NCT, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463967,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/29215810_20101216_53097724ff.tar.gz"
+        },
+        "bbox": [
+            77.041282653809,
+            28.592529296875,
+            77.046043395996,
+            28.597936630249
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        77.041283,
+                        28.593565
+                    ],
+                    [
+                        77.041794,
+                        28.594658
+                    ],
+                    [
+                        77.042313,
+                        28.594696
+                    ],
+                    [
+                        77.045403,
+                        28.597937
+                    ],
+                    [
+                        77.046043,
+                        28.592529
+                    ],
+                    [
+                        77.041283,
+                        28.593565
+                    ]
+                ]
+            ]
+        ]
+    }
+}

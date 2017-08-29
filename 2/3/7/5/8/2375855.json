@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2375855,
+    "properties": {
+        "woe_id": 2375855,
+        "place_id": "lichHA6bApsrCWak",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Casa Loma, Centerville, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542211,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2375855_20101216_40c026c529.tar.gz"
+        },
+        "bbox": [
+            -111.87915802002,
+            40.931957244873,
+            -111.876121521,
+            40.937084197998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.876846,
+                        40.932724
+                    ],
+                    [
+                        -111.878967,
+                        40.931957
+                    ],
+                    [
+                        -111.878632,
+                        40.933498
+                    ],
+                    [
+                        -111.879158,
+                        40.937084
+                    ],
+                    [
+                        -111.876122,
+                        40.932674
+                    ],
+                    [
+                        -111.876846,
+                        40.932724
+                    ]
+                ]
+            ]
+        ]
+    }
+}

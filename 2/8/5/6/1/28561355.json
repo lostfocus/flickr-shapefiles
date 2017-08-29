@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28561355,
+    "properties": {
+        "woe_id": 28561355,
+        "place_id": "YEVSYiKbCZmVm6_pdQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Umizuka 3 Chome, Kaizuka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442191,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/28561355_20101215_fb52e36329.tar.gz"
+        },
+        "bbox": [
+            135.3505859375,
+            34.447341918945,
+            135.35371398926,
+            34.449275970459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.352707,
+                        34.449276
+                    ],
+                    [
+                        135.353714,
+                        34.448112
+                    ],
+                    [
+                        135.350586,
+                        34.447342
+                    ],
+                    [
+                        135.351318,
+                        34.447968
+                    ],
+                    [
+                        135.352036,
+                        34.448597
+                    ],
+                    [
+                        135.352707,
+                        34.449276
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2445918,
+    "properties": {
+        "woe_id": 2445918,
+        "place_id": "RaX9jwSbBZj4nLzS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Marlborough Meadows, Glendale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524286,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2445918_20101216_935de12bb8.tar.gz"
+        },
+        "bbox": [
+            -112.17701721191,
+            33.59294128418,
+            -112.1693649292,
+            33.596332550049
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.173164,
+                        33.596333
+                    ],
+                    [
+                        -112.169365,
+                        33.594124
+                    ],
+                    [
+                        -112.173203,
+                        33.592941
+                    ],
+                    [
+                        -112.177017,
+                        33.595512
+                    ],
+                    [
+                        -112.17337,
+                        33.596161
+                    ],
+                    [
+                        -112.173164,
+                        33.596333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

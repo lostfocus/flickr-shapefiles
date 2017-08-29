@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23512163,
+    "properties": {
+        "woe_id": 23512163,
+        "place_id": "5PoJZIqbApmhjA_.Og",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Little Woods, New Orleans, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551362,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/23512163_20101217_092b7b6c22.tar.gz"
+        },
+        "bbox": [
+            -89.985946655273,
+            30.047216415405,
+            -89.978797912598,
+            30.051654815674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.983444,
+                        30.049612
+                    ],
+                    [
+                        -89.985947,
+                        30.049166
+                    ],
+                    [
+                        -89.983437,
+                        30.050726
+                    ],
+                    [
+                        -89.979767,
+                        30.051655
+                    ],
+                    [
+                        -89.978798,
+                        30.047216
+                    ],
+                    [
+                        -89.983444,
+                        30.049612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

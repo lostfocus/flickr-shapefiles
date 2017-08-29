@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2384422,
+    "properties": {
+        "woe_id": 2384422,
+        "place_id": "HmpA5SSbApT3QuWV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cook, Cedar Lake, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530725,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2384422_20101216_8e5639d694.tar.gz"
+        },
+        "bbox": [
+            -87.472328186035,
+            41.374328613281,
+            -87.468383789062,
+            41.379642486572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.470566,
+                        41.379642
+                    ],
+                    [
+                        -87.468384,
+                        41.378548
+                    ],
+                    [
+                        -87.468872,
+                        41.377548
+                    ],
+                    [
+                        -87.470016,
+                        41.37698
+                    ],
+                    [
+                        -87.472244,
+                        41.374329
+                    ],
+                    [
+                        -87.472328,
+                        41.378418
+                    ],
+                    [
+                        -87.470566,
+                        41.379642
+                    ]
+                ]
+            ]
+        ]
+    }
+}

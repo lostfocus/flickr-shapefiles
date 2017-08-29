@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2401487,
+    "properties": {
+        "woe_id": 2401487,
+        "place_id": "7yF0E7WbBZx6pf2t",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairhaven, Olive Branch, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292507107,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2401487_20101216_d07d18c39a.tar.gz"
+        },
+        "bbox": [
+            -89.795036315918,
+            34.944416046143,
+            -89.794860839844,
+            34.944522857666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.794952,
+                        34.944416
+                    ],
+                    [
+                        -89.795036,
+                        34.94445
+                    ],
+                    [
+                        -89.795036,
+                        34.944523
+                    ],
+                    [
+                        -89.794861,
+                        34.944523
+                    ],
+                    [
+                        -89.794952,
+                        34.944416
+                    ]
+                ]
+            ]
+        ]
+    }
+}

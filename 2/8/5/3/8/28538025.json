@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28538025,
+    "properties": {
+        "woe_id": 28538025,
+        "place_id": "WVW52U2bCZkw9lil_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takaominami 3 Chome, Kanazawa-shi, Ishikawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455264,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/28538025_20101215_bffae06971.tar.gz"
+        },
+        "bbox": [
+            136.62684631348,
+            36.517284393311,
+            136.62800598145,
+            36.517742156982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.627487,
+                        36.517292
+                    ],
+                    [
+                        136.626846,
+                        36.517506
+                    ],
+                    [
+                        136.627762,
+                        36.517715
+                    ],
+                    [
+                        136.628006,
+                        36.517742
+                    ],
+                    [
+                        136.627594,
+                        36.517284
+                    ],
+                    [
+                        136.627487,
+                        36.517292
+                    ]
+                ]
+            ]
+        ]
+    }
+}

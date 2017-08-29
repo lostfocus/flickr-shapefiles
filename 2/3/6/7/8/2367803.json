@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2367803,
+    "properties": {
+        "woe_id": 2367803,
+        "place_id": "HIDbWtSbAppx7MSX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Braddock Heights, Alexandria, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543051,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2367803_20101216_418488071c.tar.gz"
+        },
+        "bbox": [
+            -77.081451416016,
+            38.829544067383,
+            -77.074996948242,
+            38.834625244141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.080498,
+                        38.8325
+                    ],
+                    [
+                        -77.081451,
+                        38.834625
+                    ],
+                    [
+                        -77.078499,
+                        38.832832
+                    ],
+                    [
+                        -77.075668,
+                        38.833832
+                    ],
+                    [
+                        -77.074997,
+                        38.833668
+                    ],
+                    [
+                        -77.075851,
+                        38.831429
+                    ],
+                    [
+                        -77.076645,
+                        38.829544
+                    ],
+                    [
+                        -77.080498,
+                        38.8325
+                    ]
+                ]
+            ]
+        ]
+    }
+}

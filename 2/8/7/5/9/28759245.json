@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28759245,
+    "properties": {
+        "woe_id": 28759245,
+        "place_id": "TUX3sjebCZs3shxOuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\u83dc\u5712\u91cc, Chiayi City, Taiwan, TW, Taiwan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472542,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28759245_20101216_089208c20c.tar.gz"
+        },
+        "bbox": [
+            120.44107818604,
+            23.474071502686,
+            120.44220733643,
+            23.476472854614
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        120.441078,
+                        23.475365
+                    ],
+                    [
+                        120.441223,
+                        23.476473
+                    ],
+                    [
+                        120.442192,
+                        23.475266
+                    ],
+                    [
+                        120.442207,
+                        23.474951
+                    ],
+                    [
+                        120.441566,
+                        23.474072
+                    ],
+                    [
+                        120.441078,
+                        23.475365
+                    ]
+                ]
+            ]
+        ]
+    }
+}

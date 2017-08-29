@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2440115,
+    "properties": {
+        "woe_id": 2440115,
+        "place_id": "ebtfLeebBZi7qCRV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Little Bridge, Marshfield, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550201,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2440115_20101217_22365bf44d.tar.gz"
+        },
+        "bbox": [
+            -70.74577331543,
+            42.158794403076,
+            -70.741912841797,
+            42.163219451904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.741913,
+                        42.162163
+                    ],
+                    [
+                        -70.742165,
+                        42.158794
+                    ],
+                    [
+                        -70.74295,
+                        42.160732
+                    ],
+                    [
+                        -70.745773,
+                        42.161877
+                    ],
+                    [
+                        -70.742249,
+                        42.163219
+                    ],
+                    [
+                        -70.741913,
+                        42.162163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2460942,
+    "properties": {
+        "woe_id": 2460942,
+        "place_id": "t8rgSGGbBZoOH0Up",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Escanaba, Escanaba, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547642,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2460942_20101217_76a798b437.tar.gz"
+        },
+        "bbox": [
+            -87.120109558105,
+            45.785743713379,
+            -87.119522094727,
+            45.786087036133
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.119583,
+                        45.786072
+                    ],
+                    [
+                        -87.119522,
+                        45.785744
+                    ],
+                    [
+                        -87.12011,
+                        45.785805
+                    ],
+                    [
+                        -87.119972,
+                        45.786087
+                    ],
+                    [
+                        -87.119583,
+                        45.786072
+                    ]
+                ]
+            ]
+        ]
+    }
+}

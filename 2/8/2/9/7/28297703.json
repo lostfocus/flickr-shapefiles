@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 28297703,
+    "properties": {
+        "woe_id": 28297703,
+        "place_id": "0x43Q0SbCZ67YGn.mQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Normandy Heights, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540629,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28297703_20101216_68c7040658.tar.gz"
+        },
+        "bbox": [
+            -89.061180114746,
+            42.233215332031,
+            -89.052360534668,
+            42.238636016846
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.052795,
+                        42.238064
+                    ],
+                    [
+                        -89.052361,
+                        42.237915
+                    ],
+                    [
+                        -89.054916,
+                        42.23727
+                    ],
+                    [
+                        -89.057205,
+                        42.233215
+                    ],
+                    [
+                        -89.06118,
+                        42.237984
+                    ],
+                    [
+                        -89.057877,
+                        42.238636
+                    ],
+                    [
+                        -89.054916,
+                        42.23727
+                    ],
+                    [
+                        -89.052361,
+                        42.237915
+                    ],
+                    [
+                        -89.052795,
+                        42.238064
+                    ]
+                ]
+            ]
+        ]
+    }
+}

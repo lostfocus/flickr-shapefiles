@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2456900,
+    "properties": {
+        "woe_id": 2456900,
+        "place_id": "GBLwukmbBZl3rgHY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nameoki, Granite City, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535313,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2456900_20101216_a54f01c875.tar.gz"
+        },
+        "bbox": [
+            -90.127716064453,
+            38.729110717773,
+            -90.120506286621,
+            38.732460021973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.120506,
+                        38.73246
+                    ],
+                    [
+                        -90.123726,
+                        38.731037
+                    ],
+                    [
+                        -90.127716,
+                        38.729111
+                    ],
+                    [
+                        -90.127449,
+                        38.730324
+                    ],
+                    [
+                        -90.123657,
+                        38.731556
+                    ],
+                    [
+                        -90.120506,
+                        38.73246
+                    ]
+                ]
+            ]
+        ]
+    }
+}

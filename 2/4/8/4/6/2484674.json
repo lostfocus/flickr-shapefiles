@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484674,
+    "properties": {
+        "woe_id": 2484674,
+        "place_id": "g2DWZMibBZQdlmTi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rosedale, Centerville, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469848,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2484674_20101216_2a284ce9e9.tar.gz"
+        },
+        "bbox": [
+            -111.88616943359,
+            40.938499450684,
+            -111.88583374023,
+            40.938804626465
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.885956,
+                        40.938774
+                    ],
+                    [
+                        -111.885834,
+                        40.938667
+                    ],
+                    [
+                        -111.886169,
+                        40.938499
+                    ],
+                    [
+                        -111.886169,
+                        40.938667
+                    ],
+                    [
+                        -111.886147,
+                        40.938805
+                    ],
+                    [
+                        -111.885956,
+                        40.938774
+                    ]
+                ]
+            ]
+        ]
+    }
+}

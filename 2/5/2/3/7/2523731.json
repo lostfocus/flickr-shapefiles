@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2523731,
+    "properties": {
+        "woe_id": 2523731,
+        "place_id": "tA4mZpSbBJ4Ungoe",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodstock, St. Louis, MO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455566,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2523731_20101215_63b70841fe.tar.gz"
+        },
+        "bbox": [
+            -90.315330505371,
+            38.719722747803,
+            -90.309982299805,
+            38.720474243164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.315186,
+                        38.719917
+                    ],
+                    [
+                        -90.309982,
+                        38.720474
+                    ],
+                    [
+                        -90.315277,
+                        38.719723
+                    ],
+                    [
+                        -90.315331,
+                        38.720001
+                    ],
+                    [
+                        -90.315186,
+                        38.719917
+                    ]
+                ]
+            ]
+        ]
+    }
+}

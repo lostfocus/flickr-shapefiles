@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20171301,
+    "properties": {
+        "woe_id": 20171301,
+        "place_id": "zwOTBEibAZ2N66sMAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Milser M\u00fchle, Bielefeld, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495407,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/20171301_20101216_84ae73b447.tar.gz"
+        },
+        "bbox": [
+            8.6380834579468,
+            52.054386138916,
+            8.64222240448,
+            52.055500030518
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.638277,
+                        52.054806
+                    ],
+                    [
+                        8.639027,
+                        52.0555
+                    ],
+                    [
+                        8.642222,
+                        52.054722
+                    ],
+                    [
+                        8.638083,
+                        52.054386
+                    ],
+                    [
+                        8.638111,
+                        52.054501
+                    ],
+                    [
+                        8.638277,
+                        52.054806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

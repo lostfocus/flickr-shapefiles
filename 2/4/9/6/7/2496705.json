@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496705,
+    "properties": {
+        "woe_id": 2496705,
+        "place_id": "zx.bsmybBZXbr7iA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Row, Townsend, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547944,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/2496705_20101217_2027edfbd4.tar.gz"
+        },
+        "bbox": [
+            -71.714416503906,
+            42.617664337158,
+            -71.711967468262,
+            42.618812561035
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.713943,
+                        42.618484
+                    ],
+                    [
+                        -71.714203,
+                        42.618549
+                    ],
+                    [
+                        -71.714417,
+                        42.618813
+                    ],
+                    [
+                        -71.714165,
+                        42.618725
+                    ],
+                    [
+                        -71.711967,
+                        42.617664
+                    ],
+                    [
+                        -71.713943,
+                        42.618484
+                    ]
+                ]
+            ]
+        ]
+    }
+}

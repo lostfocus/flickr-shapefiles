@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29229399,
+    "properties": {
+        "woe_id": 29229399,
+        "place_id": "dOehgqWbCJ4JdxVLKA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midtown-Edmondson, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247844608,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3468\/shapefiles\/29229399_20090717_a3dcd91aab.tar.gz"
+        },
+        "bbox": [
+            -76.65348815918,
+            39.293441772461,
+            -76.646774291992,
+            39.298645019531
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.649796,
+                        39.298645
+                    ],
+                    [
+                        -76.646774,
+                        39.294994
+                    ],
+                    [
+                        -76.64743,
+                        39.294254
+                    ],
+                    [
+                        -76.650299,
+                        39.293442
+                    ],
+                    [
+                        -76.653488,
+                        39.298016
+                    ],
+                    [
+                        -76.649796,
+                        39.298645
+                    ]
+                ]
+            ]
+        ]
+    }
+}

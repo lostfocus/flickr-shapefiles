@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28517439,
+    "properties": {
+        "woe_id": 28517439,
+        "place_id": "WxOuPSubCZkbmDSyKg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sanmaibashi 1 Chome, Yokote-shi, Akita Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519156,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/28517439_20101216_fd40e5436a.tar.gz"
+        },
+        "bbox": [
+            140.56065368652,
+            39.309551239014,
+            140.56648254395,
+            39.313167572021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.560654,
+                        39.310104
+                    ],
+                    [
+                        140.561157,
+                        39.311085
+                    ],
+                    [
+                        140.564331,
+                        39.313168
+                    ],
+                    [
+                        140.566483,
+                        39.313076
+                    ],
+                    [
+                        140.562897,
+                        39.309551
+                    ],
+                    [
+                        140.560654,
+                        39.310104
+                    ]
+                ]
+            ]
+        ]
+    }
+}

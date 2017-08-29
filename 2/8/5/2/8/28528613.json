@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528613,
+    "properties": {
+        "woe_id": 28528613,
+        "place_id": "cS37c7CbCZkWp2DMJQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Funabashi 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472431,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28528613_20101216_e4871d236e.tar.gz"
+        },
+        "bbox": [
+            139.62232971191,
+            35.647838592529,
+            139.62434387207,
+            35.650131225586
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.624344,
+                        35.648521
+                    ],
+                    [
+                        139.624023,
+                        35.647839
+                    ],
+                    [
+                        139.623734,
+                        35.647846
+                    ],
+                    [
+                        139.62233,
+                        35.647999
+                    ],
+                    [
+                        139.624084,
+                        35.650131
+                    ],
+                    [
+                        139.624344,
+                        35.648521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

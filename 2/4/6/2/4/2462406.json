@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2462406,
+    "properties": {
+        "woe_id": 2462406,
+        "place_id": "pI.etsmbBZpShPIi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nottingham Manor, Newark, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525591,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2462406_20101216_8429e650b7.tar.gz"
+        },
+        "bbox": [
+            -75.773391723633,
+            39.68335723877,
+            -75.76798248291,
+            39.687446594238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.768097,
+                        39.687447
+                    ],
+                    [
+                        -75.767982,
+                        39.687294
+                    ],
+                    [
+                        -75.769836,
+                        39.683357
+                    ],
+                    [
+                        -75.773392,
+                        39.686779
+                    ],
+                    [
+                        -75.768608,
+                        39.687225
+                    ],
+                    [
+                        -75.768097,
+                        39.687447
+                    ]
+                ]
+            ]
+        ]
+    }
+}

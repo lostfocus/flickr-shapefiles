@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28643836,
+    "properties": {
+        "woe_id": 28643836,
+        "place_id": "ZERI7x2bCZpr9PKLFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glen Eden South, Waitakere, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520340,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28643836_20101216_04781d9789.tar.gz"
+        },
+        "bbox": [
+            174.65916442871,
+            -36.889331817627,
+            174.66278076172,
+            -36.886390686035
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.662781,
+                        -36.886391
+                    ],
+                    [
+                        174.662781,
+                        -36.886665
+                    ],
+                    [
+                        174.662506,
+                        -36.886665
+                    ],
+                    [
+                        174.659164,
+                        -36.889332
+                    ],
+                    [
+                        174.662506,
+                        -36.886391
+                    ],
+                    [
+                        174.662781,
+                        -36.886391
+                    ]
+                ]
+            ]
+        ]
+    }
+}

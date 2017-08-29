@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28509068,
+    "properties": {
+        "woe_id": 28509068,
+        "place_id": "cBkbWH.bCZljWachug",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kyoeicho 2 Chome, Kitahiroshima-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434683,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28509068_20101215_76844181bc.tar.gz"
+        },
+        "bbox": [
+            141.5559387207,
+            42.987987518311,
+            141.55857849121,
+            42.989444732666
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.558243,
+                        42.989445
+                    ],
+                    [
+                        141.558578,
+                        42.989166
+                    ],
+                    [
+                        141.557297,
+                        42.988213
+                    ],
+                    [
+                        141.557098,
+                        42.987988
+                    ],
+                    [
+                        141.555939,
+                        42.988117
+                    ],
+                    [
+                        141.558243,
+                        42.989445
+                    ]
+                ]
+            ]
+        ]
+    }
+}

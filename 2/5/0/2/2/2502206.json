@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502206,
+    "properties": {
+        "woe_id": 2502206,
+        "place_id": "gFGwLhmbBJx96oMS",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunnyside, Romulus, MI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547482,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/2502206_20101217_47469778fe.tar.gz"
+        },
+        "bbox": [
+            -83.275276184082,
+            42.267219543457,
+            -83.268211364746,
+            42.269443511963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.268211,
+                        42.269142
+                    ],
+                    [
+                        -83.270531,
+                        42.26722
+                    ],
+                    [
+                        -83.275276,
+                        42.269444
+                    ],
+                    [
+                        -83.270538,
+                        42.267914
+                    ],
+                    [
+                        -83.268211,
+                        42.269142
+                    ]
+                ]
+            ]
+        ]
+    }
+}

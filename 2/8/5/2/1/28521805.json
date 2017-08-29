@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28521805,
+    "properties": {
+        "woe_id": 28521805,
+        "place_id": "y6btyL6bCZmEruXpdw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takahanacho 3 Chome, Saitama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540007,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28521805_20101216_695636d7e1.tar.gz"
+        },
+        "bbox": [
+            139.62812805176,
+            35.916831970215,
+            139.62884521484,
+            35.919780731201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.628845,
+                        35.919781
+                    ],
+                    [
+                        139.62883,
+                        35.919498
+                    ],
+                    [
+                        139.62883,
+                        35.919167
+                    ],
+                    [
+                        139.628662,
+                        35.916832
+                    ],
+                    [
+                        139.628128,
+                        35.919743
+                    ],
+                    [
+                        139.628845,
+                        35.919781
+                    ]
+                ]
+            ]
+        ]
+    }
+}

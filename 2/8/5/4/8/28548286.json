@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28548286,
+    "properties": {
+        "woe_id": 28548286,
+        "place_id": "4p0TI.CbCZlkFId3Zg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tsukisancho 3 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535523,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28548286_20101216_9a0e4701a9.tar.gz"
+        },
+        "bbox": [
+            136.87222290039,
+            35.089012145996,
+            136.87316894531,
+            35.09058380127
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.87265,
+                        35.090275
+                    ],
+                    [
+                        136.873001,
+                        35.089966
+                    ],
+                    [
+                        136.873169,
+                        35.089012
+                    ],
+                    [
+                        136.872818,
+                        35.089855
+                    ],
+                    [
+                        136.872223,
+                        35.090584
+                    ],
+                    [
+                        136.87265,
+                        35.090275
+                    ]
+                ]
+            ]
+        ]
+    }
+}

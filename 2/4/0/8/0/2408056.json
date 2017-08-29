@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2408056,
+    "properties": {
+        "woe_id": 2408056,
+        "place_id": "_MRYTaubBZzsAlNX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fuller, Frederick, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518448,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2408056_20101216_b1708cf748.tar.gz"
+        },
+        "bbox": [
+            -77.477180480957,
+            39.4123878479,
+            -77.472534179688,
+            39.417148590088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.473404,
+                        39.416615
+                    ],
+                    [
+                        -77.472534,
+                        39.414421
+                    ],
+                    [
+                        -77.472778,
+                        39.414165
+                    ],
+                    [
+                        -77.47718,
+                        39.412388
+                    ],
+                    [
+                        -77.473915,
+                        39.417149
+                    ],
+                    [
+                        -77.473404,
+                        39.416615
+                    ]
+                ]
+            ]
+        ]
+    }
+}

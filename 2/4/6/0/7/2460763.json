@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2460763,
+    "properties": {
+        "woe_id": 2460763,
+        "place_id": "6EUt33abBZphHOZB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Cape, Union Grove, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541683,
+        "alpha": 1.0e-5,
+        "points": 27,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2460763_20101216_08134c927b.tar.gz"
+        },
+        "bbox": [
+            -88.086944580078,
+            42.787086486816,
+            -88.080139160156,
+            42.791385650635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.082649,
+                        42.791096
+                    ],
+                    [
+                        -88.081146,
+                        42.791096
+                    ],
+                    [
+                        -88.080139,
+                        42.789722
+                    ],
+                    [
+                        -88.083145,
+                        42.787086
+                    ],
+                    [
+                        -88.086945,
+                        42.791386
+                    ],
+                    [
+                        -88.082649,
+                        42.791096
+                    ]
+                ]
+            ]
+        ]
+    }
+}

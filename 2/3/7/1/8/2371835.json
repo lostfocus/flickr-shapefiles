@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2371835,
+    "properties": {
+        "woe_id": 2371835,
+        "place_id": "eMRrCVqbAptVR55l",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bunnells, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247900041,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3198\/shapefiles\/2371835_20090718_ba08ebbbf2.tar.gz"
+        },
+        "bbox": [
+            -111.93795776367,
+            40.7688331604,
+            -111.93450164795,
+            40.771381378174
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.937958,
+                        40.770226
+                    ],
+                    [
+                        -111.93737,
+                        40.771381
+                    ],
+                    [
+                        -111.935471,
+                        40.769817
+                    ],
+                    [
+                        -111.934502,
+                        40.768833
+                    ],
+                    [
+                        -111.936523,
+                        40.769882
+                    ],
+                    [
+                        -111.937958,
+                        40.770226
+                    ]
+                ]
+            ]
+        ]
+    }
+}

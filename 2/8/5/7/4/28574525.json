@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28574525,
+    "properties": {
+        "woe_id": 28574525,
+        "place_id": "h0aJaSebCZn5wMuPpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Asahimachi 1 Chome, Iwakuni-shi, Yamaguchi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292509328,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/28574525_20101216_e955e32ca6.tar.gz"
+        },
+        "bbox": [
+            132.22477722168,
+            34.156116485596,
+            132.2303314209,
+            34.159404754639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.230331,
+                        34.158764
+                    ],
+                    [
+                        132.23024,
+                        34.157059
+                    ],
+                    [
+                        132.228516,
+                        34.156116
+                    ],
+                    [
+                        132.224777,
+                        34.158031
+                    ],
+                    [
+                        132.225006,
+                        34.159405
+                    ],
+                    [
+                        132.230331,
+                        34.158764
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28549619,
+    "properties": {
+        "woe_id": 28549619,
+        "place_id": "rIlXxZubCZmNxhwEKQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bunkyodai 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442187,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/28549619_20101215_81039a082f.tar.gz"
+        },
+        "bbox": [
+            136.99745178223,
+            35.17956161499,
+            137.00131225586,
+            35.181560516357
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.998611,
+                        35.181561
+                    ],
+                    [
+                        137.001312,
+                        35.179562
+                    ],
+                    [
+                        136.998886,
+                        35.180927
+                    ],
+                    [
+                        136.997452,
+                        35.180904
+                    ],
+                    [
+                        136.998428,
+                        35.181412
+                    ],
+                    [
+                        136.998611,
+                        35.181561
+                    ]
+                ]
+            ]
+        ]
+    }
+}

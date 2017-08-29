@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229473,
+    "properties": {
+        "woe_id": 20229473,
+        "place_id": "DoMyLZ.bAZ4kJvSGIg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Svanholmsvej, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441947,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20229473_20101215_afec4b51f3.tar.gz"
+        },
+        "bbox": [
+            12.552393913269,
+            55.6750831604,
+            12.554089546204,
+            55.675792694092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.553676,
+                        55.675083
+                    ],
+                    [
+                        12.552394,
+                        55.675262
+                    ],
+                    [
+                        12.553129,
+                        55.675793
+                    ],
+                    [
+                        12.55409,
+                        55.675453
+                    ],
+                    [
+                        12.553757,
+                        55.675083
+                    ],
+                    [
+                        12.553676,
+                        55.675083
+                    ]
+                ]
+            ]
+        ]
+    }
+}

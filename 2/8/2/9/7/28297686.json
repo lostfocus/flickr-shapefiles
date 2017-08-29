@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297686,
+    "properties": {
+        "woe_id": 28297686,
+        "place_id": "h5zChN2bCZ7gGICX5Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Greendale, Rockford, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537110,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/28297686_20101216_767dcf1c15.tar.gz"
+        },
+        "bbox": [
+            -89.055374145508,
+            42.222679138184,
+            -89.055267333984,
+            42.222690582275
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.055283,
+                        42.222679
+                    ],
+                    [
+                        -89.055374,
+                        42.222691
+                    ],
+                    [
+                        -89.055344,
+                        42.222691
+                    ],
+                    [
+                        -89.055267,
+                        42.222679
+                    ],
+                    [
+                        -89.055275,
+                        42.222679
+                    ],
+                    [
+                        -89.055283,
+                        42.222679
+                    ]
+                ]
+            ]
+        ]
+    }
+}

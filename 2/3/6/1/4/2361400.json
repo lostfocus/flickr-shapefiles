@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2361400,
+    "properties": {
+        "woe_id": 2361400,
+        "place_id": "DJKzq9qbApqnq5U8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beechwood, Kewaskum, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527490,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/2361400_20101216_21aa5e4c75.tar.gz"
+        },
+        "bbox": [
+            -88.120628356934,
+            43.595932006836,
+            -88.118759155273,
+            43.60094833374
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.118759,
+                        43.595932
+                    ],
+                    [
+                        -88.120628,
+                        43.597202
+                    ],
+                    [
+                        -88.120041,
+                        43.600948
+                    ],
+                    [
+                        -88.119362,
+                        43.596989
+                    ],
+                    [
+                        -88.118759,
+                        43.595932
+                    ]
+                ]
+            ]
+        ]
+    }
+}

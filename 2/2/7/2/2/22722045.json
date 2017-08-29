@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22722045,
+    "properties": {
+        "woe_id": 22722045,
+        "place_id": "wLZL2wCbA5sxYpZ4nQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tapping, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524359,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/22722045_20101216_650f0607c8.tar.gz"
+        },
+        "bbox": [
+            115.78233337402,
+            -31.720523834229,
+            115.79119873047,
+            -31.715440750122
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.785423,
+                        -31.718092
+                    ],
+                    [
+                        115.788948,
+                        -31.715441
+                    ],
+                    [
+                        115.791199,
+                        -31.719387
+                    ],
+                    [
+                        115.785583,
+                        -31.720524
+                    ],
+                    [
+                        115.782333,
+                        -31.719023
+                    ],
+                    [
+                        115.785423,
+                        -31.718092
+                    ]
+                ]
+            ]
+        ]
+    }
+}

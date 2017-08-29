@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483323,
+    "properties": {
+        "woe_id": 2483323,
+        "place_id": "OVUhf8abBZR_19fI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockdale Mills, West Stockbridge, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248075380,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3528\/shapefiles\/2483323_20090720_bc0c8987e6.tar.gz"
+        },
+        "bbox": [
+            -73.378524780273,
+            42.284271240234,
+            -73.35302734375,
+            42.300674438477
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.378525,
+                        42.294468
+                    ],
+                    [
+                        -73.378372,
+                        42.300674
+                    ],
+                    [
+                        -73.371849,
+                        42.294704
+                    ],
+                    [
+                        -73.353027,
+                        42.284271
+                    ],
+                    [
+                        -73.373756,
+                        42.288517
+                    ],
+                    [
+                        -73.378525,
+                        42.294468
+                    ]
+                ]
+            ]
+        ]
+    }
+}

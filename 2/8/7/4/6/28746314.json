@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28746314,
+    "properties": {
+        "woe_id": 28746314,
+        "place_id": ".zAwRz2bCZtvdAr5Iw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Bomoseen, Fair Haven, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234731364,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3438\/shapefiles\/28746314_20090215_df62e19aa9.tar.gz"
+        },
+        "bbox": [
+            -73.240188598633,
+            43.651664733887,
+            -73.225074768066,
+            43.661197662354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.232544,
+                        43.66011
+                    ],
+                    [
+                        -73.225075,
+                        43.653961
+                    ],
+                    [
+                        -73.226669,
+                        43.653934
+                    ],
+                    [
+                        -73.240189,
+                        43.651665
+                    ],
+                    [
+                        -73.235634,
+                        43.661198
+                    ],
+                    [
+                        -73.232544,
+                        43.66011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2371987,
+    "properties": {
+        "woe_id": 2371987,
+        "place_id": "oYSN8WybApuW4OBt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burke Center, Burke, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444544,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/2371987_20101215_9d7a499362.tar.gz"
+        },
+        "bbox": [
+            -74.235511779785,
+            44.927997589111,
+            -74.235069274902,
+            44.928615570068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.235512,
+                        44.927998
+                    ],
+                    [
+                        -74.235466,
+                        44.928379
+                    ],
+                    [
+                        -74.235458,
+                        44.928616
+                    ],
+                    [
+                        -74.235069,
+                        44.928471
+                    ],
+                    [
+                        -74.235298,
+                        44.928173
+                    ],
+                    [
+                        -74.235512,
+                        44.927998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

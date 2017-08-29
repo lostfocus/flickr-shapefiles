@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559667,
+    "properties": {
+        "woe_id": 28559667,
+        "place_id": "zPdOaHWbCZlrxgigCg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamihonmachi 1 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435222,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28559667_20101215_782243af99.tar.gz"
+        },
+        "bbox": [
+            135.50840759277,
+            34.682231903076,
+            135.50991821289,
+            34.683353424072
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.508423,
+                        34.682232
+                    ],
+                    [
+                        135.508408,
+                        34.682281
+                    ],
+                    [
+                        135.508453,
+                        34.682415
+                    ],
+                    [
+                        135.509003,
+                        34.682999
+                    ],
+                    [
+                        135.509918,
+                        34.683353
+                    ],
+                    [
+                        135.508423,
+                        34.682232
+                    ]
+                ]
+            ]
+        ]
+    }
+}

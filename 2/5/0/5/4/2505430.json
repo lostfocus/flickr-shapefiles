@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2505430,
+    "properties": {
+        "woe_id": 2505430,
+        "place_id": "wJD87ZebBJxCtroV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Plantation, Hampton, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456811,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2505430_20101215_303ff5499d.tar.gz"
+        },
+        "bbox": [
+            -70.807464599609,
+            42.925067901611,
+            -70.8046875,
+            42.931888580322
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.807465,
+                        42.927574
+                    ],
+                    [
+                        -70.806648,
+                        42.931889
+                    ],
+                    [
+                        -70.806221,
+                        42.928642
+                    ],
+                    [
+                        -70.804688,
+                        42.925068
+                    ],
+                    [
+                        -70.807465,
+                        42.927574
+                    ]
+                ]
+            ]
+        ]
+    }
+}

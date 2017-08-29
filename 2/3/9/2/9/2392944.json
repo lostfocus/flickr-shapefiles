@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2392944,
+    "properties": {
+        "woe_id": 2392944,
+        "place_id": "U63LVGabApU50gtU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Door Creek, Cottage Grove, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546063,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2392944_20101217_7bac0264f9.tar.gz"
+        },
+        "bbox": [
+            -89.223571777344,
+            43.02453994751,
+            -89.22151184082,
+            43.025951385498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.22348,
+                        43.025188
+                    ],
+                    [
+                        -89.223572,
+                        43.025654
+                    ],
+                    [
+                        -89.221802,
+                        43.025951
+                    ],
+                    [
+                        -89.221512,
+                        43.024887
+                    ],
+                    [
+                        -89.222542,
+                        43.02454
+                    ],
+                    [
+                        -89.22348,
+                        43.025188
+                    ]
+                ]
+            ]
+        ]
+    }
+}

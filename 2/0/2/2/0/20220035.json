@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 20220035,
+    "properties": {
+        "woe_id": 20220035,
+        "place_id": "BenPo5ibAZ6W.BTEug",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zona Residencial El Brillante, Cordoba, Andalusia, ES, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532881,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5286\/shapefiles\/20220035_20101216_513aefe0c3.tar.gz"
+        },
+        "bbox": [
+            -4.8048892021179,
+            37.912498474121,
+            -4.8034710884094,
+            37.914562225342
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.804784,
+                        37.912609
+                    ],
+                    [
+                        -4.804889,
+                        37.912689
+                    ],
+                    [
+                        -4.803471,
+                        37.914562
+                    ],
+                    [
+                        -4.804492,
+                        37.912498
+                    ],
+                    [
+                        -4.804784,
+                        37.912609
+                    ]
+                ]
+            ]
+        ]
+    }
+}

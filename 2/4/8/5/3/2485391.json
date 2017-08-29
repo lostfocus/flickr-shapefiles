@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2485391,
+    "properties": {
+        "woe_id": 2485391,
+        "place_id": "A8XURWebBZRX32oW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roy, Keenesburg, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536059,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2485391_20101216_de8f7677ca.tar.gz"
+        },
+        "bbox": [
+            -104.52220916748,
+            40.106174468994,
+            -104.51978302002,
+            40.113067626953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.521523,
+                        40.108295
+                    ],
+                    [
+                        -104.520706,
+                        40.113068
+                    ],
+                    [
+                        -104.519783,
+                        40.108734
+                    ],
+                    [
+                        -104.520233,
+                        40.106781
+                    ],
+                    [
+                        -104.522209,
+                        40.106174
+                    ],
+                    [
+                        -104.521523,
+                        40.108295
+                    ]
+                ]
+            ]
+        ]
+    }
+}

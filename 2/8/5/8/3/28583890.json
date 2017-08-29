@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28583890,
+    "properties": {
+        "woe_id": 28583890,
+        "place_id": "s1m0XZSbCZmC42m0Ow",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Argenton, Newcastle, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463968,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28583890_20101216_35944f95f8.tar.gz"
+        },
+        "bbox": [
+            151.63888549805,
+            -32.934963226318,
+            151.6414642334,
+            -32.930076599121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.639267,
+                        -32.930264
+                    ],
+                    [
+                        151.638885,
+                        -32.930077
+                    ],
+                    [
+                        151.640274,
+                        -32.933704
+                    ],
+                    [
+                        151.641464,
+                        -32.934517
+                    ],
+                    [
+                        151.639938,
+                        -32.934963
+                    ],
+                    [
+                        151.640274,
+                        -32.933704
+                    ],
+                    [
+                        151.639267,
+                        -32.930264
+                    ]
+                ]
+            ]
+        ]
+    }
+}

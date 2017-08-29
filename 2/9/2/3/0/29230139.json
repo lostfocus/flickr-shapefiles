@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 29230139,
+    "properties": {
+        "woe_id": 29230139,
+        "place_id": "qtIjeHObCJ4LzvOKSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkview, Milwaukee, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518829,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/29230139_20101216_8321bc8a39.tar.gz"
+        },
+        "bbox": [
+            -87.938064575195,
+            43.04585647583,
+            -87.929916381836,
+            43.051361083984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.930298,
+                        43.048763
+                    ],
+                    [
+                        -87.930206,
+                        43.048599
+                    ],
+                    [
+                        -87.929916,
+                        43.045925
+                    ],
+                    [
+                        -87.935646,
+                        43.045856
+                    ],
+                    [
+                        -87.938065,
+                        43.048927
+                    ],
+                    [
+                        -87.934357,
+                        43.051361
+                    ],
+                    [
+                        -87.930298,
+                        43.048763
+                    ]
+                ]
+            ]
+        ]
+    }
+}

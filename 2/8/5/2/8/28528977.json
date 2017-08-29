@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528977,
+    "properties": {
+        "woe_id": 28528977,
+        "place_id": "ZygzbDObCZk5AVn2gA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagasaki 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442123,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28528977_20101215_7c2f7c6a61.tar.gz"
+        },
+        "bbox": [
+            139.69149780273,
+            35.727108001709,
+            139.69296264648,
+            35.72827911377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.692963,
+                        35.727371
+                    ],
+                    [
+                        139.692932,
+                        35.727192
+                    ],
+                    [
+                        139.692749,
+                        35.727211
+                    ],
+                    [
+                        139.691498,
+                        35.727108
+                    ],
+                    [
+                        139.692673,
+                        35.728279
+                    ],
+                    [
+                        139.692963,
+                        35.727371
+                    ]
+                ]
+            ]
+        ]
+    }
+}

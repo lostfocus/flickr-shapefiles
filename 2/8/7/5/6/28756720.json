@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28756720,
+    "properties": {
+        "woe_id": 28756720,
+        "place_id": "TGG4rYWbCZvry3CSww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\u5168\u5fb7\u91cc, Taipei City, Taipei City, TW, Taiwan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514666,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/28756720_20101216_9d647a942e.tar.gz"
+        },
+        "bbox": [
+            121.49711608887,
+            25.023735046387,
+            121.49894714355,
+            25.025884628296
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        121.497116,
+                        25.02438
+                    ],
+                    [
+                        121.49733,
+                        25.025013
+                    ],
+                    [
+                        121.497459,
+                        25.025885
+                    ],
+                    [
+                        121.498947,
+                        25.024437
+                    ],
+                    [
+                        121.498093,
+                        25.023735
+                    ],
+                    [
+                        121.497116,
+                        25.02438
+                    ]
+                ]
+            ]
+        ]
+    }
+}

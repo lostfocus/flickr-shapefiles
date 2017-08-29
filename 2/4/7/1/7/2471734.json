@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2471734,
+    "properties": {
+        "woe_id": 2471734,
+        "place_id": "4AKTS1ObBZuafiKq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pike Corner, Casco, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527507,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2471734_20101216_be91f337d3.tar.gz"
+        },
+        "bbox": [
+            -70.517486572266,
+            43.989665985107,
+            -70.510498046875,
+            43.99312210083
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.513268,
+                        43.992512
+                    ],
+                    [
+                        -70.510498,
+                        43.989742
+                    ],
+                    [
+                        -70.511002,
+                        43.989666
+                    ],
+                    [
+                        -70.513458,
+                        43.991325
+                    ],
+                    [
+                        -70.517487,
+                        43.993122
+                    ],
+                    [
+                        -70.513268,
+                        43.992512
+                    ]
+                ]
+            ]
+        ]
+    }
+}

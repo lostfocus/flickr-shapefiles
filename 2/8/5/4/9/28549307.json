@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28549307,
+    "properties": {
+        "woe_id": 28549307,
+        "place_id": "7CYge3ObCZmHu3MXwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Narumicho Azakamatogi, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435102,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/28549307_20101215_95ca330e37.tar.gz"
+        },
+        "bbox": [
+            136.96687316895,
+            35.068534851074,
+            136.9676361084,
+            35.069755554199
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.967361,
+                        35.068535
+                    ],
+                    [
+                        136.966873,
+                        35.068756
+                    ],
+                    [
+                        136.966919,
+                        35.068859
+                    ],
+                    [
+                        136.967575,
+                        35.069756
+                    ],
+                    [
+                        136.967636,
+                        35.069237
+                    ],
+                    [
+                        136.967361,
+                        35.068535
+                    ]
+                ]
+            ]
+        ]
+    }
+}

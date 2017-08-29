@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28496729,
+    "properties": {
+        "woe_id": 28496729,
+        "place_id": "W1Dy0HebCZif8gy23A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yurigahara 5 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455157,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/28496729_20101215_fa26dc1b80.tar.gz"
+        },
+        "bbox": [
+            141.36413574219,
+            43.129081726074,
+            141.3653717041,
+            43.130306243896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.364914,
+                        43.129082
+                    ],
+                    [
+                        141.364502,
+                        43.129166
+                    ],
+                    [
+                        141.364136,
+                        43.129307
+                    ],
+                    [
+                        141.365372,
+                        43.130306
+                    ],
+                    [
+                        141.365112,
+                        43.129082
+                    ],
+                    [
+                        141.364914,
+                        43.129082
+                    ]
+                ]
+            ]
+        ]
+    }
+}

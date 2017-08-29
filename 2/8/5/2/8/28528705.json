@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528705,
+    "properties": {
+        "woe_id": 28528705,
+        "place_id": "yxjEI4ybCZlsCbcQSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Honmachi 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442122,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/28528705_20101215_dbecc2530e.tar.gz"
+        },
+        "bbox": [
+            139.67845153809,
+            35.684867858887,
+            139.6815032959,
+            35.688095092773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.678864,
+                        35.684868
+                    ],
+                    [
+                        139.678452,
+                        35.687717
+                    ],
+                    [
+                        139.679077,
+                        35.688095
+                    ],
+                    [
+                        139.681503,
+                        35.6875
+                    ],
+                    [
+                        139.680496,
+                        35.684978
+                    ],
+                    [
+                        139.678864,
+                        35.684868
+                    ]
+                ]
+            ]
+        ]
+    }
+}

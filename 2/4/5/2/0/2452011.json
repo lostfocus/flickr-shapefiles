@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2452011,
+    "properties": {
+        "woe_id": 2452011,
+        "place_id": "QuJLF0KbBZlv6DgC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minersville, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525588,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2452011_20101216_53b24e4642.tar.gz"
+        },
+        "bbox": [
+            -76.63818359375,
+            39.256607055664,
+            -76.636756896973,
+            39.257102966309
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.636757,
+                        39.256607
+                    ],
+                    [
+                        -76.638184,
+                        39.256626
+                    ],
+                    [
+                        -76.637611,
+                        39.256954
+                    ],
+                    [
+                        -76.636833,
+                        39.257103
+                    ],
+                    [
+                        -76.636757,
+                        39.256607
+                    ]
+                ]
+            ]
+        ]
+    }
+}

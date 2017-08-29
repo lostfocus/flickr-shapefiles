@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28573806,
+    "properties": {
+        "woe_id": 28573806,
+        "place_id": "7mpnBlObCZkepwbmwA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Taibi 2 Chome, Saka-cho, Hiroshima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551025,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/28573806_20101217_98ce360ac2.tar.gz"
+        },
+        "bbox": [
+            132.48095703125,
+            34.339351654053,
+            132.4846496582,
+            34.342300415039
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.48172,
+                        34.340389
+                    ],
+                    [
+                        132.480957,
+                        34.3423
+                    ],
+                    [
+                        132.482071,
+                        34.341736
+                    ],
+                    [
+                        132.48465,
+                        34.339397
+                    ],
+                    [
+                        132.48259,
+                        34.339352
+                    ],
+                    [
+                        132.48172,
+                        34.340389
+                    ]
+                ]
+            ]
+        ]
+    }
+}

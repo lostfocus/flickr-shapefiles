@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2438077,
+    "properties": {
+        "woe_id": 2438077,
+        "place_id": "xXACF0mbBZ9FlrlX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Leidytown, Hilltown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532521,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2438077_20101216_3a028fea1a.tar.gz"
+        },
+        "bbox": [
+            -75.253387451172,
+            40.308708190918,
+            -75.248794555664,
+            40.311637878418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.248795,
+                        40.311176
+                    ],
+                    [
+                        -75.24884,
+                        40.311096
+                    ],
+                    [
+                        -75.253387,
+                        40.308708
+                    ],
+                    [
+                        -75.249649,
+                        40.311604
+                    ],
+                    [
+                        -75.249565,
+                        40.311638
+                    ],
+                    [
+                        -75.248795,
+                        40.311176
+                    ]
+                ]
+            ]
+        ]
+    }
+}

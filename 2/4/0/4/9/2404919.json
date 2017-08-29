@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2404919,
+    "properties": {
+        "woe_id": 2404919,
+        "place_id": "eav7oBGbBZx19bjc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ford, Moss Point, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522105,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2404919_20101216_049a4c212f.tar.gz"
+        },
+        "bbox": [
+            -88.526992797852,
+            30.434755325317,
+            -88.524681091309,
+            30.43553352356
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.524879,
+                        30.434902
+                    ],
+                    [
+                        -88.526993,
+                        30.435534
+                    ],
+                    [
+                        -88.52504,
+                        30.435371
+                    ],
+                    [
+                        -88.524681,
+                        30.434755
+                    ],
+                    [
+                        -88.524841,
+                        30.434874
+                    ],
+                    [
+                        -88.524879,
+                        30.434902
+                    ]
+                ]
+            ]
+        ]
+    }
+}

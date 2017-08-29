@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229172,
+    "properties": {
+        "woe_id": 20229172,
+        "place_id": "ztHsuf2bAZ7wL4IjWg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Forchhammersvej, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543908,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/20229172_20101216_d1fc73f8c2.tar.gz"
+        },
+        "bbox": [
+            12.551833152771,
+            55.679332733154,
+            12.552501678467,
+            55.680168151855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.551833,
+                        55.680168
+                    ],
+                    [
+                        12.552233,
+                        55.680038
+                    ],
+                    [
+                        12.552502,
+                        55.679871
+                    ],
+                    [
+                        12.552,
+                        55.679333
+                    ],
+                    [
+                        12.551903,
+                        55.679672
+                    ],
+                    [
+                        12.551833,
+                        55.680168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

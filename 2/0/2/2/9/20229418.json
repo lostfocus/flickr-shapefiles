@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229418,
+    "properties": {
+        "woe_id": 20229418,
+        "place_id": "jzilSWubAZ6X9MBVqA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St. Pauls Cade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517825,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/20229418_20101216_a40c09f1ff.tar.gz"
+        },
+        "bbox": [
+            12.586382865906,
+            55.687030792236,
+            12.58775138855,
+            55.688018798828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.587751,
+                        55.687408
+                    ],
+                    [
+                        12.587714,
+                        55.687031
+                    ],
+                    [
+                        12.586833,
+                        55.687164
+                    ],
+                    [
+                        12.586383,
+                        55.687359
+                    ],
+                    [
+                        12.586963,
+                        55.688019
+                    ],
+                    [
+                        12.587751,
+                        55.687408
+                    ]
+                ]
+            ]
+        ]
+    }
+}

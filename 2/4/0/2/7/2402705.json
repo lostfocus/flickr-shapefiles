@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2402705,
+    "properties": {
+        "woe_id": 2402705,
+        "place_id": "9M_cqhmbBZzkb4th",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fayette, Lindsay, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469189,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/2402705_20101216_2fdce332e0.tar.gz"
+        },
+        "bbox": [
+            -119.07307434082,
+            36.209270477295,
+            -119.0728302002,
+            36.209743499756
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -119.07283,
+                        36.209618
+                    ],
+                    [
+                        -119.072861,
+                        36.209446
+                    ],
+                    [
+                        -119.07299,
+                        36.20927
+                    ],
+                    [
+                        -119.073074,
+                        36.209538
+                    ],
+                    [
+                        -119.073029,
+                        36.209743
+                    ],
+                    [
+                        -119.07283,
+                        36.209618
+                    ]
+                ]
+            ]
+        ]
+    }
+}

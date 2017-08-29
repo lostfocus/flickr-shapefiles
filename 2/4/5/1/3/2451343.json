@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451343,
+    "properties": {
+        "woe_id": 2451343,
+        "place_id": "C2q4NNybBZkXZnxM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millerama View, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542273,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/2451343_20101216_3a36b0cdbf.tar.gz"
+        },
+        "bbox": [
+            -111.96492004395,
+            40.670185089111,
+            -111.95867919922,
+            40.67504119873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.960594,
+                        40.674061
+                    ],
+                    [
+                        -111.958679,
+                        40.670185
+                    ],
+                    [
+                        -111.960747,
+                        40.670776
+                    ],
+                    [
+                        -111.96492,
+                        40.671722
+                    ],
+                    [
+                        -111.964073,
+                        40.675041
+                    ],
+                    [
+                        -111.960594,
+                        40.674061
+                    ]
+                ]
+            ]
+        ]
+    }
+}

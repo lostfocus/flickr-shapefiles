@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381925,
+    "properties": {
+        "woe_id": 2381925,
+        "place_id": "5x_vYZibApSH4PJZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clover, Cumberland, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542628,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2381925_20101216_46727dd128.tar.gz"
+        },
+        "bbox": [
+            -82.952453613281,
+            36.963821411133,
+            -82.951049804688,
+            36.964450836182
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.951065,
+                        36.964451
+                    ],
+                    [
+                        -82.95105,
+                        36.964443
+                    ],
+                    [
+                        -82.95105,
+                        36.964439
+                    ],
+                    [
+                        -82.951859,
+                        36.963821
+                    ],
+                    [
+                        -82.952454,
+                        36.964138
+                    ],
+                    [
+                        -82.951065,
+                        36.964451
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2516739,
+    "properties": {
+        "woe_id": 2516739,
+        "place_id": "APaXleabBJ3oUaFE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Brimfield, Palmer, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525236,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2516739_20101216_197b5c1d58.tar.gz"
+        },
+        "bbox": [
+            -72.29035949707,
+            42.175998687744,
+            -72.287696838379,
+            42.181072235107
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.28772,
+                        42.176651
+                    ],
+                    [
+                        -72.287697,
+                        42.175999
+                    ],
+                    [
+                        -72.289459,
+                        42.176079
+                    ],
+                    [
+                        -72.289375,
+                        42.178638
+                    ],
+                    [
+                        -72.290359,
+                        42.181072
+                    ],
+                    [
+                        -72.289291,
+                        42.180038
+                    ],
+                    [
+                        -72.28772,
+                        42.176651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

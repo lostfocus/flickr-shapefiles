@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2449630,
+    "properties": {
+        "woe_id": 2449630,
+        "place_id": "Rr5YgmybBZihgO7e",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Merlin, Phoenixville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234571522,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3335\/shapefiles\/2449630_20090214_8741d091e2.tar.gz"
+        },
+        "bbox": [
+            -75.589195251465,
+            40.084144592285,
+            -75.572418212891,
+            40.103580474854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.586884,
+                        40.084145
+                    ],
+                    [
+                        -75.589195,
+                        40.099838
+                    ],
+                    [
+                        -75.578125,
+                        40.103153
+                    ],
+                    [
+                        -75.572418,
+                        40.10358
+                    ],
+                    [
+                        -75.580788,
+                        40.087757
+                    ],
+                    [
+                        -75.586884,
+                        40.084145
+                    ]
+                ]
+            ]
+        ]
+    }
+}

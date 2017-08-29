@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2365056,
+    "properties": {
+        "woe_id": 2365056,
+        "place_id": "Kt9ByiKbApqqHkbp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Blackstone, Leechburg, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525458,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2365056_20101216_42b978334e.tar.gz"
+        },
+        "bbox": [
+            -79.63720703125,
+            40.667266845703,
+            -79.635932922363,
+            40.670043945312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.637207,
+                        40.66861
+                    ],
+                    [
+                        -79.637154,
+                        40.669025
+                    ],
+                    [
+                        -79.63652,
+                        40.670044
+                    ],
+                    [
+                        -79.635933,
+                        40.667965
+                    ],
+                    [
+                        -79.635963,
+                        40.667267
+                    ],
+                    [
+                        -79.637207,
+                        40.66861
+                    ]
+                ]
+            ]
+        ]
+    }
+}

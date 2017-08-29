@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2368768,
+    "properties": {
+        "woe_id": 2368768,
+        "place_id": "KGxlwtmbAprYswGr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Briarwood, Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536686,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2368768_20101216_3650067841.tar.gz"
+        },
+        "bbox": [
+            -80.906753540039,
+            34.083515167236,
+            -80.904563903809,
+            34.086345672607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.904564,
+                        34.085613
+                    ],
+                    [
+                        -80.906754,
+                        34.083515
+                    ],
+                    [
+                        -80.906708,
+                        34.085644
+                    ],
+                    [
+                        -80.906754,
+                        34.086346
+                    ],
+                    [
+                        -80.904564,
+                        34.085613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

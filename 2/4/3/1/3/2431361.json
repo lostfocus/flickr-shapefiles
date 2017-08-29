@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2431361,
+    "properties": {
+        "woe_id": 2431361,
+        "place_id": "ClSGVZCbBZ.wMt_b",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kemp Mill, Silver Spring, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454381,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/2431361_20101215_bd8b571f4c.tar.gz"
+        },
+        "bbox": [
+            -77.020988464355,
+            39.047664642334,
+            -77.01579284668,
+            39.050052642822
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.0205,
+                        39.047665
+                    ],
+                    [
+                        -77.020988,
+                        39.048119
+                    ],
+                    [
+                        -77.020988,
+                        39.048122
+                    ],
+                    [
+                        -77.015793,
+                        39.050053
+                    ],
+                    [
+                        -77.0205,
+                        39.047665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2392751,
+    "properties": {
+        "woe_id": 2392751,
+        "place_id": "66gXOQebApVlWOS6",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dolores, Long Beach, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528264,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/2392751_20101216_9ce32b75e7.tar.gz"
+        },
+        "bbox": [
+            -118.22868347168,
+            33.829883575439,
+            -118.22406768799,
+            33.835632324219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.225136,
+                        33.833141
+                    ],
+                    [
+                        -118.228081,
+                        33.829884
+                    ],
+                    [
+                        -118.228683,
+                        33.829926
+                    ],
+                    [
+                        -118.227997,
+                        33.835632
+                    ],
+                    [
+                        -118.224068,
+                        33.833447
+                    ],
+                    [
+                        -118.224098,
+                        33.833126
+                    ],
+                    [
+                        -118.225136,
+                        33.833141
+                    ]
+                ]
+            ]
+        ]
+    }
+}

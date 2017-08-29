@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2472033,
+    "properties": {
+        "woe_id": 2472033,
+        "place_id": "1tRp52CbBZsckJDr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Forest, Athens, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522469,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2472033_20101216_d3d77e021f.tar.gz"
+        },
+        "bbox": [
+            -83.429061889648,
+            33.954574584961,
+            -83.421165466309,
+            33.957370758057
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.424202,
+                        33.957066
+                    ],
+                    [
+                        -83.428802,
+                        33.954575
+                    ],
+                    [
+                        -83.429062,
+                        33.955711
+                    ],
+                    [
+                        -83.424202,
+                        33.957371
+                    ],
+                    [
+                        -83.421165,
+                        33.955536
+                    ],
+                    [
+                        -83.424194,
+                        33.957062
+                    ],
+                    [
+                        -83.424202,
+                        33.957066
+                    ]
+                ]
+            ]
+        ]
+    }
+}

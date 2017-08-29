@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2511028,
+    "properties": {
+        "woe_id": 2511028,
+        "place_id": "35bx7IObBJ1BQFuK",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley West, West Jordan, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540322,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2511028_20101216_794b1db7a0.tar.gz"
+        },
+        "bbox": [
+            -111.9760055542,
+            40.586059570312,
+            -111.97463226318,
+            40.590026855469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.976006,
+                        40.589939
+                    ],
+                    [
+                        -111.975792,
+                        40.590027
+                    ],
+                    [
+                        -111.975319,
+                        40.589561
+                    ],
+                    [
+                        -111.974632,
+                        40.588306
+                    ],
+                    [
+                        -111.9748,
+                        40.58606
+                    ],
+                    [
+                        -111.976006,
+                        40.589939
+                    ]
+                ]
+            ]
+        ]
+    }
+}

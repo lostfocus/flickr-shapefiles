@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425339,
+    "properties": {
+        "woe_id": 2425339,
+        "place_id": "F68K0QCbBZ7PCBoA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Huffaker, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519904,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2425339_20101216_fc5cded3df.tar.gz"
+        },
+        "bbox": [
+            -111.86376953125,
+            40.665069580078,
+            -111.86055755615,
+            40.667682647705
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.86377,
+                        40.665844
+                    ],
+                    [
+                        -111.862816,
+                        40.667683
+                    ],
+                    [
+                        -111.86097,
+                        40.665798
+                    ],
+                    [
+                        -111.860558,
+                        40.66507
+                    ],
+                    [
+                        -111.862495,
+                        40.665981
+                    ],
+                    [
+                        -111.86377,
+                        40.665844
+                    ]
+                ]
+            ]
+        ]
+    }
+}

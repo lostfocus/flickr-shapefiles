@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28532623,
+    "properties": {
+        "woe_id": 28532623,
+        "place_id": "uVjPHtebCZlxsd_yvw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tsunashimahigashi 4 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463543,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/28532623_20101216_801114437d.tar.gz"
+        },
+        "bbox": [
+            139.64079284668,
+            35.540721893311,
+            139.64636230469,
+            35.54333114624
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.642502,
+                        35.541164
+                    ],
+                    [
+                        139.640793,
+                        35.540722
+                    ],
+                    [
+                        139.641327,
+                        35.543331
+                    ],
+                    [
+                        139.642517,
+                        35.542942
+                    ],
+                    [
+                        139.646362,
+                        35.541515
+                    ],
+                    [
+                        139.642502,
+                        35.541164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28539471,
+    "properties": {
+        "woe_id": 28539471,
+        "place_id": "NtGZcfybCZkAW1ikGg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kokubo 4 Chome, Kofu-shi, Yamanashi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446141,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/28539471_20101215_7ce401cd86.tar.gz"
+        },
+        "bbox": [
+            138.56266784668,
+            35.633834838867,
+            138.56317138672,
+            35.634906768799
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.562668,
+                        35.633999
+                    ],
+                    [
+                        138.562668,
+                        35.634335
+                    ],
+                    [
+                        138.563171,
+                        35.634907
+                    ],
+                    [
+                        138.563095,
+                        35.634743
+                    ],
+                    [
+                        138.562836,
+                        35.633835
+                    ],
+                    [
+                        138.562668,
+                        35.633999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481027,
+    "properties": {
+        "woe_id": 2481027,
+        "place_id": "MYUdvFubBZT7pQl3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rickenbach, Leesport, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521228,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2481027_20101216_26bacc38fa.tar.gz"
+        },
+        "bbox": [
+            -75.973655700684,
+            40.444137573242,
+            -75.966339111328,
+            40.447353363037
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.968269,
+                        40.445728
+                    ],
+                    [
+                        -75.966339,
+                        40.447353
+                    ],
+                    [
+                        -75.968353,
+                        40.444939
+                    ],
+                    [
+                        -75.969345,
+                        40.444138
+                    ],
+                    [
+                        -75.973656,
+                        40.447067
+                    ],
+                    [
+                        -75.968269,
+                        40.445728
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28574176,
+    "properties": {
+        "woe_id": 28574176,
+        "place_id": "sfqxHKKbCZmJKPpzLg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uemachi 1 Chome, Ube-shi, Yamaguchi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489402,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/28574176_20101216_63a6239161.tar.gz"
+        },
+        "bbox": [
+            131.24049377441,
+            33.957168579102,
+            131.24250793457,
+            33.958168029785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        131.242371,
+                        33.957756
+                    ],
+                    [
+                        131.240997,
+                        33.957169
+                    ],
+                    [
+                        131.240555,
+                        33.95718
+                    ],
+                    [
+                        131.240494,
+                        33.957333
+                    ],
+                    [
+                        131.242508,
+                        33.958168
+                    ],
+                    [
+                        131.242371,
+                        33.957756
+                    ]
+                ]
+            ]
+        ]
+    }
+}

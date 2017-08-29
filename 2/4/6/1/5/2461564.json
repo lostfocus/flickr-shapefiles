@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2461564,
+    "properties": {
+        "woe_id": 2461564,
+        "place_id": "0Q41JwSbBZqnGoLa",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Rochester, Farmington, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514069,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2461564_20101216_b0f39dd92d.tar.gz"
+        },
+        "bbox": [
+            -71.001663208008,
+            43.323833465576,
+            -71.001167297363,
+            43.324001312256
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.001167,
+                        43.323833
+                    ],
+                    [
+                        -71.001663,
+                        43.323833
+                    ],
+                    [
+                        -71.001335,
+                        43.324001
+                    ],
+                    [
+                        -71.001167,
+                        43.324001
+                    ],
+                    [
+                        -71.001167,
+                        43.323833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

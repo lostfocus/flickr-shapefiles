@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28572273,
+    "properties": {
+        "woe_id": 28572273,
+        "place_id": "pS0xUfmbCZl9Pn5sHg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ozukanishi 5 Chome, Hiroshima-shi, Hiroshima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444805,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/28572273_20101215_d93b476222.tar.gz"
+        },
+        "bbox": [
+            132.39340209961,
+            34.440334320068,
+            132.39433288574,
+            34.442333221436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.393402,
+                        34.441387
+                    ],
+                    [
+                        132.393997,
+                        34.442333
+                    ],
+                    [
+                        132.394165,
+                        34.441833
+                    ],
+                    [
+                        132.394333,
+                        34.440769
+                    ],
+                    [
+                        132.393494,
+                        34.440334
+                    ],
+                    [
+                        132.393402,
+                        34.441387
+                    ]
+                ]
+            ]
+        ]
+    }
+}

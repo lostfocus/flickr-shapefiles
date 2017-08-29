@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2515073,
+    "properties": {
+        "woe_id": 2515073,
+        "place_id": "VqftvL6bBJ2Llb8H",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waterford, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525670,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2515073_20101216_6db3c98ab8.tar.gz"
+        },
+        "bbox": [
+            -84.282302856445,
+            33.943710327148,
+            -84.280807495117,
+            33.947845458984
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.281097,
+                        33.943768
+                    ],
+                    [
+                        -84.281189,
+                        33.94371
+                    ],
+                    [
+                        -84.282303,
+                        33.947845
+                    ],
+                    [
+                        -84.280807,
+                        33.944084
+                    ],
+                    [
+                        -84.281075,
+                        33.943794
+                    ],
+                    [
+                        -84.281097,
+                        33.943768
+                    ]
+                ]
+            ]
+        ]
+    }
+}

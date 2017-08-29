@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28568122,
+    "properties": {
+        "woe_id": 28568122,
+        "place_id": "6mCoLfSbCZkcSw6iDw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takasucho 2 Chome, Nishinomiya-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514491,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28568122_20101216_8e4c313f5f.tar.gz"
+        },
+        "bbox": [
+            135.36717224121,
+            34.703834533691,
+            135.37117004395,
+            34.709331512451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.367172,
+                        34.709
+                    ],
+                    [
+                        135.36734,
+                        34.709332
+                    ],
+                    [
+                        135.370499,
+                        34.706501
+                    ],
+                    [
+                        135.37117,
+                        34.705166
+                    ],
+                    [
+                        135.36734,
+                        34.703835
+                    ],
+                    [
+                        135.367172,
+                        34.709
+                    ]
+                ]
+            ]
+        ]
+    }
+}

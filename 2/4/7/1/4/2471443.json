@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2471443,
+    "properties": {
+        "woe_id": 2471443,
+        "place_id": "JCpVIn6bBZsk8s7w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Phylden, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529199,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2471443_20101216_2a75837769.tar.gz"
+        },
+        "bbox": [
+            -111.82494354248,
+            40.668201446533,
+            -111.82219696045,
+            40.670398712158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.823997,
+                        40.668201
+                    ],
+                    [
+                        -111.824944,
+                        40.669353
+                    ],
+                    [
+                        -111.823997,
+                        40.670399
+                    ],
+                    [
+                        -111.823242,
+                        40.670025
+                    ],
+                    [
+                        -111.822197,
+                        40.669701
+                    ],
+                    [
+                        -111.823997,
+                        40.668201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

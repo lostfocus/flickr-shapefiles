@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28560953,
+    "properties": {
+        "woe_id": 28560953,
+        "place_id": "rZMSHpWbCZmo4NzdyQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Izumicho 4 Chome, Suita-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526846,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28560953_20101216_d6d8437590.tar.gz"
+        },
+        "bbox": [
+            135.51150512695,
+            34.761604309082,
+            135.51167297363,
+            34.761833190918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.511612,
+                        34.761604
+                    ],
+                    [
+                        135.511505,
+                        34.761665
+                    ],
+                    [
+                        135.511505,
+                        34.761833
+                    ],
+                    [
+                        135.511673,
+                        34.761665
+                    ],
+                    [
+                        135.511627,
+                        34.761612
+                    ],
+                    [
+                        135.511612,
+                        34.761604
+                    ]
+                ]
+            ]
+        ]
+    }
+}

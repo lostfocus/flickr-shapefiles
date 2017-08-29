@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28525048,
+    "properties": {
+        "woe_id": 28525048,
+        "place_id": "VD3YcJObCZkdNrf3AQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ichikawa 3 Chome, Ichikawa-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292503142,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/28525048_20101216_b739b69aac.tar.gz"
+        },
+        "bbox": [
+            139.90110778809,
+            35.735576629639,
+            139.9056854248,
+            35.737937927246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.902374,
+                        35.737007
+                    ],
+                    [
+                        139.904648,
+                        35.737938
+                    ],
+                    [
+                        139.905685,
+                        35.735577
+                    ],
+                    [
+                        139.902161,
+                        35.735832
+                    ],
+                    [
+                        139.901108,
+                        35.73568
+                    ],
+                    [
+                        139.902374,
+                        35.737007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

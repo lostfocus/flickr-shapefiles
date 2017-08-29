@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533404,
+    "properties": {
+        "woe_id": 28533404,
+        "place_id": "FL355aibCZnXGR1GrA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Goshozuka 1 Chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457682,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/28533404_20101216_5ffc152d4b.tar.gz"
+        },
+        "bbox": [
+            139.57655334473,
+            35.605880737305,
+            139.57716369629,
+            35.606918334961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.577164,
+                        35.606167
+                    ],
+                    [
+                        139.577057,
+                        35.605881
+                    ],
+                    [
+                        139.57666,
+                        35.605999
+                    ],
+                    [
+                        139.576553,
+                        35.606918
+                    ],
+                    [
+                        139.577133,
+                        35.606499
+                    ],
+                    [
+                        139.577164,
+                        35.606167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

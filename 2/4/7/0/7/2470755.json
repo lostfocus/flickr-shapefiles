@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2470755,
+    "properties": {
+        "woe_id": 2470755,
+        "place_id": "sp9Y1QebBZv6SopM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Perrys Hollow, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454483,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2470755_20101215_4b9dd28d45.tar.gz"
+        },
+        "bbox": [
+            -111.85862731934,
+            40.782169342041,
+            -111.8536529541,
+            40.786796569824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.855629,
+                        40.786797
+                    ],
+                    [
+                        -111.855499,
+                        40.786667
+                    ],
+                    [
+                        -111.853653,
+                        40.784569
+                    ],
+                    [
+                        -111.858627,
+                        40.782169
+                    ],
+                    [
+                        -111.855408,
+                        40.785545
+                    ],
+                    [
+                        -111.855629,
+                        40.786797
+                    ]
+                ]
+            ]
+        ]
+    }
+}

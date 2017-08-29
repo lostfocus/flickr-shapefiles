@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28503210,
+    "properties": {
+        "woe_id": 28503210,
+        "place_id": "kei34QabCZmKIUZ13g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Aikokuhigashi 3 Chome, Kushiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481002,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28503210_20101216_6168f15fc3.tar.gz"
+        },
+        "bbox": [
+            144.38679504395,
+            43.004657745361,
+            144.38833618164,
+            43.007999420166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.387314,
+                        43.004936
+                    ],
+                    [
+                        144.387115,
+                        43.004742
+                    ],
+                    [
+                        144.387024,
+                        43.004658
+                    ],
+                    [
+                        144.386795,
+                        43.004662
+                    ],
+                    [
+                        144.388336,
+                        43.007999
+                    ],
+                    [
+                        144.387314,
+                        43.004936
+                    ]
+                ]
+            ]
+        ]
+    }
+}

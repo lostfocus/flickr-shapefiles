@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2522433,
+    "properties": {
+        "woe_id": 2522433,
+        "place_id": "U5_jYKSbBJ7Abn96",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wiscoy, Fillmore, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247959575,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3456\/shapefiles\/2522433_20090718_0dd7288e94.tar.gz"
+        },
+        "bbox": [
+            -78.082237243652,
+            42.504405975342,
+            -78.080947875977,
+            42.506778717041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.082169,
+                        42.504406
+                    ],
+                    [
+                        -78.082237,
+                        42.504692
+                    ],
+                    [
+                        -78.082237,
+                        42.506779
+                    ],
+                    [
+                        -78.080948,
+                        42.505768
+                    ],
+                    [
+                        -78.081253,
+                        42.504486
+                    ],
+                    [
+                        -78.082169,
+                        42.504406
+                    ]
+                ]
+            ]
+        ]
+    }
+}

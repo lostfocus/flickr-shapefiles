@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529649,
+    "properties": {
+        "woe_id": 28529649,
+        "place_id": "7u78j5ybCZn5iZ9beQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hanahata 7 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538975,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/28529649_20101216_582d1a7c5a.tar.gz"
+        },
+        "bbox": [
+            139.81787109375,
+            35.809146881104,
+            139.82014465332,
+            35.811908721924
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.817871,
+                        35.810108
+                    ],
+                    [
+                        139.819031,
+                        35.811909
+                    ],
+                    [
+                        139.819107,
+                        35.811859
+                    ],
+                    [
+                        139.820053,
+                        35.809711
+                    ],
+                    [
+                        139.820145,
+                        35.809147
+                    ],
+                    [
+                        139.817871,
+                        35.810108
+                    ]
+                ]
+            ]
+        ]
+    }
+}

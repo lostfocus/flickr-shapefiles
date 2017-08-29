@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28555246,
+    "properties": {
+        "woe_id": 28555246,
+        "place_id": "7e66D86bCZk3dgYIrw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Takenoyama 1 Chome, Nisshin-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452673,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/28555246_20101215_00352e0e99.tar.gz"
+        },
+        "bbox": [
+            137.03500366211,
+            35.154861450195,
+            137.03967285156,
+            35.158332824707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.035309,
+                        35.15601
+                    ],
+                    [
+                        137.035004,
+                        35.157501
+                    ],
+                    [
+                        137.036499,
+                        35.158333
+                    ],
+                    [
+                        137.039673,
+                        35.157665
+                    ],
+                    [
+                        137.036926,
+                        35.154861
+                    ],
+                    [
+                        137.035309,
+                        35.15601
+                    ]
+                ]
+            ]
+        ]
+    }
+}

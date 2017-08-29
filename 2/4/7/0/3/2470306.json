@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2470306,
+    "properties": {
+        "woe_id": 2470306,
+        "place_id": "XewCG9CbBZuwzRF6",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Penns Beach, Pennsville, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523283,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/2470306_20101216_28f34d0903.tar.gz"
+        },
+        "bbox": [
+            -75.529998779297,
+            39.631904602051,
+            -75.524963378906,
+            39.636428833008
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.529999,
+                        39.633381
+                    ],
+                    [
+                        -75.529846,
+                        39.633884
+                    ],
+                    [
+                        -75.526543,
+                        39.636429
+                    ],
+                    [
+                        -75.524963,
+                        39.631905
+                    ],
+                    [
+                        -75.529762,
+                        39.633373
+                    ],
+                    [
+                        -75.529999,
+                        39.633381
+                    ]
+                ]
+            ]
+        ]
+    }
+}

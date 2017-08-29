@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2524373,
+    "properties": {
+        "woe_id": 2524373,
+        "place_id": "0RFA1yGbBJ5JreIU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wyola, Newtown Square, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510943,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2524373_20101216_4fa8800bd4.tar.gz"
+        },
+        "bbox": [
+            -75.412986755371,
+            40.003391265869,
+            -75.410049438477,
+            40.008945465088
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.410049,
+                        40.006432
+                    ],
+                    [
+                        -75.410667,
+                        40.003391
+                    ],
+                    [
+                        -75.411697,
+                        40.005135
+                    ],
+                    [
+                        -75.412987,
+                        40.007565
+                    ],
+                    [
+                        -75.410416,
+                        40.008945
+                    ],
+                    [
+                        -75.410049,
+                        40.006432
+                    ]
+                ]
+            ]
+        ]
+    }
+}

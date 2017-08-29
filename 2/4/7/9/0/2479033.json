@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2479033,
+    "properties": {
+        "woe_id": 2479033,
+        "place_id": "KWXd3IqbBZtvFcEu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Raynor Acres, Bountiful, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451885,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2479033_20101215_1d189314fc.tar.gz"
+        },
+        "bbox": [
+            -111.8811416626,
+            40.889392852783,
+            -111.87963867188,
+            40.891948699951
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.880585,
+                        40.891689
+                    ],
+                    [
+                        -111.879639,
+                        40.89106
+                    ],
+                    [
+                        -111.880089,
+                        40.889393
+                    ],
+                    [
+                        -111.880302,
+                        40.88942
+                    ],
+                    [
+                        -111.881142,
+                        40.891949
+                    ],
+                    [
+                        -111.880585,
+                        40.891689
+                    ]
+                ]
+            ]
+        ]
+    }
+}

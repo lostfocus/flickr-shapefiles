@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23402484,
+    "properties": {
+        "woe_id": 23402484,
+        "place_id": "rzzfMxabApgNJw85IQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South River Heights, Winnipeg, MB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547206,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/23402484_20101217_ab450d5dcf.tar.gz"
+        },
+        "bbox": [
+            -97.182525634766,
+            49.848072052002,
+            -97.177421569824,
+            49.851875305176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -97.179138,
+                        49.850002
+                    ],
+                    [
+                        -97.181519,
+                        49.848072
+                    ],
+                    [
+                        -97.182526,
+                        49.84845
+                    ],
+                    [
+                        -97.178955,
+                        49.850471
+                    ],
+                    [
+                        -97.177422,
+                        49.851875
+                    ],
+                    [
+                        -97.179138,
+                        49.850002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

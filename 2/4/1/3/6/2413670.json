@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2413670,
+    "properties": {
+        "woe_id": 2413670,
+        "place_id": "tumbr86bBZ0pTAVF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Green Acre, Eliot, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522136,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2413670_20101216_84f7fb1de9.tar.gz"
+        },
+        "bbox": [
+            -70.797233581543,
+            43.111225128174,
+            -70.794456481934,
+            43.113014221191
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.797096,
+                        43.112122
+                    ],
+                    [
+                        -70.796455,
+                        43.113014
+                    ],
+                    [
+                        -70.794456,
+                        43.112041
+                    ],
+                    [
+                        -70.794868,
+                        43.111431
+                    ],
+                    [
+                        -70.797234,
+                        43.111225
+                    ],
+                    [
+                        -70.797096,
+                        43.112122
+                    ]
+                ]
+            ]
+        ]
+    }
+}

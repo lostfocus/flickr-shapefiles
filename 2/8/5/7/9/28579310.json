@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28579310,
+    "properties": {
+        "woe_id": 28579310,
+        "place_id": "2AmY6qWbCZmhFtYalQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kamitsu 1 Chome, Kurume-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463724,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/28579310_20101216_16615c3729.tar.gz"
+        },
+        "bbox": [
+            130.53674316406,
+            33.29097366333,
+            130.54252624512,
+            33.296421051025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.53978,
+                        33.290974
+                    ],
+                    [
+                        130.538666,
+                        33.292
+                    ],
+                    [
+                        130.536743,
+                        33.296421
+                    ],
+                    [
+                        130.541168,
+                        33.292999
+                    ],
+                    [
+                        130.542526,
+                        33.29216
+                    ],
+                    [
+                        130.53978,
+                        33.290974
+                    ]
+                ]
+            ]
+        ]
+    }
+}

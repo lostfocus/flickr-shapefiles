@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2421911,
+    "properties": {
+        "woe_id": 2421911,
+        "place_id": "sE1SVYebBZ5.Q5iz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillcrest, Anniston, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549751,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2421911_20101217_cb1fde472c.tar.gz"
+        },
+        "bbox": [
+            -85.821762084961,
+            33.693710327148,
+            -85.815826416016,
+            33.697635650635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.820389,
+                        33.695816
+                    ],
+                    [
+                        -85.821762,
+                        33.69371
+                    ],
+                    [
+                        -85.820381,
+                        33.696369
+                    ],
+                    [
+                        -85.817123,
+                        33.697636
+                    ],
+                    [
+                        -85.815826,
+                        33.696758
+                    ],
+                    [
+                        -85.820389,
+                        33.695816
+                    ]
+                ]
+            ]
+        ]
+    }
+}

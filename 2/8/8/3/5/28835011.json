@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28835011,
+    "properties": {
+        "woe_id": 28835011,
+        "place_id": "avGx4PGbCZQqvn5YMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Seonwon-Myeon, Incheon, Incheon, KR, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534069,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/28835011_20101216_f45a132063.tar.gz"
+        },
+        "bbox": [
+            126.51563262939,
+            37.729724884033,
+            126.51790618896,
+            37.733749389648
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        126.516647,
+                        37.733372
+                    ],
+                    [
+                        126.517502,
+                        37.733749
+                    ],
+                    [
+                        126.517906,
+                        37.733074
+                    ],
+                    [
+                        126.515633,
+                        37.729725
+                    ],
+                    [
+                        126.516319,
+                        37.733246
+                    ],
+                    [
+                        126.516647,
+                        37.733372
+                    ]
+                ]
+            ]
+        ]
+    }
+}

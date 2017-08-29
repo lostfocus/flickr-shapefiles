@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20220170,
+    "properties": {
+        "woe_id": 20220170,
+        "place_id": "a4mI4CmbAZ5i70TRmA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "San Carlos, Seville, Andalusia, ES, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523654,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/20220170_20101216_455b3af165.tar.gz"
+        },
+        "bbox": [
+            -5.9737730026245,
+            37.399505615234,
+            -5.9726572036743,
+            37.401664733887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.973334,
+                        37.401665
+                    ],
+                    [
+                        -5.972657,
+                        37.400475
+                    ],
+                    [
+                        -5.9727,
+                        37.40023
+                    ],
+                    [
+                        -5.973129,
+                        37.399506
+                    ],
+                    [
+                        -5.973773,
+                        37.399879
+                    ],
+                    [
+                        -5.973667,
+                        37.400997
+                    ],
+                    [
+                        -5.973334,
+                        37.401665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

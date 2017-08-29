@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534495,
+    "properties": {
+        "woe_id": 28534495,
+        "place_id": "UWL8AdybCZlrq8cUWA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sagamihara 1 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446087,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/28534495_20101215_8a8bb526f3.tar.gz"
+        },
+        "bbox": [
+            139.36964416504,
+            35.580760955811,
+            139.37196350098,
+            35.581878662109
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.369919,
+                        35.581856
+                    ],
+                    [
+                        139.371964,
+                        35.580868
+                    ],
+                    [
+                        139.371094,
+                        35.580761
+                    ],
+                    [
+                        139.370758,
+                        35.580936
+                    ],
+                    [
+                        139.369644,
+                        35.581879
+                    ],
+                    [
+                        139.369919,
+                        35.581856
+                    ]
+                ]
+            ]
+        ]
+    }
+}

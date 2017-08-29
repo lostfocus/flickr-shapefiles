@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2491923,
+    "properties": {
+        "woe_id": 2491923,
+        "place_id": "ehZ5EVebBZWFmSoz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shawmont, Philadelphia, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523345,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2491923_20101216_253480e5cd.tar.gz"
+        },
+        "bbox": [
+            -75.236831665039,
+            40.052410125732,
+            -75.232353210449,
+            40.058334350586
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.233002,
+                        40.057117
+                    ],
+                    [
+                        -75.232353,
+                        40.055416
+                    ],
+                    [
+                        -75.236259,
+                        40.05241
+                    ],
+                    [
+                        -75.23616,
+                        40.056805
+                    ],
+                    [
+                        -75.236832,
+                        40.058334
+                    ],
+                    [
+                        -75.233002,
+                        40.057117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

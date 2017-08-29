@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2405474,
+    "properties": {
+        "woe_id": 2405474,
+        "place_id": "3Q.AHV.bBZxkU0OD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fork Landing, Pennsauken, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451727,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2405474_20101215_8060216594.tar.gz"
+        },
+        "bbox": [
+            -75.011909484863,
+            39.978771209717,
+            -75.008766174316,
+            39.982574462891
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.008766,
+                        39.979588
+                    ],
+                    [
+                        -75.009155,
+                        39.978771
+                    ],
+                    [
+                        -75.011307,
+                        39.980885
+                    ],
+                    [
+                        -75.011909,
+                        39.982574
+                    ],
+                    [
+                        -75.008766,
+                        39.979588
+                    ]
+                ]
+            ]
+        ]
+    }
+}

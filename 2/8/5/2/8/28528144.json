@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528144,
+    "properties": {
+        "woe_id": 28528144,
+        "place_id": "bazVIQObCZn.4HfSww",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minami 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455199,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/28528144_20101215_22ec97b876.tar.gz"
+        },
+        "bbox": [
+            139.68803405762,
+            35.61349105835,
+            139.69055175781,
+            35.617160797119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.688553,
+                        35.617161
+                    ],
+                    [
+                        139.69043,
+                        35.614319
+                    ],
+                    [
+                        139.690552,
+                        35.613491
+                    ],
+                    [
+                        139.688034,
+                        35.615185
+                    ],
+                    [
+                        139.688538,
+                        35.617065
+                    ],
+                    [
+                        139.688553,
+                        35.617161
+                    ]
+                ]
+            ]
+        ]
+    }
+}

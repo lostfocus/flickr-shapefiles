@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2357211,
+    "properties": {
+        "woe_id": 2357211,
+        "place_id": "okM45vybApnCHdqE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Atwood, Stone Ridge, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444525,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2357211_20101215_1793e0d52f.tar.gz"
+        },
+        "bbox": [
+            -74.181251525879,
+            41.901702880859,
+            -74.181190490723,
+            41.901790618896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.181252,
+                        41.901703
+                    ],
+                    [
+                        -74.181229,
+                        41.901756
+                    ],
+                    [
+                        -74.181213,
+                        41.901779
+                    ],
+                    [
+                        -74.18119,
+                        41.901791
+                    ],
+                    [
+                        -74.181229,
+                        41.901703
+                    ],
+                    [
+                        -74.181252,
+                        41.901703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

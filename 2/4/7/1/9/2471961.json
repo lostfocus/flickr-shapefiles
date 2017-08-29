@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2471961,
+    "properties": {
+        "woe_id": 2471961,
+        "place_id": "EuR4lXKbBZsKQ5RJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Bush, Kerhonkson, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540773,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2471961_20101216_45b78ff0f4.tar.gz"
+        },
+        "bbox": [
+            -74.26586151123,
+            41.746395111084,
+            -74.261054992676,
+            41.748390197754
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.265251,
+                        41.747334
+                    ],
+                    [
+                        -74.265862,
+                        41.74839
+                    ],
+                    [
+                        -74.264359,
+                        41.747414
+                    ],
+                    [
+                        -74.261055,
+                        41.747494
+                    ],
+                    [
+                        -74.265007,
+                        41.746395
+                    ],
+                    [
+                        -74.265251,
+                        41.747334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

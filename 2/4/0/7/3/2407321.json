@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407321,
+    "properties": {
+        "woe_id": 2407321,
+        "place_id": "iOQstcCbBZyFfjpY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Freemanville, Reading, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531179,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2407321_20101216_b048f142ce.tar.gz"
+        },
+        "bbox": [
+            -75.952865600586,
+            40.272190093994,
+            -75.94930267334,
+            40.277568817139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.950264,
+                        40.276726
+                    ],
+                    [
+                        -75.949303,
+                        40.27219
+                    ],
+                    [
+                        -75.952866,
+                        40.273174
+                    ],
+                    [
+                        -75.951317,
+                        40.275776
+                    ],
+                    [
+                        -75.951477,
+                        40.277569
+                    ],
+                    [
+                        -75.950264,
+                        40.276726
+                    ]
+                ]
+            ]
+        ]
+    }
+}

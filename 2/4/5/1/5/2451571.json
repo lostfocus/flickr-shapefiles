@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2451571,
+    "properties": {
+        "woe_id": 2451571,
+        "place_id": "ALNI9cObBZkoYZ5C",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Millsboro, Mansfield, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541071,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2451571_20101216_3c24829c69.tar.gz"
+        },
+        "bbox": [
+            -82.641754150391,
+            40.760299682617,
+            -82.640579223633,
+            40.76131439209
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.640579,
+                        40.760517
+                    ],
+                    [
+                        -82.640656,
+                        40.7603
+                    ],
+                    [
+                        -82.641525,
+                        40.760513
+                    ],
+                    [
+                        -82.641754,
+                        40.761021
+                    ],
+                    [
+                        -82.641388,
+                        40.761314
+                    ],
+                    [
+                        -82.640579,
+                        40.760517
+                    ]
+                ]
+            ]
+        ]
+    }
+}

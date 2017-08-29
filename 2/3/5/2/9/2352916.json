@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2352916,
+    "properties": {
+        "woe_id": 2352916,
+        "place_id": "mERcxWqbApm11FUo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alderbrook, Mobile, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539751,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2352916_20101216_ea00cb224b.tar.gz"
+        },
+        "bbox": [
+            -88.272842407227,
+            30.634202957153,
+            -88.272003173828,
+            30.634536743164
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.272003,
+                        30.634203
+                    ],
+                    [
+                        -88.272232,
+                        30.634235
+                    ],
+                    [
+                        -88.272514,
+                        30.634369
+                    ],
+                    [
+                        -88.272842,
+                        30.634537
+                    ],
+                    [
+                        -88.272003,
+                        30.634247
+                    ],
+                    [
+                        -88.272003,
+                        30.634203
+                    ]
+                ]
+            ]
+        ]
+    }
+}

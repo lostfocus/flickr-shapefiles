@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533008,
+    "properties": {
+        "woe_id": 28533008,
+        "place_id": "noBGeIWbCZm7.UYKMQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nara 2 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538333,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/28533008_20101216_ea02743dee.tar.gz"
+        },
+        "bbox": [
+            139.49203491211,
+            35.55322265625,
+            139.49391174316,
+            35.553661346436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.492035,
+                        35.55328
+                    ],
+                    [
+                        139.492065,
+                        35.553356
+                    ],
+                    [
+                        139.492111,
+                        35.553394
+                    ],
+                    [
+                        139.493912,
+                        35.553661
+                    ],
+                    [
+                        139.492126,
+                        35.553223
+                    ],
+                    [
+                        139.492035,
+                        35.55328
+                    ]
+                ]
+            ]
+        ]
+    }
+}

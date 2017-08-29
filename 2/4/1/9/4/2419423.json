@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2419423,
+    "properties": {
+        "woe_id": 2419423,
+        "place_id": "1s6bInybBZ2jNqYT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Heath Manor, Trenton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239417731,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3343\/shapefiles\/2419423_20090411_fc08a60b4e.tar.gz"
+        },
+        "bbox": [
+            -74.764450073242,
+            40.25955581665,
+            -74.75952911377,
+            40.271469116211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.759529,
+                        40.265568
+                    ],
+                    [
+                        -74.76265,
+                        40.259556
+                    ],
+                    [
+                        -74.762299,
+                        40.264484
+                    ],
+                    [
+                        -74.76445,
+                        40.271469
+                    ],
+                    [
+                        -74.764099,
+                        40.271019
+                    ],
+                    [
+                        -74.759529,
+                        40.265568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

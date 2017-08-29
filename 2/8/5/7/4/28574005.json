@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28574005,
+    "properties": {
+        "woe_id": 28574005,
+        "place_id": "NcdVp1.bCZnMd3IDJg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chofusaigawa 2 Chome, Shimonoseki-shi, Yamaguchi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463550,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28574005_20101216_af3f613ec2.tar.gz"
+        },
+        "bbox": [
+            130.99822998047,
+            34.01880645752,
+            131.00512695312,
+            34.022403717041
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        131.001419,
+                        34.018806
+                    ],
+                    [
+                        131,
+                        34.019539
+                    ],
+                    [
+                        130.99823,
+                        34.019939
+                    ],
+                    [
+                        131.000946,
+                        34.020096
+                    ],
+                    [
+                        131.005127,
+                        34.022404
+                    ],
+                    [
+                        131.001419,
+                        34.018806
+                    ]
+                ]
+            ]
+        ]
+    }
+}

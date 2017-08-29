@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521214,
+    "properties": {
+        "woe_id": 2521214,
+        "place_id": "MAEYS4.bBJ6mTtw9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Willow Springs, Sussex, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532461,
+        "alpha": 1.0e-5,
+        "points": 33,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2521214_20101216_8bc76c1cf5.tar.gz"
+        },
+        "bbox": [
+            -88.198455810547,
+            43.090892791748,
+            -88.195922851562,
+            43.098682403564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.197128,
+                        43.095592
+                    ],
+                    [
+                        -88.195923,
+                        43.090893
+                    ],
+                    [
+                        -88.197212,
+                        43.095592
+                    ],
+                    [
+                        -88.198456,
+                        43.097286
+                    ],
+                    [
+                        -88.197868,
+                        43.098682
+                    ],
+                    [
+                        -88.197128,
+                        43.095592
+                    ]
+                ]
+            ]
+        ]
+    }
+}

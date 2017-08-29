@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2403152,
+    "properties": {
+        "woe_id": 2403152,
+        "place_id": "tcJWCJSbBZzRcdRj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ferrellton, Stoystown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229580135,
+        "alpha": 0.00015,
+        "points": 30,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3248\/shapefiles\/2403152_20081218_c408593077.tar.gz"
+        },
+        "bbox": [
+            -79.07283782959,
+            40.158405303955,
+            -79.059463500977,
+            40.168117523193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.059464,
+                        40.168118
+                    ],
+                    [
+                        -79.060753,
+                        40.1656
+                    ],
+                    [
+                        -79.065216,
+                        40.159294
+                    ],
+                    [
+                        -79.072838,
+                        40.158405
+                    ],
+                    [
+                        -79.060814,
+                        40.165901
+                    ],
+                    [
+                        -79.059464,
+                        40.168118
+                    ]
+                ]
+            ]
+        ]
+    }
+}

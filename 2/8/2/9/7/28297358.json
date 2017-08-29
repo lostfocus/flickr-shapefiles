@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297358,
+    "properties": {
+        "woe_id": 28297358,
+        "place_id": "Q6POpYabCZ6ueWS3Bg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Carl Sandburg Village, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531908,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/28297358_20101216_d345970e57.tar.gz"
+        },
+        "bbox": [
+            -87.63493347168,
+            41.905178070068,
+            -87.631607055664,
+            41.908855438232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.634613,
+                        41.908855
+                    ],
+                    [
+                        -87.631607,
+                        41.907803
+                    ],
+                    [
+                        -87.63311,
+                        41.906731
+                    ],
+                    [
+                        -87.634727,
+                        41.905178
+                    ],
+                    [
+                        -87.634933,
+                        41.908855
+                    ],
+                    [
+                        -87.634613,
+                        41.908855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432390,
+    "properties": {
+        "woe_id": 2432390,
+        "place_id": "KTZbRDubBZ.duvOC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kimbles Corner, Buxton, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546711,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/2432390_20101217_3eaac4033e.tar.gz"
+        },
+        "bbox": [
+            -70.583518981934,
+            43.690402984619,
+            -70.574157714844,
+            43.694267272949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.582062,
+                        43.694267
+                    ],
+                    [
+                        -70.579521,
+                        43.693066
+                    ],
+                    [
+                        -70.574158,
+                        43.693871
+                    ],
+                    [
+                        -70.579262,
+                        43.690403
+                    ],
+                    [
+                        -70.583519,
+                        43.693813
+                    ],
+                    [
+                        -70.582062,
+                        43.694267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531169,
+    "properties": {
+        "woe_id": 28531169,
+        "place_id": "MIZF2QCbCZll9KtTjQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Izumicho 3 Chome, Kokubunji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519164,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/28531169_20101216_7577827b5d.tar.gz"
+        },
+        "bbox": [
+            139.46347045898,
+            35.694667816162,
+            139.46656799316,
+            35.698883056641
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.46347,
+                        35.697681
+                    ],
+                    [
+                        139.463913,
+                        35.698444
+                    ],
+                    [
+                        139.464981,
+                        35.698883
+                    ],
+                    [
+                        139.466568,
+                        35.695454
+                    ],
+                    [
+                        139.464172,
+                        35.694668
+                    ],
+                    [
+                        139.46347,
+                        35.697681
+                    ]
+                ]
+            ]
+        ]
+    }
+}

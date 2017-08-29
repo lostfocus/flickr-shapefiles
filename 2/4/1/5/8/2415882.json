@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2415882,
+    "properties": {
+        "woe_id": 2415882,
+        "place_id": "5kIoM4ibBZ2tflTP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Haciendas del Lago, Scottsdale, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452622,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2415882_20101215_74d750a97f.tar.gz"
+        },
+        "bbox": [
+            -111.880859375,
+            33.57400894165,
+            -111.87454986572,
+            33.582458496094
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.877029,
+                        33.57478
+                    ],
+                    [
+                        -111.879066,
+                        33.574009
+                    ],
+                    [
+                        -111.880859,
+                        33.577869
+                    ],
+                    [
+                        -111.878563,
+                        33.582458
+                    ],
+                    [
+                        -111.876007,
+                        33.580963
+                    ],
+                    [
+                        -111.877655,
+                        33.579414
+                    ],
+                    [
+                        -111.875198,
+                        33.574886
+                    ],
+                    [
+                        -111.87455,
+                        33.574215
+                    ],
+                    [
+                        -111.876762,
+                        33.57481
+                    ],
+                    [
+                        -111.877029,
+                        33.57478
+                    ]
+                ]
+            ]
+        ]
+    }
+}

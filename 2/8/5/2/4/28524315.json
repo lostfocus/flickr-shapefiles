@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524315,
+    "properties": {
+        "woe_id": 28524315,
+        "place_id": "c4DbYg2bCZkn0ziJ7g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kasumigaoka 3 Chome, Fujimino-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519194,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/28524315_20101216_b4ce073a68.tar.gz"
+        },
+        "bbox": [
+            139.49966430664,
+            35.87833404541,
+            139.50382995605,
+            35.881664276123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.500336,
+                        35.878334
+                    ],
+                    [
+                        139.499664,
+                        35.879833
+                    ],
+                    [
+                        139.501007,
+                        35.8815
+                    ],
+                    [
+                        139.50116,
+                        35.881664
+                    ],
+                    [
+                        139.50383,
+                        35.878334
+                    ],
+                    [
+                        139.500336,
+                        35.878334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

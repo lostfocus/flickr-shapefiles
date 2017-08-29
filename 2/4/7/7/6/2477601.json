@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2477601,
+    "properties": {
+        "woe_id": 2477601,
+        "place_id": "Y8jWEeObBZtlcWWN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Quailstone, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544031,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2477601_20101217_53faa6f88c.tar.gz"
+        },
+        "bbox": [
+            -111.94952392578,
+            40.662231445312,
+            -111.93969726562,
+            40.666088104248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.942787,
+                        40.666088
+                    ],
+                    [
+                        -111.939697,
+                        40.662231
+                    ],
+                    [
+                        -111.941521,
+                        40.662312
+                    ],
+                    [
+                        -111.947098,
+                        40.664837
+                    ],
+                    [
+                        -111.949524,
+                        40.662579
+                    ],
+                    [
+                        -111.948814,
+                        40.665413
+                    ],
+                    [
+                        -111.947098,
+                        40.664837
+                    ],
+                    [
+                        -111.941521,
+                        40.662312
+                    ],
+                    [
+                        -111.939697,
+                        40.662231
+                    ],
+                    [
+                        -111.942787,
+                        40.666088
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28546481,
+    "properties": {
+        "woe_id": 28546481,
+        "place_id": "BvO.aKibCZnqMS3MCw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimohiroicho 1 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435105,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/28546481_20101215_9bc2f69487.tar.gz"
+        },
+        "bbox": [
+            136.88470458984,
+            35.163318634033,
+            136.88603210449,
+            35.164638519287
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.884705,
+                        35.163319
+                    ],
+                    [
+                        136.884811,
+                        35.164585
+                    ],
+                    [
+                        136.886032,
+                        35.164639
+                    ],
+                    [
+                        136.885818,
+                        35.16378
+                    ],
+                    [
+                        136.88533,
+                        35.163502
+                    ],
+                    [
+                        136.884705,
+                        35.163319
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2360669,
+    "properties": {
+        "woe_id": 2360669,
+        "place_id": "a13Rx42bAprtEyzz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beanville, Randolph, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523258,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2360669_20101216_430cf44d0d.tar.gz"
+        },
+        "bbox": [
+            -72.653861999512,
+            43.911460876465,
+            -72.653694152832,
+            43.911975860596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.653786,
+                        43.911976
+                    ],
+                    [
+                        -72.653694,
+                        43.911884
+                    ],
+                    [
+                        -72.653862,
+                        43.911461
+                    ],
+                    [
+                        -72.653801,
+                        43.911942
+                    ],
+                    [
+                        -72.653786,
+                        43.911976
+                    ]
+                ]
+            ]
+        ]
+    }
+}

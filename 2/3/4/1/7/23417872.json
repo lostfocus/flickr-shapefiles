@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 23417872,
+    "properties": {
+        "woe_id": 23417872,
+        "place_id": "n8RZ8bWbAphPFZVQZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stony Prairie, Fremont, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247961729,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3511\/shapefiles\/23417872_20090719_22ced17d14.tar.gz"
+        },
+        "bbox": [
+            -83.168563842773,
+            41.341247558594,
+            -83.149688720703,
+            41.368919372559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.168564,
+                        41.341248
+                    ],
+                    [
+                        -83.159103,
+                        41.347656
+                    ],
+                    [
+                        -83.160583,
+                        41.353104
+                    ],
+                    [
+                        -83.153625,
+                        41.368919
+                    ],
+                    [
+                        -83.149689,
+                        41.365891
+                    ],
+                    [
+                        -83.160583,
+                        41.353104
+                    ],
+                    [
+                        -83.159103,
+                        41.347656
+                    ],
+                    [
+                        -83.168564,
+                        41.341248
+                    ]
+                ]
+            ]
+        ]
+    }
+}

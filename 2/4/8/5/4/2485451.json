@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2485451,
+    "properties": {
+        "woe_id": 2485451,
+        "place_id": "1cVRo4ibBZShkwzF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Royal Junction, Cumberland Center, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546702,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2485451_20101217_ec75c93580.tar.gz"
+        },
+        "bbox": [
+            -70.256965637207,
+            43.798328399658,
+            -70.253852844238,
+            43.801601409912
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.254234,
+                        43.801224
+                    ],
+                    [
+                        -70.254082,
+                        43.801601
+                    ],
+                    [
+                        -70.253853,
+                        43.79892
+                    ],
+                    [
+                        -70.254784,
+                        43.798885
+                    ],
+                    [
+                        -70.256966,
+                        43.798328
+                    ],
+                    [
+                        -70.254234,
+                        43.801224
+                    ]
+                ]
+            ]
+        ]
+    }
+}

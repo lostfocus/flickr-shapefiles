@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468931,
+    "properties": {
+        "woe_id": 2468931,
+        "place_id": "_ldX4eKbBZpLpPxI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parsonville, Trenton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248229924,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3504\/shapefiles\/2468931_20090722_34d66ac0f4.tar.gz"
+        },
+        "bbox": [
+            -74.702606201172,
+            40.167865753174,
+            -74.69157409668,
+            40.175323486328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.702354,
+                        40.170376
+                    ],
+                    [
+                        -74.702606,
+                        40.175323
+                    ],
+                    [
+                        -74.691574,
+                        40.172943
+                    ],
+                    [
+                        -74.692009,
+                        40.171379
+                    ],
+                    [
+                        -74.692398,
+                        40.167866
+                    ],
+                    [
+                        -74.702354,
+                        40.170376
+                    ]
+                ]
+            ]
+        ]
+    }
+}

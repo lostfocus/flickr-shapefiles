@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2358009,
+    "properties": {
+        "woe_id": 2358009,
+        "place_id": "eZItU82bApn9e0GR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ayres, Pinson, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546011,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2358009_20101217_db5ae41b52.tar.gz"
+        },
+        "bbox": [
+            -86.56510925293,
+            33.721294403076,
+            -86.559852600098,
+            33.72473526001
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.560188,
+                        33.724705
+                    ],
+                    [
+                        -86.559853,
+                        33.721294
+                    ],
+                    [
+                        -86.565109,
+                        33.7234
+                    ],
+                    [
+                        -86.560204,
+                        33.724735
+                    ],
+                    [
+                        -86.560181,
+                        33.724724
+                    ],
+                    [
+                        -86.560188,
+                        33.724705
+                    ]
+                ]
+            ]
+        ]
+    }
+}

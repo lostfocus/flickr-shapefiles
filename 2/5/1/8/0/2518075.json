@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518075,
+    "properties": {
+        "woe_id": 2518075,
+        "place_id": "vjSZdC6bBJ0NJKZz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westcotville, Woodbury, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525474,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/2518075_20101216_e160776c87.tar.gz"
+        },
+        "bbox": [
+            -75.099662780762,
+            39.826164245605,
+            -75.097503662109,
+            39.831214904785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.097504,
+                        39.829166
+                    ],
+                    [
+                        -75.097664,
+                        39.828999
+                    ],
+                    [
+                        -75.099663,
+                        39.826164
+                    ],
+                    [
+                        -75.097664,
+                        39.829166
+                    ],
+                    [
+                        -75.098244,
+                        39.831215
+                    ],
+                    [
+                        -75.097504,
+                        39.829166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

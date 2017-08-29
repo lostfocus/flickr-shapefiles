@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483200,
+    "properties": {
+        "woe_id": 2483200,
+        "place_id": "pTnUtFWbBZRcRHLJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rock Rift, Walton, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547468,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2483200_20101217_52d9f0a819.tar.gz"
+        },
+        "bbox": [
+            -75.187225341797,
+            42.093887329102,
+            -75.18424987793,
+            42.095554351807
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.185066,
+                        42.09523
+                    ],
+                    [
+                        -75.18425,
+                        42.094521
+                    ],
+                    [
+                        -75.187225,
+                        42.093887
+                    ],
+                    [
+                        -75.186943,
+                        42.095001
+                    ],
+                    [
+                        -75.186111,
+                        42.095554
+                    ],
+                    [
+                        -75.185066,
+                        42.09523
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28565153,
+    "properties": {
+        "woe_id": 28565153,
+        "place_id": "LHIjQUWbCZnLD2HgjA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyayamacho 3 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435160,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/28565153_20101215_d9f03c1dc9.tar.gz"
+        },
+        "bbox": [
+            135.23275756836,
+            34.7194480896,
+            135.23406982422,
+            34.720252990723
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.233887,
+                        34.719452
+                    ],
+                    [
+                        135.232758,
+                        34.720253
+                    ],
+                    [
+                        135.23407,
+                        34.719704
+                    ],
+                    [
+                        135.234024,
+                        34.719551
+                    ],
+                    [
+                        135.233932,
+                        34.719448
+                    ],
+                    [
+                        135.233887,
+                        34.719452
+                    ]
+                ]
+            ]
+        ]
+    }
+}

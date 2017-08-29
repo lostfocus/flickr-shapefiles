@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28588551,
+    "properties": {
+        "woe_id": 28588551,
+        "place_id": "cfYE.GqbCZmI0V0Zpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dubbo East, Dubbo, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521468,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/28588551_20101216_c5f86d5bda.tar.gz"
+        },
+        "bbox": [
+            148.64639282227,
+            -32.247535705566,
+            148.64643859863,
+            -32.247325897217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        148.646439,
+                        -32.24736
+                    ],
+                    [
+                        148.646423,
+                        -32.247536
+                    ],
+                    [
+                        148.646408,
+                        -32.247517
+                    ],
+                    [
+                        148.646393,
+                        -32.247498
+                    ],
+                    [
+                        148.646393,
+                        -32.247326
+                    ],
+                    [
+                        148.646439,
+                        -32.24736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

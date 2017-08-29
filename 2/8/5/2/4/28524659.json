@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28524659,
+    "properties": {
+        "woe_id": 28524659,
+        "place_id": "zTwS13ybCZn81ybmBA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinchiba 2 Chome, Chiba-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463365,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/28524659_20101216_53a9f7e387.tar.gz"
+        },
+        "bbox": [
+            140.10890197754,
+            35.613208770752,
+            140.11129760742,
+            35.615341186523
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.110672,
+                        35.615051
+                    ],
+                    [
+                        140.111298,
+                        35.613209
+                    ],
+                    [
+                        140.110275,
+                        35.613327
+                    ],
+                    [
+                        140.108902,
+                        35.614239
+                    ],
+                    [
+                        140.109528,
+                        35.615341
+                    ],
+                    [
+                        140.110672,
+                        35.615051
+                    ]
+                ]
+            ]
+        ]
+    }
+}

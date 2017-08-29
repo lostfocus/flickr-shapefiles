@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2355984,
+    "properties": {
+        "woe_id": 2355984,
+        "place_id": "sjkrAT6bApmgfWxm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arlington Heights, Newton Falls, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523270,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/2355984_20101216_983e005aca.tar.gz"
+        },
+        "bbox": [
+            -80.974044799805,
+            41.187713623047,
+            -80.970909118652,
+            41.188770294189
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.971405,
+                        41.18877
+                    ],
+                    [
+                        -80.970909,
+                        41.188068
+                    ],
+                    [
+                        -80.971214,
+                        41.187988
+                    ],
+                    [
+                        -80.971458,
+                        41.18803
+                    ],
+                    [
+                        -80.974045,
+                        41.187714
+                    ],
+                    [
+                        -80.971405,
+                        41.18877
+                    ]
+                ]
+            ]
+        ]
+    }
+}

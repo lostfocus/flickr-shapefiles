@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28539638,
+    "properties": {
+        "woe_id": 28539638,
+        "place_id": "g9il4UybCZmelFeXog",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fujimi 1 Chome, Nirasaki-shi, Yamanashi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452670,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/28539638_20101215_d60dbeff76.tar.gz"
+        },
+        "bbox": [
+            138.45088195801,
+            35.709251403809,
+            138.45176696777,
+            35.710678100586
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.450912,
+                        35.710415
+                    ],
+                    [
+                        138.451019,
+                        35.710678
+                    ],
+                    [
+                        138.451538,
+                        35.710434
+                    ],
+                    [
+                        138.451767,
+                        35.709251
+                    ],
+                    [
+                        138.450882,
+                        35.710045
+                    ],
+                    [
+                        138.450912,
+                        35.710415
+                    ]
+                ]
+            ]
+        ]
+    }
+}

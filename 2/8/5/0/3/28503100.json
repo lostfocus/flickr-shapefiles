@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 28503100,
+    "properties": {
+        "woe_id": 28503100,
+        "place_id": "1fEKBfObCZmG9FA2Qw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Suehirocho 14 Chome, Kushiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551333,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/28503100_20101217_af023db97f.tar.gz"
+        },
+        "bbox": [
+            144.38421630859,
+            42.989334106445,
+            144.3878326416,
+            42.993000030518
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.385681,
+                        42.989487
+                    ],
+                    [
+                        144.385498,
+                        42.989334
+                    ],
+                    [
+                        144.384247,
+                        42.989639
+                    ],
+                    [
+                        144.384216,
+                        42.989693
+                    ],
+                    [
+                        144.384384,
+                        42.991203
+                    ],
+                    [
+                        144.385498,
+                        42.992332
+                    ],
+                    [
+                        144.387497,
+                        42.993
+                    ],
+                    [
+                        144.387833,
+                        42.992165
+                    ],
+                    [
+                        144.385696,
+                        42.989548
+                    ],
+                    [
+                        144.385681,
+                        42.989487
+                    ]
+                ]
+            ]
+        ]
+    }
+}

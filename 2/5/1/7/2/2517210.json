@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2517210,
+    "properties": {
+        "woe_id": 2517210,
+        "place_id": "XEEcgsebBJ2guIIC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Hollis, Hollis, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248053415,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3419\/shapefiles\/2517210_20090720_cf9810d50d.tar.gz"
+        },
+        "bbox": [
+            -71.631187438965,
+            42.706092834473,
+            -71.61051940918,
+            42.720531463623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.610519,
+                        42.720531
+                    ],
+                    [
+                        -71.616356,
+                        42.706093
+                    ],
+                    [
+                        -71.621956,
+                        42.706398
+                    ],
+                    [
+                        -71.630775,
+                        42.714935
+                    ],
+                    [
+                        -71.631187,
+                        42.718548
+                    ],
+                    [
+                        -71.610519,
+                        42.720531
+                    ]
+                ]
+            ]
+        ]
+    }
+}

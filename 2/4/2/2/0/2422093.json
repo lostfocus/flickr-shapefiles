@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2422093,
+    "properties": {
+        "woe_id": 2422093,
+        "place_id": "5ZsA6e.bBZ67RouD",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hillsboro Center, Hillsboro, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549392,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2422093_20101217_c829122e23.tar.gz"
+        },
+        "bbox": [
+            -71.935470581055,
+            43.14282989502,
+            -71.931091308594,
+            43.146556854248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.935173,
+                        43.146557
+                    ],
+                    [
+                        -71.932808,
+                        43.145836
+                    ],
+                    [
+                        -71.931091,
+                        43.14283
+                    ],
+                    [
+                        -71.932724,
+                        43.144302
+                    ],
+                    [
+                        -71.935471,
+                        43.14521
+                    ],
+                    [
+                        -71.935173,
+                        43.146557
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2425643,
+    "properties": {
+        "woe_id": 2425643,
+        "place_id": "H3x_bpebBZ783uBo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hunter, Tionesta, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460244,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2425643_20101216_58cfb121f2.tar.gz"
+        },
+        "bbox": [
+            -79.502388000488,
+            41.473281860352,
+            -79.498100280762,
+            41.477863311768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.502388,
+                        41.474953
+                    ],
+                    [
+                        -79.501579,
+                        41.477863
+                    ],
+                    [
+                        -79.4981,
+                        41.476559
+                    ],
+                    [
+                        -79.499054,
+                        41.474007
+                    ],
+                    [
+                        -79.49913,
+                        41.473282
+                    ],
+                    [
+                        -79.502388,
+                        41.474953
+                    ]
+                ]
+            ]
+        ]
+    }
+}

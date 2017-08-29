@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28517234,
+    "properties": {
+        "woe_id": 28517234,
+        "place_id": "W7T8TZ.bCZkXxW4.tQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakadori 5 Chome, Akita-shi, Akita Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449506,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/28517234_20101215_b7eed5fe85.tar.gz"
+        },
+        "bbox": [
+            140.11650085449,
+            39.707832336426,
+            140.12075805664,
+            39.713165283203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.116501,
+                        39.712318
+                    ],
+                    [
+                        140.116501,
+                        39.712666
+                    ],
+                    [
+                        140.120667,
+                        39.713165
+                    ],
+                    [
+                        140.120758,
+                        39.712337
+                    ],
+                    [
+                        140.119995,
+                        39.707832
+                    ],
+                    [
+                        140.116501,
+                        39.712318
+                    ]
+                ]
+            ]
+        ]
+    }
+}

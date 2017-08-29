@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461030,
+    "properties": {
+        "woe_id": 2461030,
+        "place_id": "RiV_vJSbBZqeta9t",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Glendale, Glendale, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248255021,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2503\/shapefiles\/2461030_20090722_9f55a2cb71.tar.gz"
+        },
+        "bbox": [
+            -118.26756286621,
+            34.159614562988,
+            -118.2551651001,
+            34.180423736572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -118.267563,
+                        34.163097
+                    ],
+                    [
+                        -118.267136,
+                        34.177727
+                    ],
+                    [
+                        -118.256836,
+                        34.180424
+                    ],
+                    [
+                        -118.255165,
+                        34.159615
+                    ],
+                    [
+                        -118.260872,
+                        34.161106
+                    ],
+                    [
+                        -118.267563,
+                        34.163097
+                    ]
+                ]
+            ]
+        ]
+    }
+}

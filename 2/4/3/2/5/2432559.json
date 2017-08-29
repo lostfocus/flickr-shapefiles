@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432559,
+    "properties": {
+        "woe_id": 2432559,
+        "place_id": "QZXyHk2bBZ8Lu3Kb",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingman Heights, Sumter, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247855048,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3002\/shapefiles\/2432559_20090717_97d7660f73.tar.gz"
+        },
+        "bbox": [
+            -80.342933654785,
+            33.9140625,
+            -80.341835021973,
+            33.91576385498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.342697,
+                        33.914063
+                    ],
+                    [
+                        -80.342934,
+                        33.91441
+                    ],
+                    [
+                        -80.341904,
+                        33.915764
+                    ],
+                    [
+                        -80.341835,
+                        33.91539
+                    ],
+                    [
+                        -80.341866,
+                        33.914894
+                    ],
+                    [
+                        -80.342697,
+                        33.914063
+                    ]
+                ]
+            ]
+        ]
+    }
+}

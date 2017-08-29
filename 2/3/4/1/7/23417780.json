@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23417780,
+    "properties": {
+        "woe_id": 23417780,
+        "place_id": "M35SMymbApgkzpCjPA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Malverne Park Oaks, East Rockaway, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546176,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/23417780_20101217_b941dbb924.tar.gz"
+        },
+        "bbox": [
+            -73.682586669922,
+            40.634452819824,
+            -73.675750732422,
+            40.637855529785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.677254,
+                        40.637794
+                    ],
+                    [
+                        -73.675751,
+                        40.635525
+                    ],
+                    [
+                        -73.679314,
+                        40.634453
+                    ],
+                    [
+                        -73.682587,
+                        40.637856
+                    ],
+                    [
+                        -73.677254,
+                        40.637794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

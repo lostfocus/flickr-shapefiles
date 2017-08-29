@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28297624,
+    "properties": {
+        "woe_id": 28297624,
+        "place_id": "TtrVf1mbCZ7cyF0Q5w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pine Valley, Lake Zurich, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247842232,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2525\/shapefiles\/28297624_20090717_09e6a7ee2d.tar.gz"
+        },
+        "bbox": [
+            -88.069404602051,
+            42.166759490967,
+            -88.06468963623,
+            42.172172546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.06694,
+                        42.167011
+                    ],
+                    [
+                        -88.069405,
+                        42.16954
+                    ],
+                    [
+                        -88.0662,
+                        42.172173
+                    ],
+                    [
+                        -88.06469,
+                        42.166759
+                    ],
+                    [
+                        -88.066864,
+                        42.166988
+                    ],
+                    [
+                        -88.06694,
+                        42.167011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

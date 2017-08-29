@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22720915,
+    "properties": {
+        "woe_id": 22720915,
+        "place_id": "gUqkCgmbA5vOOgK0GQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Houston, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550573,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/22720915_20101217_9f6a2cca2a.tar.gz"
+        },
+        "bbox": [
+            145.13482666016,
+            -37.835346221924,
+            145.13557434082,
+            -37.83080291748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.134827,
+                        -37.8312
+                    ],
+                    [
+                        145.135056,
+                        -37.831039
+                    ],
+                    [
+                        145.135574,
+                        -37.830803
+                    ],
+                    [
+                        145.135193,
+                        -37.831448
+                    ],
+                    [
+                        145.13501,
+                        -37.835346
+                    ],
+                    [
+                        145.134827,
+                        -37.8312
+                    ]
+                ]
+            ]
+        ]
+    }
+}

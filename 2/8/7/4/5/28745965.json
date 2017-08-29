@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 28745965,
+    "properties": {
+        "woe_id": 28745965,
+        "place_id": "hlEI59mbCZtlbv9h2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Amity Hall, Newport, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234763649,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3395\/shapefiles\/28745965_20090216_b876286595.tar.gz"
+        },
+        "bbox": [
+            -77.024284362793,
+            40.412532806396,
+            -77.011131286621,
+            40.441394805908
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.01236,
+                        40.414345
+                    ],
+                    [
+                        -77.019623,
+                        40.430954
+                    ],
+                    [
+                        -77.024284,
+                        40.441395
+                    ],
+                    [
+                        -77.018105,
+                        40.435352
+                    ],
+                    [
+                        -77.011177,
+                        40.427063
+                    ],
+                    [
+                        -77.011131,
+                        40.412533
+                    ],
+                    [
+                        -77.011627,
+                        40.412788
+                    ],
+                    [
+                        -77.01236,
+                        40.414345
+                    ]
+                ]
+            ]
+        ]
+    }
+}

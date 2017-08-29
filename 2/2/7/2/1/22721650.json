@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721650,
+    "properties": {
+        "woe_id": 22721650,
+        "place_id": "OfC.w16bA5vt_XrgeA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Firle, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517856,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/22721650_20101216_a89fae60cd.tar.gz"
+        },
+        "bbox": [
+            138.6555480957,
+            -34.907188415527,
+            138.66102600098,
+            -34.901592254639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.65596,
+                        -34.905308
+                    ],
+                    [
+                        138.655548,
+                        -34.904606
+                    ],
+                    [
+                        138.656204,
+                        -34.901592
+                    ],
+                    [
+                        138.658447,
+                        -34.902264
+                    ],
+                    [
+                        138.661026,
+                        -34.907188
+                    ],
+                    [
+                        138.65596,
+                        -34.905308
+                    ]
+                ]
+            ]
+        ]
+    }
+}

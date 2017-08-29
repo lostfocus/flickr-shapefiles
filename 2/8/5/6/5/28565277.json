@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28565277,
+    "properties": {
+        "woe_id": 28565277,
+        "place_id": "K1IMvh.bCZl6QknZwg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sannocho 1 Chome, Kobe-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519222,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/28565277_20101216_7f58825568.tar.gz"
+        },
+        "bbox": [
+            135.16835021973,
+            34.691200256348,
+            135.16976928711,
+            34.691905975342
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.168457,
+                        34.6912
+                    ],
+                    [
+                        135.16835,
+                        34.691387
+                    ],
+                    [
+                        135.168488,
+                        34.691906
+                    ],
+                    [
+                        135.169769,
+                        34.691437
+                    ],
+                    [
+                        135.169693,
+                        34.691433
+                    ],
+                    [
+                        135.168457,
+                        34.6912
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369212,
+    "properties": {
+        "woe_id": 2369212,
+        "place_id": "3f.B32qbApq2nckv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brightwood, Bethel Park, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239575050,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3312\/shapefiles\/2369212_20090412_b8f092b3dc.tar.gz"
+        },
+        "bbox": [
+            -80.026214599609,
+            40.331008911133,
+            -80.022094726562,
+            40.34167098999
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.026215,
+                        40.33382
+                    ],
+                    [
+                        -80.025887,
+                        40.341671
+                    ],
+                    [
+                        -80.024155,
+                        40.338757
+                    ],
+                    [
+                        -80.022163,
+                        40.331333
+                    ],
+                    [
+                        -80.022095,
+                        40.331009
+                    ],
+                    [
+                        -80.026215,
+                        40.33382
+                    ]
+                ]
+            ]
+        ]
+    }
+}

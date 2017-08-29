@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28519678,
+    "properties": {
+        "woe_id": 28519678,
+        "place_id": "LcKhEF2bCZnX91SycQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Asahicho 3 Chome, Hitachi-shi, Ibaraki Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434599,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28519678_20101215_865d1b50d7.tar.gz"
+        },
+        "bbox": [
+            140.65699768066,
+            36.582164764404,
+            140.66223144531,
+            36.585037231445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.66214,
+                        36.584763
+                    ],
+                    [
+                        140.662231,
+                        36.582359
+                    ],
+                    [
+                        140.656998,
+                        36.582165
+                    ],
+                    [
+                        140.66156,
+                        36.583435
+                    ],
+                    [
+                        140.662094,
+                        36.585037
+                    ],
+                    [
+                        140.66214,
+                        36.584763
+                    ]
+                ]
+            ]
+        ]
+    }
+}

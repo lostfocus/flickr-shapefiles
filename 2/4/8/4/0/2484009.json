@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2484009,
+    "properties": {
+        "woe_id": 2484009,
+        "place_id": "K4mKk0SbBZS4P_GC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Roland Place, Bel Air, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451513,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2484009_20101215_c1a162c6d8.tar.gz"
+        },
+        "bbox": [
+            -76.360366821289,
+            39.531784057617,
+            -76.358413696289,
+            39.535213470459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.360367,
+                        39.534225
+                    ],
+                    [
+                        -76.360268,
+                        39.534351
+                    ],
+                    [
+                        -76.360001,
+                        39.534466
+                    ],
+                    [
+                        -76.358414,
+                        39.535213
+                    ],
+                    [
+                        -76.359444,
+                        39.531784
+                    ],
+                    [
+                        -76.360367,
+                        39.534225
+                    ]
+                ]
+            ]
+        ]
+    }
+}

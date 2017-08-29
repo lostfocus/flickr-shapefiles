@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28533962,
+    "properties": {
+        "woe_id": 28533962,
+        "place_id": "TMyIUxibCZnTZBFm5A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kajiwara 4 Chome, Kamakura-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551024,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/28533962_20101217_22398fffbc.tar.gz"
+        },
+        "bbox": [
+            139.53031921387,
+            35.323318481445,
+            139.53460693359,
+            35.326328277588
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.534088,
+                        35.325558
+                    ],
+                    [
+                        139.534607,
+                        35.324368
+                    ],
+                    [
+                        139.533066,
+                        35.324368
+                    ],
+                    [
+                        139.530319,
+                        35.323318
+                    ],
+                    [
+                        139.531174,
+                        35.326019
+                    ],
+                    [
+                        139.533569,
+                        35.326328
+                    ],
+                    [
+                        139.534088,
+                        35.325558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

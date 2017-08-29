@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531516,
+    "properties": {
+        "woe_id": 28531516,
+        "place_id": "kpUZyyebCZnT3HqtVg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Enoki 1 Chome, Musashimurayama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442206,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/28531516_20101215_7a50e1cff7.tar.gz"
+        },
+        "bbox": [
+            139.38569641113,
+            35.741802215576,
+            139.38696289062,
+            35.745388031006
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.385696,
+                        35.744331
+                    ],
+                    [
+                        139.386368,
+                        35.745152
+                    ],
+                    [
+                        139.386963,
+                        35.745388
+                    ],
+                    [
+                        139.38681,
+                        35.743237
+                    ],
+                    [
+                        139.386963,
+                        35.741802
+                    ],
+                    [
+                        139.385696,
+                        35.744331
+                    ]
+                ]
+            ]
+        ]
+    }
+}

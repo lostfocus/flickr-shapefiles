@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28518491,
+    "properties": {
+        "woe_id": 28518491,
+        "place_id": "yZn_OXObCZkEifOnrg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oazayamamoto Naka, Tendo-shi, Yamagata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248039616,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3504\/shapefiles\/28518491_20090719_7d03087982.tar.gz"
+        },
+        "bbox": [
+            140.38369750977,
+            38.354057312012,
+            140.38520812988,
+            38.354122161865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.383713,
+                        38.354065
+                    ],
+                    [
+                        140.383698,
+                        38.354073
+                    ],
+                    [
+                        140.383743,
+                        38.354122
+                    ],
+                    [
+                        140.385208,
+                        38.354122
+                    ],
+                    [
+                        140.383728,
+                        38.354057
+                    ],
+                    [
+                        140.383713,
+                        38.354065
+                    ]
+                ]
+            ]
+        ]
+    }
+}

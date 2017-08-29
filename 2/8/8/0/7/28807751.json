@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28807751,
+    "properties": {
+        "woe_id": 28807751,
+        "place_id": "WN6e6jibCZQPJvBYFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uc6b0\uc5441\ub3d9, Jeonju-Si, Jeollabuk-Do, KR, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455325,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28807751_20101215_28ce22aae2.tar.gz"
+        },
+        "bbox": [
+            127.14861297607,
+            35.848056793213,
+            127.15249633789,
+            35.849998474121
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.148888,
+                        35.848057
+                    ],
+                    [
+                        127.148613,
+                        35.848331
+                    ],
+                    [
+                        127.148888,
+                        35.848331
+                    ],
+                    [
+                        127.152496,
+                        35.849998
+                    ],
+                    [
+                        127.148888,
+                        35.848057
+                    ]
+                ]
+            ]
+        ]
+    }
+}

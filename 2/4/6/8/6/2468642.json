@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468642,
+    "properties": {
+        "woe_id": 2468642,
+        "place_id": "MWnxCr2bBZp3P1OE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkridge, Baker, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546293,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2468642_20101217_87ecc53eb3.tar.gz"
+        },
+        "bbox": [
+            -91.129112243652,
+            30.575174331665,
+            -91.127304077148,
+            30.580116271973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -91.127396,
+                        30.579441
+                    ],
+                    [
+                        -91.127304,
+                        30.578665
+                    ],
+                    [
+                        -91.127708,
+                        30.575174
+                    ],
+                    [
+                        -91.129112,
+                        30.57749
+                    ],
+                    [
+                        -91.128922,
+                        30.580116
+                    ],
+                    [
+                        -91.127396,
+                        30.579441
+                    ]
+                ]
+            ]
+        ]
+    }
+}

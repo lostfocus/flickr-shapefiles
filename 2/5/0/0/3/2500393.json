@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500393,
+    "properties": {
+        "woe_id": 2500393,
+        "place_id": "lXQIG96bBJy0TPfL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stonewall Community, Lexington, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534712,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2500393_20101216_1dc634e65b.tar.gz"
+        },
+        "bbox": [
+            -84.558036804199,
+            37.989482879639,
+            -84.556831359863,
+            37.991203308105
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.557114,
+                        37.990681
+                    ],
+                    [
+                        -84.558037,
+                        37.989483
+                    ],
+                    [
+                        -84.557571,
+                        37.990932
+                    ],
+                    [
+                        -84.556839,
+                        37.991199
+                    ],
+                    [
+                        -84.556831,
+                        37.991203
+                    ],
+                    [
+                        -84.557114,
+                        37.990681
+                    ]
+                ]
+            ]
+        ]
+    }
+}

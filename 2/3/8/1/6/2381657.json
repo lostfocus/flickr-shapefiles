@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381657,
+    "properties": {
+        "woe_id": 2381657,
+        "place_id": "KGco6GubApTMy0T_",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Clifton Heights, Lakeview, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247854088,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2648\/shapefiles\/2381657_20090717_d5a15d56de.tar.gz"
+        },
+        "bbox": [
+            -78.89582824707,
+            42.717258453369,
+            -78.872734069824,
+            42.742317199707
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.883003,
+                        42.734665
+                    ],
+                    [
+                        -78.893318,
+                        42.717258
+                    ],
+                    [
+                        -78.895828,
+                        42.738407
+                    ],
+                    [
+                        -78.891998,
+                        42.739334
+                    ],
+                    [
+                        -78.872734,
+                        42.742317
+                    ],
+                    [
+                        -78.883003,
+                        42.734665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2437740,
+    "properties": {
+        "woe_id": 2437740,
+        "place_id": "CI2jPGqbBZ.OTnSQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ledgewood Park, Palenville, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234765805,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3138\/shapefiles\/2437740_20090216_1999829680.tar.gz"
+        },
+        "bbox": [
+            -74.040214538574,
+            42.198467254639,
+            -74.031455993652,
+            42.204193115234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.034912,
+                        42.198467
+                    ],
+                    [
+                        -74.040215,
+                        42.204193
+                    ],
+                    [
+                        -74.036003,
+                        42.200958
+                    ],
+                    [
+                        -74.031456,
+                        42.198582
+                    ],
+                    [
+                        -74.034912,
+                        42.198467
+                    ]
+                ]
+            ]
+        ]
+    }
+}

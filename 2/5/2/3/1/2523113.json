@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2523113,
+    "properties": {
+        "woe_id": 2523113,
+        "place_id": "zBtO2PubBJ5KTLow",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodhill, Newtown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527814,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/2523113_20101216_6426b8be46.tar.gz"
+        },
+        "bbox": [
+            -74.955383300781,
+            40.29280090332,
+            -74.95059967041,
+            40.293045043945
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.950638,
+                        40.292995
+                    ],
+                    [
+                        -74.9506,
+                        40.29285
+                    ],
+                    [
+                        -74.950729,
+                        40.292801
+                    ],
+                    [
+                        -74.955383,
+                        40.292995
+                    ],
+                    [
+                        -74.950684,
+                        40.293045
+                    ],
+                    [
+                        -74.950638,
+                        40.292995
+                    ]
+                ]
+            ]
+        ]
+    }
+}

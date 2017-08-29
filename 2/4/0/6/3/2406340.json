@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2406340,
+    "properties": {
+        "woe_id": 2406340,
+        "place_id": "0aWlOuKbBZxpLbHC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Four Corners, Kennebunk, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248265808,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3471\/shapefiles\/2406340_20090722_be195c757e.tar.gz"
+        },
+        "bbox": [
+            -70.520210266113,
+            43.347652435303,
+            -70.507675170898,
+            43.358909606934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.512657,
+                        43.349773
+                    ],
+                    [
+                        -70.52021,
+                        43.347652
+                    ],
+                    [
+                        -70.513924,
+                        43.352596
+                    ],
+                    [
+                        -70.507675,
+                        43.35891
+                    ],
+                    [
+                        -70.510597,
+                        43.353611
+                    ],
+                    [
+                        -70.512657,
+                        43.349773
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2505382,
+    "properties": {
+        "woe_id": 2505382,
+        "place_id": "AFpEhb2bBJxh3HTt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "The Oaks, Goose Creek, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550555,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2505382_20101217_4dedc4bc20.tar.gz"
+        },
+        "bbox": [
+            -80.047203063965,
+            32.961685180664,
+            -80.043251037598,
+            32.967754364014
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.047203,
+                        32.963741
+                    ],
+                    [
+                        -80.043724,
+                        32.967754
+                    ],
+                    [
+                        -80.043251,
+                        32.962048
+                    ],
+                    [
+                        -80.04351,
+                        32.961685
+                    ],
+                    [
+                        -80.047203,
+                        32.962048
+                    ],
+                    [
+                        -80.047203,
+                        32.963741
+                    ]
+                ]
+            ]
+        ]
+    }
+}

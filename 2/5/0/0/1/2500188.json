@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2500188,
+    "properties": {
+        "woe_id": 2500188,
+        "place_id": "HybQEQebBJw7Cb7c",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stone, Oregon, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542240,
+        "alpha": 1.5625e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2500188_20101216_4137ec895b.tar.gz"
+        },
+        "bbox": [
+            -89.307594299316,
+            42.912685394287,
+            -89.302665710449,
+            42.919399261475
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.304184,
+                        42.917809
+                    ],
+                    [
+                        -89.307594,
+                        42.912685
+                    ],
+                    [
+                        -89.304832,
+                        42.917831
+                    ],
+                    [
+                        -89.304634,
+                        42.918404
+                    ],
+                    [
+                        -89.302666,
+                        42.919399
+                    ],
+                    [
+                        -89.304184,
+                        42.917809
+                    ]
+                ]
+            ]
+        ]
+    }
+}

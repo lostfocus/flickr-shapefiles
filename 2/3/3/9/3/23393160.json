@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23393160,
+    "properties": {
+        "woe_id": 23393160,
+        "place_id": "sR0JMPibAp8lupV25Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Canadian Heights, Moncton, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462941,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/23393160_20101216_bae81d2f11.tar.gz"
+        },
+        "bbox": [
+            -64.840667724609,
+            46.115585327148,
+            -64.835151672363,
+            46.118938446045
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.836586,
+                        46.118938
+                    ],
+                    [
+                        -64.836395,
+                        46.118656
+                    ],
+                    [
+                        -64.835152,
+                        46.115585
+                    ],
+                    [
+                        -64.836288,
+                        46.116989
+                    ],
+                    [
+                        -64.840569,
+                        46.117336
+                    ],
+                    [
+                        -64.840668,
+                        46.118183
+                    ],
+                    [
+                        -64.836586,
+                        46.118938
+                    ]
+                ]
+            ]
+        ]
+    }
+}

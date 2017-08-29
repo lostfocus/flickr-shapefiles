@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559101,
+    "properties": {
+        "woe_id": 28559101,
+        "place_id": "fL8E4ImbCZnvmig7iw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tsukamoto 2 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446203,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/28559101_20101215_5c30fc88d9.tar.gz"
+        },
+        "bbox": [
+            135.46966552734,
+            34.713001251221,
+            135.47065734863,
+            34.714935302734
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.469833,
+                        34.713001
+                    ],
+                    [
+                        135.469666,
+                        34.714001
+                    ],
+                    [
+                        135.469666,
+                        34.714165
+                    ],
+                    [
+                        135.470657,
+                        34.714935
+                    ],
+                    [
+                        135.470169,
+                        34.713165
+                    ],
+                    [
+                        135.469833,
+                        34.713001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

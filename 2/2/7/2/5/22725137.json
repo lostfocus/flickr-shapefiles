@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22725137,
+    "properties": {
+        "woe_id": 22725137,
+        "place_id": "973QuWGbA5v_vkmKvQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shikunei Khisakhon, Tel Aviv, Tel Aviv, IL, Israel"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546261,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/22725137_20101217_9afabdf040.tar.gz"
+        },
+        "bbox": [
+            34.746494293213,
+            32.046642303467,
+            34.75118637085,
+            32.048534393311
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        34.750702,
+                        32.048534
+                    ],
+                    [
+                        34.751186,
+                        32.048195
+                    ],
+                    [
+                        34.748554,
+                        32.046642
+                    ],
+                    [
+                        34.746494,
+                        32.047951
+                    ],
+                    [
+                        34.747868,
+                        32.048534
+                    ],
+                    [
+                        34.750702,
+                        32.048534
+                    ]
+                ]
+            ]
+        ]
+    }
+}

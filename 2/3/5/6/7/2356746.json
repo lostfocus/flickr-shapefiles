@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2356746,
+    "properties": {
+        "woe_id": 2356746,
+        "place_id": "SI6690abApkUa7Na",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ashton, Waunakee, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247982962,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2511\/shapefiles\/2356746_20090719_dab5f2ffdb.tar.gz"
+        },
+        "bbox": [
+            -89.58145904541,
+            43.110397338867,
+            -89.569641113281,
+            43.132308959961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.577179,
+                        43.110947
+                    ],
+                    [
+                        -89.581459,
+                        43.121849
+                    ],
+                    [
+                        -89.580971,
+                        43.132309
+                    ],
+                    [
+                        -89.569641,
+                        43.115894
+                    ],
+                    [
+                        -89.571747,
+                        43.110397
+                    ],
+                    [
+                        -89.577179,
+                        43.110947
+                    ]
+                ]
+            ]
+        ]
+    }
+}

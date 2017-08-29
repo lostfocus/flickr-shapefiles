@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28503027,
+    "properties": {
+        "woe_id": 28503027,
+        "place_id": "_B5.5R2bCZmJ3vlwMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saiwaicho 3 Chome, Kushiro-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544409,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28503027_20101217_301ac4ebef.tar.gz"
+        },
+        "bbox": [
+            144.37995910645,
+            42.980846405029,
+            144.38133239746,
+            42.982215881348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.379959,
+                        42.982182
+                    ],
+                    [
+                        144.379959,
+                        42.982189
+                    ],
+                    [
+                        144.380905,
+                        42.982216
+                    ],
+                    [
+                        144.381332,
+                        42.981907
+                    ],
+                    [
+                        144.381287,
+                        42.980846
+                    ],
+                    [
+                        144.379959,
+                        42.982182
+                    ]
+                ]
+            ]
+        ]
+    }
+}

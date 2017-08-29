@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518671,
+    "properties": {
+        "woe_id": 2518671,
+        "place_id": "ipN.zzKbBJ3OkLCo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westwood, Simpsonville, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524828,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2518671_20101216_7fe4ef607b.tar.gz"
+        },
+        "bbox": [
+            -82.280197143555,
+            34.722778320312,
+            -82.279167175293,
+            34.723331451416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.279999,
+                        34.722778
+                    ],
+                    [
+                        -82.280197,
+                        34.723099
+                    ],
+                    [
+                        -82.279167,
+                        34.723331
+                    ],
+                    [
+                        -82.279442,
+                        34.723057
+                    ],
+                    [
+                        -82.279724,
+                        34.722778
+                    ],
+                    [
+                        -82.279999,
+                        34.722778
+                    ]
+                ]
+            ]
+        ]
+    }
+}

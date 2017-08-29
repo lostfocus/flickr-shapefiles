@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2524570,
+    "properties": {
+        "woe_id": 2524570,
+        "place_id": "j1KtZ_WbBJ4y7vKt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yardville Heights, Trenton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547641,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/2524570_20101217_44202abbaa.tar.gz"
+        },
+        "bbox": [
+            -74.688484191895,
+            40.199165344238,
+            -74.688125610352,
+            40.203632354736
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.688164,
+                        40.199165
+                    ],
+                    [
+                        -74.688248,
+                        40.199329
+                    ],
+                    [
+                        -74.688484,
+                        40.203632
+                    ],
+                    [
+                        -74.688416,
+                        40.203617
+                    ],
+                    [
+                        -74.688126,
+                        40.199287
+                    ],
+                    [
+                        -74.688164,
+                        40.199165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

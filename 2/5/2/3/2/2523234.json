@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2523234,
+    "properties": {
+        "woe_id": 2523234,
+        "place_id": "hEGxikCbBJ4dIcWi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Woodland Heights, Chattanooga, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292470144,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2523234_20101216_5705cc53ef.tar.gz"
+        },
+        "bbox": [
+            -85.33065032959,
+            35.076438903809,
+            -85.330406188965,
+            35.076625823975
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.330521,
+                        35.076626
+                    ],
+                    [
+                        -85.330406,
+                        35.076595
+                    ],
+                    [
+                        -85.330528,
+                        35.076439
+                    ],
+                    [
+                        -85.33065,
+                        35.07653
+                    ],
+                    [
+                        -85.330521,
+                        35.076626
+                    ]
+                ]
+            ]
+        ]
+    }
+}

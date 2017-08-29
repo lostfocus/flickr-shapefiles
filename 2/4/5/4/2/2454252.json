@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2454252,
+    "properties": {
+        "woe_id": 2454252,
+        "place_id": "KyJAba.bBZnQx4AU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Morris, Pennsauken, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547152,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2454252_20101217_21778e2fee.tar.gz"
+        },
+        "bbox": [
+            -75.048980712891,
+            39.989597320557,
+            -75.044105529785,
+            39.991191864014
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.048271,
+                        39.99041
+                    ],
+                    [
+                        -75.048981,
+                        39.990913
+                    ],
+                    [
+                        -75.048103,
+                        39.990414
+                    ],
+                    [
+                        -75.044106,
+                        39.991192
+                    ],
+                    [
+                        -75.047112,
+                        39.989597
+                    ],
+                    [
+                        -75.048271,
+                        39.99041
+                    ]
+                ]
+            ]
+        ]
+    }
+}

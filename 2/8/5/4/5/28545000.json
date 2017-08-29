@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28545000,
+    "properties": {
+        "woe_id": 28545000,
+        "place_id": "HaqbnzWbCZmGdMHs_A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Otemachi 5 Chome, Numazu-shi, Shizuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517946,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/28545000_20101216_0767b8be57.tar.gz"
+        },
+        "bbox": [
+            138.85397338867,
+            35.099166870117,
+            138.8586730957,
+            35.101833343506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.858673,
+                        35.101833
+                    ],
+                    [
+                        138.858673,
+                        35.101334
+                    ],
+                    [
+                        138.85817,
+                        35.099167
+                    ],
+                    [
+                        138.853973,
+                        35.100388
+                    ],
+                    [
+                        138.857147,
+                        35.100746
+                    ],
+                    [
+                        138.858368,
+                        35.101765
+                    ],
+                    [
+                        138.858673,
+                        35.101833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529064,
+    "properties": {
+        "woe_id": 28529064,
+        "place_id": "fNA2W9KbCZkxlytk2A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kishimachi 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449525,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28529064_20101215_5ebc5c7746.tar.gz"
+        },
+        "bbox": [
+            139.72883605957,
+            35.75842666626,
+            139.73229980469,
+            35.761016845703
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.730774,
+                        35.758434
+                    ],
+                    [
+                        139.728836,
+                        35.760502
+                    ],
+                    [
+                        139.729614,
+                        35.761017
+                    ],
+                    [
+                        139.7323,
+                        35.759544
+                    ],
+                    [
+                        139.73082,
+                        35.758427
+                    ],
+                    [
+                        139.730774,
+                        35.758434
+                    ]
+                ]
+            ]
+        ]
+    }
+}

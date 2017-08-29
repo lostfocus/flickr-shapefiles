@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2357794,
+    "properties": {
+        "woe_id": 2357794,
+        "place_id": "iYiaTiabApkvNyxM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Avoca, Louisville, KY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530179,
+        "alpha": 1.0e-5,
+        "points": 24,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/2357794_20101216_8e4641cced.tar.gz"
+        },
+        "bbox": [
+            -85.527374267578,
+            38.244205474854,
+            -85.523231506348,
+            38.246555328369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.527374,
+                        38.244251
+                    ],
+                    [
+                        -85.526352,
+                        38.246555
+                    ],
+                    [
+                        -85.525932,
+                        38.246185
+                    ],
+                    [
+                        -85.523232,
+                        38.244205
+                    ],
+                    [
+                        -85.527374,
+                        38.244251
+                    ]
+                ]
+            ]
+        ]
+    }
+}

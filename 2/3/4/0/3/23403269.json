@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23403269,
+    "properties": {
+        "woe_id": 23403269,
+        "place_id": "msuT..2bApi1xjTesw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "College Park, Saskatoon, SK, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495710,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/23403269_20101216_1fe6d1b3b5.tar.gz"
+        },
+        "bbox": [
+            -106.60025787354,
+            52.117362976074,
+            -106.59973907471,
+            52.117496490479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -106.600082,
+                        52.117443
+                    ],
+                    [
+                        -106.599915,
+                        52.117496
+                    ],
+                    [
+                        -106.599739,
+                        52.117443
+                    ],
+                    [
+                        -106.599739,
+                        52.117416
+                    ],
+                    [
+                        -106.599915,
+                        52.117363
+                    ],
+                    [
+                        -106.600258,
+                        52.117363
+                    ],
+                    [
+                        -106.600082,
+                        52.117443
+                    ]
+                ]
+            ]
+        ]
+    }
+}

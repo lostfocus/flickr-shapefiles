@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483605,
+    "properties": {
+        "woe_id": 2483605,
+        "place_id": "67soOZCbBZRQWzQV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockwood Woods, Wilmington, DE, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292469722,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2483605_20101216_0b4ebd80eb.tar.gz"
+        },
+        "bbox": [
+            -75.523902893066,
+            39.771099090576,
+            -75.520706176758,
+            39.77367401123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.520706,
+                        39.772385
+                    ],
+                    [
+                        -75.520729,
+                        39.771099
+                    ],
+                    [
+                        -75.523903,
+                        39.771999
+                    ],
+                    [
+                        -75.521332,
+                        39.773674
+                    ],
+                    [
+                        -75.521156,
+                        39.773338
+                    ],
+                    [
+                        -75.520706,
+                        39.772385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

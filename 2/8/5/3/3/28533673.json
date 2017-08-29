@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533673,
+    "properties": {
+        "woe_id": 28533673,
+        "place_id": "1_WZteObCZn0CKyI_Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Koyabe 4 Chome, Yokosuka-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452747,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/28533673_20101215_8a553790f3.tar.gz"
+        },
+        "bbox": [
+            139.65548706055,
+            35.245014190674,
+            139.65927124023,
+            35.249614715576
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.659073,
+                        35.249352
+                    ],
+                    [
+                        139.659271,
+                        35.249298
+                    ],
+                    [
+                        139.658951,
+                        35.249199
+                    ],
+                    [
+                        139.655487,
+                        35.245014
+                    ],
+                    [
+                        139.657761,
+                        35.249615
+                    ],
+                    [
+                        139.659073,
+                        35.249352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

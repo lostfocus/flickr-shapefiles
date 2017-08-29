@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 28745975,
+    "properties": {
+        "woe_id": 28745975,
+        "place_id": "CA7RY3mbCZuhswUjVw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moores Beach, Delmont, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519329,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28745975_20101216_b39c4c4350.tar.gz"
+        },
+        "bbox": [
+            -74.951560974121,
+            39.20336151123,
+            -74.950210571289,
+            39.205619812012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.950294,
+                        39.203362
+                    ],
+                    [
+                        -74.951561,
+                        39.20562
+                    ],
+                    [
+                        -74.950256,
+                        39.203659
+                    ],
+                    [
+                        -74.950211,
+                        39.203552
+                    ],
+                    [
+                        -74.950294,
+                        39.203362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

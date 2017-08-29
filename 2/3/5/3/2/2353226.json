@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2353226,
+    "properties": {
+        "woe_id": 2353226,
+        "place_id": "GZtBLN6bApkOF5bq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Allatoona Shores, Acworth, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518563,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2353226_20101216_63f1c84798.tar.gz"
+        },
+        "bbox": [
+            -84.715057373047,
+            34.082946777344,
+            -84.708366394043,
+            34.090305328369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.711746,
+                        34.088032
+                    ],
+                    [
+                        -84.715057,
+                        34.090305
+                    ],
+                    [
+                        -84.7118,
+                        34.089417
+                    ],
+                    [
+                        -84.708534,
+                        34.087578
+                    ],
+                    [
+                        -84.708366,
+                        34.082947
+                    ],
+                    [
+                        -84.711746,
+                        34.088032
+                    ]
+                ]
+            ]
+        ]
+    }
+}

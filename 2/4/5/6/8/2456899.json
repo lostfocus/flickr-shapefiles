@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2456899,
+    "properties": {
+        "woe_id": 2456899,
+        "place_id": "Ba.sACKbBZmWcl5u",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nameloc Heights, Plymouth, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538426,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2456899_20101216_41258601ed.tar.gz"
+        },
+        "bbox": [
+            -70.551765441895,
+            41.818023681641,
+            -70.543128967285,
+            41.823974609375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.544159,
+                        41.822437
+                    ],
+                    [
+                        -70.543556,
+                        41.818024
+                    ],
+                    [
+                        -70.544159,
+                        41.818409
+                    ],
+                    [
+                        -70.548805,
+                        41.81842
+                    ],
+                    [
+                        -70.551765,
+                        41.818668
+                    ],
+                    [
+                        -70.547333,
+                        41.822247
+                    ],
+                    [
+                        -70.543129,
+                        41.823975
+                    ],
+                    [
+                        -70.544159,
+                        41.822437
+                    ]
+                ]
+            ]
+        ]
+    }
+}

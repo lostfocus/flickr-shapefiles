@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2401791,
+    "properties": {
+        "woe_id": 2401791,
+        "place_id": "gPAoO_ubBZwJU2Vn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fairview, Woodlyn, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440601,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2401791_20101215_36aede8025.tar.gz"
+        },
+        "bbox": [
+            -75.342781066895,
+            39.874332427979,
+            -75.335662841797,
+            39.87516784668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.337334,
+                        39.874332
+                    ],
+                    [
+                        -75.337669,
+                        39.874332
+                    ],
+                    [
+                        -75.342781,
+                        39.875031
+                    ],
+                    [
+                        -75.337334,
+                        39.874832
+                    ],
+                    [
+                        -75.335663,
+                        39.875168
+                    ],
+                    [
+                        -75.337334,
+                        39.874332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2402792,
+    "properties": {
+        "woe_id": 2402792,
+        "place_id": "ZN56Ef6bBZzW_5hV",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Federal Hill, Noblesville, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520498,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5047\/shapefiles\/2402792_20101216_80ea28548d.tar.gz"
+        },
+        "bbox": [
+            -86.030502319336,
+            40.045776367188,
+            -86.023567199707,
+            40.048183441162
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.024239,
+                        40.046013
+                    ],
+                    [
+                        -86.025177,
+                        40.046509
+                    ],
+                    [
+                        -86.030502,
+                        40.045834
+                    ],
+                    [
+                        -86.02655,
+                        40.048183
+                    ],
+                    [
+                        -86.023911,
+                        40.047047
+                    ],
+                    [
+                        -86.023567,
+                        40.045776
+                    ],
+                    [
+                        -86.024239,
+                        40.046013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533066,
+    "properties": {
+        "woe_id": 28533066,
+        "place_id": "VHSCHOubCZn0QLYavw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakamachidai 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442147,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/28533066_20101215_7ca59e90db.tar.gz"
+        },
+        "bbox": [
+            139.58467102051,
+            35.535167694092,
+            139.58810424805,
+            35.537166595459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.588104,
+                        35.536327
+                    ],
+                    [
+                        139.587753,
+                        35.535835
+                    ],
+                    [
+                        139.584839,
+                        35.535168
+                    ],
+                    [
+                        139.584671,
+                        35.536835
+                    ],
+                    [
+                        139.587997,
+                        35.537167
+                    ],
+                    [
+                        139.588104,
+                        35.536327
+                    ]
+                ]
+            ]
+        ]
+    }
+}

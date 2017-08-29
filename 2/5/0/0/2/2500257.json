@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500257,
+    "properties": {
+        "woe_id": 2500257,
+        "place_id": "cdDdzZybBJz2sXud",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stone Tavern, Trenton, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454976,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2500257_20101215_01bd1b4af6.tar.gz"
+        },
+        "bbox": [
+            -74.490669250488,
+            40.190166473389,
+            -74.489730834961,
+            40.19348526001
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.490669,
+                        40.19038
+                    ],
+                    [
+                        -74.490395,
+                        40.191948
+                    ],
+                    [
+                        -74.489731,
+                        40.193485
+                    ],
+                    [
+                        -74.490112,
+                        40.190166
+                    ],
+                    [
+                        -74.490669,
+                        40.19038
+                    ]
+                ]
+            ]
+        ]
+    }
+}

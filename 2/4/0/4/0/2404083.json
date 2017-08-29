@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2404083,
+    "properties": {
+        "woe_id": 2404083,
+        "place_id": "ClfZoKmbBZyGenFx",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Flangas, Magna, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482395,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2404083_20101216_6b8c6da246.tar.gz"
+        },
+        "bbox": [
+            -112.09436035156,
+            40.703647613525,
+            -112.09173583984,
+            40.705493927002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.094193,
+                        40.704163
+                    ],
+                    [
+                        -112.09436,
+                        40.704601
+                    ],
+                    [
+                        -112.093414,
+                        40.705067
+                    ],
+                    [
+                        -112.092712,
+                        40.705494
+                    ],
+                    [
+                        -112.091736,
+                        40.703648
+                    ],
+                    [
+                        -112.094193,
+                        40.704163
+                    ]
+                ]
+            ]
+        ]
+    }
+}

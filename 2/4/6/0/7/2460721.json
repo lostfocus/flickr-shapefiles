@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2460721,
+    "properties": {
+        "woe_id": 2460721,
+        "place_id": "I8m3rVObBZrUCl1m",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Brewer, Brewer, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248126973,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3457\/shapefiles\/2460721_20090720_35fd000273.tar.gz"
+        },
+        "bbox": [
+            -68.727828979492,
+            44.822257995605,
+            -68.724876403809,
+            44.824401855469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.725235,
+                        44.824402
+                    ],
+                    [
+                        -68.724876,
+                        44.824123
+                    ],
+                    [
+                        -68.726135,
+                        44.822487
+                    ],
+                    [
+                        -68.727371,
+                        44.822258
+                    ],
+                    [
+                        -68.727829,
+                        44.822319
+                    ],
+                    [
+                        -68.725235,
+                        44.824402
+                    ]
+                ]
+            ]
+        ]
+    }
+}

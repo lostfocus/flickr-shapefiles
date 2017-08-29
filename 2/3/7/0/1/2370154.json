@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2370154,
+    "properties": {
+        "woe_id": 2370154,
+        "place_id": "hfHsQVWbApsdHtOk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brookview, Savannah, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521929,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2370154_20101216_9c67c89035.tar.gz"
+        },
+        "bbox": [
+            -81.078498840332,
+            31.999534606934,
+            -81.073524475098,
+            32.004070281982
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.077812,
+                        32.001507
+                    ],
+                    [
+                        -81.078499,
+                        32.00407
+                    ],
+                    [
+                        -81.073524,
+                        32.003929
+                    ],
+                    [
+                        -81.075874,
+                        31.999535
+                    ],
+                    [
+                        -81.078331,
+                        32.000179
+                    ],
+                    [
+                        -81.077812,
+                        32.001507
+                    ]
+                ]
+            ]
+        ]
+    }
+}

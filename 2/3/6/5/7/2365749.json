@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2365749,
+    "properties": {
+        "woe_id": 2365749,
+        "place_id": "XdZc2QWbAppMgWji",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Blue Bell, Newfield, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248168265,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2511\/shapefiles\/2365749_20090721_f8071828e0.tar.gz"
+        },
+        "bbox": [
+            -74.973846435547,
+            39.590759277344,
+            -74.970428466797,
+            39.59154510498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.970619,
+                        39.591545
+                    ],
+                    [
+                        -74.970428,
+                        39.591499
+                    ],
+                    [
+                        -74.970459,
+                        39.591492
+                    ],
+                    [
+                        -74.973785,
+                        39.590759
+                    ],
+                    [
+                        -74.973846,
+                        39.590858
+                    ],
+                    [
+                        -74.970619,
+                        39.591545
+                    ]
+                ]
+            ]
+        ]
+    }
+}

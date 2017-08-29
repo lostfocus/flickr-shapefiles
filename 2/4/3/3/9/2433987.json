@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2433987,
+    "properties": {
+        "woe_id": 2433987,
+        "place_id": "Jn4.PlSbBZ_0l5Dl",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kuhnsville, Allentown, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445489,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/2433987_20101215_fc4f6582c7.tar.gz"
+        },
+        "bbox": [
+            -75.592498779297,
+            40.5871925354,
+            -75.587524414062,
+            40.592071533203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.592117,
+                        40.590851
+                    ],
+                    [
+                        -75.592499,
+                        40.591167
+                    ],
+                    [
+                        -75.592331,
+                        40.591331
+                    ],
+                    [
+                        -75.587524,
+                        40.592072
+                    ],
+                    [
+                        -75.591095,
+                        40.587193
+                    ],
+                    [
+                        -75.592117,
+                        40.590851
+                    ]
+                ]
+            ]
+        ]
+    }
+}

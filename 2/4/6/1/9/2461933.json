@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2461933,
+    "properties": {
+        "woe_id": 2461933,
+        "place_id": "DYOBssObBZqlWMN3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northfield Farms, Northfield, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537798,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/2461933_20101216_38e018990c.tar.gz"
+        },
+        "bbox": [
+            -72.486267089844,
+            42.607810974121,
+            -72.478393554688,
+            42.61254119873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.486267,
+                        42.607841
+                    ],
+                    [
+                        -72.483589,
+                        42.610844
+                    ],
+                    [
+                        -72.479233,
+                        42.612541
+                    ],
+                    [
+                        -72.478394,
+                        42.611763
+                    ],
+                    [
+                        -72.483589,
+                        42.610844
+                    ],
+                    [
+                        -72.484726,
+                        42.607811
+                    ],
+                    [
+                        -72.486267,
+                        42.607841
+                    ]
+                ]
+            ]
+        ]
+    }
+}

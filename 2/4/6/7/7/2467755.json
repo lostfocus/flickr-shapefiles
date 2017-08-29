@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2467755,
+    "properties": {
+        "woe_id": 2467755,
+        "place_id": "yRabA3KbBZo2HfRT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Palmer Heights, Easton, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543129,
+        "alpha": 1.953125e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/2467755_20101216_67cbb6498b.tar.gz"
+        },
+        "bbox": [
+            -75.256492614746,
+            40.682243347168,
+            -75.252311706543,
+            40.687797546387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.252388,
+                        40.682919
+                    ],
+                    [
+                        -75.252609,
+                        40.682243
+                    ],
+                    [
+                        -75.256088,
+                        40.682831
+                    ],
+                    [
+                        -75.256493,
+                        40.683392
+                    ],
+                    [
+                        -75.252312,
+                        40.687798
+                    ],
+                    [
+                        -75.252388,
+                        40.682919
+                    ]
+                ]
+            ]
+        ]
+    }
+}

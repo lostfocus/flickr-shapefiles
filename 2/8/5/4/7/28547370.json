@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28547370,
+    "properties": {
+        "woe_id": 28547370,
+        "place_id": "RiApQLCbCZnRly2v.Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yatomicho Azanishiyashiki, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449582,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28547370_20101215_222572970d.tar.gz"
+        },
+        "bbox": [
+            136.94194030762,
+            35.121654510498,
+            136.94494628906,
+            35.122646331787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.944839,
+                        35.122013
+                    ],
+                    [
+                        136.944946,
+                        35.121941
+                    ],
+                    [
+                        136.944489,
+                        35.121655
+                    ],
+                    [
+                        136.943756,
+                        35.121857
+                    ],
+                    [
+                        136.94194,
+                        35.122646
+                    ],
+                    [
+                        136.944839,
+                        35.122013
+                    ]
+                ]
+            ]
+        ]
+    }
+}

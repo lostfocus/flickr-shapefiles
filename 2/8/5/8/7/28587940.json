@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28587940,
+    "properties": {
+        "woe_id": 28587940,
+        "place_id": "XXwuTwSbCZnE2I1u_g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Gladstone, Gladstone, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528658,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/28587940_20101216_27c04201fc.tar.gz"
+        },
+        "bbox": [
+            151.24504089355,
+            -23.852558135986,
+            151.24826049805,
+            -23.8492603302
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.245438,
+                        -23.850183
+                    ],
+                    [
+                        151.24826,
+                        -23.84926
+                    ],
+                    [
+                        151.248184,
+                        -23.852558
+                    ],
+                    [
+                        151.245346,
+                        -23.850437
+                    ],
+                    [
+                        151.245041,
+                        -23.850183
+                    ],
+                    [
+                        151.245438,
+                        -23.850183
+                    ]
+                ]
+            ]
+        ]
+    }
+}

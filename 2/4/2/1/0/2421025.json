@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2421025,
+    "properties": {
+        "woe_id": 2421025,
+        "place_id": "C5tv6QibBZ5vqERk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hidden Meadows, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451806,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/2421025_20101215_8ea26cf544.tar.gz"
+        },
+        "bbox": [
+            -111.84914398193,
+            40.603141784668,
+            -111.84582519531,
+            40.604759216309
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.845825,
+                        40.604759
+                    ],
+                    [
+                        -111.845978,
+                        40.604153
+                    ],
+                    [
+                        -111.849144,
+                        40.603142
+                    ],
+                    [
+                        -111.847771,
+                        40.604282
+                    ],
+                    [
+                        -111.84655,
+                        40.604652
+                    ],
+                    [
+                        -111.845825,
+                        40.604759
+                    ]
+                ]
+            ]
+        ]
+    }
+}

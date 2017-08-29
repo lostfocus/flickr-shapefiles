@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229090,
+    "properties": {
+        "woe_id": 20229090,
+        "place_id": "P0Jjc0CbAZ417oaIKA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bevtoftgade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524635,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/20229090_20101216_5c45556ea2.tar.gz"
+        },
+        "bbox": [
+            12.543908119202,
+            55.664394378662,
+            12.545657157898,
+            55.665412902832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.544345,
+                        55.664997
+                    ],
+                    [
+                        12.543908,
+                        55.665413
+                    ],
+                    [
+                        12.544487,
+                        55.66534
+                    ],
+                    [
+                        12.5456,
+                        55.664581
+                    ],
+                    [
+                        12.545657,
+                        55.664394
+                    ],
+                    [
+                        12.544345,
+                        55.664997
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20100564,
+    "properties": {
+        "woe_id": 20100564,
+        "place_id": "aTAxpy2bAZ1tgQ.Pmg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tunga, Trondheim, Sor-Trondelag, NO, Norway"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247738764,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3432\/shapefiles\/20100564_20090716_2649531bb9.tar.gz"
+        },
+        "bbox": [
+            10.457053184509,
+            63.419399261475,
+            10.461130142212,
+            63.42504119873
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.457053,
+                        63.421299
+                    ],
+                    [
+                        10.458705,
+                        63.425041
+                    ],
+                    [
+                        10.459542,
+                        63.42485
+                    ],
+                    [
+                        10.46113,
+                        63.420685
+                    ],
+                    [
+                        10.4601,
+                        63.419399
+                    ],
+                    [
+                        10.457053,
+                        63.421299
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2450906,
+    "properties": {
+        "woe_id": 2450906,
+        "place_id": "gUESf2mbBZm99374",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mile Straight, Hixson, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543740,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2450906_20101216_e58bd70bd4.tar.gz"
+        },
+        "bbox": [
+            -85.23828125,
+            35.234050750732,
+            -85.230133056641,
+            35.23828125
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.23468,
+                        35.238258
+                    ],
+                    [
+                        -85.230133,
+                        35.237415
+                    ],
+                    [
+                        -85.233131,
+                        35.234226
+                    ],
+                    [
+                        -85.238281,
+                        35.234051
+                    ],
+                    [
+                        -85.235367,
+                        35.238281
+                    ],
+                    [
+                        -85.23468,
+                        35.238258
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2392465,
+    "properties": {
+        "woe_id": 2392465,
+        "place_id": "nuF4bwKbApWmCSDB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dobson Shores, Mesa, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524198,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2392465_20101216_22499fbcb5.tar.gz"
+        },
+        "bbox": [
+            -111.88163757324,
+            33.373546600342,
+            -111.87652587891,
+            33.379531860352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.876831,
+                        33.377666
+                    ],
+                    [
+                        -111.876526,
+                        33.376698
+                    ],
+                    [
+                        -111.879616,
+                        33.373547
+                    ],
+                    [
+                        -111.881638,
+                        33.376259
+                    ],
+                    [
+                        -111.878296,
+                        33.379532
+                    ],
+                    [
+                        -111.876831,
+                        33.377666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

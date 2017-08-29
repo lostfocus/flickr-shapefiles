@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483249,
+    "properties": {
+        "woe_id": 2483249,
+        "place_id": "d7bXVv.bBZQ7CTMk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rock Valley, Holyoke, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528568,
+        "alpha": 1.0e-5,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2483249_20101216_6565a0a01d.tar.gz"
+        },
+        "bbox": [
+            -72.67546081543,
+            42.210224151611,
+            -72.672370910645,
+            42.21361541748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.672623,
+                        42.213615
+                    ],
+                    [
+                        -72.672508,
+                        42.213581
+                    ],
+                    [
+                        -72.672371,
+                        42.213165
+                    ],
+                    [
+                        -72.675461,
+                        42.210224
+                    ],
+                    [
+                        -72.672989,
+                        42.213543
+                    ],
+                    [
+                        -72.672623,
+                        42.213615
+                    ]
+                ]
+            ]
+        ]
+    }
+}

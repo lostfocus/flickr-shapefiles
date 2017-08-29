@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559113,
+    "properties": {
+        "woe_id": 28559113,
+        "place_id": "TUmvrsubCZnHk5VWWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishinakajima 2 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538781,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/28559113_20101216_cd1a779b22.tar.gz"
+        },
+        "bbox": [
+            135.4965057373,
+            34.719745635986,
+            135.49867248535,
+            34.723854064941
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.496506,
+                        34.721664
+                    ],
+                    [
+                        135.496506,
+                        34.721832
+                    ],
+                    [
+                        135.497177,
+                        34.723854
+                    ],
+                    [
+                        135.498428,
+                        34.722454
+                    ],
+                    [
+                        135.498672,
+                        34.719746
+                    ],
+                    [
+                        135.496506,
+                        34.721664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

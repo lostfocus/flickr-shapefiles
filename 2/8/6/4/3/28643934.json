@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28643934,
+    "properties": {
+        "woe_id": 28643934,
+        "place_id": "Hvdj2SSbCZpPA6jeGw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Meadowood, North Shore, Auckland, NZ, New Zealand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524825,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/28643934_20101216_120f51238d.tar.gz"
+        },
+        "bbox": [
+            174.72540283203,
+            -36.753421783447,
+            174.73056030273,
+            -36.748580932617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        174.73056,
+                        -36.75182
+                    ],
+                    [
+                        174.728683,
+                        -36.753422
+                    ],
+                    [
+                        174.728363,
+                        -36.751232
+                    ],
+                    [
+                        174.725403,
+                        -36.748581
+                    ],
+                    [
+                        174.728363,
+                        -36.751225
+                    ],
+                    [
+                        174.73056,
+                        -36.75182
+                    ]
+                ]
+            ]
+        ]
+    }
+}

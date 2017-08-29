@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28495838,
+    "properties": {
+        "woe_id": 28495838,
+        "place_id": "l4m2NLybCZgpBJEGvA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kitajunanajonishi 4 Chome, Sapporo-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455158,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/28495838_20101215_17bb0d340d.tar.gz"
+        },
+        "bbox": [
+            141.34541320801,
+            43.081233978271,
+            141.34643554688,
+            43.081520080566
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.346313,
+                        43.08152
+                    ],
+                    [
+                        141.346436,
+                        43.081272
+                    ],
+                    [
+                        141.346436,
+                        43.081234
+                    ],
+                    [
+                        141.345413,
+                        43.081352
+                    ],
+                    [
+                        141.345779,
+                        43.081432
+                    ],
+                    [
+                        141.346313,
+                        43.08152
+                    ]
+                ]
+            ]
+        ]
+    }
+}

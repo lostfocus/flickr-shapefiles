@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28545817,
+    "properties": {
+        "woe_id": 28545817,
+        "place_id": "b3oaeCmbCZnZlBIeFg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dekimachi 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536925,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/28545817_20101216_515ee68ec1.tar.gz"
+        },
+        "bbox": [
+            136.93266296387,
+            35.183666229248,
+            136.93466186523,
+            35.185333251953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.932907,
+                        35.18502
+                    ],
+                    [
+                        136.932663,
+                        35.185333
+                    ],
+                    [
+                        136.932831,
+                        35.185333
+                    ],
+                    [
+                        136.934662,
+                        35.185333
+                    ],
+                    [
+                        136.934006,
+                        35.183666
+                    ],
+                    [
+                        136.932907,
+                        35.18502
+                    ]
+                ]
+            ]
+        ]
+    }
+}

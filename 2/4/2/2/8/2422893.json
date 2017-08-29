@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2422893,
+    "properties": {
+        "woe_id": 2422893,
+        "place_id": "U519c2.bBZ6qkA3N",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Holbrook, Bountiful, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292485926,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2422893_20101216_10f8f72285.tar.gz"
+        },
+        "bbox": [
+            -111.88386535645,
+            40.892841339111,
+            -111.8814163208,
+            40.895732879639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.883492,
+                        40.895729
+                    ],
+                    [
+                        -111.881416,
+                        40.895477
+                    ],
+                    [
+                        -111.881546,
+                        40.892841
+                    ],
+                    [
+                        -111.883446,
+                        40.895031
+                    ],
+                    [
+                        -111.883865,
+                        40.895733
+                    ],
+                    [
+                        -111.883492,
+                        40.895729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

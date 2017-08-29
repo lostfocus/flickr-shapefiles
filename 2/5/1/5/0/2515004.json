@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2515004,
+    "properties": {
+        "woe_id": 2515004,
+        "place_id": "e7kwbs2bBJ2g1X1P",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Watauga Flats, Johnson City, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292494329,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/2515004_20101216_5775900f32.tar.gz"
+        },
+        "bbox": [
+            -82.298408508301,
+            36.369213104248,
+            -82.296524047852,
+            36.370250701904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.297844,
+                        36.369469
+                    ],
+                    [
+                        -82.298393,
+                        36.369213
+                    ],
+                    [
+                        -82.298409,
+                        36.370251
+                    ],
+                    [
+                        -82.296524,
+                        36.370018
+                    ],
+                    [
+                        -82.297844,
+                        36.369469
+                    ]
+                ]
+            ]
+        ]
+    }
+}

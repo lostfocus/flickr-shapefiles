@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2468553,
+    "properties": {
+        "woe_id": 2468553,
+        "place_id": "267AqMWbBZpdxUXu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkers Corners, Altamont, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524854,
+        "alpha": 1.25e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2468553_20101216_86224fc840.tar.gz"
+        },
+        "bbox": [
+            -73.989593505859,
+            42.731472015381,
+            -73.986885070801,
+            42.735652923584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.986885,
+                        42.731937
+                    ],
+                    [
+                        -73.987144,
+                        42.731472
+                    ],
+                    [
+                        -73.989594,
+                        42.734177
+                    ],
+                    [
+                        -73.988945,
+                        42.735653
+                    ],
+                    [
+                        -73.987221,
+                        42.73233
+                    ],
+                    [
+                        -73.986885,
+                        42.731937
+                    ]
+                ]
+            ]
+        ]
+    }
+}

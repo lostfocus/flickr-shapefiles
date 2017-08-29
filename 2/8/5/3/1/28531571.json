@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531571,
+    "properties": {
+        "woe_id": 28531571,
+        "place_id": "HCcaLPCbCZkkETTuHw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nakahara 5 Chome, Musashimurayama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528480,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28531571_20101216_7b466eb2d6.tar.gz"
+        },
+        "bbox": [
+            139.34817504883,
+            35.7453956604,
+            139.35264587402,
+            35.751361846924
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.348175,
+                        35.745396
+                    ],
+                    [
+                        139.348618,
+                        35.748611
+                    ],
+                    [
+                        139.348251,
+                        35.751362
+                    ],
+                    [
+                        139.352646,
+                        35.749577
+                    ],
+                    [
+                        139.351608,
+                        35.745747
+                    ],
+                    [
+                        139.348175,
+                        35.745396
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533602,
+    "properties": {
+        "woe_id": 28533602,
+        "place_id": "5rrb8y6bCZnph2oZFw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uragocho 1 Chome, Yokosuka-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292496371,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28533602_20101216_ed2aa1e80b.tar.gz"
+        },
+        "bbox": [
+            139.64016723633,
+            35.299831390381,
+            139.64199829102,
+            35.300998687744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.640167,
+                        35.300499
+                    ],
+                    [
+                        139.640167,
+                        35.300667
+                    ],
+                    [
+                        139.640839,
+                        35.300999
+                    ],
+                    [
+                        139.641998,
+                        35.299831
+                    ],
+                    [
+                        139.641006,
+                        35.299999
+                    ],
+                    [
+                        139.640167,
+                        35.300499
+                    ]
+                ]
+            ]
+        ]
+    }
+}

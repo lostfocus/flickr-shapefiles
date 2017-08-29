@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2379469,
+    "properties": {
+        "woe_id": 2379469,
+        "place_id": "BoJ_Q1mbAptwBl7d",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chestnut Ridge, Lancaster, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518570,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2379469_20101216_51a87745da.tar.gz"
+        },
+        "bbox": [
+            -76.388412475586,
+            40.043270111084,
+            -76.383331298828,
+            40.048069000244
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.386147,
+                        40.04327
+                    ],
+                    [
+                        -76.388412,
+                        40.048069
+                    ],
+                    [
+                        -76.385498,
+                        40.048
+                    ],
+                    [
+                        -76.383331,
+                        40.047222
+                    ],
+                    [
+                        -76.386147,
+                        40.04327
+                    ]
+                ]
+            ]
+        ]
+    }
+}

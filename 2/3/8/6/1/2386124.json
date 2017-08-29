@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2386124,
+    "properties": {
+        "woe_id": 2386124,
+        "place_id": "3Jrj5kubApSHsHcI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coury Heights, Acushnet, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539155,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/2386124_20101216_1608b5a217.tar.gz"
+        },
+        "bbox": [
+            -70.928642272949,
+            41.69677734375,
+            -70.922157287598,
+            41.698734283447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.928642,
+                        41.697723
+                    ],
+                    [
+                        -70.927834,
+                        41.698734
+                    ],
+                    [
+                        -70.922874,
+                        41.698238
+                    ],
+                    [
+                        -70.922157,
+                        41.696777
+                    ],
+                    [
+                        -70.926872,
+                        41.697395
+                    ],
+                    [
+                        -70.928642,
+                        41.697723
+                    ]
+                ]
+            ]
+        ]
+    }
+}

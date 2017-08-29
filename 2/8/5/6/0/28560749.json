@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28560749,
+    "properties": {
+        "woe_id": 28560749,
+        "place_id": "khyoofqbCZl1omQp9Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Toneyama 6 Chome, Toyonaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449579,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/28560749_20101215_ef6f81667a.tar.gz"
+        },
+        "bbox": [
+            135.45454406738,
+            34.798351287842,
+            135.45764160156,
+            34.801334381104
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.454544,
+                        34.801048
+                    ],
+                    [
+                        135.455002,
+                        34.801334
+                    ],
+                    [
+                        135.457642,
+                        34.798702
+                    ],
+                    [
+                        135.457321,
+                        34.798553
+                    ],
+                    [
+                        135.456909,
+                        34.798351
+                    ],
+                    [
+                        135.454544,
+                        34.801048
+                    ]
+                ]
+            ]
+        ]
+    }
+}

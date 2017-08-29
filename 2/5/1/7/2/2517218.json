@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2517218,
+    "properties": {
+        "woe_id": 2517218,
+        "place_id": "xbtzD7ybBJ3uyAUP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Hopkinton, Contoocook, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550791,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2517218_20101217_3d2929ed9d.tar.gz"
+        },
+        "bbox": [
+            -71.748985290527,
+            43.189033508301,
+            -71.747955322266,
+            43.192863464355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.748711,
+                        43.192669
+                    ],
+                    [
+                        -71.747955,
+                        43.192207
+                    ],
+                    [
+                        -71.748016,
+                        43.189034
+                    ],
+                    [
+                        -71.74865,
+                        43.192558
+                    ],
+                    [
+                        -71.748985,
+                        43.192863
+                    ],
+                    [
+                        -71.748711,
+                        43.192669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

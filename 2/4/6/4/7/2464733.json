@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2464733,
+    "properties": {
+        "woe_id": 2464733,
+        "place_id": "teNSDWmbBZoo4TXU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Old City, Strafford, VT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550554,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/2464733_20101217_8648299ed1.tar.gz"
+        },
+        "bbox": [
+            -72.378784179688,
+            43.863361358643,
+            -72.375152587891,
+            43.866603851318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.378784,
+                        43.866528
+                    ],
+                    [
+                        -72.377663,
+                        43.866604
+                    ],
+                    [
+                        -72.377167,
+                        43.865112
+                    ],
+                    [
+                        -72.37561,
+                        43.863361
+                    ],
+                    [
+                        -72.375153,
+                        43.863499
+                    ],
+                    [
+                        -72.377167,
+                        43.865112
+                    ],
+                    [
+                        -72.378784,
+                        43.866528
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2480700,
+    "properties": {
+        "woe_id": 2480700,
+        "place_id": "YDFr7_GbBZS58GXp",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rich Valley, Rosemount, MN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544249,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2480700_20101217_b77583e12f.tar.gz"
+        },
+        "bbox": [
+            -93.025802612305,
+            44.739501953125,
+            -93.025115966797,
+            44.740219116211
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.025116,
+                        44.739853
+                    ],
+                    [
+                        -93.025337,
+                        44.739502
+                    ],
+                    [
+                        -93.025803,
+                        44.739861
+                    ],
+                    [
+                        -93.025566,
+                        44.740021
+                    ],
+                    [
+                        -93.025169,
+                        44.740219
+                    ],
+                    [
+                        -93.025116,
+                        44.739853
+                    ]
+                ]
+            ]
+        ]
+    }
+}

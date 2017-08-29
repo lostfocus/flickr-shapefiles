@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2395280,
+    "properties": {
+        "woe_id": 2395280,
+        "place_id": "p5ZtyS.bApXozsij",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Alton, Alton, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248220936,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2143\/shapefiles\/2395280_20090722_fd2eeaca23.tar.gz"
+        },
+        "bbox": [
+            -71.224365234375,
+            43.515216827393,
+            -71.207817077637,
+            43.545204162598
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.224365,
+                        43.531002
+                    ],
+                    [
+                        -71.207817,
+                        43.545204
+                    ],
+                    [
+                        -71.214455,
+                        43.530193
+                    ],
+                    [
+                        -71.214409,
+                        43.515217
+                    ],
+                    [
+                        -71.219986,
+                        43.527672
+                    ],
+                    [
+                        -71.224365,
+                        43.531002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

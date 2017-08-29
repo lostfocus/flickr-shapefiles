@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2410499,
+    "properties": {
+        "woe_id": 2410499,
+        "place_id": "zLPOXSubBZ0TByZf",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Glacier Mesa, Sandy, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448376,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2410499_20101215_86b741f98d.tar.gz"
+        },
+        "bbox": [
+            -111.80689239502,
+            40.570091247559,
+            -111.805519104,
+            40.573352813721
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.806892,
+                        40.570091
+                    ],
+                    [
+                        -111.806877,
+                        40.570171
+                    ],
+                    [
+                        -111.805885,
+                        40.573265
+                    ],
+                    [
+                        -111.805519,
+                        40.573353
+                    ],
+                    [
+                        -111.806229,
+                        40.57037
+                    ],
+                    [
+                        -111.806892,
+                        40.570091
+                    ]
+                ]
+            ]
+        ]
+    }
+}

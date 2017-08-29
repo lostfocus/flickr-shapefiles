@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2410457,
+    "properties": {
+        "woe_id": 2410457,
+        "place_id": "EDBKEAObBZ0JFCtZ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Girarde, Campbell Hall, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537984,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/2410457_20101216_c6bfb58367.tar.gz"
+        },
+        "bbox": [
+            -74.231742858887,
+            41.445064544678,
+            -74.231163024902,
+            41.446262359619
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.231163,
+                        41.445538
+                    ],
+                    [
+                        -74.231743,
+                        41.445065
+                    ],
+                    [
+                        -74.231438,
+                        41.446262
+                    ],
+                    [
+                        -74.231323,
+                        41.445961
+                    ],
+                    [
+                        -74.231209,
+                        41.445644
+                    ],
+                    [
+                        -74.231163,
+                        41.445538
+                    ]
+                ]
+            ]
+        ]
+    }
+}

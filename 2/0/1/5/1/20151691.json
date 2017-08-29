@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 20151691,
+    "properties": {
+        "woe_id": 20151691,
+        "place_id": "fT21QYGbAZ3nz3Lqqg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sorentorp, Solna, Stockholm, SE, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524634,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/20151691_20101216_2887bc48ca.tar.gz"
+        },
+        "bbox": [
+            17.993524551392,
+            59.394424438477,
+            18.001956939697,
+            59.401889801025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.993534,
+                        59.395134
+                    ],
+                    [
+                        17.996777,
+                        59.399506
+                    ],
+                    [
+                        18.00127,
+                        59.40189
+                    ],
+                    [
+                        18.001957,
+                        59.400497
+                    ],
+                    [
+                        17.996777,
+                        59.399506
+                    ],
+                    [
+                        17.99509,
+                        59.394424
+                    ],
+                    [
+                        17.993525,
+                        59.39513
+                    ],
+                    [
+                        17.993534,
+                        59.395134
+                    ]
+                ]
+            ]
+        ]
+    }
+}

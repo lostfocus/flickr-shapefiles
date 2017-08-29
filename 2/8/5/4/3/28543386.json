@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28543386,
+    "properties": {
+        "woe_id": 28543386,
+        "place_id": "hZsrc5ubCZkeQFufvg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Otemachi 1 Chome, Minokamo-shi, Gifu Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463669,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/28543386_20101216_a04625931c.tar.gz"
+        },
+        "bbox": [
+            137.01530456543,
+            35.444004058838,
+            137.01979064941,
+            35.447803497314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.018646,
+                        35.445789
+                    ],
+                    [
+                        137.015305,
+                        35.447803
+                    ],
+                    [
+                        137.019058,
+                        35.446564
+                    ],
+                    [
+                        137.019791,
+                        35.445515
+                    ],
+                    [
+                        137.019241,
+                        35.444004
+                    ],
+                    [
+                        137.018646,
+                        35.445789
+                    ]
+                ]
+            ]
+        ]
+    }
+}

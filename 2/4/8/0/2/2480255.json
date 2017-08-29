@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2480255,
+    "properties": {
+        "woe_id": 2480255,
+        "place_id": "s_0ywgObBZQlpQJY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Reppert Addition, Sioux Falls, SD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519928,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/2480255_20101216_fc6a6a7b62.tar.gz"
+        },
+        "bbox": [
+            -96.77848815918,
+            43.563724517822,
+            -96.773239135742,
+            43.570068359375
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -96.778488,
+                        43.565971
+                    ],
+                    [
+                        -96.777191,
+                        43.570068
+                    ],
+                    [
+                        -96.776848,
+                        43.567642
+                    ],
+                    [
+                        -96.773239,
+                        43.563725
+                    ],
+                    [
+                        -96.777847,
+                        43.56601
+                    ],
+                    [
+                        -96.778488,
+                        43.565971
+                    ]
+                ]
+            ]
+        ]
+    }
+}

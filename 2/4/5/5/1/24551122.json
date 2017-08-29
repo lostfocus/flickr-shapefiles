@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 24551122,
+    "properties": {
+        "woe_id": 24551122,
+        "place_id": "kl9XrxGbBZnA5GLw2w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monte Bello, Guaynabo, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457972,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/24551122_20101216_5496c779b9.tar.gz"
+        },
+        "bbox": [
+            -66.123504638672,
+            18.365604400635,
+            -66.118408203125,
+            18.371173858643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.119125,
+                        18.369162
+                    ],
+                    [
+                        -66.123505,
+                        18.370653
+                    ],
+                    [
+                        -66.120697,
+                        18.371174
+                    ],
+                    [
+                        -66.119865,
+                        18.370262
+                    ],
+                    [
+                        -66.118408,
+                        18.369335
+                    ],
+                    [
+                        -66.119324,
+                        18.365604
+                    ],
+                    [
+                        -66.119125,
+                        18.369162
+                    ]
+                ]
+            ]
+        ]
+    }
+}

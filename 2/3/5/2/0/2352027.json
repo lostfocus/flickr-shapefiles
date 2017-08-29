@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2352027,
+    "properties": {
+        "woe_id": 2352027,
+        "place_id": "a4t550WbApkEslws",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Addison Park Three and Four, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534686,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/2352027_20101216_3c0473cfbb.tar.gz"
+        },
+        "bbox": [
+            -112.02623748779,
+            40.701927185059,
+            -112.02112579346,
+            40.707740783691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -112.026237,
+                        40.701927
+                    ],
+                    [
+                        -112.026169,
+                        40.702499
+                    ],
+                    [
+                        -112.025253,
+                        40.707043
+                    ],
+                    [
+                        -112.021126,
+                        40.707741
+                    ],
+                    [
+                        -112.024857,
+                        40.702808
+                    ],
+                    [
+                        -112.026237,
+                        40.701927
+                    ]
+                ]
+            ]
+        ]
+    }
+}

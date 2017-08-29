@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2435090,
+    "properties": {
+        "woe_id": 2435090,
+        "place_id": "kvIRNkybBZ8absm7",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake Pine, Medford, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549317,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2435090_20101217_d57ec7fa38.tar.gz"
+        },
+        "bbox": [
+            -74.853454589844,
+            39.857902526855,
+            -74.852127075195,
+            39.862480163574
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.852127,
+                        39.861824
+                    ],
+                    [
+                        -74.85273,
+                        39.859829
+                    ],
+                    [
+                        -74.853455,
+                        39.857903
+                    ],
+                    [
+                        -74.853241,
+                        39.859055
+                    ],
+                    [
+                        -74.852768,
+                        39.86248
+                    ],
+                    [
+                        -74.852127,
+                        39.861824
+                    ]
+                ]
+            ]
+        ]
+    }
+}

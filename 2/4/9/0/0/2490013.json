@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2490013,
+    "properties": {
+        "woe_id": 2490013,
+        "place_id": "f_JQM8ibBZUGTGFr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scotts Corner, Montgomery, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239571931,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3366\/shapefiles\/2490013_20090412_405b48821a.tar.gz"
+        },
+        "bbox": [
+            -74.204887390137,
+            41.524578094482,
+            -74.198204040527,
+            41.526306152344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.198723,
+                        41.52486
+                    ],
+                    [
+                        -74.199341,
+                        41.524578
+                    ],
+                    [
+                        -74.204887,
+                        41.525879
+                    ],
+                    [
+                        -74.200233,
+                        41.526306
+                    ],
+                    [
+                        -74.198204,
+                        41.525108
+                    ],
+                    [
+                        -74.198723,
+                        41.52486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

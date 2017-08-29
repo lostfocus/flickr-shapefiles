@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28548223,
+    "properties": {
+        "woe_id": 28548223,
+        "place_id": "z0ZeAfebCZk3dWUjsA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shinagawacho 2 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452743,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/28548223_20101215_022cc3b7fd.tar.gz"
+        },
+        "bbox": [
+            136.85983276367,
+            35.102165222168,
+            136.86201477051,
+            35.103164672852
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.859833,
+                        35.102501
+                    ],
+                    [
+                        136.859833,
+                        35.102665
+                    ],
+                    [
+                        136.860504,
+                        35.103165
+                    ],
+                    [
+                        136.862015,
+                        35.102707
+                    ],
+                    [
+                        136.860336,
+                        35.102165
+                    ],
+                    [
+                        136.859833,
+                        35.102501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28523485,
+    "properties": {
+        "woe_id": 28523485,
+        "place_id": "whm2dWGbCZlxXC7.Mw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sasame 8 Chome, Toda-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449507,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/28523485_20101215_5a50c5c83e.tar.gz"
+        },
+        "bbox": [
+            139.64120483398,
+            35.801624298096,
+            139.64332580566,
+            35.80485534668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.643326,
+                        35.804821
+                    ],
+                    [
+                        139.64238,
+                        35.801624
+                    ],
+                    [
+                        139.642319,
+                        35.801701
+                    ],
+                    [
+                        139.641205,
+                        35.804855
+                    ],
+                    [
+                        139.641296,
+                        35.804829
+                    ],
+                    [
+                        139.643326,
+                        35.804821
+                    ]
+                ]
+            ]
+        ]
+    }
+}

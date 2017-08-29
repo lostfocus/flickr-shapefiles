@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2363761,
+    "properties": {
+        "woe_id": 2363761,
+        "place_id": "cS9XsLabApqr08Zs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Beverly Heights, Altavista, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292440516,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2363761_20101215_0da4fb208e.tar.gz"
+        },
+        "bbox": [
+            -79.304222106934,
+            37.108943939209,
+            -79.302146911621,
+            37.109970092773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.302147,
+                        37.109596
+                    ],
+                    [
+                        -79.302361,
+                        37.10952
+                    ],
+                    [
+                        -79.303802,
+                        37.108944
+                    ],
+                    [
+                        -79.304222,
+                        37.10899
+                    ],
+                    [
+                        -79.302536,
+                        37.10997
+                    ],
+                    [
+                        -79.302147,
+                        37.109596
+                    ]
+                ]
+            ]
+        ]
+    }
+}

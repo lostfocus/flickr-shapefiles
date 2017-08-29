@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2465726,
+    "properties": {
+        "woe_id": 2465726,
+        "place_id": "j1Chd7WbBZpY61MR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Onteo Beach, Hamlin, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525604,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5049\/shapefiles\/2465726_20101216_a9aa434f57.tar.gz"
+        },
+        "bbox": [
+            -77.944519042969,
+            43.36100769043,
+            -77.94164276123,
+            43.362190246582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.944481,
+                        43.361881
+                    ],
+                    [
+                        -77.944519,
+                        43.36219
+                    ],
+                    [
+                        -77.943016,
+                        43.361881
+                    ],
+                    [
+                        -77.941643,
+                        43.361008
+                    ],
+                    [
+                        -77.944481,
+                        43.361881
+                    ]
+                ]
+            ]
+        ]
+    }
+}

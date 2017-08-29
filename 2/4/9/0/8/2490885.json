@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2490885,
+    "properties": {
+        "woe_id": 2490885,
+        "place_id": "VJj.wqSbBZX64Lte",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sequoyah Hills, Knoxville, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248158539,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3433\/shapefiles\/2490885_20090721_b4d272a4f6.tar.gz"
+        },
+        "bbox": [
+            -83.977256774902,
+            35.927040100098,
+            -83.971855163574,
+            35.930515289307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.971855,
+                        35.929855
+                    ],
+                    [
+                        -83.972519,
+                        35.929493
+                    ],
+                    [
+                        -83.975372,
+                        35.92704
+                    ],
+                    [
+                        -83.977257,
+                        35.927631
+                    ],
+                    [
+                        -83.973656,
+                        35.930515
+                    ],
+                    [
+                        -83.971855,
+                        35.929855
+                    ]
+                ]
+            ]
+        ]
+    }
+}

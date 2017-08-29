@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2437887,
+    "properties": {
+        "woe_id": 2437887,
+        "place_id": "zfwQPgqbBZ9FC8pf",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lees Crossing, La Grange, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460122,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/2437887_20101216_8a34bba45a.tar.gz"
+        },
+        "bbox": [
+            -85.045501708984,
+            33.046123504639,
+            -85.045440673828,
+            33.046184539795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.045441,
+                        33.046165
+                    ],
+                    [
+                        -85.045441,
+                        33.046143
+                    ],
+                    [
+                        -85.045494,
+                        33.046124
+                    ],
+                    [
+                        -85.045502,
+                        33.046131
+                    ],
+                    [
+                        -85.045494,
+                        33.046185
+                    ],
+                    [
+                        -85.045441,
+                        33.046165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

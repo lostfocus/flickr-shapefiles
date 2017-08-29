@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2496361,
+    "properties": {
+        "woe_id": 2496361,
+        "place_id": "MWnT6OibBZVrtADN",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Hingham, Hingham, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546763,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2496361_20101217_6895778865.tar.gz"
+        },
+        "bbox": [
+            -70.886535644531,
+            42.203060150146,
+            -70.882843017578,
+            42.207767486572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.886536,
+                        42.206142
+                    ],
+                    [
+                        -70.882843,
+                        42.207767
+                    ],
+                    [
+                        -70.884354,
+                        42.203114
+                    ],
+                    [
+                        -70.884377,
+                        42.20306
+                    ],
+                    [
+                        -70.886536,
+                        42.206142
+                    ]
+                ]
+            ]
+        ]
+    }
+}

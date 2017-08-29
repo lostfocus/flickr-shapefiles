@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2372160,
+    "properties": {
+        "woe_id": 2372160,
+        "place_id": "av6TOCGbApsoJ_V1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burnhams, Cassadaga, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549323,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/2372160_20101217_7914db9750.tar.gz"
+        },
+        "bbox": [
+            -79.326843261719,
+            42.350124359131,
+            -79.32145690918,
+            42.352993011475
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.325325,
+                        42.351765
+                    ],
+                    [
+                        -79.326843,
+                        42.352928
+                    ],
+                    [
+                        -79.326805,
+                        42.352993
+                    ],
+                    [
+                        -79.325256,
+                        42.352169
+                    ],
+                    [
+                        -79.321457,
+                        42.350124
+                    ],
+                    [
+                        -79.325325,
+                        42.351765
+                    ]
+                ]
+            ]
+        ]
+    }
+}

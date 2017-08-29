@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2480120,
+    "properties": {
+        "woe_id": 2480120,
+        "place_id": "5ThI6UebBZSuBLHJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Remsen Mill, Neptune, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533323,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2480120_20101216_0ffeabc881.tar.gz"
+        },
+        "bbox": [
+            -74.053833007812,
+            40.192485809326,
+            -74.049652099609,
+            40.197666168213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.053146,
+                        40.192486
+                    ],
+                    [
+                        -74.053497,
+                        40.192501
+                    ],
+                    [
+                        -74.053329,
+                        40.192833
+                    ],
+                    [
+                        -74.053833,
+                        40.197666
+                    ],
+                    [
+                        -74.049652,
+                        40.19379
+                    ],
+                    [
+                        -74.053146,
+                        40.192486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

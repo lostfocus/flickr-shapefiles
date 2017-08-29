@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28544746,
+    "properties": {
+        "woe_id": 28544746,
+        "place_id": ".Z1H9GabCZl39BxQuA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mochimune 5 Chome, Shizuoka-shi, Shizuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489346,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28544746_20101216_928c7893a2.tar.gz"
+        },
+        "bbox": [
+            138.35777282715,
+            34.918346405029,
+            138.36370849609,
+            34.922164916992
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.358826,
+                        34.921497
+                    ],
+                    [
+                        138.359329,
+                        34.922165
+                    ],
+                    [
+                        138.363708,
+                        34.918346
+                    ],
+                    [
+                        138.357941,
+                        34.919441
+                    ],
+                    [
+                        138.357773,
+                        34.920174
+                    ],
+                    [
+                        138.358826,
+                        34.921497
+                    ]
+                ]
+            ]
+        ]
+    }
+}

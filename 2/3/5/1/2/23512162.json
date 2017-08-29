@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23512162,
+    "properties": {
+        "woe_id": 23512162,
+        "place_id": "_5VmhvibApnNBKCWgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "English Turn, New Orleans, LA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478079,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/23512162_20101216_2f2457dbce.tar.gz"
+        },
+        "bbox": [
+            -89.903480529785,
+            29.90502166748,
+            -89.89835357666,
+            29.912582397461
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.902321,
+                        29.905022
+                    ],
+                    [
+                        -89.903481,
+                        29.905487
+                    ],
+                    [
+                        -89.901619,
+                        29.90984
+                    ],
+                    [
+                        -89.89904,
+                        29.912582
+                    ],
+                    [
+                        -89.898354,
+                        29.906548
+                    ],
+                    [
+                        -89.902321,
+                        29.905022
+                    ]
+                ]
+            ]
+        ]
+    }
+}

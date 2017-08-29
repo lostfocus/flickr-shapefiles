@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2456210,
+    "properties": {
+        "woe_id": 2456210,
+        "place_id": "R.quogGbBZnjryEE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mulberry Hill, Easton, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529130,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2456210_20101216_ea1ee12a00.tar.gz"
+        },
+        "bbox": [
+            -76.062843322754,
+            38.784111022949,
+            -76.0595703125,
+            38.788730621338
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.060921,
+                        38.784866
+                    ],
+                    [
+                        -76.062836,
+                        38.785999
+                    ],
+                    [
+                        -76.062843,
+                        38.786697
+                    ],
+                    [
+                        -76.060066,
+                        38.788731
+                    ],
+                    [
+                        -76.05957,
+                        38.784111
+                    ],
+                    [
+                        -76.060921,
+                        38.784866
+                    ]
+                ]
+            ]
+        ]
+    }
+}

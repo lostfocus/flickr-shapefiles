@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2381989,
+    "properties": {
+        "woe_id": 2381989,
+        "place_id": ".xfJksSbApSVdiL.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cloverdale, Boise, ID, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481675,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2381989_20101216_c2bce10d2d.tar.gz"
+        },
+        "bbox": [
+            -116.35771179199,
+            43.618507385254,
+            -116.35358428955,
+            43.619571685791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.355904,
+                        43.619083
+                    ],
+                    [
+                        -116.355217,
+                        43.619175
+                    ],
+                    [
+                        -116.353584,
+                        43.618958
+                    ],
+                    [
+                        -116.355392,
+                        43.618507
+                    ],
+                    [
+                        -116.357712,
+                        43.619572
+                    ],
+                    [
+                        -116.355904,
+                        43.619083
+                    ]
+                ]
+            ]
+        ]
+    }
+}

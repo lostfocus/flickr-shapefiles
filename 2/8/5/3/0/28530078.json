@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530078,
+    "properties": {
+        "woe_id": 28530078,
+        "place_id": "cusuiHSbCZm8j1j0DQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Owadamachi 5 Chome, Hachioji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457674,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/28530078_20101216_14d426c273.tar.gz"
+        },
+        "bbox": [
+            139.35215759277,
+            35.66321182251,
+            139.35279846191,
+            35.664176940918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.352509,
+                        35.663212
+                    ],
+                    [
+                        139.352325,
+                        35.663334
+                    ],
+                    [
+                        139.352158,
+                        35.664074
+                    ],
+                    [
+                        139.352798,
+                        35.664177
+                    ],
+                    [
+                        139.352661,
+                        35.663334
+                    ],
+                    [
+                        139.352509,
+                        35.663212
+                    ]
+                ]
+            ]
+        ]
+    }
+}

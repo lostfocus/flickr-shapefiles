@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2387077,
+    "properties": {
+        "woe_id": 2387077,
+        "place_id": "y49MY_ebApRR3slO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Crestfield, Macon, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525528,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2387077_20101216_593a8536a7.tar.gz"
+        },
+        "bbox": [
+            -83.696342468262,
+            32.81428527832,
+            -83.693328857422,
+            32.8180809021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.693329,
+                        32.818081
+                    ],
+                    [
+                        -83.69339,
+                        32.817425
+                    ],
+                    [
+                        -83.696342,
+                        32.814285
+                    ],
+                    [
+                        -83.696228,
+                        32.815929
+                    ],
+                    [
+                        -83.693672,
+                        32.818043
+                    ],
+                    [
+                        -83.693329,
+                        32.818081
+                    ]
+                ]
+            ]
+        ]
+    }
+}

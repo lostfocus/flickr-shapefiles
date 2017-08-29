@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2432542,
+    "properties": {
+        "woe_id": 2432542,
+        "place_id": "g8kwTXqbBZ9SJhvC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingdom Hall, East Falmouth, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523351,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2432542_20101216_9dde96c2a0.tar.gz"
+        },
+        "bbox": [
+            -70.531196594238,
+            41.570316314697,
+            -70.527526855469,
+            41.575466156006
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.529091,
+                        41.575466
+                    ],
+                    [
+                        -70.527527,
+                        41.574169
+                    ],
+                    [
+                        -70.529701,
+                        41.572231
+                    ],
+                    [
+                        -70.531197,
+                        41.570316
+                    ],
+                    [
+                        -70.530594,
+                        41.571625
+                    ],
+                    [
+                        -70.529091,
+                        41.575466
+                    ]
+                ]
+            ]
+        ]
+    }
+}

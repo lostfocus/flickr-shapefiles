@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2442489,
+    "properties": {
+        "woe_id": 2442489,
+        "place_id": "ddT0c6qbBZhm7w8U",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lovi, Freedom, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438246,
+        "alpha": 1.0e-5,
+        "points": 22,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/2442489_20101215_539431960b.tar.gz"
+        },
+        "bbox": [
+            -80.145927429199,
+            40.684406280518,
+            -80.144592285156,
+            40.685031890869
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.145699,
+                        40.685032
+                    ],
+                    [
+                        -80.144707,
+                        40.684711
+                    ],
+                    [
+                        -80.144592,
+                        40.684406
+                    ],
+                    [
+                        -80.145348,
+                        40.684418
+                    ],
+                    [
+                        -80.145927,
+                        40.684849
+                    ],
+                    [
+                        -80.145699,
+                        40.685032
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2428763,
+    "properties": {
+        "woe_id": 2428763,
+        "place_id": "loAWLVmbBZ6O6Rj0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jaybird, Newport, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533986,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2428763_20101216_204e3bac32.tar.gz"
+        },
+        "bbox": [
+            -83.205558776855,
+            35.944747924805,
+            -83.203155517578,
+            35.948047637939
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -83.205383,
+                        35.946167
+                    ],
+                    [
+                        -83.205559,
+                        35.947182
+                    ],
+                    [
+                        -83.203667,
+                        35.948048
+                    ],
+                    [
+                        -83.203636,
+                        35.946198
+                    ],
+                    [
+                        -83.203156,
+                        35.944748
+                    ],
+                    [
+                        -83.205383,
+                        35.946167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

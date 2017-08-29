@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461948,
+    "properties": {
+        "woe_id": 2461948,
+        "place_id": "BWNL_7ObBZo3g.r2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Northgate, Columbus, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542227,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2461948_20101216_3797c465aa.tar.gz"
+        },
+        "bbox": [
+            -84.9140625,
+            32.510917663574,
+            -84.910903930664,
+            32.515331268311
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.910904,
+                        32.512531
+                    ],
+                    [
+                        -84.912384,
+                        32.510918
+                    ],
+                    [
+                        -84.914063,
+                        32.512249
+                    ],
+                    [
+                        -84.913338,
+                        32.515331
+                    ],
+                    [
+                        -84.91114,
+                        32.514057
+                    ],
+                    [
+                        -84.910904,
+                        32.512531
+                    ]
+                ]
+            ]
+        ]
+    }
+}

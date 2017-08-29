@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2438409,
+    "properties": {
+        "woe_id": 2438409,
+        "place_id": "o6MPIhibBZ8D5THx",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Leonard, Clearfield, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536722,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/2438409_20101216_f2674bcddb.tar.gz"
+        },
+        "bbox": [
+            -78.421226501465,
+            41.024803161621,
+            -78.418594360352,
+            41.025333404541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.420166,
+                        41.025333
+                    ],
+                    [
+                        -78.419273,
+                        41.024998
+                    ],
+                    [
+                        -78.418594,
+                        41.024803
+                    ],
+                    [
+                        -78.419724,
+                        41.025002
+                    ],
+                    [
+                        -78.421227,
+                        41.024803
+                    ],
+                    [
+                        -78.420166,
+                        41.025333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

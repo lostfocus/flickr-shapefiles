@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2511952,
+    "properties": {
+        "woe_id": 2511952,
+        "place_id": "cyymmOabBJ3F.R3P",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vestavia Forest, Birmingham, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543732,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2511952_20101216_c6cccc39d6.tar.gz"
+        },
+        "bbox": [
+            -86.790962219238,
+            33.429508209229,
+            -86.786697387695,
+            33.431774139404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.790359,
+                        33.429703
+                    ],
+                    [
+                        -86.790962,
+                        33.431774
+                    ],
+                    [
+                        -86.786697,
+                        33.431702
+                    ],
+                    [
+                        -86.786903,
+                        33.431099
+                    ],
+                    [
+                        -86.787102,
+                        33.429508
+                    ],
+                    [
+                        -86.790359,
+                        33.429703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

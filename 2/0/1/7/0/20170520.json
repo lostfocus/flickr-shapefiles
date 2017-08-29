@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20170520,
+    "properties": {
+        "woe_id": 20170520,
+        "place_id": "FatfUjKbAZ1Q15uicA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Schmachtendorf, Oberhausen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538727,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/20170520_20101216_ea6c0554fa.tar.gz"
+        },
+        "bbox": [
+            6.826865196228,
+            51.53893661499,
+            6.833710193634,
+            51.544521331787
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.83371,
+                        51.544521
+                    ],
+                    [
+                        6.833152,
+                        51.541103
+                    ],
+                    [
+                        6.831822,
+                        51.54258
+                    ],
+                    [
+                        6.826865,
+                        51.538937
+                    ],
+                    [
+                        6.829032,
+                        51.54335
+                    ],
+                    [
+                        6.83371,
+                        51.544521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2364267,
+    "properties": {
+        "woe_id": 2364267,
+        "place_id": "EfX7lRWbApqwGfwg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Billings Park, Superior, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234484402,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3372\/shapefiles\/2364267_20090213_929512f30c.tar.gz"
+        },
+        "bbox": [
+            -92.136451721191,
+            46.723285675049,
+            -92.124870300293,
+            46.72998046875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -92.132805,
+                        46.725647
+                    ],
+                    [
+                        -92.136452,
+                        46.72998
+                    ],
+                    [
+                        -92.12487,
+                        46.723286
+                    ],
+                    [
+                        -92.129349,
+                        46.723587
+                    ],
+                    [
+                        -92.132805,
+                        46.725647
+                    ]
+                ]
+            ]
+        ]
+    }
+}

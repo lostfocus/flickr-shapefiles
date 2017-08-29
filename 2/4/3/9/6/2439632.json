@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2439632,
+    "properties": {
+        "woe_id": 2439632,
+        "place_id": ".ClSB5WbBZ.mSMVi",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Linda Loma Acres, Bountiful, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536424,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2439632_20101216_e2819902ca.tar.gz"
+        },
+        "bbox": [
+            -111.88757324219,
+            40.865432739258,
+            -111.88542938232,
+            40.867931365967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.887573,
+                        40.866714
+                    ],
+                    [
+                        -111.887428,
+                        40.867931
+                    ],
+                    [
+                        -111.885429,
+                        40.865448
+                    ],
+                    [
+                        -111.886993,
+                        40.865433
+                    ],
+                    [
+                        -111.88723,
+                        40.865471
+                    ],
+                    [
+                        -111.887573,
+                        40.866714
+                    ]
+                ]
+            ]
+        ]
+    }
+}

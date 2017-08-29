@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229113,
+    "properties": {
+        "woe_id": 20229113,
+        "place_id": "1piV70ObAZ5yCjXzfg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "B\u00fclowsvej, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441897,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/20229113_20101215_794d14c839.tar.gz"
+        },
+        "bbox": [
+            12.545870780945,
+            55.683971405029,
+            12.548151016235,
+            55.685203552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.546805,
+                        55.685204
+                    ],
+                    [
+                        12.54734,
+                        55.685032
+                    ],
+                    [
+                        12.548151,
+                        55.684093
+                    ],
+                    [
+                        12.54728,
+                        55.683971
+                    ],
+                    [
+                        12.545871,
+                        55.685135
+                    ],
+                    [
+                        12.546805,
+                        55.685204
+                    ]
+                ]
+            ]
+        ]
+    }
+}

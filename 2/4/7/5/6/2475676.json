@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2475676,
+    "properties": {
+        "woe_id": 2475676,
+        "place_id": "nODKwZabBZv8kOZr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Portland, Lansing, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518681,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2475676_20101216_87f0ac7b69.tar.gz"
+        },
+        "bbox": [
+            -76.53084564209,
+            42.545475006104,
+            -76.529670715332,
+            42.546726226807
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.529686,
+                        42.545849
+                    ],
+                    [
+                        -76.529892,
+                        42.545475
+                    ],
+                    [
+                        -76.530846,
+                        42.545822
+                    ],
+                    [
+                        -76.530846,
+                        42.546223
+                    ],
+                    [
+                        -76.530464,
+                        42.546726
+                    ],
+                    [
+                        -76.529671,
+                        42.546059
+                    ],
+                    [
+                        -76.529686,
+                        42.545849
+                    ]
+                ]
+            ]
+        ]
+    }
+}

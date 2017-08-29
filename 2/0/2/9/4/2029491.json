@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2029491,
+    "properties": {
+        "woe_id": 2029491,
+        "place_id": "bMN3EsqbAZ6szt7o",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Krasnyy Gorod Sad, Rostov-na-Donu, Rostovskaya Oblast, RU, Russia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533208,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2029491_20101216_9a40bf3043.tar.gz"
+        },
+        "bbox": [
+            39.628158569336,
+            47.213920593262,
+            39.637298583984,
+            47.219276428223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        39.632664,
+                        47.217876
+                    ],
+                    [
+                        39.637299,
+                        47.219276
+                    ],
+                    [
+                        39.632729,
+                        47.215546
+                    ],
+                    [
+                        39.628159,
+                        47.213921
+                    ],
+                    [
+                        39.628799,
+                        47.218342
+                    ],
+                    [
+                        39.632149,
+                        47.218109
+                    ],
+                    [
+                        39.632664,
+                        47.217876
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28521535,
+    "properties": {
+        "woe_id": 28521535,
+        "place_id": ".ZTG6HCbCZkyuapd5Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kataokamachi 2 Chome, Takasaki-shi, Gunma Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292434600,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28521535_20101215_1a1f09c62d.tar.gz"
+        },
+        "bbox": [
+            138.99047851562,
+            36.305595397949,
+            138.99061584473,
+            36.306121826172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.99054,
+                        36.306122
+                    ],
+                    [
+                        138.990585,
+                        36.306091
+                    ],
+                    [
+                        138.990616,
+                        36.305981
+                    ],
+                    [
+                        138.990494,
+                        36.305637
+                    ],
+                    [
+                        138.990479,
+                        36.305595
+                    ],
+                    [
+                        138.99054,
+                        36.306122
+                    ]
+                ]
+            ]
+        ]
+    }
+}

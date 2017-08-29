@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2473654,
+    "properties": {
+        "woe_id": 2473654,
+        "place_id": "wkbjhx.bBZuYQ_zz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Pleasant Acres, Starkville, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518705,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/2473654_20101216_854c162856.tar.gz"
+        },
+        "bbox": [
+            -88.815330505371,
+            33.444000244141,
+            -88.81266784668,
+            33.450748443604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.812668,
+                        33.447556
+                    ],
+                    [
+                        -88.815331,
+                        33.444
+                    ],
+                    [
+                        -88.814331,
+                        33.448833
+                    ],
+                    [
+                        -88.814423,
+                        33.450748
+                    ],
+                    [
+                        -88.814163,
+                        33.449165
+                    ],
+                    [
+                        -88.812668,
+                        33.447556
+                    ]
+                ]
+            ]
+        ]
+    }
+}

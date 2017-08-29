@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2376247,
+    "properties": {
+        "woe_id": 2376247,
+        "place_id": "smybffCbAptcfz1u",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Catawba, Hammondsport, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247983212,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3512\/shapefiles\/2376247_20090719_54418ddd1f.tar.gz"
+        },
+        "bbox": [
+            -77.177062988281,
+            42.484630584717,
+            -77.147583007812,
+            42.49817276001
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.155609,
+                        42.487099
+                    ],
+                    [
+                        -77.164772,
+                        42.486111
+                    ],
+                    [
+                        -77.177063,
+                        42.484631
+                    ],
+                    [
+                        -77.166595,
+                        42.498173
+                    ],
+                    [
+                        -77.147583,
+                        42.491467
+                    ],
+                    [
+                        -77.155609,
+                        42.487099
+                    ]
+                ]
+            ]
+        ]
+    }
+}

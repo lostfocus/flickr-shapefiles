@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2497916,
+    "properties": {
+        "woe_id": 2497916,
+        "place_id": "smtNq8WbBZWpmFWE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Springhill, Gainesville, FL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535364,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2497916_20101216_9522f2a5f1.tar.gz"
+        },
+        "bbox": [
+            -82.323364257812,
+            29.641139984131,
+            -82.317520141602,
+            29.64642906189
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.321503,
+                        29.643913
+                    ],
+                    [
+                        -82.323364,
+                        29.64114
+                    ],
+                    [
+                        -82.323349,
+                        29.641382
+                    ],
+                    [
+                        -82.322304,
+                        29.645439
+                    ],
+                    [
+                        -82.31752,
+                        29.646429
+                    ],
+                    [
+                        -82.321503,
+                        29.643913
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530533,
+    "properties": {
+        "woe_id": 28530533,
+        "place_id": "AHeRor6bCZnthY30Ig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sakaecho 3 Chome, Fuchu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435042,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/28530533_20101215_c6d843b084.tar.gz"
+        },
+        "bbox": [
+            139.46957397461,
+            35.686233520508,
+            139.4701385498,
+            35.688510894775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.469574,
+                        35.687843
+                    ],
+                    [
+                        139.469635,
+                        35.688511
+                    ],
+                    [
+                        139.470139,
+                        35.686234
+                    ],
+                    [
+                        139.470016,
+                        35.686253
+                    ],
+                    [
+                        139.469589,
+                        35.687801
+                    ],
+                    [
+                        139.469574,
+                        35.687843
+                    ]
+                ]
+            ]
+        ]
+    }
+}

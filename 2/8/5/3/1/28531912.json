@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531912,
+    "properties": {
+        "woe_id": 28531912,
+        "place_id": "ao7NFiqbCZlgzC13yA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimosueyoshi 5 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452591,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28531912_20101215_a37f2ce900.tar.gz"
+        },
+        "bbox": [
+            139.66630554199,
+            35.516742706299,
+            139.66790771484,
+            35.520473480225
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.667297,
+                        35.517181
+                    ],
+                    [
+                        139.667343,
+                        35.516743
+                    ],
+                    [
+                        139.666306,
+                        35.516773
+                    ],
+                    [
+                        139.667709,
+                        35.520264
+                    ],
+                    [
+                        139.667908,
+                        35.520473
+                    ],
+                    [
+                        139.667297,
+                        35.517181
+                    ]
+                ]
+            ]
+        ]
+    }
+}

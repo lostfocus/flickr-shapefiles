@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28568303,
+    "properties": {
+        "woe_id": 28568303,
+        "place_id": "crpaFq.bCZkhSUKpzA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Iwaya 1 Chome, Itami-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481363,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/28568303_20101216_31fc856336.tar.gz"
+        },
+        "bbox": [
+            135.44235229492,
+            34.776782989502,
+            135.44352722168,
+            34.777858734131
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.443512,
+                        34.776783
+                    ],
+                    [
+                        135.442352,
+                        34.777859
+                    ],
+                    [
+                        135.443359,
+                        34.777008
+                    ],
+                    [
+                        135.443527,
+                        34.776798
+                    ],
+                    [
+                        135.443527,
+                        34.776783
+                    ],
+                    [
+                        135.443512,
+                        34.776783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

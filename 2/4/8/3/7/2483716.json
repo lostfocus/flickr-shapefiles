@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483716,
+    "properties": {
+        "woe_id": 2483716,
+        "place_id": "9VAnh6ibBZQccpFJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rocky Nook Point, Kingston, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543765,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2483716_20101216_cc45e2b2cf.tar.gz"
+        },
+        "bbox": [
+            -70.71036529541,
+            41.995349884033,
+            -70.70629119873,
+            42.002365112305
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.708008,
+                        42.002365
+                    ],
+                    [
+                        -70.707031,
+                        42.000614
+                    ],
+                    [
+                        -70.706291,
+                        41.99535
+                    ],
+                    [
+                        -70.708435,
+                        41.995605
+                    ],
+                    [
+                        -70.710365,
+                        41.998444
+                    ],
+                    [
+                        -70.708008,
+                        42.002365
+                    ]
+                ]
+            ]
+        ]
+    }
+}

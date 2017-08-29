@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2354352,
+    "properties": {
+        "woe_id": 2354352,
+        "place_id": "eaXSVvGbApmrBFGr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Amityville, Douglassville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525450,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2354352_20101216_dda6901a54.tar.gz"
+        },
+        "bbox": [
+            -75.737663269043,
+            40.297424316406,
+            -75.731552124023,
+            40.301517486572
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.733681,
+                        40.297424
+                    ],
+                    [
+                        -75.736382,
+                        40.298607
+                    ],
+                    [
+                        -75.737663,
+                        40.300499
+                    ],
+                    [
+                        -75.731552,
+                        40.301517
+                    ],
+                    [
+                        -75.733734,
+                        40.298019
+                    ],
+                    [
+                        -75.733681,
+                        40.297424
+                    ]
+                ]
+            ]
+        ]
+    }
+}

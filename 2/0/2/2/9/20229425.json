@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229425,
+    "properties": {
+        "woe_id": 20229425,
+        "place_id": "lPCCHZObAZ65Dp9xtg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sch\u00f8nbergsgade, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292495588,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/20229425_20101216_83a0bcb019.tar.gz"
+        },
+        "bbox": [
+            12.551760673523,
+            55.673858642578,
+            12.553500175476,
+            55.674499511719
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.551761,
+                        55.674164
+                    ],
+                    [
+                        12.551849,
+                        55.674412
+                    ],
+                    [
+                        12.5535,
+                        55.6745
+                    ],
+                    [
+                        12.553231,
+                        55.673859
+                    ],
+                    [
+                        12.552909,
+                        55.673988
+                    ],
+                    [
+                        12.551761,
+                        55.674164
+                    ]
+                ]
+            ]
+        ]
+    }
+}

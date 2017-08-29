@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2498220,
+    "properties": {
+        "woe_id": 2498220,
+        "place_id": "bzNLZfGbBZUzHOCA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Springdale, Darlington, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527511,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2498220_20101216_0f147cda82.tar.gz"
+        },
+        "bbox": [
+            -79.871459960938,
+            34.302772521973,
+            -79.866691589355,
+            34.305248260498
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.87146,
+                        34.302891
+                    ],
+                    [
+                        -79.871399,
+                        34.303246
+                    ],
+                    [
+                        -79.866692,
+                        34.305248
+                    ],
+                    [
+                        -79.871109,
+                        34.302856
+                    ],
+                    [
+                        -79.871239,
+                        34.302773
+                    ],
+                    [
+                        -79.87146,
+                        34.302891
+                    ]
+                ]
+            ]
+        ]
+    }
+}

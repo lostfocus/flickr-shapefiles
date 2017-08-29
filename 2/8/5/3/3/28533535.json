@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28533535,
+    "properties": {
+        "woe_id": 28533535,
+        "place_id": "LDPLZpGbCZkYlHLFbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yurigaoka 1 Chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452674,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/28533535_20101215_ffcd237136.tar.gz"
+        },
+        "bbox": [
+            139.51486206055,
+            35.607765197754,
+            139.5188293457,
+            35.609287261963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.515625,
+                        35.608307
+                    ],
+                    [
+                        139.514862,
+                        35.607765
+                    ],
+                    [
+                        139.516327,
+                        35.608444
+                    ],
+                    [
+                        139.517776,
+                        35.609287
+                    ],
+                    [
+                        139.518829,
+                        35.608719
+                    ],
+                    [
+                        139.516327,
+                        35.608444
+                    ],
+                    [
+                        139.515625,
+                        35.608307
+                    ]
+                ]
+            ]
+        ]
+    }
+}

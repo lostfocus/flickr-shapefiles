@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2403769,
+    "properties": {
+        "woe_id": 2403769,
+        "place_id": "rIH8dqebBZxF80jt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Five Corners, Waterville, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520669,
+        "alpha": 1.0e-5,
+        "points": 30,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/2403769_20101216_aebfdecb4e.tar.gz"
+        },
+        "bbox": [
+            -75.382293701172,
+            42.91300201416,
+            -75.375434875488,
+            42.914459228516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.379158,
+                        42.913002
+                    ],
+                    [
+                        -75.382294,
+                        42.914368
+                    ],
+                    [
+                        -75.379211,
+                        42.914383
+                    ],
+                    [
+                        -75.378754,
+                        42.914459
+                    ],
+                    [
+                        -75.375435,
+                        42.913692
+                    ],
+                    [
+                        -75.378891,
+                        42.913025
+                    ],
+                    [
+                        -75.379158,
+                        42.913002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229515,
+    "properties": {
+        "woe_id": 20229515,
+        "place_id": "t5ITxhebAZ6aAsTYAA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vodroffslud, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247822283,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2647\/shapefiles\/20229515_20090717_4ab6544d41.tar.gz"
+        },
+        "bbox": [
+            12.554550170898,
+            55.676879882812,
+            12.556599617004,
+            55.678165435791
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.556428,
+                        55.677826
+                    ],
+                    [
+                        12.55455,
+                        55.67688
+                    ],
+                    [
+                        12.556021,
+                        55.678051
+                    ],
+                    [
+                        12.5566,
+                        55.678165
+                    ],
+                    [
+                        12.556557,
+                        55.678082
+                    ],
+                    [
+                        12.556428,
+                        55.677826
+                    ]
+                ]
+            ]
+        ]
+    }
+}

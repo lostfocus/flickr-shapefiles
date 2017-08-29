@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29229569,
+    "properties": {
+        "woe_id": 29229569,
+        "place_id": "LDU3uKubCJ6sCvSzQg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moravia, Baltimore, MD, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446359,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/29229569_20101215_89dbb93961.tar.gz"
+        },
+        "bbox": [
+            -76.569137573242,
+            39.338745117188,
+            -76.566078186035,
+            39.342712402344
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.569138,
+                        39.342651
+                    ],
+                    [
+                        -76.566292,
+                        39.342712
+                    ],
+                    [
+                        -76.566345,
+                        39.342579
+                    ],
+                    [
+                        -76.566078,
+                        39.338745
+                    ],
+                    [
+                        -76.567307,
+                        39.339615
+                    ],
+                    [
+                        -76.569138,
+                        39.342651
+                    ]
+                ]
+            ]
+        ]
+    }
+}

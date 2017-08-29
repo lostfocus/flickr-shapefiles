@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28522714,
+    "properties": {
+        "woe_id": 28522714,
+        "place_id": "WXn.kH.bCZm0SGXnuQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashitokorozawa 3 Chome, Tokorozawa-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446084,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/28522714_20101215_a2ccfcf799.tar.gz"
+        },
+        "bbox": [
+            139.51950073242,
+            35.80916595459,
+            139.5255279541,
+            35.81311416626
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.521332,
+                        35.809166
+                    ],
+                    [
+                        139.519501,
+                        35.812
+                    ],
+                    [
+                        139.525528,
+                        35.813114
+                    ],
+                    [
+                        139.5215,
+                        35.809334
+                    ],
+                    [
+                        139.5215,
+                        35.809166
+                    ],
+                    [
+                        139.521332,
+                        35.809166
+                    ]
+                ]
+            ]
+        ]
+    }
+}

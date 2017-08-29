@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2343565,
+    "properties": {
+        "woe_id": 2343565,
+        "place_id": "V3XcM.2bApiZ4HZt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dolmabache, Gumussuyu\/beyoglu, Istanbul, TR, Turkey"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247923569,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2553\/shapefiles\/2343565_20090718_0ae0343894.tar.gz"
+        },
+        "bbox": [
+            28.996845245361,
+            41.038009643555,
+            29.001539230347,
+            41.040130615234
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        28.998795,
+                        41.038227
+                    ],
+                    [
+                        28.996845,
+                        41.03801
+                    ],
+                    [
+                        28.999346,
+                        41.03875
+                    ],
+                    [
+                        29.001539,
+                        41.040131
+                    ],
+                    [
+                        29.000719,
+                        41.038677
+                    ],
+                    [
+                        28.998795,
+                        41.038227
+                    ]
+                ]
+            ]
+        ]
+    }
+}

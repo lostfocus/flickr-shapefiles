@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502970,
+    "properties": {
+        "woe_id": 2502970,
+        "place_id": "5zaZ8BWbBJzm0YE4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swanzey Station, Swanzey, NH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523365,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/2502970_20101216_47d88246a0.tar.gz"
+        },
+        "bbox": [
+            -72.286743164062,
+            42.886108398438,
+            -72.286392211914,
+            42.886497497559
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.286545,
+                        42.886189
+                    ],
+                    [
+                        -72.286743,
+                        42.886295
+                    ],
+                    [
+                        -72.286606,
+                        42.886497
+                    ],
+                    [
+                        -72.286392,
+                        42.886108
+                    ],
+                    [
+                        -72.286545,
+                        42.886189
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28539886,
+    "properties": {
+        "woe_id": 28539886,
+        "place_id": "kWeuaICbCZmM9ssqVA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chuo 1 Chome, Ueda-shi, Nagano Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435056,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/28539886_20101215_964b1875b4.tar.gz"
+        },
+        "bbox": [
+            138.2508392334,
+            36.395515441895,
+            138.25399780273,
+            36.398498535156
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.25383,
+                        36.398167
+                    ],
+                    [
+                        138.253998,
+                        36.397999
+                    ],
+                    [
+                        138.253235,
+                        36.395649
+                    ],
+                    [
+                        138.253128,
+                        36.395515
+                    ],
+                    [
+                        138.250839,
+                        36.398499
+                    ],
+                    [
+                        138.25383,
+                        36.398167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

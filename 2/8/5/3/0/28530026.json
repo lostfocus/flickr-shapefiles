@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 28530026,
+    "properties": {
+        "woe_id": 28530026,
+        "place_id": "9gMHcAabCZld2jBqMA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamikoiwa 7 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521472,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/28530026_20101216_fb87349b95.tar.gz"
+        },
+        "bbox": [
+            139.88140869141,
+            35.728332519531,
+            139.88383483887,
+            35.731758117676
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.883835,
+                        35.728832
+                    ],
+                    [
+                        139.883835,
+                        35.728664
+                    ],
+                    [
+                        139.883667,
+                        35.728333
+                    ],
+                    [
+                        139.883163,
+                        35.728664
+                    ],
+                    [
+                        139.881409,
+                        35.730217
+                    ],
+                    [
+                        139.882431,
+                        35.731758
+                    ],
+                    [
+                        139.883835,
+                        35.728832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

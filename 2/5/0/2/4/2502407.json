@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2502407,
+    "properties": {
+        "woe_id": 2502407,
+        "place_id": "6_y98T6bBJx3BxQU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Sunset Acres, Jacksonville, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544790,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2502407_20101217_ec190bc2ac.tar.gz"
+        },
+        "bbox": [
+            -77.397308349609,
+            34.788215637207,
+            -77.391410827637,
+            34.790828704834
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.397308,
+                        34.790829
+                    ],
+                    [
+                        -77.395958,
+                        34.790443
+                    ],
+                    [
+                        -77.391411,
+                        34.788383
+                    ],
+                    [
+                        -77.394638,
+                        34.788216
+                    ],
+                    [
+                        -77.397308,
+                        34.790829
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2498267,
+    "properties": {
+        "woe_id": 2498267,
+        "place_id": "luAtFaubBZWgpvOn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Springfield, Atlanta, GA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522166,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2498267_20101216_9b685f4b0f.tar.gz"
+        },
+        "bbox": [
+            -84.316421508789,
+            33.943626403809,
+            -84.310997009277,
+            33.946781158447
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -84.310997,
+                        33.945049
+                    ],
+                    [
+                        -84.313377,
+                        33.943626
+                    ],
+                    [
+                        -84.316422,
+                        33.946781
+                    ],
+                    [
+                        -84.313118,
+                        33.945278
+                    ],
+                    [
+                        -84.310997,
+                        33.945049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

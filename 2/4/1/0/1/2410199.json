@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2410199,
+    "properties": {
+        "woe_id": 2410199,
+        "place_id": "OOKP6tqbBZ2wzQ0r",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gilead, Hebron, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540084,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/2410199_20101216_0d8d69c5c9.tar.gz"
+        },
+        "bbox": [
+            -72.392562866211,
+            41.669944763184,
+            -72.389808654785,
+            41.672584533691
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.391609,
+                        41.670521
+                    ],
+                    [
+                        -72.392563,
+                        41.669945
+                    ],
+                    [
+                        -72.391953,
+                        41.670757
+                    ],
+                    [
+                        -72.39167,
+                        41.671165
+                    ],
+                    [
+                        -72.389809,
+                        41.672585
+                    ],
+                    [
+                        -72.391609,
+                        41.670521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28542636,
+    "properties": {
+        "woe_id": 28542636,
+        "place_id": "3ahpHqWbCZnsYRHTaw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kokeizancho 3 Chome, Tajimi-shi, Gifu Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234559290,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3518\/shapefiles\/28542636_20090213_0ac7f62478.tar.gz"
+        },
+        "bbox": [
+            137.12677001953,
+            35.352195739746,
+            137.12692260742,
+            35.352275848389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.126831,
+                        35.352249
+                    ],
+                    [
+                        137.126862,
+                        35.352276
+                    ],
+                    [
+                        137.126923,
+                        35.352249
+                    ],
+                    [
+                        137.12677,
+                        35.352196
+                    ],
+                    [
+                        137.126801,
+                        35.352222
+                    ],
+                    [
+                        137.126831,
+                        35.352249
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2510863,
+    "properties": {
+        "woe_id": 2510863,
+        "place_id": "rTKu9febBJ11UlSG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley Hill, Hendersonville, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445066,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2510863_20101215_0a35ae48ab.tar.gz"
+        },
+        "bbox": [
+            -82.441497802734,
+            35.291027069092,
+            -82.441421508789,
+            35.291065216064
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.441422,
+                        35.291054
+                    ],
+                    [
+                        -82.441467,
+                        35.291027
+                    ],
+                    [
+                        -82.441498,
+                        35.291058
+                    ],
+                    [
+                        -82.441452,
+                        35.291065
+                    ],
+                    [
+                        -82.441422,
+                        35.291058
+                    ],
+                    [
+                        -82.441422,
+                        35.291054
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721716,
+    "properties": {
+        "woe_id": 22721716,
+        "place_id": "phiXbeabA5vyOVP_.Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "St Marys, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551233,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/22721716_20101217_1fba4f3d4f.tar.gz"
+        },
+        "bbox": [
+            138.57952880859,
+            -35.008110046387,
+            138.58145141602,
+            -35.003578186035
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.581268,
+                        -35.003578
+                    ],
+                    [
+                        138.581451,
+                        -35.003887
+                    ],
+                    [
+                        138.580536,
+                        -35.00811
+                    ],
+                    [
+                        138.579529,
+                        -35.007511
+                    ],
+                    [
+                        138.581268,
+                        -35.003609
+                    ],
+                    [
+                        138.581268,
+                        -35.003578
+                    ]
+                ]
+            ]
+        ]
+    }
+}

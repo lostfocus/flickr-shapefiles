@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28554810,
+    "properties": {
+        "woe_id": 28554810,
+        "place_id": "YenLLNCbCZmFSX8frw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kitasakicho 6 Chome, Obu-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489345,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/28554810_20101216_7fbbbfb9aa.tar.gz"
+        },
+        "bbox": [
+            136.99626159668,
+            35.039001464844,
+            137.00312805176,
+            35.041416168213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.999435,
+                        35.040436
+                    ],
+                    [
+                        136.998917,
+                        35.040501
+                    ],
+                    [
+                        136.996262,
+                        35.041416
+                    ],
+                    [
+                        136.999481,
+                        35.040688
+                    ],
+                    [
+                        137.003128,
+                        35.039001
+                    ],
+                    [
+                        136.999435,
+                        35.040436
+                    ]
+                ]
+            ]
+        ]
+    }
+}

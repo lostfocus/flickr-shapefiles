@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531710,
+    "properties": {
+        "woe_id": 28531710,
+        "place_id": "e6qm052bCZlPTopzcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ozakudai 1 Chome, Hamura-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521454,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/28531710_20101216_1fb6146715.tar.gz"
+        },
+        "bbox": [
+            139.30192565918,
+            35.775901794434,
+            139.30340576172,
+            35.777805328369
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.302795,
+                        35.776352
+                    ],
+                    [
+                        139.302353,
+                        35.775902
+                    ],
+                    [
+                        139.301926,
+                        35.776302
+                    ],
+                    [
+                        139.302109,
+                        35.777802
+                    ],
+                    [
+                        139.303406,
+                        35.777805
+                    ],
+                    [
+                        139.302795,
+                        35.776352
+                    ]
+                ]
+            ]
+        ]
+    }
+}

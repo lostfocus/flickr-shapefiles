@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28546744,
+    "properties": {
+        "woe_id": 28546744,
+        "place_id": "MCgMukGbCZmaK2MvWQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kanayama 5 Chome, Nagoya-shi, Aichi Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292392807,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/28546744_20101215_18d8281e37.tar.gz"
+        },
+        "bbox": [
+            136.90856933594,
+            35.146625518799,
+            136.90972900391,
+            35.147144317627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.908569,
+                        35.146664
+                    ],
+                    [
+                        136.9086,
+                        35.146793
+                    ],
+                    [
+                        136.909561,
+                        35.147144
+                    ],
+                    [
+                        136.909729,
+                        35.147003
+                    ],
+                    [
+                        136.908646,
+                        35.146626
+                    ],
+                    [
+                        136.908569,
+                        35.146664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

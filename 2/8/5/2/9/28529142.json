@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529142,
+    "properties": {
+        "woe_id": 28529142,
+        "place_id": "KyL_adebCZkSPmsIfQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishiogu 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292489282,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/28529142_20101216_50f0257630.tar.gz"
+        },
+        "bbox": [
+            139.75779724121,
+            35.743637084961,
+            139.76049804688,
+            35.745918273926
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.760498,
+                        35.745667
+                    ],
+                    [
+                        139.760498,
+                        35.745499
+                    ],
+                    [
+                        139.760376,
+                        35.743637
+                    ],
+                    [
+                        139.757797,
+                        35.744884
+                    ],
+                    [
+                        139.759079,
+                        35.745918
+                    ],
+                    [
+                        139.760498,
+                        35.745667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

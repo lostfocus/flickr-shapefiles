@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2525349,
+    "properties": {
+        "woe_id": 2525349,
+        "place_id": "h8eGJaWbBJ7Su7nj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zion, Oshkosh, WI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247766242,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3629\/shapefiles\/2525349_20090716_3231684be5.tar.gz"
+        },
+        "bbox": [
+            -88.716087341309,
+            43.997299194336,
+            -88.712982177734,
+            44.016166687012
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.71566,
+                        43.997299
+                    ],
+                    [
+                        -88.716087,
+                        43.997444
+                    ],
+                    [
+                        -88.713203,
+                        44.016167
+                    ],
+                    [
+                        -88.712982,
+                        43.997917
+                    ],
+                    [
+                        -88.715096,
+                        43.997482
+                    ],
+                    [
+                        -88.71566,
+                        43.997299
+                    ]
+                ]
+            ]
+        ]
+    }
+}

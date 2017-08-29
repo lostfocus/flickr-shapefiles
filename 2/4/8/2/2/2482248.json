@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2482248,
+    "properties": {
+        "woe_id": 2482248,
+        "place_id": "AvIv2lybBZQiZYCe",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Riverside, Lyons, CO, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543434,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/2482248_20101216_2122551da5.tar.gz"
+        },
+        "bbox": [
+            -105.42128753662,
+            40.1702003479,
+            -105.41648101807,
+            40.174774169922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -105.416481,
+                        40.171822
+                    ],
+                    [
+                        -105.416824,
+                        40.170544
+                    ],
+                    [
+                        -105.418304,
+                        40.1702
+                    ],
+                    [
+                        -105.421288,
+                        40.174774
+                    ],
+                    [
+                        -105.417061,
+                        40.172955
+                    ],
+                    [
+                        -105.416481,
+                        40.171822
+                    ]
+                ]
+            ]
+        ]
+    }
+}

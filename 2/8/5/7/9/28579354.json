@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28579354,
+    "properties": {
+        "woe_id": 28579354,
+        "place_id": "1Ccc7wSbCZmJcYVvow",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ohashi 1 Chome, Yukuhashi-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457736,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28579354_20101216_088955b06f.tar.gz"
+        },
+        "bbox": [
+            130.97985839844,
+            33.729995727539,
+            130.98065185547,
+            33.731479644775
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.980423,
+                        33.730186
+                    ],
+                    [
+                        130.979858,
+                        33.73148
+                    ],
+                    [
+                        130.980453,
+                        33.731453
+                    ],
+                    [
+                        130.980652,
+                        33.730057
+                    ],
+                    [
+                        130.980515,
+                        33.729996
+                    ],
+                    [
+                        130.980423,
+                        33.730186
+                    ]
+                ]
+            ]
+        ]
+    }
+}

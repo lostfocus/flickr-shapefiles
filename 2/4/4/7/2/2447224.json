@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2447224,
+    "properties": {
+        "woe_id": 2447224,
+        "place_id": "Xk9peaSbBZiJ3nl2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mayfield, Fredericksburg, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292531041,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/2447224_20101216_252426b36a.tar.gz"
+        },
+        "bbox": [
+            -77.455436706543,
+            38.277202606201,
+            -77.448974609375,
+            38.283603668213
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.45311,
+                        38.278545
+                    ],
+                    [
+                        -77.453094,
+                        38.277203
+                    ],
+                    [
+                        -77.455437,
+                        38.277718
+                    ],
+                    [
+                        -77.453957,
+                        38.283604
+                    ],
+                    [
+                        -77.448975,
+                        38.281216
+                    ],
+                    [
+                        -77.45311,
+                        38.278545
+                    ]
+                ]
+            ]
+        ]
+    }
+}

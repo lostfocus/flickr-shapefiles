@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528131,
+    "properties": {
+        "woe_id": 28528131,
+        "place_id": "ApI6vYqbCZkjUlHo2g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Higashiyama 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457689,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/28528131_20101216_d780c97830.tar.gz"
+        },
+        "bbox": [
+            139.68566894531,
+            35.645130157471,
+            139.68969726562,
+            35.648090362549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.686127,
+                        35.64513
+                    ],
+                    [
+                        139.685669,
+                        35.645832
+                    ],
+                    [
+                        139.688065,
+                        35.647949
+                    ],
+                    [
+                        139.689697,
+                        35.64809
+                    ],
+                    [
+                        139.689194,
+                        35.647312
+                    ],
+                    [
+                        139.686127,
+                        35.64513
+                    ]
+                ]
+            ]
+        ]
+    }
+}

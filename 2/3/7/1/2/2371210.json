@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2371210,
+    "properties": {
+        "woe_id": 2371210,
+        "place_id": "7A0dli6bApsZJBz0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Buckmanville, New Hope, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229458696,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3049\/shapefiles\/2371210_20081216_a7f752c023.tar.gz"
+        },
+        "bbox": [
+            -74.97144317627,
+            40.316146850586,
+            -74.958129882812,
+            40.327503204346
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.969513,
+                        40.316231
+                    ],
+                    [
+                        -74.971443,
+                        40.317383
+                    ],
+                    [
+                        -74.968742,
+                        40.317982
+                    ],
+                    [
+                        -74.95813,
+                        40.327503
+                    ],
+                    [
+                        -74.966927,
+                        40.316147
+                    ],
+                    [
+                        -74.969513,
+                        40.316231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

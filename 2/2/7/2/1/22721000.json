@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 22721000,
+    "properties": {
+        "woe_id": 22721000,
+        "place_id": "mo_u_GGbA5tyl9BcsQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brooklyn, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524732,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/22721000_20101216_eca6ca42cb.tar.gz"
+        },
+        "bbox": [
+            144.83946228027,
+            -37.815601348877,
+            144.84452819824,
+            -37.809646606445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.844528,
+                        -37.809986
+                    ],
+                    [
+                        144.844269,
+                        -37.809647
+                    ],
+                    [
+                        144.840775,
+                        -37.811054
+                    ],
+                    [
+                        144.840607,
+                        -37.815601
+                    ],
+                    [
+                        144.839462,
+                        -37.810844
+                    ],
+                    [
+                        144.839798,
+                        -37.81089
+                    ],
+                    [
+                        144.840775,
+                        -37.811054
+                    ],
+                    [
+                        144.844528,
+                        -37.809986
+                    ]
+                ]
+            ]
+        ]
+    }
+}

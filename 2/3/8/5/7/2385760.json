@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2385760,
+    "properties": {
+        "woe_id": 2385760,
+        "place_id": "NlYXiYabApQrOeUQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Country Acres, Hendersonville, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292459587,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2385760_20101216_8274319f5c.tar.gz"
+        },
+        "bbox": [
+            -82.445472717285,
+            35.33744430542,
+            -82.444000244141,
+            35.341583251953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.444641,
+                        35.341583
+                    ],
+                    [
+                        -82.444336,
+                        35.341499
+                    ],
+                    [
+                        -82.444,
+                        35.341
+                    ],
+                    [
+                        -82.445473,
+                        35.337444
+                    ],
+                    [
+                        -82.445099,
+                        35.340298
+                    ],
+                    [
+                        -82.444641,
+                        35.341583
+                    ]
+                ]
+            ]
+        ]
+    }
+}

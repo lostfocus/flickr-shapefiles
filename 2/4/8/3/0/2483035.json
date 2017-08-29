@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2483035,
+    "properties": {
+        "woe_id": 2483035,
+        "place_id": "zWiYuYubBZSTz6qn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rock City, Old Chatham, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500921,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2483035_20101216_afeab07b1a.tar.gz"
+        },
+        "bbox": [
+            -73.568832397461,
+            42.423332214355,
+            -73.568496704102,
+            42.423999786377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.568497,
+                        42.424
+                    ],
+                    [
+                        -73.568497,
+                        42.423832
+                    ],
+                    [
+                        -73.568832,
+                        42.423332
+                    ],
+                    [
+                        -73.568665,
+                        42.423668
+                    ],
+                    [
+                        -73.568497,
+                        42.424
+                    ]
+                ]
+            ]
+        ]
+    }
+}

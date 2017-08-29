@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22721899,
+    "properties": {
+        "woe_id": 22721899,
+        "place_id": "LTqSo9ObA5vypPh6hg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Upfield, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454968,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/22721899_20101215_911744a081.tar.gz"
+        },
+        "bbox": [
+            144.94195556641,
+            -37.674240112305,
+            144.94381713867,
+            -37.670223236084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.943817,
+                        -37.67421
+                    ],
+                    [
+                        144.943787,
+                        -37.67424
+                    ],
+                    [
+                        144.943512,
+                        -37.674095
+                    ],
+                    [
+                        144.941956,
+                        -37.670887
+                    ],
+                    [
+                        144.942902,
+                        -37.670223
+                    ],
+                    [
+                        144.943817,
+                        -37.67421
+                    ]
+                ]
+            ]
+        ]
+    }
+}

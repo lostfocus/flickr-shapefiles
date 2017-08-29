@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28521824,
+    "properties": {
+        "woe_id": 28521824,
+        "place_id": "OFiREMSbCZnhcY6yKA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Miyacho 5 Chome, Saitama-shi, Saitama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452593,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/28521824_20101215_118ac737e2.tar.gz"
+        },
+        "bbox": [
+            139.6209564209,
+            35.909767150879,
+            139.6238861084,
+            35.911331176758
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.621384,
+                        35.909767
+                    ],
+                    [
+                        139.620956,
+                        35.911018
+                    ],
+                    [
+                        139.622665,
+                        35.911331
+                    ],
+                    [
+                        139.623886,
+                        35.911057
+                    ],
+                    [
+                        139.621811,
+                        35.910187
+                    ],
+                    [
+                        139.621384,
+                        35.909767
+                    ]
+                ]
+            ]
+        ]
+    }
+}

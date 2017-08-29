@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2398970,
+    "properties": {
+        "woe_id": 2398970,
+        "place_id": "k00OymSbApXXDfiC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Elmhurst, Jamestown, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292493429,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2398970_20101216_f0fbcf1d3c.tar.gz"
+        },
+        "bbox": [
+            -79.302833557129,
+            42.095832824707,
+            -79.296669006348,
+            42.101501464844
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.300003,
+                        42.095833
+                    ],
+                    [
+                        -79.302834,
+                        42.09647
+                    ],
+                    [
+                        -79.300331,
+                        42.098999
+                    ],
+                    [
+                        -79.2985,
+                        42.101501
+                    ],
+                    [
+                        -79.296669,
+                        42.098667
+                    ],
+                    [
+                        -79.300003,
+                        42.095833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

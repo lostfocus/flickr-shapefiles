@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526263,
+    "properties": {
+        "woe_id": 28526263,
+        "place_id": "FJCWK_GbCZmasU3PAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oyamadai 2 Chome, Kashiwa-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449527,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/28526263_20101215_f409f8f1ce.tar.gz"
+        },
+        "bbox": [
+            139.96655273438,
+            35.881832122803,
+            139.97061157227,
+            35.883796691895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.970612,
+                        35.882965
+                    ],
+                    [
+                        139.970169,
+                        35.881832
+                    ],
+                    [
+                        139.969162,
+                        35.882504
+                    ],
+                    [
+                        139.966553,
+                        35.883736
+                    ],
+                    [
+                        139.967422,
+                        35.883797
+                    ],
+                    [
+                        139.970612,
+                        35.882965
+                    ]
+                ]
+            ]
+        ]
+    }
+}

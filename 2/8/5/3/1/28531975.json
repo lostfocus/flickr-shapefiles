@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28531975,
+    "properties": {
+        "woe_id": 28531975,
+        "place_id": "lKvt0ECbCZlf9pxuzw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Irie 2 Chome, Yokohama-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455262,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28531975_20101215_caed170332.tar.gz"
+        },
+        "bbox": [
+            139.64430236816,
+            35.490829467773,
+            139.6485748291,
+            35.492992401123
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.646133,
+                        35.492992
+                    ],
+                    [
+                        139.648575,
+                        35.492485
+                    ],
+                    [
+                        139.647781,
+                        35.491219
+                    ],
+                    [
+                        139.646408,
+                        35.490829
+                    ],
+                    [
+                        139.644302,
+                        35.492054
+                    ],
+                    [
+                        139.646133,
+                        35.492992
+                    ]
+                ]
+            ]
+        ]
+    }
+}

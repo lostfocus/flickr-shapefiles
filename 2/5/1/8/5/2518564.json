@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2518564,
+    "properties": {
+        "woe_id": 2518564,
+        "place_id": "1ArnwWWbBJ3V2r4T",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Westview, Marietta, OH, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549866,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/2518564_20101217_ec1feb09cf.tar.gz"
+        },
+        "bbox": [
+            -81.491500854492,
+            39.431831359863,
+            -81.490669250488,
+            39.432998657227
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -81.490997,
+                        39.432835
+                    ],
+                    [
+                        -81.490669,
+                        39.431831
+                    ],
+                    [
+                        -81.491478,
+                        39.432587
+                    ],
+                    [
+                        -81.491501,
+                        39.432835
+                    ],
+                    [
+                        -81.491165,
+                        39.432999
+                    ],
+                    [
+                        -81.490997,
+                        39.432835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

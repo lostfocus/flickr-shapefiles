@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20168980,
+    "properties": {
+        "woe_id": 20168980,
+        "place_id": "93M1LFKbAZ1oW8ikZw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uersfeld, Aachen, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491022,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/20168980_20101216_5cf2c51a5d.tar.gz"
+        },
+        "bbox": [
+            6.0808248519897,
+            50.829902648926,
+            6.0891828536987,
+            50.834686279297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.080825,
+                        50.832642
+                    ],
+                    [
+                        6.085304,
+                        50.832912
+                    ],
+                    [
+                        6.089022,
+                        50.834686
+                    ],
+                    [
+                        6.089183,
+                        50.830814
+                    ],
+                    [
+                        6.084022,
+                        50.829903
+                    ],
+                    [
+                        6.080825,
+                        50.832642
+                    ]
+                ]
+            ]
+        ]
+    }
+}

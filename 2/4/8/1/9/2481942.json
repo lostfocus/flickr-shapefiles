@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2481942,
+    "properties": {
+        "woe_id": 2481942,
+        "place_id": "IJ.ClQSbBZTCuKKu",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "River View, New Eagle, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234917014,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3353\/shapefiles\/2481942_20090218_c34a15658d.tar.gz"
+        },
+        "bbox": [
+            -79.96068572998,
+            40.210540771484,
+            -79.959182739258,
+            40.211570739746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.960365,
+                        40.211212
+                    ],
+                    [
+                        -79.960686,
+                        40.211571
+                    ],
+                    [
+                        -79.959763,
+                        40.211277
+                    ],
+                    [
+                        -79.959183,
+                        40.210541
+                    ],
+                    [
+                        -79.960365,
+                        40.211212
+                    ]
+                ]
+            ]
+        ]
+    }
+}

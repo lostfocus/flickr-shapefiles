@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28529202,
+    "properties": {
+        "woe_id": 28529202,
+        "place_id": "6fKLRa2bCZmo6Oqwdg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oyaguchi 1 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449528,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28529202_20101215_c242bd0133.tar.gz"
+        },
+        "bbox": [
+            139.69383239746,
+            35.747165679932,
+            139.69866943359,
+            35.750133514404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.696869,
+                        35.749805
+                    ],
+                    [
+                        139.698669,
+                        35.750134
+                    ],
+                    [
+                        139.696548,
+                        35.748299
+                    ],
+                    [
+                        139.693832,
+                        35.747166
+                    ],
+                    [
+                        139.695923,
+                        35.749176
+                    ],
+                    [
+                        139.696869,
+                        35.749805
+                    ]
+                ]
+            ]
+        ]
+    }
+}

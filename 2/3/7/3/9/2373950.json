@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2373950,
+    "properties": {
+        "woe_id": 2373950,
+        "place_id": "A5JNUz6bApti8w1g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Camp Spruce Hill, Granville, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535243,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2373950_20101216_0c8ce2ae4c.tar.gz"
+        },
+        "bbox": [
+            -73.009216308594,
+            42.061641693115,
+            -73.005783081055,
+            42.064670562744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.007118,
+                        42.064671
+                    ],
+                    [
+                        -73.005783,
+                        42.062469
+                    ],
+                    [
+                        -73.007324,
+                        42.061642
+                    ],
+                    [
+                        -73.009216,
+                        42.061752
+                    ],
+                    [
+                        -73.007118,
+                        42.064671
+                    ]
+                ]
+            ]
+        ]
+    }
+}

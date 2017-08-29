@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28520582,
+    "properties": {
+        "woe_id": 28520582,
+        "place_id": "d29kKfqbCZlvejmZMw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimokazaki 1 Chome, Chikusei-shi, Ibaraki Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292514365,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/28520582_20101216_7a340c6766.tar.gz"
+        },
+        "bbox": [
+            139.97206115723,
+            36.316104888916,
+            139.97245788574,
+            36.319271087646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.972153,
+                        36.318539
+                    ],
+                    [
+                        139.972061,
+                        36.319271
+                    ],
+                    [
+                        139.972092,
+                        36.319233
+                    ],
+                    [
+                        139.972244,
+                        36.31855
+                    ],
+                    [
+                        139.972458,
+                        36.316105
+                    ],
+                    [
+                        139.972153,
+                        36.318539
+                    ]
+                ]
+            ]
+        ]
+    }
+}

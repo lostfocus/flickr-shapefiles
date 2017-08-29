@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2473574,
+    "properties": {
+        "woe_id": 2473574,
+        "place_id": "npPqJQmbBZsFQmyr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Plato, East Otto, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537761,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/2473574_20101216_6f7fa14614.tar.gz"
+        },
+        "bbox": [
+            -78.697212219238,
+            42.368595123291,
+            -78.690582275391,
+            42.371734619141
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.694489,
+                        42.371101
+                    ],
+                    [
+                        -78.693245,
+                        42.371735
+                    ],
+                    [
+                        -78.690582,
+                        42.369865
+                    ],
+                    [
+                        -78.692924,
+                        42.368595
+                    ],
+                    [
+                        -78.697212,
+                        42.369038
+                    ],
+                    [
+                        -78.694489,
+                        42.371101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

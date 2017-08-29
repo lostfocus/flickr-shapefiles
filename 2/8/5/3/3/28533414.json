@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28533414,
+    "properties": {
+        "woe_id": 28533414,
+        "place_id": "1WZsTYabCZmqOzgVgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shibokuhoncho 3 Chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472363,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/28533414_20101216_bba7dbbb20.tar.gz"
+        },
+        "bbox": [
+            139.58348083496,
+            35.59801864624,
+            139.59028625488,
+            35.601581573486
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.588165,
+                        35.600334
+                    ],
+                    [
+                        139.583481,
+                        35.600155
+                    ],
+                    [
+                        139.587357,
+                        35.601582
+                    ],
+                    [
+                        139.588333,
+                        35.601166
+                    ],
+                    [
+                        139.590286,
+                        35.598019
+                    ],
+                    [
+                        139.588165,
+                        35.600334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

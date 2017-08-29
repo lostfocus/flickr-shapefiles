@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528862,
+    "properties": {
+        "woe_id": 28528862,
+        "place_id": "4hHlkiGbCZlN.eBnbA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Shimizu 2 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472245,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/28528862_20101216_c5efe129a7.tar.gz"
+        },
+        "bbox": [
+            139.61683654785,
+            35.714500427246,
+            139.619140625,
+            35.715518951416
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.617004,
+                        35.7145
+                    ],
+                    [
+                        139.616837,
+                        35.714668
+                    ],
+                    [
+                        139.61763,
+                        35.715446
+                    ],
+                    [
+                        139.619141,
+                        35.715519
+                    ],
+                    [
+                        139.618439,
+                        35.715305
+                    ],
+                    [
+                        139.617004,
+                        35.7145
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2379181,
+    "properties": {
+        "woe_id": 2379181,
+        "place_id": "yxx.v4CbApsnqTJ1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cherrywood, Clementon, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519875,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/2379181_20101216_799a794983.tar.gz"
+        },
+        "bbox": [
+            -75.02661895752,
+            39.803653717041,
+            -75.021774291992,
+            39.804370880127
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.025978,
+                        39.804184
+                    ],
+                    [
+                        -75.024979,
+                        39.804371
+                    ],
+                    [
+                        -75.021774,
+                        39.804283
+                    ],
+                    [
+                        -75.023849,
+                        39.803654
+                    ],
+                    [
+                        -75.026619,
+                        39.803921
+                    ],
+                    [
+                        -75.025978,
+                        39.804184
+                    ]
+                ]
+            ]
+        ]
+    }
+}

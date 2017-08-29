@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2353751,
+    "properties": {
+        "woe_id": 2353751,
+        "place_id": "B9zRQD6bApmuyZQk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alpine Heights, Alpine, CA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534559,
+        "alpha": 1.0e-5,
+        "points": 19,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2353751_20101216_99bb89dee4.tar.gz"
+        },
+        "bbox": [
+            -116.78614807129,
+            32.787872314453,
+            -116.78579711914,
+            32.788688659668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -116.786018,
+                        32.78812
+                    ],
+                    [
+                        -116.786148,
+                        32.788689
+                    ],
+                    [
+                        -116.785919,
+                        32.788654
+                    ],
+                    [
+                        -116.785797,
+                        32.788506
+                    ],
+                    [
+                        -116.785988,
+                        32.787872
+                    ],
+                    [
+                        -116.786018,
+                        32.78812
+                    ]
+                ]
+            ]
+        ]
+    }
+}

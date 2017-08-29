@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530123,
+    "properties": {
+        "woe_id": 28530123,
+        "place_id": "bKwU7eSbCZkbkPiPwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamiosawa 3 Chome, Hachioji-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523722,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/28530123_20101216_c15aa41b0e.tar.gz"
+        },
+        "bbox": [
+            139.38070678711,
+            35.605167388916,
+            139.38764953613,
+            35.606285095215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.380707,
+                        35.60564
+                    ],
+                    [
+                        139.38092,
+                        35.605946
+                    ],
+                    [
+                        139.383926,
+                        35.606285
+                    ],
+                    [
+                        139.38765,
+                        35.605167
+                    ],
+                    [
+                        139.38382,
+                        35.606213
+                    ],
+                    [
+                        139.380707,
+                        35.60564
+                    ]
+                ]
+            ]
+        ]
+    }
+}

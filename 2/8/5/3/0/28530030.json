@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530030,
+    "properties": {
+        "woe_id": 28530030,
+        "place_id": ".1y2HIWbCZmiOC775A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamishinozakimachi 3 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292391965,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/28530030_20101215_16d98f1dd5.tar.gz"
+        },
+        "bbox": [
+            139.89933776855,
+            35.69567489624,
+            139.89978027344,
+            35.696857452393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.899689,
+                        35.696465
+                    ],
+                    [
+                        139.89978,
+                        35.696346
+                    ],
+                    [
+                        139.899567,
+                        35.695839
+                    ],
+                    [
+                        139.899353,
+                        35.695675
+                    ],
+                    [
+                        139.899338,
+                        35.696857
+                    ],
+                    [
+                        139.899689,
+                        35.696465
+                    ]
+                ]
+            ]
+        ]
+    }
+}

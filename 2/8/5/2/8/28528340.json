@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528340,
+    "properties": {
+        "woe_id": 28528340,
+        "place_id": "AOQ9voWbCZmdlx5zsw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Heiwajima 4 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247801527,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2674\/shapefiles\/28528340_20090717_db98726e8d.tar.gz"
+        },
+        "bbox": [
+            139.74111938477,
+            35.58211517334,
+            139.74255371094,
+            35.58304977417
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.741135,
+                        35.582863
+                    ],
+                    [
+                        139.741119,
+                        35.58305
+                    ],
+                    [
+                        139.742554,
+                        35.582115
+                    ],
+                    [
+                        139.741501,
+                        35.582317
+                    ],
+                    [
+                        139.74115,
+                        35.582825
+                    ],
+                    [
+                        139.741135,
+                        35.582863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

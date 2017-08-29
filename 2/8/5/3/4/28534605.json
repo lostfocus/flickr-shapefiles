@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534605,
+    "properties": {
+        "woe_id": 28534605,
+        "place_id": "2cdO0gubCZkAivkHgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Matsugaoka 1 Chome, Sagamihara-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457714,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/28534605_20101216_69f499d905.tar.gz"
+        },
+        "bbox": [
+            139.39137268066,
+            35.554046630859,
+            139.3952331543,
+            35.555488586426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.393661,
+                        35.555489
+                    ],
+                    [
+                        139.394287,
+                        35.555325
+                    ],
+                    [
+                        139.395233,
+                        35.554047
+                    ],
+                    [
+                        139.393143,
+                        35.554428
+                    ],
+                    [
+                        139.391373,
+                        35.554119
+                    ],
+                    [
+                        139.393661,
+                        35.555489
+                    ]
+                ]
+            ]
+        ]
+    }
+}

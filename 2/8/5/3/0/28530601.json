@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28530601,
+    "properties": {
+        "woe_id": 28530601,
+        "place_id": "lwQ4F2qbCZmIlkoTkA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Midoricho 2 Chome, Fuchu-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292481129,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/28530601_20101216_516cd4198b.tar.gz"
+        },
+        "bbox": [
+            139.49032592773,
+            35.674098968506,
+            139.49279785156,
+            35.676082611084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.492554,
+                        35.675167
+                    ],
+                    [
+                        139.492798,
+                        35.674412
+                    ],
+                    [
+                        139.492004,
+                        35.674099
+                    ],
+                    [
+                        139.490326,
+                        35.675564
+                    ],
+                    [
+                        139.491714,
+                        35.676083
+                    ],
+                    [
+                        139.492554,
+                        35.675167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

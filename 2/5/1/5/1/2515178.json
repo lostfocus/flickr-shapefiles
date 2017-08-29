@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2515178,
+    "properties": {
+        "woe_id": 2515178,
+        "place_id": "VvX3M3CbBJ0AVw2u",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waterport Station, Waterport, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527561,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2515178_20101216_e808c390c0.tar.gz"
+        },
+        "bbox": [
+            -78.239479064941,
+            43.326393127441,
+            -78.237419128418,
+            43.332355499268
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.239479,
+                        43.326393
+                    ],
+                    [
+                        -78.239479,
+                        43.328079
+                    ],
+                    [
+                        -78.23819,
+                        43.332355
+                    ],
+                    [
+                        -78.238022,
+                        43.332256
+                    ],
+                    [
+                        -78.237419,
+                        43.326832
+                    ],
+                    [
+                        -78.239479,
+                        43.326393
+                    ]
+                ]
+            ]
+        ]
+    }
+}

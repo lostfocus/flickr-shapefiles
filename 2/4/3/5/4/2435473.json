@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2435473,
+    "properties": {
+        "woe_id": 2435473,
+        "place_id": "dcZKg2CbBZ_k_d0Z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakeside, Florence, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528681,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/2435473_20101216_1acd619285.tar.gz"
+        },
+        "bbox": [
+            -79.777969360352,
+            34.179145812988,
+            -79.774108886719,
+            34.185092926025
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.777969,
+                        34.180664
+                    ],
+                    [
+                        -79.777405,
+                        34.181271
+                    ],
+                    [
+                        -79.774109,
+                        34.185093
+                    ],
+                    [
+                        -79.775673,
+                        34.179146
+                    ],
+                    [
+                        -79.777969,
+                        34.180664
+                    ]
+                ]
+            ]
+        ]
+    }
+}

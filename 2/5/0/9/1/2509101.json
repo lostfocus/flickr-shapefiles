@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2509101,
+    "properties": {
+        "woe_id": 2509101,
+        "place_id": "qw164p6bBJx1mrrj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Twin Creeks, Auburn, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292445066,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2509101_20101215_7d65084a12.tar.gz"
+        },
+        "bbox": [
+            -85.478149414062,
+            32.54963684082,
+            -85.467277526855,
+            32.554702758789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -85.467278,
+                        32.554703
+                    ],
+                    [
+                        -85.467499,
+                        32.55381
+                    ],
+                    [
+                        -85.471207,
+                        32.554073
+                    ],
+                    [
+                        -85.474129,
+                        32.549637
+                    ],
+                    [
+                        -85.478149,
+                        32.550022
+                    ],
+                    [
+                        -85.474686,
+                        32.551399
+                    ],
+                    [
+                        -85.471207,
+                        32.554073
+                    ],
+                    [
+                        -85.467278,
+                        32.554703
+                    ]
+                ]
+            ]
+        ]
+    }
+}

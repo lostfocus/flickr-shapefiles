@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2396309,
+    "properties": {
+        "woe_id": 2396309,
+        "place_id": "xMEptXWbApVRVBmc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Washington Heights, Washington, DC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539648,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/2396309_20101216_27855046e2.tar.gz"
+        },
+        "bbox": [
+            -76.948440551758,
+            38.888095855713,
+            -76.939140319824,
+            38.891933441162
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.948441,
+                        38.888096
+                    ],
+                    [
+                        -76.944534,
+                        38.890995
+                    ],
+                    [
+                        -76.939445,
+                        38.891785
+                    ],
+                    [
+                        -76.93914,
+                        38.890598
+                    ],
+                    [
+                        -76.944534,
+                        38.890995
+                    ],
+                    [
+                        -76.945236,
+                        38.891933
+                    ],
+                    [
+                        -76.948441,
+                        38.888096
+                    ]
+                ]
+            ]
+        ]
+    }
+}

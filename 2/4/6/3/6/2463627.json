@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2463627,
+    "properties": {
+        "woe_id": 2463627,
+        "place_id": "LSW6b8ibBZrK31Ic",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Oakland Heights, Myrtle Beach, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444931,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/2463627_20101215_6b43c821cb.tar.gz"
+        },
+        "bbox": [
+            -78.833709716797,
+            33.744445800781,
+            -78.826667785645,
+            33.748970031738
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.829163,
+                        33.748165
+                    ],
+                    [
+                        -78.827591,
+                        33.746181
+                    ],
+                    [
+                        -78.826668,
+                        33.744446
+                    ],
+                    [
+                        -78.832573,
+                        33.744904
+                    ],
+                    [
+                        -78.83371,
+                        33.74897
+                    ],
+                    [
+                        -78.829163,
+                        33.748165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

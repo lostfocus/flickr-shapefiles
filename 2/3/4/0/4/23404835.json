@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23404835,
+    "properties": {
+        "woe_id": 23404835,
+        "place_id": "_RzAg8ObApiB3MjPTw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Palliser, Calgary, AB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526889,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/23404835_20101216_b51e7f7538.tar.gz"
+        },
+        "bbox": [
+            -114.11400604248,
+            50.966194152832,
+            -114.10773468018,
+            50.96875
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -114.108147,
+                        50.966339
+                    ],
+                    [
+                        -114.108253,
+                        50.966194
+                    ],
+                    [
+                        -114.108681,
+                        50.966209
+                    ],
+                    [
+                        -114.114006,
+                        50.968056
+                    ],
+                    [
+                        -114.107735,
+                        50.96875
+                    ],
+                    [
+                        -114.108147,
+                        50.966339
+                    ]
+                ]
+            ]
+        ]
+    }
+}

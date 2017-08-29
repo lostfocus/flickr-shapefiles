@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28583380,
+    "properties": {
+        "woe_id": 28583380,
+        "place_id": "D7fwx3ObCZkq2pVC8g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uenoya 1 Chome, Naha-shi, Okinawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292442199,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/28583380_20101215_f5a96840a1.tar.gz"
+        },
+        "bbox": [
+            127.68795776367,
+            26.228500366211,
+            127.6908493042,
+            26.230165481567
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        127.690453,
+                        26.229313
+                    ],
+                    [
+                        127.690849,
+                        26.229105
+                    ],
+                    [
+                        127.689667,
+                        26.2285
+                    ],
+                    [
+                        127.687958,
+                        26.230091
+                    ],
+                    [
+                        127.688004,
+                        26.230165
+                    ],
+                    [
+                        127.690453,
+                        26.229313
+                    ]
+                ]
+            ]
+        ]
+    }
+}

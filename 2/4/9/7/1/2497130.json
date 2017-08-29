@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2497130,
+    "properties": {
+        "woe_id": 2497130,
+        "place_id": "GwCEZembBZXtwklh",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Southridge, Mclean, VA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533324,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/2497130_20101216_572dfdfdaf.tar.gz"
+        },
+        "bbox": [
+            -77.188377380371,
+            38.912422180176,
+            -77.18595123291,
+            38.914108276367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.186691,
+                        38.912422
+                    ],
+                    [
+                        -77.188377,
+                        38.913368
+                    ],
+                    [
+                        -77.187172,
+                        38.913994
+                    ],
+                    [
+                        -77.186935,
+                        38.914009
+                    ],
+                    [
+                        -77.185951,
+                        38.914108
+                    ],
+                    [
+                        -77.186691,
+                        38.912422
+                    ]
+                ]
+            ]
+        ]
+    }
+}

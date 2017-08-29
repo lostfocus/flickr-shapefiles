@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2372269,
+    "properties": {
+        "woe_id": 2372269,
+        "place_id": "uhMMuNibApvwCRIC",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Burnt Mills, Bedminster, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534636,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/2372269_20101216_73569a5714.tar.gz"
+        },
+        "bbox": [
+            -74.6875,
+            40.635665893555,
+            -74.685958862305,
+            40.640201568604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.6875,
+                        40.635834
+                    ],
+                    [
+                        -74.6875,
+                        40.636002
+                    ],
+                    [
+                        -74.685959,
+                        40.640202
+                    ],
+                    [
+                        -74.687164,
+                        40.635834
+                    ],
+                    [
+                        -74.687332,
+                        40.635666
+                    ],
+                    [
+                        -74.6875,
+                        40.635834
+                    ]
+                ]
+            ]
+        ]
+    }
+}

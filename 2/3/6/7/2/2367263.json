@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2367263,
+    "properties": {
+        "woe_id": 2367263,
+        "place_id": "Qhe37iObAppqokW3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boulevard, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541158,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2367263_20101216_93ded2b814.tar.gz"
+        },
+        "bbox": [
+            -111.84313964844,
+            40.679317474365,
+            -111.84200286865,
+            40.679683685303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.842537,
+                        40.679684
+                    ],
+                    [
+                        -111.842003,
+                        40.679501
+                    ],
+                    [
+                        -111.842789,
+                        40.679317
+                    ],
+                    [
+                        -111.84314,
+                        40.679409
+                    ],
+                    [
+                        -111.842583,
+                        40.679672
+                    ],
+                    [
+                        -111.842537,
+                        40.679684
+                    ]
+                ]
+            ]
+        ]
+    }
+}

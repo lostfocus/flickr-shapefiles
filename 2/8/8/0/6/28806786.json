@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28806786,
+    "properties": {
+        "woe_id": 28806786,
+        "place_id": "b2AErIybCZTe2npKgQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uc2ec\uace11\ub3d9, Bucheon-Si, Kyeongki-Do, KR, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292435884,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/28806786_20101215_81df204756.tar.gz"
+        },
+        "bbox": [
+            126.7816696167,
+            37.486122131348,
+            126.78521728516,
+            37.4909324646
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        126.78167,
+                        37.486408
+                    ],
+                    [
+                        126.781837,
+                        37.48682
+                    ],
+                    [
+                        126.784286,
+                        37.490932
+                    ],
+                    [
+                        126.785217,
+                        37.490322
+                    ],
+                    [
+                        126.782684,
+                        37.486122
+                    ],
+                    [
+                        126.78167,
+                        37.486408
+                    ]
+                ]
+            ]
+        ]
+    }
+}

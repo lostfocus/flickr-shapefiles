@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2364140,
+    "properties": {
+        "woe_id": 2364140,
+        "place_id": "vBxE3eGbApra1Rpx",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Big Springs, Franklin, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500208,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/2364140_20101216_bc14e02e84.tar.gz"
+        },
+        "bbox": [
+            -74.632499694824,
+            41.138500213623,
+            -74.632164001465,
+            41.138668060303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.6325,
+                        41.1385
+                    ],
+                    [
+                        -74.6325,
+                        41.138668
+                    ],
+                    [
+                        -74.632332,
+                        41.138668
+                    ],
+                    [
+                        -74.632164,
+                        41.1385
+                    ],
+                    [
+                        -74.632332,
+                        41.1385
+                    ],
+                    [
+                        -74.6325,
+                        41.1385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

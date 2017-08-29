@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23411026,
+    "properties": {
+        "woe_id": 23411026,
+        "place_id": "TZeaiPebApiosnJLlA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Br\u00f6nninghauser, Bielefeld, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534907,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/23411026_20101216_cf65ded3c5.tar.gz"
+        },
+        "bbox": [
+            8.643744468689,
+            52.023071289062,
+            8.6494264602661,
+            52.025512695312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.649115,
+                        52.025368
+                    ],
+                    [
+                        8.649426,
+                        52.025513
+                    ],
+                    [
+                        8.648313,
+                        52.023071
+                    ],
+                    [
+                        8.643744,
+                        52.024303
+                    ],
+                    [
+                        8.648182,
+                        52.025021
+                    ],
+                    [
+                        8.649115,
+                        52.025368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

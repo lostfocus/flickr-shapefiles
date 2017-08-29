@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229097,
+    "properties": {
+        "woe_id": 20229097,
+        "place_id": "CEPj3_KbAZ4kAKo6Cw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Boldhusgade, Copenhagen, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247876647,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3516\/shapefiles\/20229097_20090718_0b66b6a836.tar.gz"
+        },
+        "bbox": [
+            12.583507537842,
+            55.676200866699,
+            12.58429145813,
+            55.676689147949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.583508,
+                        55.676594
+                    ],
+                    [
+                        12.583615,
+                        55.676689
+                    ],
+                    [
+                        12.58398,
+                        55.676517
+                    ],
+                    [
+                        12.58428,
+                        55.676327
+                    ],
+                    [
+                        12.584291,
+                        55.676201
+                    ],
+                    [
+                        12.583508,
+                        55.676594
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521456,
+    "properties": {
+        "woe_id": 2521456,
+        "place_id": "bVR1t_ybBJ6xvzIq",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wilson, Portage, IN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247766009,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2526\/shapefiles\/2521456_20090716_997a4c33c9.tar.gz"
+        },
+        "bbox": [
+            -87.167411804199,
+            41.620574951172,
+            -87.152519226074,
+            41.641456604004
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.152519,
+                        41.641457
+                    ],
+                    [
+                        -87.152565,
+                        41.620575
+                    ],
+                    [
+                        -87.155182,
+                        41.620605
+                    ],
+                    [
+                        -87.161232,
+                        41.620705
+                    ],
+                    [
+                        -87.167412,
+                        41.625835
+                    ],
+                    [
+                        -87.152519,
+                        41.641457
+                    ]
+                ]
+            ]
+        ]
+    }
+}

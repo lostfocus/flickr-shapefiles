@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2486553,
+    "properties": {
+        "woe_id": 2486553,
+        "place_id": "axv3ENibBZR_sXTd",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saginaw, Bisbee, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551087,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/2486553_20101217_d6fbf30498.tar.gz"
+        },
+        "bbox": [
+            -109.8927230835,
+            31.428350448608,
+            -109.88840484619,
+            31.431226730347
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -109.888405,
+                        31.42835
+                    ],
+                    [
+                        -109.890404,
+                        31.42968
+                    ],
+                    [
+                        -109.892464,
+                        31.430933
+                    ],
+                    [
+                        -109.892723,
+                        31.431227
+                    ],
+                    [
+                        -109.889458,
+                        31.430126
+                    ],
+                    [
+                        -109.888405,
+                        31.42835
+                    ]
+                ]
+            ]
+        ]
+    }
+}

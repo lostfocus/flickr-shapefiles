@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559501,
+    "properties": {
+        "woe_id": 28559501,
+        "place_id": "1NeSxRSbCZlhjd797g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nishitenma 4 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463547,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/28559501_20101216_4173e407a0.tar.gz"
+        },
+        "bbox": [
+            135.50090026855,
+            34.696319580078,
+            135.50485229492,
+            34.697528839111
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.500931,
+                        34.697308
+                    ],
+                    [
+                        135.501495,
+                        34.697529
+                    ],
+                    [
+                        135.504852,
+                        34.696884
+                    ],
+                    [
+                        135.501678,
+                        34.69632
+                    ],
+                    [
+                        135.5009,
+                        34.696815
+                    ],
+                    [
+                        135.500931,
+                        34.697308
+                    ]
+                ]
+            ]
+        ]
+    }
+}

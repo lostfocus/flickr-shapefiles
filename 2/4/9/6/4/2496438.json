@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2496438,
+    "properties": {
+        "woe_id": 2496438,
+        "place_id": "8ULyI3WbBZXqYL1W",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "South Leeds, Leeds, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292478126,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2496438_20101216_a94f5b14ed.tar.gz"
+        },
+        "bbox": [
+            -70.16423034668,
+            44.223430633545,
+            -70.162208557129,
+            44.22819519043
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.162209,
+                        44.228195
+                    ],
+                    [
+                        -70.162766,
+                        44.225674
+                    ],
+                    [
+                        -70.164162,
+                        44.223431
+                    ],
+                    [
+                        -70.16423,
+                        44.226719
+                    ],
+                    [
+                        -70.162682,
+                        44.228012
+                    ],
+                    [
+                        -70.162209,
+                        44.228195
+                    ]
+                ]
+            ]
+        ]
+    }
+}

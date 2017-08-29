@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 20220163,
+    "properties": {
+        "woe_id": 20220163,
+        "place_id": "N9TJmdybAZ4MPimdNw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Retiro Obrero, Seville, Andalusia, ES, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521422,
+        "alpha": 1.953125e-5,
+        "points": 10,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/20220163_20101216_fc92fb87e2.tar.gz"
+        },
+        "bbox": [
+            -5.9892430305481,
+            37.40071105957,
+            -5.9778490066528,
+            37.404483795166
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.989115,
+                        37.403011
+                    ],
+                    [
+                        -5.989243,
+                        37.404484
+                    ],
+                    [
+                        -5.988708,
+                        37.403477
+                    ],
+                    [
+                        -5.979995,
+                        37.402962
+                    ],
+                    [
+                        -5.977849,
+                        37.401134
+                    ],
+                    [
+                        -5.979153,
+                        37.400764
+                    ],
+                    [
+                        -5.980682,
+                        37.400711
+                    ],
+                    [
+                        -5.988804,
+                        37.40313
+                    ],
+                    [
+                        -5.989115,
+                        37.403011
+                    ]
+                ]
+            ]
+        ]
+    }
+}

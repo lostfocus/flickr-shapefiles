@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20229205,
+    "properties": {
+        "woe_id": 20229205,
+        "place_id": "2FOQxnybAZ4Lmn_1yQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Grundtvigsvej, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535754,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/20229205_20101216_c31185a5bc.tar.gz"
+        },
+        "bbox": [
+            12.538232803345,
+            55.678127288818,
+            12.540720939636,
+            55.679218292236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.539123,
+                        55.678783
+                    ],
+                    [
+                        12.54016,
+                        55.679218
+                    ],
+                    [
+                        12.540721,
+                        55.678696
+                    ],
+                    [
+                        12.540142,
+                        55.678127
+                    ],
+                    [
+                        12.5395,
+                        55.678299
+                    ],
+                    [
+                        12.538233,
+                        55.678558
+                    ],
+                    [
+                        12.539123,
+                        55.678783
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2413681,
+    "properties": {
+        "woe_id": 2413681,
+        "place_id": "CZxR4ySbBZ3DB6E2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Green Acres, Davenport, IA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545601,
+        "alpha": 1.0e-5,
+        "points": 20,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/2413681_20101217_1ab34f5751.tar.gz"
+        },
+        "bbox": [
+            -90.576652526855,
+            41.56241607666,
+            -90.574638366699,
+            41.5631980896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.574638,
+                        41.563198
+                    ],
+                    [
+                        -90.575645,
+                        41.562416
+                    ],
+                    [
+                        -90.575775,
+                        41.562481
+                    ],
+                    [
+                        -90.576653,
+                        41.562866
+                    ],
+                    [
+                        -90.574638,
+                        41.563198
+                    ]
+                ]
+            ]
+        ]
+    }
+}

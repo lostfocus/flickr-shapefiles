@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28577908,
+    "properties": {
+        "woe_id": 28577908,
+        "place_id": "WcJHMwKbCZme9tgy7Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kurosaki 2 Chome, Kitakyushu-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292449724,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/28577908_20101215_22f08b2d41.tar.gz"
+        },
+        "bbox": [
+            130.76597595215,
+            33.864284515381,
+            130.76754760742,
+            33.866992950439
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.76683,
+                        33.865852
+                    ],
+                    [
+                        130.767548,
+                        33.864285
+                    ],
+                    [
+                        130.766541,
+                        33.86496
+                    ],
+                    [
+                        130.765976,
+                        33.866993
+                    ],
+                    [
+                        130.766296,
+                        33.86647
+                    ],
+                    [
+                        130.76683,
+                        33.865852
+                    ]
+                ]
+            ]
+        ]
+    }
+}

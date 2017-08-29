@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28559585,
+    "properties": {
+        "woe_id": 28559585,
+        "place_id": "QAuHx2ebCZltA2KCLQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kawaramachi 3 Chome, Osaka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532063,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/28559585_20101216_d9e8f29a64.tar.gz"
+        },
+        "bbox": [
+            135.5008392334,
+            34.685832977295,
+            135.50267028809,
+            34.686500549316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.50267,
+                        34.686001
+                    ],
+                    [
+                        135.50267,
+                        34.685833
+                    ],
+                    [
+                        135.502167,
+                        34.685833
+                    ],
+                    [
+                        135.501343,
+                        34.685944
+                    ],
+                    [
+                        135.500839,
+                        34.686501
+                    ],
+                    [
+                        135.50267,
+                        34.686001
+                    ]
+                ]
+            ]
+        ]
+    }
+}

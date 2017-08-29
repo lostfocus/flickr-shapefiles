@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28577164,
+    "properties": {
+        "woe_id": 28577164,
+        "place_id": "kU_opiqbCZnBX1Ciqw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hamamachi 1 Chome, Kitakyushu-shi, Fukuoka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455278,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/28577164_20101215_d428b72694.tar.gz"
+        },
+        "bbox": [
+            130.81085205078,
+            33.904666900635,
+            130.81533813477,
+            33.907527923584
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        130.811188,
+                        33.904667
+                    ],
+                    [
+                        130.810852,
+                        33.904861
+                    ],
+                    [
+                        130.811981,
+                        33.907528
+                    ],
+                    [
+                        130.815338,
+                        33.907391
+                    ],
+                    [
+                        130.812195,
+                        33.904839
+                    ],
+                    [
+                        130.811188,
+                        33.904667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

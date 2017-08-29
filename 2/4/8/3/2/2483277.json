@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2483277,
+    "properties": {
+        "woe_id": 2483277,
+        "place_id": "vc9.zJ.bBZRX13rB",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rockbridge, Columbia, SC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530607,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2483277_20101216_ceec76f331.tar.gz"
+        },
+        "bbox": [
+            -80.960372924805,
+            34.036998748779,
+            -80.957672119141,
+            34.040782928467
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.960373,
+                        34.040764
+                    ],
+                    [
+                        -80.960358,
+                        34.040783
+                    ],
+                    [
+                        -80.959999,
+                        34.040703
+                    ],
+                    [
+                        -80.957672,
+                        34.037422
+                    ],
+                    [
+                        -80.960167,
+                        34.036999
+                    ],
+                    [
+                        -80.960373,
+                        34.040764
+                    ]
+                ]
+            ]
+        ]
+    }
+}

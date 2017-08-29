@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2521794,
+    "properties": {
+        "woe_id": 2521794,
+        "place_id": "Y0EIM6ObBJ4PbIRg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winding Ways, Skaneateles, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545347,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/2521794_20101217_7627c40d28.tar.gz"
+        },
+        "bbox": [
+            -76.41820526123,
+            42.888301849365,
+            -76.414672851562,
+            42.892314910889
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.418205,
+                        42.888302
+                    ],
+                    [
+                        -76.41758,
+                        42.889557
+                    ],
+                    [
+                        -76.417809,
+                        42.892315
+                    ],
+                    [
+                        -76.414673,
+                        42.889328
+                    ],
+                    [
+                        -76.416336,
+                        42.888332
+                    ],
+                    [
+                        -76.418205,
+                        42.888302
+                    ]
+                ]
+            ]
+        ]
+    }
+}

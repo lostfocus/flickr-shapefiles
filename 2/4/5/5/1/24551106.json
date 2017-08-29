@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551106,
+    "properties": {
+        "woe_id": 24551106,
+        "place_id": "S8T9PumbBZmvaifOkQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barrio Colo, Carolina, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292441996,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/24551106_20101215_8a998f4a83.tar.gz"
+        },
+        "bbox": [
+            -65.99690246582,
+            18.390844345093,
+            -65.991310119629,
+            18.398620605469
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -65.996902,
+                        18.393908
+                    ],
+                    [
+                        -65.99614,
+                        18.398621
+                    ],
+                    [
+                        -65.99131,
+                        18.398245
+                    ],
+                    [
+                        -65.995003,
+                        18.395313
+                    ],
+                    [
+                        -65.992256,
+                        18.390844
+                    ],
+                    [
+                        -65.996902,
+                        18.393908
+                    ]
+                ]
+            ]
+        ]
+    }
+}

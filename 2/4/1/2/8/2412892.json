@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2412892,
+    "properties": {
+        "woe_id": 2412892,
+        "place_id": "Z0CiDAabBZ266iiW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Grand View, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247886486,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2628\/shapefiles\/2412892_20090718_d67972b806.tar.gz"
+        },
+        "bbox": [
+            -111.86505126953,
+            40.778778076172,
+            -111.86113739014,
+            40.781154632568
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.864616,
+                        40.778778
+                    ],
+                    [
+                        -111.865051,
+                        40.779713
+                    ],
+                    [
+                        -111.861519,
+                        40.781155
+                    ],
+                    [
+                        -111.861137,
+                        40.779324
+                    ],
+                    [
+                        -111.86338,
+                        40.779076
+                    ],
+                    [
+                        -111.864616,
+                        40.778778
+                    ]
+                ]
+            ]
+        ]
+    }
+}

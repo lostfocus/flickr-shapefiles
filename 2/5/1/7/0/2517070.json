@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 2517070,
+    "properties": {
+        "woe_id": 2517070,
+        "place_id": "BZWkPBCbBJ03xADr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "West Genesee Terrace, Camillus, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541010,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/2517070_20101216_ba5abfa54e.tar.gz"
+        },
+        "bbox": [
+            -76.266914367676,
+            43.047660827637,
+            -76.258331298828,
+            43.054214477539
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.2621,
+                        43.052486
+                    ],
+                    [
+                        -76.258446,
+                        43.050823
+                    ],
+                    [
+                        -76.258331,
+                        43.047661
+                    ],
+                    [
+                        -76.260139,
+                        43.049965
+                    ],
+                    [
+                        -76.262711,
+                        43.051468
+                    ],
+                    [
+                        -76.263855,
+                        43.052456
+                    ],
+                    [
+                        -76.266914,
+                        43.054214
+                    ],
+                    [
+                        -76.263527,
+                        43.052521
+                    ],
+                    [
+                        -76.262253,
+                        43.052498
+                    ],
+                    [
+                        -76.2621,
+                        43.052486
+                    ]
+                ]
+            ]
+        ]
+    }
+}

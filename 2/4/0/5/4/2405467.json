@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2405467,
+    "properties": {
+        "woe_id": 2405467,
+        "place_id": "yCBgLImbBZye7tyk",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Foristall Corners, Cape Neddick, ME, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292527555,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/2405467_20101216_e8baff75c6.tar.gz"
+        },
+        "bbox": [
+            -70.692901611328,
+            43.218563079834,
+            -70.688911437988,
+            43.226165771484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.691788,
+                        43.224174
+                    ],
+                    [
+                        -70.688911,
+                        43.222973
+                    ],
+                    [
+                        -70.692902,
+                        43.218563
+                    ],
+                    [
+                        -70.692642,
+                        43.223564
+                    ],
+                    [
+                        -70.692688,
+                        43.226166
+                    ],
+                    [
+                        -70.691788,
+                        43.224174
+                    ]
+                ]
+            ]
+        ]
+    }
+}

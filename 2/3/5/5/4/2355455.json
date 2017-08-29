@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2355455,
+    "properties": {
+        "woe_id": 2355455,
+        "place_id": "R6YCiE.bApkT077Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arbor Acres, Lexington, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292477103,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/2355455_20101216_98c32eee39.tar.gz"
+        },
+        "bbox": [
+            -80.230918884277,
+            35.804847717285,
+            -80.229316711426,
+            35.807163238525
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.229591,
+                        35.805702
+                    ],
+                    [
+                        -80.229317,
+                        35.804848
+                    ],
+                    [
+                        -80.230919,
+                        35.805092
+                    ],
+                    [
+                        -80.230835,
+                        35.807163
+                    ],
+                    [
+                        -80.229591,
+                        35.805702
+                    ]
+                ]
+            ]
+        ]
+    }
+}

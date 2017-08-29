@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2456412,
+    "properties": {
+        "woe_id": 2456412,
+        "place_id": "kqUZ89ubBZlZ7e9Z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Murdocksville, Imperial, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525589,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5087\/shapefiles\/2456412_20101216_be49b403af.tar.gz"
+        },
+        "bbox": [
+            -80.332557678223,
+            40.492603302002,
+            -80.332191467285,
+            40.492713928223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.332558,
+                        40.492714
+                    ],
+                    [
+                        -80.332191,
+                        40.492615
+                    ],
+                    [
+                        -80.33255,
+                        40.492603
+                    ],
+                    [
+                        -80.332558,
+                        40.49271
+                    ],
+                    [
+                        -80.332558,
+                        40.492714
+                    ]
+                ]
+            ]
+        ]
+    }
+}

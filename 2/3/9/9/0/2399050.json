@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2399050,
+    "properties": {
+        "woe_id": 2399050,
+        "place_id": "g53r8FWbApWdlJ1R",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Elmsmere, Mount Vernon, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524440,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2399050_20101216_3edfce0961.tar.gz"
+        },
+        "bbox": [
+            -73.823448181152,
+            40.928550720215,
+            -73.82315826416,
+            40.928775787354
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.82325,
+                        40.928768
+                    ],
+                    [
+                        -73.823158,
+                        40.928726
+                    ],
+                    [
+                        -73.82338,
+                        40.928551
+                    ],
+                    [
+                        -73.823448,
+                        40.928646
+                    ],
+                    [
+                        -73.82338,
+                        40.928776
+                    ],
+                    [
+                        -73.82325,
+                        40.928768
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 23399698,
+    "properties": {
+        "woe_id": 23399698,
+        "place_id": "qtKCL8abAp_eaIxUig",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Normanhurst, Hamilton, ON, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525891,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/23399698_20101216_93384c1434.tar.gz"
+        },
+        "bbox": [
+            -79.792587280273,
+            43.24084854126,
+            -79.790397644043,
+            43.2453956604
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -79.790398,
+                        43.244686
+                    ],
+                    [
+                        -79.790695,
+                        43.243359
+                    ],
+                    [
+                        -79.79203,
+                        43.240849
+                    ],
+                    [
+                        -79.792587,
+                        43.243694
+                    ],
+                    [
+                        -79.790634,
+                        43.245396
+                    ],
+                    [
+                        -79.790398,
+                        43.244686
+                    ]
+                ]
+            ]
+        ]
+    }
+}

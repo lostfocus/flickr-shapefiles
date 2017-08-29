@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2461137,
+    "properties": {
+        "woe_id": 2461137,
+        "place_id": "ZPAY1cGbBZqKPbrR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "North Hills, Johnson City, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525221,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/2461137_20101216_da3f88e406.tar.gz"
+        },
+        "bbox": [
+            -82.379737854004,
+            36.335731506348,
+            -82.376220703125,
+            36.33846282959
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.377548,
+                        36.338463
+                    ],
+                    [
+                        -82.376472,
+                        36.338463
+                    ],
+                    [
+                        -82.376221,
+                        36.336853
+                    ],
+                    [
+                        -82.377892,
+                        36.335732
+                    ],
+                    [
+                        -82.379738,
+                        36.338428
+                    ],
+                    [
+                        -82.377548,
+                        36.338463
+                    ]
+                ]
+            ]
+        ]
+    }
+}

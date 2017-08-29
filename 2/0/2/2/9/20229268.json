@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 20229268,
+    "properties": {
+        "woe_id": 20229268,
+        "place_id": "rzlMMzubAZ50yeGYKw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingosgade, Frederiksberg, Hovedstaden, DK, Denmark"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292462884,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/20229268_20101216_15368f7d96.tar.gz"
+        },
+        "bbox": [
+            12.545499801636,
+            55.671501159668,
+            12.546167373657,
+            55.67200088501
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.546043,
+                        55.671772
+                    ],
+                    [
+                        12.545641,
+                        55.67152
+                    ],
+                    [
+                        12.5455,
+                        55.671501
+                    ],
+                    [
+                        12.5455,
+                        55.671665
+                    ],
+                    [
+                        12.546167,
+                        55.672001
+                    ],
+                    [
+                        12.546043,
+                        55.671772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

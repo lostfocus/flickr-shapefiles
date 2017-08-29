@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2359348,
+    "properties": {
+        "woe_id": 2359348,
+        "place_id": "f5bEf0.bApmvWSwQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Barnegat Beach, Waretown, NJ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548689,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/2359348_20101217_0176ac051a.tar.gz"
+        },
+        "bbox": [
+            -74.190498352051,
+            39.7727394104,
+            -74.185806274414,
+            39.776615142822
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.186707,
+                        39.775612
+                    ],
+                    [
+                        -74.18647,
+                        39.775494
+                    ],
+                    [
+                        -74.185806,
+                        39.774403
+                    ],
+                    [
+                        -74.186928,
+                        39.772739
+                    ],
+                    [
+                        -74.190498,
+                        39.776615
+                    ],
+                    [
+                        -74.186707,
+                        39.775612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2502960,
+    "properties": {
+        "woe_id": 2502960,
+        "place_id": "fGBBOwObBJzi4xnP",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swanville, Erie, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248021124,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2650\/shapefiles\/2502960_20090719_dfddd1506d.tar.gz"
+        },
+        "bbox": [
+            -80.204917907715,
+            42.046138763428,
+            -80.181411743164,
+            42.056907653809
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -80.181976,
+                        42.052612
+                    ],
+                    [
+                        -80.204918,
+                        42.046139
+                    ],
+                    [
+                        -80.182365,
+                        42.053291
+                    ],
+                    [
+                        -80.181953,
+                        42.054981
+                    ],
+                    [
+                        -80.181412,
+                        42.056908
+                    ],
+                    [
+                        -80.181976,
+                        42.052612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

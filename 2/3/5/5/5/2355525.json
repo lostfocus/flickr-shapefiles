@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2355525,
+    "properties": {
+        "woe_id": 2355525,
+        "place_id": "FkdxCc.bApkPhoyT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Arcadia, Hope Valley, RI, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521231,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/2355525_20101216_b9827bfb01.tar.gz"
+        },
+        "bbox": [
+            -71.695663452148,
+            41.555416107178,
+            -71.687782287598,
+            41.560104370117
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.688019,
+                        41.558308
+                    ],
+                    [
+                        -71.688881,
+                        41.555416
+                    ],
+                    [
+                        -71.690422,
+                        41.556061
+                    ],
+                    [
+                        -71.695663,
+                        41.556362
+                    ],
+                    [
+                        -71.690422,
+                        41.558338
+                    ],
+                    [
+                        -71.687782,
+                        41.560104
+                    ],
+                    [
+                        -71.688019,
+                        41.558308
+                    ]
+                ]
+            ]
+        ]
+    }
+}

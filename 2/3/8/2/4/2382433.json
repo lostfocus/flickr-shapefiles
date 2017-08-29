@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2382433,
+    "properties": {
+        "woe_id": 2382433,
+        "place_id": "SZn.YxKbApSxP.5T",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cochesett, West Bridgewater, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528222,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/2382433_20101216_080075e4b4.tar.gz"
+        },
+        "bbox": [
+            -71.050277709961,
+            42.008331298828,
+            -71.045997619629,
+            42.014499664307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -71.049332,
+                        42.012333
+                    ],
+                    [
+                        -71.045998,
+                        42.0145
+                    ],
+                    [
+                        -71.048164,
+                        42.011333
+                    ],
+                    [
+                        -71.050278,
+                        42.008331
+                    ],
+                    [
+                        -71.049065,
+                        42.011536
+                    ],
+                    [
+                        -71.049332,
+                        42.012333
+                    ]
+                ]
+            ]
+        ]
+    }
+}

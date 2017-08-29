@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28576006,
+    "properties": {
+        "woe_id": 28576006,
+        "place_id": "nmu.qcubCZmCaUDpgA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Yunoyamahigashi 5 Chome, Matsuyama-shi, Ehime Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292472430,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28576006_20101216_7fd8f07861.tar.gz"
+        },
+        "bbox": [
+            132.82417297363,
+            33.865501403809,
+            132.82783508301,
+            33.866668701172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.827332,
+                        33.866669
+                    ],
+                    [
+                        132.827835,
+                        33.866669
+                    ],
+                    [
+                        132.827667,
+                        33.866501
+                    ],
+                    [
+                        132.824173,
+                        33.865501
+                    ],
+                    [
+                        132.826996,
+                        33.866669
+                    ],
+                    [
+                        132.827332,
+                        33.866669
+                    ]
+                ]
+            ]
+        ]
+    }
+}

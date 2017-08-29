@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2452357,
+    "properties": {
+        "woe_id": 2452357,
+        "place_id": "LKAaom6bBZk0JuC8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mission Valley, Chandler, AZ, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460428,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/2452357_20101216_5dbffe0320.tar.gz"
+        },
+        "bbox": [
+            -111.85224914551,
+            33.35347366333,
+            -111.85180664062,
+            33.355289459229
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.851936,
+                        33.355274
+                    ],
+                    [
+                        -111.851837,
+                        33.354809
+                    ],
+                    [
+                        -111.851807,
+                        33.353474
+                    ],
+                    [
+                        -111.852081,
+                        33.354782
+                    ],
+                    [
+                        -111.852249,
+                        33.355289
+                    ],
+                    [
+                        -111.851936,
+                        33.355274
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 22722008,
+    "properties": {
+        "woe_id": 22722008,
+        "place_id": "AEUmNMWbA5t3V7ag.g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Salter Point, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542688,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/22722008_20101216_fc3062687b.tar.gz"
+        },
+        "bbox": [
+            115.85949707031,
+            -32.027374267578,
+            115.86567687988,
+            -32.024230957031
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.859581,
+                        -32.026268
+                    ],
+                    [
+                        115.859497,
+                        -32.024231
+                    ],
+                    [
+                        115.865677,
+                        -32.024525
+                    ],
+                    [
+                        115.864624,
+                        -32.026989
+                    ],
+                    [
+                        115.864227,
+                        -32.027374
+                    ],
+                    [
+                        115.859581,
+                        -32.026268
+                    ]
+                ]
+            ]
+        ]
+    }
+}

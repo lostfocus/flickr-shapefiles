@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2369646,
+    "properties": {
+        "woe_id": 2369646,
+        "place_id": "g0ZE4_GbAprxOcHM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brockway, Old Lyme, CT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547423,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2369646_20101217_52b3c1a86b.tar.gz"
+        },
+        "bbox": [
+            -72.375511169434,
+            41.415153503418,
+            -72.374984741211,
+            41.415512084961
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.375366,
+                        41.415157
+                    ],
+                    [
+                        -72.375511,
+                        41.415268
+                    ],
+                    [
+                        -72.374992,
+                        41.415508
+                    ],
+                    [
+                        -72.374985,
+                        41.415512
+                    ],
+                    [
+                        -72.375336,
+                        41.415154
+                    ],
+                    [
+                        -72.375366,
+                        41.415157
+                    ]
+                ]
+            ]
+        ]
+    }
+}

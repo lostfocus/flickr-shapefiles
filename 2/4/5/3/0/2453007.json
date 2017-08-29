@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2453007,
+    "properties": {
+        "woe_id": 2453007,
+        "place_id": "T7WdTOubBZnZDBCj",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monroe, Kintnersville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533982,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2453007_20101216_0689bb61e9.tar.gz"
+        },
+        "bbox": [
+            -75.197410583496,
+            40.578987121582,
+            -75.196937561035,
+            40.580150604248
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.197098,
+                        40.578987
+                    ],
+                    [
+                        -75.197296,
+                        40.579151
+                    ],
+                    [
+                        -75.197411,
+                        40.579819
+                    ],
+                    [
+                        -75.197166,
+                        40.580105
+                    ],
+                    [
+                        -75.196976,
+                        40.580151
+                    ],
+                    [
+                        -75.196938,
+                        40.579281
+                    ],
+                    [
+                        -75.197098,
+                        40.578987
+                    ]
+                ]
+            ]
+        ]
+    }
+}

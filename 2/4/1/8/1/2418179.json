@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2418179,
+    "properties": {
+        "woe_id": 2418179,
+        "place_id": "8PDrWfibBZ3Iv9eF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Harrow, Ottsville, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547808,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2418179_20101217_339f3bb79d.tar.gz"
+        },
+        "bbox": [
+            -75.189178466797,
+            40.475299835205,
+            -75.185661315918,
+            40.48112487793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.189178,
+                        40.480682
+                    ],
+                    [
+                        -75.189087,
+                        40.481125
+                    ],
+                    [
+                        -75.186012,
+                        40.479614
+                    ],
+                    [
+                        -75.185661,
+                        40.4753
+                    ],
+                    [
+                        -75.188721,
+                        40.479481
+                    ],
+                    [
+                        -75.189178,
+                        40.480682
+                    ]
+                ]
+            ]
+        ]
+    }
+}

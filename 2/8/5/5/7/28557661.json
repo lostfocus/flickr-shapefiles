@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28557661,
+    "properties": {
+        "woe_id": 28557661,
+        "place_id": "gEWauyubCZlXE8BY4w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Terayamadai 1 Chome, Uji-shi, Kyoto Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522567,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/28557661_20101216_8e806ea054.tar.gz"
+        },
+        "bbox": [
+            135.77890014648,
+            34.873100280762,
+            135.78247070312,
+            34.875381469727
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.7789,
+                        34.8731
+                    ],
+                    [
+                        135.7789,
+                        34.873104
+                    ],
+                    [
+                        135.778915,
+                        34.873131
+                    ],
+                    [
+                        135.782471,
+                        34.875381
+                    ],
+                    [
+                        135.778915,
+                        34.8731
+                    ],
+                    [
+                        135.7789,
+                        34.8731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

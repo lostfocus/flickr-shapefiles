@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2434788,
+    "properties": {
+        "woe_id": 2434788,
+        "place_id": "xL4k0GGbBZ9yvrs2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lake City, Sigel, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234702811,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3565\/shapefiles\/2434788_20090215_106f174ffa.tar.gz"
+        },
+        "bbox": [
+            -78.882026672363,
+            41.367359161377,
+            -78.881996154785,
+            41.367389678955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.882004,
+                        41.36739
+                    ],
+                    [
+                        -78.881996,
+                        41.367359
+                    ],
+                    [
+                        -78.882004,
+                        41.367359
+                    ],
+                    [
+                        -78.882027,
+                        41.367359
+                    ],
+                    [
+                        -78.882004,
+                        41.36739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

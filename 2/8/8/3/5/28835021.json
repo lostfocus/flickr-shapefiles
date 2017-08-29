@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28835021,
+    "properties": {
+        "woe_id": 28835021,
+        "place_id": "vnN3wu.bCZSuobirmQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Samsan-Myeon, Incheon, Incheon, KR, South Korea"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526016,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/28835021_20101216_a2ce448f8c.tar.gz"
+        },
+        "bbox": [
+            126.31620788574,
+            37.688331604004,
+            126.3215713501,
+            37.690612792969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        126.316597,
+                        37.690231
+                    ],
+                    [
+                        126.321571,
+                        37.690613
+                    ],
+                    [
+                        126.32148,
+                        37.688648
+                    ],
+                    [
+                        126.321503,
+                        37.688332
+                    ],
+                    [
+                        126.316208,
+                        37.688568
+                    ],
+                    [
+                        126.316597,
+                        37.690231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23511935,
+    "properties": {
+        "woe_id": 23511935,
+        "place_id": "ZCB82RqbApmllkDLxQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Humboldt Park, Chicago, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524665,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/23511935_20101216_6fa7c73940.tar.gz"
+        },
+        "bbox": [
+            -87.728775024414,
+            41.902660369873,
+            -87.723510742188,
+            41.903617858887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -87.728645,
+                        41.90266
+                    ],
+                    [
+                        -87.728775,
+                        41.902676
+                    ],
+                    [
+                        -87.7286,
+                        41.902821
+                    ],
+                    [
+                        -87.723511,
+                        41.903618
+                    ],
+                    [
+                        -87.728645,
+                        41.90266
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2481289,
+    "properties": {
+        "woe_id": 2481289,
+        "place_id": "LMkb8rubBZSttvZW",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Ridgeway, White Plains, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525890,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/2481289_20101216_6536d56c6b.tar.gz"
+        },
+        "bbox": [
+            -73.763603210449,
+            40.999370574951,
+            -73.758895874023,
+            41.004425048828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.76088,
+                        41.002628
+                    ],
+                    [
+                        -73.759308,
+                        41.004425
+                    ],
+                    [
+                        -73.758896,
+                        41.002205
+                    ],
+                    [
+                        -73.759827,
+                        40.999371
+                    ],
+                    [
+                        -73.763603,
+                        41.001068
+                    ],
+                    [
+                        -73.76088,
+                        41.002628
+                    ]
+                ]
+            ]
+        ]
+    }
+}

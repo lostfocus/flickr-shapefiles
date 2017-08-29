@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 23403625,
+    "properties": {
+        "woe_id": 23403625,
+        "place_id": "YyVGPzabApjUbRIwuw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Prairie View, Regina, SK, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525834,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5248\/shapefiles\/23403625_20101216_511626400f.tar.gz"
+        },
+        "bbox": [
+            -104.69882965088,
+            50.48099899292,
+            -104.69733428955,
+            50.482334136963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.698669,
+                        50.482334
+                    ],
+                    [
+                        -104.698502,
+                        50.482334
+                    ],
+                    [
+                        -104.697334,
+                        50.480999
+                    ],
+                    [
+                        -104.69883,
+                        50.482166
+                    ],
+                    [
+                        -104.698669,
+                        50.482334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

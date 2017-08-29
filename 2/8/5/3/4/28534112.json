@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28534112,
+    "properties": {
+        "woe_id": 28534112,
+        "place_id": "LE.I33CbCZnRO_.GsQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Daigiri 2 Chome, Fujisawa-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292457691,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28534112_20101216_17168aabdc.tar.gz"
+        },
+        "bbox": [
+            139.48675537109,
+            35.344299316406,
+            139.48818969727,
+            35.345603942871
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.486755,
+                        35.34539
+                    ],
+                    [
+                        139.486862,
+                        35.345604
+                    ],
+                    [
+                        139.487091,
+                        35.345348
+                    ],
+                    [
+                        139.488129,
+                        35.344517
+                    ],
+                    [
+                        139.48819,
+                        35.344299
+                    ],
+                    [
+                        139.486755,
+                        35.34539
+                    ]
+                ]
+            ]
+        ]
+    }
+}

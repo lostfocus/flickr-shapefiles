@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2435543,
+    "properties": {
+        "woe_id": 2435543,
+        "place_id": "bjovdgebBZ8YtUR0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Lakeview, Guntersville, AL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292460246,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5202\/shapefiles\/2435543_20101216_9f61c59d68.tar.gz"
+        },
+        "bbox": [
+            -86.323997497559,
+            34.341167449951,
+            -86.323204040527,
+            34.344753265381
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -86.323402,
+                        34.344753
+                    ],
+                    [
+                        -86.323204,
+                        34.343277
+                    ],
+                    [
+                        -86.323891,
+                        34.341167
+                    ],
+                    [
+                        -86.323997,
+                        34.343933
+                    ],
+                    [
+                        -86.323402,
+                        34.344753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 2403503,
+    "properties": {
+        "woe_id": 2403503,
+        "place_id": "8vLM9.SbBZxIkldv",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Firdale, Edmonds, WA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536729,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/2403503_20101216_daf1c72bfa.tar.gz"
+        },
+        "bbox": [
+            -122.36260223389,
+            47.773239135742,
+            -122.35366821289,
+            47.778499603271
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -122.353668,
+                        47.775665
+                    ],
+                    [
+                        -122.357887,
+                        47.777779
+                    ],
+                    [
+                        -122.360619,
+                        47.773239
+                    ],
+                    [
+                        -122.362602,
+                        47.778252
+                    ],
+                    [
+                        -122.358902,
+                        47.7785
+                    ],
+                    [
+                        -122.357887,
+                        47.777779
+                    ],
+                    [
+                        -122.353668,
+                        47.775501
+                    ],
+                    [
+                        -122.353668,
+                        47.775665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 24551021,
+    "properties": {
+        "woe_id": 24551021,
+        "place_id": "gcyzITybBZm.iIIUQQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Puerto Nuevo Sur, San Juan, San Juan, PR, Puerto Rico"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292502729,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/24551021_20101216_3c22e921ca.tar.gz"
+        },
+        "bbox": [
+            -66.083793640137,
+            18.412612915039,
+            -66.078704833984,
+            18.415018081665
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.082214,
+                        18.415018
+                    ],
+                    [
+                        -66.078705,
+                        18.412613
+                    ],
+                    [
+                        -66.082527,
+                        18.414312
+                    ],
+                    [
+                        -66.083794,
+                        18.413963
+                    ],
+                    [
+                        -66.082558,
+                        18.414656
+                    ],
+                    [
+                        -66.082214,
+                        18.415018
+                    ]
+                ]
+            ]
+        ]
+    }
+}

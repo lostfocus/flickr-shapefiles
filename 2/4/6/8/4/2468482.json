@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2468482,
+    "properties": {
+        "woe_id": 2468482,
+        "place_id": "1JkJDfybBZr6LfBJ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Parkdale, Starkville, MS, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540525,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/2468482_20101216_c64af35f53.tar.gz"
+        },
+        "bbox": [
+            -88.821113586426,
+            33.463760375977,
+            -88.815841674805,
+            33.46817779541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.816406,
+                        33.463795
+                    ],
+                    [
+                        -88.81813,
+                        33.464176
+                    ],
+                    [
+                        -88.821114,
+                        33.466431
+                    ],
+                    [
+                        -88.819473,
+                        33.468178
+                    ],
+                    [
+                        -88.816231,
+                        33.465935
+                    ],
+                    [
+                        -88.815842,
+                        33.46376
+                    ],
+                    [
+                        -88.816406,
+                        33.463795
+                    ]
+                ]
+            ]
+        ]
+    }
+}

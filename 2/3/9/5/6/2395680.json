@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 2395680,
+    "properties": {
+        "woe_id": 2395680,
+        "place_id": "MCdg3.ebApWqXWs7",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "East Hauppauge, Nesconset, NY, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546042,
+        "alpha": 1.0e-5,
+        "points": 23,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/2395680_20101217_d0bf3c961c.tar.gz"
+        },
+        "bbox": [
+            -73.145217895508,
+            40.825317382812,
+            -73.141479492188,
+            40.825775146484
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.144951,
+                        40.825317
+                    ],
+                    [
+                        -73.145187,
+                        40.825539
+                    ],
+                    [
+                        -73.145218,
+                        40.825645
+                    ],
+                    [
+                        -73.143448,
+                        40.825615
+                    ],
+                    [
+                        -73.141479,
+                        40.825775
+                    ],
+                    [
+                        -73.143448,
+                        40.825611
+                    ],
+                    [
+                        -73.144951,
+                        40.825317
+                    ]
+                ]
+            ]
+        ]
+    }
+}

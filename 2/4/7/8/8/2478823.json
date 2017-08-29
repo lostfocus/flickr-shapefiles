@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2478823,
+    "properties": {
+        "woe_id": 2478823,
+        "place_id": "5lHufoubBZsnPyoY",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Raubenstine, Hanover, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292486463,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/2478823_20101216_722705a69b.tar.gz"
+        },
+        "bbox": [
+            -76.990600585938,
+            39.748031616211,
+            -76.989265441895,
+            39.751697540283
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.98941,
+                        39.751698
+                    ],
+                    [
+                        -76.989265,
+                        39.75161
+                    ],
+                    [
+                        -76.989441,
+                        39.748032
+                    ],
+                    [
+                        -76.990044,
+                        39.748573
+                    ],
+                    [
+                        -76.990601,
+                        39.751163
+                    ],
+                    [
+                        -76.98941,
+                        39.751698
+                    ]
+                ]
+            ]
+        ]
+    }
+}

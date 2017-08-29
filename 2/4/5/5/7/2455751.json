@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2455751,
+    "properties": {
+        "woe_id": 2455751,
+        "place_id": "iQZh5RqbBZn_kmWX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mountain Glen, Cobden, IL, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532500,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/2455751_20101216_c0ae49e172.tar.gz"
+        },
+        "bbox": [
+            -89.25505065918,
+            37.532188415527,
+            -89.253517150879,
+            37.534320831299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.255051,
+                        37.532871
+                    ],
+                    [
+                        -89.254227,
+                        37.533985
+                    ],
+                    [
+                        -89.253929,
+                        37.534321
+                    ],
+                    [
+                        -89.253517,
+                        37.532768
+                    ],
+                    [
+                        -89.253616,
+                        37.532188
+                    ],
+                    [
+                        -89.255051,
+                        37.532871
+                    ]
+                ]
+            ]
+        ]
+    }
+}

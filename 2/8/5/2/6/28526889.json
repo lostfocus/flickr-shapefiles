@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28526889,
+    "properties": {
+        "woe_id": 28526889,
+        "place_id": "MrKrMZabCZmDKNSQnQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mihama 4 Chome, Urayasu-shi, Chiba Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521458,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/28526889_20101216_5840455433.tar.gz"
+        },
+        "bbox": [
+            139.9109954834,
+            35.65599822998,
+            139.91448974609,
+            35.657211303711
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.914459,
+                        35.657211
+                    ],
+                    [
+                        139.91449,
+                        35.656857
+                    ],
+                    [
+                        139.913498,
+                        35.655998
+                    ],
+                    [
+                        139.911041,
+                        35.656174
+                    ],
+                    [
+                        139.910995,
+                        35.656525
+                    ],
+                    [
+                        139.914459,
+                        35.657211
+                    ]
+                ]
+            ]
+        ]
+    }
+}

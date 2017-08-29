@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2520210,
+    "properties": {
+        "woe_id": 2520210,
+        "place_id": "Kpg.3dybBJ6ckm3S",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Wiggins Mill, Wilson, NC, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522259,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/2520210_20101216_c4c1b78057.tar.gz"
+        },
+        "bbox": [
+            -77.951591491699,
+            35.683044433594,
+            -77.947998046875,
+            35.688205718994
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.949379,
+                        35.687984
+                    ],
+                    [
+                        -77.948273,
+                        35.688206
+                    ],
+                    [
+                        -77.947998,
+                        35.688095
+                    ],
+                    [
+                        -77.949158,
+                        35.687778
+                    ],
+                    [
+                        -77.951591,
+                        35.683044
+                    ],
+                    [
+                        -77.949379,
+                        35.687984
+                    ]
+                ]
+            ]
+        ]
+    }
+}

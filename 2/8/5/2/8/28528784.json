@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28528784,
+    "properties": {
+        "woe_id": 28528784,
+        "place_id": "PFcsqoWbCZkFi6b9Hw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Minamidai 5 Chome, Tokyo, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292463483,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/28528784_20101216_8d9dbe8af9.tar.gz"
+        },
+        "bbox": [
+            139.66049194336,
+            35.680648803711,
+            139.66372680664,
+            35.684043884277
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.663605,
+                        35.683498
+                    ],
+                    [
+                        139.663727,
+                        35.683117
+                    ],
+                    [
+                        139.663452,
+                        35.682632
+                    ],
+                    [
+                        139.660492,
+                        35.680649
+                    ],
+                    [
+                        139.661865,
+                        35.684044
+                    ],
+                    [
+                        139.663605,
+                        35.683498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

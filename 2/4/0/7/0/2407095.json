@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2407095,
+    "properties": {
+        "woe_id": 2407095,
+        "place_id": "78nNiDybBZwJz4t2",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Frayser, Memphis, TN, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292500445,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/2407095_20101216_171eba282e.tar.gz"
+        },
+        "bbox": [
+            -90.034721374512,
+            35.197799682617,
+            -90.031631469727,
+            35.20240020752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -90.034721,
+                        35.1978
+                    ],
+                    [
+                        -90.034676,
+                        35.198326
+                    ],
+                    [
+                        -90.034119,
+                        35.2024
+                    ],
+                    [
+                        -90.031631,
+                        35.19878
+                    ],
+                    [
+                        -90.033646,
+                        35.198097
+                    ],
+                    [
+                        -90.034721,
+                        35.1978
+                    ]
+                ]
+            ]
+        ]
+    }
+}

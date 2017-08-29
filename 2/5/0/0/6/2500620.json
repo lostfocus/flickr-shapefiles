@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 2500620,
+    "properties": {
+        "woe_id": 2500620,
+        "place_id": "qFzDTPabBJz0l3P.",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Stouts, Easton, PA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248007093,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2589\/shapefiles\/2500620_20090719_1352965746.tar.gz"
+        },
+        "bbox": [
+            -75.229011535645,
+            40.60209274292,
+            -75.224136352539,
+            40.615978240967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.224136,
+                        40.615978
+                    ],
+                    [
+                        -75.224518,
+                        40.615181
+                    ],
+                    [
+                        -75.229012,
+                        40.602093
+                    ],
+                    [
+                        -75.224724,
+                        40.615726
+                    ],
+                    [
+                        -75.224136,
+                        40.615978
+                    ]
+                ]
+            ]
+        ]
+    }
+}

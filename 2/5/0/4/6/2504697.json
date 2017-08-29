@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2504697,
+    "properties": {
+        "woe_id": 2504697,
+        "place_id": "pbNSGnmbBJzA1HlR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Templeton Station, Templeton, MA, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524012,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/2504697_20101216_86d74036c1.tar.gz"
+        },
+        "bbox": [
+            -72.072769165039,
+            42.555671691895,
+            -72.067970275879,
+            42.559650421143
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.068077,
+                        42.556404
+                    ],
+                    [
+                        -72.06797,
+                        42.555805
+                    ],
+                    [
+                        -72.06958,
+                        42.555672
+                    ],
+                    [
+                        -72.072769,
+                        42.55965
+                    ],
+                    [
+                        -72.068939,
+                        42.556114
+                    ],
+                    [
+                        -72.068077,
+                        42.556404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

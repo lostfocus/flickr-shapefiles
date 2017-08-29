@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 2386162,
+    "properties": {
+        "woe_id": 2386162,
+        "place_id": "fLUR5YabApR.ibsX",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cove on Mount Olympus Place, Salt Lake City, UT, US, United States"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525132,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/2386162_20101216_4f724ae901.tar.gz"
+        },
+        "bbox": [
+            -111.8062286377,
+            40.66039276123,
+            -111.80477142334,
+            40.664817810059
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -111.806229,
+                        40.660393
+                    ],
+                    [
+                        -111.806145,
+                        40.664818
+                    ],
+                    [
+                        -111.804771,
+                        40.663647
+                    ],
+                    [
+                        -111.805069,
+                        40.661678
+                    ],
+                    [
+                        -111.805862,
+                        40.660473
+                    ],
+                    [
+                        -111.806229,
+                        40.660393
+                    ]
+                ]
+            ]
+        ]
+    }
+}

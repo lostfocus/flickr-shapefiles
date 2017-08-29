@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 29215248,
+    "properties": {
+        "woe_id": 29215248,
+        "place_id": "uT8H2DebCJ6qwSEzXA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moti Nagar, New Delhi, NCT, IN, India"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292436184,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/29215248_20101215_eec9f4a31a.tar.gz"
+        },
+        "bbox": [
+            77.142158508301,
+            28.657716751099,
+            77.149215698242,
+            28.661613464355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        77.142159,
+                        28.657717
+                    ],
+                    [
+                        77.143036,
+                        28.661613
+                    ],
+                    [
+                        77.143417,
+                        28.658884
+                    ],
+                    [
+                        77.149216,
+                        28.661276
+                    ],
+                    [
+                        77.143517,
+                        28.658714
+                    ],
+                    [
+                        77.142159,
+                        28.657717
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 28585685,
+    "properties": {
+        "woe_id": 28585685,
+        "place_id": "vKUoecubCZk.TlpHzQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kingsford, Carnarvon, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455279,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/28585685_20101215_6da9854dba.tar.gz"
+        },
+        "bbox": [
+            113.70403289795,
+            -24.872341156006,
+            113.70720672607,
+            -24.868059158325
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        113.704712,
+                        -24.869102
+                    ],
+                    [
+                        113.707207,
+                        -24.868059
+                    ],
+                    [
+                        113.705162,
+                        -24.86916
+                    ],
+                    [
+                        113.704033,
+                        -24.872341
+                    ],
+                    [
+                        113.704155,
+                        -24.869364
+                    ],
+                    [
+                        113.704712,
+                        -24.869102
+                    ]
+                ]
+            ]
+        ]
+    }
+}

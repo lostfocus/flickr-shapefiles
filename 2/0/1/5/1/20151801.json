@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 20151801,
+    "properties": {
+        "woe_id": 20151801,
+        "place_id": "8bvvaWebAZ02A_LBbw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Tullinge-villast, Tullinge, Stockholm, SE, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292551622,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5122\/shapefiles\/20151801_20101217_fc31b3b917.tar.gz"
+        },
+        "bbox": [
+            17.919284820557,
+            59.218036651611,
+            17.922769546509,
+            59.222492218018
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.922598,
+                        59.218056
+                    ],
+                    [
+                        17.921877,
+                        59.218056
+                    ],
+                    [
+                        17.921619,
+                        59.218254
+                    ],
+                    [
+                        17.919285,
+                        59.219078
+                    ],
+                    [
+                        17.922005,
+                        59.222492
+                    ],
+                    [
+                        17.92277,
+                        59.218037
+                    ],
+                    [
+                        17.922598,
+                        59.218056
+                    ]
+                ]
+            ]
+        ]
+    }
+}

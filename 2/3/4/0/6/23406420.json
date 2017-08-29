@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 23406420,
+    "properties": {
+        "woe_id": 23406420,
+        "place_id": "mZEA3BGbApinttiqaw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Prague 6, Prague 6, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542683,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/23406420_20101216_5a603fdaa2.tar.gz"
+        },
+        "bbox": [
+            14.386311531067,
+            50.099750518799,
+            14.390769958496,
+            50.101451873779
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.390169,
+                        50.101341
+                    ],
+                    [
+                        14.39077,
+                        50.100018
+                    ],
+                    [
+                        14.389911,
+                        50.099751
+                    ],
+                    [
+                        14.386888,
+                        50.100193
+                    ],
+                    [
+                        14.386398,
+                        50.101147
+                    ],
+                    [
+                        14.386312,
+                        50.101452
+                    ],
+                    [
+                        14.390169,
+                        50.101341
+                    ]
+                ]
+            ]
+        ]
+    }
+}
