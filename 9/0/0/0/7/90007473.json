@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 90007473,
+    "properties": {
+        "woe_id": 90007473,
+        "place_id": "yJvfcQKQAZxPpFRFAg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "manpukuji 6chome, Kawasaki-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519444,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/90007473_20101216_367aeff11d.tar.gz"
+        },
+        "bbox": [
+            139.50300598145,
+            35.605167388916,
+            139.50650024414,
+            35.607208251953
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.503403,
+                        35.605335
+                    ],
+                    [
+                        139.503006,
+                        35.605831
+                    ],
+                    [
+                        139.506104,
+                        35.607208
+                    ],
+                    [
+                        139.5065,
+                        35.605831
+                    ],
+                    [
+                        139.506332,
+                        35.605579
+                    ],
+                    [
+                        139.505493,
+                        35.605167
+                    ],
+                    [
+                        139.503403,
+                        35.605335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

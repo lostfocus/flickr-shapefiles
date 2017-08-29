@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010621,
+    "properties": {
+        "woe_id": 90010621,
+        "place_id": "3Q_geHSQAZwxnVGQ3w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Himeji-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543179,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/90010621_20101216_160967b076.tar.gz"
+        },
+        "bbox": [
+            134.69203186035,
+            34.826416015625,
+            134.69271850586,
+            34.826766967773
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        134.692719,
+                        34.826485
+                    ],
+                    [
+                        134.692719,
+                        34.826416
+                    ],
+                    [
+                        134.692032,
+                        34.826698
+                    ],
+                    [
+                        134.692291,
+                        34.826767
+                    ],
+                    [
+                        134.692719,
+                        34.826485
+                    ]
+                ]
+            ]
+        ]
+    }
+}

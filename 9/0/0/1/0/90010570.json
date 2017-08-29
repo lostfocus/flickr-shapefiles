@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010570,
+    "properties": {
+        "woe_id": 90010570,
+        "place_id": "TTdXXJWQAZxGh9wKtw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Mino-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234506724,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3463\/shapefiles\/90010570_20090213_706518f668.tar.gz"
+        },
+        "bbox": [
+            135.50338745117,
+            34.860221862793,
+            135.50425720215,
+            34.860721588135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.504257,
+                        34.860722
+                    ],
+                    [
+                        135.504196,
+                        34.860664
+                    ],
+                    [
+                        135.503387,
+                        34.860222
+                    ],
+                    [
+                        135.504105,
+                        34.860638
+                    ],
+                    [
+                        135.504257,
+                        34.860722
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 90010032,
+    "properties": {
+        "woe_id": 90010032,
+        "place_id": "42V.kAuQAZwBjeLKHA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Yamato-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292550374,
+        "alpha": 1.0e-5,
+        "points": 34,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/90010032_20101217_ff30e01bbf.tar.gz"
+        },
+        "bbox": [
+            139.44163513184,
+            35.471836090088,
+            139.4478302002,
+            35.477733612061
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.445084,
+                        35.477734
+                    ],
+                    [
+                        139.44693,
+                        35.476521
+                    ],
+                    [
+                        139.44783,
+                        35.475334
+                    ],
+                    [
+                        139.44783,
+                        35.475166
+                    ],
+                    [
+                        139.445923,
+                        35.471836
+                    ],
+                    [
+                        139.442337,
+                        35.474499
+                    ],
+                    [
+                        139.442337,
+                        35.474804
+                    ],
+                    [
+                        139.441635,
+                        35.476803
+                    ],
+                    [
+                        139.444595,
+                        35.477619
+                    ],
+                    [
+                        139.445084,
+                        35.477734
+                    ]
+                ]
+            ]
+        ]
+    }
+}

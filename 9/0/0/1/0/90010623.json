@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010623,
+    "properties": {
+        "woe_id": 90010623,
+        "place_id": "B5xax_mQAZyg0r6sfA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Amagasaki-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234653491,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3431\/shapefiles\/90010623_20090214_bbd09537ba.tar.gz"
+        },
+        "bbox": [
+            135.44129943848,
+            34.742290496826,
+            135.44236755371,
+            34.743461608887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.442368,
+                        34.743305
+                    ],
+                    [
+                        135.442032,
+                        34.74229
+                    ],
+                    [
+                        135.441299,
+                        34.743446
+                    ],
+                    [
+                        135.441513,
+                        34.743462
+                    ],
+                    [
+                        135.442368,
+                        34.743305
+                    ]
+                ]
+            ]
+        ]
+    }
+}

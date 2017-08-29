@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 90010016,
+    "properties": {
+        "woe_id": 90010016,
+        "place_id": "EoU0P8CQAZzRUZNQgg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Zushi-shi, Kanagawa Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292526147,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/90010016_20101216_ee4eff9537.tar.gz"
+        },
+        "bbox": [
+            139.59043884277,
+            35.273303985596,
+            139.59303283691,
+            35.273834228516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.592331,
+                        35.273335
+                    ],
+                    [
+                        139.592056,
+                        35.273304
+                    ],
+                    [
+                        139.590439,
+                        35.273834
+                    ],
+                    [
+                        139.593033,
+                        35.273609
+                    ],
+                    [
+                        139.592804,
+                        35.273361
+                    ],
+                    [
+                        139.592331,
+                        35.273335
+                    ]
+                ]
+            ]
+        ]
+    }
+}

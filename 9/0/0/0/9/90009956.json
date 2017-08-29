@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 90009956,
+    "properties": {
+        "woe_id": 90009956,
+        "place_id": "JygPbjWQAZzaBPm67g",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Tama-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458112,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/90009956_20101216_c871b95496.tar.gz"
+        },
+        "bbox": [
+            139.44035339355,
+            35.656604766846,
+            139.44639587402,
+            35.658336639404
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.445755,
+                        35.657986
+                    ],
+                    [
+                        139.440353,
+                        35.656605
+                    ],
+                    [
+                        139.445663,
+                        35.658337
+                    ],
+                    [
+                        139.446091,
+                        35.658115
+                    ],
+                    [
+                        139.446396,
+                        35.657486
+                    ],
+                    [
+                        139.445755,
+                        35.657986
+                    ]
+                ]
+            ]
+        ]
+    }
+}

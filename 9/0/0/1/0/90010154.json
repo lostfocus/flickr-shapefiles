@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010154,
+    "properties": {
+        "woe_id": 90010154,
+        "place_id": "oWmPtbmQAZwBT40TMg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Takaoka-shi, Toyama Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465221,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/90010154_20101216_12c5e9a366.tar.gz"
+        },
+        "bbox": [
+            137.01942443848,
+            36.748374938965,
+            137.02439880371,
+            36.752983093262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.021652,
+                        36.748375
+                    ],
+                    [
+                        137.019424,
+                        36.750301
+                    ],
+                    [
+                        137.024399,
+                        36.752983
+                    ],
+                    [
+                        137.023575,
+                        36.750103
+                    ],
+                    [
+                        137.021652,
+                        36.748375
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90009938,
+    "properties": {
+        "woe_id": 90009938,
+        "place_id": "pKMb46CQAZw8MBPoCg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Akishima-shi, Tokyo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455563,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5204\/shapefiles\/90009938_20101215_afe57e95c5.tar.gz"
+        },
+        "bbox": [
+            139.3722076416,
+            35.716022491455,
+            139.37307739258,
+            35.717876434326
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.372208,
+                        35.716381
+                    ],
+                    [
+                        139.372391,
+                        35.717876
+                    ],
+                    [
+                        139.373077,
+                        35.716225
+                    ],
+                    [
+                        139.372574,
+                        35.716022
+                    ],
+                    [
+                        139.372208,
+                        35.716381
+                    ]
+                ]
+            ]
+        ]
+    }
+}

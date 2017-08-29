@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 90000347,
+    "properties": {
+        "woe_id": 90000347,
+        "place_id": "frKmSRCQAZyxOXFxEg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "nakanome 1chome, Koriyama-shi, Fukushima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438006,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/90000347_20101215_aa3f9afd4d.tar.gz"
+        },
+        "bbox": [
+            140.33750915527,
+            37.425880432129,
+            140.34036254883,
+            37.427665710449
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        140.338669,
+                        37.427666
+                    ],
+                    [
+                        140.338837,
+                        37.427502
+                    ],
+                    [
+                        140.340363,
+                        37.42588
+                    ],
+                    [
+                        140.338043,
+                        37.427219
+                    ],
+                    [
+                        140.337509,
+                        37.427353
+                    ],
+                    [
+                        140.338669,
+                        37.427666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

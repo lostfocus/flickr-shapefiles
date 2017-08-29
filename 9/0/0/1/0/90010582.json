@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 90010582,
+    "properties": {
+        "woe_id": 90010582,
+        "place_id": "FOaBSlmQAZwlyzHXIQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Settsu-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438010,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/90010582_20101215_3a40c47349.tar.gz"
+        },
+        "bbox": [
+            135.56858825684,
+            34.764320373535,
+            135.56956481934,
+            34.765491485596
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.568649,
+                        34.765457
+                    ],
+                    [
+                        135.569565,
+                        34.76432
+                    ],
+                    [
+                        135.568665,
+                        34.765423
+                    ],
+                    [
+                        135.568619,
+                        34.765461
+                    ],
+                    [
+                        135.568588,
+                        34.765491
+                    ],
+                    [
+                        135.568649,
+                        34.765457
+                    ]
+                ]
+            ]
+        ]
+    }
+}

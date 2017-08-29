@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010083,
+    "properties": {
+        "woe_id": 90010083,
+        "place_id": "aYXAwDiQAZzTvYPo1w",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Niigata-shi, Niigata Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234698616,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3319\/shapefiles\/90010083_20090215_78e2f0c635.tar.gz"
+        },
+        "bbox": [
+            139.05601501465,
+            37.912715911865,
+            139.06120300293,
+            37.914882659912
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        139.061203,
+                        37.913612
+                    ],
+                    [
+                        139.061157,
+                        37.912716
+                    ],
+                    [
+                        139.060242,
+                        37.912952
+                    ],
+                    [
+                        139.056015,
+                        37.914883
+                    ],
+                    [
+                        139.061203,
+                        37.913612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

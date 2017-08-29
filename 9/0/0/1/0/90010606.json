@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 90010606,
+    "properties": {
+        "woe_id": 90010606,
+        "place_id": "t6dxZRyQAZwOmafeIw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Himeji-shi, Hyogo Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473681,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/90010606_20101216_cca9d8c48e.tar.gz"
+        },
+        "bbox": [
+            134.6561126709,
+            34.777942657471,
+            134.65840148926,
+            34.780200958252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        134.658188,
+                        34.780025
+                    ],
+                    [
+                        134.658401,
+                        34.780201
+                    ],
+                    [
+                        134.65834,
+                        34.780025
+                    ],
+                    [
+                        134.658188,
+                        34.779846
+                    ],
+                    [
+                        134.657379,
+                        34.778633
+                    ],
+                    [
+                        134.657211,
+                        34.778385
+                    ],
+                    [
+                        134.656113,
+                        34.777943
+                    ],
+                    [
+                        134.657303,
+                        34.778667
+                    ],
+                    [
+                        134.658112,
+                        34.779919
+                    ],
+                    [
+                        134.658188,
+                        34.780025
+                    ]
+                ]
+            ]
+        ]
+    }
+}

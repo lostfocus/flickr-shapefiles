@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010777,
+    "properties": {
+        "woe_id": 90010777,
+        "place_id": "R14TWWOQAZw90ooztA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Hatsukaichi-shi, Hiroshima Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234725256,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3357\/shapefiles\/90010777_20090215_e5f23311b7.tar.gz"
+        },
+        "bbox": [
+            132.31665039062,
+            34.327117919922,
+            132.32070922852,
+            34.332096099854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.318649,
+                        34.327118
+                    ],
+                    [
+                        132.31665,
+                        34.328224
+                    ],
+                    [
+                        132.320267,
+                        34.332096
+                    ],
+                    [
+                        132.320709,
+                        34.332008
+                    ],
+                    [
+                        132.318649,
+                        34.327118
+                    ]
+                ]
+            ]
+        ]
+    }
+}

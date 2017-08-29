@@ -1,0 +1,74 @@
+{
+    "type": "Feature",
+    "id": 90010321,
+    "properties": {
+        "woe_id": 90010321,
+        "place_id": "vxrbD7OQAZyUaNEeYA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Gujo-shi, Gifu Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292479158,
+        "alpha": 1.0e-5,
+        "points": 182,
+        "edges": 10,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/90010321_20101216_bdd173d9ce.tar.gz"
+        },
+        "bbox": [
+            136.95372009277,
+            35.747192382812,
+            136.96380615234,
+            35.754741668701
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        136.955582,
+                        35.751354
+                    ],
+                    [
+                        136.955338,
+                        35.753242
+                    ],
+                    [
+                        136.956482,
+                        35.754742
+                    ],
+                    [
+                        136.959366,
+                        35.753078
+                    ],
+                    [
+                        136.963806,
+                        35.752399
+                    ],
+                    [
+                        136.959778,
+                        35.749931
+                    ],
+                    [
+                        136.958267,
+                        35.747787
+                    ],
+                    [
+                        136.955429,
+                        35.748119
+                    ],
+                    [
+                        136.95372,
+                        35.747192
+                    ],
+                    [
+                        136.955582,
+                        35.751354
+                    ]
+                ]
+            ]
+        ]
+    }
+}

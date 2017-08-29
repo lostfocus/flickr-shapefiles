@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 90000272,
+    "properties": {
+        "woe_id": 90000272,
+        "place_id": "Mbz8QGKQAZwpc0I5tg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "koganechuuo 1chome, Eniwa-shi, Hokkaido Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438004,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/90000272_20101215_f522fe5d90.tar.gz"
+        },
+        "bbox": [
+            141.58609008789,
+            42.882804870605,
+            141.58668518066,
+            42.883514404297
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        141.58667,
+                        42.882999
+                    ],
+                    [
+                        141.586685,
+                        42.882805
+                    ],
+                    [
+                        141.586578,
+                        42.88295
+                    ],
+                    [
+                        141.58609,
+                        42.883514
+                    ],
+                    [
+                        141.586578,
+                        42.883068
+                    ],
+                    [
+                        141.58667,
+                        42.882999
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010703,
+    "properties": {
+        "woe_id": 90010703,
+        "place_id": "4Rb_1j2QAZxS9wrdXg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Kashiba-shi, Nara Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465102,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/90010703_20101216_d14477fa07.tar.gz"
+        },
+        "bbox": [
+            135.67616271973,
+            34.523662567139,
+            135.67877197266,
+            34.525684356689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.67662,
+                        34.525578
+                    ],
+                    [
+                        135.678223,
+                        34.525635
+                    ],
+                    [
+                        135.678772,
+                        34.525684
+                    ],
+                    [
+                        135.676163,
+                        34.523663
+                    ],
+                    [
+                        135.67662,
+                        34.525578
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010801,
+    "properties": {
+        "woe_id": 90010801,
+        "place_id": "4wslHneQAZyA7i_Wpg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Imabari-shi, Ehime Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446802,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/90010801_20101215_030c656809.tar.gz"
+        },
+        "bbox": [
+            132.97593688965,
+            34.110263824463,
+            132.97903442383,
+            34.114219665527
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        132.975937,
+                        34.111206
+                    ],
+                    [
+                        132.976456,
+                        34.11422
+                    ],
+                    [
+                        132.979034,
+                        34.113251
+                    ],
+                    [
+                        132.977463,
+                        34.110264
+                    ],
+                    [
+                        132.975937,
+                        34.111206
+                    ]
+                ]
+            ]
+        ]
+    }
+}

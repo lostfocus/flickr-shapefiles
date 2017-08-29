@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 90010551,
+    "properties": {
+        "woe_id": 90010551,
+        "place_id": "tNkc.VeQAZzqbHuqFg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\uff08\u4e01\u76ee\u306a\u3057\uff09, Kaizuka-shi, Osaka Prefecture, JP, Japan"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234818492,
+        "alpha": 1.0e-5,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3525\/shapefiles\/90010551_20090216_43ec87615e.tar.gz"
+        },
+        "bbox": [
+            135.37367248535,
+            34.459999084473,
+            135.37632751465,
+            34.461166381836
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        135.373672,
+                        34.461166
+                    ],
+                    [
+                        135.376328,
+                        34.460167
+                    ],
+                    [
+                        135.374161,
+                        34.459999
+                    ],
+                    [
+                        135.373672,
+                        34.460667
+                    ],
+                    [
+                        135.373672,
+                        34.461166
+                    ]
+                ]
+            ]
+        ]
+    }
+}
