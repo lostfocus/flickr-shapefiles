@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 784020,
+    "properties": {
+        "woe_id": 784020,
+        "place_id": "oMguIV.eCZhirCY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Giusep, Canton of Graubunden, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234478886,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3485\/shapefiles\/784020_20090212_a366cae57a.tar.gz"
+        },
+        "bbox": [
+            9.0807752609253,
+            46.641765594482,
+            9.0815553665161,
+            46.642929077148
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.080775,
+                        46.641766
+                    ],
+                    [
+                        9.081347,
+                        46.642632
+                    ],
+                    [
+                        9.081555,
+                        46.642929
+                    ],
+                    [
+                        9.081061,
+                        46.642029
+                    ],
+                    [
+                        9.080775,
+                        46.641766
+                    ]
+                ]
+            ]
+        ]
+    }
+}

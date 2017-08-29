@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 754030,
+    "properties": {
+        "woe_id": 754030,
+        "place_id": "y6kTifSeBJib920",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Beariz, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234707373,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3651\/shapefiles\/754030_20090215_f93c72711a.tar.gz"
+        },
+        "bbox": [
+            -8.2719316482544,
+            42.466304779053,
+            -8.2689924240112,
+            42.481815338135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.269379,
+                        42.466305
+                    ],
+                    [
+                        -8.271932,
+                        42.481815
+                    ],
+                    [
+                        -8.268992,
+                        42.466511
+                    ],
+                    [
+                        -8.269336,
+                        42.466305
+                    ],
+                    [
+                        -8.269379,
+                        42.466305
+                    ]
+                ]
+            ]
+        ]
+    }
+}

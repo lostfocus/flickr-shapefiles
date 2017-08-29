@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 723101,
+    "properties": {
+        "woe_id": 723101,
+        "place_id": ".8FU_vqeA5_evSs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Rufo, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443812,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/723101_20101215_787e768c2d.tar.gz"
+        },
+        "bbox": [
+            15.462484359741,
+            40.43399810791,
+            15.468942642212,
+            40.43607711792
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.463,
+                        40.433998
+                    ],
+                    [
+                        15.465359,
+                        40.434681
+                    ],
+                    [
+                        15.468943,
+                        40.436077
+                    ],
+                    [
+                        15.467247,
+                        40.435009
+                    ],
+                    [
+                        15.465359,
+                        40.434681
+                    ],
+                    [
+                        15.462484,
+                        40.434338
+                    ],
+                    [
+                        15.463,
+                        40.433998
+                    ]
+                ]
+            ]
+        ]
+    }
+}

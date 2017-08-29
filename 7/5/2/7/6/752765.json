@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 752765,
+    "properties": {
+        "woe_id": 752765,
+        "place_id": "q6rZ7vGeBJ4aMUc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Arcos de Las Salinas, Aragon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458622,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/752765_20101216_1f564e5b45.tar.gz"
+        },
+        "bbox": [
+            -1.0588929653168,
+            39.987377166748,
+            -1.0307619571686,
+            40.008106231689
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.050739,
+                        39.990009
+                    ],
+                    [
+                        -1.058893,
+                        39.994808
+                    ],
+                    [
+                        -1.04516,
+                        40.008106
+                    ],
+                    [
+                        -1.030762,
+                        39.994022
+                    ],
+                    [
+                        -1.042327,
+                        39.987377
+                    ],
+                    [
+                        -1.050739,
+                        39.990009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

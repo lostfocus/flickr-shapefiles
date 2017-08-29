@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 712828,
+    "properties": {
+        "woe_id": 712828,
+        "place_id": "9RAilzGeAJ6Vivw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Casaleggio Novara, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234541644,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3416\/shapefiles\/712828_20090213_a15b81b504.tar.gz"
+        },
+        "bbox": [
+            8.4847059249878,
+            45.486011505127,
+            8.5022592544556,
+            45.498916625977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.502259,
+                        45.498917
+                    ],
+                    [
+                        8.497838,
+                        45.495216
+                    ],
+                    [
+                        8.484706,
+                        45.486012
+                    ],
+                    [
+                        8.488354,
+                        45.498829
+                    ],
+                    [
+                        8.502259,
+                        45.498917
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 751018,
+    "properties": {
+        "woe_id": 751018,
+        "place_id": "pIeOgCaeBJ0noLQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vilarinho das Azenhas, Bragan\u00e7a, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443835,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/751018_20101215_6c4cb1e44f.tar.gz"
+        },
+        "bbox": [
+            -7.2130289077759,
+            41.377933502197,
+            -7.205442905426,
+            41.385341644287
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.205443,
+                        41.379608
+                    ],
+                    [
+                        -7.206516,
+                        41.377934
+                    ],
+                    [
+                        -7.208232,
+                        41.378613
+                    ],
+                    [
+                        -7.213029,
+                        41.38044
+                    ],
+                    [
+                        -7.207717,
+                        41.385342
+                    ],
+                    [
+                        -7.205443,
+                        41.379608
+                    ]
+                ]
+            ]
+        ]
+    }
+}

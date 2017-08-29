@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 718691,
+    "properties": {
+        "woe_id": 718691,
+        "place_id": "TN4TO8meAJRW3Xk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monte Corona, Umbria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234585322,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3531\/shapefiles\/718691_20090214_2e3263755c.tar.gz"
+        },
+        "bbox": [
+            12.34979057312,
+            43.264629364014,
+            12.351894378662,
+            43.266143798828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.350649,
+                        43.264629
+                    ],
+                    [
+                        12.350049,
+                        43.264767
+                    ],
+                    [
+                        12.349791,
+                        43.265614
+                    ],
+                    [
+                        12.351894,
+                        43.266144
+                    ],
+                    [
+                        12.350649,
+                        43.264629
+                    ]
+                ]
+            ]
+        ]
+    }
+}

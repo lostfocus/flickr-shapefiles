@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 788578,
+    "properties": {
+        "woe_id": 788578,
+        "place_id": "FIL0MnWeCZRt6pM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Doln\u00ed Rychnov, Karlovarsk\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458852,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5045\/shapefiles\/788578_20101216_1b0e568b36.tar.gz"
+        },
+        "bbox": [
+            12.638486862183,
+            50.158920288086,
+            12.661228179932,
+            50.169818878174
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.655305,
+                        50.169201
+                    ],
+                    [
+                        12.661228,
+                        50.15892
+                    ],
+                    [
+                        12.653675,
+                        50.161999
+                    ],
+                    [
+                        12.64404,
+                        50.163658
+                    ],
+                    [
+                        12.638487,
+                        50.169819
+                    ],
+                    [
+                        12.655305,
+                        50.169201
+                    ]
+                ]
+            ]
+        ]
+    }
+}

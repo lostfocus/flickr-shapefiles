@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 731801,
+    "properties": {
+        "woe_id": 731801,
+        "place_id": "aPOG2RmeAp1I27Y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Mortel, North Brabant, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247850605,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3475\/shapefiles\/731801_20090717_0cb25f16dd.tar.gz"
+        },
+        "bbox": [
+            5.6908869743347,
+            51.513000488281,
+            5.7120661735535,
+            51.544967651367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.69817,
+                        51.513
+                    ],
+                    [
+                        5.696582,
+                        51.524204
+                    ],
+                    [
+                        5.690887,
+                        51.544968
+                    ],
+                    [
+                        5.709114,
+                        51.541985
+                    ],
+                    [
+                        5.712066,
+                        51.541882
+                    ],
+                    [
+                        5.706539,
+                        51.526234
+                    ],
+                    [
+                        5.69817,
+                        51.513
+                    ]
+                ]
+            ]
+        ]
+    }
+}

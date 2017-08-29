@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 770812,
+    "properties": {
+        "woe_id": 770812,
+        "place_id": "jDNQpDeeBpxYBto",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "S Salvador, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248113416,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3460\/shapefiles\/770812_20090720_347eb301d3.tar.gz"
+        },
+        "bbox": [
+            -5.3434319496155,
+            43.480918884277,
+            -5.343132019043,
+            43.480949401855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.343132,
+                        43.480919
+                    ],
+                    [
+                        -5.343217,
+                        43.480919
+                    ],
+                    [
+                        -5.343432,
+                        43.480949
+                    ],
+                    [
+                        -5.343303,
+                        43.480949
+                    ],
+                    [
+                        -5.343132,
+                        43.480919
+                    ]
+                ]
+            ]
+        ]
+    }
+}

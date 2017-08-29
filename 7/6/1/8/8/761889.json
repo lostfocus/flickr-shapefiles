@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 761889,
+    "properties": {
+        "woe_id": 761889,
+        "place_id": "1TIHs5OeB52ygak",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Guadiaro, Andalusia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456194,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/761889_20101215_77339ee6a0.tar.gz"
+        },
+        "bbox": [
+            -5.3175539970398,
+            36.300098419189,
+            -5.3005809783936,
+            36.304248809814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.303564,
+                        36.300358
+                    ],
+                    [
+                        -5.303821,
+                        36.300358
+                    ],
+                    [
+                        -5.317554,
+                        36.304249
+                    ],
+                    [
+                        -5.302104,
+                        36.301914
+                    ],
+                    [
+                        -5.300581,
+                        36.300098
+                    ],
+                    [
+                        -5.303564,
+                        36.300358
+                    ]
+                ]
+            ]
+        ]
+    }
+}

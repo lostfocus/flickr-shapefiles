@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 777879,
+    "properties": {
+        "woe_id": 777879,
+        "place_id": "MN3k6mieBpt7cV0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Villaverde, Castille and Leon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292439932,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/777879_20101215_814b547032.tar.gz"
+        },
+        "bbox": [
+            -6.2325839996338,
+            42.140487670898,
+            -6.2298588752747,
+            42.142372131348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.231468,
+                        42.142372
+                    ],
+                    [
+                        -6.229859,
+                        42.141216
+                    ],
+                    [
+                        -6.231093,
+                        42.140488
+                    ],
+                    [
+                        -6.232584,
+                        42.140862
+                    ],
+                    [
+                        -6.231468,
+                        42.142372
+                    ]
+                ]
+            ]
+        ]
+    }
+}

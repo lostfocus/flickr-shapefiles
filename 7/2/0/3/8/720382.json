@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 720382,
+    "properties": {
+        "woe_id": 720382,
+        "place_id": "vY.o8YSeA5wVL88",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pianopoli, Calabria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234565648,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3479\/shapefiles\/720382_20090213_c90f07ed99.tar.gz"
+        },
+        "bbox": [
+            16.375122070312,
+            38.951725006104,
+            16.388801574707,
+            38.955966949463
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.388264,
+                        38.953568
+                    ],
+                    [
+                        16.387106,
+                        38.951725
+                    ],
+                    [
+                        16.375122,
+                        38.954601
+                    ],
+                    [
+                        16.388802,
+                        38.955967
+                    ],
+                    [
+                        16.388264,
+                        38.953568
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 767585,
+    "properties": {
+        "woe_id": 767585,
+        "place_id": "rb1l3d6eB5vw45E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Montederramo, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292505671,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/767585_20101216_c263c53ded.tar.gz"
+        },
+        "bbox": [
+            -7.50297498703,
+            42.267402648926,
+            -7.4825468063354,
+            42.282135009766
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.502353,
+                        42.274475
+                    ],
+                    [
+                        -7.502975,
+                        42.276165
+                    ],
+                    [
+                        -7.498855,
+                        42.277817
+                    ],
+                    [
+                        -7.482547,
+                        42.282135
+                    ],
+                    [
+                        -7.498855,
+                        42.267403
+                    ],
+                    [
+                        -7.502353,
+                        42.274475
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 784135,
+    "properties": {
+        "woe_id": 784135,
+        "place_id": "5VYhUdKeCZjZcDA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Basel-City, Canton of Basel-City, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234650968,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3391\/shapefiles\/784135_20090214_9972e688ef.tar.gz"
+        },
+        "bbox": [
+            7.6588430404663,
+            47.536964416504,
+            7.6869649887085,
+            47.546611785889
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.658843,
+                        47.546177
+                    ],
+                    [
+                        7.666139,
+                        47.540482
+                    ],
+                    [
+                        7.686965,
+                        47.546612
+                    ],
+                    [
+                        7.667083,
+                        47.536964
+                    ],
+                    [
+                        7.658843,
+                        47.546177
+                    ]
+                ]
+            ]
+        ]
+    }
+}

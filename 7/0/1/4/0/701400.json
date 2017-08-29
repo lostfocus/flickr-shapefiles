@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 701400,
+    "properties": {
+        "woe_id": 701400,
+        "place_id": "D88KZzOeAZ2hfXo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Unterreute, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292450882,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/701400_20101215_7542cbb4da.tar.gz"
+        },
+        "bbox": [
+            7.8131241798401,
+            48.061588287354,
+            7.8190679550171,
+            48.068668365479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.813124,
+                        48.065804
+                    ],
+                    [
+                        7.81321,
+                        48.066879
+                    ],
+                    [
+                        7.813667,
+                        48.068668
+                    ],
+                    [
+                        7.819068,
+                        48.061588
+                    ],
+                    [
+                        7.81851,
+                        48.06176
+                    ],
+                    [
+                        7.816944,
+                        48.062592
+                    ],
+                    [
+                        7.813124,
+                        48.065804
+                    ]
+                ]
+            ]
+        ]
+    }
+}

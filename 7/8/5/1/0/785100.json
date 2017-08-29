@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 785100,
+    "properties": {
+        "woe_id": 785100,
+        "place_id": "dPl921KeCZlU8Qs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "G\u00fcnsberg, Canton of Solothurn, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292505846,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/785100_20101216_38e10127fc.tar.gz"
+        },
+        "bbox": [
+            7.5565280914307,
+            47.257469177246,
+            7.5852761268616,
+            47.273712158203
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.576439,
+                        47.257469
+                    ],
+                    [
+                        7.556528,
+                        47.269009
+                    ],
+                    [
+                        7.557982,
+                        47.270172
+                    ],
+                    [
+                        7.568507,
+                        47.271339
+                    ],
+                    [
+                        7.572283,
+                        47.271107
+                    ],
+                    [
+                        7.585276,
+                        47.273712
+                    ],
+                    [
+                        7.576439,
+                        47.257469
+                    ]
+                ]
+            ]
+        ]
+    }
+}

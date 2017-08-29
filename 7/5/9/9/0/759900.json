@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 759900,
+    "properties": {
+        "woe_id": 759900,
+        "place_id": "b7PRgsieBJVAcFM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Encinas de Abajo, Castille and Leon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451091,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/759900_20101215_043d05970c.tar.gz"
+        },
+        "bbox": [
+            -5.4827780723572,
+            40.932880401611,
+            -5.4698181152344,
+            40.95138168335
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.482223,
+                        40.933056
+                    ],
+                    [
+                        -5.48265,
+                        40.933277
+                    ],
+                    [
+                        -5.482778,
+                        40.938286
+                    ],
+                    [
+                        -5.469818,
+                        40.951382
+                    ],
+                    [
+                        -5.479839,
+                        40.93288
+                    ],
+                    [
+                        -5.482223,
+                        40.933056
+                    ]
+                ]
+            ]
+        ]
+    }
+}

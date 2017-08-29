@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 733547,
+    "properties": {
+        "woe_id": 733547,
+        "place_id": "SpAr5fqeAp_uhYg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sprangsevaart, North Brabant, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234566002,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3310\/shapefiles\/733547_20090213_e21a23ea97.tar.gz"
+        },
+        "bbox": [
+            5.0510501861572,
+            51.644973754883,
+            5.0543971061707,
+            51.672077178955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.051651,
+                        51.662334
+                    ],
+                    [
+                        5.052809,
+                        51.672077
+                    ],
+                    [
+                        5.054397,
+                        51.662334
+                    ],
+                    [
+                        5.05105,
+                        51.644974
+                    ],
+                    [
+                        5.051651,
+                        51.662334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

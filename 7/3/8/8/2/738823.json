@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 738823,
+    "properties": {
+        "woe_id": 738823,
+        "place_id": "f1YBGFueApTKRvE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Casal de Ermio, Coimbra, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292410565,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/738823_20101215_3838fe98a1.tar.gz"
+        },
+        "bbox": [
+            -8.2555379867554,
+            40.152946472168,
+            -8.2405233383179,
+            40.164970397949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.255538,
+                        40.15736
+                    ],
+                    [
+                        -8.254938,
+                        40.16254
+                    ],
+                    [
+                        -8.253135,
+                        40.16497
+                    ],
+                    [
+                        -8.240523,
+                        40.154942
+                    ],
+                    [
+                        -8.246397,
+                        40.152946
+                    ],
+                    [
+                        -8.255538,
+                        40.15736
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 763415,
+    "properties": {
+        "woe_id": 763415,
+        "place_id": "VTgl9T.eB58JgT0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Frontera, Castille la Mancha, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292439839,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/763415_20101215_3aeeede1a7.tar.gz"
+        },
+        "bbox": [
+            -2.2178640365601,
+            40.399810791016,
+            -2.2159440517426,
+            40.404098510742
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.216631,
+                        40.404099
+                    ],
+                    [
+                        -2.215944,
+                        40.403255
+                    ],
+                    [
+                        -2.21612,
+                        40.399811
+                    ],
+                    [
+                        -2.217264,
+                        40.402065
+                    ],
+                    [
+                        -2.217864,
+                        40.403378
+                    ],
+                    [
+                        -2.216631,
+                        40.404099
+                    ]
+                ]
+            ]
+        ]
+    }
+}

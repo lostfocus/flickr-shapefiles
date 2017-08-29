@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 750666,
+    "properties": {
+        "woe_id": 750666,
+        "place_id": "bJac5z.eBJwMdxY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vila de Rei, Castelo Branco, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534485,
+        "alpha": 0.00015,
+        "points": 18,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/750666_20101216_2418afc28b.tar.gz"
+        },
+        "bbox": [
+            -8.1455888748169,
+            39.673313140869,
+            -8.1246471405029,
+            39.69979095459
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.142929,
+                        39.683941
+                    ],
+                    [
+                        -8.133316,
+                        39.699791
+                    ],
+                    [
+                        -8.124647,
+                        39.693977
+                    ],
+                    [
+                        -8.132071,
+                        39.675186
+                    ],
+                    [
+                        -8.145589,
+                        39.673313
+                    ],
+                    [
+                        -8.142929,
+                        39.683941
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 769143,
+    "properties": {
+        "woe_id": 769143,
+        "place_id": "OGh6goyeB5XzAL0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pacios, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447603,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/769143_20101215_601b6f2700.tar.gz"
+        },
+        "bbox": [
+            -7.1029181480408,
+            42.670822143555,
+            -7.0987977981567,
+            42.685493469238
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.102918,
+                        42.680668
+                    ],
+                    [
+                        -7.098798,
+                        42.685493
+                    ],
+                    [
+                        -7.100729,
+                        42.681976
+                    ],
+                    [
+                        -7.100944,
+                        42.672909
+                    ],
+                    [
+                        -7.101416,
+                        42.670822
+                    ],
+                    [
+                        -7.102918,
+                        42.680668
+                    ]
+                ]
+            ]
+        ]
+    }
+}

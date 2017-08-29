@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 790452,
+    "properties": {
+        "woe_id": 790452,
+        "place_id": "O2HDcJWeCJxpO5M",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Jablonn\u00e9 nad Orlic\u00ed, Pardubick\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234867806,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3551\/shapefiles\/790452_20090217_5bb61a0d5e.tar.gz"
+        },
+        "bbox": [
+            16.59158706665,
+            50.026683807373,
+            16.608892440796,
+            50.03443145752
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.591597,
+                        50.026684
+                    ],
+                    [
+                        16.591587,
+                        50.031895
+                    ],
+                    [
+                        16.606104,
+                        50.034431
+                    ],
+                    [
+                        16.608892,
+                        50.033562
+                    ],
+                    [
+                        16.599966,
+                        50.029942
+                    ],
+                    [
+                        16.595394,
+                        50.028641
+                    ],
+                    [
+                        16.591597,
+                        50.026684
+                    ]
+                ]
+            ]
+        ]
+    }
+}

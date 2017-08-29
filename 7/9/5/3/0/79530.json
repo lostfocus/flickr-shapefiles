@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 79530,
+    "properties": {
+        "woe_id": 79530,
+        "place_id": "_MA9CPKeCJnlWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Francisco, Moraz\u00e1n, El Salvador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515628,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/79530_20101216_2a6d001719.tar.gz"
+        },
+        "bbox": [
+            -88.10863494873,
+            13.691355705261,
+            -88.099365234375,
+            13.705032348633
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -88.103912,
+                        13.701029
+                    ],
+                    [
+                        -88.099365,
+                        13.691356
+                    ],
+                    [
+                        -88.105202,
+                        13.692773
+                    ],
+                    [
+                        -88.108635,
+                        13.701029
+                    ],
+                    [
+                        -88.105545,
+                        13.705032
+                    ],
+                    [
+                        -88.103912,
+                        13.701029
+                    ]
+                ]
+            ]
+        ]
+    }
+}

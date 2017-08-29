@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 714009,
+    "properties": {
+        "woe_id": 714009,
+        "place_id": "hm_sVomeAJhoaBA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chievo, Veneto, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292475243,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5123\/shapefiles\/714009_20101216_336766d316.tar.gz"
+        },
+        "bbox": [
+            10.944657325745,
+            45.453147888184,
+            10.951007843018,
+            45.460746765137
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.944657,
+                        45.460747
+                    ],
+                    [
+                        10.945204,
+                        45.460468
+                    ],
+                    [
+                        10.950515,
+                        45.458527
+                    ],
+                    [
+                        10.951008,
+                        45.458218
+                    ],
+                    [
+                        10.950719,
+                        45.456959
+                    ],
+                    [
+                        10.946331,
+                        45.453148
+                    ],
+                    [
+                        10.944657,
+                        45.460747
+                    ]
+                ]
+            ]
+        ]
+    }
+}

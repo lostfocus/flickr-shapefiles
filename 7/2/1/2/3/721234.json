@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 721234,
+    "properties": {
+        "woe_id": 721234,
+        "place_id": "gid5fs6eA50PN9E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Prata, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292439782,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/721234_20101215_0a2e749abc.tar.gz"
+        },
+        "bbox": [
+            9.3939685821533,
+            46.303367614746,
+            9.4014205932617,
+            46.314449310303
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.394052,
+                        46.303368
+                    ],
+                    [
+                        9.393969,
+                        46.303635
+                    ],
+                    [
+                        9.397616,
+                        46.312332
+                    ],
+                    [
+                        9.401421,
+                        46.314449
+                    ],
+                    [
+                        9.397675,
+                        46.307434
+                    ],
+                    [
+                        9.397522,
+                        46.306702
+                    ],
+                    [
+                        9.394052,
+                        46.303368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

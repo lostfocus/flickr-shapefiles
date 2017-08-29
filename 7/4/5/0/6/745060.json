@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 745060,
+    "properties": {
+        "woe_id": 745060,
+        "place_id": "7DXL5ZWeBZnsoYY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pampelido Novo, Porto, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538505,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/745060_20101216_2759d01eaa.tar.gz"
+        },
+        "bbox": [
+            -8.7252473831177,
+            41.235641479492,
+            -8.7229719161987,
+            41.240383148193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.722972,
+                        41.237125
+                    ],
+                    [
+                        -8.723584,
+                        41.235641
+                    ],
+                    [
+                        -8.724496,
+                        41.236542
+                    ],
+                    [
+                        -8.725247,
+                        41.240059
+                    ],
+                    [
+                        -8.724174,
+                        41.240383
+                    ],
+                    [
+                        -8.722972,
+                        41.237125
+                    ]
+                ]
+            ]
+        ]
+    }
+}

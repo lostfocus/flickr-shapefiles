@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 705605,
+    "properties": {
+        "woe_id": 705605,
+        "place_id": "8x91xG2eAZkMgwM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Weser-Elbe Kanal, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234738691,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3540\/shapefiles\/705605_20090215_6884e48d36.tar.gz"
+        },
+        "bbox": [
+            8.9300003051758,
+            52.290264129639,
+            8.9368619918823,
+            52.30350112915
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.932228,
+                        52.30344
+                    ],
+                    [
+                        8.936862,
+                        52.29903
+                    ],
+                    [
+                        8.933858,
+                        52.290264
+                    ],
+                    [
+                        8.93,
+                        52.303501
+                    ],
+                    [
+                        8.932228,
+                        52.30344
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 777080,
+    "properties": {
+        "woe_id": 777080,
+        "place_id": "aeSTw3yeBpsWN5w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Veigas, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451122,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5168\/shapefiles\/777080_20101215_1ed154715d.tar.gz"
+        },
+        "bbox": [
+            -7.0868678092957,
+            43.327159881592,
+            -7.0861811637878,
+            43.328735351562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.086868,
+                        43.327301
+                    ],
+                    [
+                        -7.086696,
+                        43.328735
+                    ],
+                    [
+                        -7.086181,
+                        43.327923
+                    ],
+                    [
+                        -7.086439,
+                        43.32716
+                    ],
+                    [
+                        -7.086868,
+                        43.327301
+                    ]
+                ]
+            ]
+        ]
+    }
+}

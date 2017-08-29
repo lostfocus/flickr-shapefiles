@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 709761,
+    "properties": {
+        "woe_id": 709761,
+        "place_id": "6EBAfC6eAZXGsfA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aci Catena, Sicily, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234855816,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3290\/shapefiles\/709761_20090217_1f1407cf20.tar.gz"
+        },
+        "bbox": [
+            15.133516311646,
+            37.617595672607,
+            15.136412620544,
+            37.625652313232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.133516,
+                        37.622101
+                    ],
+                    [
+                        15.133924,
+                        37.625278
+                    ],
+                    [
+                        15.136413,
+                        37.625652
+                    ],
+                    [
+                        15.134181,
+                        37.617596
+                    ],
+                    [
+                        15.133516,
+                        37.622101
+                    ]
+                ]
+            ]
+        ]
+    }
+}

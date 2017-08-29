@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 77206,
+    "properties": {
+        "woe_id": 77206,
+        "place_id": "kBP95AKeBp6U6w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Delgado, San Salvador, El Salvador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248284663,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2609\/shapefiles\/77206_20090722_4c44e0ddde.tar.gz"
+        },
+        "bbox": [
+            -89.173965454102,
+            13.697901725769,
+            -89.161087036133,
+            13.716371536255
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.161087,
+                        13.703197
+                    ],
+                    [
+                        -89.16143,
+                        13.701624
+                    ],
+                    [
+                        -89.16555,
+                        13.697902
+                    ],
+                    [
+                        -89.173965,
+                        13.698027
+                    ],
+                    [
+                        -89.170532,
+                        13.710285
+                    ],
+                    [
+                        -89.162979,
+                        13.716372
+                    ],
+                    [
+                        -89.161087,
+                        13.703197
+                    ]
+                ]
+            ]
+        ]
+    }
+}

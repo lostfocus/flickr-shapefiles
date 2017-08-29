@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 740646,
+    "properties": {
+        "woe_id": 740646,
+        "place_id": "eAH71T2eBZxTLTU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Espargo, Aveiro, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447498,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/740646_20101215_fc3983678d.tar.gz"
+        },
+        "bbox": [
+            -8.5775918960571,
+            40.930969238281,
+            -8.5722007751465,
+            40.934753417969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.572249,
+                        40.931202
+                    ],
+                    [
+                        -8.572201,
+                        40.931107
+                    ],
+                    [
+                        -8.572587,
+                        40.930969
+                    ],
+                    [
+                        -8.573472,
+                        40.931423
+                    ],
+                    [
+                        -8.577592,
+                        40.934597
+                    ],
+                    [
+                        -8.575795,
+                        40.934753
+                    ],
+                    [
+                        -8.572249,
+                        40.931202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

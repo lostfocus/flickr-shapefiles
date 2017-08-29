@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 723704,
+    "properties": {
+        "woe_id": 723704,
+        "place_id": "DEP18Q.eA5.vLRk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sanza, Campania, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532247,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5125\/shapefiles\/723704_20101216_aac615e417.tar.gz"
+        },
+        "bbox": [
+            15.549259185791,
+            40.223712921143,
+            15.554237365723,
+            40.245204925537
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.554237,
+                        40.245205
+                    ],
+                    [
+                        15.55252,
+                        40.223713
+                    ],
+                    [
+                        15.549259,
+                        40.242714
+                    ],
+                    [
+                        15.550259,
+                        40.244789
+                    ],
+                    [
+                        15.554237,
+                        40.245205
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 735493,
+    "properties": {
+        "woe_id": 735493,
+        "place_id": "P.ByJkyeApntJgY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aguiar da Beira, Guarda, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525222,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/735493_20101216_6e6734afcf.tar.gz"
+        },
+        "bbox": [
+            -7.5466837882996,
+            40.811363220215,
+            -7.5442171096802,
+            40.817722320557
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.545419,
+                        40.816509
+                    ],
+                    [
+                        -7.544217,
+                        40.817722
+                    ],
+                    [
+                        -7.545167,
+                        40.816223
+                    ],
+                    [
+                        -7.546684,
+                        40.811363
+                    ],
+                    [
+                        -7.546202,
+                        40.815384
+                    ],
+                    [
+                        -7.545419,
+                        40.816509
+                    ]
+                ]
+            ]
+        ]
+    }
+}

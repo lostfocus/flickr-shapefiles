@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 746043,
+    "properties": {
+        "woe_id": 746043,
+        "place_id": "RjYK5JaeBZrV2bM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ponte de Louza, Lisbon, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292411401,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/746043_20101215_2fa4dcd600.tar.gz"
+        },
+        "bbox": [
+            -9.2202749252319,
+            38.862682342529,
+            -9.2089033126831,
+            38.872077941895
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -9.209439,
+                        38.866787
+                    ],
+                    [
+                        -9.208903,
+                        38.865467
+                    ],
+                    [
+                        -9.212079,
+                        38.862682
+                    ],
+                    [
+                        -9.220275,
+                        38.863235
+                    ],
+                    [
+                        -9.215372,
+                        38.872078
+                    ],
+                    [
+                        -9.209439,
+                        38.866787
+                    ]
+                ]
+            ]
+        ]
+    }
+}

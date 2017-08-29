@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 789494,
+    "properties": {
+        "woe_id": 789494,
+        "place_id": "8ibEbbSeCZU26hc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hodkovice nad Mohelkou, Libereck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519581,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/789494_20101216_316ce77cea.tar.gz"
+        },
+        "bbox": [
+            15.089979171753,
+            50.657836914062,
+            15.108946800232,
+            50.666885375977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.091635,
+                        50.657902
+                    ],
+                    [
+                        15.089979,
+                        50.666031
+                    ],
+                    [
+                        15.091567,
+                        50.666885
+                    ],
+                    [
+                        15.108947,
+                        50.666164
+                    ],
+                    [
+                        15.09174,
+                        50.657837
+                    ],
+                    [
+                        15.091645,
+                        50.657887
+                    ],
+                    [
+                        15.091635,
+                        50.657902
+                    ]
+                ]
+            ]
+        ]
+    }
+}

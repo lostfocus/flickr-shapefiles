@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 730291,
+    "properties": {
+        "woe_id": 730291,
+        "place_id": "PqLyIpmeApwGmdg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hooge Bijssel, Gelderland, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447524,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/730291_20101215_678111d9ea.tar.gz"
+        },
+        "bbox": [
+            5.7278141975403,
+            52.393142700195,
+            5.7369232177734,
+            52.415874481201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.727814,
+                        52.393143
+                    ],
+                    [
+                        5.734519,
+                        52.397209
+                    ],
+                    [
+                        5.736813,
+                        52.415874
+                    ],
+                    [
+                        5.736923,
+                        52.395714
+                    ],
+                    [
+                        5.727814,
+                        52.393143
+                    ]
+                ]
+            ]
+        ]
+    }
+}

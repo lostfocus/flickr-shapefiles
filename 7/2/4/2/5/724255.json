@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 724255,
+    "properties": {
+        "woe_id": 724255,
+        "place_id": "3hd8szueA5j8KaA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Siziano, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234655650,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3052\/shapefiles\/724255_20090214_6bfdc12ea2.tar.gz"
+        },
+        "bbox": [
+            9.1965856552124,
+            45.311538696289,
+            9.203709602356,
+            45.31468963623
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.199161,
+                        45.31229
+                    ],
+                    [
+                        9.196586,
+                        45.313499
+                    ],
+                    [
+                        9.200105,
+                        45.31469
+                    ],
+                    [
+                        9.20371,
+                        45.311539
+                    ],
+                    [
+                        9.199161,
+                        45.31229
+                    ]
+                ]
+            ]
+        ]
+    }
+}

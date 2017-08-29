@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 762448,
+    "properties": {
+        "woe_id": 762448,
+        "place_id": "uE7bRSueB55V_z8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Huertas del Palmar, Canary Islands, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234665852,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3618\/shapefiles\/762448_20090215_211844d7a6.tar.gz"
+        },
+        "bbox": [
+            -15.54567527771,
+            28.074800491333,
+            -15.537232398987,
+            28.085914611816
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -15.543293,
+                        28.085915
+                    ],
+                    [
+                        -15.537232,
+                        28.08333
+                    ],
+                    [
+                        -15.537275,
+                        28.083248
+                    ],
+                    [
+                        -15.545675,
+                        28.0748
+                    ],
+                    [
+                        -15.543293,
+                        28.085915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

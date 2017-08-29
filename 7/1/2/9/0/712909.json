@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 712909,
+    "properties": {
+        "woe_id": 712909,
+        "place_id": "uR9IJ5qeAJ6wk_I",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Casazza, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234512842,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3300\/shapefiles\/712909_20090213_501f9d3d66.tar.gz"
+        },
+        "bbox": [
+            9.9050331115723,
+            45.74991607666,
+            9.9177360534668,
+            45.751235961914
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.905033,
+                        45.751236
+                    ],
+                    [
+                        9.907264,
+                        45.751236
+                    ],
+                    [
+                        9.917736,
+                        45.749916
+                    ],
+                    [
+                        9.907822,
+                        45.750427
+                    ],
+                    [
+                        9.905033,
+                        45.751236
+                    ]
+                ]
+            ]
+        ]
+    }
+}

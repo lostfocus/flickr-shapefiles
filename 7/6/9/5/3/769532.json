@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 769532,
+    "properties": {
+        "woe_id": 769532,
+        "place_id": "VOyNpZaeB5V4ovc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Parora, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234738444,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3334\/shapefiles\/769532_20090215_25311b4f7b.tar.gz"
+        },
+        "bbox": [
+            -5.0707049369812,
+            43.348213195801,
+            -5.0525088310242,
+            43.352191925049
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.067873,
+                        43.348461
+                    ],
+                    [
+                        -5.070705,
+                        43.350647
+                    ],
+                    [
+                        -5.069679,
+                        43.352192
+                    ],
+                    [
+                        -5.052509,
+                        43.348213
+                    ],
+                    [
+                        -5.067873,
+                        43.348461
+                    ]
+                ]
+            ]
+        ]
+    }
+}

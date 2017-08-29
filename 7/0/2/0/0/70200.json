@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 70200,
+    "properties": {
+        "woe_id": 70200,
+        "place_id": "9qHzrdCeAZ4_2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cotu\u00ed, S\u00e1nchez Ramirez, Dominican Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536140,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/70200_20101216_c10af003ed.tar.gz"
+        },
+        "bbox": [
+            -70.161437988281,
+            19.050922393799,
+            -70.149421691895,
+            19.072175979614
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.153198,
+                        19.062117
+                    ],
+                    [
+                        -70.151054,
+                        19.054815
+                    ],
+                    [
+                        -70.149422,
+                        19.050922
+                    ],
+                    [
+                        -70.161438,
+                        19.060169
+                    ],
+                    [
+                        -70.152336,
+                        19.072176
+                    ],
+                    [
+                        -70.153198,
+                        19.062117
+                    ]
+                ]
+            ]
+        ]
+    }
+}

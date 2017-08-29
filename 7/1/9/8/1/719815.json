@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 719815,
+    "properties": {
+        "woe_id": 719815,
+        "place_id": "8Kj6lEieAJUKKaQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Palazzo, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539008,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/719815_20101216_328d466d00.tar.gz"
+        },
+        "bbox": [
+            10.390663146973,
+            42.710315704346,
+            10.405941009521,
+            42.717758178711
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.405941,
+                        42.715111
+                    ],
+                    [
+                        10.401306,
+                        42.710316
+                    ],
+                    [
+                        10.390663,
+                        42.717758
+                    ],
+                    [
+                        10.405254,
+                        42.716496
+                    ],
+                    [
+                        10.405941,
+                        42.715111
+                    ]
+                ]
+            ]
+        ]
+    }
+}

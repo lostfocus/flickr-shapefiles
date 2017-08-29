@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 731792,
+    "properties": {
+        "woe_id": 731792,
+        "place_id": "lN9D6ByeAp32N9w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moorsel, North Brabant, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234603806,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3486\/shapefiles\/731792_20090214_f296a63923.tar.gz"
+        },
+        "bbox": [
+            5.6375308036804,
+            51.389938354492,
+            5.6560702323914,
+            51.404560089111
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.65607,
+                        51.403168
+                    ],
+                    [
+                        5.646286,
+                        51.401882
+                    ],
+                    [
+                        5.637531,
+                        51.389938
+                    ],
+                    [
+                        5.644741,
+                        51.40456
+                    ],
+                    [
+                        5.65607,
+                        51.403168
+                    ]
+                ]
+            ]
+        ]
+    }
+}

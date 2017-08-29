@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 751551,
+    "properties": {
+        "woe_id": 751551,
+        "place_id": "ABeC1O2eBJ3E8zI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Aguis, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234513928,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3434\/shapefiles\/751551_20090213_0d9812a0d5.tar.gz"
+        },
+        "bbox": [
+            -7.7851858139038,
+            41.978954315186,
+            -7.7814102172852,
+            41.981952667236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.783727,
+                        41.978954
+                    ],
+                    [
+                        -7.785186,
+                        41.979431
+                    ],
+                    [
+                        -7.783041,
+                        41.981953
+                    ],
+                    [
+                        -7.78141,
+                        41.979622
+                    ],
+                    [
+                        -7.783727,
+                        41.978954
+                    ]
+                ]
+            ]
+        ]
+    }
+}

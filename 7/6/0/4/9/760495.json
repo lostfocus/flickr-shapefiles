@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 760495,
+    "properties": {
+        "woe_id": 760495,
+        "place_id": "0xPbKNeeB5w7XPM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ferreira, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292467150,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5243\/shapefiles\/760495_20101216_d935090cfc.tar.gz"
+        },
+        "bbox": [
+            -7.4414768218994,
+            43.551025390625,
+            -7.4391169548035,
+            43.552528381348
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.441005,
+                        43.552155
+                    ],
+                    [
+                        -7.439117,
+                        43.552528
+                    ],
+                    [
+                        -7.440866,
+                        43.551025
+                    ],
+                    [
+                        -7.441477,
+                        43.552078
+                    ],
+                    [
+                        -7.441005,
+                        43.552155
+                    ]
+                ]
+            ]
+        ]
+    }
+}

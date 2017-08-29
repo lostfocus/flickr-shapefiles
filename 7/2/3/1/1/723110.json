@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 723110,
+    "properties": {
+        "woe_id": 723110,
+        "place_id": "RPVci_eeA5_q8uQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Salvatore Monferrato, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292547732,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/723110_20101217_e6d1e77561.tar.gz"
+        },
+        "bbox": [
+            8.5652160644531,
+            44.992908477783,
+            8.5840978622437,
+            45.002376556396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.566246,
+                        44.99588
+                    ],
+                    [
+                        8.565216,
+                        44.996975
+                    ],
+                    [
+                        8.568992,
+                        45.001831
+                    ],
+                    [
+                        8.584098,
+                        45.002377
+                    ],
+                    [
+                        8.568906,
+                        44.993454
+                    ],
+                    [
+                        8.568505,
+                        44.992908
+                    ],
+                    [
+                        8.566246,
+                        44.99588
+                    ]
+                ]
+            ]
+        ]
+    }
+}

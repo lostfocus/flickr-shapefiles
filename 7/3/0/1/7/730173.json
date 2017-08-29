@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 730173,
+    "properties": {
+        "woe_id": 730173,
+        "place_id": "If3jEaGeApx2f8o",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hoenderlo, Gelderland, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443818,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/730173_20101215_227cbbb68b.tar.gz"
+        },
+        "bbox": [
+            5.8328809738159,
+            52.072593688965,
+            5.8367438316345,
+            52.085361480713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.832881,
+                        52.085361
+                    ],
+                    [
+                        5.835628,
+                        52.083515
+                    ],
+                    [
+                        5.836658,
+                        52.080982
+                    ],
+                    [
+                        5.836744,
+                        52.072594
+                    ],
+                    [
+                        5.832881,
+                        52.085361
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 770129,
+    "properties": {
+        "woe_id": 770129,
+        "place_id": "TDuZKrieBpw1pSg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pilas, Andalusia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536543,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/770129_20101216_590b9f5432.tar.gz"
+        },
+        "bbox": [
+            -6.3061518669128,
+            37.284706115723,
+            -6.2937917709351,
+            37.306213378906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.306152,
+                        37.305466
+                    ],
+                    [
+                        -6.305122,
+                        37.306213
+                    ],
+                    [
+                        -6.293792,
+                        37.303825
+                    ],
+                    [
+                        -6.30083,
+                        37.284706
+                    ],
+                    [
+                        -6.305465,
+                        37.303349
+                    ],
+                    [
+                        -6.306152,
+                        37.305466
+                    ]
+                ]
+            ]
+        ]
+    }
+}

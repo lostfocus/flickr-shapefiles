@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 796422,
+    "properties": {
+        "woe_id": 796422,
+        "place_id": "d0mejkWeCJqmVqs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Police, Vyso\u010dina, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234587123,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3481\/shapefiles\/796422_20090214_4cd6559b1e.tar.gz"
+        },
+        "bbox": [
+            15.626935005188,
+            48.964962005615,
+            15.634058952332,
+            48.970695495605
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.628094,
+                        48.965904
+                    ],
+                    [
+                        15.626935,
+                        48.970695
+                    ],
+                    [
+                        15.634059,
+                        48.965652
+                    ],
+                    [
+                        15.632042,
+                        48.964962
+                    ],
+                    [
+                        15.628094,
+                        48.965904
+                    ]
+                ]
+            ]
+        ]
+    }
+}

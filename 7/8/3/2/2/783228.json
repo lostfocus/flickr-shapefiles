@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 783228,
+    "properties": {
+        "woe_id": 783228,
+        "place_id": "T2_Z1IOeCZ8A4no",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Magdenau, Canton of St. Gallen, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234675448,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3213\/shapefiles\/783228_20090215_d69c105109.tar.gz"
+        },
+        "bbox": [
+            9.1684226989746,
+            47.401145935059,
+            9.17209815979,
+            47.401573181152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.170681,
+                        47.401573
+                    ],
+                    [
+                        9.171577,
+                        47.401371
+                    ],
+                    [
+                        9.172098,
+                        47.401146
+                    ],
+                    [
+                        9.168423,
+                        47.401398
+                    ],
+                    [
+                        9.170681,
+                        47.401573
+                    ]
+                ]
+            ]
+        ]
+    }
+}

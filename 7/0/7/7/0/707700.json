@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 707700,
+    "properties": {
+        "woe_id": 707700,
+        "place_id": "4XYyYI2eAZuZffw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wolfshagen, Brandenburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447498,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/707700_20101215_0508bd4ab6.tar.gz"
+        },
+        "bbox": [
+            13.648988723755,
+            53.439624786377,
+            13.65315246582,
+            53.441989898682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.649107,
+                        53.441971
+                    ],
+                    [
+                        13.653152,
+                        53.440876
+                    ],
+                    [
+                        13.652549,
+                        53.439625
+                    ],
+                    [
+                        13.648989,
+                        53.44199
+                    ],
+                    [
+                        13.649107,
+                        53.441971
+                    ]
+                ]
+            ]
+        ]
+    }
+}

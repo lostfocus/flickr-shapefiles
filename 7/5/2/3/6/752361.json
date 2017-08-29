@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 752361,
+    "properties": {
+        "woe_id": 752361,
+        "place_id": "GdV9rAeeBJ4x2KI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santiago de Ambiedes, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529008,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/752361_20101216_ed1a35fcff.tar.gz"
+        },
+        "bbox": [
+            -5.8892397880554,
+            43.563106536865,
+            -5.8732199668884,
+            43.573192596436
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.874423,
+                        43.573112
+                    ],
+                    [
+                        -5.87322,
+                        43.565903
+                    ],
+                    [
+                        -5.88924,
+                        43.563107
+                    ],
+                    [
+                        -5.874631,
+                        43.573193
+                    ],
+                    [
+                        -5.874612,
+                        43.573193
+                    ],
+                    [
+                        -5.874423,
+                        43.573112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

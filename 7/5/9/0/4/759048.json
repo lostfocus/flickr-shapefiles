@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 759048,
+    "properties": {
+        "woe_id": 759048,
+        "place_id": "OAshyuGeBJWrNv4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "El Cabaco, Castille and Leon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525292,
+        "alpha": 0.00015,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/759048_20101216_0f6ac52d14.tar.gz"
+        },
+        "bbox": [
+            -6.1344900131226,
+            40.555744171143,
+            -6.1118311882019,
+            40.575355529785
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.131508,
+                        40.567463
+                    ],
+                    [
+                        -6.129633,
+                        40.575356
+                    ],
+                    [
+                        -6.111831,
+                        40.571198
+                    ],
+                    [
+                        -6.119384,
+                        40.562069
+                    ],
+                    [
+                        -6.13449,
+                        40.555744
+                    ],
+                    [
+                        -6.131508,
+                        40.567463
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 707621,
+    "properties": {
+        "woe_id": 707621,
+        "place_id": "u9Jt.QaeAZs2UEs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wolffradtshof, Mecklenburg-Vorpommern, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234512484,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3316\/shapefiles\/707621_20090213_4820007fca.tar.gz"
+        },
+        "bbox": [
+            13.565711021423,
+            53.932746887207,
+            13.568307876587,
+            53.93892288208
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.565711,
+                        53.93449
+                    ],
+                    [
+                        13.566505,
+                        53.938923
+                    ],
+                    [
+                        13.566956,
+                        53.936195
+                    ],
+                    [
+                        13.568308,
+                        53.932747
+                    ],
+                    [
+                        13.565711,
+                        53.93449
+                    ]
+                ]
+            ]
+        ]
+    }
+}

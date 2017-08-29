@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 784123,
+    "properties": {
+        "woe_id": 784123,
+        "place_id": "oB46tHeeCZhchHE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sch\u00fcpfheim, Canton of Lucerne, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518389,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/784123_20101216_0332499e42.tar.gz"
+        },
+        "bbox": [
+            8.005166053772,
+            46.95064163208,
+            8.0335273742676,
+            46.966732025146
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.016881,
+                        46.951279
+                    ],
+                    [
+                        8.015363,
+                        46.950642
+                    ],
+                    [
+                        8.005166,
+                        46.951164
+                    ],
+                    [
+                        8.018227,
+                        46.954639
+                    ],
+                    [
+                        8.033527,
+                        46.966732
+                    ],
+                    [
+                        8.019504,
+                        46.952312
+                    ],
+                    [
+                        8.016881,
+                        46.951279
+                    ]
+                ]
+            ]
+        ]
+    }
+}

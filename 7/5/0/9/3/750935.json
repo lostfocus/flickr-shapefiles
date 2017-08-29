@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 750935,
+    "properties": {
+        "woe_id": 750935,
+        "place_id": "FkSmWCqeBJyAI9Y",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vilar de Luz, Porto, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528345,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/750935_20101216_6845e350c7.tar.gz"
+        },
+        "bbox": [
+            -8.5265922546387,
+            41.277420043945,
+            -8.5172786712646,
+            41.284172058105
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.517279,
+                        41.280403
+                    ],
+                    [
+                        -8.51773,
+                        41.279949
+                    ],
+                    [
+                        -8.51927,
+                        41.279736
+                    ],
+                    [
+                        -8.526592,
+                        41.27742
+                    ],
+                    [
+                        -8.517698,
+                        41.284172
+                    ],
+                    [
+                        -8.517279,
+                        41.280403
+                    ]
+                ]
+            ]
+        ]
+    }
+}

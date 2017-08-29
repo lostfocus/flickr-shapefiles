@@ -1,0 +1,78 @@
+{
+    "type": "Feature",
+    "id": 730000,
+    "properties": {
+        "woe_id": 730000,
+        "place_id": "muxKoPKeApyRziU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hengstheuvel, North Brabant, Netherlands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292475609,
+        "alpha": 0.00015,
+        "points": 11,
+        "edges": 11,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/730000_20101216_5e9cfb3ba4.tar.gz"
+        },
+        "bbox": [
+            5.5955171585083,
+            51.680671691895,
+            5.621395111084,
+            51.686779022217
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.61676,
+                        51.685913
+                    ],
+                    [
+                        5.611095,
+                        51.685329
+                    ],
+                    [
+                        5.595602,
+                        51.680672
+                    ],
+                    [
+                        5.595517,
+                        51.68071
+                    ],
+                    [
+                        5.597405,
+                        51.686443
+                    ],
+                    [
+                        5.598392,
+                        51.686779
+                    ],
+                    [
+                        5.611095,
+                        51.685329
+                    ],
+                    [
+                        5.614185,
+                        51.684105
+                    ],
+                    [
+                        5.621395,
+                        51.685169
+                    ],
+                    [
+                        5.618133,
+                        51.685539
+                    ],
+                    [
+                        5.61676,
+                        51.685913
+                    ]
+                ]
+            ]
+        ]
+    }
+}

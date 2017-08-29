@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 705012,
+    "properties": {
+        "woe_id": 705012,
+        "place_id": "3iYG5dWeAZnjBz8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Weisweiler, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541577,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/705012_20101216_7cef03a3ea.tar.gz"
+        },
+        "bbox": [
+            6.3116450309753,
+            50.828670501709,
+            6.3319439888,
+            50.845378875732
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.323047,
+                        50.833221
+                    ],
+                    [
+                        6.322861,
+                        50.833111
+                    ],
+                    [
+                        6.317374,
+                        50.828671
+                    ],
+                    [
+                        6.311645,
+                        50.832722
+                    ],
+                    [
+                        6.319112,
+                        50.845379
+                    ],
+                    [
+                        6.331944,
+                        50.835026
+                    ],
+                    [
+                        6.323047,
+                        50.833221
+                    ]
+                ]
+            ]
+        ]
+    }
+}

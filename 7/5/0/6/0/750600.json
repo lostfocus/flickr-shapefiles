@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 750600,
+    "properties": {
+        "woe_id": 750600,
+        "place_id": "s7TOy_CeBJzv76E",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vila Boa do Bispo, Porto, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292516649,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/750600_20101216_a7d589dabd.tar.gz"
+        },
+        "bbox": [
+            -8.226131439209,
+            41.129547119141,
+            -8.2199287414551,
+            41.130863189697
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.220906,
+                        41.130863
+                    ],
+                    [
+                        -8.220466,
+                        41.130848
+                    ],
+                    [
+                        -8.220123,
+                        41.130676
+                    ],
+                    [
+                        -8.219929,
+                        41.129547
+                    ],
+                    [
+                        -8.226131,
+                        41.130604
+                    ],
+                    [
+                        -8.220906,
+                        41.130863
+                    ]
+                ]
+            ]
+        ]
+    }
+}

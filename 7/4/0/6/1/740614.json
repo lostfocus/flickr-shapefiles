@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 740614,
+    "properties": {
+        "woe_id": 740614,
+        "place_id": "rL8HADWeBZz0e7k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Escoura, Porto, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248056189,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3431\/shapefiles\/740614_20090720_ae73f9a52a.tar.gz"
+        },
+        "bbox": [
+            -8.5406675338745,
+            41.091110229492,
+            -8.5257329940796,
+            41.102638244629
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.540668,
+                        41.091125
+                    ],
+                    [
+                        -8.53628,
+                        41.098969
+                    ],
+                    [
+                        -8.525733,
+                        41.102638
+                    ],
+                    [
+                        -8.526077,
+                        41.101345
+                    ],
+                    [
+                        -8.534038,
+                        41.09111
+                    ],
+                    [
+                        -8.540668,
+                        41.091125
+                    ]
+                ]
+            ]
+        ]
+    }
+}

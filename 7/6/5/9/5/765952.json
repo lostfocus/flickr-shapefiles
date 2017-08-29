@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 765952,
+    "properties": {
+        "woe_id": 765952,
+        "place_id": "Y6hKiQGeB5ltsq0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Los Pontones, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234478285,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3458\/shapefiles\/765952_20090212_e83fe0a4e1.tar.gz"
+        },
+        "bbox": [
+            -6.4520211219788,
+            43.479110717773,
+            -6.4437069892883,
+            43.485591888428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -6.44375,
+                        43.479172
+                    ],
+                    [
+                        -6.443707,
+                        43.479126
+                    ],
+                    [
+                        -6.443771,
+                        43.479111
+                    ],
+                    [
+                        -6.452021,
+                        43.485592
+                    ],
+                    [
+                        -6.44375,
+                        43.479172
+                    ]
+                ]
+            ]
+        ]
+    }
+}

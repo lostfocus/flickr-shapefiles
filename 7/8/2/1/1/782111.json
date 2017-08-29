@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 782111,
+    "properties": {
+        "woe_id": 782111,
+        "place_id": "Zd6FLtieCZ4ea3g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cinuos-Chel, Canton of Graubunden, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234644849,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3517\/shapefiles\/782111_20090214_eb24921008.tar.gz"
+        },
+        "bbox": [
+            10.011978149414,
+            46.635883331299,
+            10.023306846619,
+            46.648963928223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.011978,
+                        46.648964
+                    ],
+                    [
+                        10.023307,
+                        46.642189
+                    ],
+                    [
+                        10.022277,
+                        46.641068
+                    ],
+                    [
+                        10.019187,
+                        46.635883
+                    ],
+                    [
+                        10.011978,
+                        46.648964
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 710870,
+    "properties": {
+        "woe_id": 710870,
+        "place_id": "fvFv8_.eAJxDRlI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Belvedere, Calabria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234585442,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3494\/shapefiles\/710870_20090214_130a98ff9e.tar.gz"
+        },
+        "bbox": [
+            16.882724761963,
+            39.204322814941,
+            16.892166137695,
+            39.214099884033
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.892166,
+                        39.204323
+                    ],
+                    [
+                        16.887445,
+                        39.210808
+                    ],
+                    [
+                        16.882725,
+                        39.2141
+                    ],
+                    [
+                        16.889763,
+                        39.211273
+                    ],
+                    [
+                        16.892166,
+                        39.204323
+                    ]
+                ]
+            ]
+        ]
+    }
+}

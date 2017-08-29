@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 712000,
+    "properties": {
+        "woe_id": 712000,
+        "place_id": "kk0lGoSeAJ7aevc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Canegrate, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234750083,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3427\/shapefiles\/712000_20090216_41b36b539e.tar.gz"
+        },
+        "bbox": [
+            8.9227647781372,
+            45.569396972656,
+            8.9311008453369,
+            45.580043792725
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.927679,
+                        45.570625
+                    ],
+                    [
+                        8.925254,
+                        45.570896
+                    ],
+                    [
+                        8.923645,
+                        45.573196
+                    ],
+                    [
+                        8.922765,
+                        45.574986
+                    ],
+                    [
+                        8.923934,
+                        45.580044
+                    ],
+                    [
+                        8.927249,
+                        45.580025
+                    ],
+                    [
+                        8.930404,
+                        45.570438
+                    ],
+                    [
+                        8.931101,
+                        45.569397
+                    ],
+                    [
+                        8.927679,
+                        45.570625
+                    ]
+                ]
+            ]
+        ]
+    }
+}

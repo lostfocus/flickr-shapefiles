@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 725775,
+    "properties": {
+        "woe_id": 725775,
+        "place_id": "5dT_udGeA5mLNKo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vermezzo, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234565650,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3389\/shapefiles\/725775_20090213_555c593257.tar.gz"
+        },
+        "bbox": [
+            8.9749708175659,
+            45.396129608154,
+            8.9813232421875,
+            45.408573150635
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.974971,
+                        45.402458
+                    ],
+                    [
+                        8.981323,
+                        45.408573
+                    ],
+                    [
+                        8.980808,
+                        45.39613
+                    ],
+                    [
+                        8.980121,
+                        45.396523
+                    ],
+                    [
+                        8.974971,
+                        45.402458
+                    ]
+                ]
+            ]
+        ]
+    }
+}

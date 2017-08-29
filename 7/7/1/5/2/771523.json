@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 771523,
+    "properties": {
+        "woe_id": 771523,
+        "place_id": "B_F.zCCeBp1sy2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Redondo, Castille and Leon, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234665488,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3574\/shapefiles\/771523_20090215_91ca8364c6.tar.gz"
+        },
+        "bbox": [
+            -3.6078820228577,
+            43.063621520996,
+            -3.5961339473724,
+            43.066944122314
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.607882,
+                        43.064892
+                    ],
+                    [
+                        -3.607807,
+                        43.066944
+                    ],
+                    [
+                        -3.596134,
+                        43.063622
+                    ],
+                    [
+                        -3.607742,
+                        43.064804
+                    ],
+                    [
+                        -3.607882,
+                        43.064892
+                    ]
+                ]
+            ]
+        ]
+    }
+}

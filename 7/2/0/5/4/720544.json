@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 720544,
+    "properties": {
+        "woe_id": 720544,
+        "place_id": "sp0Tm9aeA5ysegw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pieve di Santa Luce, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234477082,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3397\/shapefiles\/720544_20090212_deb253fcaa.tar.gz"
+        },
+        "bbox": [
+            10.533142089844,
+            43.475967407227,
+            10.551508903503,
+            43.485809326172
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.537004,
+                        43.485809
+                    ],
+                    [
+                        10.551509,
+                        43.475967
+                    ],
+                    [
+                        10.538291,
+                        43.476341
+                    ],
+                    [
+                        10.533142,
+                        43.483566
+                    ],
+                    [
+                        10.537004,
+                        43.485809
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 745302,
+    "properties": {
+        "woe_id": 745302,
+        "place_id": "0A6XLeKeBZk4azI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paul do Mar, Madeira, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248099005,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2579\/shapefiles\/745302_20090720_3d8a327258.tar.gz"
+        },
+        "bbox": [
+            -17.230339050293,
+            32.753787994385,
+            -17.219905853271,
+            32.763366699219
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -17.230339,
+                        32.757179
+                    ],
+                    [
+                        -17.219906,
+                        32.763367
+                    ],
+                    [
+                        -17.220726,
+                        32.753788
+                    ],
+                    [
+                        -17.230339,
+                        32.755665
+                    ],
+                    [
+                        -17.230339,
+                        32.757179
+                    ]
+                ]
+            ]
+        ]
+    }
+}

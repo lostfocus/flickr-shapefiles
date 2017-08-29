@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 725124,
+    "properties": {
+        "woe_id": 725124,
+        "place_id": "KWhXiC2eA5l8NeM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Torri, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234865403,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3405\/shapefiles\/725124_20090217_e5a6bc4ef8.tar.gz"
+        },
+        "bbox": [
+            11.444834709167,
+            43.7434425354,
+            11.447067260742,
+            43.747039794922
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.444835,
+                        43.743443
+                    ],
+                    [
+                        11.446723,
+                        43.74704
+                    ],
+                    [
+                        11.446895,
+                        43.745987
+                    ],
+                    [
+                        11.447067,
+                        43.744186
+                    ],
+                    [
+                        11.444835,
+                        43.743443
+                    ]
+                ]
+            ]
+        ]
+    }
+}

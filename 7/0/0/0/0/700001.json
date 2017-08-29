@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 700001,
+    "properties": {
+        "woe_id": 700001,
+        "place_id": "jcbixueeAZy.UXo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tribsees, Mecklenburg-Vorpommern, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453629,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/700001_20101215_366e60fc21.tar.gz"
+        },
+        "bbox": [
+            12.75572681427,
+            54.093906402588,
+            12.760105133057,
+            54.09574508667
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.760105,
+                        54.095341
+                    ],
+                    [
+                        12.759686,
+                        54.093906
+                    ],
+                    [
+                        12.75856,
+                        54.09417
+                    ],
+                    [
+                        12.755727,
+                        54.095745
+                    ],
+                    [
+                        12.760105,
+                        54.095341
+                    ]
+                ]
+            ]
+        ]
+    }
+}

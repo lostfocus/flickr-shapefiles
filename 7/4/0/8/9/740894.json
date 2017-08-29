@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 740894,
+    "properties": {
+        "woe_id": 740894,
+        "place_id": "l_S0aqWeBZwpiTw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Fazendas de Almeirim, Santar\u00e9m, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292499185,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5124\/shapefiles\/740894_20101216_e133d7946b.tar.gz"
+        },
+        "bbox": [
+            -8.5964584350586,
+            39.1614112854,
+            -8.5828647613525,
+            39.186164855957
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.583498,
+                        39.186165
+                    ],
+                    [
+                        -8.582865,
+                        39.175694
+                    ],
+                    [
+                        -8.596458,
+                        39.161411
+                    ],
+                    [
+                        -8.59355,
+                        39.180164
+                    ],
+                    [
+                        -8.596287,
+                        39.182774
+                    ],
+                    [
+                        -8.583498,
+                        39.186165
+                    ]
+                ]
+            ]
+        ]
+    }
+}

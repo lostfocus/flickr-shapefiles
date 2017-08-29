@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 705971,
+    "properties": {
+        "woe_id": 705971,
+        "place_id": "wkbDWKieAZkG2SY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wettendorf, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443750,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/705971_20101215_a8c6c26647.tar.gz"
+        },
+        "bbox": [
+            7.7698011398315,
+            51.911781311035,
+            7.779091835022,
+            51.91423034668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.77141,
+                        51.913383
+                    ],
+                    [
+                        7.769801,
+                        51.91423
+                    ],
+                    [
+                        7.771453,
+                        51.913467
+                    ],
+                    [
+                        7.779092,
+                        51.911781
+                    ],
+                    [
+                        7.771496,
+                        51.913364
+                    ],
+                    [
+                        7.77141,
+                        51.913383
+                    ]
+                ]
+            ]
+        ]
+    }
+}

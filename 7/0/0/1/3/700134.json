@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 700134,
+    "properties": {
+        "woe_id": 700134,
+        "place_id": "i2hdAO2eAZzTOk0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Trostadt, Thuringia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543578,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/700134_20101216_23a031cc73.tar.gz"
+        },
+        "bbox": [
+            10.638542175293,
+            50.461818695068,
+            10.639742851257,
+            50.464824676514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.639572,
+                        50.464825
+                    ],
+                    [
+                        10.639743,
+                        50.464825
+                    ],
+                    [
+                        10.638542,
+                        50.461819
+                    ],
+                    [
+                        10.638713,
+                        50.464718
+                    ],
+                    [
+                        10.639572,
+                        50.464825
+                    ]
+                ]
+            ]
+        ]
+    }
+}

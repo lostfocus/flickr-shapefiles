@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 716683,
+    "properties": {
+        "woe_id": 716683,
+        "place_id": "l8alZiieAJr6rnw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ischia di Castro, Lazio, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234870941,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3115\/shapefiles\/716683_20090217_7a180fe368.tar.gz"
+        },
+        "bbox": [
+            11.753481864929,
+            42.542774200439,
+            11.757172584534,
+            42.546756744385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.753654,
+                        42.546757
+                    ],
+                    [
+                        11.757087,
+                        42.545902
+                    ],
+                    [
+                        11.757173,
+                        42.542774
+                    ],
+                    [
+                        11.753482,
+                        42.544956
+                    ],
+                    [
+                        11.753654,
+                        42.546757
+                    ]
+                ]
+            ]
+        ]
+    }
+}

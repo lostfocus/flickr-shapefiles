@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 768223,
+    "properties": {
+        "woe_id": 768223,
+        "place_id": "FgMA6iyeB5SyC1c",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Central de Navallar, Madrid, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529801,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/768223_20101216_e720a06427.tar.gz"
+        },
+        "bbox": [
+            -3.8159890174866,
+            40.644756317139,
+            -3.8004109859467,
+            40.655704498291
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -3.808479,
+                        40.650753
+                    ],
+                    [
+                        -3.805131,
+                        40.655704
+                    ],
+                    [
+                        -3.800411,
+                        40.652447
+                    ],
+                    [
+                        -3.807374,
+                        40.648216
+                    ],
+                    [
+                        -3.815989,
+                        40.644756
+                    ],
+                    [
+                        -3.808479,
+                        40.650753
+                    ]
+                ]
+            ]
+        ]
+    }
+}

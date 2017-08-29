@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 789647,
+    "properties": {
+        "woe_id": 789647,
+        "place_id": "Zo.2vNGeCZUYq74",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Horka nad Moravou, Olomouck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525283,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/789647_20101216_03d79212c4.tar.gz"
+        },
+        "bbox": [
+            17.20458984375,
+            49.629005432129,
+            17.237548828125,
+            49.643844604492
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        17.216778,
+                        49.629505
+                    ],
+                    [
+                        17.20459,
+                        49.640011
+                    ],
+                    [
+                        17.219137,
+                        49.631199
+                    ],
+                    [
+                        17.237549,
+                        49.643845
+                    ],
+                    [
+                        17.220554,
+                        49.629005
+                    ],
+                    [
+                        17.216778,
+                        49.629505
+                    ]
+                ]
+            ]
+        ]
+    }
+}

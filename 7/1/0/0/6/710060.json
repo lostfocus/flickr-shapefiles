@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 710060,
+    "properties": {
+        "woe_id": 710060,
+        "place_id": "j5_LftueAJyHJIg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Alpette, Piedmont, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542883,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5130\/shapefiles\/710060_20101216_7aeb7747ab.tar.gz"
+        },
+        "bbox": [
+            7.5661458969116,
+            45.396881103516,
+            7.5796217918396,
+            45.410503387451
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.575824,
+                        45.410217
+                    ],
+                    [
+                        7.577304,
+                        45.410503
+                    ],
+                    [
+                        7.57857,
+                        45.410141
+                    ],
+                    [
+                        7.579622,
+                        45.409733
+                    ],
+                    [
+                        7.57857,
+                        45.408997
+                    ],
+                    [
+                        7.566146,
+                        45.396881
+                    ],
+                    [
+                        7.575611,
+                        45.408981
+                    ],
+                    [
+                        7.575824,
+                        45.410217
+                    ]
+                ]
+            ]
+        ]
+    }
+}

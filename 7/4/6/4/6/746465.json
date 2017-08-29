@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 746465,
+    "properties": {
+        "woe_id": 746465,
+        "place_id": "c3YUeKCeBZrL6N4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Praia da Madale, Porto, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292499303,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/746465_20101216_d94cb2a131.tar.gz"
+        },
+        "bbox": [
+            -8.6633205413818,
+            41.09561920166,
+            -8.6579132080078,
+            41.105937957764
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.657913,
+                        41.100311
+                    ],
+                    [
+                        -8.658428,
+                        41.095619
+                    ],
+                    [
+                        -8.661861,
+                        41.098888
+                    ],
+                    [
+                        -8.663321,
+                        41.105938
+                    ],
+                    [
+                        -8.662076,
+                        41.105213
+                    ],
+                    [
+                        -8.657913,
+                        41.100311
+                    ]
+                ]
+            ]
+        ]
+    }
+}

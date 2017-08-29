@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 799900,
+    "properties": {
+        "woe_id": 799900,
+        "place_id": "mAH_gCOeCJXjpcY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Troskovice, Libereck\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458851,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/799900_20101216_d4a2bd6063.tar.gz"
+        },
+        "bbox": [
+            15.215376853943,
+            50.511199951172,
+            15.230786323547,
+            50.523029327393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        15.2205,
+                        50.5112
+                    ],
+                    [
+                        15.215377,
+                        50.523029
+                    ],
+                    [
+                        15.229625,
+                        50.516647
+                    ],
+                    [
+                        15.230786,
+                        50.516056
+                    ],
+                    [
+                        15.22336,
+                        50.511734
+                    ],
+                    [
+                        15.2205,
+                        50.5112
+                    ]
+                ]
+            ]
+        ]
+    }
+}

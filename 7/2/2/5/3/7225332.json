@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225332,
+    "properties": {
+        "woe_id": 7225332,
+        "place_id": "aJBRQA2eA56XVxgh",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Canberra, Australian Capital Territory, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247838122,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2656\/shapefiles\/7225332_20090717_937da9e52b.tar.gz"
+        },
+        "bbox": [
+            149.1813659668,
+            -35.206356048584,
+            149.19845581055,
+            -35.196884155273
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.181366,
+                        -35.202572
+                    ],
+                    [
+                        149.181473,
+                        -35.201885
+                    ],
+                    [
+                        149.183289,
+                        -35.198997
+                    ],
+                    [
+                        149.188339,
+                        -35.196884
+                    ],
+                    [
+                        149.198456,
+                        -35.206356
+                    ],
+                    [
+                        149.181366,
+                        -35.202572
+                    ]
+                ]
+            ]
+        ]
+    }
+}

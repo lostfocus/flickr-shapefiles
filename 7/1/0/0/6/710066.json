@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 710066,
+    "properties": {
+        "woe_id": 710066,
+        "place_id": "8IaoFA2eAJzNA3A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Marina Alta, Marche, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292363644,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/710066_20101214_e61b476214.tar.gz"
+        },
+        "bbox": [
+            13.332488059998,
+            43.654460906982,
+            13.336501121521,
+            43.657905578613
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.336501,
+                        43.656197
+                    ],
+                    [
+                        13.336372,
+                        43.654461
+                    ],
+                    [
+                        13.333969,
+                        43.655453
+                    ],
+                    [
+                        13.332595,
+                        43.656696
+                    ],
+                    [
+                        13.332488,
+                        43.657906
+                    ],
+                    [
+                        13.336501,
+                        43.656197
+                    ]
+                ]
+            ]
+        ]
+    }
+}

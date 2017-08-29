@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 704439,
+    "properties": {
+        "woe_id": 704439,
+        "place_id": "Z8Ir4SSeAZgNe68",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Weichs, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234476482,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3346\/shapefiles\/704439_20090212_352563144b.tar.gz"
+        },
+        "bbox": [
+            11.201054573059,
+            47.634239196777,
+            11.219833374023,
+            47.652088165283
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.218231,
+                        47.634239
+                    ],
+                    [
+                        11.201055,
+                        47.650356
+                    ],
+                    [
+                        11.206054,
+                        47.652088
+                    ],
+                    [
+                        11.219833,
+                        47.644665
+                    ],
+                    [
+                        11.218231,
+                        47.634239
+                    ]
+                ]
+            ]
+        ]
+    }
+}

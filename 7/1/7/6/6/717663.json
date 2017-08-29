@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 717663,
+    "properties": {
+        "woe_id": 717663,
+        "place_id": "01JpWYyeAJvxgZc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Magnano, Tuscany, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234477083,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3453\/shapefiles\/717663_20090212_654a3800ae.tar.gz"
+        },
+        "bbox": [
+            10.38904094696,
+            44.1696434021,
+            10.392378807068,
+            44.170875549316
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.389097,
+                        44.169857
+                    ],
+                    [
+                        10.392379,
+                        44.170876
+                    ],
+                    [
+                        10.38918,
+                        44.169643
+                    ],
+                    [
+                        10.389041,
+                        44.169769
+                    ],
+                    [
+                        10.389097,
+                        44.169857
+                    ]
+                ]
+            ]
+        ]
+    }
+}

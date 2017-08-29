@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 784961,
+    "properties": {
+        "woe_id": 784961,
+        "place_id": "Nm9VCPaeCZjuHnA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lugnorre, Canton of Fribourg, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234739170,
+        "alpha": 0.00029296875,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3452\/shapefiles\/784961_20090215_08145e51b6.tar.gz"
+        },
+        "bbox": [
+            7.0617189407349,
+            46.951103210449,
+            7.0803451538086,
+            46.981994628906
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.061719,
+                        46.97337
+                    ],
+                    [
+                        7.062835,
+                        46.976505
+                    ],
+                    [
+                        7.066762,
+                        46.981995
+                    ],
+                    [
+                        7.069015,
+                        46.967251
+                    ],
+                    [
+                        7.080345,
+                        46.953365
+                    ],
+                    [
+                        7.069101,
+                        46.951103
+                    ],
+                    [
+                        7.061719,
+                        46.97337
+                    ]
+                ]
+            ]
+        ]
+    }
+}

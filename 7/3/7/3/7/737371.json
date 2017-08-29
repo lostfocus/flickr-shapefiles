@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 737371,
+    "properties": {
+        "woe_id": 737371,
+        "place_id": "NwRqC_meApssgvw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Boidobra, Castelo Branco, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234585814,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3357\/shapefiles\/737371_20090214_16e141e97f.tar.gz"
+        },
+        "bbox": [
+            -7.4746079444885,
+            40.254383087158,
+            -7.4689860343933,
+            40.276512145996
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.473208,
+                        40.254383
+                    ],
+                    [
+                        -7.474608,
+                        40.258831
+                    ],
+                    [
+                        -7.468986,
+                        40.276512
+                    ],
+                    [
+                        -7.472977,
+                        40.257454
+                    ],
+                    [
+                        -7.473208,
+                        40.254383
+                    ]
+                ]
+            ]
+        ]
+    }
+}

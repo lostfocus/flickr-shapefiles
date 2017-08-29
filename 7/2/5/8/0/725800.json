@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 725800,
+    "properties": {
+        "woe_id": 725800,
+        "place_id": "ONVfd2CeA5nckGA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Versa, Friuli-Venezia Giulia, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549412,
+        "alpha": 0.00015,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/725800_20101217_13c9663eae.tar.gz"
+        },
+        "bbox": [
+            13.415678977966,
+            45.898513793945,
+            13.419305801392,
+            45.903171539307
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.419145,
+                        45.900097
+                    ],
+                    [
+                        13.419306,
+                        45.898891
+                    ],
+                    [
+                        13.416033,
+                        45.898514
+                    ],
+                    [
+                        13.415679,
+                        45.901836
+                    ],
+                    [
+                        13.417739,
+                        45.903172
+                    ],
+                    [
+                        13.419145,
+                        45.900097
+                    ]
+                ]
+            ]
+        ]
+    }
+}

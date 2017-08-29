@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 712143,
+    "properties": {
+        "woe_id": 712143,
+        "place_id": "wkoQ3WKeAJ6tr0s",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cappadocia, Abruzzi, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530386,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/712143_20101216_3f0200dd8e.tar.gz"
+        },
+        "bbox": [
+            13.262557029724,
+            41.992542266846,
+            13.281418800354,
+            42.008361816406
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.280159,
+                        42.006748
+                    ],
+                    [
+                        13.280925,
+                        42.006321
+                    ],
+                    [
+                        13.281419,
+                        42.005978
+                    ],
+                    [
+                        13.270282,
+                        41.993053
+                    ],
+                    [
+                        13.262557,
+                        41.992542
+                    ],
+                    [
+                        13.27629,
+                        42.008362
+                    ],
+                    [
+                        13.280159,
+                        42.006748
+                    ]
+                ]
+            ]
+        ]
+    }
+}

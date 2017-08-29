@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 752954,
+    "properties": {
+        "woe_id": 752954,
+        "place_id": "PLBwYE2eBJ4nE.w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Santiago, Asturias, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447526,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/752954_20101215_b1b7805559.tar.gz"
+        },
+        "bbox": [
+            -5.9218339920044,
+            43.481781005859,
+            -5.9040188789368,
+            43.501998901367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.921834,
+                        43.501167
+                    ],
+                    [
+                        -5.921667,
+                        43.501167
+                    ],
+                    [
+                        -5.913334,
+                        43.501999
+                    ],
+                    [
+                        -5.904019,
+                        43.481781
+                    ],
+                    [
+                        -5.921334,
+                        43.498833
+                    ],
+                    [
+                        -5.921834,
+                        43.501167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

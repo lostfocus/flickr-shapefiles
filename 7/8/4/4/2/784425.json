@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 784425,
+    "properties": {
+        "woe_id": 784425,
+        "place_id": "JFI29ayeCZgs1mI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Trasadingen, Canton of Schaffhausen, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234514884,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3353\/shapefiles\/784425_20090213_3e27c08008.tar.gz"
+        },
+        "bbox": [
+            8.4220066070557,
+            47.658199310303,
+            8.4224090576172,
+            47.666542053223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.42235,
+                        47.666515
+                    ],
+                    [
+                        8.422409,
+                        47.658199
+                    ],
+                    [
+                        8.422287,
+                        47.658257
+                    ],
+                    [
+                        8.422007,
+                        47.666542
+                    ],
+                    [
+                        8.42235,
+                        47.666515
+                    ]
+                ]
+            ]
+        ]
+    }
+}

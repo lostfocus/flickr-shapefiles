@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 790100,
+    "properties": {
+        "woe_id": 790100,
+        "place_id": "O2SIbwueCJw9Lco",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hrabyn\u011b, Moravskoslezsk\u00fd, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520973,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/790100_20101216_bb7711498a.tar.gz"
+        },
+        "bbox": [
+            18.048133850098,
+            49.881004333496,
+            18.056072235107,
+            49.888328552246
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.051085,
+                        49.886002
+                    ],
+                    [
+                        18.048134,
+                        49.888329
+                    ],
+                    [
+                        18.050709,
+                        49.886864
+                    ],
+                    [
+                        18.052439,
+                        49.885719
+                    ],
+                    [
+                        18.056072,
+                        49.881004
+                    ],
+                    [
+                        18.051085,
+                        49.886002
+                    ]
+                ]
+            ]
+        ]
+    }
+}

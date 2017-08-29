@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 78105,
+    "properties": {
+        "woe_id": 78105,
+        "place_id": "guxjdACeCZ0sjA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Guazapa, San Salvador, El Salvador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549412,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5129\/shapefiles\/78105_20101217_7b292bf64a.tar.gz"
+        },
+        "bbox": [
+            -89.185638427734,
+            13.887411117554,
+            -89.147872924805,
+            13.89391040802
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -89.185638,
+                        13.892744
+                    ],
+                    [
+                        -89.170532,
+                        13.89391
+                    ],
+                    [
+                        -89.147873,
+                        13.887411
+                    ],
+                    [
+                        -89.170448,
+                        13.887411
+                    ],
+                    [
+                        -89.185638,
+                        13.892744
+                    ]
+                ]
+            ]
+        ]
+    }
+}

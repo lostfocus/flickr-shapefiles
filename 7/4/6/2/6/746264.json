@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 746264,
+    "properties": {
+        "woe_id": 746264,
+        "place_id": "jJdkHlOeBZoYP0g",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Portos, Viana do Castelo, Portugal"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292410926,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/746264_20101215_d1a7eb16c7.tar.gz"
+        },
+        "bbox": [
+            -8.1205272674561,
+            42.025672912598,
+            -8.1142606735229,
+            42.036033630371
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -8.120527,
+                        42.025673
+                    ],
+                    [
+                        -8.120441,
+                        42.026024
+                    ],
+                    [
+                        -8.120098,
+                        42.02663
+                    ],
+                    [
+                        -8.114261,
+                        42.036034
+                    ],
+                    [
+                        -8.120012,
+                        42.025707
+                    ],
+                    [
+                        -8.120527,
+                        42.025673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

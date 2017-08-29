@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 700109,
+    "properties": {
+        "woe_id": 700109,
+        "place_id": "BMjoXq2eAZzBRxQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tromm, Hesse, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234541405,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3499\/shapefiles\/700109_20090213_f4224870a7.tar.gz"
+        },
+        "bbox": [
+            8.8065710067749,
+            49.602310180664,
+            8.8145751953125,
+            49.607593536377
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.814404,
+                        49.605827
+                    ],
+                    [
+                        8.814575,
+                        49.60231
+                    ],
+                    [
+                        8.806571,
+                        49.607594
+                    ],
+                    [
+                        8.813331,
+                        49.607525
+                    ],
+                    [
+                        8.814404,
+                        49.605827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

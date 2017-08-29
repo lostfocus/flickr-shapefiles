@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 722800,
+    "properties": {
+        "woe_id": 722800,
+        "place_id": "hCyXCFCeA56FfX8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Marco d'Alunzio, Sicily, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545129,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/722800_20101217_3ae80f9cdc.tar.gz"
+        },
+        "bbox": [
+            14.699192047119,
+            38.070796966553,
+            14.701894760132,
+            38.073635101318
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.699192,
+                        38.070797
+                    ],
+                    [
+                        14.699234,
+                        38.073517
+                    ],
+                    [
+                        14.701251,
+                        38.073635
+                    ],
+                    [
+                        14.701895,
+                        38.071102
+                    ],
+                    [
+                        14.699192,
+                        38.070797
+                    ]
+                ]
+            ]
+        ]
+    }
+}

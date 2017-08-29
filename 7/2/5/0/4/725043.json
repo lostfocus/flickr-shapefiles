@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 725043,
+    "properties": {
+        "woe_id": 725043,
+        "place_id": "1geBJbieA5mSw0s",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Torre d'Isola, Lombardy, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292475366,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/725043_20101216_b612b73148.tar.gz"
+        },
+        "bbox": [
+            9.0765953063965,
+            45.190021514893,
+            9.0992965698242,
+            45.21989440918
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.07917,
+                        45.219894
+                    ],
+                    [
+                        9.076595,
+                        45.216812
+                    ],
+                    [
+                        9.084448,
+                        45.203613
+                    ],
+                    [
+                        9.099297,
+                        45.190022
+                    ],
+                    [
+                        9.085822,
+                        45.192776
+                    ],
+                    [
+                        9.084448,
+                        45.203613
+                    ],
+                    [
+                        9.081015,
+                        45.219398
+                    ],
+                    [
+                        9.07917,
+                        45.219894
+                    ]
+                ]
+            ]
+        ]
+    }
+}

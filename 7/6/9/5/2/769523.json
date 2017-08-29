@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 769523,
+    "properties": {
+        "woe_id": 769523,
+        "place_id": "poR9bfaeB5XSd84",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "S Breijo, Galicia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292439939,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/769523_20101215_faa8e746a8.tar.gz"
+        },
+        "bbox": [
+            -7.8421778678894,
+            43.159111022949,
+            -7.8377151489258,
+            43.16255569458
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -7.839088,
+                        43.162243
+                    ],
+                    [
+                        -7.837715,
+                        43.159363
+                    ],
+                    [
+                        -7.838745,
+                        43.159111
+                    ],
+                    [
+                        -7.842178,
+                        43.161366
+                    ],
+                    [
+                        -7.839431,
+                        43.162556
+                    ],
+                    [
+                        -7.839088,
+                        43.162243
+                    ]
+                ]
+            ]
+        ]
+    }
+}

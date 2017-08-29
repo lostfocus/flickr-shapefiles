@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 723728,
+    "properties": {
+        "woe_id": 723728,
+        "place_id": "NMJp3aqeA59UVlE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sarissola, Liguria, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234477085,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3463\/shapefiles\/723728_20090212_b17c50303a.tar.gz"
+        },
+        "bbox": [
+            8.952130317688,
+            44.573051452637,
+            8.9560890197754,
+            44.574909210205
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.956089,
+                        44.574909
+                    ],
+                    [
+                        8.954629,
+                        44.573563
+                    ],
+                    [
+                        8.953342,
+                        44.573303
+                    ],
+                    [
+                        8.95213,
+                        44.573051
+                    ],
+                    [
+                        8.956089,
+                        44.574909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

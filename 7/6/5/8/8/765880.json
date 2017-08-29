@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 765880,
+    "properties": {
+        "woe_id": 765880,
+        "place_id": "S_1IXxeeB5ktHKY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Los Morales, Andalusia, Spain"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548601,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5284\/shapefiles\/765880_20101217_5368d8a14e.tar.gz"
+        },
+        "bbox": [
+            -4.1316738128662,
+            36.941078186035,
+            -4.1236062049866,
+            36.949962615967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -4.1314,
+                        36.945297
+                    ],
+                    [
+                        -4.131674,
+                        36.945705
+                    ],
+                    [
+                        -4.129657,
+                        36.948933
+                    ],
+                    [
+                        -4.125053,
+                        36.949963
+                    ],
+                    [
+                        -4.123606,
+                        36.941078
+                    ],
+                    [
+                        -4.1314,
+                        36.945297
+                    ]
+                ]
+            ]
+        ]
+    }
+}
