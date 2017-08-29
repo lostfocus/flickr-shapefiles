@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 782424,
+    "properties": {
+        "woe_id": 782424,
+        "place_id": "3QbHyR.eCZ6bCaw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Felsenau, Berne, BE, CH, Switzerland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458764,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/782424_20101216_03a5fc9688.tar.gz"
+        },
+        "bbox": [
+            7.4408330917358,
+            46.971664428711,
+            7.4448561668396,
+            46.975215911865
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.442722,
+                        46.973457
+                    ],
+                    [
+                        7.444589,
+                        46.975216
+                    ],
+                    [
+                        7.444856,
+                        46.972794
+                    ],
+                    [
+                        7.440833,
+                        46.971664
+                    ],
+                    [
+                        7.442722,
+                        46.973457
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225499,
+    "properties": {
+        "woe_id": 7225499,
+        "place_id": "K54H3QWeA565ZzLm",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Taigum, Brisbane, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536845,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/7225499_20101216_c686aaf129.tar.gz"
+        },
+        "bbox": [
+            153.04476928711,
+            -27.350793838501,
+            153.04885864258,
+            -27.347297668457
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        153.046509,
+                        -27.350794
+                    ],
+                    [
+                        153.044769,
+                        -27.350367
+                    ],
+                    [
+                        153.046677,
+                        -27.348269
+                    ],
+                    [
+                        153.048859,
+                        -27.347298
+                    ],
+                    [
+                        153.047531,
+                        -27.350498
+                    ],
+                    [
+                        153.046509,
+                        -27.350794
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226109,
+    "properties": {
+        "woe_id": 7226109,
+        "place_id": "DPANFCSeA55R08cw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alexander Heights, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524258,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/7226109_20101216_26a1442645.tar.gz"
+        },
+        "bbox": [
+            115.85079956055,
+            -31.836841583252,
+            115.85473632812,
+            -31.829950332642
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.8508,
+                        -31.835958
+                    ],
+                    [
+                        115.851074,
+                        -31.82995
+                    ],
+                    [
+                        115.854736,
+                        -31.831755
+                    ],
+                    [
+                        115.85405,
+                        -31.83675
+                    ],
+                    [
+                        115.85392,
+                        -31.836842
+                    ],
+                    [
+                        115.8508,
+                        -31.835958
+                    ]
+                ]
+            ]
+        ]
+    }
+}

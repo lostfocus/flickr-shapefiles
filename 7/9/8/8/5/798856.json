@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 798856,
+    "properties": {
+        "woe_id": 798856,
+        "place_id": "IlPP6IaeCJTXtfA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Praha-\u00c5t\u00e4\u0167rboholy, Prague 10, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451183,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/798856_20101215_8073b019eb.tar.gz"
+        },
+        "bbox": [
+            14.539375305176,
+            50.075000762939,
+            14.544352531433,
+            50.079273223877
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.539375,
+                        50.075375
+                    ],
+                    [
+                        14.539697,
+                        50.075974
+                    ],
+                    [
+                        14.540405,
+                        50.079273
+                    ],
+                    [
+                        14.544353,
+                        50.075539
+                    ],
+                    [
+                        14.5405,
+                        50.075001
+                    ],
+                    [
+                        14.539375,
+                        50.075375
+                    ]
+                ]
+            ]
+        ]
+    }
+}

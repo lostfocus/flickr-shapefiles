@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225350,
+    "properties": {
+        "woe_id": 7225350,
+        "place_id": "bIRK9ZSeA55.gQ6S",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Isaacs, Canberra, ACT, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523796,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/7225350_20101216_50151a20fd.tar.gz"
+        },
+        "bbox": [
+            149.11050415039,
+            -35.36833190918,
+            149.11335754395,
+            -35.367500305176
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.110504,
+                        -35.368
+                    ],
+                    [
+                        149.110687,
+                        -35.367691
+                    ],
+                    [
+                        149.110992,
+                        -35.3675
+                    ],
+                    [
+                        149.113358,
+                        -35.367634
+                    ],
+                    [
+                        149.111832,
+                        -35.368332
+                    ],
+                    [
+                        149.110504,
+                        -35.368
+                    ]
+                ]
+            ]
+        ]
+    }
+}

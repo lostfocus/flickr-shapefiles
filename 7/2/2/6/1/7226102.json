@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226102,
+    "properties": {
+        "woe_id": 7226102,
+        "place_id": "rn8h9z6eA57nofBc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Balga, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239550325,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3348\/shapefiles\/7226102_20090412_4cd072408f.tar.gz"
+        },
+        "bbox": [
+            115.83721160889,
+            -31.852899551392,
+            115.83897399902,
+            -31.852230072021
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.837891,
+                        -31.852509
+                    ],
+                    [
+                        115.837212,
+                        -31.85223
+                    ],
+                    [
+                        115.838341,
+                        -31.852535
+                    ],
+                    [
+                        115.838577,
+                        -31.852646
+                    ],
+                    [
+                        115.838974,
+                        -31.8529
+                    ],
+                    [
+                        115.837891,
+                        -31.852509
+                    ]
+                ]
+            ]
+        ]
+    }
+}

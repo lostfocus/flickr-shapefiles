@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 7225721,
+    "properties": {
+        "woe_id": 7225721,
+        "place_id": "ssFfrOSeA56X2zOT",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Dundas, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539212,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5046\/shapefiles\/7225721_20101216_346d07ba36.tar.gz"
+        },
+        "bbox": [
+            151.03837585449,
+            -33.806003570557,
+            151.04643249512,
+            -33.798015594482
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.041748,
+                        -33.806004
+                    ],
+                    [
+                        151.038376,
+                        -33.802963
+                    ],
+                    [
+                        151.041061,
+                        -33.802189
+                    ],
+                    [
+                        151.043915,
+                        -33.798016
+                    ],
+                    [
+                        151.046432,
+                        -33.802319
+                    ],
+                    [
+                        151.044144,
+                        -33.804218
+                    ],
+                    [
+                        151.041748,
+                        -33.806004
+                    ]
+                ]
+            ]
+        ]
+    }
+}

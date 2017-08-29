@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225960,
+    "properties": {
+        "woe_id": 7225960,
+        "place_id": "nzUzP6CeA54nfDWE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Valley View, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534039,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/7225960_20101216_3476a4844b.tar.gz"
+        },
+        "bbox": [
+            138.66842651367,
+            -34.842090606689,
+            138.67166137695,
+            -34.836826324463
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.668808,
+                        -34.842091
+                    ],
+                    [
+                        138.668427,
+                        -34.841721
+                    ],
+                    [
+                        138.669296,
+                        -34.841511
+                    ],
+                    [
+                        138.670959,
+                        -34.836826
+                    ],
+                    [
+                        138.671661,
+                        -34.841984
+                    ],
+                    [
+                        138.668808,
+                        -34.842091
+                    ]
+                ]
+            ]
+        ]
+    }
+}

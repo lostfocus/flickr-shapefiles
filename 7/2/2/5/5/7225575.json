@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 7225575,
+    "properties": {
+        "woe_id": 7225575,
+        "place_id": "1ZATqrSeA567TPf5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bonnyrigg, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525711,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/7225575_20101216_a80ec9792e.tar.gz"
+        },
+        "bbox": [
+            150.88185119629,
+            -33.887928009033,
+            150.88269042969,
+            -33.886798858643
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        150.881882,
+                        -33.886833
+                    ],
+                    [
+                        150.882004,
+                        -33.887001
+                    ],
+                    [
+                        150.88269,
+                        -33.887928
+                    ],
+                    [
+                        150.881882,
+                        -33.886917
+                    ],
+                    [
+                        150.881851,
+                        -33.886806
+                    ],
+                    [
+                        150.881851,
+                        -33.886799
+                    ],
+                    [
+                        150.881882,
+                        -33.886833
+                    ]
+                ]
+            ]
+        ]
+    }
+}

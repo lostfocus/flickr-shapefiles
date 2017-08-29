@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 700613,
+    "properties": {
+        "woe_id": 700613,
+        "place_id": "aBouaqeeAZzdBcc",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unkersdorf, Dresden, SN, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229723783,
+        "alpha": 1.0e-5,
+        "points": 103,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3293\/shapefiles\/700613_20081219_1db7913d27.tar.gz"
+        },
+        "bbox": [
+            13.537043571472,
+            51.050971984863,
+            13.538492202759,
+            51.054557800293
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.53757,
+                        51.051594
+                    ],
+                    [
+                        13.537441,
+                        51.052624
+                    ],
+                    [
+                        13.537044,
+                        51.054558
+                    ],
+                    [
+                        13.538492,
+                        51.052589
+                    ],
+                    [
+                        13.538482,
+                        51.050972
+                    ],
+                    [
+                        13.53757,
+                        51.051594
+                    ]
+                ]
+            ]
+        ]
+    }
+}

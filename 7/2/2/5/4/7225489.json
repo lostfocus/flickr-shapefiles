@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 7225489,
+    "properties": {
+        "woe_id": 7225489,
+        "place_id": "rbQ3f5KeA57OVzge",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Salisbury, Brisbane, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529288,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5161\/shapefiles\/7225489_20101216_6e4115932c.tar.gz"
+        },
+        "bbox": [
+            153.02478027344,
+            -27.548530578613,
+            153.03176879883,
+            -27.544618606567
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        153.02478,
+                        -27.548531
+                    ],
+                    [
+                        153.028229,
+                        -27.544619
+                    ],
+                    [
+                        153.031769,
+                        -27.545111
+                    ],
+                    [
+                        153.028244,
+                        -27.544636
+                    ],
+                    [
+                        153.02478,
+                        -27.548531
+                    ]
+                ]
+            ]
+        ]
+    }
+}

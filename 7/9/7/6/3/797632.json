@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 797632,
+    "properties": {
+        "woe_id": 797632,
+        "place_id": "2oXXwXmeCJsKW78",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "R\u00fe\u017eov\u00fd, Brno, Jihomoravsk\u00fd, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548603,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/797632_20101217_e453c7bfc5.tar.gz"
+        },
+        "bbox": [
+            16.629695892334,
+            49.135028839111,
+            16.632076263428,
+            49.136772155762
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.631025,
+                        49.136772
+                    ],
+                    [
+                        16.632076,
+                        49.136517
+                    ],
+                    [
+                        16.631842,
+                        49.136238
+                    ],
+                    [
+                        16.629696,
+                        49.135029
+                    ],
+                    [
+                        16.629696,
+                        49.135284
+                    ],
+                    [
+                        16.631025,
+                        49.136772
+                    ]
+                ]
+            ]
+        ]
+    }
+}

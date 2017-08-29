@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226094,
+    "properties": {
+        "woe_id": 7226094,
+        "place_id": "RBOAcn6eA57TOPQ8",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Maida Vale, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539874,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/7226094_20101216_9764a64347.tar.gz"
+        },
+        "bbox": [
+            116.01918792725,
+            -31.954782485962,
+            116.02317810059,
+            -31.951578140259
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        116.022499,
+                        -31.954334
+                    ],
+                    [
+                        116.019188,
+                        -31.951681
+                    ],
+                    [
+                        116.021973,
+                        -31.951578
+                    ],
+                    [
+                        116.023178,
+                        -31.954401
+                    ],
+                    [
+                        116.022835,
+                        -31.954782
+                    ],
+                    [
+                        116.022499,
+                        -31.954334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

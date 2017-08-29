@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 769,
+    "properties": {
+        "woe_id": 769,
+        "place_id": "YAnFsYCeB5U",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kings-Clear, Kings-Clear, NB, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248231499,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2650\/shapefiles\/769_20090722_a2c10181cc.tar.gz"
+        },
+        "bbox": [
+            -66.933517456055,
+            45.862518310547,
+            -66.930084228516,
+            45.863716125488
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -66.930344,
+                        45.863655
+                    ],
+                    [
+                        -66.930084,
+                        45.863716
+                    ],
+                    [
+                        -66.930328,
+                        45.863396
+                    ],
+                    [
+                        -66.932144,
+                        45.862518
+                    ],
+                    [
+                        -66.933517,
+                        45.863235
+                    ],
+                    [
+                        -66.930344,
+                        45.863655
+                    ]
+                ]
+            ]
+        ]
+    }
+}

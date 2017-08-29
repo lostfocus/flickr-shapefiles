@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 7225306,
+    "properties": {
+        "woe_id": 7225306,
+        "place_id": "k7bT9uueA55orukG",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Monash, Canberra, ACT, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458057,
+        "alpha": 1.0e-5,
+        "points": 26,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5170\/shapefiles\/7225306_20101216_6b2c73bec1.tar.gz"
+        },
+        "bbox": [
+            149.08717346191,
+            -35.417072296143,
+            149.09376525879,
+            -35.411556243896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.090607,
+                        -35.411602
+                    ],
+                    [
+                        149.090836,
+                        -35.412666
+                    ],
+                    [
+                        149.093765,
+                        -35.417072
+                    ],
+                    [
+                        149.090759,
+                        -35.412708
+                    ],
+                    [
+                        149.087173,
+                        -35.413502
+                    ],
+                    [
+                        149.090393,
+                        -35.411556
+                    ],
+                    [
+                        149.090607,
+                        -35.411602
+                    ]
+                ]
+            ]
+        ]
+    }
+}

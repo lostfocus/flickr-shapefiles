@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226126,
+    "properties": {
+        "woe_id": 7226126,
+        "place_id": "MbcsGUGeA54O2UVt",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Carlisle, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292448746,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/7226126_20101215_185d733f7f.tar.gz"
+        },
+        "bbox": [
+            115.90183258057,
+            -31.985166549683,
+            115.90977478027,
+            -31.979621887207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.903473,
+                        -31.985167
+                    ],
+                    [
+                        115.901833,
+                        -31.984091
+                    ],
+                    [
+                        115.906235,
+                        -31.982489
+                    ],
+                    [
+                        115.909775,
+                        -31.979622
+                    ],
+                    [
+                        115.906235,
+                        -31.982508
+                    ],
+                    [
+                        115.903473,
+                        -31.985167
+                    ]
+                ]
+            ]
+        ]
+    }
+}

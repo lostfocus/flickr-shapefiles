@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 716386,
+    "properties": {
+        "woe_id": 716386,
+        "place_id": "VDeHnt6eAJogCE0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Gretta, Trieste, FV, IT, Italy"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239570976,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3557\/shapefiles\/716386_20090412_6252f084f1.tar.gz"
+        },
+        "bbox": [
+            13.755741119385,
+            45.664714813232,
+            13.760696411133,
+            45.670143127441
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.760696,
+                        45.66626
+                    ],
+                    [
+                        13.760547,
+                        45.664806
+                    ],
+                    [
+                        13.755741,
+                        45.664715
+                    ],
+                    [
+                        13.759453,
+                        45.667034
+                    ],
+                    [
+                        13.759088,
+                        45.670143
+                    ],
+                    [
+                        13.760696,
+                        45.66626
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 707004,
+    "properties": {
+        "woe_id": 707004,
+        "place_id": "fMwIp6yeAZtMwUI",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Winkeln, Munchengladbach, NW, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292466783,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/707004_20101216_976564b907.tar.gz"
+        },
+        "bbox": [
+            6.3671350479126,
+            51.193405151367,
+            6.3731861114502,
+            51.197311401367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.373186,
+                        51.197311
+                    ],
+                    [
+                        6.373186,
+                        51.194138
+                    ],
+                    [
+                        6.367135,
+                        51.193405
+                    ],
+                    [
+                        6.37045,
+                        51.197269
+                    ],
+                    [
+                        6.373186,
+                        51.197311
+                    ]
+                ]
+            ]
+        ]
+    }
+}

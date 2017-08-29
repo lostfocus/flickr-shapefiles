@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226128,
+    "properties": {
+        "woe_id": 7226128,
+        "place_id": "ulOfjX2eA54sqyXn",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Rivervale, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540768,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/7226128_20101216_44e4c68c8b.tar.gz"
+        },
+        "bbox": [
+            115.9266204834,
+            -31.965560913086,
+            115.92855072021,
+            -31.964105606079
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.928551,
+                        -31.964268
+                    ],
+                    [
+                        115.92852,
+                        -31.964378
+                    ],
+                    [
+                        115.92662,
+                        -31.965561
+                    ],
+                    [
+                        115.928398,
+                        -31.964106
+                    ],
+                    [
+                        115.928482,
+                        -31.964159
+                    ],
+                    [
+                        115.928551,
+                        -31.964268
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 7225833,
+    "properties": {
+        "woe_id": 7225833,
+        "place_id": "cNPT3maeA56KAnyR",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kippa-Ring, Brisbane, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542347,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/7225833_20101216_65abde037f.tar.gz"
+        },
+        "bbox": [
+            153.08726501465,
+            -27.226879119873,
+            153.08906555176,
+            -27.222730636597
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        153.088242,
+                        -27.226049
+                    ],
+                    [
+                        153.087265,
+                        -27.222731
+                    ],
+                    [
+                        153.089066,
+                        -27.223528
+                    ],
+                    [
+                        153.088531,
+                        -27.226879
+                    ],
+                    [
+                        153.088242,
+                        -27.226049
+                    ]
+                ]
+            ]
+        ]
+    }
+}

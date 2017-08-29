@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 700826,
+    "properties": {
+        "woe_id": 700826,
+        "place_id": "4HnPWrSeAZw8kSg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Unterb\u00fcrg, Nuremberg, BY, DE, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538503,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/700826_20101216_4ccc2acce6.tar.gz"
+        },
+        "bbox": [
+            11.141680717468,
+            49.460098266602,
+            11.15070438385,
+            49.464542388916
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.150693,
+                        49.463711
+                    ],
+                    [
+                        11.150704,
+                        49.462486
+                    ],
+                    [
+                        11.145329,
+                        49.460098
+                    ],
+                    [
+                        11.141681,
+                        49.462994
+                    ],
+                    [
+                        11.144428,
+                        49.463284
+                    ],
+                    [
+                        11.149465,
+                        49.464542
+                    ],
+                    [
+                        11.150693,
+                        49.463711
+                    ]
+                ]
+            ]
+        ]
+    }
+}

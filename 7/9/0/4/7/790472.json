@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 790472,
+    "properties": {
+        "woe_id": 790472,
+        "place_id": "1hFVk5KeCJydhrs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Jaklovec, Ostrava, Moravskoslezsk\u00fd, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543803,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5043\/shapefiles\/790472_20101216_a454b34426.tar.gz"
+        },
+        "bbox": [
+            18.319444656372,
+            49.840957641602,
+            18.326225280762,
+            49.845909118652
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.323769,
+                        49.845909
+                    ],
+                    [
+                        18.326225,
+                        49.843128
+                    ],
+                    [
+                        18.324894,
+                        49.840958
+                    ],
+                    [
+                        18.322792,
+                        49.843349
+                    ],
+                    [
+                        18.319445,
+                        49.842499
+                    ],
+                    [
+                        18.322598,
+                        49.843575
+                    ],
+                    [
+                        18.323769,
+                        49.845909
+                    ]
+                ]
+            ]
+        ]
+    }
+}

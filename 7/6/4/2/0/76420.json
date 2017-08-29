@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 76420,
+    "properties": {
+        "woe_id": 76420,
+        "place_id": "YA7ERuueB5i30Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Santa Cruz, Santo Domingo, Distrito Nacional, DO, Dominican Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465644,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/76420_20101216_2390459beb.tar.gz"
+        },
+        "bbox": [
+            -69.919807434082,
+            18.530197143555,
+            -69.919052124023,
+            18.530876159668
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -69.919807,
+                        18.530476
+                    ],
+                    [
+                        -69.919052,
+                        18.530876
+                    ],
+                    [
+                        -69.919128,
+                        18.530645
+                    ],
+                    [
+                        -69.91951,
+                        18.530197
+                    ],
+                    [
+                        -69.919807,
+                        18.530476
+                    ]
+                ]
+            ]
+        ]
+    }
+}

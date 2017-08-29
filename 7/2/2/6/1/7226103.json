@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7226103,
+    "properties": {
+        "woe_id": 7226103,
+        "place_id": "tvXCGv2eA56qbo1G",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Noranda, Perth, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530075,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/7226103_20101216_01f1aa355c.tar.gz"
+        },
+        "bbox": [
+            115.90282440186,
+            -31.873891830444,
+            115.90755462646,
+            -31.866834640503
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.904541,
+                        -31.869202
+                    ],
+                    [
+                        115.903,
+                        -31.866835
+                    ],
+                    [
+                        115.905289,
+                        -31.868938
+                    ],
+                    [
+                        115.907555,
+                        -31.871271
+                    ],
+                    [
+                        115.902824,
+                        -31.873892
+                    ],
+                    [
+                        115.904541,
+                        -31.869202
+                    ]
+                ]
+            ]
+        ]
+    }
+}

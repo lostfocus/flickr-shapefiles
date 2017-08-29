@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225642,
+    "properties": {
+        "woe_id": 7225642,
+        "place_id": "rz5ZqmmeA56vUCYL",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Moorebank, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292521027,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5085\/shapefiles\/7225642_20101216_914e66bcec.tar.gz"
+        },
+        "bbox": [
+            150.92266845703,
+            -33.947204589844,
+            150.9278717041,
+            -33.939666748047
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        150.922668,
+                        -33.939667
+                    ],
+                    [
+                        150.9245,
+                        -33.939667
+                    ],
+                    [
+                        150.92717,
+                        -33.944332
+                    ],
+                    [
+                        150.927872,
+                        -33.947205
+                    ],
+                    [
+                        150.923752,
+                        -33.944237
+                    ],
+                    [
+                        150.922668,
+                        -33.939667
+                    ]
+                ]
+            ]
+        ]
+    }
+}

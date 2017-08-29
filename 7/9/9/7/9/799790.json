@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 799790,
+    "properties": {
+        "woe_id": 799790,
+        "place_id": "ZylYY_.eCJUIXbw",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "T\u0159ebonice, Prague 5, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518385,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5245\/shapefiles\/799790_20101216_2dac17f4e3.tar.gz"
+        },
+        "bbox": [
+            14.292666435242,
+            50.049259185791,
+            14.297481536865,
+            50.051315307617
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.296442,
+                        50.049622
+                    ],
+                    [
+                        14.292666,
+                        50.049488
+                    ],
+                    [
+                        14.296102,
+                        50.051315
+                    ],
+                    [
+                        14.297333,
+                        50.050499
+                    ],
+                    [
+                        14.297482,
+                        50.049259
+                    ],
+                    [
+                        14.296442,
+                        50.049622
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 7225984,
+    "properties": {
+        "woe_id": 7225984,
+        "place_id": "5AJRvDieA553tob9",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Avondale Heights, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538122,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/7225984_20101216_7103f4936c.tar.gz"
+        },
+        "bbox": [
+            144.86366271973,
+            -37.77152633667,
+            144.8723449707,
+            -37.768203735352
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.872345,
+                        -37.768204
+                    ],
+                    [
+                        144.869843,
+                        -37.770985
+                    ],
+                    [
+                        144.863663,
+                        -37.771526
+                    ],
+                    [
+                        144.863708,
+                        -37.769375
+                    ],
+                    [
+                        144.86734,
+                        -37.768333
+                    ],
+                    [
+                        144.872345,
+                        -37.768204
+                    ]
+                ]
+            ]
+        ]
+    }
+}

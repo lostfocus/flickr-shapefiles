@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 786603,
+    "properties": {
+        "woe_id": 786603,
+        "place_id": "aUHccHCeCZpQCSo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Brno-Bosonohy, Brno, Jihomoravsk\u00fd, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530675,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/786603_20101216_a6023db144.tar.gz"
+        },
+        "bbox": [
+            16.529304504395,
+            49.170143127441,
+            16.534809112549,
+            49.176300048828
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        16.530905,
+                        49.175476
+                    ],
+                    [
+                        16.534809,
+                        49.174843
+                    ],
+                    [
+                        16.534252,
+                        49.170143
+                    ],
+                    [
+                        16.530807,
+                        49.175358
+                    ],
+                    [
+                        16.529305,
+                        49.1763
+                    ],
+                    [
+                        16.530905,
+                        49.175476
+                    ]
+                ]
+            ]
+        ]
+    }
+}
