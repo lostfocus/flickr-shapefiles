@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 646721,
+    "properties": {
+        "woe_id": 646721,
+        "place_id": "z_5i01GfBZoyqPY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Eging, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234768216,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3244\/shapefiles\/646721_20090216_948543d67a.tar.gz"
+        },
+        "bbox": [
+            13.261871337891,
+            48.715034484863,
+            13.267021179199,
+            48.718147277832
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.262729,
+                        48.716732
+                    ],
+                    [
+                        13.264617,
+                        48.718147
+                    ],
+                    [
+                        13.267021,
+                        48.717922
+                    ],
+                    [
+                        13.261871,
+                        48.715034
+                    ],
+                    [
+                        13.262729,
+                        48.716732
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 604851,
+    "properties": {
+        "woe_id": 604851,
+        "place_id": "MZuEQ26fAZiFhwA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Vaudreuil, Haute-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234755002,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3423\/shapefiles\/604851_20090216_3f7bdc094b.tar.gz"
+        },
+        "bbox": [
+            1.2055770158768,
+            49.254837036133,
+            1.212121963501,
+            49.257499694824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.212122,
+                        49.256832
+                    ],
+                    [
+                        1.205577,
+                        49.254837
+                    ],
+                    [
+                        1.208871,
+                        49.257442
+                    ],
+                    [
+                        1.209011,
+                        49.2575
+                    ],
+                    [
+                        1.212122,
+                        49.256832
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 646115,
+    "properties": {
+        "woe_id": 646115,
+        "place_id": "jN3rdHqfBZoEOTo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Duttenberg, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234732809,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3211\/shapefiles\/646115_20090215_2aef4ba123.tar.gz"
+        },
+        "bbox": [
+            9.1838827133179,
+            49.250522613525,
+            9.196795463562,
+            49.252979278564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.196795,
+                        49.250523
+                    ],
+                    [
+                        9.196216,
+                        49.250706
+                    ],
+                    [
+                        9.183883,
+                        49.250999
+                    ],
+                    [
+                        9.19649,
+                        49.252979
+                    ],
+                    [
+                        9.196795,
+                        49.250523
+                    ]
+                ]
+            ]
+        ]
+    }
+}

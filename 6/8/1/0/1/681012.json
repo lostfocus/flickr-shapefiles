@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 681012,
+    "properties": {
+        "woe_id": 681012,
+        "place_id": "m_HgPLmfCZ23HWs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oberdorf, Thuringia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443697,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/681012_20101215_905bc5a8e7.tar.gz"
+        },
+        "bbox": [
+            11.336215019226,
+            50.682647705078,
+            11.376600265503,
+            50.694671630859
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.336215,
+                        50.694611
+                    ],
+                    [
+                        11.356258,
+                        50.689552
+                    ],
+                    [
+                        11.3766,
+                        50.687599
+                    ],
+                    [
+                        11.369218,
+                        50.682648
+                    ],
+                    [
+                        11.356258,
+                        50.689552
+                    ],
+                    [
+                        11.336232,
+                        50.694672
+                    ],
+                    [
+                        11.336215,
+                        50.694611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 657702,
+    "properties": {
+        "woe_id": 657702,
+        "place_id": "EkVWBEifBJuIvLk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Haslach, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234808171,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3481\/shapefiles\/657702_20090216_43d852595b.tar.gz"
+        },
+        "bbox": [
+            10.316418647766,
+            47.712390899658,
+            10.323126792908,
+            47.720718383789
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.323127,
+                        47.720406
+                    ],
+                    [
+                        10.316419,
+                        47.712391
+                    ],
+                    [
+                        10.316944,
+                        47.720634
+                    ],
+                    [
+                        10.316956,
+                        47.720718
+                    ],
+                    [
+                        10.323127,
+                        47.720406
+                    ]
+                ]
+            ]
+        ]
+    }
+}

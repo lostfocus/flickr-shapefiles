@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 617979,
+    "properties": {
+        "woe_id": 617979,
+        "place_id": "4KzgEqWfAJsEBZ0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Prelles, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530605,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5008\/shapefiles\/617979_20101216_f519c78f24.tar.gz"
+        },
+        "bbox": [
+            6.5831489562988,
+            44.85046005249,
+            6.5944690704346,
+            44.860828399658
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.589746,
+                        44.858582
+                    ],
+                    [
+                        6.594469,
+                        44.85046
+                    ],
+                    [
+                        6.585617,
+                        44.851002
+                    ],
+                    [
+                        6.583149,
+                        44.860828
+                    ],
+                    [
+                        6.588733,
+                        44.858833
+                    ],
+                    [
+                        6.589746,
+                        44.858582
+                    ]
+                ]
+            ]
+        ]
+    }
+}

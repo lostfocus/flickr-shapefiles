@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 627032,
+    "properties": {
+        "woe_id": 627032,
+        "place_id": "Y4oa02KfA5urQE8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Sulpice, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234602366,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3421\/shapefiles\/627032_20090214_aaeb644b35.tar.gz"
+        },
+        "bbox": [
+            1.7840759754181,
+            44.561180114746,
+            1.7979810237885,
+            44.571514129639
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.790385,
+                        44.57008
+                    ],
+                    [
+                        1.797981,
+                        44.571514
+                    ],
+                    [
+                        1.791458,
+                        44.569435
+                    ],
+                    [
+                        1.784076,
+                        44.56118
+                    ],
+                    [
+                        1.790385,
+                        44.57008
+                    ]
+                ]
+            ]
+        ]
+    }
+}

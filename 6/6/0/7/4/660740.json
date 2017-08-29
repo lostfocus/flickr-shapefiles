@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 660740,
+    "properties": {
+        "woe_id": 660740,
+        "place_id": "AVqvPXefB5x2MQI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hofau, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234856404,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3323\/shapefiles\/660740_20090217_ca2992970e.tar.gz"
+        },
+        "bbox": [
+            12.127339363098,
+            47.85763168335,
+            12.138861656189,
+            47.860366821289
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.138862,
+                        47.857864
+                    ],
+                    [
+                        12.138175,
+                        47.857632
+                    ],
+                    [
+                        12.127339,
+                        47.858231
+                    ],
+                    [
+                        12.132005,
+                        47.860367
+                    ],
+                    [
+                        12.138862,
+                        47.857864
+                    ]
+                ]
+            ]
+        ]
+    }
+}

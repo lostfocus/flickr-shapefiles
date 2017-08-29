@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 652754,
+    "properties": {
+        "woe_id": 652754,
+        "place_id": "cvcZM_KfBJ5AUq0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Glasow, Brandenburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234565047,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3358\/shapefiles\/652754_20090213_a6ddf97f60.tar.gz"
+        },
+        "bbox": [
+            13.435420036316,
+            52.344097137451,
+            13.439559936523,
+            52.345024108887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.438914,
+                        52.345009
+                    ],
+                    [
+                        13.43949,
+                        52.345024
+                    ],
+                    [
+                        13.43956,
+                        52.344921
+                    ],
+                    [
+                        13.43542,
+                        52.344097
+                    ],
+                    [
+                        13.438914,
+                        52.345009
+                    ]
+                ]
+            ]
+        ]
+    }
+}

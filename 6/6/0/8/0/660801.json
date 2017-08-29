@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 660801,
+    "properties": {
+        "woe_id": 660801,
+        "place_id": "t.PJ_VufB5xDdqU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hofen, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247882161,
+        "alpha": 0.5,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2493\/shapefiles\/660801_20090718_a61515de5a.tar.gz"
+        },
+        "bbox": [
+            10.01525592804,
+            47.541847229004,
+            10.015669822693,
+            47.542316436768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.015524,
+                        47.542126
+                    ],
+                    [
+                        10.015574,
+                        47.542068
+                    ],
+                    [
+                        10.01567,
+                        47.541847
+                    ],
+                    [
+                        10.015415,
+                        47.542007
+                    ],
+                    [
+                        10.015371,
+                        47.542053
+                    ],
+                    [
+                        10.015256,
+                        47.542316
+                    ],
+                    [
+                        10.015524,
+                        47.542126
+                    ]
+                ]
+            ]
+        ]
+    }
+}

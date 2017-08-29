@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 616456,
+    "properties": {
+        "woe_id": 616456,
+        "place_id": "rEp5Z5CfAJoQrEY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Phalsbourg, Lorraine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234683003,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3530\/shapefiles\/616456_20090215_2b251c7f73.tar.gz"
+        },
+        "bbox": [
+            7.2383589744568,
+            48.76575088501,
+            7.260931968689,
+            48.769512176514
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.257714,
+                        48.767506
+                    ],
+                    [
+                        7.260932,
+                        48.765751
+                    ],
+                    [
+                        7.257585,
+                        48.767334
+                    ],
+                    [
+                        7.238359,
+                        48.769512
+                    ],
+                    [
+                        7.257714,
+                        48.767506
+                    ]
+                ]
+            ]
+        ]
+    }
+}

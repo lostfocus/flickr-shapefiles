@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 650076,
+    "properties": {
+        "woe_id": 650076,
+        "place_id": "jjBRHw2fBJyIdgA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Forchheim, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456024,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/650076_20101215_2139def79e.tar.gz"
+        },
+        "bbox": [
+            8.3122940063477,
+            48.974243164062,
+            8.3297605514526,
+            48.983005523682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.327165,
+                        48.982948
+                    ],
+                    [
+                        8.327379,
+                        48.983006
+                    ],
+                    [
+                        8.329589,
+                        48.982059
+                    ],
+                    [
+                        8.329761,
+                        48.981876
+                    ],
+                    [
+                        8.317551,
+                        48.974243
+                    ],
+                    [
+                        8.312294,
+                        48.974972
+                    ],
+                    [
+                        8.327165,
+                        48.982948
+                    ]
+                ]
+            ]
+        ]
+    }
+}

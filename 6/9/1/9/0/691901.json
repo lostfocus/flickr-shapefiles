@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 691901,
+    "properties": {
+        "woe_id": 691901,
+        "place_id": "wT5Rk6yfCJ3pwmM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Schillingsf\u00fcrst, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234920249,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3463\/shapefiles\/691901_20090218_d57b343491.tar.gz"
+        },
+        "bbox": [
+            10.255737304688,
+            49.28768157959,
+            10.265146255493,
+            49.290557861328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.265146,
+                        49.290558
+                    ],
+                    [
+                        10.26226,
+                        49.287682
+                    ],
+                    [
+                        10.255737,
+                        49.288635
+                    ],
+                    [
+                        10.26329,
+                        49.290371
+                    ],
+                    [
+                        10.265146,
+                        49.290558
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 601488,
+    "properties": {
+        "woe_id": 601488,
+        "place_id": "m5KD6_ufAZ17dIc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lardiers, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292535692,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/601488_20101216_25243dcc05.tar.gz"
+        },
+        "bbox": [
+            5.7113451957703,
+            44.05033493042,
+            5.7187271118164,
+            44.057800292969
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.714092,
+                        44.057739
+                    ],
+                    [
+                        5.716152,
+                        44.057613
+                    ],
+                    [
+                        5.718727,
+                        44.050335
+                    ],
+                    [
+                        5.715465,
+                        44.053421
+                    ],
+                    [
+                        5.711345,
+                        44.0578
+                    ],
+                    [
+                        5.714092,
+                        44.057739
+                    ]
+                ]
+            ]
+        ]
+    }
+}

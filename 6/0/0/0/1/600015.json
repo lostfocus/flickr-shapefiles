@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 600015,
+    "properties": {
+        "woe_id": 600015,
+        "place_id": "up4tmwmfAZzrvIA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Serre, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525104,
+        "alpha": 0.00015,
+        "points": 21,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/600015_20101216_48b4fdecce.tar.gz"
+        },
+        "bbox": [
+            1.3135089874268,
+            44.939304351807,
+            1.3164279460907,
+            44.941623687744
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.316428,
+                        44.940231
+                    ],
+                    [
+                        1.315902,
+                        44.939304
+                    ],
+                    [
+                        1.314566,
+                        44.939636
+                    ],
+                    [
+                        1.313509,
+                        44.940502
+                    ],
+                    [
+                        1.313681,
+                        44.941109
+                    ],
+                    [
+                        1.31411,
+                        44.941624
+                    ],
+                    [
+                        1.316428,
+                        44.940231
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 678666,
+    "properties": {
+        "woe_id": 678666,
+        "place_id": "Jqr_6dqfBpTNEYI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Neukirchen, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234475764,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3404\/shapefiles\/678666_20090212_55a4f78d14.tar.gz"
+        },
+        "bbox": [
+            12.752495765686,
+            48.973770141602,
+            12.755973815918,
+            48.97721862793
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.755974,
+                        48.974293
+                    ],
+                    [
+                        12.752496,
+                        48.97377
+                    ],
+                    [
+                        12.753902,
+                        48.977062
+                    ],
+                    [
+                        12.754075,
+                        48.977219
+                    ],
+                    [
+                        12.755974,
+                        48.974293
+                    ]
+                ]
+            ]
+        ]
+    }
+}

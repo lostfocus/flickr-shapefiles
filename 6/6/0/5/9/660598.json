@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 660598,
+    "properties": {
+        "woe_id": 660598,
+        "place_id": "v3_M6TyfB5yHtMw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "H\u00f6chstadt an der Aisch, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549437,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/660598_20101217_5d2847c466.tar.gz"
+        },
+        "bbox": [
+            10.80552482605,
+            49.696811676025,
+            10.818099021912,
+            49.711360931396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.806547,
+                        49.704067
+                    ],
+                    [
+                        10.805525,
+                        49.705334
+                    ],
+                    [
+                        10.807932,
+                        49.711361
+                    ],
+                    [
+                        10.818099,
+                        49.704945
+                    ],
+                    [
+                        10.814473,
+                        49.696812
+                    ],
+                    [
+                        10.806547,
+                        49.704067
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 624335,
+    "properties": {
+        "woe_id": 624335,
+        "place_id": "dOpPcGufA5iyzFk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Germain, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539632,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5282\/shapefiles\/624335_20101216_bdb88d2e7e.tar.gz"
+        },
+        "bbox": [
+            -0.39061498641968,
+            49.186580657959,
+            -0.38323399424553,
+            49.19799041748
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.383775,
+                        49.19799
+                    ],
+                    [
+                        -0.383234,
+                        49.197578
+                    ],
+                    [
+                        -0.390342,
+                        49.186581
+                    ],
+                    [
+                        -0.390615,
+                        49.197411
+                    ],
+                    [
+                        -0.385712,
+                        49.19788
+                    ],
+                    [
+                        -0.383775,
+                        49.19799
+                    ]
+                ]
+            ]
+        ]
+    }
+}

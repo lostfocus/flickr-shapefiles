@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 639723,
+    "properties": {
+        "woe_id": 639723,
+        "place_id": "C_r7itifApW1xQw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Bockholt, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234540806,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3299\/shapefiles\/639723_20090213_827ebfa0a8.tar.gz"
+        },
+        "bbox": [
+            7.6883687973022,
+            52.053684234619,
+            7.6895709037781,
+            52.055320739746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.689571,
+                        52.054626
+                    ],
+                    [
+                        7.689292,
+                        52.053684
+                    ],
+                    [
+                        7.688369,
+                        52.054401
+                    ],
+                    [
+                        7.688798,
+                        52.055321
+                    ],
+                    [
+                        7.689571,
+                        52.054626
+                    ]
+                ]
+            ]
+        ]
+    }
+}

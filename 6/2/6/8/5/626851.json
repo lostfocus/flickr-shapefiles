@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 626851,
+    "properties": {
+        "woe_id": 626851,
+        "place_id": "viXtSPCfA5qaMg4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Saturnin, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458385,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/626851_20101216_714d51d62d.tar.gz"
+        },
+        "bbox": [
+            4.9201788902283,
+            43.948955535889,
+            4.9421310424805,
+            43.959800720215
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.929471,
+                        43.957035
+                    ],
+                    [
+                        4.942131,
+                        43.959122
+                    ],
+                    [
+                        4.938461,
+                        43.955036
+                    ],
+                    [
+                        4.931488,
+                        43.948956
+                    ],
+                    [
+                        4.920179,
+                        43.959801
+                    ],
+                    [
+                        4.929471,
+                        43.957035
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 613250,
+    "properties": {
+        "woe_id": 613250,
+        "place_id": "JwIKlEefAJ9lWOQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Morigny, Ile-de-France, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234824372,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3508\/shapefiles\/613250_20090216_289565e972.tar.gz"
+        },
+        "bbox": [
+            2.1758069992065,
+            48.442836761475,
+            2.2000980377197,
+            48.447536468506
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        2.186107,
+                        48.447536
+                    ],
+                    [
+                        2.200098,
+                        48.445827
+                    ],
+                    [
+                        2.186279,
+                        48.446171
+                    ],
+                    [
+                        2.175807,
+                        48.442837
+                    ],
+                    [
+                        2.186107,
+                        48.447536
+                    ]
+                ]
+            ]
+        ]
+    }
+}

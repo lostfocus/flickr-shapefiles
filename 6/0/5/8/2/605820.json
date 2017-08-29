@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 605820,
+    "properties": {
+        "woe_id": 605820,
+        "place_id": "K7enAi6fAZntgtc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Chappas, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530495,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/605820_20101216_d8cea55147.tar.gz"
+        },
+        "bbox": [
+            6.3523578643799,
+            44.514377593994,
+            6.3614268302917,
+            44.532001495361
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.358966,
+                        44.528214
+                    ],
+                    [
+                        6.359624,
+                        44.526436
+                    ],
+                    [
+                        6.361427,
+                        44.514378
+                    ],
+                    [
+                        6.352358,
+                        44.523872
+                    ],
+                    [
+                        6.356964,
+                        44.532001
+                    ],
+                    [
+                        6.358966,
+                        44.528214
+                    ]
+                ]
+            ]
+        ]
+    }
+}

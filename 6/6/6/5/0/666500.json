@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 666500,
+    "properties": {
+        "woe_id": 666500,
+        "place_id": "w6s7qpWfB5pzgUA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Klein Medewege, Mecklenburg-Vorpommern, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453616,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/666500_20101215_ecba2ab897.tar.gz"
+        },
+        "bbox": [
+            11.357352256775,
+            53.648555755615,
+            11.377029418945,
+            53.664184570312
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.365871,
+                        53.650562
+                    ],
+                    [
+                        11.357352,
+                        53.663624
+                    ],
+                    [
+                        11.358103,
+                        53.664185
+                    ],
+                    [
+                        11.377029,
+                        53.661831
+                    ],
+                    [
+                        11.374368,
+                        53.652954
+                    ],
+                    [
+                        11.369733,
+                        53.648556
+                    ],
+                    [
+                        11.365871,
+                        53.650562
+                    ]
+                ]
+            ]
+        ]
+    }
+}

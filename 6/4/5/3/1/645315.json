@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 645315,
+    "properties": {
+        "woe_id": 645315,
+        "place_id": "iURvHTmfBZlKSKM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Dornau, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234744327,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3644\/shapefiles\/645315_20090216_6c5f5d0603.tar.gz"
+        },
+        "bbox": [
+            9.1838083267212,
+            49.895961761475,
+            9.1874771118164,
+            49.897701263428
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.185299,
+                        49.897701
+                    ],
+                    [
+                        9.187477,
+                        49.895962
+                    ],
+                    [
+                        9.183808,
+                        49.896526
+                    ],
+                    [
+                        9.18383,
+                        49.897087
+                    ],
+                    [
+                        9.185299,
+                        49.897701
+                    ]
+                ]
+            ]
+        ]
+    }
+}

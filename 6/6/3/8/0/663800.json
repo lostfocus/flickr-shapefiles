@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 663800,
+    "properties": {
+        "woe_id": 663800,
+        "place_id": "HtSlz7afB590vk0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ittersbach, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292452555,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/663800_20101215_c3d832012a.tar.gz"
+        },
+        "bbox": [
+            8.5068387985229,
+            48.863235473633,
+            8.5164642333984,
+            48.88325881958
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.508052,
+                        48.883259
+                    ],
+                    [
+                        8.509726,
+                        48.882652
+                    ],
+                    [
+                        8.513846,
+                        48.880692
+                    ],
+                    [
+                        8.516464,
+                        48.863235
+                    ],
+                    [
+                        8.506839,
+                        48.866379
+                    ],
+                    [
+                        8.508911,
+                        48.881424
+                    ],
+                    [
+                        8.508052,
+                        48.883259
+                    ]
+                ]
+            ]
+        ]
+    }
+}

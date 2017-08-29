@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 625121,
+    "properties": {
+        "woe_id": 625121,
+        "place_id": "EKzbsyKfA5lvApI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Saint-Laurent, Basse-Normandie, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234680734,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3625\/shapefiles\/625121_20090215_27f86c8721.tar.gz"
+        },
+        "bbox": [
+            -1.1245529651642,
+            48.750896453857,
+            -1.1211199760437,
+            48.751392364502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.124553,
+                        48.75098
+                    ],
+                    [
+                        -1.122386,
+                        48.751392
+                    ],
+                    [
+                        -1.12112,
+                        48.751324
+                    ],
+                    [
+                        -1.124467,
+                        48.750896
+                    ],
+                    [
+                        -1.124553,
+                        48.75098
+                    ]
+                ]
+            ]
+        ]
+    }
+}

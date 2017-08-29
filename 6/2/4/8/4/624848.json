@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 624848,
+    "properties": {
+        "woe_id": 624848,
+        "place_id": "mbJGofGfA5j14fM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Jean, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247753042,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2623\/shapefiles\/624848_20090716_d235808a60.tar.gz"
+        },
+        "bbox": [
+            -1.1988830566406,
+            43.157108306885,
+            -1.1875530481339,
+            43.171882629395
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.193771,
+                        43.165367
+                    ],
+                    [
+                        -1.187553,
+                        43.157108
+                    ],
+                    [
+                        -1.196822,
+                        43.165245
+                    ],
+                    [
+                        -1.198883,
+                        43.171883
+                    ],
+                    [
+                        -1.193771,
+                        43.165367
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 611733,
+    "properties": {
+        "woe_id": 611733,
+        "place_id": "2BdhnUWfAJ1abXw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moissac, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292447133,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5288\/shapefiles\/611733_20101215_47b797ae4c.tar.gz"
+        },
+        "bbox": [
+            6.1628360748291,
+            43.652969360352,
+            6.1670198440552,
+            43.65629196167
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.16702,
+                        43.655327
+                    ],
+                    [
+                        6.1666,
+                        43.653519
+                    ],
+                    [
+                        6.166419,
+                        43.653339
+                    ],
+                    [
+                        6.162836,
+                        43.652969
+                    ],
+                    [
+                        6.162986,
+                        43.656292
+                    ],
+                    [
+                        6.16702,
+                        43.655327
+                    ]
+                ]
+            ]
+        ]
+    }
+}

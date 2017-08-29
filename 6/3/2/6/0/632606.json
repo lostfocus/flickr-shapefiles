@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 632606,
+    "properties": {
+        "woe_id": 632606,
+        "place_id": "WQDoIcmfAp48yfc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Volonne, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491750,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5001\/shapefiles\/632606_20101216_2d5a65e9b7.tar.gz"
+        },
+        "bbox": [
+            5.994414806366,
+            44.107063293457,
+            6.0157871246338,
+            44.118587493896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.997848,
+                        44.10928
+                    ],
+                    [
+                        5.994415,
+                        44.113472
+                    ],
+                    [
+                        6.004714,
+                        44.118587
+                    ],
+                    [
+                        6.015227,
+                        44.115494
+                    ],
+                    [
+                        6.015787,
+                        44.107677
+                    ],
+                    [
+                        6.005058,
+                        44.107063
+                    ],
+                    [
+                        5.997848,
+                        44.10928
+                    ]
+                ]
+            ]
+        ]
+    }
+}

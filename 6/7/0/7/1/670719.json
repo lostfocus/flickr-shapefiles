@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 670719,
+    "properties": {
+        "woe_id": 670719,
+        "place_id": "jic_VEefBpyhgWc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lautersee, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234585203,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3471\/shapefiles\/670719_20090214_740235d6f7.tar.gz"
+        },
+        "bbox": [
+            11.219614982605,
+            47.427070617676,
+            11.252745628357,
+            47.4391746521
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.219615,
+                        47.438595
+                    ],
+                    [
+                        11.236953,
+                        47.439175
+                    ],
+                    [
+                        11.252746,
+                        47.427071
+                    ],
+                    [
+                        11.236953,
+                        47.437145
+                    ],
+                    [
+                        11.219615,
+                        47.438595
+                    ]
+                ]
+            ]
+        ]
+    }
+}

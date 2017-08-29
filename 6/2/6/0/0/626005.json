@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 626005,
+    "properties": {
+        "woe_id": 626005,
+        "place_id": "d_1RgUmfA5pqr2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Michel, Pays de la Loire, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529729,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5126\/shapefiles\/626005_20101216_9734bbe57b.tar.gz"
+        },
+        "bbox": [
+            -1.252956032753,
+            46.348171234131,
+            -1.2326140403748,
+            46.367866516113
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.252956,
+                        46.352867
+                    ],
+                    [
+                        -1.248214,
+                        46.352379
+                    ],
+                    [
+                        -1.232614,
+                        46.367867
+                    ],
+                    [
+                        -1.239309,
+                        46.348171
+                    ],
+                    [
+                        -1.248214,
+                        46.352379
+                    ],
+                    [
+                        -1.252698,
+                        46.352673
+                    ],
+                    [
+                        -1.252956,
+                        46.352867
+                    ]
+                ]
+            ]
+        ]
+    }
+}

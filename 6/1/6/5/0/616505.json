@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 616505,
+    "properties": {
+        "woe_id": 616505,
+        "place_id": "VWA8BqSfAJqRwLk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Pi\u00e9gros-la-Clastre, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541548,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5006\/shapefiles\/616505_20101216_20d881eab1.tar.gz"
+        },
+        "bbox": [
+            5.0945658683777,
+            44.700187683105,
+            5.1054658889771,
+            44.705661773682
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.097999,
+                        44.700188
+                    ],
+                    [
+                        5.094566,
+                        44.700874
+                    ],
+                    [
+                        5.0958,
+                        44.703392
+                    ],
+                    [
+                        5.097999,
+                        44.704899
+                    ],
+                    [
+                        5.105466,
+                        44.705662
+                    ],
+                    [
+                        5.097999,
+                        44.700188
+                    ]
+                ]
+            ]
+        ]
+    }
+}

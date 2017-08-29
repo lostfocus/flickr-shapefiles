@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 661804,
+    "properties": {
+        "woe_id": 661804,
+        "place_id": "wbKCH9mfB53MBYo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Holz, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234664897,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3239\/shapefiles\/661804_20090215_1142212306.tar.gz"
+        },
+        "bbox": [
+            11.710909843445,
+            47.735916137695,
+            11.719236373901,
+            47.740245819092
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.719236,
+                        47.739841
+                    ],
+                    [
+                        11.718463,
+                        47.735916
+                    ],
+                    [
+                        11.712112,
+                        47.736553
+                    ],
+                    [
+                        11.71091,
+                        47.740246
+                    ],
+                    [
+                        11.719236,
+                        47.739841
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 615500,
+    "properties": {
+        "woe_id": 615500,
+        "place_id": "ZPJaTVGfAJnIRkE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Paillet, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292453546,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/615500_20101215_aec5d3254a.tar.gz"
+        },
+        "bbox": [
+            -0.36838498711586,
+            44.674266815186,
+            -0.35913500189781,
+            44.6770362854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.359995,
+                        44.675098
+                    ],
+                    [
+                        -0.368385,
+                        44.674267
+                    ],
+                    [
+                        -0.359135,
+                        44.677036
+                    ],
+                    [
+                        -0.359523,
+                        44.67569
+                    ],
+                    [
+                        -0.359652,
+                        44.67514
+                    ],
+                    [
+                        -0.359995,
+                        44.675098
+                    ]
+                ]
+            ]
+        ]
+    }
+}

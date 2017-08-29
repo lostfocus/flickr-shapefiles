@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 606769,
+    "properties": {
+        "woe_id": 606769,
+        "place_id": "_b48OmefAZpg8nU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Maisons, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292406723,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/606769_20101215_02fc8f15c8.tar.gz"
+        },
+        "bbox": [
+            6.7482647895813,
+            44.763008117676,
+            6.7550458908081,
+            44.765216827393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.755046,
+                        44.764713
+                    ],
+                    [
+                        6.754875,
+                        44.763008
+                    ],
+                    [
+                        6.7523,
+                        44.76392
+                    ],
+                    [
+                        6.748265,
+                        44.765003
+                    ],
+                    [
+                        6.748388,
+                        44.765217
+                    ],
+                    [
+                        6.755046,
+                        44.764713
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 620155,
+    "properties": {
+        "woe_id": 620155,
+        "place_id": "7lCQzvGfA5w7fWg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rougiers, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292491502,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/620155_20101216_bbbb26c65e.tar.gz"
+        },
+        "bbox": [
+            5.8496179580688,
+            43.382968902588,
+            5.8576102256775,
+            43.397510528564
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.851099,
+                        43.392418
+                    ],
+                    [
+                        5.851464,
+                        43.392723
+                    ],
+                    [
+                        5.85761,
+                        43.397511
+                    ],
+                    [
+                        5.854844,
+                        43.3885
+                    ],
+                    [
+                        5.849618,
+                        43.382969
+                    ],
+                    [
+                        5.851099,
+                        43.392418
+                    ]
+                ]
+            ]
+        ]
+    }
+}

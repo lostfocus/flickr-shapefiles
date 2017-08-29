@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 675999,
+    "properties": {
+        "woe_id": 675999,
+        "place_id": "eXsbQLWfBpnsqqM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monzingen, Rhineland-Palatinate, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234512002,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3370\/shapefiles\/675999_20090213_f0afb79eb8.tar.gz"
+        },
+        "bbox": [
+            7.5873889923096,
+            49.793758392334,
+            7.5984191894531,
+            49.802207946777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.598419,
+                        49.802208
+                    ],
+                    [
+                        7.591938,
+                        49.798775
+                    ],
+                    [
+                        7.587389,
+                        49.793758
+                    ],
+                    [
+                        7.591381,
+                        49.801044
+                    ],
+                    [
+                        7.598419,
+                        49.802208
+                    ]
+                ]
+            ]
+        ]
+    }
+}

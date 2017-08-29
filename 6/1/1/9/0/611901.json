@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 611901,
+    "properties": {
+        "woe_id": 611901,
+        "place_id": "q44KQOGfAJ2Qnjc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moncontour, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520544,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/611901_20101216_74b5ca4da0.tar.gz"
+        },
+        "bbox": [
+            -0.021044999361038,
+            46.87149810791,
+            -0.0032720000017434,
+            46.893955230713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.0176,
+                        46.881634
+                    ],
+                    [
+                        -0.021045,
+                        46.889038
+                    ],
+                    [
+                        -0.012531,
+                        46.893955
+                    ],
+                    [
+                        -0.003272,
+                        46.887699
+                    ],
+                    [
+                        -0.011667,
+                        46.871498
+                    ],
+                    [
+                        -0.0176,
+                        46.881634
+                    ]
+                ]
+            ]
+        ]
+    }
+}

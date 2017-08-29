@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 602032,
+    "properties": {
+        "woe_id": 602032,
+        "place_id": "TyeKNqKfAZ46wj0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Bez, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248165970,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2468\/shapefiles\/602032_20090721_aaefe9003a.tar.gz"
+        },
+        "bbox": [
+            6.5441818237305,
+            44.935398101807,
+            6.5590090751648,
+            44.944934844971
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.55579,
+                        44.943024
+                    ],
+                    [
+                        6.559009,
+                        44.935398
+                    ],
+                    [
+                        6.544182,
+                        44.939651
+                    ],
+                    [
+                        6.553044,
+                        44.944904
+                    ],
+                    [
+                        6.554374,
+                        44.944935
+                    ],
+                    [
+                        6.55579,
+                        44.943024
+                    ]
+                ]
+            ]
+        ]
+    }
+}

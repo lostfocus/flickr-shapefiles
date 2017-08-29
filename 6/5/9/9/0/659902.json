@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 659902,
+    "properties": {
+        "woe_id": 659902,
+        "place_id": "uLzTBHCfBJVoSnk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hilgartsberg, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234475402,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3319\/shapefiles\/659902_20090212_71ecc3f515.tar.gz"
+        },
+        "bbox": [
+            13.150072097778,
+            48.660549163818,
+            13.150079727173,
+            48.660552978516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        13.150072,
+                        48.660553
+                    ],
+                    [
+                        13.15008,
+                        48.660549
+                    ],
+                    [
+                        13.150078,
+                        48.660549
+                    ],
+                    [
+                        13.150074,
+                        48.660549
+                    ],
+                    [
+                        13.150072,
+                        48.660553
+                    ]
+                ]
+            ]
+        ]
+    }
+}

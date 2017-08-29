@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 60734,
+    "properties": {
+        "woe_id": 60734,
+        "place_id": "qWQKL06fAZs5zQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "San Pedro de Cacocum, Holguin, Cuba"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292544537,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/60734_20101217_6bf4f5a6e3.tar.gz"
+        },
+        "bbox": [
+            -76.307518005371,
+            20.78875541687,
+            -76.305328369141,
+            20.791063308716
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.307518,
+                        20.789658
+                    ],
+                    [
+                        -76.306229,
+                        20.791063
+                    ],
+                    [
+                        -76.305328,
+                        20.789057
+                    ],
+                    [
+                        -76.305573,
+                        20.788826
+                    ],
+                    [
+                        -76.305672,
+                        20.788755
+                    ],
+                    [
+                        -76.307518,
+                        20.789658
+                    ]
+                ]
+            ]
+        ]
+    }
+}

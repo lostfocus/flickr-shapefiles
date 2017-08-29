@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 600031,
+    "properties": {
+        "woe_id": 600031,
+        "place_id": "G27QooafAZzCc9U",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La S\u00f4ne, Rhone-Alpes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292466249,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5089\/shapefiles\/600031_20101216_1c5af00be3.tar.gz"
+        },
+        "bbox": [
+            5.2671928405762,
+            45.11209487915,
+            5.2847671508789,
+            45.118282318115
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.28202,
+                        45.115932
+                    ],
+                    [
+                        5.284767,
+                        45.113815
+                    ],
+                    [
+                        5.280035,
+                        45.112095
+                    ],
+                    [
+                        5.27967,
+                        45.11248
+                    ],
+                    [
+                        5.267193,
+                        45.118282
+                    ],
+                    [
+                        5.28202,
+                        45.115932
+                    ]
+                ]
+            ]
+        ]
+    }
+}

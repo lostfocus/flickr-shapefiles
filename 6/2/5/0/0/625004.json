@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 625004,
+    "properties": {
+        "woe_id": 625004,
+        "place_id": "Hg1IvyifA5krmv4",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Julien, Lorraine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234683126,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3165\/shapefiles\/625004_20090215_ed452a28bc.tar.gz"
+        },
+        "bbox": [
+            6.1928977966309,
+            49.124717712402,
+            6.2136158943176,
+            49.134189605713
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.192898,
+                        49.127026
+                    ],
+                    [
+                        6.195344,
+                        49.13419
+                    ],
+                    [
+                        6.213616,
+                        49.130363
+                    ],
+                    [
+                        6.199529,
+                        49.124718
+                    ],
+                    [
+                        6.192898,
+                        49.127026
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 621775,
+    "properties": {
+        "woe_id": 621775,
+        "place_id": "0pYZq.2fA52GVhY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Senoueix, Limousin, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234540323,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3378\/shapefiles\/621775_20090213_50ed427c8e.tar.gz"
+        },
+        "bbox": [
+            1.9940179586411,
+            45.809059143066,
+            2.0000259876251,
+            45.817771911621
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.998481,
+                        45.816418
+                    ],
+                    [
+                        2.000026,
+                        45.814983
+                    ],
+                    [
+                        1.994018,
+                        45.809059
+                    ],
+                    [
+                        1.996421,
+                        45.817772
+                    ],
+                    [
+                        1.998481,
+                        45.816418
+                    ]
+                ]
+            ]
+        ]
+    }
+}

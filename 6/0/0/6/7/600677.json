@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 600677,
+    "properties": {
+        "woe_id": 600677,
+        "place_id": "9YzcSAmfAZzMkBU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Lacapelle-Livron, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234720336,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3162\/shapefiles\/600677_20090215_cb4c73255c.tar.gz"
+        },
+        "bbox": [
+            1.7806429862976,
+            44.269542694092,
+            1.7835609912872,
+            44.276672363281
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.780729,
+                        44.269543
+                    ],
+                    [
+                        1.780643,
+                        44.272614
+                    ],
+                    [
+                        1.783561,
+                        44.276672
+                    ],
+                    [
+                        1.782188,
+                        44.270401
+                    ],
+                    [
+                        1.780729,
+                        44.269543
+                    ]
+                ]
+            ]
+        ]
+    }
+}

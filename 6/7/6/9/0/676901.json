@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 676901,
+    "properties": {
+        "woe_id": 676901,
+        "place_id": "32Z2PW6fBpqmh54",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Murg, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546583,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5010\/shapefiles\/676901_20101217_ab61cd26b7.tar.gz"
+        },
+        "bbox": [
+            8.0264692306519,
+            47.556011199951,
+            8.0393190383911,
+            47.559986114502
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.026469,
+                        47.559612
+                    ],
+                    [
+                        8.026905,
+                        47.559963
+                    ],
+                    [
+                        8.026944,
+                        47.559952
+                    ],
+                    [
+                        8.039319,
+                        47.559986
+                    ],
+                    [
+                        8.026714,
+                        47.556011
+                    ],
+                    [
+                        8.026682,
+                        47.556068
+                    ],
+                    [
+                        8.026469,
+                        47.559612
+                    ]
+                ]
+            ]
+        ]
+    }
+}

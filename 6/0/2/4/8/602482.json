@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 602482,
+    "properties": {
+        "woe_id": 602482,
+        "place_id": "EG0L_YGfAZ6t2oo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Chalard, Limousin, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292498645,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5208\/shapefiles\/602482_20101216_b2ce7ed687.tar.gz"
+        },
+        "bbox": [
+            1.1220639944077,
+            45.541061401367,
+            1.1321710348129,
+            45.550361633301
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.126098,
+                        45.550362
+                    ],
+                    [
+                        1.132171,
+                        45.541553
+                    ],
+                    [
+                        1.131892,
+                        45.541061
+                    ],
+                    [
+                        1.122064,
+                        45.545853
+                    ],
+                    [
+                        1.126098,
+                        45.550362
+                    ]
+                ]
+            ]
+        ]
+    }
+}

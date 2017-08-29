@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 650722,
+    "properties": {
+        "woe_id": 650722,
+        "place_id": "c5alRQGfBJyIsfk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Friedlingen, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292361842,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/650722_20101214_8dc67ac0b0.tar.gz"
+        },
+        "bbox": [
+            7.5907368659973,
+            47.589752197266,
+            7.5951471328735,
+            47.594833374023
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.590737,
+                        47.589752
+                    ],
+                    [
+                        7.594921,
+                        47.594833
+                    ],
+                    [
+                        7.595147,
+                        47.591385
+                    ],
+                    [
+                        7.592078,
+                        47.58979
+                    ],
+                    [
+                        7.590737,
+                        47.589752
+                    ]
+                ]
+            ]
+        ]
+    }
+}

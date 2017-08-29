@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 696285,
+    "properties": {
+        "woe_id": 696285,
+        "place_id": "N8D1uHWfCJqC6PM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Stallau, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234683374,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3506\/shapefiles\/696285_20090215_280d741f6a.tar.gz"
+        },
+        "bbox": [
+            11.51425075531,
+            47.745010375977,
+            11.518820762634,
+            47.750232696533
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.514251,
+                        47.74501
+                    ],
+                    [
+                        11.514583,
+                        47.74765
+                    ],
+                    [
+                        11.515849,
+                        47.748264
+                    ],
+                    [
+                        11.518821,
+                        47.750233
+                    ],
+                    [
+                        11.514251,
+                        47.74501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

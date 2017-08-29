@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 652333,
+    "properties": {
+        "woe_id": 652333,
+        "place_id": "p9WKK6GfBJ7a1y0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Gerschweiler, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234540801,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3515\/shapefiles\/652333_20090213_cfe40b5746.tar.gz"
+        },
+        "bbox": [
+            10.245813369751,
+            48.620708465576,
+            10.246669769287,
+            48.620975494385
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.24633,
+                        48.620731
+                    ],
+                    [
+                        10.245813,
+                        48.620975
+                    ],
+                    [
+                        10.24667,
+                        48.62072
+                    ],
+                    [
+                        10.24663,
+                        48.620708
+                    ],
+                    [
+                        10.24633,
+                        48.620731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

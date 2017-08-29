@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 660910,
+    "properties": {
+        "woe_id": 660910,
+        "place_id": "EcLJXumfB5wAzXs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hofolding, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234584727,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3488\/shapefiles\/660910_20090214_8bedb10a0d.tar.gz"
+        },
+        "bbox": [
+            11.700229644775,
+            47.983093261719,
+            11.701147079468,
+            47.984966278076
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.701147,
+                        47.983093
+                    ],
+                    [
+                        11.700589,
+                        47.983948
+                    ],
+                    [
+                        11.70023,
+                        47.984966
+                    ],
+                    [
+                        11.700997,
+                        47.983437
+                    ],
+                    [
+                        11.701147,
+                        47.983093
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 684676,
+    "properties": {
+        "woe_id": 684676,
+        "place_id": "cc18S.WfCZifkS0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Peterstal, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234617736,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3332\/shapefiles\/684676_20090214_38c9f4b48b.tar.gz"
+        },
+        "bbox": [
+            8.7502670288086,
+            49.442150115967,
+            8.7535600662231,
+            49.447746276855
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.75356,
+                        49.447746
+                    ],
+                    [
+                        8.753432,
+                        49.445423
+                    ],
+                    [
+                        8.750267,
+                        49.44215
+                    ],
+                    [
+                        8.75061,
+                        49.442829
+                    ],
+                    [
+                        8.75356,
+                        49.447746
+                    ]
+                ]
+            ]
+        ]
+    }
+}

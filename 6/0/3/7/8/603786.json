@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 603786,
+    "properties": {
+        "woe_id": 603786,
+        "place_id": "oc4RGe2fAZ94v90",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Moustier, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292518234,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/603786_20101216_49d7aac6aa.tar.gz"
+        },
+        "bbox": [
+            6.5262222290039,
+            44.088939666748,
+            6.5358347892761,
+            44.092021942139
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.534118,
+                        44.092022
+                    ],
+                    [
+                        6.535835,
+                        44.09116
+                    ],
+                    [
+                        6.534118,
+                        44.08931
+                    ],
+                    [
+                        6.530513,
+                        44.089188
+                    ],
+                    [
+                        6.527595,
+                        44.08894
+                    ],
+                    [
+                        6.526222,
+                        44.089928
+                    ],
+                    [
+                        6.534118,
+                        44.092022
+                    ]
+                ]
+            ]
+        ]
+    }
+}

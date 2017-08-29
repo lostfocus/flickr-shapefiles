@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 656725,
+    "properties": {
+        "woe_id": 656725,
+        "place_id": "P08yXt6fBJozaHY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hainichen, Saxony, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234548492,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3457\/shapefiles\/656725_20090213_f9d28f3574.tar.gz"
+        },
+        "bbox": [
+            12.555763244629,
+            51.186832427979,
+            12.559823989868,
+            51.190559387207
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.555763,
+                        51.188396
+                    ],
+                    [
+                        12.559824,
+                        51.190559
+                    ],
+                    [
+                        12.558166,
+                        51.187267
+                    ],
+                    [
+                        12.557512,
+                        51.186832
+                    ],
+                    [
+                        12.555763,
+                        51.188396
+                    ]
+                ]
+            ]
+        ]
+    }
+}

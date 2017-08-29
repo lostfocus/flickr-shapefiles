@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 603,
+    "properties": {
+        "woe_id": 603,
+        "place_id": "kOujXFyfAZ8",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Green's Harbour, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248165363,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2421\/shapefiles\/603_20090721_8c9c2b51c8.tar.gz"
+        },
+        "bbox": [
+            -53.526966094971,
+            47.636707305908,
+            -53.501358032227,
+            47.659084320068
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -53.502216,
+                        47.650631
+                    ],
+                    [
+                        -53.501358,
+                        47.648563
+                    ],
+                    [
+                        -53.505306,
+                        47.645382
+                    ],
+                    [
+                        -53.513718,
+                        47.636707
+                    ],
+                    [
+                        -53.515606,
+                        47.637604
+                    ],
+                    [
+                        -53.526966,
+                        47.641666
+                    ],
+                    [
+                        -53.526077,
+                        47.659084
+                    ],
+                    [
+                        -53.505821,
+                        47.646656
+                    ],
+                    [
+                        -53.502216,
+                        47.650631
+                    ]
+                ]
+            ]
+        ]
+    }
+}

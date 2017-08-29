@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 611905,
+    "properties": {
+        "woe_id": 611905,
+        "place_id": "pku1i1mfAJ3xcfo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Moncoutant, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292407083,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/611905_20101215_286b4261c1.tar.gz"
+        },
+        "bbox": [
+            -0.6078519821167,
+            46.70760345459,
+            -0.57248997688293,
+            46.729682922363
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.599398,
+                        46.707603
+                    ],
+                    [
+                        -0.607852,
+                        46.712208
+                    ],
+                    [
+                        -0.595235,
+                        46.729446
+                    ],
+                    [
+                        -0.57249,
+                        46.729683
+                    ],
+                    [
+                        -0.581159,
+                        46.716915
+                    ],
+                    [
+                        -0.599398,
+                        46.707603
+                    ]
+                ]
+            ]
+        ]
+    }
+}

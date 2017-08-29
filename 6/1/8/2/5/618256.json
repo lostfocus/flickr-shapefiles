@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 618256,
+    "properties": {
+        "woe_id": 618256,
+        "place_id": "6Wg_gy.fAJSUBng",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Puget, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292522889,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5242\/shapefiles\/618256_20101216_98a549ecef.tar.gz"
+        },
+        "bbox": [
+            6.1260547637939,
+            43.288909912109,
+            6.1428050994873,
+            43.295223236084
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.135159,
+                        43.28891
+                    ],
+                    [
+                        6.126055,
+                        43.290569
+                    ],
+                    [
+                        6.128107,
+                        43.293407
+                    ],
+                    [
+                        6.134405,
+                        43.293449
+                    ],
+                    [
+                        6.142805,
+                        43.295223
+                    ],
+                    [
+                        6.135159,
+                        43.28891
+                    ]
+                ]
+            ]
+        ]
+    }
+}

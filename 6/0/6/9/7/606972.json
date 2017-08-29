@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 606972,
+    "properties": {
+        "woe_id": 606972,
+        "place_id": "DqnJGWufAZqPvy0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Moutiers-en-Retz, Pays de la Loire, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528890,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/606972_20101216_59d7d89f42.tar.gz"
+        },
+        "bbox": [
+            -2.0114359855652,
+            47.054569244385,
+            -1.9983949661255,
+            47.066268920898
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.011436,
+                        47.066093
+                    ],
+                    [
+                        -2.00727,
+                        47.066269
+                    ],
+                    [
+                        -1.999254,
+                        47.063858
+                    ],
+                    [
+                        -1.998395,
+                        47.054569
+                    ],
+                    [
+                        -2.007536,
+                        47.063076
+                    ],
+                    [
+                        -2.011436,
+                        47.066093
+                    ]
+                ]
+            ]
+        ]
+    }
+}

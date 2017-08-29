@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 600178,
+    "properties": {
+        "woe_id": 600178,
+        "place_id": "OIcYXhqfAZzvnxA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Trimouille, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520362,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/600178_20101216_a594821861.tar.gz"
+        },
+        "bbox": [
+            1.030483007431,
+            46.46097946167,
+            1.0455460548401,
+            46.468814849854
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.041469,
+                        46.467422
+                    ],
+                    [
+                        1.043615,
+                        46.468815
+                    ],
+                    [
+                        1.045546,
+                        46.462532
+                    ],
+                    [
+                        1.030483,
+                        46.460979
+                    ],
+                    [
+                        1.036663,
+                        46.466003
+                    ],
+                    [
+                        1.041469,
+                        46.467422
+                    ]
+                ]
+            ]
+        ]
+    }
+}

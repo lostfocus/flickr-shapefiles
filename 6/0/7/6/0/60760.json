@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 60760,
+    "properties": {
+        "woe_id": 60760,
+        "place_id": "wG5UcQ2fAZs0hQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Caimito, La Habana, Cuba"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443242,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5128\/shapefiles\/60760_20101215_371492542d.tar.gz"
+        },
+        "bbox": [
+            -82.626800537109,
+            22.952444076538,
+            -82.610710144043,
+            22.961553573608
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.613068,
+                        22.961554
+                    ],
+                    [
+                        -82.61071,
+                        22.957327
+                    ],
+                    [
+                        -82.623535,
+                        22.952444
+                    ],
+                    [
+                        -82.626801,
+                        22.957129
+                    ],
+                    [
+                        -82.613068,
+                        22.961554
+                    ]
+                ]
+            ]
+        ]
+    }
+}

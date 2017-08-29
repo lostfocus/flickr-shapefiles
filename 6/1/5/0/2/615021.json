@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 615021,
+    "properties": {
+        "woe_id": 615021,
+        "place_id": "DCUPM3SfAJmbhEs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oradour, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234713366,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3241\/shapefiles\/615021_20090215_10ecbf80c5.tar.gz"
+        },
+        "bbox": [
+            0.7801039814949,
+            46.120468139648,
+            0.78320497274399,
+            46.121856689453
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.780356,
+                        46.120731
+                    ],
+                    [
+                        0.783205,
+                        46.121857
+                    ],
+                    [
+                        0.780801,
+                        46.120758
+                    ],
+                    [
+                        0.780104,
+                        46.120468
+                    ],
+                    [
+                        0.780356,
+                        46.120731
+                    ]
+                ]
+            ]
+        ]
+    }
+}

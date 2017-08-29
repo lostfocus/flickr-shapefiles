@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 678253,
+    "properties": {
+        "woe_id": 678253,
+        "place_id": "B_KJ2K6fBpSGqqA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Neuenknick, North Rhine-Westphalia, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234683604,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3442\/shapefiles\/678253_20090215_71781e2346.tar.gz"
+        },
+        "bbox": [
+            9.0556945800781,
+            52.415916442871,
+            9.066596031189,
+            52.424354553223
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        9.065093,
+                        52.424355
+                    ],
+                    [
+                        9.066295,
+                        52.423046
+                    ],
+                    [
+                        9.066596,
+                        52.420898
+                    ],
+                    [
+                        9.055695,
+                        52.415916
+                    ],
+                    [
+                        9.065093,
+                        52.424355
+                    ]
+                ]
+            ]
+        ]
+    }
+}

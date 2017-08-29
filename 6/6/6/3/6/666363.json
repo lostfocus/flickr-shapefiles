@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 666363,
+    "properties": {
+        "woe_id": 666363,
+        "place_id": "VEx7kdafB5ozPHQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Klein Gaglow, Brandenburg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525163,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/666363_20101216_bcb6b93ac1.tar.gz"
+        },
+        "bbox": [
+            14.314519882202,
+            51.712032318115,
+            14.326836585999,
+            51.729259490967
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.325914,
+                        51.719666
+                    ],
+                    [
+                        14.318983,
+                        51.712032
+                    ],
+                    [
+                        14.31452,
+                        51.720127
+                    ],
+                    [
+                        14.326837,
+                        51.729259
+                    ],
+                    [
+                        14.325914,
+                        51.719666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

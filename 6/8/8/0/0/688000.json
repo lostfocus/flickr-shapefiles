@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 688000,
+    "properties": {
+        "woe_id": 688000,
+        "place_id": "WvKbh2KfCZRoHf0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rennertehausen, Hesse, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458489,
+        "alpha": 0.00015,
+        "points": 12,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/688000_20101216_b980d36bfd.tar.gz"
+        },
+        "bbox": [
+            8.6812553405762,
+            51.029064178467,
+            8.6876096725464,
+            51.034057617188
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        8.681255,
+                        51.033939
+                    ],
+                    [
+                        8.681308,
+                        51.033997
+                    ],
+                    [
+                        8.681422,
+                        51.034042
+                    ],
+                    [
+                        8.681463,
+                        51.034058
+                    ],
+                    [
+                        8.682216,
+                        51.033665
+                    ],
+                    [
+                        8.68761,
+                        51.029064
+                    ],
+                    [
+                        8.681255,
+                        51.033939
+                    ]
+                ]
+            ]
+        ]
+    }
+}

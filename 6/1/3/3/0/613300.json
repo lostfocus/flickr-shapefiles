@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 613300,
+    "properties": {
+        "woe_id": 613300,
+        "place_id": "ZjSVsfmfAJ_xynQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Morre, Franche-Comte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234540444,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3313\/shapefiles\/613300_20090213_9facfc35b6.tar.gz"
+        },
+        "bbox": [
+            6.0624289512634,
+            47.221199035645,
+            6.0689368247986,
+            47.227466583252
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        6.066394,
+                        47.222645
+                    ],
+                    [
+                        6.062429,
+                        47.227467
+                    ],
+                    [
+                        6.063669,
+                        47.226646
+                    ],
+                    [
+                        6.068937,
+                        47.221199
+                    ],
+                    [
+                        6.066394,
+                        47.222645
+                    ]
+                ]
+            ]
+        ]
+    }
+}

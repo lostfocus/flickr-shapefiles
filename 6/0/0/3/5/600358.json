@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 600358,
+    "properties": {
+        "woe_id": 600358,
+        "place_id": "dcuG18efAZxmaaM",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "La Vesse, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292476514,
+        "alpha": 0.00015,
+        "points": 25,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5241\/shapefiles\/600358_20101216_9742d2a5bd.tar.gz"
+        },
+        "bbox": [
+            5.255518913269,
+            43.34061050415,
+            5.2631368637085,
+            43.345264434814
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.261002,
+                        43.340611
+                    ],
+                    [
+                        5.258331,
+                        43.342533
+                    ],
+                    [
+                        5.255519,
+                        43.344139
+                    ],
+                    [
+                        5.262225,
+                        43.345264
+                    ],
+                    [
+                        5.263137,
+                        43.342094
+                    ],
+                    [
+                        5.261002,
+                        43.340611
+                    ]
+                ]
+            ]
+        ]
+    }
+}

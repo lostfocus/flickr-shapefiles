@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 699304,
+    "properties": {
+        "woe_id": 699304,
+        "place_id": "xwIYbBafCJXIcKg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Thonstetten, Bavaria, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234512362,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3354\/shapefiles\/699304_20090213_5567ddacf6.tar.gz"
+        },
+        "bbox": [
+            11.89621925354,
+            48.454196929932,
+            11.918212890625,
+            48.458488464355
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        11.918213,
+                        48.457882
+                    ],
+                    [
+                        11.916711,
+                        48.454197
+                    ],
+                    [
+                        11.896219,
+                        48.457157
+                    ],
+                    [
+                        11.914479,
+                        48.458488
+                    ],
+                    [
+                        11.918213,
+                        48.457882
+                    ]
+                ]
+            ]
+        ]
+    }
+}

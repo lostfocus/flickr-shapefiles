@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 606129,
+    "properties": {
+        "woe_id": 606129,
+        "place_id": "pZ0Ho42fAZrIYmU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Essarts, Pays de la Loire, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533087,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/606129_20101216_2d355be741.tar.gz"
+        },
+        "bbox": [
+            -1.2347600460052,
+            46.771850585938,
+            -1.2181090116501,
+            46.777492523193
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.228,
+                        46.773129
+                    ],
+                    [
+                        -1.23476,
+                        46.777065
+                    ],
+                    [
+                        -1.218109,
+                        46.777493
+                    ],
+                    [
+                        -1.226692,
+                        46.771851
+                    ],
+                    [
+                        -1.227035,
+                        46.772202
+                    ],
+                    [
+                        -1.228,
+                        46.773129
+                    ]
+                ]
+            ]
+        ]
+    }
+}

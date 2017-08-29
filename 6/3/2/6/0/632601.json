@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 632601,
+    "properties": {
+        "woe_id": 632601,
+        "place_id": "Gah1W2ifAp7TQxk",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Volnay, Burgundy, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519540,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/632601_20101216_20cf08c093.tar.gz"
+        },
+        "bbox": [
+            4.7680659294128,
+            47.000507354736,
+            4.7944068908691,
+            47.009399414062
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        4.783344,
+                        47.001328
+                    ],
+                    [
+                        4.782267,
+                        47.000778
+                    ],
+                    [
+                        4.770984,
+                        47.000507
+                    ],
+                    [
+                        4.768066,
+                        47.006245
+                    ],
+                    [
+                        4.78034,
+                        47.003551
+                    ],
+                    [
+                        4.794407,
+                        47.009399
+                    ],
+                    [
+                        4.783344,
+                        47.001328
+                    ]
+                ]
+            ]
+        ]
+    }
+}

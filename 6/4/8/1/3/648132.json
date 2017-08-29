@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 648132,
+    "properties": {
+        "woe_id": 648132,
+        "place_id": "KaH5uwCfBZSqs1k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ennerbach, Baden-Wurttemberg, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234565164,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3536\/shapefiles\/648132_20090213_dfb9ec057b.tar.gz"
+        },
+        "bbox": [
+            7.9396820068359,
+            47.851642608643,
+            7.9480929374695,
+            47.854175567627
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        7.941226,
+                        47.851643
+                    ],
+                    [
+                        7.939682,
+                        47.852276
+                    ],
+                    [
+                        7.943115,
+                        47.854176
+                    ],
+                    [
+                        7.948093,
+                        47.85265
+                    ],
+                    [
+                        7.941226,
+                        47.851643
+                    ]
+                ]
+            ]
+        ]
+    }
+}

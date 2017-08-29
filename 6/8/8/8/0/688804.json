@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 688804,
+    "properties": {
+        "woe_id": 688804,
+        "place_id": "OjWmC2afCZSzlrY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ringethal, Saxony, Germany"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234565168,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3335\/shapefiles\/688804_20090213_a47228ebe5.tar.gz"
+        },
+        "bbox": [
+            12.99206161499,
+            50.999980926514,
+            12.998285293579,
+            51.005382537842
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        12.992062,
+                        51.001522
+                    ],
+                    [
+                        12.997684,
+                        51.005383
+                    ],
+                    [
+                        12.998027,
+                        51.003979
+                    ],
+                    [
+                        12.998285,
+                        50.999981
+                    ],
+                    [
+                        12.992062,
+                        51.001522
+                    ]
+                ]
+            ]
+        ]
+    }
+}

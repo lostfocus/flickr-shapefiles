@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 625601,
+    "properties": {
+        "woe_id": 625601,
+        "place_id": "Pn3jne2fA5l2ObI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Martin, Provence-Alpes-Cote d'Azur, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292498767,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/625601_20101216_74da221f95.tar.gz"
+        },
+        "bbox": [
+            5.5117030143738,
+            43.854522705078,
+            5.5293841362,
+            43.871662139893
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.511703,
+                        43.860062
+                    ],
+                    [
+                        5.516853,
+                        43.869682
+                    ],
+                    [
+                        5.529384,
+                        43.871662
+                    ],
+                    [
+                        5.528783,
+                        43.854523
+                    ],
+                    [
+                        5.512529,
+                        43.85955
+                    ],
+                    [
+                        5.511703,
+                        43.860062
+                    ]
+                ]
+            ]
+        ]
+    }
+}

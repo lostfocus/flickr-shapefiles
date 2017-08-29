@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 626734,
+    "properties": {
+        "woe_id": 626734,
+        "place_id": "USFYaPmfA5ozz0k",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-R\u00e9my-sur-Durolle, Auvergne, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292475009,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/626734_20101216_898b8702fa.tar.gz"
+        },
+        "bbox": [
+            3.5988330841064,
+            45.893516540527,
+            3.6019489765167,
+            45.901664733887
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        3.598833,
+                        45.901665
+                    ],
+                    [
+                        3.599,
+                        45.901501
+                    ],
+                    [
+                        3.601949,
+                        45.898506
+                    ],
+                    [
+                        3.599481,
+                        45.893517
+                    ],
+                    [
+                        3.598833,
+                        45.901501
+                    ],
+                    [
+                        3.598833,
+                        45.901665
+                    ]
+                ]
+            ]
+        ]
+    }
+}

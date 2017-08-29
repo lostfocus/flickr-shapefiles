@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 607672,
+    "properties": {
+        "woe_id": 607672,
+        "place_id": "KLoL3lOfAZtopBI",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Les Vitarelles, Midi-Pyrenees, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234539962,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3403\/shapefiles\/607672_20090213_8f41046c6b.tar.gz"
+        },
+        "bbox": [
+            1.5580840110779,
+            44.795143127441,
+            1.567193031311,
+            44.805103302002
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.565498,
+                        44.795296
+                    ],
+                    [
+                        1.563298,
+                        44.797062
+                    ],
+                    [
+                        1.558084,
+                        44.805103
+                    ],
+                    [
+                        1.565036,
+                        44.796455
+                    ],
+                    [
+                        1.567193,
+                        44.795143
+                    ],
+                    [
+                        1.565498,
+                        44.795296
+                    ]
+                ]
+            ]
+        ]
+    }
+}

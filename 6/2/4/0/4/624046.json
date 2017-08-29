@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 624046,
+    "properties": {
+        "woe_id": 624046,
+        "place_id": "8Ppfm7qfA5jD7XQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St-Fort, Poitou-Charentes, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525946,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/624046_20101216_53e17c2bee.tar.gz"
+        },
+        "bbox": [
+            -0.73024702072144,
+            45.445678710938,
+            -0.70827400684357,
+            45.464706420898
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.719947,
+                        45.445679
+                    ],
+                    [
+                        -0.730247,
+                        45.464706
+                    ],
+                    [
+                        -0.723724,
+                        45.463322
+                    ],
+                    [
+                        -0.721138,
+                        45.461227
+                    ],
+                    [
+                        -0.708274,
+                        45.45483
+                    ],
+                    [
+                        -0.719947,
+                        45.445679
+                    ]
+                ]
+            ]
+        ]
+    }
+}

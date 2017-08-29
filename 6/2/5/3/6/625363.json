@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 625363,
+    "properties": {
+        "woe_id": 625363,
+        "place_id": "1yHy5kafA5maNTY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Lupicin, Franche-Comte, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292536982,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/625363_20101216_58b06c6988.tar.gz"
+        },
+        "bbox": [
+            5.7883348464966,
+            46.383003234863,
+            5.7906098365784,
+            46.39924621582
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        5.788335,
+                        46.383945
+                    ],
+                    [
+                        5.79061,
+                        46.399246
+                    ],
+                    [
+                        5.790116,
+                        46.384491
+                    ],
+                    [
+                        5.789086,
+                        46.383003
+                    ],
+                    [
+                        5.788335,
+                        46.383945
+                    ]
+                ]
+            ]
+        ]
+    }
+}

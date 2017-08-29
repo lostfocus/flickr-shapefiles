@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 626132,
+    "properties": {
+        "woe_id": 626132,
+        "place_id": "dpOntsGfA5oO_Po",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-Ouen, Centre, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234879940,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3589\/shapefiles\/626132_20090217_cc0d7bc19b.tar.gz"
+        },
+        "bbox": [
+            1.0637639760971,
+            47.792572021484,
+            1.070307970047,
+            47.804218292236
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        1.070308,
+                        47.804218
+                    ],
+                    [
+                        1.069149,
+                        47.792572
+                    ],
+                    [
+                        1.06533,
+                        47.793205
+                    ],
+                    [
+                        1.063764,
+                        47.79348
+                    ],
+                    [
+                        1.070308,
+                        47.804218
+                    ]
+                ]
+            ]
+        ]
+    }
+}

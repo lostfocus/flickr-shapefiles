@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 601968,
+    "properties": {
+        "woe_id": 601968,
+        "place_id": "MhnUD9GfAZ1mmwc",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Le Barp, Aquitaine, France"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443569,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/601968_20101215_a49f1f4a9a.tar.gz"
+        },
+        "bbox": [
+            -0.77178901433945,
+            44.603698730469,
+            -0.76629602909088,
+            44.613689422607
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.771789,
+                        44.608067
+                    ],
+                    [
+                        -0.771789,
+                        44.613689
+                    ],
+                    [
+                        -0.766296,
+                        44.612957
+                    ],
+                    [
+                        -0.766596,
+                        44.603699
+                    ],
+                    [
+                        -0.771789,
+                        44.608067
+                    ]
+                ]
+            ]
+        ]
+    }
+}
