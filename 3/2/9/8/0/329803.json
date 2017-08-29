@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 329803,
+    "properties": {
+        "woe_id": 329803,
+        "place_id": "0fqcsWKaA5X4m2A",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St. John, Saint Croix Island, US Virgin Islands"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292465825,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/329803_20101216_2545b29cb3.tar.gz"
+        },
+        "bbox": [
+            -64.754837036133,
+            17.766096115112,
+            -64.741226196289,
+            17.779291152954
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -64.745369,
+                        17.778889
+                    ],
+                    [
+                        -64.741226,
+                        17.766703
+                    ],
+                    [
+                        -64.747581,
+                        17.766096
+                    ],
+                    [
+                        -64.754837,
+                        17.767332
+                    ],
+                    [
+                        -64.745628,
+                        17.779291
+                    ],
+                    [
+                        -64.745369,
+                        17.778889
+                    ]
+                ]
+            ]
+        ]
+    }
+}

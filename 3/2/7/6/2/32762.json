@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 32762,
+    "properties": {
+        "woe_id": 32762,
+        "place_id": "nA6Km4WaA5tSRQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Queen Adelaide, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234537689,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3430\/shapefiles\/32762_20090213_dd9f02c82a.tar.gz"
+        },
+        "bbox": [
+            0.29564300179482,
+            52.408584594727,
+            0.30002099275589,
+            52.409748077393
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        0.298647,
+                        52.408634
+                    ],
+                    [
+                        0.295643,
+                        52.408585
+                    ],
+                    [
+                        0.297145,
+                        52.409592
+                    ],
+                    [
+                        0.300021,
+                        52.409748
+                    ],
+                    [
+                        0.298647,
+                        52.408634
+                    ]
+                ]
+            ]
+        ]
+    }
+}

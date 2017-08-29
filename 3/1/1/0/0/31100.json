@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 31100,
+    "properties": {
+        "woe_id": 31100,
+        "place_id": "P0Y4QTOaAJ1LKQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Orton, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292403964,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/31100_20101215_30b4505465.tar.gz"
+        },
+        "bbox": [
+            -0.8318709731102,
+            52.396659851074,
+            -0.81504797935486,
+            52.407550811768
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.817451,
+                        52.407551
+                    ],
+                    [
+                        -0.815734,
+                        52.407234
+                    ],
+                    [
+                        -0.815048,
+                        52.406818
+                    ],
+                    [
+                        -0.817794,
+                        52.406189
+                    ],
+                    [
+                        -0.831871,
+                        52.39666
+                    ],
+                    [
+                        -0.817794,
+                        52.407131
+                    ],
+                    [
+                        -0.817451,
+                        52.407551
+                    ]
+                ]
+            ]
+        ]
+    }
+}

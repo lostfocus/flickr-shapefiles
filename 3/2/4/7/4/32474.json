@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 32474,
+    "properties": {
+        "woe_id": 32474,
+        "place_id": "9JDTALCaA5j5nQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Potsgrove, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234826891,
+        "alpha": 0.00015,
+        "points": 4,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3175\/shapefiles\/32474_20090216_e567e38421.tar.gz"
+        },
+        "bbox": [
+            -0.63343000411987,
+            51.955745697021,
+            -0.61986899375916,
+            51.967826843262
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.62295,
+                        51.967827
+                    ],
+                    [
+                        -0.619869,
+                        51.958492
+                    ],
+                    [
+                        -0.63343,
+                        51.955746
+                    ],
+                    [
+                        -0.626734,
+                        51.967026
+                    ],
+                    [
+                        -0.62295,
+                        51.967827
+                    ]
+                ]
+            ]
+        ]
+    }
+}

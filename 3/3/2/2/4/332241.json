@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 332241,
+    "properties": {
+        "woe_id": 332241,
+        "place_id": "PdlCgpOaAp591Sg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Tapiales, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455767,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5082\/shapefiles\/332241_20101215_c3e183933f.tar.gz"
+        },
+        "bbox": [
+            -58.520221710205,
+            -34.711841583252,
+            -58.497817993164,
+            -34.697525024414
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.497818,
+                        -34.704716
+                    ],
+                    [
+                        -58.503227,
+                        -34.711842
+                    ],
+                    [
+                        -58.504257,
+                        -34.710011
+                    ],
+                    [
+                        -58.520222,
+                        -34.702316
+                    ],
+                    [
+                        -58.506618,
+                        -34.697525
+                    ],
+                    [
+                        -58.497818,
+                        -34.704716
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 3239,
+    "properties": {
+        "woe_id": 3239,
+        "place_id": "5rA8yPiaA5_9",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Matagami, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247953928,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2481\/shapefiles\/3239_20090718_9bbd58ce4b.tar.gz"
+        },
+        "bbox": [
+            -77.646820068359,
+            49.753337860107,
+            -77.619750976562,
+            49.770332336426
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -77.625,
+                        49.770332
+                    ],
+                    [
+                        -77.624496,
+                        49.770332
+                    ],
+                    [
+                        -77.620392,
+                        49.755718
+                    ],
+                    [
+                        -77.619751,
+                        49.753338
+                    ],
+                    [
+                        -77.638321,
+                        49.757317
+                    ],
+                    [
+                        -77.64682,
+                        49.763138
+                    ],
+                    [
+                        -77.627846,
+                        49.770233
+                    ],
+                    [
+                        -77.625,
+                        49.770332
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 375165,
+    "properties": {
+        "woe_id": 375165,
+        "place_id": "txnNAtmaBpkRtRo",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Shell, Pastaza, Ecuador"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528007,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/375165_20101216_b289a228c0.tar.gz"
+        },
+        "bbox": [
+            -78.072967529297,
+            -1.5064979791641,
+            -78.046188354492,
+            -1.4946570396423
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -78.051254,
+                        -1.496256
+                    ],
+                    [
+                        -78.046188,
+                        -1.497403
+                    ],
+                    [
+                        -78.052368,
+                        -1.504439
+                    ],
+                    [
+                        -78.072968,
+                        -1.506498
+                    ],
+                    [
+                        -78.061295,
+                        -1.494657
+                    ],
+                    [
+                        -78.051254,
+                        -1.496256
+                    ]
+                ]
+            ]
+        ]
+    }
+}

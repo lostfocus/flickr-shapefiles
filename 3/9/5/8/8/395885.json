@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 395885,
+    "properties": {
+        "woe_id": 395885,
+        "place_id": "CP8I7GKaCJkNb.w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Las Piedras, Falcon, Venezuela"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548556,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/395885_20101217_da28dcdd3a.tar.gz"
+        },
+        "bbox": [
+            -70.221176147461,
+            11.721158027649,
+            -70.21070098877,
+            11.724110603333
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.210876,
+                        11.724111
+                    ],
+                    [
+                        -70.210701,
+                        11.721242
+                    ],
+                    [
+                        -70.213898,
+                        11.721158
+                    ],
+                    [
+                        -70.221176,
+                        11.723343
+                    ],
+                    [
+                        -70.210876,
+                        11.724111
+                    ]
+                ]
+            ]
+        ]
+    }
+}

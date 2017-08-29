@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 31000,
+    "properties": {
+        "woe_id": 31000,
+        "place_id": "0KIvH7maAJzddQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Oldany, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234800735,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3550\/shapefiles\/31000_20090216_a74ac388c3.tar.gz"
+        },
+        "bbox": [
+            -5.2441692352295,
+            58.236095428467,
+            -5.2246851921082,
+            58.249729156494
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.229116,
+                        58.249729
+                    ],
+                    [
+                        -5.224685,
+                        58.242874
+                    ],
+                    [
+                        -5.244169,
+                        58.236095
+                    ],
+                    [
+                        -5.231895,
+                        58.245651
+                    ],
+                    [
+                        -5.229116,
+                        58.249729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

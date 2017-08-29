@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30237,
+    "properties": {
+        "woe_id": 30237,
+        "place_id": "3tVXiCKaAZ78dQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Newton in Bowland, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455683,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/30237_20101215_d64fa4a905.tar.gz"
+        },
+        "bbox": [
+            -2.4637260437012,
+            53.94877243042,
+            -2.4558730125427,
+            53.949695587158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.463254,
+                        53.949696
+                    ],
+                    [
+                        -2.461452,
+                        53.94952
+                    ],
+                    [
+                        -2.455873,
+                        53.949078
+                    ],
+                    [
+                        -2.45774,
+                        53.948772
+                    ],
+                    [
+                        -2.463726,
+                        53.94899
+                    ],
+                    [
+                        -2.463254,
+                        53.949696
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 32123,
+    "properties": {
+        "woe_id": 32123,
+        "place_id": "rdK66muaA53_dg",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Plain-an-Gwarry, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292540145,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/32123_20101216_7f03605f7b.tar.gz"
+        },
+        "bbox": [
+            -5.2343201637268,
+            50.233207702637,
+            -5.2284832000732,
+            50.239189147949
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -5.228847,
+                        50.233955
+                    ],
+                    [
+                        -5.228483,
+                        50.233208
+                    ],
+                    [
+                        -5.23432,
+                        50.233753
+                    ],
+                    [
+                        -5.231509,
+                        50.239189
+                    ],
+                    [
+                        -5.229921,
+                        50.236446
+                    ],
+                    [
+                        -5.228847,
+                        50.233955
+                    ]
+                ]
+            ]
+        ]
+    }
+}

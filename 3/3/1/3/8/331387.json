@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 331387,
+    "properties": {
+        "woe_id": 331387,
+        "place_id": "634FHKyaAp0CMHY",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Los Pinos, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292482983,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/331387_20101216_bb113b2517.tar.gz"
+        },
+        "bbox": [
+            -58.26135635376,
+            -37.849239349365,
+            -58.254764556885,
+            -37.84557723999
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.255474,
+                        -37.848087
+                    ],
+                    [
+                        -58.261356,
+                        -37.849239
+                    ],
+                    [
+                        -58.255692,
+                        -37.845577
+                    ],
+                    [
+                        -58.254833,
+                        -37.846867
+                    ],
+                    [
+                        -58.254765,
+                        -37.847759
+                    ],
+                    [
+                        -58.255474,
+                        -37.848087
+                    ]
+                ]
+            ]
+        ]
+    }
+}

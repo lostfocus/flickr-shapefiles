@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 330001,
+    "properties": {
+        "woe_id": 330001,
+        "place_id": "86qFyqKaApzeXf0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rivadavia, San Juan, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292490963,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5004\/shapefiles\/330001_20101216_ae5ca9dc9b.tar.gz"
+        },
+        "bbox": [
+            -68.560691833496,
+            -31.55396270752,
+            -68.558464050293,
+            -31.538602828979
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -68.558464,
+                        -31.538603
+                    ],
+                    [
+                        -68.558975,
+                        -31.544163
+                    ],
+                    [
+                        -68.560692,
+                        -31.553963
+                    ],
+                    [
+                        -68.560608,
+                        -31.545626
+                    ],
+                    [
+                        -68.558464,
+                        -31.538603
+                    ]
+                ]
+            ]
+        ]
+    }
+}

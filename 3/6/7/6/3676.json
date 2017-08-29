@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3676,
+    "properties": {
+        "woe_id": 3676,
+        "place_id": "WbaGaNuaB5tF",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Chatham, New Brunswick, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548136,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5086\/shapefiles\/3676_20101217_6f43af0aec.tar.gz"
+        },
+        "bbox": [
+            -65.474739074707,
+            47.027751922607,
+            -65.455680847168,
+            47.034301757812
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -65.461884,
+                        47.034302
+                    ],
+                    [
+                        -65.455681,
+                        47.027752
+                    ],
+                    [
+                        -65.462204,
+                        47.028599
+                    ],
+                    [
+                        -65.474739,
+                        47.028717
+                    ],
+                    [
+                        -65.461884,
+                        47.034302
+                    ]
+                ]
+            ]
+        ]
+    }
+}

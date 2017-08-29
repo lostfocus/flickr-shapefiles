@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 30010,
+    "properties": {
+        "woe_id": 30010,
+        "place_id": "Fp7qgz2aAZys_w",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Newball, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530426,
+        "alpha": 0.00244140625,
+        "points": 10,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/30010_20101216_fa48053643.tar.gz"
+        },
+        "bbox": [
+            -0.39876899123192,
+            53.266548156738,
+            -0.37216100096703,
+            53.272911071777
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.398769,
+                        53.266548
+                    ],
+                    [
+                        -0.385894,
+                        53.272911
+                    ],
+                    [
+                        -0.372161,
+                        53.270039
+                    ],
+                    [
+                        -0.380629,
+                        53.26931
+                    ],
+                    [
+                        -0.398769,
+                        53.266548
+                    ]
+                ]
+            ]
+        ]
+    }
+}

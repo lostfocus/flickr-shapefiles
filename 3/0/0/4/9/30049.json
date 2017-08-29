@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30049,
+    "properties": {
+        "woe_id": 30049,
+        "place_id": "XHDM.OKaAZwBWQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Newbridge, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292446825,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5246\/shapefiles\/30049_20101215_9b42f0b29b.tar.gz"
+        },
+        "bbox": [
+            -0.76397800445557,
+            54.259147644043,
+            -0.75634002685547,
+            54.262214660645
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.7611,
+                        54.259148
+                    ],
+                    [
+                        -0.763978,
+                        54.260284
+                    ],
+                    [
+                        -0.763034,
+                        54.261913
+                    ],
+                    [
+                        -0.758228,
+                        54.262115
+                    ],
+                    [
+                        -0.75634,
+                        54.262215
+                    ],
+                    [
+                        -0.7611,
+                        54.259148
+                    ]
+                ]
+            ]
+        ]
+    }
+}

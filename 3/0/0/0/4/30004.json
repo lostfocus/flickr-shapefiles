@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30004,
+    "properties": {
+        "woe_id": 30004,
+        "place_id": "5JLd6gOaAZxUsA",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "New York, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292438103,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5250\/shapefiles\/30004_20101215_25c1586ca5.tar.gz"
+        },
+        "bbox": [
+            -0.1428219974041,
+            53.074653625488,
+            -0.13864800333977,
+            53.081340789795
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.140719,
+                        53.074654
+                    ],
+                    [
+                        -0.142822,
+                        53.081341
+                    ],
+                    [
+                        -0.140204,
+                        53.079075
+                    ],
+                    [
+                        -0.1401,
+                        53.078812
+                    ],
+                    [
+                        -0.138648,
+                        53.076
+                    ],
+                    [
+                        -0.140719,
+                        53.074654
+                    ]
+                ]
+            ]
+        ]
+    }
+}

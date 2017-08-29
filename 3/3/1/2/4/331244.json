@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 331244,
+    "properties": {
+        "woe_id": 331244,
+        "place_id": "Tzf7.YaaAp27tZw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Las Toninas, Buenos Aires, Argentina"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534596,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5002\/shapefiles\/331244_20101216_ee84bcea12.tar.gz"
+        },
+        "bbox": [
+            -56.70919418335,
+            -36.462642669678,
+            -56.697177886963,
+            -36.441444396973
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -56.697178,
+                        -36.444485
+                    ],
+                    [
+                        -56.702156,
+                        -36.462643
+                    ],
+                    [
+                        -56.704559,
+                        -36.461018
+                    ],
+                    [
+                        -56.702499,
+                        -36.448353
+                    ],
+                    [
+                        -56.709194,
+                        -36.441444
+                    ],
+                    [
+                        -56.697178,
+                        -36.444485
+                    ]
+                ]
+            ]
+        ]
+    }
+}

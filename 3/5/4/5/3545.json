@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3545,
+    "properties": {
+        "woe_id": 3545,
+        "place_id": "TmtJEhGaBJg.",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "St.-C\u00e9saire, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473815,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/3545_20101216_afd8387769.tar.gz"
+        },
+        "bbox": [
+            -73.018798828125,
+            45.407833099365,
+            -73.001556396484,
+            45.414619445801
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.002693,
+                        45.410503
+                    ],
+                    [
+                        -73.001556,
+                        45.408665
+                    ],
+                    [
+                        -73.001663,
+                        45.407833
+                    ],
+                    [
+                        -73.018799,
+                        45.414619
+                    ],
+                    [
+                        -73.002693,
+                        45.410503
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 3902,
+    "properties": {
+        "woe_id": 3902,
+        "place_id": "XZLNKMmaCJxQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cape Anguille, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292545094,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5169\/shapefiles\/3902_20101217_2667fef58d.tar.gz"
+        },
+        "bbox": [
+            -59.420070648193,
+            47.886764526367,
+            -59.400329589844,
+            47.911968231201
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -59.420071,
+                        47.893673
+                    ],
+                    [
+                        -59.419556,
+                        47.899254
+                    ],
+                    [
+                        -59.409771,
+                        47.911968
+                    ],
+                    [
+                        -59.406853,
+                        47.897297
+                    ],
+                    [
+                        -59.40033,
+                        47.886765
+                    ],
+                    [
+                        -59.420071,
+                        47.893673
+                    ]
+                ]
+            ]
+        ]
+    }
+}

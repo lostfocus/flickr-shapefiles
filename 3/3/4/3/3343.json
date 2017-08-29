@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 3343,
+    "properties": {
+        "woe_id": 3343,
+        "place_id": "aUC.71.aApiQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Messines, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248265325,
+        "alpha": 0.00015,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2436\/shapefiles\/3343_20090722_4768185407.tar.gz"
+        },
+        "bbox": [
+            -76.020408630371,
+            46.224323272705,
+            -75.996894836426,
+            46.256202697754
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.999298,
+                        46.239582
+                    ],
+                    [
+                        -75.996895,
+                        46.224323
+                    ],
+                    [
+                        -76.007195,
+                        46.240116
+                    ],
+                    [
+                        -76.020409,
+                        46.252937
+                    ],
+                    [
+                        -76.006081,
+                        46.256203
+                    ],
+                    [
+                        -75.999298,
+                        46.239582
+                    ]
+                ]
+            ]
+        ]
+    }
+}

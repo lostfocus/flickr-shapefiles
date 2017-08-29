@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3567,
+    "properties": {
+        "woe_id": 3567,
+        "place_id": "lE.88xyaBJoZ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Monkland, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543663,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/3567_20101216_acc32f93b8.tar.gz"
+        },
+        "bbox": [
+            -74.920318603516,
+            45.185577392578,
+            -74.914581298828,
+            45.18900680542
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.915428,
+                        45.189007
+                    ],
+                    [
+                        -74.914581,
+                        45.188786
+                    ],
+                    [
+                        -74.914955,
+                        45.185577
+                    ],
+                    [
+                        -74.920319,
+                        45.18821
+                    ],
+                    [
+                        -74.915428,
+                        45.189007
+                    ]
+                ]
+            ]
+        ]
+    }
+}

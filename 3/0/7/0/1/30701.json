@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 30701,
+    "properties": {
+        "woe_id": 30701,
+        "place_id": "HjkqtHyaAZsiWw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Norton-on-Tees, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292464690,
+        "alpha": 0.000234375,
+        "points": 6,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/30701_20101216_144eb2d400.tar.gz"
+        },
+        "bbox": [
+            -1.3109350204468,
+            54.584480285645,
+            -1.2980489730835,
+            54.592105865479
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.310881,
+                        54.58448
+                    ],
+                    [
+                        -1.310935,
+                        54.584499
+                    ],
+                    [
+                        -1.309872,
+                        54.586254
+                    ],
+                    [
+                        -1.309293,
+                        54.586823
+                    ],
+                    [
+                        -1.298961,
+                        54.592106
+                    ],
+                    [
+                        -1.298049,
+                        54.591747
+                    ],
+                    [
+                        -1.310881,
+                        54.58448
+                    ]
+                ]
+            ]
+        ]
+    }
+}

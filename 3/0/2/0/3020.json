@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3020,
+    "properties": {
+        "woe_id": 3020,
+        "place_id": "rCw6TbCaAZ6D",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Wawanesa, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497928,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5042\/shapefiles\/3020_20101216_85aae7f469.tar.gz"
+        },
+        "bbox": [
+            -99.756370544434,
+            49.567420959473,
+            -99.749076843262,
+            49.570285797119
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -99.756371,
+                        49.567421
+                    ],
+                    [
+                        -99.756203,
+                        49.569981
+                    ],
+                    [
+                        -99.749077,
+                        49.570286
+                    ],
+                    [
+                        -99.752594,
+                        49.568424
+                    ],
+                    [
+                        -99.756371,
+                        49.567421
+                    ]
+                ]
+            ]
+        ]
+    }
+}

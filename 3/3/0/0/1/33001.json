@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 33001,
+    "properties": {
+        "woe_id": 33001,
+        "place_id": "dKU8leOaApyIbw",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Rearsby, England, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292530496,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5203\/shapefiles\/33001_20101216_e7a2e57aba.tar.gz"
+        },
+        "bbox": [
+            -1.045912027359,
+            52.723503112793,
+            -1.0344309806824,
+            52.73025894165
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.038894,
+                        52.723503
+                    ],
+                    [
+                        -1.045912,
+                        52.72567
+                    ],
+                    [
+                        -1.036048,
+                        52.730259
+                    ],
+                    [
+                        -1.034431,
+                        52.724648
+                    ],
+                    [
+                        -1.038894,
+                        52.723503
+                    ]
+                ]
+            ]
+        ]
+    }
+}

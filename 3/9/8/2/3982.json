@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 3982,
+    "properties": {
+        "woe_id": 3982,
+        "place_id": "6ME5wg6aCJT_",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Sunnyside, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534322,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/3982_20101216_10661f3ce3.tar.gz"
+        },
+        "bbox": [
+            -53.962181091309,
+            47.935840606689,
+            -53.950824737549,
+            47.952224731445
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -53.951969,
+                        47.948257
+                    ],
+                    [
+                        -53.950825,
+                        47.946331
+                    ],
+                    [
+                        -53.962181,
+                        47.935841
+                    ],
+                    [
+                        -53.957291,
+                        47.952225
+                    ],
+                    [
+                        -53.952827,
+                        47.948956
+                    ],
+                    [
+                        -53.951969,
+                        47.948257
+                    ]
+                ]
+            ]
+        ]
+    }
+}

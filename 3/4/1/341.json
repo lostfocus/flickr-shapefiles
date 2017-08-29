@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 341,
+    "properties": {
+        "woe_id": 341,
+        "place_id": "dVGP_Z.aBZ0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Cox's Cove, Newfoundland and Labrador, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455547,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5003\/shapefiles\/341_20101215_bc103cbf5c.tar.gz"
+        },
+        "bbox": [
+            -58.086002349854,
+            49.116802215576,
+            -58.072956085205,
+            49.131969451904
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -58.083427,
+                        49.130733
+                    ],
+                    [
+                        -58.0811,
+                        49.129101
+                    ],
+                    [
+                        -58.080082,
+                        49.128262
+                    ],
+                    [
+                        -58.072956,
+                        49.123993
+                    ],
+                    [
+                        -58.081036,
+                        49.116802
+                    ],
+                    [
+                        -58.08493,
+                        49.130676
+                    ],
+                    [
+                        -58.086002,
+                        49.131969
+                    ],
+                    [
+                        -58.083427,
+                        49.130733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

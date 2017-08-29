@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3048,
+    "properties": {
+        "woe_id": 3048,
+        "place_id": "FSIW6BKaAZi0",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Hawk Lake, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1247749082,
+        "alpha": 0.00015,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2612\/shapefiles\/3048_20090716_9029888cc0.tar.gz"
+        },
+        "bbox": [
+            -93.948341369629,
+            49.833652496338,
+            -93.948226928711,
+            49.833671569824
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -93.948341,
+                        49.833652
+                    ],
+                    [
+                        -93.948227,
+                        49.833672
+                    ],
+                    [
+                        -93.94828,
+                        49.83366
+                    ],
+                    [
+                        -93.948318,
+                        49.833652
+                    ],
+                    [
+                        -93.948341,
+                        49.833652
+                    ]
+                ]
+            ]
+        ]
+    }
+}

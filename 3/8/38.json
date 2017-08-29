@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 38,
+    "properties": {
+        "woe_id": 38,
+        "place_id": "7fIegBGaCQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Avonlea, Saskatchewan, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292473746,
+        "alpha": 0.00015,
+        "points": 14,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/38_20101216_0aa1b56bde.tar.gz"
+        },
+        "bbox": [
+            -104.99766540527,
+            50.007331848145,
+            -104.99092102051,
+            50.019828796387
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -104.994446,
+                        50.010277
+                    ],
+                    [
+                        -104.997665,
+                        50.007332
+                    ],
+                    [
+                        -104.996597,
+                        50.013367
+                    ],
+                    [
+                        -104.990921,
+                        50.019829
+                    ],
+                    [
+                        -104.994446,
+                        50.010277
+                    ]
+                ]
+            ]
+        ]
+    }
+}

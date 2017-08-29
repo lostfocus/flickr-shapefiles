@@ -1,0 +1,66 @@
+{
+    "type": "Feature",
+    "id": 3506,
+    "properties": {
+        "woe_id": 3506,
+        "place_id": "qJdhd2KaBJxU",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Ste.-Julienne, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292546929,
+        "alpha": 0.00015,
+        "points": 25,
+        "edges": 8,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5163\/shapefiles\/3506_20101217_4bf7f13b8a.tar.gz"
+        },
+        "bbox": [
+            -73.726501464844,
+            45.960548400879,
+            -73.706245422363,
+            45.980369567871
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -73.716248,
+                        45.961243
+                    ],
+                    [
+                        -73.726501,
+                        45.963081
+                    ],
+                    [
+                        -73.722382,
+                        45.972153
+                    ],
+                    [
+                        -73.725105,
+                        45.98037
+                    ],
+                    [
+                        -73.715218,
+                        45.973011
+                    ],
+                    [
+                        -73.706245,
+                        45.960548
+                    ],
+                    [
+                        -73.709938,
+                        45.960918
+                    ],
+                    [
+                        -73.716248,
+                        45.961243
+                    ]
+                ]
+            ]
+        ]
+    }
+}

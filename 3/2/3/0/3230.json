@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 3230,
+    "properties": {
+        "woe_id": 3230,
+        "place_id": "iaID6USaA58i",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Evansville, Ontario, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525277,
+        "alpha": 0.00015,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5290\/shapefiles\/3230_20101216_8bf2f8db7f.tar.gz"
+        },
+        "bbox": [
+            -82.574249267578,
+            45.812694549561,
+            -82.553932189941,
+            45.823055267334
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -82.573715,
+                        45.812695
+                    ],
+                    [
+                        -82.574249,
+                        45.815327
+                    ],
+                    [
+                        -82.553932,
+                        45.823055
+                    ],
+                    [
+                        -82.554016,
+                        45.819706
+                    ],
+                    [
+                        -82.573715,
+                        45.812695
+                    ]
+                ]
+            ]
+        ]
+    }
+}

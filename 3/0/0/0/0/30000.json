@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30000,
+    "properties": {
+        "woe_id": 30000,
+        "place_id": "Fklkf9KaAZyIbQ",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "New Winton, Scotland, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292515448,
+        "alpha": 0.00015,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/30000_20101216_13a8c00ed1.tar.gz"
+        },
+        "bbox": [
+            -2.9184679985046,
+            55.91487121582,
+            -2.9056689739227,
+            55.928184509277
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.907793,
+                        55.921791
+                    ],
+                    [
+                        -2.905669,
+                        55.914871
+                    ],
+                    [
+                        -2.908887,
+                        55.915543
+                    ],
+                    [
+                        -2.912492,
+                        55.918861
+                    ],
+                    [
+                        -2.918468,
+                        55.928185
+                    ],
+                    [
+                        -2.907793,
+                        55.921791
+                    ]
+                ]
+            ]
+        ]
+    }
+}

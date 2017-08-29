@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 350389,
+    "properties": {
+        "woe_id": 350389,
+        "place_id": "5rGTsySaBJymadE",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Unihue, Biobio Region, Chile"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292519485,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5007\/shapefiles\/350389_20101216_064f6fe85b.tar.gz"
+        },
+        "bbox": [
+            -72.943893432617,
+            -37.132129669189,
+            -72.93342590332,
+            -37.110774993896
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -72.935753,
+                        -37.118729
+                    ],
+                    [
+                        -72.933426,
+                        -37.13213
+                    ],
+                    [
+                        -72.938232,
+                        -37.124466
+                    ],
+                    [
+                        -72.942352,
+                        -37.115978
+                    ],
+                    [
+                        -72.943893,
+                        -37.110775
+                    ],
+                    [
+                        -72.935753,
+                        -37.118729
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 387,
+    "properties": {
+        "woe_id": 387,
+        "place_id": "xn4VRKuaCZs",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Delta Beach, Manitoba, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239413644,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3596\/shapefiles\/387_20090411_b8d708edee.tar.gz"
+        },
+        "bbox": [
+            -98.394927978516,
+            50.176128387451,
+            -98.372093200684,
+            50.185691833496
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -98.38102,
+                        50.176128
+                    ],
+                    [
+                        -98.394928,
+                        50.183056
+                    ],
+                    [
+                        -98.394409,
+                        50.184704
+                    ],
+                    [
+                        -98.388748,
+                        50.185692
+                    ],
+                    [
+                        -98.380676,
+                        50.183495
+                    ],
+                    [
+                        -98.372093,
+                        50.184208
+                    ],
+                    [
+                        -98.38102,
+                        50.176128
+                    ]
+                ]
+            ]
+        ]
+    }
+}

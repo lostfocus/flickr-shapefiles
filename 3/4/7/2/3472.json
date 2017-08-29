@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 3472,
+    "properties": {
+        "woe_id": 3472,
+        "place_id": "YfF9xdGaBZsa",
+        "place_type": "locality",
+        "place_type_id": 7,
+        "label": "Vall\u00e9e-Jonction, Quebec, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292528765,
+        "alpha": 0.00015,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5209\/shapefiles\/3472_20101216_00718221d7.tar.gz"
+        },
+        "bbox": [
+            -70.928344726562,
+            46.367542266846,
+            -70.918441772461,
+            46.376838684082
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -70.925354,
+                        46.376484
+                    ],
+                    [
+                        -70.924347,
+                        46.376839
+                    ],
+                    [
+                        -70.923386,
+                        46.375847
+                    ],
+                    [
+                        -70.918442,
+                        46.367542
+                    ],
+                    [
+                        -70.928345,
+                        46.368404
+                    ],
+                    [
+                        -70.925354,
+                        46.376484
+                    ]
+                ]
+            ]
+        ]
+    }
+}
