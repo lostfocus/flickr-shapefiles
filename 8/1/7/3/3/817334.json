@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 817334,
+    "properties": {
+        "woe_id": 817334,
+        "place_id": "Er83nvaRAJvdK7Q",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Vadaskertpuszta, Shalgo Tar'yan, Salg\u00f3tarj\u00e1n, HU, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458886,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5210\/shapefiles\/817334_20101216_e404345467.tar.gz"
+        },
+        "bbox": [
+            19.798746109009,
+            48.107475280762,
+            19.803716659546,
+            48.108310699463
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.803576,
+                        48.107613
+                    ],
+                    [
+                        19.798746,
+                        48.108311
+                    ],
+                    [
+                        19.803595,
+                        48.107632
+                    ],
+                    [
+                        19.803694,
+                        48.107586
+                    ],
+                    [
+                        19.803717,
+                        48.107475
+                    ],
+                    [
+                        19.803576,
+                        48.107613
+                    ]
+                ]
+            ]
+        ]
+    }
+}

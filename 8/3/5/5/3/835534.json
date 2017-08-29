@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 835534,
+    "properties": {
+        "woe_id": 835534,
+        "place_id": "7wqUsgCRApl8tMo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Chitakovi Kolibi, Zlatograd, Smolyan, BG, Bulgaria"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292541258,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/835534_20101216_b8cb4d534a.tar.gz"
+        },
+        "bbox": [
+            25.090370178223,
+            41.379207611084,
+            25.097578048706,
+            41.381572723389
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        25.09494,
+                        41.379208
+                    ],
+                    [
+                        25.094576,
+                        41.379543
+                    ],
+                    [
+                        25.09037,
+                        41.381382
+                    ],
+                    [
+                        25.092344,
+                        41.381573
+                    ],
+                    [
+                        25.097578,
+                        41.380802
+                    ],
+                    [
+                        25.09494,
+                        41.379208
+                    ]
+                ]
+            ]
+        ]
+    }
+}

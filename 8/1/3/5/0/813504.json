@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 813504,
+    "properties": {
+        "woe_id": 813504,
+        "place_id": "v1h70niRAJ92z4M",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Paplapos, Monor, Pest, HU, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458926,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/813504_20101216_e7a19cd5e7.tar.gz"
+        },
+        "bbox": [
+            19.44584274292,
+            47.349044799805,
+            19.448268890381,
+            47.352054595947
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.447044,
+                        47.350803
+                    ],
+                    [
+                        19.448269,
+                        47.349045
+                    ],
+                    [
+                        19.446787,
+                        47.350834
+                    ],
+                    [
+                        19.446014,
+                        47.351673
+                    ],
+                    [
+                        19.445843,
+                        47.352055
+                    ],
+                    [
+                        19.446529,
+                        47.351326
+                    ],
+                    [
+                        19.447044,
+                        47.350803
+                    ]
+                ]
+            ]
+        ]
+    }
+}

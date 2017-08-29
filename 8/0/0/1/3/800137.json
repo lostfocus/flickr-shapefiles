@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 800137,
+    "properties": {
+        "woe_id": 800137,
+        "place_id": "n38gT5uRAZxmcjU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Uhrineves, Prague 10, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524126,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5285\/shapefiles\/800137_20101216_00919f2e70.tar.gz"
+        },
+        "bbox": [
+            14.609020233154,
+            50.02619934082,
+            14.613039016724,
+            50.028804779053
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.6125,
+                        50.0285
+                    ],
+                    [
+                        14.613039,
+                        50.026447
+                    ],
+                    [
+                        14.611794,
+                        50.026199
+                    ],
+                    [
+                        14.60902,
+                        50.028069
+                    ],
+                    [
+                        14.611816,
+                        50.028805
+                    ],
+                    [
+                        14.6125,
+                        50.0285
+                    ]
+                ]
+            ]
+        ]
+    }
+}

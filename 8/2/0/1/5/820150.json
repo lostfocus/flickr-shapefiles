@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 820150,
+    "properties": {
+        "woe_id": 820150,
+        "place_id": "dVYIP4CRA5yCNrs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kavecany, Kosice, Kosicky, SK, Slovakia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1229416806,
+        "alpha": 0.00015,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3176\/shapefiles\/820150_20081216_c84283ec64.tar.gz"
+        },
+        "bbox": [
+            21.191595077515,
+            48.773746490479,
+            21.206102371216,
+            48.785095214844
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        21.206102,
+                        48.785095
+                    ],
+                    [
+                        21.204847,
+                        48.774715
+                    ],
+                    [
+                        21.205158,
+                        48.773746
+                    ],
+                    [
+                        21.191595,
+                        48.779156
+                    ],
+                    [
+                        21.206102,
+                        48.785095
+                    ]
+                ]
+            ]
+        ]
+    }
+}

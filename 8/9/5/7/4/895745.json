@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 895745,
+    "properties": {
+        "woe_id": 895745,
+        "place_id": "13HB052RCJnwIGs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kopparmora, V\u00e4rmd\u00f6, Stockholm, SE, Sweden"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548604,
+        "alpha": 1.0e-5,
+        "points": 29,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/895745_20101217_f896de55aa.tar.gz"
+        },
+        "bbox": [
+            18.614273071289,
+            59.339710235596,
+            18.619508743286,
+            59.346099853516
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        18.616161,
+                        59.342445
+                    ],
+                    [
+                        18.619509,
+                        59.33971
+                    ],
+                    [
+                        18.615431,
+                        59.341351
+                    ],
+                    [
+                        18.614273,
+                        59.3461
+                    ],
+                    [
+                        18.617332,
+                        59.345833
+                    ],
+                    [
+                        18.616161,
+                        59.342445
+                    ]
+                ]
+            ]
+        ]
+    }
+}

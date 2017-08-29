@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 879921,
+    "properties": {
+        "woe_id": 879921,
+        "place_id": "WosdHo.RBpV6bG0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Scheiul, C\u00eempulung, Arges, RO, Romania"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292499546,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5005\/shapefiles\/879921_20101216_e766e96ec9.tar.gz"
+        },
+        "bbox": [
+            25.052089691162,
+            45.278266906738,
+            25.055179595947,
+            45.285968780518
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        25.052261,
+                        45.278267
+                    ],
+                    [
+                        25.05209,
+                        45.281937
+                    ],
+                    [
+                        25.052776,
+                        45.285515
+                    ],
+                    [
+                        25.05415,
+                        45.285969
+                    ],
+                    [
+                        25.05518,
+                        45.280926
+                    ],
+                    [
+                        25.052261,
+                        45.278267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

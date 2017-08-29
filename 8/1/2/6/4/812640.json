@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 812640,
+    "properties": {
+        "woe_id": 812640,
+        "place_id": "Zav5RkCRAJ5vfgU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Nagytelek, Hatvan, Heves, HU, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292511609,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5207\/shapefiles\/812640_20101216_2512d0295b.tar.gz"
+        },
+        "bbox": [
+            19.681083679199,
+            47.665733337402,
+            19.685623168945,
+            47.669273376465
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        19.684067,
+                        47.665733
+                    ],
+                    [
+                        19.683552,
+                        47.666389
+                    ],
+                    [
+                        19.681084,
+                        47.669273
+                    ],
+                    [
+                        19.683134,
+                        47.667923
+                    ],
+                    [
+                        19.685623,
+                        47.667263
+                    ],
+                    [
+                        19.684067,
+                        47.665733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

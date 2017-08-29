@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 800182,
+    "properties": {
+        "woe_id": 800182,
+        "place_id": "CB_ddIiRAZzWBWM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "\u00dajezd u Pr\u00fehonic, Prague 4, Hlavni mesto Praha, CZ, Czech Republic"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292549096,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5088\/shapefiles\/800182_20101217_d86b813bb8.tar.gz"
+        },
+        "bbox": [
+            14.557479858398,
+            49.996196746826,
+            14.560063362122,
+            49.999393463135
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        14.559609,
+                        49.998444
+                    ],
+                    [
+                        14.560063,
+                        49.997272
+                    ],
+                    [
+                        14.55748,
+                        49.996197
+                    ],
+                    [
+                        14.558086,
+                        49.996937
+                    ],
+                    [
+                        14.558583,
+                        49.998074
+                    ],
+                    [
+                        14.559266,
+                        49.999393
+                    ],
+                    [
+                        14.559609,
+                        49.998444
+                    ]
+                ]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 806123,
+    "properties": {
+        "woe_id": 806123,
+        "place_id": "7Vnmk1WRAZq82YQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Farkashegy, Kisv\u00e1rda, Szabolcs-Szatm\u00e1r-Bereg, HU, Hungary"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292548218,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5044\/shapefiles\/806123_20101217_edd35b34f7.tar.gz"
+        },
+        "bbox": [
+            22.072948455811,
+            48.228073120117,
+            22.077262878418,
+            48.234027862549
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        22.072948,
+                        48.230404
+                    ],
+                    [
+                        22.077219,
+                        48.234028
+                    ],
+                    [
+                        22.077263,
+                        48.233986
+                    ],
+                    [
+                        22.075739,
+                        48.228073
+                    ],
+                    [
+                        22.072948,
+                        48.230404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

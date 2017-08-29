@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 884030,
+    "properties": {
+        "woe_id": 884030,
+        "place_id": "D2OutW.RCZjx0qs",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Zidarii, R\u00eemnicu S\u00e6rat, Buzau, RO, Romania"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292506202,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5084\/shapefiles\/884030_20101216_026b84e59f.tar.gz"
+        },
+        "bbox": [
+            27.037515640259,
+            45.384372711182,
+            27.04381942749,
+            45.391258239746
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        27.04129,
+                        45.384373
+                    ],
+                    [
+                        27.037516,
+                        45.385403
+                    ],
+                    [
+                        27.041731,
+                        45.387993
+                    ],
+                    [
+                        27.043819,
+                        45.391258
+                    ],
+                    [
+                        27.042059,
+                        45.387859
+                    ],
+                    [
+                        27.04129,
+                        45.384373
+                    ]
+                ]
+            ]
+        ]
+    }
+}
