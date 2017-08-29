@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1588403,
+    "properties": {
+        "woe_id": 1588403,
+        "place_id": "3LRN.HaYBJSXugaz",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Umbilo, Durban, Kwazulu Natal, ZA, South Africa"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292517184,
+        "alpha": 1.0e-5,
+        "points": 15,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/1588403_20101216_25202fac3c.tar.gz"
+        },
+        "bbox": [
+            30.994470596313,
+            -29.887107849121,
+            30.999298095703,
+            -29.885229110718
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        30.997581,
+                        -29.886635
+                    ],
+                    [
+                        30.994471,
+                        -29.885248
+                    ],
+                    [
+                        30.997581,
+                        -29.885378
+                    ],
+                    [
+                        30.999298,
+                        -29.885229
+                    ],
+                    [
+                        30.997904,
+                        -29.887108
+                    ],
+                    [
+                        30.997581,
+                        -29.886635
+                    ]
+                ]
+            ]
+        ]
+    }
+}

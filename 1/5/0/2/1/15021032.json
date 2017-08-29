@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 15021032,
+    "properties": {
+        "woe_id": 15021032,
+        "place_id": "BEkT7i.YBJw_R8d6UQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Keilor East, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292523547,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/15021032_20101216_67f346051e.tar.gz"
+        },
+        "bbox": [
+            144.86950683594,
+            -37.733833312988,
+            144.87310791016,
+            -37.730167388916
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.870331,
+                        -37.733501
+                    ],
+                    [
+                        144.870163,
+                        -37.733833
+                    ],
+                    [
+                        144.869659,
+                        -37.732834
+                    ],
+                    [
+                        144.869507,
+                        -37.730167
+                    ],
+                    [
+                        144.873108,
+                        -37.730503
+                    ],
+                    [
+                        144.870331,
+                        -37.733501
+                    ]
+                ]
+            ]
+        ]
+    }
+}

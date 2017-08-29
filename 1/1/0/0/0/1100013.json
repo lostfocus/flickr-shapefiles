@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1100013,
+    "properties": {
+        "woe_id": 1100013,
+        "place_id": "HQoACj6YAJyn3Of0",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Australind, Bunbury, WA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1248052343,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm3.static.flickr.com\/2503\/shapefiles\/1100013_20090720_623125eb65.tar.gz"
+        },
+        "bbox": [
+            115.70483398438,
+            -33.296188354492,
+            115.7063369751,
+            -33.293445587158
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        115.704834,
+                        -33.294521
+                    ],
+                    [
+                        115.704872,
+                        -33.293678
+                    ],
+                    [
+                        115.705002,
+                        -33.293446
+                    ],
+                    [
+                        115.705559,
+                        -33.29425
+                    ],
+                    [
+                        115.706337,
+                        -33.296188
+                    ],
+                    [
+                        115.704834,
+                        -33.294521
+                    ]
+                ]
+            ]
+        ]
+    }
+}

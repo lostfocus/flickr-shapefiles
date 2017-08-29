@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1105776,
+    "properties": {
+        "woe_id": 1105776,
+        "place_id": "5yCrWxOYAJxoXVmE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Swansea, Newcastle, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292456097,
+        "alpha": 1.0e-5,
+        "points": 36,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/1105776_20101215_1ddd7bec79.tar.gz"
+        },
+        "bbox": [
+            151.63673400879,
+            -33.08801651001,
+            151.64106750488,
+            -33.084636688232
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.641068,
+                        -33.087093
+                    ],
+                    [
+                        151.641006,
+                        -33.087658
+                    ],
+                    [
+                        151.638107,
+                        -33.088017
+                    ],
+                    [
+                        151.636734,
+                        -33.084637
+                    ],
+                    [
+                        151.639008,
+                        -33.086067
+                    ],
+                    [
+                        151.639755,
+                        -33.086342
+                    ],
+                    [
+                        151.641068,
+                        -33.087093
+                    ]
+                ]
+            ]
+        ]
+    }
+}

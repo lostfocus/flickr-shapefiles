@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1040912,
+    "properties": {
+        "woe_id": 1040912,
+        "place_id": "6iNMgx2YAZj5Mb1E",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Penjaringan, Jakarta, DKI Jakarta, ID, Indonesia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543630,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5206\/shapefiles\/1040912_20101216_77211aa3ec.tar.gz"
+        },
+        "bbox": [
+            106.77174377441,
+            -6.116916179657,
+            106.77391052246,
+            -6.1125631332397
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        106.772697,
+                        -6.115067
+                    ],
+                    [
+                        106.771744,
+                        -6.116916
+                    ],
+                    [
+                        106.771873,
+                        -6.116062
+                    ],
+                    [
+                        106.772682,
+                        -6.11505
+                    ],
+                    [
+                        106.773911,
+                        -6.112563
+                    ],
+                    [
+                        106.772697,
+                        -6.115067
+                    ]
+                ]
+            ]
+        ]
+    }
+}

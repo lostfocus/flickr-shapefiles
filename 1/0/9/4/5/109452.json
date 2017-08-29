@@ -1,0 +1,70 @@
+{
+    "type": "Feature",
+    "id": 109452,
+    "properties": {
+        "woe_id": 109452,
+        "place_id": "4qh_UCaYAZVOHUA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mona Heights, Kingston, Saint Andrew, JM, Jamaica"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292533138,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 9,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5249\/shapefiles\/109452_20101216_ccdc00814c.tar.gz"
+        },
+        "bbox": [
+            -76.748275756836,
+            17.995468139648,
+            -76.743545532227,
+            18.007875442505
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -76.747566,
+                        18.005672
+                    ],
+                    [
+                        -76.748276,
+                        18.004519
+                    ],
+                    [
+                        -76.747948,
+                        17.998993
+                    ],
+                    [
+                        -76.743546,
+                        18.000713
+                    ],
+                    [
+                        -76.745338,
+                        17.995468
+                    ],
+                    [
+                        -76.747948,
+                        17.998993
+                    ],
+                    [
+                        -76.746666,
+                        18.004999
+                    ],
+                    [
+                        -76.747284,
+                        18.007875
+                    ],
+                    [
+                        -76.747566,
+                        18.005672
+                    ]
+                ]
+            ]
+        ]
+    }
+}

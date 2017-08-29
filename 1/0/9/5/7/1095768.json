@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1095768,
+    "properties": {
+        "woe_id": 1095768,
+        "place_id": ".poHSgWYAZUx0S.1",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Fassifern, Newcastle, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292451320,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5287\/shapefiles\/1095768_20101215_80d4fe4ef3.tar.gz"
+        },
+        "bbox": [
+            151.5785369873,
+            -32.989803314209,
+            151.5810546875,
+            -32.985614776611
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.580765,
+                        -32.989803
+                    ],
+                    [
+                        151.578537,
+                        -32.988361
+                    ],
+                    [
+                        151.581055,
+                        -32.985615
+                    ],
+                    [
+                        151.581055,
+                        -32.985985
+                    ],
+                    [
+                        151.580948,
+                        -32.988937
+                    ],
+                    [
+                        151.580765,
+                        -32.989803
+                    ]
+                ]
+            ]
+        ]
+    }
+}

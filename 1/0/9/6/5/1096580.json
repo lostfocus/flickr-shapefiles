@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1096580,
+    "properties": {
+        "woe_id": 1096580,
+        "place_id": "ZtLRj4qYAZWjil30",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kennington, Bendigo, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292539684,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5050\/shapefiles\/1096580_20101216_db4a7d3981.tar.gz"
+        },
+        "bbox": [
+            144.29872131348,
+            -36.780811309814,
+            144.30117797852,
+            -36.77677154541
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.300446,
+                        -36.779915
+                    ],
+                    [
+                        144.298721,
+                        -36.776772
+                    ],
+                    [
+                        144.300507,
+                        -36.776833
+                    ],
+                    [
+                        144.300949,
+                        -36.779865
+                    ],
+                    [
+                        144.301178,
+                        -36.780811
+                    ],
+                    [
+                        144.300446,
+                        -36.779915
+                    ]
+                ]
+            ]
+        ]
+    }
+}

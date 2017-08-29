@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1095180,
+    "properties": {
+        "woe_id": 1095180,
+        "place_id": "HCSQA6OYAZX7ujeK",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Connells Point, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292524285,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5283\/shapefiles\/1095180_20101216_825a3722a3.tar.gz"
+        },
+        "bbox": [
+            151.08515930176,
+            -33.983333587646,
+            151.08833312988,
+            -33.982334136963
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.088333,
+                        -33.982498
+                    ],
+                    [
+                        151.088165,
+                        -33.982498
+                    ],
+                    [
+                        151.085159,
+                        -33.983334
+                    ],
+                    [
+                        151.085495,
+                        -33.982834
+                    ],
+                    [
+                        151.088165,
+                        -33.982334
+                    ],
+                    [
+                        151.088333,
+                        -33.982498
+                    ]
+                ]
+            ]
+        ]
+    }
+}

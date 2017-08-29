@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1105127,
+    "properties": {
+        "woe_id": 1105127,
+        "place_id": "bw3v_v2YAJyIaAIF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Port Hughes, Moonta, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529905,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/1105127_20101216_338c553733.tar.gz"
+        },
+        "bbox": [
+            137.54641723633,
+            -34.074203491211,
+            137.55352783203,
+            -34.069725036621
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        137.546417,
+                        -34.070293
+                    ],
+                    [
+                        137.552429,
+                        -34.069725
+                    ],
+                    [
+                        137.553528,
+                        -34.071556
+                    ],
+                    [
+                        137.547791,
+                        -34.072613
+                    ],
+                    [
+                        137.546936,
+                        -34.074203
+                    ],
+                    [
+                        137.546417,
+                        -34.070293
+                    ]
+                ]
+            ]
+        ]
+    }
+}

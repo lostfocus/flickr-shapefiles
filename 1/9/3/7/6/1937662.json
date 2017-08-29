@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1937662,
+    "properties": {
+        "woe_id": 1937662,
+        "place_id": "I7m4lsOYCJ_QtH5z",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Al Janadiriyah, Riyadh, Ar Riyad, SA, Saudi Arabia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538006,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/1937662_20101216_5a84434721.tar.gz"
+        },
+        "bbox": [
+            46.858661651611,
+            24.804498672485,
+            46.862266540527,
+            24.807771682739
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        46.859779,
+                        24.804733
+                    ],
+                    [
+                        46.858662,
+                        24.807772
+                    ],
+                    [
+                        46.860294,
+                        24.806837
+                    ],
+                    [
+                        46.862267,
+                        24.804733
+                    ],
+                    [
+                        46.860809,
+                        24.804499
+                    ],
+                    [
+                        46.859779,
+                        24.804733
+                    ]
+                ]
+            ]
+        ]
+    }
+}

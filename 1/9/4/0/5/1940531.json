@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1940531,
+    "properties": {
+        "woe_id": 1940531,
+        "place_id": "1GXWegaYCJjumL4M",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Al Adiliyah, Kuwait City, Al `Asimah, KW, Kuwait"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1234733883,
+        "alpha": 0.00015,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3253\/shapefiles\/1940531_20090215_474159015f.tar.gz"
+        },
+        "bbox": [
+            47.969913482666,
+            29.309602737427,
+            47.983818054199,
+            29.323072433472
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        47.978153,
+                        29.319481
+                    ],
+                    [
+                        47.982101,
+                        29.322025
+                    ],
+                    [
+                        47.983818,
+                        29.323072
+                    ],
+                    [
+                        47.980042,
+                        29.318733
+                    ],
+                    [
+                        47.969913,
+                        29.309603
+                    ],
+                    [
+                        47.978153,
+                        29.319481
+                    ]
+                ]
+            ]
+        ]
+    }
+}

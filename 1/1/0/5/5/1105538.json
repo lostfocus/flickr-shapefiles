@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1105538,
+    "properties": {
+        "woe_id": 1105538,
+        "place_id": "IDxmmmOYAJy3o7TO",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Seville, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292537327,
+        "alpha": 1.0e-5,
+        "points": 18,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5244\/shapefiles\/1105538_20101216_66c17b094c.tar.gz"
+        },
+        "bbox": [
+            145.48883056641,
+            -37.775684356689,
+            145.49362182617,
+            -37.773056030273
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.490219,
+                        -37.77404
+                    ],
+                    [
+                        145.488831,
+                        -37.77404
+                    ],
+                    [
+                        145.490829,
+                        -37.773056
+                    ],
+                    [
+                        145.493622,
+                        -37.775684
+                    ],
+                    [
+                        145.490219,
+                        -37.77404
+                    ]
+                ]
+            ]
+        ]
+    }
+}

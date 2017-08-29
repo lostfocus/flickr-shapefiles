@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1442596,
+    "properties": {
+        "woe_id": 1442596,
+        "place_id": "EvQyM3eYBZh7jIuE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Saint-Georges, Tunis, Tunis, TN, Tunisia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525453,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5289\/shapefiles\/1442596_20101216_775c685ab3.tar.gz"
+        },
+        "bbox": [
+            10.163352012634,
+            36.802593231201,
+            10.167963981628,
+            36.805297851562
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        10.166859,
+                        36.802593
+                    ],
+                    [
+                        10.163352,
+                        36.803097
+                    ],
+                    [
+                        10.166183,
+                        36.804031
+                    ],
+                    [
+                        10.166999,
+                        36.804783
+                    ],
+                    [
+                        10.167964,
+                        36.805298
+                    ],
+                    [
+                        10.166859,
+                        36.802593
+                    ]
+                ]
+            ]
+        ]
+    }
+}

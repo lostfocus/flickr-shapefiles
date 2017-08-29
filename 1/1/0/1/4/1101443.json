@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1101443,
+    "properties": {
+        "woe_id": 1101443,
+        "place_id": "0VOln76YAJxE1hkE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Cremorne, Mackay, QLD, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292529921,
+        "alpha": 1.0e-5,
+        "points": 10,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5167\/shapefiles\/1101443_20101216_08bb578727.tar.gz"
+        },
+        "bbox": [
+            149.1838684082,
+            -21.139987945557,
+            149.19073486328,
+            -21.136785507202
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        149.186615,
+                        -21.139267
+                    ],
+                    [
+                        149.183868,
+                        -21.138145
+                    ],
+                    [
+                        149.187119,
+                        -21.136786
+                    ],
+                    [
+                        149.187958,
+                        -21.137466
+                    ],
+                    [
+                        149.190735,
+                        -21.139988
+                    ],
+                    [
+                        149.188507,
+                        -21.139587
+                    ],
+                    [
+                        149.186615,
+                        -21.139267
+                    ]
+                ]
+            ]
+        ]
+    }
+}

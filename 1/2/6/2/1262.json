@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 1262,
+    "properties": {
+        "woe_id": 1262,
+        "place_id": "lMlBuKaYA5oM",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Port Morien, Port Morien, NS, CA, Canada"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292497561,
+        "alpha": 1.0e-5,
+        "points": 14,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5041\/shapefiles\/1262_20101216_d184887f9b.tar.gz"
+        },
+        "bbox": [
+            -59.872055053711,
+            46.126258850098,
+            -59.867408752441,
+            46.132991790771
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -59.867409,
+                        46.130276
+                    ],
+                    [
+                        -59.871796,
+                        46.126259
+                    ],
+                    [
+                        -59.872055,
+                        46.131077
+                    ],
+                    [
+                        -59.871292,
+                        46.132992
+                    ],
+                    [
+                        -59.869888,
+                        46.131454
+                    ],
+                    [
+                        -59.867794,
+                        46.131092
+                    ],
+                    [
+                        -59.867409,
+                        46.130276
+                    ]
+                ]
+            ]
+        ]
+    }
+}

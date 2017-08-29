@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1102524,
+    "properties": {
+        "woe_id": 1102524,
+        "place_id": "hl1KzB2YAJxaA8s4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Hallam, Melbourne, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292542523,
+        "alpha": 1.0e-5,
+        "points": 16,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5247\/shapefiles\/1102524_20101216_7a7c86f539.tar.gz"
+        },
+        "bbox": [
+            145.26019287109,
+            -38.016788482666,
+            145.26312255859,
+            -38.011920928955
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        145.261917,
+                        -38.012596
+                    ],
+                    [
+                        145.263123,
+                        -38.014423
+                    ],
+                    [
+                        145.260712,
+                        -38.016788
+                    ],
+                    [
+                        145.260544,
+                        -38.014084
+                    ],
+                    [
+                        145.260193,
+                        -38.011921
+                    ],
+                    [
+                        145.261917,
+                        -38.012596
+                    ]
+                ]
+            ]
+        ]
+    }
+}

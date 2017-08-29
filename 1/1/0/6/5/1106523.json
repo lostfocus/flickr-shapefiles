@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1106523,
+    "properties": {
+        "woe_id": 1106523,
+        "place_id": "rzummwuYAJxxIPcg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Waurn Ponds, Geelong, VIC, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1239434525,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm4.static.flickr.com\/3331\/shapefiles\/1106523_20090411_45fd280e24.tar.gz"
+        },
+        "bbox": [
+            144.30172729492,
+            -38.205146789551,
+            144.30773925781,
+            -38.202709197998
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        144.307739,
+                        -38.204666
+                    ],
+                    [
+                        144.304016,
+                        -38.205147
+                    ],
+                    [
+                        144.301727,
+                        -38.202709
+                    ],
+                    [
+                        144.303986,
+                        -38.204868
+                    ],
+                    [
+                        144.307739,
+                        -38.204666
+                    ]
+                ]
+            ]
+        ]
+    }
+}

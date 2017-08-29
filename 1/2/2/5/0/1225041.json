@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1225041,
+    "properties": {
+        "woe_id": 1225041,
+        "place_id": "GyU32PWYA54U03r5",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bang Chak, Phra Khanong, Bangkok, TH, Thailand"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292534590,
+        "alpha": 1.0e-5,
+        "points": 17,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5165\/shapefiles\/1225041_20101216_125ab3279a.tar.gz"
+        },
+        "bbox": [
+            100.57931518555,
+            13.701607704163,
+            100.57985687256,
+            13.701827049255
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        100.579315,
+                        13.701764
+                    ],
+                    [
+                        100.57962,
+                        13.701827
+                    ],
+                    [
+                        100.579857,
+                        13.701608
+                    ],
+                    [
+                        100.579369,
+                        13.701654
+                    ],
+                    [
+                        100.579315,
+                        13.701727
+                    ],
+                    [
+                        100.579315,
+                        13.701764
+                    ]
+                ]
+            ]
+        ]
+    }
+}

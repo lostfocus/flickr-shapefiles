@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1097491,
+    "properties": {
+        "woe_id": 1097491,
+        "place_id": "KzT5oHiYAZXhDsq3",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Mount Druitt, Sydney, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292454045,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5164\/shapefiles\/1097491_20101215_aee7601243.tar.gz"
+        },
+        "bbox": [
+            150.81698608398,
+            -33.76978302002,
+            150.82078552246,
+            -33.763717651367
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        150.820404,
+                        -33.769341
+                    ],
+                    [
+                        150.820786,
+                        -33.769783
+                    ],
+                    [
+                        150.820007,
+                        -33.769402
+                    ],
+                    [
+                        150.816986,
+                        -33.766434
+                    ],
+                    [
+                        150.818909,
+                        -33.763718
+                    ],
+                    [
+                        150.820404,
+                        -33.769341
+                    ]
+                ]
+            ]
+        ]
+    }
+}

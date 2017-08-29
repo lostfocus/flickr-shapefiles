@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 1096724,
+    "properties": {
+        "woe_id": 1096724,
+        "place_id": "il0JDzOYAZVqegWF",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Kotara, Newcastle, NSW, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292444755,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5009\/shapefiles\/1096724_20101215_60c2984a0d.tar.gz"
+        },
+        "bbox": [
+            151.71069335938,
+            -32.941665649414,
+            151.71517944336,
+            -32.938674926758
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        151.712173,
+                        -32.941334
+                    ],
+                    [
+                        151.71167,
+                        -32.941666
+                    ],
+                    [
+                        151.710892,
+                        -32.941086
+                    ],
+                    [
+                        151.710693,
+                        -32.940632
+                    ],
+                    [
+                        151.715179,
+                        -32.938675
+                    ],
+                    [
+                        151.712173,
+                        -32.941334
+                    ]
+                ]
+            ]
+        ]
+    }
+}

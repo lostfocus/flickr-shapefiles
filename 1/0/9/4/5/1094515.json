@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 1094515,
+    "properties": {
+        "woe_id": 1094515,
+        "place_id": "15aP7QSYAZW5tzXr",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Bolivar, Adelaide, SA, AU, Australia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458984,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5281\/shapefiles\/1094515_20101216_38eea9242c.tar.gz"
+        },
+        "bbox": [
+            138.59111022949,
+            -34.749378204346,
+            138.59127807617,
+            -34.749176025391
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        138.591156,
+                        -34.749378
+                    ],
+                    [
+                        138.59111,
+                        -34.749378
+                    ],
+                    [
+                        138.59111,
+                        -34.749329
+                    ],
+                    [
+                        138.591278,
+                        -34.749176
+                    ],
+                    [
+                        138.591156,
+                        -34.749378
+                    ]
+                ]
+            ]
+        ]
+    }
+}

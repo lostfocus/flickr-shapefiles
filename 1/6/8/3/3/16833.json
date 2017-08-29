@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 16833,
+    "properties": {
+        "woe_id": 16833,
+        "place_id": ".dA6vPqYB5TZOA",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Coppenhall, Stafford, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543466,
+        "alpha": 1.0e-5,
+        "points": 12,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5083\/shapefiles\/16833_20101216_1e314c963d.tar.gz"
+        },
+        "bbox": [
+            -2.1390030384064,
+            52.772136688232,
+            -2.1354670524597,
+            52.774925231934
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.138145,
+                        52.772289
+                    ],
+                    [
+                        -2.139003,
+                        52.77224
+                    ],
+                    [
+                        -2.138832,
+                        52.772289
+                    ],
+                    [
+                        -2.135467,
+                        52.774925
+                    ],
+                    [
+                        -2.137355,
+                        52.772137
+                    ],
+                    [
+                        -2.138145,
+                        52.772289
+                    ]
+                ]
+            ]
+        ]
+    }
+}
