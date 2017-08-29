@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 40634,
+    "properties": {
+        "woe_id": 40634,
+        "place_id": "lFT3096dAZqcIg",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Windy Nook, Gateshead, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292532459,
+        "alpha": 1.0e-5,
+        "points": 13,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5162\/shapefiles\/40634_20101216_e48d5329a6.tar.gz"
+        },
+        "bbox": [
+            -1.5599720478058,
+            54.942749023438,
+            -1.5580840110779,
+            54.946495056152
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.558084,
+                        54.944225
+                    ],
+                    [
+                        -1.558127,
+                        54.942749
+                    ],
+                    [
+                        -1.558341,
+                        54.944126
+                    ],
+                    [
+                        -1.558427,
+                        54.944386
+                    ],
+                    [
+                        -1.559972,
+                        54.946495
+                    ],
+                    [
+                        -1.558084,
+                        54.944225
+                    ]
+                ]
+            ]
+        ]
+    }
+}

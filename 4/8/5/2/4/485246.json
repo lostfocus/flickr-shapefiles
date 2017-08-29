@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 485246,
+    "properties": {
+        "woe_id": 485246,
+        "place_id": "EAGwkeSdCZmA7mo",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Babice, Warsaw, Masovian, PL, Poland"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292520714,
+        "alpha": 1.0e-5,
+        "points": 7,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5121\/shapefiles\/485246_20101216_311977619b.tar.gz"
+        },
+        "bbox": [
+            20.895860671997,
+            52.267436981201,
+            20.897932052612,
+            52.268001556396
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        20.896191,
+                        52.267574
+                    ],
+                    [
+                        20.895861,
+                        52.268002
+                    ],
+                    [
+                        20.897932,
+                        52.267765
+                    ],
+                    [
+                        20.896393,
+                        52.267437
+                    ],
+                    [
+                        20.896191,
+                        52.267574
+                    ]
+                ]
+            ]
+        ]
+    }
+}
