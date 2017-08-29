@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30687,
+    "properties": {
+        "woe_id": 30687,
+        "place_id": "9e2ZZ5SaAZr04A",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Norton Green, Stoke-on-Trent, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292455744,
+        "alpha": 1.0e-5,
+        "points": 8,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5048\/shapefiles\/30687_20101215_ee4f6e53de.tar.gz"
+        },
+        "bbox": [
+            -2.1609370708466,
+            53.091087341309,
+            -2.1549940109253,
+            53.097682952881
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -2.160937,
+                        53.095997
+                    ],
+                    [
+                        -2.157483,
+                        53.097683
+                    ],
+                    [
+                        -2.154994,
+                        53.094692
+                    ],
+                    [
+                        -2.157826,
+                        53.091087
+                    ],
+                    [
+                        -2.15877,
+                        53.093868
+                    ],
+                    [
+                        -2.160937,
+                        53.095997
+                    ]
+                ]
+            ]
+        ]
+    }
+}

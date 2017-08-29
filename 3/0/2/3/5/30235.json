@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 30235,
+    "properties": {
+        "woe_id": 30235,
+        "place_id": "bFdkTjuaAZ5qGQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Newton Hill, Wakefield, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292538393,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5201\/shapefiles\/30235_20101216_5c9b7b1b74.tar.gz"
+        },
+        "bbox": [
+            -1.5061990022659,
+            53.688385009766,
+            -1.5011999607086,
+            53.692276000977
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -1.505856,
+                        53.688385
+                    ],
+                    [
+                        -1.506199,
+                        53.688702
+                    ],
+                    [
+                        -1.50488,
+                        53.692276
+                    ],
+                    [
+                        -1.5012,
+                        53.689873
+                    ],
+                    [
+                        -1.50489,
+                        53.688728
+                    ],
+                    [
+                        -1.505856,
+                        53.688385
+                    ]
+                ]
+            ]
+        ]
+    }
+}

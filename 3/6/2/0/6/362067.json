@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "id": 362067,
+    "properties": {
+        "woe_id": 362067,
+        "place_id": "1RQR9EiaB56PqpU",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Manrique, Medellin, Antioquia, CO, Colombia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292510406,
+        "alpha": 1.0e-5,
+        "points": 11,
+        "edges": 7,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5081\/shapefiles\/362067_20101216_c7bf43929b.tar.gz"
+        },
+        "bbox": [
+            -75.568725585938,
+            6.2618060112,
+            -75.563194274902,
+            6.2693572044373
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.568726,
+                        6.266349
+                    ],
+                    [
+                        -75.56562,
+                        6.269357
+                    ],
+                    [
+                        -75.564461,
+                        6.267394
+                    ],
+                    [
+                        -75.563515,
+                        6.265197
+                    ],
+                    [
+                        -75.563194,
+                        6.261806
+                    ],
+                    [
+                        -75.567947,
+                        6.264131
+                    ],
+                    [
+                        -75.568726,
+                        6.266349
+                    ]
+                ]
+            ]
+        ]
+    }
+}

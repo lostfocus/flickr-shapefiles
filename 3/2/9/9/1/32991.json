@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 32991,
+    "properties": {
+        "woe_id": 32991,
+        "place_id": "jslRFH2aA5XInQ",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Raynes Park, London, England, GB, United Kingdom"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292458191,
+        "alpha": 1.0e-5,
+        "points": 9,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5166\/shapefiles\/32991_20101216_893e0d9c73.tar.gz"
+        },
+        "bbox": [
+            -0.2294889986515,
+            51.409130096436,
+            -0.22644199430943,
+            51.409698486328
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -0.229489,
+                        51.409473
+                    ],
+                    [
+                        -0.229361,
+                        51.409492
+                    ],
+                    [
+                        -0.22685,
+                        51.409698
+                    ],
+                    [
+                        -0.226442,
+                        51.409538
+                    ],
+                    [
+                        -0.228524,
+                        51.40913
+                    ],
+                    [
+                        -0.229489,
+                        51.409473
+                    ]
+                ]
+            ]
+        ]
+    }
+}

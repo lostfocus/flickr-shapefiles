@@ -1,0 +1,58 @@
+{
+    "type": "Feature",
+    "id": 354088,
+    "properties": {
+        "woe_id": 354088,
+        "place_id": "90ie1xqaBJirlcE",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "El Carmen, Barranquilla, Atlantico, CO, Colombia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292443280,
+        "alpha": 1.0e-5,
+        "points": 5,
+        "edges": 6,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5205\/shapefiles\/354088_20101215_ca8ed9b5e0.tar.gz"
+        },
+        "bbox": [
+            -74.799209594727,
+            10.971021652222,
+            -74.796722412109,
+            10.972874641418
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.797668,
+                        10.972875
+                    ],
+                    [
+                        -74.796722,
+                        10.972454
+                    ],
+                    [
+                        -74.797585,
+                        10.971611
+                    ],
+                    [
+                        -74.79921,
+                        10.971022
+                    ],
+                    [
+                        -74.799042,
+                        10.972791
+                    ],
+                    [
+                        -74.797668,
+                        10.972875
+                    ]
+                ]
+            ]
+        ]
+    }
+}

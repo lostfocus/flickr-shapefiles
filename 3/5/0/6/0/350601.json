@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 350601,
+    "properties": {
+        "woe_id": 350601,
+        "place_id": "rKRdeVeaBJwSV7Y",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "Alcibia, Cartagena, Bolivar, CO, Colombia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292543530,
+        "alpha": 1.0e-5,
+        "points": 6,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5090\/shapefiles\/350601_20101216_4351825d59.tar.gz"
+        },
+        "bbox": [
+            -75.52001953125,
+            10.408130645752,
+            -75.515213012695,
+            10.410157203674
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -75.518646,
+                        10.408131
+                    ],
+                    [
+                        -75.52002,
+                        10.410157
+                    ],
+                    [
+                        -75.51796,
+                        10.409988
+                    ],
+                    [
+                        -75.515213,
+                        10.409481
+                    ],
+                    [
+                        -75.518646,
+                        10.408131
+                    ]
+                ]
+            ]
+        ]
+    }
+}

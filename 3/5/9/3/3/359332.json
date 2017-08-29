@@ -1,0 +1,54 @@
+{
+    "type": "Feature",
+    "id": 359332,
+    "properties": {
+        "woe_id": 359332,
+        "place_id": "Vn7HEWmaBJXHPC4",
+        "place_type": "neighbourhood",
+        "place_type_id": 22,
+        "label": "La Luz, Barranquilla, Atlantico, CO, Colombia"
+    },
+    "geometry": {
+        "type": "MultiPolygon",
+        "created": 1292525010,
+        "alpha": 1.0e-5,
+        "points": 21,
+        "edges": 5,
+        "is_donuthole": 0,
+        "link": {
+            "href": "http:\/\/farm6.static.flickr.com\/5127\/shapefiles\/359332_20101216_b869814b39.tar.gz"
+        },
+        "bbox": [
+            -74.744026184082,
+            10.993165969849,
+            -74.743583679199,
+            10.993305206299
+        ],
+        "coordinates": [
+            [
+                [
+                    [
+                        -74.743584,
+                        10.993305
+                    ],
+                    [
+                        -74.743752,
+                        10.99325
+                    ],
+                    [
+                        -74.744026,
+                        10.993166
+                    ],
+                    [
+                        -74.743805,
+                        10.99325
+                    ],
+                    [
+                        -74.743584,
+                        10.993305
+                    ]
+                ]
+            ]
+        ]
+    }
+}
